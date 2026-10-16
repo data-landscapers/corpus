@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-23-zambia-k22-million-collected-8-councils-electronic-payments-gsb",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "Eight local authorities were onboarded onto the Government Services Bus from June 2026, letting residents and businesses pay property rates, business levies and permits electronically.",
+     "as_of": "2026-06", "date_precision": "month", "system": "Government Services Bus", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "usage", "value": "reported",
+     "fact": "The Ministry of Finance and National Planning is reported to say the Government Services Bus expansion to eight councils facilitated about K21.7 million in revenue within one month of the June 2026 rollout.",
+     "as_of": "2026-07", "date_precision": "month", "system": "Government Services Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Services Bus", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "Ministry of Finance and National Planning", "tiers": "central government; eight local authorities"}
+  ],
+  "note": "The usage month is inferred from 'one month since its rollout in June'; the article is dated 2026-07-23. The figure is revenue, not a count of exchanges."
+}

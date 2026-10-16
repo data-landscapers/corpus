@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "A Ministry of Health and Public Hygiene mission of 17-22 August 2026 reported that the OpenClinic hospital information system, deployed in five health facilities of Mamou and Dalaba (Dalaba prefectural hospital from January 2026) with Enabel's SAFE project, offers interoperability with the national DHIS2, while paper reporting to the SNIS continues in parallel.", "as_of": "2026-08", "date_precision": "month", "system": "OpenClinic", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "Guinea", "class": "exchange", "platform": "OpenClinic", "owner": "Ministry of Health and Public Hygiene; funded by Enabel (SAFE)", "tiers": "5 facilities in Mamou and Dalaba districts"},
+    {"system": "DHIS2", "country_label": "Guinea", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health and Public Hygiene (national system)", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The AfDB board approved EUR 9.51 million for the Project to Support Digitization of the Comorian Economy, which funds an interoperability and data-exchange platform among other components; no build or service status is given.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Interoperability and data-exchange platform (PADEC)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Interoperability and data-exchange platform (PADEC)",
+   "country_label": "Comoros",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Comoros; AfDB-funded",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

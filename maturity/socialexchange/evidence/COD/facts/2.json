@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-04-rdc-decret-registre-social-unique",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "Decree 25/041 of 4 December 2025 creates the Registre Social Unique to pool and harmonise the household targeting systems of social programmes and to centralise beneficiaries' biographic, demographic and biometric data; the summary says it is to be interoperable with other information systems, and the full text is paywalled.", "as_of": "2025-12-04", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "COD", "class": "exchange", "platform": "", "owner": "Comite de pilotage and Unite technique de gestion", "tiers": ""}
+  ],
+  "note": ""
+}

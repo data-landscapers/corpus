@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The implementing researchers and Ministry staff state Togo's ministry has developed an integrated education data system, StatEduc with DHIS2, connecting the Department of Planning, the Examinations Department and the General Inspectorate of Education, improving data sharing; as_of is the page's published year, the document gives no event date.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2-StatEduc integrated EMIS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2-StatEduc integrated EMIS",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "DHIS2 with StatEduc",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  },
+  {
+   "system": "StatEduc",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "StatEduc",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

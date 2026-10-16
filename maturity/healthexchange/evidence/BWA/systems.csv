@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,Master Patient Index,Botswana,exchange,HL7 FHIR,Ministry of Health,,2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
+BWA,Shared Health Record,Botswana,exchange,HL7 FHIR,Ministry of Health,,2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
+BWA,Botswana eHealth Enterprise Architecture,Botswana,other,,Ministry of Health,,2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
+BWA,Health Information Exchange,Botswana,exchange,,Ministry of Health,,2026-04-01-bwa-2026-1100-12244
+BWA,Client Registry,Botswana,exchange,,Ministry of Health,,2026-04-01-bwa-2026-1100-12244
+BWA,Facilities Registry,Botswana,exchange,,Ministry of Health,,2026-04-01-bwa-2026-1100-12244
+BWA,Patient Information Management System,Botswana,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Integrated Patient Management System,Botswana,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,DHIS2,Botswana,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,E Pulse,Botswana,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Electronic Medical Records,Botswana,other,,Ministry of Health,two pilot districts,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Clinic Information Management System,Botswana,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Botswana Health Information Exchange,Botswana,exchange,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Master Patient Index,Botswana,exchange,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Health Information Exchange,Botswana,exchange,,Ministry of Health,,2026-03-05-ministry-of-health-committee-of-supply-speech
+BWA,Centralised Electronic Medical Record,Botswana,other,,Ministry of Health,,2026-03-05-ministry-of-health-committee-of-supply-speech
+BWA,eLMIS,Botswana,other,,Central Medical Stores,,2026-03-05-ministry-of-health-committee-of-supply-speech

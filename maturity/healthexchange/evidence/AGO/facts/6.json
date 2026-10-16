@@ -1,0 +1,15 @@
+{
+ "slug": "2015-05-08-lei-6-15-simplificacao-do-registo-de-nascimento-e-do-registo-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Base de dados do registo civil (national civil registration database)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "The law obliges health units to send birth data to the civil registry within 72 hours, electronically where possible; it names no health information system or exchange in service, and civil registration is not a health system."
+}

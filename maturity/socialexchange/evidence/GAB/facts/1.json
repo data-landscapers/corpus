@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-29-agp-gabon-registre-social-unifie-rsug-premier-livrable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre social unifie du Gabon (RSUG)",
+   "country_label": "Gabon",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere des Affaires sociales",
+   "tiers": ""
+  }
+ ],
+ "note": "Document gives the first deliverable and design intent, but states no link to the ID, a payment provider or another programme."
+}

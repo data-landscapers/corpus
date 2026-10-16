@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-24-getesa-programa-modernizacion-tecnologica-financiera-ia",
+  "facts": [],
+  "systems": [
+    {"system": "sistema biométrico KYC (GETESA)", "country_label": "Guinea Ecuatorial", "class": "", "platform": "", "owner": "GETESA", "tiers": ""}
+  ],
+  "note": "The document says GETESA's plan includes mandatory biometric KYC but does not say it checks people against the national ID."
+}

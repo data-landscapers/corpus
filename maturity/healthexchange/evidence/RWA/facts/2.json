@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-21-rwanda-nhic-health-data-gates",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "KT Press reports that the National Health Intelligence Center centralizes, processes and analyzes health data from hospitals, health centers and community health workers, and in its first year contributed to faster ambulance dispatch and disease surveillance, according to the Ministry of Health.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "National Health Intelligence Center",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health Intelligence Center",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

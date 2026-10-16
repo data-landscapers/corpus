@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  },
+  {
+   "system": "X-Road",
+   "country_label": "Lesotho",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "MOSIP is a biometric ID system, not a relying system; the document states no other system checking people against the ID."
+}

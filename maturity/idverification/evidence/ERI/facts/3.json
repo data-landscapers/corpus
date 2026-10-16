@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-17-eritrea-embassy-national-id",
+  "facts": [],
+  "systems": [
+    {"system": "Eritrean National ID (embassy application via Consular Affairs Processing System)", "country_label": "Eritrea", "class": "other", "platform": "Consular Affairs Processing System (CAPS)", "owner": "Embassy of the State of Eritrea, Washington DC", "tiers": "National ID; Underage ID; Temporary ID"}
+  ],
+  "note": "Describes the ID system's own enrolment and fees; states no other system checking people against the ID."
+}

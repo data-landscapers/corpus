@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-14-schools-told-to-align-courses-with-market-needs",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Education's Permanent Secretary directed institutions under the ministry on 13 July 2026 to fast-track integration of their digital platforms into the Education Sector Management Information System (ESMIS), so enrolment and other statistics need no manual requests.", "as_of": "2026-07-13", "date_precision": "day", "system": "Education Sector Management Information System (ESMIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Sector Management Information System (ESMIS)", "country_label": "Tanzania", "class": "exchange", "platform": "", "owner": "Ministry of Education, Science and Technology", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2021-02-04-mglsd-launch-national-single-registry",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Gender, Labour and Social Development says the National Single Registry, launched on 4 February 2021, consolidates beneficiary information through linkages with programme management information systems and the National ID database, and that its success rests on establishing those linkages and integrations.", "as_of": "2021-02-04", "date_precision": "day", "system": "National Single Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Single Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": ""}
+  ],
+  "note": ""
+}

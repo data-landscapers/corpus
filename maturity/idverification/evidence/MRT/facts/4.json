@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-27-ami-diplomes-nationaux-integres-application-houwiyeti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANRPTS",
+   "tiers": ""
+  },
+  {
+   "system": "National diploma verification via Houwiyeti (Direction des examens et concours)",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Diplomas are integrated into Houwiyeti for verification; that checks documents, not people against the ID, so no fact for this class."
+}

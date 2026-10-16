@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-28-world-bank-realise-p174417-isr-seq9-liberia-household-social-registry",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank status report says enhancements to the social protection system, including the social registry, are ongoing in preparation for integration with other national systems.", "as_of": "2025-07-28", "date_precision": "day", "system": "Liberia Household Social Registry (LHSR)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank report gives 5 social protection programmes (SCT, LIPW, SSB and CLAS) using the Liberia Household Social Registry at 9 June 2025, up from 4 in December 2024, against a target of 6.", "as_of": "2025-06-09", "date_precision": "day", "system": "Liberia Household Social Registry (LHSR)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Liberia Household Social Registry (LHSR)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Social Registry Information System (SRIS)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of of the first fact is the report's archive date, the document giving no date for the statement."
+}

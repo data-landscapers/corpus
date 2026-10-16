@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The brief says examination data (the 2025 Primary Leaving Examination results from the UNEB portal) was integrated into DHIS2-Ed, which also collates the Termly School Report and other datasets, as used by the Makindye Sabagabo municipal education department.", "as_of": "2025", "date_precision": "year", "system": "DHIS2 for Education (DHIS2-Ed)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "linked", "value": "linked", "fact": "The brief says the DHIS2-Ed system was linked to the Ministry of Health's electronic Integrated Disease Surveillance Reporting (eIDSR) platform so both ministries see school-based surveillance indicators; no date given, so the published date of 2026-04-23 is used.", "as_of": "2026-04-23", "date_precision": "day", "system": "DHIS2 for Education (DHIS2-Ed)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2 for Education (DHIS2-Ed) / Termly School Report", "country_label": "Uganda", "class": "exchange", "platform": "DHIS2", "owner": "HISP Uganda with the Ministry of Education and Sports and the Aga Khan Foundation", "tiers": "district and school"},
+    {"system": "National EMIS", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "national"},
+    {"system": "UNEB examination results portal", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Uganda National Examinations Board", "tiers": "national"},
+    {"system": "TELA (teacher effectiveness and learner attendance) system", "country_label": "Uganda", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "eIDSR", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-30-liberia-moe-launches-2025-2026-national-school-census",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census", "country_label": "Liberia", "class": "other", "platform": "school-based collection with digital processing at county data hubs", "owner": "Ministry of Education", "tiers": "national; county data hubs"}
+  ],
+  "note": "The document describes a school census collection and says nothing about data exchange between education systems, a learner identifier or links to the national ID or another sector."
+}

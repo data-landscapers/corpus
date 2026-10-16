@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-educmaster-portail-sige",
+  "facts": [],
+  "systems": [
+    {"system": "EducMaster", "country_label": "Benin", "class": "other", "platform": "web portal with EducMaster-Primaire and EducMaster-Secondaire subsystems", "owner": "Ministries in charge of education", "tiers": "maternal, primary, secondary, technical and vocational"}
+  ],
+  "note": "Describes one EMIS shared by two ministries; no exchange between separate education systems, learner identifier or national ID link is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-09-agp-gabon-task-force-restructuration-cnamgs-interconnexion",
+  "facts": [],
+  "systems": [
+    {"system": "CNAMGS information system", "country_label": "Gabon", "class": "other", "platform": "", "owner": "CNAMGS", "tiers": ""}
+  ],
+  "note": "The reform only plans ('prevoit') interconnection of CNAMGS systems with CNSS, DGI and Tresor public; no link is stated as contracted, being built or in service, so no fact for the exchange ladder."
+}

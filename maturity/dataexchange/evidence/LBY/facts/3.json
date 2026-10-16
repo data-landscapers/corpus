@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "On 8 July 2026 the General Information Authority said its national projects, the Libyan National Data Exchange (LY-NDEX) among them, are a pillar enabling information exchange between government bodies; the story gives no go-live date, connected bodies or figures.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Libyan National Data Exchange (LY-NDEX)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Libyan National Data Exchange (LY-NDEX)",
+   "country_label": "Libya",
+   "class": "exchange",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Libyan Digital National Identity (LY-DNID)",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

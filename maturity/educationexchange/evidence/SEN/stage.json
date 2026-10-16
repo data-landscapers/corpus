@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "4",
+   "exchange": "inservice",
+   "learnerid": "shared",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-001",
+   "gaps": "No source held since October 2023 says learner records are linked to the national ID or another sector.",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

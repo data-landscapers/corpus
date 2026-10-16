@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-09-newvision-emis-rules-mandatory-compliance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS (Education Management Information System)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes EMIS on its own: unique Learner Identification Number assigned within EMIS, mandatory school registration; no exchange with another system or shared learner ID stated."
+}

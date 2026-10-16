@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-mogei-national-education-census-report-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Annual Education Census (AEC) data repository", "country_label": "South Sudan", "class": "other", "platform": "Android tablets and web-based data repository", "owner": "Ministry of General Education and Instruction", "tiers": "school to national"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "Ministry of General Education and Instruction", "tiers": "national"}
+  ],
+  "note": "Describes the digitised school census within the EMIS; no exchange between education systems, learner identifier or link to another sector is stated (capture truncated in the Executive Summary)."
+}

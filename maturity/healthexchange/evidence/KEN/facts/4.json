@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-04-health-cs-duale-dismisses-claims-ksh-1-2b-sha-funds-paid-to-private-firm",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Health CS Aden Duale said the national digital health system, which the Social Health Insurance Act requires to run member registration, pre-authorisation and claims through a secure and interoperable digital platform, is being implemented under a government contract with the Safaricom Consortium.", "as_of": "2026-08-04", "date_precision": "day", "system": "Health Information Management Service (HIMS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Health Information Management Service (HIMS)", "country_label": "Kenya", "class": "exchange", "platform": "Safaricom Consortium contract", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Social Health Authority claims system", "country_label": "Kenya", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-15-nigeria-national-database-still-fragmented",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NIMC authentication platform (NIN)",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "NIN",
+      "owner": "NIMC",
+      "tiers": "national"
+    }
+  ],
+  "note": "Same Vanguard account as n=8 in shorter form; identity linkage, no exchange platform named."
+}

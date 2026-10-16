@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-egypt-sim-reverification-operators-prosecution",
+  "facts": [],
+  "systems": [
+    {"system": "SIM registration (mobile operators, corporate registration systems)", "country_label": "Egypt", "class": "relying", "platform": "operators' registration systems and mobile apps", "owner": "four mobile operators under NTRA", "tiers": ""}
+  ],
+  "note": "States SIM re-verification and biometric tools in operator apps but does not say lines are checked against the national ID."
+}

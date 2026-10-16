@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-13-liberia-great-project-procurement-plan",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The GREAT Project procurement plan (Ministry of Finance and Development Planning, World Bank) lists a consultancy to design, install and configure a Government Service Bus prototype, the firm package marked cancelled and an individual-consultant package of US$50,000 marked pending implementation with terms of reference planned for 2026-02-25.",
+     "as_of": "2026-02-13", "date_precision": "day", "system": "Government Service Bus (GSB)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus (GSB)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "Ministry of Finance and Development Planning (GREAT Project)", "tiers": ""},
+    {"system": "National Data Center shared digital infrastructure", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Finance and Development Planning (GREAT Project)", "tiers": ""}
+  ],
+  "note": ""
+}

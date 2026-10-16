@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-14-world-bank-isr-togo-basic-education-p172674",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank mission noted a non-appropriation of the project of interconnectivity of platforms and databases for more efficient education system management, under the basic education project P172674.", "as_of": "2025-01", "date_precision": "month", "system": "interconnectivity of platforms and databases project", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS) prototype", "country_label": "Togo", "class": "other", "platform": "", "owner": "Ministry of Primary, Secondary, and Technical Education and Crafts", "tiers": ""},
+    {"system": "Human Resources Management Information System (HRMIS)", "country_label": "Togo", "class": "other", "platform": "", "owner": "Ministry of Primary, Secondary, and Technical Education and Crafts", "tiers": ""},
+    {"system": "interconnectivity of platforms and databases project", "country_label": "Togo", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

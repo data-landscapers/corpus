@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie",
+  "facts": [],
+  "systems": [
+    {"system": "SEN-CSU platform", "country_label": "Senegal", "class": "other", "platform": "", "owner": "SEN-CSU (Agence sénégalaise de la Couverture Sanitaire Universelle)", "tiers": ""},
+    {"system": "SENUM national portal / Espaces Sénégal Services", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": ""}
+  ],
+  "note": "Convention (2026-07) to interconnect the SEN-CSU platform with SENUM's national public-services portal for CSU enrolment; the portal is not a health information system and no health-to-health exchange is described, so no fact."
+}

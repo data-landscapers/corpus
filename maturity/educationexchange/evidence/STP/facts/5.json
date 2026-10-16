@@ -1,0 +1,8 @@
+{
+  "slug": "2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (SIGE, Sistema de Gestão Escolar)", "country_label": "São Tomé and Príncipe", "class": "other", "platform": "online platform connecting schools to DPEI", "owner": "Ministry of Education, Directorate of Planning and Education Innovation (DPEI)", "tiers": "central and school level"}
+  ],
+  "note": "The ICR (2019) describes the national EMIS (SIGE) as a school-to-ministry data-capture system and states no link, exchange or shared learner identifier with the examinations body, payroll, learner registration or national ID; EMIS alone is class other."
+}

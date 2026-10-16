@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-12-gabon-registre-social-unique-banque-mondiale",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "Gabon",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere des Affaires sociales",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states aims (integrated database, avoiding duplicate aid) but no link to the ID, a payment provider or another programme, and no programme drawing on it."
+}

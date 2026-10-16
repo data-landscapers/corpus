@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-papss-security-data-governance-dailycircular",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+}

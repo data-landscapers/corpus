@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-ago-pti-interoperabilidade-13-milhoes",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Presidential Despacho 344/26 of 27 August 2026 authorised USD 13 million to acquire and implement the Plataforma de Interoperabilidade da Administracao Publica, a secure data exchange channel and API layer between state and private-sector systems, and ordered a public tender for its implementation.", "as_of": "2026-08-27", "date_precision": "day", "system": "Plataforma de Interoperabilidade da Administracao Publica", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade da Administracao Publica", "country_label": "Angola", "class": "exchange", "platform": "service bus and interoperability intermediation layer, data held at source", "owner": "Instituto de Modernizacao Administrativa (IMA) under PADA", "tiers": ""},
+    {"system": "Janela Unica de Prestacao nao Presencial de Servicos Publicos", "country_label": "Angola", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-21-ict-go-ug-pdmis-parish-development-model-digitization",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Ministry of ICT and National Guidance says PDMIS verifies all beneficiary National Identification Numbers against the NIRA database, and holds over 8 million household records, about 79% of households; as_of is the published date, the document giving no event date.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "Parish Development Model Information System (PDMIS)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Parish Development Model Information System (PDMIS)",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "NIISP",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  },
+  {
+   "system": "NIRA national ID database",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

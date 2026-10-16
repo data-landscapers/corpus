@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-18-gin-guinee114-atelier-extension-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ONECI and DGE under MATD", "tiers": ""},
+    {"system": "plateforme de vérification et de validation de l'identité", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ONECI and DGE under MATD", "tiers": ""}
+  ],
+  "note": "The document describes the RNPP extension and an identity verification platform being set up by the ID bodies, with no other system named as checking against the ID."
+}

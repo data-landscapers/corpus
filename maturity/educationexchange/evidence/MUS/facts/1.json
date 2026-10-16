@@ -1,0 +1,8 @@
+{
+  "slug": "2022-09-01-mus-openemis-capacity-building-in-mauritius",
+  "facts": [],
+  "systems": [
+    {"system": "OpenEMIS Cloud Edition", "country_label": "Mauritius", "class": "other", "platform": "OpenEMIS", "owner": "Ministry of Education, Tertiary Education, Science and Technology", "tiers": "national;zonal;school"}
+  ],
+  "note": "Training on OpenEMIS administration; states no data exchange between education systems, no learner identifier and no national ID link."
+}

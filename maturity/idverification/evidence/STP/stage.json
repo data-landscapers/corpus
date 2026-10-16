@@ -1,0 +1,17 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "no evidence",
+   "use": "",
+   "sectors": "",
+   "usage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names another system checking people against the national ID, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

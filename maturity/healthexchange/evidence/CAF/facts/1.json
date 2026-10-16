@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-26-dhis2-community-snis-reconstruction-rca",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (SNIS national platform)", "country_label": "Central African Republic", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health and Population", "tiers": "central, regional, district"}
+  ],
+  "note": "Describes DHIS2 as the single national HMIS across 35 districts; no exchange with another system is stated."
+}

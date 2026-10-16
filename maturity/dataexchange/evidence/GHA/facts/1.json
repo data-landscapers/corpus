@@ -1,0 +1,16 @@
+{
+  "slug": "2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none",
+     "fact": "DIAL says Ghana's national data-exchange hub (eGIF, launched 2009) stalled on funding and unclear mandates, and that in its absence the Ghana.gov payments portal became the de facto vehicle for streamlining data exchange.",
+     "as_of": "2022", "date_precision": "year", "system": "eGIF national data-exchange hub", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "DIAL says the Ministry of Communications and Digitalisation re-issued bids for a National Data Exchange Hub in 2019 and 2022, with status unclear.",
+     "as_of": "2022", "date_precision": "year", "system": "National Data Exchange Hub", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "eGIF national data-exchange hub", "country_label": "Ghana", "class": "exchange", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""},
+    {"system": "Ghana.gov", "country_label": "Ghana", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

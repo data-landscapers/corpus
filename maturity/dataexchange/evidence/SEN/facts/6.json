@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-04-senegal-new-deal-technologique-wsis-session",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "A government presenter at the WSIS Forum 2026 session said the X-Road based interoperability platform PINs has had an MVP 1.0 launched with two use cases, social protection and public finance; the document gives no launch date, so its published date is used.", "as_of": "2026-09-04", "date_precision": "day", "system": "PINs", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "PINs", "country_label": "Senegal", "class": "exchange", "platform": "X-Road", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

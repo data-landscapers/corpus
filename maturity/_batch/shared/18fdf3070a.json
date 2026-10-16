@@ -1,0 +1,41 @@
+{
+ "slug": "2026-02-05-rca-mepci-dunia-digitalisation-effective",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Dunia platform",
+       "country_label": "Central African Republic",
+       "class": "",
+       "platform": "modular ERP-like administrative platform",
+       "owner": "MEPCI-RCA with EDEN TiiiT",
+       "tiers": ""
+      }
+     ],
+     "note": "Dunia is a ministry staff platform (data migration, training, mandatory use); the document describes no exchange between public bodies' systems."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Dunia platform",
+       "country_label": "Central African Republic",
+       "class": "",
+       "platform": "modular ERP-like administrative platform",
+       "owner": "MEPCI-RCA with EDEN TiiiT",
+       "tiers": ""
+      }
+     ],
+     "note": "No national ID check by another system is stated."
+    }
+   }
+  }
+ }
+}

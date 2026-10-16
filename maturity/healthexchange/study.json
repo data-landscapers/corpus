@@ -1,0 +1,116 @@
+{
+ "id": "healthexchange",
+ "study_file": "maturity-study-healthexchange.md",
+ "pass": "first",
+ "subjects": [
+  "dpi.exchange",
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.exchange",
+ "redraws": [
+  "dpi.exchange--interoperability-of-health-systems"
+ ],
+ "carry": [
+  "dpi.exchange--interoperability-of-health-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "health information exchange",
+  "HIE",
+  "health data exchange",
+  "OpenHIE",
+  "OpenHIM",
+  "HL7",
+  "FHIR",
+  "client registry",
+  "master patient index",
+  "shared health record",
+  "unique health identifier",
+  "unique patient identifier",
+  "health ID",
+  "health interoperability",
+  "interoperability of health",
+  "health systems interoperability",
+  "interoperable health",
+  "integrated health information",
+  "interopérabilité des systèmes de santé",
+  "interopérabilité en santé",
+  "échange de données de santé",
+  "identifiant unique du patient",
+  "identifiant unique de santé",
+  "dossier patient partagé",
+  "interoperabilidade em saúde",
+  "interoperabilidade dos sistemas de saúde",
+  "identificador único do utente",
+  "تبادل المعلومات الصحية",
+  "الربط البيني الصحي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "exchange",
+   "label": "Interoperability of health systems",
+   "subject": "dpi.exchange",
+   "text": "Interoperability of health systems: interoperability of health systems",
+   "indicator_id": "dpi.exchange--interoperability-of-health-systems-interoperability-of-health-systems",
+   "class": "exchange",
+   "norm_short": "Africa CDC's health information exchange guidelines and Smart Africa's digital health blueprint ask for a national exchange policy, common standards and identifiers, then exchanges in service across the health system.",
+   "criteria": [
+    "A source from the past three years says the country's health systems do not exchange data.",
+    "An exchange between health systems is contracted, being built or piloted, or a health information exchange is being set up.",
+    "Two or more health systems exchange data in routine use, such as the HMIS with patient records, a laboratory or supply-chain system.",
+    "Three or more health systems exchange data, or a national health information exchange is in service.",
+    "Patient records are linked across systems through the national ID or a national unique health identifier."
+   ],
+   "criteria_of": "775a68e4a88f"
+  }
+ ],
+ "classes": [
+  "exchange",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "exchange",
+   "name": "Health systems exchanging data",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "breadth",
+   "name": "Exchange across the health system",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "wide"
+   ],
+   "values": [
+    "wide"
+   ]
+  },
+  {
+   "key": "identifier",
+   "name": "Patients matched by a national identifier",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

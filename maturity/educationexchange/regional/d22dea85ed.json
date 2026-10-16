@@ -1,0 +1,77 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "countries": {
+  "GMB": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "EMIS",
+     "country_label": "The Gambia",
+     "class": "other",
+     "platform": "",
+     "owner": "Ministry of Basic and Secondary Education",
+     "tiers": "individual-level learner and teacher data"
+    }
+   ],
+   "note": "Individual-level data integrated in the EMIS; no exchange between two systems or learner ID stated."
+  },
+  "SLE": {
+   "facts": [
+    {
+     "sub_indicator": "exchange",
+     "aspect": "exchange",
+     "value": "underway",
+     "fact": "The document says Sierra Leone is integrating multiple data systems into a national data warehouse; the systems are not named.",
+     "as_of": "2025-02",
+     "date_precision": "month",
+     "system": "national data warehouse",
+     "class": "exchange"
+    }
+   ],
+   "systems": [
+    {
+     "system": "national data warehouse",
+     "country_label": "Sierra Leone",
+     "class": "exchange",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    },
+    {
+     "system": "digital Master Schools List",
+     "country_label": "Sierra Leone",
+     "class": "other",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "As_of is the February 2025 exchange meeting; the document gives no other date."
+  },
+  "SWZ": {
+   "facts": [
+    {
+     "sub_indicator": "exchange",
+     "aspect": "linked",
+     "value": "linked",
+     "fact": "The document says Eswatini's EMIS is driven by the Personal Identity Number, with individual-level learner and staff records, since national launch in March 2024 across all 976 primary and secondary schools; schools still submit PINs manually on claim forms for validation against Home Affairs records at regional offices, to be automated with SEMIS.",
+     "as_of": "2024-03",
+     "date_precision": "month",
+     "system": "EMIS (SEMIS)",
+     "class": "exchange"
+    }
+   ],
+   "systems": [
+    {
+     "system": "EMIS (SEMIS)",
+     "country_label": "Eswatini",
+     "class": "exchange",
+     "platform": "",
+     "owner": "Ministry of Education and Training",
+     "tiers": "976 primary and secondary schools"
+    }
+   ],
+   "note": ""
+  }
+ }
+}

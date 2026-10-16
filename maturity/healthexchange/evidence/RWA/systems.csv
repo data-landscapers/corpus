@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,National Health Intelligence Center,Rwanda,exchange,secure data warehouse,Ministry of Health,,2026-07-23-tbi-rwanda-health-data
+RWA,Integrated Health Management Information System,Rwanda,other,,King Faisal Hospital Rwanda,,2026-07-23-tbi-rwanda-health-data
+RWA,e-Buzima,Rwanda,other,,Ministry of Health,,2026-07-23-tbi-rwanda-health-data
+RWA,National Health Intelligence Center,Rwanda,exchange,,Ministry of Health,,2026-07-21-rwanda-nhic-health-data-gates
+RWA,National Health Intelligence Center,Rwanda,exchange,,Rwanda Biomedical Centre,,2026-04-13-rbc-nhic-pandemic-fund-board-visit
+RWA,IMPURUZA,Rwanda,other,,Rwanda Biomedical Centre,,2026-04-13-rbc-nhic-pandemic-fund-board-visit
+RWA,Laboratory information systems,Rwanda,other,,,,2026-04-13-rbc-nhic-pandemic-fund-board-visit
+RWA,eBuzima,Rwanda,other,centralized web-based EMR,Rwanda Biomedical Centre / Ministry of Health,,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,DHIS2,Rwanda,other,,,,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,OpenMRS,Rwanda,other,,,,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,OpenClinic,Rwanda,other,,,,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,Health Intelligence Center,Rwanda,exchange,six-layer architecture with data lakehouse,Ministry of Health,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,DHIS2,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,eBuzima,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,cEMR,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,CRVS,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,eLMIS,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,WelTel,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Health Workforce Management System,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch

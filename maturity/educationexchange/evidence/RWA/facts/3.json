@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-rwanda-education-sector-strategic-plan-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (integrated EMIS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "MINEDUC", "tiers": ""},
+    {"system": "School Data Management Information System (SDMIS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Comprehensive Assessment Management Information System (CAMIS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Teaching and Learning Materials Management Information System (TLM-MIS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "EBMIS", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "University of Rwanda", "tiers": ""}
+  ],
+  "note": "Plan describes fragmented systems and a planned integrated EMIS; no link in service, contracted or piloted is stated, and it does not say they exchange no data."
+}

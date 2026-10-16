@@ -1,0 +1,16 @@
+{
+  "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The ministry (MPTEN) says Congo is committing to develop a national digital architecture whose interoperability layer, X-Road, is to link the information systems of the Interior, Justice, Finance, Health and Higher Education ministries, with no stated go-live or connection count; the page has no date, so 2026-09 is its published date.",
+     "as_of": "2026-09", "date_precision": "month", "system": "X-Road (interoperability layer of the national DPI architecture)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "X-Road (interoperability layer of the national DPI architecture)", "country_label": "Congo", "class": "exchange", "platform": "X-Road", "owner": "MPTEN", "tiers": "federated exchange between ministries"},
+    {"system": "MOSIP (digital identity layer)", "country_label": "Congo", "class": "other", "platform": "MOSIP", "owner": "MPTEN", "tiers": ""},
+    {"system": "Mojaloop (national payments switch)", "country_label": "Congo", "class": "other", "platform": "Mojaloop", "owner": "MPTEN with BEAC supervision", "tiers": ""},
+    {"system": "Data Center National", "country_label": "Congo", "class": "other", "platform": "", "owner": "MPTEN", "tiers": ""},
+    {"system": "Portail e-Citizen", "country_label": "Congo", "class": "other", "platform": "", "owner": "MPTEN", "tiers": ""}
+  ],
+  "note": ""
+}

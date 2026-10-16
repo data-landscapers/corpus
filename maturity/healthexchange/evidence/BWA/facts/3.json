@@ -1,0 +1,92 @@
+{
+ "slug": "2025-11-20-motshegwa-medicine-shortage-rural-health-digital",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "The Minister of Local Government told Parliament that the Patient Information Management System, Integrated Patient Management System, DHIS2 and E Pulse are active but not interfaced to permit data sharing across all health facilities.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "PIMS, IPMS, DHIS2, E Pulse",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The minister said an Electronic Medical Records system is being piloted in two districts and, with the Clinic Information Management System, will link to the Botswana Health Information Exchange supporting a Master Patient Index across public and private facilities.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "Botswana Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Patient Information Management System",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Patient Management System",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E Pulse",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Medical Records",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "two pilot districts"
+  },
+  {
+   "system": "Clinic Information Management System",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Botswana Health Information Exchange",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Master Patient Index",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

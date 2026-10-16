@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Gabon Media Time reports Gabon adopted the DHIS2 Tracker, which lets health establishments enter patient-level information before its integration into the national DHIS2 system, after a preparatory phase with trainer training and real-conditions tests in several facilities, with extension to four health districts by September 2026 and progressive national generalisation in 2027.",
+     "as_of": "2026-06-18", "date_precision": "day",
+     "system": "DHIS2 Tracker", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2 Tracker", "country_label": "Gabon", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health, with WHO technical support", "tiers": "health establishments to national DHIS2"},
+    {"system": "National DHIS2", "country_label": "Gabon", "class": "", "platform": "DHIS2", "owner": "", "tiers": "national"}
+  ],
+  "note": "as_of is the article's published date, as it gives no date for the adoption."
+}

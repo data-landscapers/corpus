@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-south-sudan-dhis2-climate-and-health-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "South Sudan", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "FLLOW-M dashboard", "country_label": "South Sudan", "class": "other", "platform": "DHIS2 custom application", "owner": "HISP Tanzania, Malaria Consortium, National Malaria Control Programme", "tiers": "national"}
+  ],
+  "note": "Describes a dashboard and climate data feeds within one system, the national DHIS2; it states no exchange between health systems."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-03-seychelles-national-addressing-system-bill-cabinet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Addressing System (National Addressing Database Unit)",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "National Addressing Department",
+   "tiers": ""
+  }
+ ],
+ "note": "Cabinet approved an addressing system bill with a database unit; an addressing framework, not a data exchange platform between public bodies' systems."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-30-sudan-pm-ai-bachelor-directive-hospital-digitisation",
+  "facts": [],
+  "systems": [
+    {"system": "electronic medical records management system (hospital digitisation, pilot at Soba University Hospital and Gedaref Hospital)", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation and Communications with Ministry of Health", "tiers": "hospital"}
+  ],
+  "note": "The hospital directive describes an electronic medical-records system and information flow inside health institutions, not data passing between health systems."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Bank of Algeria governor Lebbou announced a binding KYC instruction for all banks, to identify and verify clients' identity, due in the days after the article; the article does not name the national ID.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "KYC (Know Your Customer) instruction",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank KYC customer identity verification",
+   "country_label": "Algeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Bank of Algeria; banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

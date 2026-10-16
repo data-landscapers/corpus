@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-07-swz-times-enpf-express-claims-payment-gateway",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ENPF KYC verification",
+   "country_label": "Eswatini",
+   "class": "",
+   "platform": "",
+   "owner": "Eswatini National Provident Fund",
+   "tiers": ""
+  }
+ ],
+ "note": "ENPF KYC is described, but the story does not say it checks members against a national ID."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The COMESA IDEA report says evaluation of the Government Service Bus redesign and re-engineering procurement in Zambia is complete and under World Bank review, and three consultants have been engaged to assess GSB operations, governance, technical capacity and infrastructure.", "as_of": "2026-06", "date_precision": "month", "system": "Government Service Bus (GSB)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus (GSB)", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "Smart Zambia Institute", "tiers": ""}
+  ],
+  "note": "Other IDEA countries (Malawi, Angola) name exchange platforms but this call answers for ZMB only; Zambia's section does not say the GSB is live, count its connections or give usage figures. as_of is the end of the January-June 2026 reporting period."
+}

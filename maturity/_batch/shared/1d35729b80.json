@@ -1,0 +1,30 @@
+{
+  "slug": "2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "AGO": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+             "fact": "On 2026-06-17 the IMA and TIS Tech Angola signed a 12-month, USD 150 million contract for the Digitais Publicas project, whose critical computing component will support the public-sector interoperability platform so systems of different public services can exchange data.",
+             "as_of": "2026-06-17", "date_precision": "day",
+             "system": "Projecto de Infra-estruturas Digitais Publicas (plataforma de interoperabilidade)", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "Projecto de Infra-estruturas Digitais Publicas (plataforma de interoperabilidade)", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "Instituto de Modernizacao Administrativa (IMA)", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "AGO": {
+          "facts": [],
+          "systems": [],
+          "note": "The story names digital identity only as an aim of the project; it states no system that checks people against the national ID."
+        }
+      }
+    }
+  }
+}

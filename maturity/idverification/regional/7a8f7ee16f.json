@@ -1,0 +1,38 @@
+{
+ "slug": "2026-09-14-gsma-refugee-women-digital-inclusion-biometricupdate",
+ "countries": {
+  "ETH": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "SIM card registration",
+     "country_label": "Ethiopia",
+     "class": "",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "SIM registration needs ID documents that refugee women often lack; the story does not say a check against the national ID."
+  },
+  "TZA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "SIM card registration",
+     "country_label": "Tanzania",
+     "class": "",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "SIM registration needs ID documents that refugee women often lack; the story does not say a check against the national ID."
+  },
+  "UGA": {
+   "facts": [],
+   "systems": [],
+   "note": "Only internet use by refugee women is given; no system checking against the national ID."
+  }
+ }
+}

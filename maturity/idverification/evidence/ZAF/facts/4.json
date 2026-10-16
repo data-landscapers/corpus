@@ -1,0 +1,5 @@
+{"slug":"2025-06-23-dha-npr-verification-service-pricing-correction","facts":[
+{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"Home Affairs says it has provided the Online Verification System since 2013, letting registered third parties such as banks and financial service providers check clients' identities against the National Population Register.","as_of":"2013","date_precision":"year","system":"Online Verification System (OVS)","class":"relying"},
+{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"Home Affairs says an upgraded OVS rolls out to all companies and government users from 1 July 2025, with a failure rate below 1% against more than 50% before, at R10 real-time and R1 batch.","as_of":"2025-06-23","date_precision":"day","system":"Online Verification System (OVS)","class":"relying"}],
+"systems":[{"system":"Online Verification System (OVS)","country_label":"South Africa","class":"relying","platform":"National Population Register","owner":"Department of Home Affairs","tiers":""}],
+"note":"Second fact dated to the published date, a proxy; the body dates the rollout to 1 July 2025."}

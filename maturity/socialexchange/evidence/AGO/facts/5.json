@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-angop-angola-lanca-cadastro-social-unico-gestao-de-accoes-sociais",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "MASFAMU launched the Cadastro Social Único on 20 July 2026 and says it will allow articulation between social programmes, local administration, civil registries, public institutions and sectoral databases.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único (CSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "Angola",
+   "class": "exchange",
+   "platform": "CSU platform",
+   "owner": "MASFAMU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

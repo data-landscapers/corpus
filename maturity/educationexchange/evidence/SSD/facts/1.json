@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-24-au-iped-emis-reform-costed-action-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "Ministry of General Education and Instruction", "tiers": "national, state, school"}
+  ],
+  "note": "States the EMIS is largely manual, fragmented with limited integration and limited interoperability, but names no link in service, under way or absent between education systems; the EMIS alone is class other."
+}

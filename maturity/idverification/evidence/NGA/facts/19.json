@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-30 Nigeria to launch NGDX, unified data exchange, by end of 2025 (NITDA)",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Data Exchange Platform (NGDX)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "NITDA with the Ministry of Communications, Innovation and Digital Economy", "tiers": ""}
+  ],
+  "note": "NGDX is described as a data-sharing platform across NIN, BVN, SIM and passport records, scheduled for end 2025; it does not state any system checking people against the NIN."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-03-14-wb-dji-007-djibouti-integrated-community-resilience-project",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank's record of the US$31 million Integrated Community Resilience Project, approved 14 March 2025, funds a component scaling Djibouti's national Social Registry (515,730 people registered as of February 2025, target 600,000) with an ANSIE interoperability upgrade.",
+     "as_of": "2025-03-14", "date_precision": "day", "system": "Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Social Registry", "country_label": "Djibouti", "class": "exchange", "platform": "", "owner": "Ministry of Social Affairs and Solidarities (MASS)", "tiers": ""},
+    {"system": "ANSIE", "country_label": "Djibouti", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

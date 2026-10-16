@@ -1,0 +1,13 @@
+{
+  "slug": "2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The authors, from interviews in June 2023, state that although the three outbreak surveillance tools (DHIS2, MAGPI and SORMAS) are designed to allow interoperability, there is no data exchange and consolidation presently in place between them.", "as_of": "2023-06", "date_precision": "month", "system": "DHIS2; MAGPI; SORMAS", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The authors state that MAGPI is the only surveillance system in Côte d'Ivoire currently linked with the laboratories where samples are analysed (SORMAS has the function but it was not used), per interviews in June 2023.", "as_of": "2023-06", "date_precision": "month", "system": "MAGPI", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Côte d'Ivoire", "class": "other", "platform": "DHIS2", "owner": "Direction de l'Informatique et de l'Information Sanitaire (Ministry of Health)", "tiers": "all 33 sanitary regions and 113 districts"},
+    {"system": "MAGPI", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Institut National d'Hygiène Publique", "tiers": "all 33 regions and 113 districts"},
+    {"system": "SORMAS", "country_label": "Côte d'Ivoire", "class": "other", "platform": "SORMAS", "owner": "Institut National d'Hygiène Publique", "tiers": "pilot in 2 regions and 11 districts, from July-August 2021 to June 2023"}
+  ],
+  "note": ""
+}

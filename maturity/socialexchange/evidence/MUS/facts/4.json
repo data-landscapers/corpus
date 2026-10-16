@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-social-integration-division-annual-report",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The Social Integration Division reports that for FY2024-2025 7,336 households (28,722 beneficiaries) eligible on the SRM drew the Subsistence Allowance and other schemes (crèche allowance, diaper grant, school materials grant, tertiary fee waiver).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Social Register of Mauritius (SRM)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Register of Mauritius (SRM)",
+   "country_label": "Mauritius",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Social Integration Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

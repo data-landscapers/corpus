@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,MOHIM (Morocco Health Interoperability and Maturity Lab) / CI-SIS Morocco,Morocco,other,"HL7 FHIR, DICOM, SNOMED CT profiles; IHE Gazelle test suite","Center for e-Health Innovation (CIeS), Mohammed V University, with the Ministry of Health and Social Protection",,2026-05-14-mohim-project-interoperability-digital-health-africa
+MAR,DHIS2,Morocco,other,DHIS2 (PostgreSQL database),Ministere de la Sante et de la Protection Sociale (MSPS),national,2026-08-10-morocco-dhis2-health-data-audit

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The New Times reports that, according to RISA, the existing Data Sharing Platform serves as an interim system for data governance, data discovery and access.", "as_of": "2026-10-02", "date_precision": "day", "system": "Data Sharing Platform", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The New Times reports that, according to RISA, the Shared Government Data Hub and a Data Interoperability Platform are being worked on, with the Data Hub moving into implementation.", "as_of": "2026-10-02", "date_precision": "day", "system": "Shared Government Data Hub", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Data Sharing Platform", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "RISA oversees infrastructure and platforms used for data sharing", "tiers": ""},
+    {"system": "Shared Government Data Hub", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "RISA", "tiers": ""},
+    {"system": "Data Interoperability Platform", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "RISA", "tiers": ""}
+  ],
+  "note": ""
+}

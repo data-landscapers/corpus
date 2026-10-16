@@ -1,0 +1,17 @@
+{
+ "iso3": "CAF",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "2",
+   "exchange": "underway",
+   "registry": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CAF-001;CAF-002",
+   "gaps": "No source held since October 2023 says a registry or programme exchanges data in use.",
+   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+  }
+ ]
+}

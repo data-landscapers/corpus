@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-11-hisp-rwanda-mineduc-education-data-partnership",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "HISP Rwanda reports a technical assistance mission with MINEDUC and partners focused on strengthening integration across SDMS, SEMIS and partner platforms, alongside the DHIS2-based student absence tracking system.", "as_of": "2026-02-11", "date_precision": "day", "system": "SDMS, SEMIS and partner platforms integration", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "SDMS", "country_label": "Rwanda", "class": "", "platform": "", "owner": "MINEDUC", "tiers": ""},
+    {"system": "SEMIS", "country_label": "Rwanda", "class": "", "platform": "DHIS2", "owner": "MINEDUC", "tiers": ""},
+    {"system": "DHIS2-based student absence tracking system", "country_label": "Rwanda", "class": "other", "platform": "DHIS2", "owner": "MINEDUC", "tiers": ""}
+  ],
+  "note": ""
+}

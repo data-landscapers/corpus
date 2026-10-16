@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-26-sylvia-blyden-kyc-enforcement-mobile-money-fraud",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Commentator Sylvia Blyden states that KYC laws require mobile money users' National Identification Number and colour photograph to be linked to their phone numbers in a database accessible to the Bank of Sierra Leone, which operators must update at least twice a week; she says the problem is enforcement.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "Mobile money KYC database",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money KYC database",
+   "country_label": "Sierra Leone",
+   "class": "relying",
+   "platform": "Orange Money; AfriMoney",
+   "owner": "Bank of Sierra Leone (regulator); mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": "Fact is a commentator's account of what the law requires; no date for the stated thing, published date used."
+}

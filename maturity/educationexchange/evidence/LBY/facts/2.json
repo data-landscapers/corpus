@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-29-lby-open-emis",
+  "facts": [],
+  "systems": [
+    {"system": "OpenEMIS", "country_label": "Libya", "class": "other", "platform": "OpenEMIS", "owner": "Information and Documentation Centre, Ministry of Education, with UNICEF", "tiers": ""}
+  ],
+  "note": "Workshop on localising OpenEMIS; it states no exchange with another education system, learner identifier or link to national ID or another sector."
+}

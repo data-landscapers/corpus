@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID records migrating to MOSIP",
+   "country_label": "SLE",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers the ID system's own migration to MOSIP; no other system's check against the ID is stated."
+}

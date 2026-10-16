@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-14-mrt-arrete-1496-systeme-regional-sante-snis-collecte-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "SNIS (Système National d'Information Sanitaire)", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Ministère de la Santé", "tiers": "national; regional (DRS); circonscription sanitaire"}
+  ],
+  "note": "The arrete assigns routine SNIS data collection and reporting duties to regional and district services; it states no exchange between health systems."
+}

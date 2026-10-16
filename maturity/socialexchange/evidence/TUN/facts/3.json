@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-tun-khadamet-radioexpressfm",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Per the ministry's Ahmed Megdich, the first version of Khadamet gives secured access via digital identity to CNAM reimbursement tracking and CNSS services.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Khadamet",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamet",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "mobile app, digital identity login",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

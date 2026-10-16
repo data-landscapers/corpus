@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-08-fdsi-rapport-analyse-registre-social-unifie",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The FDSI director general said on 8 July 2026 that RSU data have been used by the ANIES and IMF Guichet Choc Alimentaire project, by UNICEF to follow malnourished children and by SOS Villages d'Enfants for family-strengthening, and that the RSU is the single entry point of social interventions under its decree.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The FDSI director general said RSU data have already served as the beneficiary base for the ANIES and IMF Guichet Choc Alimentaire project, among other partnerships.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "UNICEF's representative said the RSU report is a step towards a progressively built integrated register of persons to be interoperable with other government databases and linkable to a unique national identification number.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Guinea",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Fonds de Développement Social et de l'Indigence (FDSI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

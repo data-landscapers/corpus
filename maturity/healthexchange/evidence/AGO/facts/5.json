@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-01-gavi-programme-audit-report-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IOTA",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "MoH",
+   "tiers": ""
+  }
+ ],
+ "note": "Audit says IOTA was not entirely integrated into the MoH operational framework; that is not an exchange between health systems. Stored body is an excerpt."
+}

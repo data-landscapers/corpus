@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,exchange,exchange,coverage,underway,2026-08-12,MOZ-001;MOZ-002;MOZ-003;MOZ-004,,
+MOZ,exchange,registry,coverage,,,,,nothing held
+MOZ,exchange,linked,coverage,,,,,nothing held

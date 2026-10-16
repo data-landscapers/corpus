@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "URA's Christine Mirembe said government will phase out the TIN for individuals and replace it with the NIN, and that banks and microfinance institutions will be able to use the NIN to verify a trader's tax compliance history.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "URA taxpayer register linked to the National ID (NIN)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA taxpayer register linked to the National ID (NIN)",
+   "country_label": "Uganda",
+   "class": "relying",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "National ID (NIRA)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

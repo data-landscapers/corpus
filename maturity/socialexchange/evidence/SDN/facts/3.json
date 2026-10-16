@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-15-send-shared-cash-platform-technical-specs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SEND-P (Shared Distribution Network Platform)",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Cash Consortium of Sudan and CGAP",
+   "tiers": ""
+  }
+ ],
+ "note": "Humanitarian shared payment platform designed to interoperate with national social protection systems over time; an aim, no link contracted or built is stated."
+}

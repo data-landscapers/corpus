@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-16-jo-2023-46-decret-2023-1751-systeme-information-gestion-education",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (systeme d'information de gestion de l'education)", "country_label": "Congo", "class": "other", "platform": "computer platform with seven modules including state examinations, transfers and staff", "owner": "Ministry of pre-primary, primary, secondary education and literacy; run by DSIC, maintained by Agence congolaise des systemes d'information", "tiers": ""}
+  ],
+  "note": "The 2023 decree creates an EMIS with a unique learner number inside one platform; it states no link to another system, ID or sector."
+}

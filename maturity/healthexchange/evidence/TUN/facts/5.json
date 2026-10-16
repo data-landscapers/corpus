@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-24-tunisie-plateforme-sanitaire-numerique-ma-sante",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ma santé",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Identifiant national pilote de santé",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Opinion column; names a pilot patient platform and a pilot identifier with no description of data exchange between systems."
+}

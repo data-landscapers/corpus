@@ -1,0 +1,23 @@
+{
+  "slug": "2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mobile ID",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Identity Card",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Opinion piece on the ID cards and Mobile ID regulations; no other system is stated to check people against the ID."
+}

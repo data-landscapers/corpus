@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Lesotho digital identity card",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "According to the Lesotho Ministry of Home Affairs, South Africa's Department of Home Affairs electronically verifies Lesotho citizens before issuing a Lesotho Exemption Permit (no date given; published date 2026-06-18 used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Lesotho Exemption Permit verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho digital identity card",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lesotho Exemption Permit electronic verification",
+   "country_label": "Lesotho",
+   "class": "relying",
+   "platform": "",
+   "owner": "South Africa Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Lesotho named also among countries lacking comprehensive e-transactions legislation."
+}

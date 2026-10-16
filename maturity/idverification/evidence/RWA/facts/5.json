@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-29-newtimes-africanenda-regulatory-wall",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "eKash is an instant payment system; the story does not say it checks against the national ID."
+}

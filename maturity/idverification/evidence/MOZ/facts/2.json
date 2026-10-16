@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network",
+  "facts": [],
+  "systems": [
+    {"system": "PortalGuard / PIN:You biometric IAM at SIMO (SIMOrede)", "country_label": "Mozambique", "class": "other", "platform": "BIO-key PortalGuard, PIN:You, SSO", "owner": "Sociedade Interbancaria de Mocambique (SIMO)", "tiers": ""}
+  ],
+  "note": "Biometric identity and access management for banks' staff access to the payments network; no check of people against the national ID is stated."
+}

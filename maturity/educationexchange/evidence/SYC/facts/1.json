@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-18-openemis-seychelles-golive",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (OpenEMIS)", "country_label": "Seychelles", "class": "other", "platform": "OpenEMIS", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "States the EMIS go-live only; no link to another education system, learner identifier or national ID is stated."
+}

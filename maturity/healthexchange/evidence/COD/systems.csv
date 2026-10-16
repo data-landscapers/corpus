@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,Data Center National de Santé,RDC,exchange,,"ANICNS (Ministère de la Santé Publique, Hygiène et Prévoyance Sociale)",national,2026-06-16-anicns-ami-data-center-national-sante
+COD,Systèmes d'Information Hospitaliers (SIH),RDC,other,,ANICNS (homologation); vendors,facility,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,Identifiant National en Santé (INS),RDC,other,,Ministère de la Santé,national,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,Registre National des SIH Homologués,RDC,other,anics.gouv.cd; SANTE RDC mobile app,ANICNS,national,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,DHIS2,DRC,other,DHIS2,DRC government with Africa CDC,,2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc
+COD,DHIS2,DRC,other,DHIS2,Ministry of Public Health,"national, provincial, health zone, facility",2026-06-10-icap-hiv-insight-dashboard-drc
+COD,HIV Insight Dashboard,DRC,other,DHIS2,ICAP with PNLS,"national, provincial",2026-06-10-icap-hiv-insight-dashboard-drc
+COD,DHIS2 Tracker,DRC,other,DHIS2,Ministry of Health with HISP DRC and COUSP,"national, provincial",2026-06-02-dhis2-africa-cdc-ebola-outbreak-response-toolkit

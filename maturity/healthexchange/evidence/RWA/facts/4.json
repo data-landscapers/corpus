@@ -1,0 +1,39 @@
+{
+ "slug": "2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eBuzima",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "centralized web-based EMR",
+   "owner": "Rwanda Biomedical Centre / Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OpenMRS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OpenClinic",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "eBuzima is a single EMR; the document lists full interoperability across platforms only as a goal, with no exchange between systems stated."
+}

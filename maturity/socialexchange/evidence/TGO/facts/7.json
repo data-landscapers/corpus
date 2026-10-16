@@ -1,0 +1,52 @@
+{
+  "slug": "2023-09-01-togo-novissi-harnessing-artificial-intelligence-social-protection",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "inservice",
+      "fact": "The World Bank and Government of Togo case study says NOVISSI's system automatically sent payroll files through an API to the two mobile network operators (Togocom and Moov Africa Togo), whose mobile money systems were made interoperable with it, and paid over 920,000 people by August 2021.",
+      "as_of": "2021-08",
+      "date_precision": "month",
+      "system": "NOVISSI platform (beneficiary operations management system)",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "inservice",
+      "fact": "The case study says NOVISSI registrations were validated automatically against the voter list (unique voter number, NSF code, location, sex, occupation) and, for model 2, against a potential-eligibility list of phone numbers supplied by academics; the voter list stood in for a missing foundational ID.",
+      "as_of": "2021-08",
+      "date_precision": "month",
+      "system": "NOVISSI platform (beneficiary operations management system)",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "underway",
+      "fact": "The case study says Togo is building, under a US$72 million IDA-financed WURI programme, a foundational unique identification platform for all residents, to be the basis of a dynamic social registry of individuals and households, both listed as priorities of the 2020-2025 government roadmap.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "Foundational unique ID platform (WURI) and planned dynamic social registry",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "none",
+      "fact": "The case study says that during NOVISSI's operation (2020-2021) Togo had no dynamic social registry and no unique identifier covering all residents, so some households may have received multiple transfers because the assistance unit was the individual.",
+      "as_of": "2021-08",
+      "date_precision": "month",
+      "system": "NOVISSI platform (beneficiary operations management system)",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {"system": "NOVISSI platform (beneficiary operations management system)", "country_label": "Togo", "class": "exchange", "platform": "USSD self-registration with mobile money payment and API links to mobile network operators", "owner": "Ministry of Digital Economy and Digital Transformation (MENTD)", "tiers": "model 1 (April 2020) and model 2 (November 2020 to August 2021)"},
+    {"system": "Foundational unique ID platform (WURI) and planned dynamic social registry", "country_label": "Togo", "class": "exchange", "platform": "", "owner": "Government of Togo", "tiers": "being built, IDA financing of US$72 million"},
+    {"system": "Voter list", "country_label": "Togo", "class": "other", "platform": "biometric voter registration", "owner": "national independent electoral commission", "tiers": "3,633,898 registered, about 86.6 percent of adults"},
+    {"system": "Safety Nets and Basic Services Project (FSB) cash transfers", "country_label": "Togo", "class": "other", "platform": "in-person survey registration, proxy means testing", "owner": "", "tiers": "rural, February 2018 to December 2021"}
+  ],
+  "note": ""
+}

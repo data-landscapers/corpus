@@ -1,0 +1,12 @@
+{
+  "slug": "2024-09-30-togo-jo-arrete-007-acces-partage-donnees-rspm",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Arrêté n° 007/24/MENTD/CAB of 10 September 2024 sets the conditions under which public bodies may access and share data of the Registre social des personnes et des ménages: ANID supplies the data through personalised accounts on the RSPM platform after a request, a signed ANID convention and, for personal data, IPDCP authorisation; it names no body that has been connected.",
+     "as_of": "2024-09-10", "date_precision": "day", "system": "Registre social des personnes et des ménages (RSPM)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre social des personnes et des ménages (RSPM)", "country_label": "Togo", "class": "exchange", "platform": "RSPM platform", "owner": "ANID (Agence Nationale d'Identification)", "tiers": ""}
+  ],
+  "note": ""
+}

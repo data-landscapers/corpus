@@ -1,0 +1,6 @@
+{"slug": "2026-10-09-moz-mznews-atdi-x-road-training", "studies": {
+"dataexchange": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "ATDI trained 25 technicians from nine public bodies, including civil identification, migration, tax, social action and registries, on the X-Road data-exchange layer to prepare them to integrate their institutions' systems, with World Bank EDGE support.", "as_of": "2026-10-06", "date_precision": "day", "system": "X-Road", "class": "exchange"}
+], "systems": [{"system": "X-Road", "country_label": "Mozambique", "class": "exchange", "platform": "X-Road", "owner": "ATDI", "tiers": ""}], "note": "as_of is the first day of the training, 6-9 October 2026; the story does not say the platform is in service."}}},
+"educationexchange": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No education body or system is among the nine institutions named."}}}
+}}

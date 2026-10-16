@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-24-namibia-eid-piloting-otjimbingwe",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID (electronic identity card) pilot", "country_label": "Namibia", "class": "other", "platform": "smart card with secure chip; mobile ID", "owner": "Ministry of Home Affairs, Immigration, Safety and Security; UNDP-supported", "tiers": ""}
+  ],
+  "note": "The e-ID pilot is the ID system itself; banking, social grants and online transactions are stated as design aims, with no other system named as linked or checking against it."
+}

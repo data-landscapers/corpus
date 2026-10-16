@@ -1,0 +1,69 @@
+{
+ "slug": "2026-06-12-hmis-eswatini-cmis-elmis-integration",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CMIS-eLMIS integration",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "A single health-sector integration, not a government data exchange platform; other class, no fact."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "HMIS Eswatini says a workshop validated the CMIS-eLMIS integration for ART medicines (dispensing in CMIS updates eLMIS stock), working and ready for pilot at facility level with national scale-up in view; as_of is the publication date, the document says only 'recent'.",
+       "as_of": "2026-06-12",
+       "date_precision": "day",
+       "system": "CMIS-eLMIS integration",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Client Management Information System (CMIS)",
+       "country_label": "Eswatini",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": "national EMR"
+      },
+      {
+       "system": "Electronic Logistics Management Information System (eLMIS)",
+       "country_label": "Eswatini",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Health logistics integration; states nothing on checks against the national ID."
+    }
+   }
+  }
+ }
+}

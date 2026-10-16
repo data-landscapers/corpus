@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-path-digital-innovation-pandemic-control-tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "GOTHOMIS (Government of Tanzania Health Operations Management Information System)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Government of Tanzania (PORALG)", "tiers": "facility; used in over 3,500 facilities"}
+  ],
+  "note": "Only a single system (GOTHOMIS immunisation module, six pilot facilities) and FHIR developer training in June 2024; no exchange between systems is stated."
+}

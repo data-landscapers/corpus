@@ -1,0 +1,50 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,NIMC real-time verification platform (NIN authentication platform),Nigeria,relying,,National Identity Management Commission,"banks, telecom operators, insurers, fintechs, tax, immigration, education, health, security, aviation, social intervention",2026-07-25-nin-contradiction-high-cost-of-false-integration
+NGA,Bank Verification Number (BVN),Nigeria,other,,,financial sector,2026-07-25-nin-contradiction-high-cost-of-false-integration
+NGA,NIMC real-time verification platform,Nigeria,relying,,National Identity Management Commission (NIMC),,2026-07-15-nigeria-national-database-still-fragmented
+NGA,Bank Verification Number (BVN),Nigeria,other,,,,2026-07-15-nigeria-national-database-still-fragmented
+NGA,NINAuth,Nigeria,other,"web, API and mobile",NIMC,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
+NGA,POSSAP,Nigeria,relying,,Nigeria Police Force,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
+NGA,FRSC contactless licensing system,Nigeria,relying,,Federal Road Safety Corps,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
+NGA,NIS passport renewal app,Nigeria,relying,,Nigeria Immigration Service,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
+NGA,NINAuth,Nigeria,other,"web, API and mobile",NIMC,,2026-09-23-nga-ncw-nimc-ninauth-consent-verification
+NGA,NIMC identity verification platform,Nigeria,other,new NIMC-built platform; migration by BlueSalt Financial Services,NIMC,,2025-07-03-sim-registration-halted-nimc-migration
+NGA,Telecom operators' SIM registration,Nigeria,relying,,ALTON members,,2025-07-03-sim-registration-halted-nimc-migration
+NGA,NINAuth,Nigeria,other,"web, API and mobile app",National Identity Management Commission (NIMC),,2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification
+NGA,Smile ID identity verification,Nigeria,relying,,Smile ID (Smile Identity),,2023-01-01-norrsken22-reg-smileid-2023-norrsken22-co-leads-smile-id-series-b
+NGA,PAPSS,NGA,other,Pan-African Payment and Settlement System,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+NGA,MANSA,NGA,other,centralised CDD/KYC repository,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+NGA,Lebara Nigeria remote KYC (My LebaraNG app),Nigeria,,mobile app,Lebara Nigeria,,2026-09-14-lebara-nigeria-mvno-launch-techcabal
+NGA,Smile ID,Nigeria,relying,biometric identity verification platform,Smile ID,,2026-08-31-newhumanitarian-givedirectly-google-flood-hub-nigeria-ai-exclusion
+NGA,NINAuth,Nigeria,relying,NINAuth,NIMC,,2026-08-28-biometricupdate-digital-id-financial-inclusion-africa
+NGA,services.gov.ng,Nigeria,,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-08-18-nigeria-centralised-gateway-portal-services-gov-ng
+NGA,Federal Ministry of Agriculture and Food Security farmer and beneficiary verification,Nigeria,relying,NIMC identity verification platform,Federal Ministry of Agriculture and Food Security,,2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers
+NGA,NIRSAL registration portal,Nigeria,relying,,NIRSAL,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,GEEP Growth Enhancement Support,Nigeria,relying,,NSIPA,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,National Digital Farmers Registry,Nigeria,relying,,Federal Ministry of Agriculture,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,NIN,Nigeria,other,,NIMC,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,BVN,Nigeria,other,,CBN,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,SIM registration,Nigeria,,,mobile network operators,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,APC membership e-registration,Nigeria,other,,All Progressives Congress,,"2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)"
+NGA,Nigeria Data Exchange Platform (NGDX),Nigeria,other,,"NITDA with the Ministry of Communications, Innovation and Digital Economy",,"2025-08-30 Nigeria to launch NGDX, unified data exchange, by end of 2025 (NITDA)"
+NGA,Nigerian Data Exchange Platform (NGDX),Nigeria,,,,,2025-08-26-nigerian-data-exchange-platform-ngdx
+NGA,Non-Resident BVN (NRBVN) platform,Nigeria,other,NIBSS,CBN with NIBSS,,2025-05-13-cbn-diaspora-nrbvn-platform
+NGA,National Identification Number (NIN) / NIMC,Nigeria,other,,NIMC,,2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges
+NGA,SIM registration linked to NIN,Nigeria,relying,,NCC and telecom operators,,2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges
+NGA,Social register,Nigeria,relying,,,,2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges
+NGA,Farmers register,Nigeria,relying,,,,2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges
+NGA,General Multipurpose Card (GMPC),Nigeria,other,AfriGo,NIMC; issued by banks,,2025-01-27-multiuse-biometric-id-card-launch
+NGA,Farmer digital ID registry (G2P),Nigeria,relying,,,,2025-01-27-multiuse-biometric-id-card-launch
+NGA,SIM registration linked to NIN,Nigeria,relying,,NCC,,"2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)"
+NGA,Bank Verification Number (BVN),Nigeria,other,NIBSS,CBN,,"2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)"
+NGA,National Identification Number (NIN),Nigeria,other,,NIMC,,"2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)"
+NGA,Bank Verification Number (BVN),Nigeria,other,,CBN,,2021-08-30 31 First we must build Infrastructure
+NGA,National Identity Number (NIN),Nigeria,other,,NIMC,,2021-08-30 31 First we must build Infrastructure
+NGA,LinkedIn identity verification (Persona),Nigeria,relying,Persona,LinkedIn,,2026-01-01-policyreview-deplatformed-africa
+NGA,NIMC identity verification API,Nigeria,relying,API offered by NIMC to agencies and licensed partners for verification,NIMC,,2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted
+NGA,Bank of Industry identity verification,Nigeria,relying,,Bank of Industry,,2026-07-24-thisday-nimc-partnerships-women-affairs-boi-digital-identity
+NGA,INEC voter register,Nigeria,,,INEC,,2026-07-23-nimc-nitda-collaborate-digital-identity-agenda
+NGA,Nigerian Immigration Service passport issuance,Nigeria,relying,,Nigerian Immigration Service,,2026-07-22-thisday-shettima-digital-transformation-nimc-act-2026
+NGA,Solid minerals operator regulation,Nigeria,relying,,Ministry of Solid Minerals Development,,2026-07-20-thisday-alake-nimc-digital-identity-illegal-mining
+NGA,Telecom Identity Risk Management System (TIRMS),Nigeria,other,,CBN and NCC (joint MoU),,2026-04-21-cbn-ncc-tirms-telecom-data-banks
+NGA,NIMC-NHIA identity and health insurance linkage,Nigeria,relying,,NIMC; NHIA,,2025-10-10-nimc-nhia-digital-id-health-mou

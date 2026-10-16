@@ -1,0 +1,33 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "countries": {
+  "GMB": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "national EMIS",
+     "country_label": "The Gambia",
+     "class": "other",
+     "platform": "DHIS2",
+     "owner": "Ministry of Basic and Secondary Education",
+     "tiers": "school, regional, central"
+    }
+   ],
+   "note": "National EMIS in daily regional use; no exchange with another system or learner ID stated."
+  },
+  "TGO": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "SIGE",
+     "country_label": "Togo",
+     "class": "other",
+     "platform": "DHIS2 over CSPro and StatEduc",
+     "owner": "Ministry of Education",
+     "tiers": ""
+    }
+   ],
+   "note": "DHIS2 layer added over CSPro/StatEduc census infrastructure; no data exchange between education systems stated."
+  }
+ }
+}

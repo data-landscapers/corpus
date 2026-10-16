@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-20-worldbank-isr-supporting-egypt-uhis-p172426-seq11",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Modular UHIS information system (procurement, beneficiary, provider, claims modules)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Universal Health Insurance Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "States procurement module rolled out and beneficiary, provider and claims modules not yet; no exchange between systems stated."
+}

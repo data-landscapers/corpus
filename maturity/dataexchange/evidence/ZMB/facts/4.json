@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-24-ministry-labour-digital-strategy-zamportal",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Ministry of Labour and Social Security reports it on-boarded 29 of its services on the Government Service Bus, which it says serves all institutions and links to ZamPay for payments.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Government Service Bus (Zamportal)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The ministry reports 29 of its services on-boarded to the Government Service Bus, administered on the Zambia Employment and Labour Management System (ZELMIS); these are services of one ministry, counted by the ministry.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Government Service Bus (Zamportal)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus (Zamportal)",
+   "country_label": "Zambia",
+   "class": "exchange",
+   "platform": "Zamportal / gsb.gov.zm",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "ZamPay",
+   "country_label": "Zambia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "ZELMIS",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Labour and Social Security",
+   "tiers": ""
+  }
+ ],
+ "note": "Event date taken from 'yesterday' in an article published 2025-04-24."
+}

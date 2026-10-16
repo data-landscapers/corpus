@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-27-gabon-cep-2026-kewa-publication-resultats-aninf",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KEWA",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": "national"
+  }
+ ],
+ "note": "KEWA publishes primary exam results online; document states no exchange with any other education system."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Legal Notice 77 of 2025, gazetted and in force 11 April 2025, sets up an enterprise service bus routing messages between certified digital health solutions, and requires health data controllers already using digital health solutions to be onboarded within six months of publication; it states the requirement, not that the onboarding had been done.",
+     "as_of": "2025-04-11", "date_precision": "day",
+     "system": "Enterprise service bus (Digital Health Agency)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Enterprise service bus", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "Comprehensive Integrated Health Information System", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national and county"},
+    {"system": "Client registry", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "Facility registry", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "Health worker registry", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "Shared health record", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "National Logistics Management Information Services Platform", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "Health Management Information Services Platform", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Digital Health Agency", "tiers": "national"},
+    {"system": "National Health Data Bank and county health data banks", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Digital Health Agency", "tiers": "national and county"},
+    {"system": "Product catalogue", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Digital Health Agency with Pharmacy and Poisons Board", "tiers": "national"},
+    {"system": "Telemedicine health provider registry", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Digital Health Agency", "tiers": "national"}
+  ],
+  "note": ""
+}

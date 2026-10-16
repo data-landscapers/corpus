@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-30-nga-thesun-ncdc-hfn-pharmaccess-moc-private-sector-surveillance",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "NCDC, the Healthcare Federation of Nigeria and PharmAccess signed a memorandum framing a pilot of automated private-sector IDSR reporting into NCDC's SORMAS surveillance system, to test interoperable approaches; no facilities or start date are given.", "as_of": "2026-09-30", "date_precision": "day", "system": "Private-sector IDSR reporting pilot into SORMAS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "SORMAS (Surveillance Outbreak Response Management and Analysis System)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "NCDC", "tiers": "national"}
+  ],
+  "note": "as_of is the document's published date; the signing date is not stated."
+}

@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,"National education data hub (DHIS2, ClickHouse, Apache Superset)",Sierra Leone,exchange,DHIS2,MBSSE,"national, district, school",2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,Unique Learner ID (ULID) system,Sierra Leone,other,web application and Android app,MBSSE,school,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,Unique Learner ID (ULID) system and data warehouse,Sierra Leone,,,UNICEF (procuring),,2025-10-15-sierra-leone-unicef-unique-learner-id-system-rfp
+SLE,Education Management Information System (EMIS),Sierra Leone,other,,MBSSE Directorate of Basic Education,"national, provincial",2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
+SLE,Situation Room,Sierra Leone,other,,MBSSE Planning and Policy Directorate,national,2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
+SLE,national data warehouse,Sierra Leone,exchange,,,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SLE,digital Master Schools List,Sierra Leone,other,,,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SLE,DSTI Education Data Hub,Sierra Leone,exchange,,"Directorate of Science, Technology and Innovation (DSTI)",national,2020-01-01-sierra-leone-dsti-education-data-hub

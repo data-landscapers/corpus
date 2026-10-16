@@ -1,0 +1,96 @@
+{
+ "slug": "2025-03-21-ssrlp-inspire-o-aide-memoire",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The World Bank mission reports that as of March 2025 the Unified Beneficiary Registry held 4.2 million households (17 million people) in 27 of 28 rural districts, with five programmes using the data for targeting and research.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Unified Beneficiary Registry (Malawi Social Registry)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The mission reports CORE-MIS is being used as foundational software so programme systems (Mbwezera MIS, SCTP MIS, COMSIP Integrated MIS, M'bwezera Monitoring Tool) share core modules, beneficiary IDs and reporting structures, with Mbwezera MIS still being configured.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "CORE-MIS",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The mission reports government has identified system integration and on-demand registration as ways to update the UBR, and agreed to roll out on-demand registration in selected districts.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Unified Beneficiary Registry (Malawi Social Registry)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "NLGFC confirmed that in FY April 2024-March 2025, 95,520 SCTP and 195,520 CSPWP beneficiaries were enrolled on e-payments in 10 districts and received payments in e-wallets, with 17 districts to be paid through 6 payment service providers by 15 April 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "e-payments (SCTP and CSPWP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Beneficiary Registry (Malawi Social Registry)",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Poverty Reduction and Social Protection Division",
+   "tiers": ""
+  },
+  {
+   "system": "CORE-MIS",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mbwezera MIS",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "CORE-MIS",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SCTP MIS",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "CORE-MIS",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "COMSIP Integrated MIS (CIMIS)",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "CORE-MIS",
+   "owner": "COMSIP",
+   "tiers": ""
+  },
+  {
+   "system": "M'bwezera Monitoring Tool (MMT)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

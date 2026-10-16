@@ -1,0 +1,68 @@
+{
+ "slug": "2026-07-27-assabahnews-moarref-watani-sihi-sahetna",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "identifier",
+   "value": "linked",
+   "fact": "Ministry adviser Ines Ayadi says the national health identifier (EVAX identifier) is linked to the national ID card, social security number and school and university identifiers, and that medical files of about 100,000 people have been updated and linked to it, in public hospitals.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "المعرف الوطني الصحي (national health identifier)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Mongi Slim hospital in La Marsa has piloted the national births-declaration platform since June 2026, declaring 202 births and assigning each a health identifier, with the platform meant to link to civil registry and social affairs systems and to wards and other health institutions.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "المنصة الوطنية للتصريح بالولادات (national births-declaration platform)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "المعرف الوطني الصحي (national health identifier)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "EVAX identifier",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "المنصة الوطنية للتصريح بالولادات (national births-declaration platform)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Sahetna.tn",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "EVAX",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Temporary health identifier for emergency cases",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Facts dated by the article's published date, as it gives no event date for the figures."
+}

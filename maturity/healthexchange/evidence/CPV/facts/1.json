@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-04-cabo-verde-ida-health-digital-tools-tender",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIS/PORTAL",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health (health information system)",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Training tender for two health digital tools; states no exchange between systems."
+}

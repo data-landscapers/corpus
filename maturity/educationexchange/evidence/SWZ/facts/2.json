@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-eswatini-dhis2-for-education-implementation",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The DHIS2 for Education profile for Eswatini is subtitled 'Aggregate and individual EMIS data connected to national identity', and describes the EMIS (aggregate) and SEMIS App (individual learner and staff data, PIN-based) as national in scale since a 2020 pilot.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2 for Education (EMIS and SEMIS App)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 for Education (EMIS and SEMIS App)",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the page's published year, as it gives no event date."
+}

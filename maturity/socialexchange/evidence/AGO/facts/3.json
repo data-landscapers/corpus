@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-25-angola-cadastro-social-unico-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "Angola",
+   "class": "exchange",
+   "platform": "CSU platform",
+   "owner": "MASFAMU",
+   "tiers": ""
+  },
+  {
+   "system": "Kwenda",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes CSU as a centralised database and reports Kwenda reach, but does not say Kwenda draws on CSU or any link."
+}

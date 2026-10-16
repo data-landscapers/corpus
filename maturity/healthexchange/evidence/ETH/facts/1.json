@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "DIAL reports that health stakeholders in Ethiopia converged on a multi-tenant electronic medical records pilot as the most critical next step to test interoperability, with no launch or go-live stated.",
+     "as_of": "2026-03", "date_precision": "month", "system": "multi-tenant electronic medical records pilot", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "DIAL states that Ethiopia's digital health ecosystem has more than 70 siloed platforms and over 200 pilots, many addressing similar problems without the foundational interoperability needed for seamless service delivery; as_of is the published date, the document giving none.",
+     "as_of": "2026-03", "date_precision": "month", "system": "Ethiopia's digital health ecosystem", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "multi-tenant electronic medical records pilot", "country_label": "Ethiopia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Fayda national digital ID", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

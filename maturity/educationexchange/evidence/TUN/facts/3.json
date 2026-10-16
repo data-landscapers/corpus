@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-lapresse-tunisia-viescolaire-inscription-en-ligne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vie scolaire (viescolaire.education.tn)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes enrolment-portal faults; no data exchange between education systems is stated."
+}

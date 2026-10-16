@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-07-nilepost-nira-national-id-expo-register-gap",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIRA's Executive Director said the NIN is increasingly part of how a person's identity is recognised, from the SIM card and financial services to taxation and other transactions, and the symposium covers the NIN's use in electronic KYC.", "as_of": "2026-09-07", "date_precision": "day", "system": "National Identification Number (NIN) use in SIM registration, e-KYC and taxation", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The NIRA Executive Director named the SIM card (telecoms), financial services and taxation as areas where the NIN is recognised, and the expo is to show how identity is already used across sectors; as_of is the publication date, none being given.", "as_of": "2026-09-07", "date_precision": "day", "system": "National Identification Number (NIN) use in SIM registration, e-KYC and taxation", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "NITA-U's Director of e-Government Services said it is working with government institutions to integrate systems and support digital authentication against the national ID.", "as_of": "2026-09-07", "date_precision": "day", "system": "NITA-U digital authentication and government systems integration", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "National Identification Number (NIN) use in SIM registration, e-KYC and taxation", "country_label": "Uganda", "class": "relying", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "NITA-U digital authentication and government systems integration", "country_label": "Uganda", "class": "relying", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": ""
+}

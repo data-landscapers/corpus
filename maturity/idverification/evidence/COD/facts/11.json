@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de l'Economie numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "Enrolment-agent training for the ID system itself; no relying system named."
+}

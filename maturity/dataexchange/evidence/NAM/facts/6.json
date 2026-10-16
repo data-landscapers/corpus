@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The government is deploying NamX, a data-exchange platform for secure inter-ministry sharing, per UNDP Namibia.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "NamX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NamX",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the document's published date, 2025-09-03; it gives no event date."
+}

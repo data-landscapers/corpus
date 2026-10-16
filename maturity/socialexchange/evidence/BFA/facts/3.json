@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-28-saspp-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank page states work has been initiated to support interoperability between the databases of the Social Registry, internally displaced persons and the Unique Identifier System being developed under the WURI project; no event date given, published date used.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "Registre Social Unique",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Burkina Faso",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Humanitarian Action and National Solidarity",
+   "tiers": ""
+  },
+  {
+   "system": "Unique Identifier System (WURI project)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

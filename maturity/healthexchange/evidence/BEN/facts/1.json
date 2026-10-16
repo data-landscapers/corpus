@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (National Health Management and Information System, NHMIS)", "country_label": "Benin", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Describes private facilities reporting into a single system, DHIS2, with an RMNCH dashboard; no exchange between health systems is stated."
+}

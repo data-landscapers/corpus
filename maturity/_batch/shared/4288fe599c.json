@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "About a MOSIP digital ID enrolment pilot; no data exchange platform."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "About the ID system's own enrolment pilot; no other system checking people against the ID is stated."
+    }
+   }
+  }
+ }
+}

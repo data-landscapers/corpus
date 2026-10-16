@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-seyid-security",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SeyID",
+      "country_label": "Seychelles",
+      "class": "other",
+      "platform": "SeyID portal and app with ID-Wallet",
+      "owner": "Government of Seychelles (DICT)",
+      "tiers": ""
+    }
+  ],
+  "note": "Describes SeyID's own authentication and security; no other system relying on the ID is named."
+}

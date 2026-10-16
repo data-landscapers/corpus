@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-civ-abidjannet-qualite-donnees-credit-bic-uemoa",
+  "facts": [],
+  "systems": [
+    {"system": "BIC-UEMOA (Bureau d'Information sur le Credit de l'UEMOA)", "country_label": "Cote d'Ivoire", "class": "other", "platform": "Creditinfo West Africa (technical operator)", "owner": "BCEAO with the ministry of economy and finance", "tiers": "credit-information sharing among banks, decentralised financial systems and large billers; operational in Cote d'Ivoire since 2015"}
+  ],
+  "note": "Credit-information bureau fed by financial institutions; not a platform exchanging data between public bodies' systems, so class other and no fact."
+}

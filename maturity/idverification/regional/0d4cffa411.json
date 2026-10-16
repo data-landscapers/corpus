@@ -1,0 +1,29 @@
+{
+ "slug": "2026-08-29-newtimes-africanenda-regulatory-wall",
+ "countries": {
+  "GHA": {
+   "facts": [],
+   "systems": [],
+   "note": "Ghana appears only as a partner in Rwanda's fintech arrangements; nothing on checks against the national ID."
+  },
+  "KEN": {
+   "facts": [],
+   "systems": [],
+   "note": "Kenya appears only as a partner in Rwanda's fintech arrangements; nothing on checks against the national ID."
+  },
+  "RWA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "eKash",
+     "country_label": "Rwanda",
+     "class": "other",
+     "platform": "",
+     "owner": "National Bank of Rwanda",
+     "tiers": ""
+    }
+   ],
+   "note": "eKash is an instant payment system; the story does not say it checks against the national ID."
+  }
+ }
+}

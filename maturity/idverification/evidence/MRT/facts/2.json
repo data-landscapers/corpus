@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-21-houwiyeti-usage-metrics-techrek",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANRPTS",
+   "tiers": ""
+  }
+ ],
+ "note": "Usage figures are for Houwiyeti's own services and beneficiaries; no other system's check against the ID and no count of verifications."
+}

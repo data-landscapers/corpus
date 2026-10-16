@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-natca-phase-out-unregistered-sims-link-national-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NaTCA announced Subscribers Regulations 2025, taking effect after a six-month transition, to link SIM cards to holders' National Identification Numbers in collaboration with NCRA, fining operators Le25,000 per unregistered SIM.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "SIM registration linked to NIN",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration linked to NIN",
+   "country_label": "SLE",
+   "class": "relying",
+   "platform": "",
+   "owner": "NaTCA with NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

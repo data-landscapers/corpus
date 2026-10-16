@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-06-liberia-great-project-implementation-status-results-report-seq3",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The World Bank's GREAT Project status report lists a new Service Bus for data exchange via APIs among government systems and services including the National Identification Registry, with 0 systems using it at 30 September 2025 against a target of 10 by December 2030.",
+     "as_of": "2025-09-30", "date_precision": "day", "system": "Service Bus (GREAT Project)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Service Bus (GREAT Project)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "Government of Liberia (GREAT Project, World Bank financed)", "tiers": ""},
+    {"system": "LITAS", "country_label": "Liberia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-Government procurement (e-GP) system", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Public Procurement and Concessions Commission", "tiers": ""},
+    {"system": "National Identification Registry", "country_label": "Liberia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

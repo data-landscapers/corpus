@@ -1,0 +1,9 @@
+{
+  "slug": "2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information Exchange (HIE)", "country_label": "South Africa", "class": "exchange", "platform": "Federated Health Information Architecture; IHE profiles, HL7, FHIR", "owner": "National Department of Health", "tiers": "national"},
+    {"system": "2021 Health Normative Standards Framework (HNSF)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "National Department of Health", "tiers": ""}
+  ],
+  "note": "Gazetted 2022-10-21 as a standards framework; it describes the national HIE, shared registries and repositories as what a fully interoperable environment will have, and lists implementing a national repository as step 1, so it states no exchange in service or being built."
+}

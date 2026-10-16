@@ -1,0 +1,8 @@
+{
+  "slug": "2020-03-18-benin-cadre-interoperabilite-xroad-bj",
+  "facts": [],
+  "systems": [
+    {"system": "XROAD BJ national interoperability platform", "country_label": "Benin", "class": "exchange", "platform": "", "owner": "ASIN", "tiers": ""}
+  ],
+  "note": "A framework of recommendations that names the secure data exchange ecosystem as a component; it states nothing dated about the platform being built or in service."
+}

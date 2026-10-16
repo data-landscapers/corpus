@@ -1,0 +1,20 @@
+{
+  "slug": "2026-07-10-digital-services-strengthen-zambia-finances",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "The Office of the Accountant General, speaking through a Ministry of Finance principal accountant, called the Government Service Bus, with ZamPortal and ZamPay, central to public service delivery, and said eight councils were already onboarded.",
+     "as_of": "2026-07-10", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide",
+     "fact": "The Accountant General's office says more than 400 government services have been onboarded onto the digital ecosystem of the Government Service Bus, ZamPortal and ZamPay, and plans a rollout to all 116 local authorities.",
+     "as_of": "2026-07-10", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "usage", "value": "reported",
+     "fact": "The Accountant General's office says the digital payment and service platforms have collected more than K8.8 billion (US$488 million); the figure is stated for the platforms together, not for the bus alone.",
+     "as_of": "2026-07-10", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "Ministry of Finance and National Planning", "tiers": "central government; eight councils"},
+    {"system": "Government Electronic Payment Gateway ZamPortal", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry of Finance and National Planning", "tiers": ""},
+    {"system": "ZamPay", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry of Finance and National Planning", "tiers": ""}
+  ],
+  "note": "as_of is the article's published date; the statement was made at the 2026 Zambia International Trade Fair, which the article does not date."
+}

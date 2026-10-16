@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-21-biometricupdate-ghana-card-digital-wallet-mobile-money",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The NIA Executive Secretary said the Ghana Card e-wallet, letting holders link bank accounts and load mobile money, will be activated in phases, with consultations including the Bank of Ghana at an advanced stage.", "as_of": "2026-09-21", "date_precision": "day", "system": "Ghana Card e-wallet", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The NIA Executive Secretary said enforcement of compulsory biometric verification of the Ghana Card, and the ban on photocopying it for verification, will begin in November 2026, having taken effect in principle in March.", "as_of": "2026-09-21", "date_precision": "day", "system": "Ghana Card biometric verification mandate", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Ghana Card e-wallet", "country_label": "Ghana", "class": "relying", "platform": "Ghana Card", "owner": "National Identification Authority", "tiers": ""}
+  ],
+  "note": "As_of dates are the document's published date; the e-wallet is described as planned, not contracted or piloted."
+}

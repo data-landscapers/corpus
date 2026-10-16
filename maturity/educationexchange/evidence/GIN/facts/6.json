@@ -1,0 +1,74 @@
+{
+ "slug": "2021-11-01-mepua-informatisation-digitalisation-sige",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "The report states exam candidate lists pass between central level, IRE, DPE and schools by agents' personal email in Excel files, and that teacher matricules are not shared automatically between the actors; personnel data pass between the Budget and Fonction publique ministries semi-automatically on encrypted USB keys.",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "MEPUA information systems (examens et concours, personnel, statistiques)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Application de gestion des Examens et Concours (WinDev)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "WinDev",
+   "owner": "MEPUA, SNECSO",
+   "tiers": ""
+  },
+  {
+   "system": "base de données du personnel du MEPUA (Apex/Oracle)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "Apex/Oracle",
+   "owner": "MEPUA, DRH",
+   "tiers": ""
+  },
+  {
+   "system": "BAREME",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "MEPUA",
+   "tiers": ""
+  },
+  {
+   "system": "TRANSPARENCE",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "MEPUA",
+   "tiers": ""
+  },
+  {
+   "system": "Rapport de rentrée statistique (RSA) databases",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "Access/Excel",
+   "owner": "BSD, MEPUA",
+   "tiers": ""
+  },
+  {
+   "system": "Immatriculation et suivi des élèves du secondaire",
+   "country_label": "Guinea",
+   "class": "",
+   "platform": "",
+   "owner": "MEPUA",
+   "tiers": ""
+  },
+  {
+   "system": "SIGE agrégé (planned single integrated system)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "MEPUA",
+   "tiers": ""
+  }
+ ],
+ "note": "Fact dates from the March 2021 field mission, not the report's November 2021 date. The roadmap's planned integrated system is a design, no link built, so no underway fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "DIAL says UGHub is in use today as Uganda's national data exchange system, serving government ministries, departments and agencies as well as private entities.", "as_of": "2024-06-28", "date_precision": "day", "system": "UGHub", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "DIAL says UGHub is used by over 100 government ministries, departments and agencies as well as private entities such as banks, insurers and fintech firms.", "as_of": "2024-06-28", "date_precision": "day", "system": "UGHub", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UGHub", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "No figure for exchanges or transactions through UGHub is stated, so no usage fact; as_of is the published date, the document giving no event date."
+}

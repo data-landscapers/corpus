@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,Education Management Information System (EMIS),Democratic Republic of Congo,other,"DHIS2 discussed as a possible platform, not adopted",,,2026-05-12-au-iped-emis-self-assessment-drc
+COD,e-SIGE-DRC,Democratic Republic of Congo,other,application for automated data collection and transmission,DIGE (Direction d'Information de Gestion de l'Education),"primary school census, 10 project provinces",2024-11-01-worldbank-restructuring-eesse-education-project
+COD,EDUSER,COD,other,Built on HereMIS by CGA Technologies (Corus),"Ministry of Education (MEPST), run by SERNIE","National learner enrolment, piloted in 20 primary schools in Kasai in April 2026 (8,634 learners)",2026-08-04-corus-eduser-pilote-kasai-donnees-education
+COD,HereMIS,COD,,CGA Technologies,,,2026-08-04-corus-eduser-pilote-kasai-donnees-education

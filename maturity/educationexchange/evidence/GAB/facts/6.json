@@ -1,0 +1,23 @@
+{
+ "slug": "2025-03-11-gabon-school-data-collection-priority",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Exam management database",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "School assets database",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "States exam and school-asset databases exist and need consolidation; does not state whether they exchange data."
+}

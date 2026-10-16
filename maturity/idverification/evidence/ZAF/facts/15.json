@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-12-schreiber-digital-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Banks use the Home Affairs Online Verification Service, upgraded on 1 July 2025 to cut the failure rate below 1%, with Capitec, FNB and Standard Bank signed up to verify customers against the department's database in real time.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Online Verification Service (OVS)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The old model limited Home Affairs bank-branch services to 30 branches across five banks, and Capitec plans 100 branches by early 2026 and 300 by mid-2026, against a target of 1,000 by 2029.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Online Verification Service (OVS)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Verification Service (OVS)",
+   "country_label": "South Africa",
+   "class": "relying",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Facts dated to the 1 July 2025 upgrade and the August 2025 article."
+}

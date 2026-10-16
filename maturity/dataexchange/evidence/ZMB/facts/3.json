@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02-eight-local-authorities-go-digital-mlgrd",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Ministry of Local Government and Rural Development states that eight local authorities (Lusaka, Ndola, Kitwe, Solwezi, Chingola, Kalulushi, Kalumbila, Chilanga) are on-boarded on the Government Service Bus, Lusaka having gone live in May 2026.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Government Service Bus (Zamportal)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus (Zamportal)",
+   "country_label": "Zambia",
+   "class": "exchange",
+   "platform": "Zamportal / gsb.gov.zm",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "Eight councils connected, under the ten the reach aspect needs; no usage figure."
+}

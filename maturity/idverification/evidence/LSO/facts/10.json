@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "none", "fact": "The Independent Electoral Commission said an earlier collaboration with the Ministry of Home Affairs to link voter registration to ID data was abandoned after Home Affairs withdrew, and that it had asked to revive it, so no such link was stated to be in place.", "as_of": "2024-01", "date_precision": "month", "system": "IEC voter registration system", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "IEC voter registration system", "country_label": "Lesotho", "class": "relying", "platform": "", "owner": "Independent Electoral Commission", "tiers": ""}
+  ],
+  "note": ""
+}

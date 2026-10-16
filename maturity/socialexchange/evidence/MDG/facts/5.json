@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-23-safety-nets-additional-financing-worldbank",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank's appraisal-stage document says the proposed additional financing for Madagascar's Safety Nets and Resilience Project would fund continued strengthening of FID information systems, including interoperability with the social registry, identification systems and the government interoperability platform.",
+     "as_of": "2026-01-23", "date_precision": "day", "system": "FID information systems", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "FID information systems", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "Fonds d'Intervention pour le Développement (FID)", "tiers": ""},
+    {"system": "National social registry (Registre Social Unique, RSU)", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "Ministry of Population and Solidarity", "tiers": ""},
+    {"system": "Government interoperability platform", "country_label": "Madagascar", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-13-zambia-zeep-mid-term-review-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "teacher database", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Teaching Council of Zambia", "tiers": "national"},
+    {"system": "EMIS reform", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "national"}
+  ],
+  "note": "Passages say only that technical assistance to review the Teaching Council's teacher database is being considered within the broader EMIS reform; no exchange or link is stated."
+}

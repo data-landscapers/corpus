@@ -1,0 +1,17 @@
+{
+  "slug": "2021-01-01-unesco-norcap-emis-country-case-study-chad",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The UNESCO/NORCAP case study says the Ministry of National Education has no harmonized or unique codification, so its information platforms (EMIS, human resources, the examinations directorate DNEC and the APICED teacher database) cannot easily communicate or link.",
+     "as_of": "2021", "date_precision": "year",
+     "system": "MENPC information platforms (EMIS/StatEduc2, DRH, DNEC, APICED teacher database)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EMIS (StatEduc2)", "country_label": "Chad", "class": "other", "platform": "StatEduc2", "owner": "MENPC, DAPRO EMIS Unit", "tiers": "school questionnaires on paper, keyed centrally"},
+    {"system": "UNHCR refugee-school EMIS", "country_label": "Chad", "class": "other", "platform": "paper forms entered into Excel", "owner": "UNHCR", "tiers": "camp and settlement schools"},
+    {"system": "REMIS", "country_label": "Chad", "class": "other", "platform": "", "owner": "UNHCR", "tiers": "proposed; consultations did not continue"},
+    {"system": "EduTrac", "country_label": "Chad", "class": "other", "platform": "SMS and phone-based", "owner": "UNICEF with MENPC", "tiers": "pilot in two provinces"},
+    {"system": "APICED teacher database", "country_label": "Chad", "class": "other", "platform": "", "owner": "APICED", "tiers": "community teacher census, World Bank funded"}
+  ],
+  "note": "Document read to its end (capture truncated mid-sentence in the IOM section); the only exchange-class statement is the absence of common codification."
+}

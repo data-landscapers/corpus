@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-12-nuis-national-student-id-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "NUIS (Numero Unique d'Identification Scolaire)", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "Ministry of National Education with the Unite de gouvernance digitale, under the Prodigy project", "tiers": "national"}
+  ],
+  "note": "States a permanent individual student ID being enrolled (pilot 180,000 pupils in 792 schools, March-April 2026; 4.2 million in 19,303 schools targeted by 12 June 2026) but names no second education system using it and no link to the national ID or another sector."
+}

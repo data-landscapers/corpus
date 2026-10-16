@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-25-nga-vanguard-hcpan-connect-health-data",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Health Care Providers Association of Nigeria launched HCPAN Connect, a platform meant to let providers, HMOs, regulators, government and patients exchange and aggregate health data in a central repository, to roll out from Lagos to other cities.", "as_of": "2026-09-25", "date_precision": "day", "system": "HCPAN Connect", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The HMCAN chairman said health data in Nigeria is fragmented across systems that do not speak to one another, with no point of connection.", "as_of": "2026-09-25", "date_precision": "day", "system": "", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "HCPAN Connect", "country_label": "Nigeria", "class": "exchange", "platform": "", "owner": "Health Care Providers Association of Nigeria", "tiers": "private providers, HMOs, regulators; Lagos first"}
+  ],
+  "note": "as_of is the published date; the launch date is not stated."
+}

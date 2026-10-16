@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-08-togo-men-resultats-bac1-2026-digitalisation-systeme-educatif",
+  "facts": [],
+  "systems": [
+    {"system": "Bac1 results consultation platform (resultats.service-public.gouv.tg, WhatsApp chatbot, Telegram bot)", "country_label": "Togo", "class": "other", "platform": "web, WhatsApp, Telegram", "owner": "Ministere de l'Education Nationale", "tiers": ""}
+  ],
+  "note": "Results publication to candidates and schools; no link between education systems, learner identifier or national ID link stated."
+}

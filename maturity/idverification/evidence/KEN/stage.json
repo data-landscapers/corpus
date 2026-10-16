@@ -1,0 +1,17 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "4",
+   "use": "inservice",
+   "sectors": "several",
+   "usage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-006",
+   "gaps": "No source held since October 2023 gives a figure for verifications or counts the services relying on the ID.",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

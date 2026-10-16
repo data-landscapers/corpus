@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-27-mzansixchange-pilot-programme",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "National Treasury's pilot page sets out a one-year programme from October 2025 to September 2026 to build the data exchange platform and test it with use cases at SASSA, NSFAS, Home Affairs, the Treasury Secure Data Facility, the Office of the Accountant General, the Office of the Chief Procurement Officer, SEAD-SA and Statistics South Africa; the date is the page's published date.",
+   "as_of": "2025-09-27",
+   "date_precision": "day",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

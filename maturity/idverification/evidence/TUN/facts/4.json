@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-30-tunisie-apia-hoyia-raqmiya-mobile-id-investissement",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "The agricultural investment promotion agency APIA announced that from 1 July 2026 the digital identity (Mobile ID) is used to obtain the investment declaration certificate, and applicants must obtain one.",
+     "as_of": "2026-07-01", "date_precision": "day", "system": "Mobile ID", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Mobile ID", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "APIA investment declaration certificate service", "country_label": "Tunisia", "class": "relying", "platform": "", "owner": "APIA", "tiers": ""}
+  ],
+  "note": ""
+}

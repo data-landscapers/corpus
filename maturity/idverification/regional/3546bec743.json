@@ -1,0 +1,29 @@
+{
+ "slug": "2026-07-20-vove-id-compliance-readiness-programme-morocco",
+ "countries": {
+  "MAR": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "VOVE ID platform",
+     "country_label": "Morocco",
+     "class": "other",
+     "platform": "",
+     "owner": "VOVE ID",
+     "tiers": ""
+    }
+   ],
+   "note": "VOVE ID offers identity verification by API; the story does not say it checks against the national ID."
+  },
+  "NGA": {
+   "facts": [],
+   "systems": [],
+   "note": "Only a mention of the central bank recognising AI for monitoring financial crime; nothing on checks against the national ID."
+  },
+  "ZAF": {
+   "facts": [],
+   "systems": [],
+   "note": "Only a mention of an anti-money laundering draft bill; nothing on checks against the national ID."
+  }
+ }
+}

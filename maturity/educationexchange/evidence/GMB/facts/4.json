@@ -1,0 +1,10 @@
+{
+  "slug": "2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2-based Education Management Information System (Tracker)", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "basic and secondary education"},
+    {"system": "Teacher Attendance System (SMS-based)", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "regional and national reporting"},
+    {"system": "School Report Card (digitised)", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "school"}
+  ],
+  "note": "Describes a unique learner ID (January 2020, over 300,000 students) within the single DHIS2 EMIS; states no exchange between education systems and no link to the national ID or another sector."
+}

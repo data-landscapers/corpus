@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "On 22 January 2026 the DGE and ONECI signed a convention under which the national register of persons (RNPP) is to be the sole official source of voter identification data for the biometric electoral file.", "as_of": "2026-01-22", "date_precision": "day", "system": "fichier électoral biométrique (DGE)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "fichier électoral biométrique (DGE)", "country_label": "Guinea", "class": "relying", "platform": "", "owner": "DGE", "tiers": ""},
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ONECI", "tiers": ""}
+  ],
+  "note": ""
+}

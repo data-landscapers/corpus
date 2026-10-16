@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-19-cog-implementation-status-results-report-transforming-the-education-sector",
+  "facts": [],
+  "systems": [
+    {"system": "integrated EMIS (TRESOR indicator)", "country_label": "Republic of Congo", "class": "other", "platform": "", "owner": "MEPPSA", "tiers": ""}
+  ],
+  "note": "World Bank ISR says no integrated EMIS was available at 5 Dec 2025 (target Yes by Jul 2030); it states nothing on exchange between education systems, so no fact in class exchange."
+}

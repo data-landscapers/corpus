@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,exchange,exchange,coverage,inservice,2026-05-29,SOM-003,SOM-001=underway;SOM-002=underway,
+SOM,exchange,learnerid,coverage,,,,,nothing held
+SOM,exchange,linked,coverage,linked,2026-05-29,SOM-004,,

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-06-egypt-national-health-compact",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The National Health Compact commits Egypt to integrating databases between the Ministry of Social Solidarity and the Universal Health Insurance Authority to enrol Takaful and Karama beneficiaries into UHIS by 2030.",
+   "as_of": "2025-12-06",
+   "date_precision": "day",
+   "system": "MoSS-UHIA database integration",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Compact commits to pass a Telemedicine Law by 2030 codifying cross-platform interoperability standards under UHIS, and states digital transformation of health facilities remains a work in progress.",
+   "as_of": "2025-12-06",
+   "date_precision": "day",
+   "system": "Telemedicine Law interoperability standards",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoSS-UHIA database integration",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity; Universal Health Insurance Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

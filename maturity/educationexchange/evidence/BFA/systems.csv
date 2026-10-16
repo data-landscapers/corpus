@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BFA,fichier national des élèves,Burkina Faso,exchange,national pupil register with online enrolment and school ID cards,Ministry of Digital Transition and Ministry of Basic Education,primary to university,2025-06-27-numerisation-systeme-educatif-fichier-national-eleves
+BFA,Education Management Information System (SIGE) student management module,Burkina Faso,other,"centralized digital platform with smartphone data-collection app and web interface, planned under subcomponent 3.3",MEBAPLN,,2025-04-14-world-bank-gpe-restoring-education-system-burkina-faso
+BFA,shared digital platform centralizing educational data (subcomponent 4.1),Burkina Faso,,"centralizes data on examinations, assessments and performance, planned",MEBAPLN,,2025-04-14-world-bank-gpe-restoring-education-system-burkina-faso
+BFA,Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF),Burkina Faso,exchange,unique pupil identification file platform,"MENAPLN, Direction Générale des Études et des Statistiques Sectorielles",,2024-02-01-menaplan-fiue-bf-fichier-identification-unique-eleves

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "NITA-U stated at the 16 June 2026 launch of its strategic plan that UGHub currently connects 37 percent of MDAs, targeted to reach 73 percent by FY 2029/30; no count of entities is given.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "UGHub (Uganda Government Integrated Hub)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "WSO2",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

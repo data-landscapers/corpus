@@ -1,0 +1,18 @@
+{
+  "slug": "2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Digital Convergence Initiative says Cameroon is assessing its Common ID System, Civil Registration System and Disability Registry to explore their integration with the Unified Social Registry (RESUC) MIS.",
+     "as_of": "2025-10", "date_precision": "month", "system": "Unified Social Registry (RESUC) Management Information System", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The same source says a feasibility study is under way to design an integrated digital payment platform connecting the RESUC MIS with payment service providers.",
+     "as_of": "2025-10", "date_precision": "month", "system": "Unified Social Registry (RESUC) Management Information System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Unified Social Registry (RESUC) Management Information System", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Common ID System", "country_label": "Cameroon", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Civil Registration System", "country_label": "Cameroon", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Disability Registry", "country_label": "Cameroon", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the post's published date (2025-10-27); it gives no date for the assessment or the feasibility study."
+}

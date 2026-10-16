@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-04-decreto-presidencial-245-21-regime-juridico-do-nif",
+  "facts": [],
+  "systems": [
+    {"system": "Registo Geral de Contribuintes (NIF)", "country_label": "Angola", "class": "other", "platform": "", "owner": "AGT", "tiers": ""}
+  ],
+  "note": "The decree sets the NIF of nationals equal to the B.I. number and requires the B.I. and resident-card databases to be shared with the AGT register for updates (art. 16), but states no verification of people against the national ID by a service in use; a keyed register and a legal allowance are other."
+}

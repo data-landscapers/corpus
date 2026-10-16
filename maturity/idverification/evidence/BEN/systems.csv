@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,Telecom operator authentication against ANIP,Benin,relying,ANIP identity platforms,Telecom operators,,2026-02-02 Benin reports 75% of identification services accessed through digital platforms
+BEN,ANIP eKYC platform,Benin,relying,ANIP,ANIP,,2026-02-02 Benin reports 75% of identification services accessed through digital platforms
+BEN,ePass,Benin,relying,Seamfix GovSmart,Ministry of Foreign Affairs,,2026-02-02 Benin reports 75% of identification services accessed through digital platforms
+BEN,SIM registration against NPI,Benin,relying,RNPP / NPI,,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BEN,Public service platforms NPI authentication,Benin,relying,NPI + OTP,,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BEN,ANIP eKYC platform,Benin,relying,ANIP,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BEN,ePass,Benin,relying,Seamfix GovSmart,Ministry of Foreign Affairs / DEI,,2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app
+BEN,SIM card registration,Benin,other,,ARCEP Benin,,2025-02-22 Benin - unregistered SIM cards to be deactivated from 30 April 2025
+BEN,PAPSS,BEN,other,Pan-African Payment and Settlement System,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+BEN,C'est Moi card / NPI,Benin,other,WURI project,ANIP,,2026-05-20 Transforming lives in Benin a unique identification system
+BEN,Single Social Registry,Benin,relying,,Government of Benin,,2026-05-20 Transforming lives in Benin a unique identification system
+BEN,Bank and Mobile Money account opening,Benin,relying,,,,2026-05-20 Transforming lives in Benin a unique identification system
+BEN,eservices.anip.bj,Benin,other,,ANIP,,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
+BEN,ANIP BJ mobile app,Benin,other,,ANIP,,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
+BEN,Certificat NPI/fID (C'est moi),Benin,other,WURI project,ANIP,,2025-11-01 Identification System in Benin Increasing Access to Services
+BEN,Alafia microcredit programme,Benin,relying,,,,2025-11-01 Identification System in Benin Increasing Access to Services
+BEN,fID QR-code authentication app,Benin,relying,mobile application,,,2025-11-01 Identification System in Benin Increasing Access to Services
+BEN,Certificat NPI/fID (C'est moi),Benin,other,WURI project,,,2024-06-27 WURI digital ID project improving access to public services in Benin
+BEN,fID mobile application,Benin,relying,mobile application,,,2024-06-27 WURI digital ID project improving access to public services in Benin

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-24-moz-ecofinagency-unified-digital-platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "Ecofin Agency reports that ATDI is developing an interoperability platform to connect systems across government institutions, with launch planned for the fourth quarter of 2026.",
+     "as_of": "2026-09-24", "date_precision": "day", "system": "interoperability platform (ATDI)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "interoperability platform (ATDI)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "Digital Transformation and Innovation Agency (ATDI)", "tiers": ""},
+    {"system": "Portal do Cidadão", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the article's published date, as it gives no date for the development stage."
+}

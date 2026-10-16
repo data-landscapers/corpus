@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-09-ken-techweez-nemis-kemis-migration",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS (Kenya Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "ECE to university"},
+    {"system": "NEMIS (National Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "mostly basic education"}
+  ],
+  "note": "Describes KEMIS replacing NEMIS as one consolidated EMIS and its rollout problems; planned links to Maisha Namba are called unanswered, so no exchange, identifier or link is stated."
+}

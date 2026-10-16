@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-namibia-openemis-country-highlights-2025",
+  "facts": [],
+  "systems": [
+    {"system": "OpenEMIS Exams", "country_label": "Namibia", "class": "other", "platform": "OpenEMIS", "owner": "Community Systems Foundation (vendor)", "tiers": ""}
+  ],
+  "note": "States only that OpenEMIS Exams gained verification, case management and online-examination features in 2025; no link or exchange with another system."
+}

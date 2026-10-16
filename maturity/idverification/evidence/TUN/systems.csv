@@ -1,0 +1,28 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,E-Houwiya,Tunisia,relying,mobile ID,Ministry of Communication Technologies,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
+TUN,E-Bawaba,Tunisia,relying,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
+TUN,E-CNAM,Tunisia,relying,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
+TUN,Uqudo identity verification,Tunisia,other,document verification against MRZ for KYC/AML,Uqudo,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
+TUN,E-Houwiya,Tunisia,other,,,,2026-09-18-tun-tunisietribune-ministere-agriculture-integre-identite-numerique-e-houwiya
+TUN,Ministry of Agriculture online platforms and services,Tunisia,relying,,"Ministry of Agriculture, Water Resources and Fisheries",,2026-09-18-tun-tunisietribune-ministere-agriculture-integre-identite-numerique-e-houwiya
+TUN,Mobile ID,Tunisia,other,,,,2026-06-30-tunisie-apia-hoyia-raqmiya-mobile-id-investissement
+TUN,APIA investment declaration certificate service,Tunisia,relying,,APIA,,2026-06-30-tunisie-apia-hoyia-raqmiya-mobile-id-investissement
+TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
+TUN,Investment project declaration service,Tunisia,relying,,Tunisia Investment Authority,,2026-06-26-techafricanews-mobile-id-mandatory-investors
+TUN,Mobile ID,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
+TUN,DigiGO,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
+TUN,Registre National des Entreprises online services,Tunisia,relying,,Registre National des Entreprises,,2026-04-30-tunisie-rne-full-digital-mobile-id
+TUN,National Business Register (RNE) digital platform,Tunisia,relying,electronic platform,National Business Register,,2026-04-27-africanmanager-national-business-register-digital
+TUN,Online tax identification card issuance,Tunisia,,,"General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",,2026-04-27-africanmanager-national-business-register-digital
+TUN,digital identity,Tunisia,other,,,,2026-04-27-africanmanager-national-business-register-digital
+TUN,E-Houwiya,Tunisia,other,mobile ID with X.509 certificate,ICT ministry with National Digital Certification Agency and National Computer Center,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,E-Bawaba,Tunisia,relying,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,E-CNAM,Tunisia,relying,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,E-People,Tunisia,relying,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,E-CNSS,Tunisia,relying,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,Madrassati,Tunisia,relying,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,Bank remote onboarding (KYC),Tunisia,relying,,"banks, under Central Bank of Tunisia rules",,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
+TUN,Registre de l'identifiant unique du citoyen,Tunisia,other,,,,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique
+TUN,Plateforme d'interopérabilité,Tunisia,relying,,Centre national de l'informatique (interoperability operator),,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique
+TUN,National Business Register remote declaration platform,Tunisia,relying,,National Business Register,,2026-02-13-jort-019-declaration-existence-societes-distance
+TUN,electronic tax identification card,Tunisia,,,"Ministry of Finance, sealed by the National Agency for Electronic Certification",,2026-02-13-jort-019-declaration-existence-societes-distance

@@ -1,0 +1,90 @@
+{
+ "slug": "2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The article says the Nigeria Police Force's POSSAP platform leans on NIN as its verification backbone (published date used; no event date given).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "POSSAP",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The article says the Federal Road Safety Corps' contactless licensing system leans on NIN as its verification backbone (published date used; no event date given).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "FRSC contactless licensing system",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The article says the Nigeria Immigration Service's passport renewal app leans on NIN as its verification backbone (published date used; no event date given).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "NIS passport renewal app",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The article says President Tinubu has ordered every ministry, department and agency to adopt NINAuth as the default verification layer; the directive's date is not stated (published date used).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "NINAuth mandate for MDAs",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The article says SIM registration, tax filing and banking now run through the same NINAuth identity rail, alongside police, road safety and immigration services (published date used).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "web, API and mobile",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "POSSAP",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Nigeria Police Force",
+   "tiers": ""
+  },
+  {
+   "system": "FRSC contactless licensing system",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Federal Road Safety Corps",
+   "tiers": ""
+  },
+  {
+   "system": "NIS passport renewal app",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Nigeria Immigration Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-09-mozambique-aid-recipient-digital-register",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Mozambique's INGD says its digital register of humanitarian aid recipients, being tested in Beira and due to launch in October 2026 at a WFP-stated cost of about 20 million meticais, is to interoperate with the database of the social action institute INAS so the two show who has received food aid.", "as_of": "2026-08-09", "date_precision": "day", "system": "digital register of humanitarian aid recipients (INGD)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "digital register of humanitarian aid recipients (INGD)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INGD", "tiers": ""},
+    {"system": "INAS database", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INAS", "tiers": ""}
+  ],
+  "note": "As_of is the published date; the document gives the INGD release only as 'Friday'."
+}

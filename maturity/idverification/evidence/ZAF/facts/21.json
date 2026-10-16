@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Minister of Social Development told Parliament that SASSA's online facial biometric verification of grant clients relies on a biometric image captured at the Department of Home Affairs when a smart ID card is applied for, with fingerprint verification at local offices as the fallback.", "as_of": "2026-03", "date_precision": "month", "system": "SASSA biometric verification", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "The Minister reported that 997,379 social grant beneficiaries were biometrically verified at SASSA local offices from September 2025 to 11 March 2026, with monthly counts from 59,689 (March, part month) to 186,995 (February).", "as_of": "2026-03-11", "date_precision": "day", "system": "SASSA biometric verification", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "SASSA biometric verification", "country_label": "South Africa", "class": "relying", "platform": "SASSA online facial biometric system and local-office fingerprint enrolment", "owner": "South African Social Security Agency (Department of Social Development)", "tiers": ""}
+  ],
+  "note": ""
+}

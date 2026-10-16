@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-09-who-lesotho-2025-annual-report",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "WHO's 2025 Lesotho report says the country advanced interoperability across HMIS, HRH, LMIS and surveillance platforms in 2025, and lists institutionalizing interoperability of digital systems as a continuing challenge.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "Interoperability across HMIS, HRH, LMIS and surveillance platforms", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Lesotho", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "DORIS (Digital Online Reporting and Information System)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "LMIS (Logistics Management Information System)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Capture is truncated near its end; the National Digital Health Strategy 2025-2030 endorsement is a policy, so no fact is recorded for it."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-07-angola-worldbank-test-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {"system": "Higher Education Management Information System (HEMIS)", "country_label": "AGO", "class": "other", "platform": "", "owner": "Ministry of Higher Education, Science, Technology and Innovation (MESCTI)", "tiers": "higher education"}
+  ],
+  "note": "HEMIS is named only as a system to be modernised under Component 3; the document states no link or data exchange between education systems, and no learner identifier or linkage."
+}

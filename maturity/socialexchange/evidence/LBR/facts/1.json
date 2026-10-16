@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-liberia-realise-crisis-response-plan-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The REALISE project page says all its transfers are delivered digitally through MTN mobile money and that the Liberia Household Social Registry means no new targeting or payment system is needed, as at the 6 May 2026 meeting.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Liberia Household Social Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Household Social Registry",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

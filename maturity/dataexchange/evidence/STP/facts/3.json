@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The PReSE press release of 1 September 2025 says an interoperability platform between the civil registry databases (SIGA and Bilhete de Identidade) and the electoral roll database is being developed by the University of Aveiro, with DGRN and the national electoral commission technicians trained to maintain it, and was to be presented on 4 September 2025.",
+     "as_of": "2025-09-01", "date_precision": "day", "system": "plataforma de interoperabilidade (registo civil / recenseamento eleitoral)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "plataforma de interoperabilidade (registo civil / recenseamento eleitoral)", "country_label": "STP", "class": "exchange", "platform": "", "owner": "DGRN and CEN/GTE; developed by Universidade de Aveiro", "tiers": ""},
+    {"system": "SIGA", "country_label": "STP", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""},
+    {"system": "Bilhete de Identidade", "country_label": "STP", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}
+  ],
+  "note": "as_of is the document's published date; it gives no event date for the development."
+}

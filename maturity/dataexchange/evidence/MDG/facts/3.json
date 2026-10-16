@@ -1,0 +1,12 @@
+{
+  "slug": "2022-11-14-ugd-cadre-interoperabilite",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "The UGD's interoperability framework (v1.0.2) states that the Orinasa project set up the first interoperable ecosystem, which allowed secure data exchange between EDBM, DGI, MINJUS and INSTAT; no date is given for the event, so the page's last-update date is used.",
+     "as_of": "2022-11-14", "date_precision": "day", "system": "Orinasa interoperable ecosystem", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Orinasa interoperable ecosystem", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "Digital Governance Unit (UGD)", "tiers": ""}
+  ],
+  "note": ""
+}

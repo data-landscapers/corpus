@@ -1,0 +1,15 @@
+{
+ "slug": "2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme d'interopérabilité",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Centre national de l'informatique (interoperability operator)",
+   "tiers": ""
+  }
+ ],
+ "note": "The decree-law defines the interoperability platform and names the CNI to set up and run it; it does not say a platform is built, piloted or live."
+}

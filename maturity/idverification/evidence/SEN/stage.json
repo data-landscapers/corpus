@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "use": "inservice",
+   "sectors": "",
+   "usage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-001;SEN-002",
+   "gaps": "No source held since October 2023 shows services in two or more sectors checking against the ID.",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

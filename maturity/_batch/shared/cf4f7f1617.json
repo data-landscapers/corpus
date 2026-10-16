@@ -1,0 +1,79 @@
+{
+ "slug": "2026-03-05-ministry-of-health-committee-of-supply-speech",
+ "studies": {
+  "healthexchange": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "The Ministry of Health's Committee of Supply speech reports the Health Information Exchange being implemented, with its Client Registry and Facilities Registry ready for deployment and further expansion planned next financial year.",
+       "as_of": "2026-03-05",
+       "date_precision": "day",
+       "system": "Health Information Exchange",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Information Exchange",
+       "country_label": "Botswana",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      },
+      {
+       "system": "Centralised Electronic Medical Record",
+       "country_label": "Botswana",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      },
+      {
+       "system": "eLMIS",
+       "country_label": "Botswana",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Medical Stores",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The speech reports the Health Information Exchange's Client Registry, which identifies patients uniquely by Omang or passport number, as ready for deployment.",
+       "as_of": "2026-03-05",
+       "date_precision": "day",
+       "system": "Client Registry",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Client Registry",
+       "country_label": "Botswana",
+       "class": "relying",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

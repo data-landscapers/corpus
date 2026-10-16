@@ -1,0 +1,17 @@
+{
+  "slug": "2025-09-04-openhexa-niger-interoperabilite-sante",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Bluesquare says that from 30 June to 6 July 2025 a workshop with the Ministry of Health's e-Santé directorate set up the OpenHEXA interoperability platform on ministry servers, with a roadmap for production use and a second workshop planned for October-November 2025 for two use cases (SNIS to OpenHEXA to Superset, and ERA5 to OpenHEXA to DEDOP/NMDR).",
+     "as_of": "2025-07", "date_precision": "month",
+     "system": "OpenHEXA", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "OpenHEXA", "country_label": "Niger", "class": "exchange", "platform": "OpenHEXA", "owner": "Ministère de la Santé et de l'Hygiène Publique (Direction de la e-Santé)", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Niger", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "OpenIMIS", "country_label": "Niger", "class": "other", "platform": "OpenIMIS", "owner": "", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "Niger", "class": "other", "platform": "OpenClinic", "owner": "", "tiers": ""},
+    {"system": "SNIS", "country_label": "Niger", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

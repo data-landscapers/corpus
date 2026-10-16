@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Namibia's Chief Registrar reports that the home affairs and social protection ministries integrated the National Population Registration System with the social protection system, which verifies beneficiaries' existence and live status against the population register and eliminated ghost beneficiaries.", "as_of": "2026-07-18", "date_precision": "day", "system": "NPRS-social protection integration", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The presentation states that all applicants for the Covid-19 Emergency Income Grant, which required proof of citizenship via national ID credentials, were verified against the NPRS; no date is given for the grant, so the document's published date is used.", "as_of": "2026-07-18", "date_precision": "day", "system": "Emergency Income Grant verification against NPRS", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "NPRS-social protection integration", "country_label": "Namibia", "class": "relying", "platform": "National Population Registration System", "owner": "Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""},
+    {"system": "Emergency Income Grant verification against NPRS", "country_label": "Namibia", "class": "relying", "platform": "National Population Registration System", "owner": "", "tiers": ""},
+    {"system": "National Population Registration System (NPRS)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""},
+    {"system": "electronic identity card", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+  ],
+  "note": ""
+}

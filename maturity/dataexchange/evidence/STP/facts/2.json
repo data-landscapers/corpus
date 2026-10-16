@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none",
+     "fact": "The World Bank's ISR of 11 April 2025 reports zero government digital systems connected to the national data exchange layer under the project as at 8 April 2025 (target 5 by May 2027), saying Government is looking to implement a government-wide data exchange layer after the ID management system pilot.",
+     "as_of": "2025-04-08", "date_precision": "day", "system": "government-wide data exchange layer", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "government-wide data exchange layer", "country_label": "STP", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

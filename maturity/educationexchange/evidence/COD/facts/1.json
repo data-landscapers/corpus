@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-12-au-iped-emis-self-assessment-drc",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Democratic Republic of Congo", "class": "other", "platform": "DHIS2 discussed as a possible platform, not adopted", "owner": "", "tiers": ""}
+  ],
+  "note": "A workshop assessing the EMIS against AU norms and discussing DHIS2; no link between education systems, learner identifier or national ID link is stated."
+}

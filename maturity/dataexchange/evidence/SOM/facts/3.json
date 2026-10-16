@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-10-somalia-auditor-general-fmis-systems-fragmentation",
+  "facts": [],
+  "systems": [
+    {"system": "SFMIS", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Federal Government of Somalia", "tiers": ""},
+    {"system": "Somali Business Registration System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Tax Administration System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Road Transport Tax System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Rental Income Tax System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-Visa", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Non-Tax Revenue System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DFS Revenue Collection System", "country_label": "Somalia", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The Auditor-General found seven revenue systems not connected to SFMIS (2025 audit, reported 2026-08-10); this is the financial management system and system-to-system links, not a data exchange platform or its absence, so no fact."
+}

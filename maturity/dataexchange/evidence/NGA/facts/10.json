@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-17-nitda-dpi-technical-standards-draft-v1-3",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Exchange (NGDX)", "country_label": "Nigeria", "class": "exchange", "platform": "X-Road specifications listed among interoperability standards", "owner": "", "tiers": ""}
+  ],
+  "note": "Draft technical standard (v1.3, March 2025) requires a National Data Exchange platform for inter-agency data sharing in the data layer; it gives no date or status of any build, pilot or service, so no fact."
+}

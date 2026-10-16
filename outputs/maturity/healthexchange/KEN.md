@@ -1,0 +1,13 @@
+# Kenya
+
+## Interoperability of health systems
+
+**Health systems exchanging data.** [The Ministry of Health launched a Health Information Exchange as one of four components, described as real-time secure data exchange between hospitals, counties and national systems](<https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation>). [Health CS Aden Duale said the national digital health system, which the Social Health Insurance Act requires to run member registration, pre-authorisation and claims through a secure and interoperable digital platform, is being implemented under a government contract with the Safaricom Consortium](<https://citizen.digital/article/health-cs-duale-dismisses-claims-ksh12b-sha-funds-paid-to-private-firm-n387700>).
+
+**Exchange across the health system.** No source held since October 2023 says three or more health systems exchange data, or a national exchange is in service. The nearest held fact: [the one given above](<https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation>).
+
+**Patients matched by a national identifier.** No source held since October 2023 says patient records are linked through the national ID or a national health identifier. The nearest held fact: [the one given above](<https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation>).
+
+***Noted, not assessed***. [Kenya Core FHIR Implementation Guide](<https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/>); [national HIE](<https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/>); [Kenya Patient Summary FHIR Implementation Guide](<https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/>); [Kenya Digital Health Superhighway](<https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/>); [Biometric Health Identification (BHI)](<https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation>); [Social Health Authority claims system](<https://citizen.digital/article/health-cs-duale-dismisses-claims-ksh12b-sha-funds-paid-to-private-firm-n387700>).
+
+***Not held***. No source held since October 2023 says three or more health systems exchange data, or a national exchange is in service.

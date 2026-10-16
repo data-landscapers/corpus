@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-01 Identification System in Benin Increasing Access to Services",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The World Bank blog says programmes such as the Alafia microcredit programme and the education system now benefit from a mobile application that authenticates fID certificates through the embedded QR code, and that SIM card providers and services can rely on the fID system to identify and authenticate individuals.", "as_of": "2025-11", "date_precision": "month", "system": "Alafia microcredit programme", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The World Bank blog names microcredit (finance) and the education system among the programmes using the QR-code authentication app for fID certificates, and lists social protection, health, education, finance and SIM providers as services the fID enables.", "as_of": "2025-11", "date_precision": "month", "system": "fID QR-code authentication app", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Certificat NPI/fID (C'est moi)", "country_label": "Benin", "class": "other", "platform": "WURI project", "owner": "ANIP", "tiers": ""},
+    {"system": "Alafia microcredit programme", "country_label": "Benin", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "fID QR-code authentication app", "country_label": "Benin", "class": "relying", "platform": "mobile application", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

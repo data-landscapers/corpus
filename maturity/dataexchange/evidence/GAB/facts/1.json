@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-09-techafricanews-gabon-four-digital-projects",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "Tech Africa News reports Gabon is developing an interoperability platform meant to let government information systems securely exchange data, reviewed at the sixth e-Gabon-SIS and Gabon Digital steering committee; no live connections or figures are given.",
+     "as_of": "2026-09-08", "date_precision": "day", "system": "interoperability platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "interoperability platform", "country_label": "Gabon", "class": "exchange", "platform": "", "owner": "ANINF (National Agency for Digital Infrastructure and Frequencies) implementing, under the Ministry of Digital Economy", "tiers": ""},
+    {"system": "National Digital Identity System", "country_label": "Gabon", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "government messaging system", "country_label": "Gabon", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

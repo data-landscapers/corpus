@@ -1,0 +1,32 @@
+{
+  "slug": "2025-10-21-asp-connect-digital-system-launch",
+  "studies": {
+    "idverification": {
+      "countries": {
+        "SYC": {
+          "facts": [
+            {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Seychelles Nation reports the Agency for Social Protection's ASP Connect platform, launched internally on 15 October 2025, is accessible through the SeyID portal, which hosts all government entities' systems; the free text gives no detail of what SeyID checks.", "as_of": "2025-10-15", "date_precision": "day", "system": "ASP Connect (Konekte Avek ASP)", "class": "relying"}
+          ],
+          "systems": [
+            {"system": "ASP Connect (Konekte Avek ASP)", "country_label": "Seychelles", "class": "relying", "platform": "SeyID portal", "owner": "Agency for Social Protection", "tiers": ""},
+            {"system": "SeyID portal", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Government of Seychelles", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "socialexchange": {
+      "countries": {
+        "SYC": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "Seychelles Nation reports the Agency for Social Protection's ASP Connect system, launched internally on 15 October 2025, is accessible through the SeyID portal; the free text names no data exchanged with the ID, a payment provider or another programme.", "as_of": "2025-10-15", "date_precision": "day", "system": "ASP Connect (Konekte Avek ASP)", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "ASP Connect (Konekte Avek ASP)", "country_label": "Seychelles", "class": "exchange", "platform": "SeyID portal", "owner": "Agency for Social Protection", "tiers": ""}
+          ],
+          "note": "Body is paywalled after the lede; the link to SeyID is access through the portal only."
+        }
+      }
+    }
+  }
+}

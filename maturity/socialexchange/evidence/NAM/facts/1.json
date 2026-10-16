@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-17-namibia-moves-government-grant-payments-onto-instant-payment-network",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The first live government-to-person grant payments went through Namibia's instant payment network on 17 June 2026, to beneficiaries in the Marginalised Beneficiaries grant category, via Bank Windhoek, in a controlled go-live.", "as_of": "2026-06-17", "date_precision": "day", "system": "Government grant payments over the instant payment network (Marginalised Beneficiaries grant)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Instant Payment Programme (IPP) instant payment network", "country_label": "Namibia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Government grant payments over the instant payment network (Marginalised Beneficiaries grant)", "country_label": "Namibia", "class": "exchange", "platform": "Instant Payment Programme (IPP) instant payment network", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""}
+  ],
+  "note": ""
+}

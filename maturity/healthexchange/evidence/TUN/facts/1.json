@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-07-tun-lapresse-chu-sahloul-identifiant-unique-sante-180000",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "identifier", "value": "linked", "fact": "CHU Sahloul's communique says it had unified 180,000 health identifiers under the Identifiant unique de santé by 6 October 2026, the lead among public hospitals in the roll-out, and describes the identifier as linking each patient's health data and giving health structures access to the information whatever the place of care.", "as_of": "2026-10-06", "date_precision": "day", "system": "Identifiant unique de santé", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Identifiant unique de santé", "country_label": "Tunisia", "class": "exchange", "platform": "", "owner": "", "tiers": "public hospitals (CHU Sahloul reported)"}
+  ],
+  "note": ""
+}

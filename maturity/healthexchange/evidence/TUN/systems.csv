@@ -1,0 +1,24 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,Identifiant unique de santé,Tunisia,exchange,,,public hospitals (CHU Sahloul reported),2026-10-07-tun-lapresse-chu-sahloul-identifiant-unique-sante-180000
+TUN,Identifiant sanitaire unique and dossier médical numérique,Tunisia,,,Ministry of Health,,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
+TUN,National health identifier,Tunisia,,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,Sahetna,Tunisia,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,Electronic medical records,Tunisia,,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,Teleradiology,Tunisia,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,المعرف الوطني الصحي (national health identifier),Tunisia,exchange,EVAX identifier,Ministry of Health,,2026-07-27-assabahnews-moarref-watani-sihi-sahetna
+TUN,المنصة الوطنية للتصريح بالولادات (national births-declaration platform),Tunisia,exchange,,Ministry of Health,,2026-07-27-assabahnews-moarref-watani-sihi-sahetna
+TUN,Sahetna.tn,Tunisia,other,,Ministry of Health,,2026-07-27-assabahnews-moarref-watani-sihi-sahetna
+TUN,EVAX,Tunisia,other,,Ministry of Health,,2026-07-27-assabahnews-moarref-watani-sihi-sahetna
+TUN,Temporary health identifier for emergency cases,Tunisia,exchange,,Ministry of Health,,2026-07-27-assabahnews-moarref-watani-sihi-sahetna
+TUN,Ma santé,Tunisia,,,Ministry of Health,,2026-07-24-tunisie-plateforme-sanitaire-numerique-ma-sante
+TUN,Identifiant national pilote de santé,Tunisia,,,Ministry of Health,,2026-07-24-tunisie-plateforme-sanitaire-numerique-ma-sante
+TUN,Sahetna.tn,Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
+TUN,National Health Identifier (INS),Tunisia,,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
+TUN,Identifiant National de Sante (INS),Tunisia,exchange,,Ministry of Health,,2026-07-21-lapresse-tunisie-portail-sahetna-identifiant-national-sante
+TUN,Sahetna.tn,Tunisia,exchange,,Ministry of Health,,2026-07-21-lapresse-tunisie-portail-sahetna-identifiant-national-sante
+TUN,National health identifier (INS),Tunisia,exchange,,Ministry of Health,,2026-07-16-tunisie-radionationale-kebili-identifiant-national-sante
+TUN,National Health Identifier (NHI),Tunisia,exchange,,Ministry of Health,,2026-07-15-tmo-national-health-identifier-pilot
+TUN,E-Sante programme,Tunisia,exchange,,Ministry of Health,,2026-02-15-letemps-arp-adoption-loi-financement-e-sante
+TUN,Electronic Health Records pilot (DMI),Tunisia,other,,,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid
+TUN,SAMU paper reporting,Tunisia,other,,,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid
+TUN,Health System Strengthening Project information systems,Tunisia,exchange,,Ministry of Health,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid

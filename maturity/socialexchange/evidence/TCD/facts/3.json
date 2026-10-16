@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-10-realitesinfo-anats-pam-identification-unique-rsu-rnbp",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "On 10 March 2026 the ANATS director-general and a WFP Africa Bureau delegation discussed interoperability between the RSU and the Registre National Biométrique des Populations so every RSU entrant is identified by the NNI, with a memorandum of agreement still to be signed.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Chad",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Biométrique des Populations (RNBP)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

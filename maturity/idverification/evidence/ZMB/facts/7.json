@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-09-zambia-government-service-bus-services-update",
+ "facts": [],
+ "systems": [
+  {
+   "system": "electronic Know Your Customer System (e-KYC)",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "e-KYC is described as holding details of clients who access the SMART Zambia system; no check against a national ID is stated."
+}

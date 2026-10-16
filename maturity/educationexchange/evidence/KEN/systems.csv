@@ -1,0 +1,21 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,ECE to university,2026-09-09-ken-techweez-nemis-kemis-migration
+KEN,NEMIS (National Education Management Information System),Kenya,other,,Ministry of Education,mostly basic education,2026-09-09-ken-techweez-nemis-kemis-migration
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,ECDE to higher education,2025-05-27-harmonize-education-data-maisha-namba-biometricupdate
+KEN,NEMIS (National Education Management Information System),Kenya,other,,,,2025-05-27-harmonize-education-data-maisha-namba-biometricupdate
+KEN,Maisha Namba national digital ID,Kenya,other,,,,2025-05-27-harmonize-education-data-maisha-namba-biometricupdate
+KEN,NEMIS,Kenya,other,,,,2026-09-10-ken-primeafrica-kwale-identity-documents-gaps
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,"Ministry of Education, State Department for Basic Education",,2026-08-17-kemis-learner-validation-guidance
+KEN,KEMIS Learner Validation Engine,Kenya,exchange,KEMIS,KEMIS Secretariat,,2026-08-17-kemis-learner-validation-guidance
+KEN,KNEC examination and assessment databases,Kenya,other,,Kenya National Examinations Council,,2026-08-17-kemis-learner-validation-guidance
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,"Ministry of Education, State Department for Basic Education",,2025-08-28-kemis-schools-data-validation-circular
+KEN,NEMIS (National Education Management Information System),Kenya,other,,Ministry of Education,,2025-08-28-kemis-schools-data-validation-circular
+KEN,KEMIS (Kenya Education Management Information System),Kenya,exchange,,"Ministry of Education, State Department for Basic Education",,2025-05-15-kemis-team-unveiled
+KEN,NEMIS (National Education Management Information System),Kenya,other,,Ministry of Education,,2025-05-15-kemis-team-unveiled
+KEN,Maisha ecosystem Unique Personal Identifier (UPI),Kenya,,,National Registration Bureau / Civil Registration Services,,2025-05-15-kemis-team-unveiled
+KEN,Unified academic credential verification mechanism,Kenya,exchange,,Public Service Commission; Kenya National Examinations Council; Ministry of Education,,2026-09-18-government-plans-unified-system-to-verify-public-servants-certificates-nairobi-w
+KEN,National qualifications database (KNQA),Kenya,other,,Kenya National Qualifications Authority,,2026-08-18-kenya-times-kenya-national-qualifications-framework-bill-proposes
+KEN,National qualifications database (KNQA),Kenya,other,,Kenya National Qualifications Authority,,2026-07-24-kenya-national-qualifications-framework-amendment-bill-2026
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,,2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation
+KEN,NEMIS (National Education Management Information System),Kenya,other,,Ministry of Education,,2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud
+KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,,2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud

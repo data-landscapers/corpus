@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-nga-dhis2-education-implementation-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "Digital National Education Management Information System (DNEMIS)", "country_label": "Nigeria", "class": "other", "platform": "DHIS2 (Aggregate and Tracker)", "owner": "Federal Ministry of Education (NEMIS, NEDI)", "tiers": "national"}
+  ],
+  "note": "DNEMIS is an EMIS on one platform with learner and teacher registries; the page states no data exchange with another education system, no shared learner identifier and no link to the national ID."
+}

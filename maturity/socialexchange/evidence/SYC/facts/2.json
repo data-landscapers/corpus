@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments",
+  "facts": [],
+  "systems": [
+    {"system": "ASP beneficiary registry", "country_label": "Seychelles", "class": "exchange", "platform": "", "owner": "Agency for Social Protection", "tiers": ""}
+  ],
+  "note": "Names an existing beneficiary registry and payment systems used for REPAIR cash transfers but states no data exchange between systems."
+}

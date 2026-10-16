@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-29-worldbank-gambia-rise-project-isr05520",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "none",
+   "fact": "The World Bank ISR for the RISE project records no interoperability across the GamSR, the education management information systems, CRVS and the health insurance system at baseline (January 2024) and a current value of 0 at 25 November 2025, against a target of at least 3 systems interoperable by October 2028; one instance is being verified.",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "Interoperability of the GamSR, EMISs (MoBSE and MoHERST), CRVS and health insurance system",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GamSR",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EMIS (MoBSE and MoHERST)",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "MoBSE, MoHERST",
+   "tiers": ""
+  },
+  {
+   "system": "CRVS",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Health insurance system",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The indicator counts systems interoperable, not a named exchange platform; no platform, protocol or system pair is named."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-20-nch-2025-salako-digital-health-remarks",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Minister of State for Health said the National Digital Health Blueprint implementation has put at least 7.2 million Nigerians on the National Health Information Exchange Platform.", "as_of": "2025-11-20", "date_precision": "day", "system": "National Health Information Exchange Platform", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "breadth", "value": "wide", "fact": "The Minister of State for Health described a National Health Information Exchange Platform with at least 7.2 million Nigerians registered on it, and separately said over 200 hospitals are integrated with Electronic Medical Records systems and mHealth initiatives; as_of is the document's published date, none being given.", "as_of": "2025-11-20", "date_precision": "day", "system": "National Health Information Exchange Platform", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Minister said the ministry will continue scaling up technology-enabled platforms to deliver a National Health Information Exchange System connecting public and private, tertiary, secondary and primary health facilities.", "as_of": "2025-11-20", "date_precision": "day", "system": "National Health Information Exchange System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Health Information Exchange Platform", "country_label": "Nigeria", "class": "exchange", "platform": "", "owner": "Federal Ministry of Health and Social Welfare", "tiers": "national"},
+    {"system": "Electronic Medical Records systems", "country_label": "Nigeria", "class": "", "platform": "", "owner": "", "tiers": "hospitals"},
+    {"system": "Edo State Digital Health Initiative", "country_label": "Nigeria", "class": "", "platform": "", "owner": "Edo State", "tiers": "state"}
+  ],
+  "note": ""
+}

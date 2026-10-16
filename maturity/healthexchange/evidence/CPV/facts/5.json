@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-18 Cabo Verde advances digitalisation of National Health System (SNS)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Minister of Health announced that Cabo Verde is advancing a unique patient code, digital medical records and electronic prescriptions centralising clinical data so professionals can access a patient's history across hospitals and health centres.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "National Health System (SNS) digitalisation",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health System (SNS) digitalisation",
+   "country_label": "Cabo Verde",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

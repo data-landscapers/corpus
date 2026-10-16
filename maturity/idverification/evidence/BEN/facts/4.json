@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-22 Benin - unregistered SIM cards to be deactivated from 30 April 2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIM card registration",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ARCEP Benin",
+   "tiers": ""
+  }
+ ],
+ "note": "SIM registration deadline stated, but no check against the national ID is described."
+}

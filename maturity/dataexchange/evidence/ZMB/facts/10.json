@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-11 DZAP World Bank PAD",
+  "facts": [],
+  "systems": [
+    {"system": "ZamConnect", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamPortal", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamPay", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamSign", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": ""}
+  ],
+  "note": "The excerpt names ZamConnect for data exchange as a complementary platform but says nothing on whether it is built, in service or planned; the excerpt omits the component descriptions."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-12-egypt-privacy-chaos-sim-biometric-critique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Proposed biometric identity verification for new mobile subscribers",
+   "country_label": "Egypt",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Telecom Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Says NTRA proposed biometric verification for new subscribers and that operators are meant to check ID in person; states no link to the national ID database, so no fact."
+}

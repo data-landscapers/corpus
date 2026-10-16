@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-government-performance-report-2023-2024",
+  "facts": [],
+  "systems": [
+    {"system": "SEMIS", "country_label": "Eswatini", "class": "other", "platform": "web based", "owner": "Ministry of Education and Training", "tiers": ""},
+    {"system": "National Dynamic Social Registry", "country_label": "Eswatini", "class": "", "platform": "", "owner": "Deputy Prime Minister's Office", "tiers": ""}
+  ],
+  "note": "SEMIS is an EMIS (PIN driven, real time) and the report says only that it allows linkages with other management information systems; no link in use, contracted or under way is stated."
+}

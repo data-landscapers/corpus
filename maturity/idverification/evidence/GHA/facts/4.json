@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-19-modern-ghana-ghana-sim-registration-reset-what-past",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "A commentary says about 30 million SIMs were linked to Ghana Cards and 21 million completed biometric capture in the 2021-23 exercise, with biometrics never authenticated against NIA records.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "SIM registration (Ghana Card linkage)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A commentary reports the Communications Minister's planned new SIM registration using API integrations between mobile operators, the NCA and the NIA for real-time biometric cross-checks, with an L.I. before Parliament and procurement of a service provider underway.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "SIM registration biometric verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration (Ghana Card linkage)",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations; National Communications Authority; mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": "Facts as of the document's published date where it gives no event date; author's commentary."
+}

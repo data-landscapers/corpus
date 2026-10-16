@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-06-ine-anuario-estatistico-sanitario-2023-minsa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de Informação Sanitária",
+   "country_label": "Angola",
+   "class": "",
+   "platform": "",
+   "owner": "MINSA",
+   "tiers": "all levels"
+  }
+ ],
+ "note": "Statistical yearbook; no exchange between systems stated, and the system is not described beyond its data chain."
+}

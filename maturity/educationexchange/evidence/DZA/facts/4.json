@@ -1,0 +1,39 @@
+{
+ "slug": "2026-02-25-quatre-plateformes-numeriques-services-universitaires--wearetech-fr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre numérique des filières universitaires",
+   "country_label": "DZA",
+   "class": "",
+   "platform": "",
+   "owner": "MESRS",
+   "tiers": ""
+  },
+  {
+   "system": "Réseau universitaire des incubateurs et centres de développement de l'entrepreneuriat (AUNEI)",
+   "country_label": "DZA",
+   "class": "",
+   "platform": "",
+   "owner": "MESRS",
+   "tiers": ""
+  },
+  {
+   "system": "Plateforme de consultations psychologiques en ligne",
+   "country_label": "DZA",
+   "class": "",
+   "platform": "",
+   "owner": "MESRS",
+   "tiers": ""
+  },
+  {
+   "system": "Plateforme de réservation de repas",
+   "country_label": "DZA",
+   "class": "",
+   "platform": "",
+   "owner": "MESRS",
+   "tiers": ""
+  }
+ ],
+ "note": "States 73 digital services integrated into the sector's information system but describes no exchange between education systems, learner ID or national ID link."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The director general says the directorate is working on an interoperability system so that administrations, banks and social protection bodies can verify the authenticity of a national ID card in real time; the document speaks of this in the future tense (they 'will be able to verify').",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "système d'interopérabilité (DGPF)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "carte nationale d'identité biométrique",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction générale de la Population et de la Famille",
+   "tiers": ""
+  },
+  {
+   "system": "ID Mobile",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction générale de la Population et de la Famille",
+   "tiers": ""
+  },
+  {
+   "system": "système d'interopérabilité (DGPF)",
+   "country_label": "Djibouti",
+   "class": "relying",
+   "platform": "",
+   "owner": "Direction générale de la Population et de la Famille",
+   "tiers": "public administrations, banks, social protection bodies"
+  }
+ ],
+ "note": "Date is the document's published date."
+}

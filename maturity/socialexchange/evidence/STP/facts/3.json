@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-27-sao-tome-lancamento-ii-recertificacao-expansao-cadastro-social-unico",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "STP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Direção de Proteção Social, Solidariedade e Família (DPSSF)",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch of the CSU update; intent that the CSU be the main tool for identifying beneficiaries of any social programme, and that it avoid duplicate benefits, but no named second programme drawing on it and no link stated."
+}

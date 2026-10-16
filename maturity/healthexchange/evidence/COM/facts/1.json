@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-dhis2-comores-climate-health-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "Comoros", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "DHIS2 Climate & Health instance", "country_label": "Comoros", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "testing instance"}
+  ],
+  "note": "Describes DHIS2 as the HMIS since 2022 and a manual import of meteorological data with an MoH-ANACM data exchange MOU; no exchange between two health systems is stated."
+}

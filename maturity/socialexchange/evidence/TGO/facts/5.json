@@ -1,0 +1,92 @@
+{
+ "slug": "2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank's ISR for the ASTRE programme (P178835) records that as at 30 September 2024 the eID was soft-launched on 27 November 2023, the RSPM social registry software was 75% complete, and the data exchange platform between eID, RSPM, BOMS and other administrative systems was 'Not in place', with a target of December 2026.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Interoperable social information system (SIIS) and data exchange platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The same report records a multi-programme, multi-provider payments platform with an eID-to-mobile-money mapper (Payments Bridge, to be maintained by ANID) as a programme target for December 2025, with FSB and Novissi still running separate systems with mobile money payment capabilities as at 30 September 2024.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Payments Bridge and multi-program payments platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Interoperable social information system (SIIS)",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  },
+  {
+   "system": "Registre Social des Personnes et des Menages (RSPM)",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  },
+  {
+   "system": "Data exchange platform",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  },
+  {
+   "system": "Beneficiary Operations Management System (BOMS)",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Payments Bridge and multi-program payments platform",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  },
+  {
+   "system": "Togo eID",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  },
+  {
+   "system": "Novissi",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "FSB",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

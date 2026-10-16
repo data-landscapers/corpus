@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,GREEN (Gestion Rationnelle des Effectifs de l'Éducation Nationale),Senegal,exchange,"sub-module of MIRADOR; web, generates the IEN",Ministère de l'Éducation nationale (SIMEN),,2026-09-03-simen-guide-green-ien-identifiant-education-nationale
+SEN,SIMEN (Système d'Information et de Management de l'Éducation nationale),Senegal,,suite of interconnected tools,Ministère de l'Éducation nationale,,2026-09-03-simen-guide-green-ien-identifiant-education-nationale
+SEN,MIRADOR,Senegal,,,Ministère de l'Éducation nationale,,2026-09-03-simen-guide-green-ien-identifiant-education-nationale
+SEN,PLANET 3,Senegal,other,"school and establishment management platform, built by ministry developers",Ministère de l'Éducation nationale,,2025-10-03-aps-lancement-planet-3-gestion-ecoles-etablissements

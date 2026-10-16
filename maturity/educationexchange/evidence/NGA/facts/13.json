@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-29-dnemis-fg-unveils-national-digital-education-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital National Education Management Information System (DNEMIS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Education",
+   "tiers": "national"
+  },
+  {
+   "system": "Public DNEMIS Portal",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Ministry of Education",
+   "tiers": "national"
+  }
+ ],
+ "note": "DNEMIS unifies school, learner, teacher and infrastructure records in one database; no link to another education system is stated."
+}

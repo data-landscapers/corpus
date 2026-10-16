@@ -1,0 +1,42 @@
+{
+ "slug": "2023-08-18-liberia-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The ministry page says the operational Social Registry Information System and Integrated MIS let the LSSNP, the REALISE project and social protection partners streamline operations on the Liberia Household Social Registry, which holds 252,662 households.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "Liberia Household Social Registry (LHSR)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Household Social Registry (LHSR)",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  },
+  {
+   "system": "Social Registry Information System (SRIS)",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Management Information System (MIS)",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date; the page gives no other date."
+}

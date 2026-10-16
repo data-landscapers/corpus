@@ -1,0 +1,14 @@
+{
+  "slug": "2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "Decree 2024-073 of 15 May 2024 makes every poor household enrolled in the Registre Social eligible for Tekavoul's regular transfers (articles 11) and every vulnerable enrolled household eligible for its shock-response transfers (article 13), so the programme's regular and Tekavoul Choc components both draw beneficiaries from the Registre Social.",
+     "as_of": "2024-05-15", "date_precision": "day", "system": "Registre Social", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TEKAVOUL", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Taazour", "tiers": ""},
+    {"system": "Houwiyeti", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Agence Nationale du Registre des Populations et des Titres Securises", "tiers": ""}
+  ],
+  "note": ""
+}

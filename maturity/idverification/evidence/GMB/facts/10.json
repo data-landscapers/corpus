@@ -1,0 +1,23 @@
+{
+ "slug": "2024-10-01-dpi-map-gambia-country-profile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National digital identity (DIDS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "NA",
+   "tiers": ""
+  },
+  {
+   "system": "Gamswitch",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Profile marks digital authentication function, KYC packet collection and two-sector use cases NA; no stated use by another system."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-07-system-says-no-to-hungry-pensioners",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The finance and gender ministries confirmed in a joint notice that 15,825 old-age grants were suspended because beneficiary names were unverified in the National Population Registry System, so the grant beneficiary list is checked against the population registry.", "as_of": "2026-06", "date_precision": "month", "system": "Old-age grant beneficiary list", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "A gender ministry spokesperson said the ministry is planning to incorporate its system with that of the Ministry of Home Affairs for improved reporting of deaths.", "as_of": "2026-06", "date_precision": "month", "system": "Old-age grant beneficiary list", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Old-age grant beneficiary list", "country_label": "Namibia", "class": "exchange", "platform": "", "owner": "Ministry of Gender Equality and Child Welfare", "tiers": ""},
+    {"system": "National Population Registry System", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+  ],
+  "note": "Dates are the month of the 7 June 2026 article; it dates the joint notice to the Wednesday of that week."
+}

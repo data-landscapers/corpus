@@ -1,0 +1,11 @@
+{
+  "slug": "2021-03-23-social-protection-policy-2021-2030",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The policy, adopted by Cabinet in March 2021, lists unintegrated management information systems and fragmentation among current social protection challenges and says there is no integrated management information system for social protection.", "as_of": "2021-03-23", "date_precision": "day", "system": "Social protection programme management information systems", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Integrated Management Information System (IMIS) for social protection", "country_label": "Namibia", "class": "exchange", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""},
+    {"system": "National Population Register", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs and Immigration", "tiers": ""}
+  ],
+  "note": "as_of is the published date. The policy only plans an IMIS to be linked to the National Population Register, so no under-way fact; capture is an excerpt that stops in the introduction."
+}

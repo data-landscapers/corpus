@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-13-ict-sector-2025-implementation-woes-times",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The Times reports that in 2025 the Department of e-Government failed to operationalise the Enterprise Service Bus meant to let ministries communicate, leaving services in silos, and that it faces pressure in 2026 to onboard all major ministries onto it.", "as_of": "2025", "date_precision": "year", "system": "Enterprise Service Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Enterprise Service Bus", "country_label": "Malawi", "class": "exchange", "platform": "", "owner": "Department of e-Government", "tiers": ""}
+  ],
+  "note": ""
+}

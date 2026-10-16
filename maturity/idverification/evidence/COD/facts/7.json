@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The article says RDC-PASS will support biometric authentication of SIM cards and integrate automated e-KYC for financial services providers, under a PPP signed June 2025 giving Trident exclusive e-KYC rights for 20 years, with deployment in stages after the 13 June 2026 launch.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "biometric SIM registration",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The article says the framework promotes interoperability among government agencies, telecommunications operators and financial institutions, with e-government access through the single identifier.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "e-government access via RDC-PASS",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric SIM registration",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "RDC-PASS",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "automated e-KYC for financial services providers",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "RDC-PASS",
+   "owner": "Trident Digital Tech DRC Africa SAS",
+   "tiers": ""
+  },
+  {
+   "system": "e-government platforms",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "RDC-PASS",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

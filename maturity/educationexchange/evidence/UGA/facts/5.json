@@ -1,0 +1,34 @@
+{
+ "slug": "2023-03-28-dhis2-routine-data-collection-uganda-education",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The article says Primary Leaving Examination results from the National Examination Board have been imported into DHIS2-DEMIS, the decentralised EMIS piloted in 10 of 175 administrative sites, for analysis by district and school.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "DHIS2-DEMIS import of UNEB PLE results",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2-DEMIS",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Sports with HISP Uganda and Save the Children Uganda",
+   "tiers": "district and school (10 pilot sites)"
+  },
+  {
+   "system": "UNEB examinations results",
+   "country_label": "Uganda",
+   "class": "",
+   "platform": "",
+   "owner": "Uganda National Examinations Board",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date (2023-03-28) as no import date is given."
+}

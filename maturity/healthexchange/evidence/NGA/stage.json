@@ -1,0 +1,17 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "4",
+   "exchange": "inservice",
+   "breadth": "wide",
+   "identifier": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-002",
+   "gaps": "No source held since October 2023 says patient records are linked through the national ID or a national health identifier.",
+   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
+  }
+ ]
+}

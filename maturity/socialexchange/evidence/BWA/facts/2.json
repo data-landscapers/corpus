@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-07-botswana-development-policy-loan-ii-icr",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank's completion report says 98 percent of beneficiaries of the five main poverty-targeted social programmes were updated in the Single Social Registry by March 2025, against a 75.8 percent target.", "as_of": "2025-03", "date_precision": "month", "system": "Single Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Single Social Registry", "country_label": "Botswana", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

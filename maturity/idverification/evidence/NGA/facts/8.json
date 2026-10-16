@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-18-papss-security-data-governance-dailycircular",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "NGA",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank",
+   "tiers": ""
+  },
+  {
+   "system": "MANSA",
+   "country_label": "NGA",
+   "class": "other",
+   "platform": "centralised CDD/KYC repository",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": "Story says PAPSS keeps no PII or KYC and connectors pass Afreximbank's MANSA KYC repository; no check of people against a national ID is stated."
+}

@@ -1,0 +1,28 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,URA TIN-to-NIN migration,Uganda,relying,,Uganda Revenue Authority with NIRA,,2026-09-02-uga-tin-to-nin-migration-analysis
+UGA,SIM registration (MTN Uganda) against NIRA data-exchange module,Uganda,relying,NIRA information-exchange module,MTN Uganda,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,Bank and telecom partner connections to NIRA information-exchange module,Uganda,relying,NIRA information-exchange module,partner banks and telecoms,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,Driving permit application,Uganda,relying,,,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,NIRA information-exchange module,Uganda,other,,NIRA,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,Digital KYC via NIRA database,Uganda,relying,,Bank of Uganda-regulated financial institutions,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
+UGA,Tahaluf e-KYC and e-verification system,Uganda,relying,,Tahaluf,,2026-09-23-newvision-uga-tahaluf-ai-border-control-nira
+UGA,Tahaluf AI smart gate system,Uganda,other,,Tahaluf,,2026-09-23-newvision-uga-tahaluf-ai-border-control-nira
+UGA,"National Identification Number (NIN) use in SIM registration, e-KYC and taxation",Uganda,relying,,NIRA,,2026-09-07-nilepost-nira-national-id-expo-register-gap
+UGA,NITA-U digital authentication and government systems integration,Uganda,relying,,NITA-U,,2026-09-07-nilepost-nira-national-id-expo-register-gap
+UGA,SIM card registration,Uganda,,,UCC,,2026-07-23-uganda-crackdown-telecoms-vandalism
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-30-government-launches-integration-of-national-id-tax-identific
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-government-launches-integration-of-national-id-tax-identific
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,2026-09-01-businesstimesug-uganda-nin-replace-tin
+UGA,SIM registration,Uganda,relying,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,Bank customer verification,Uganda,relying,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,National ID QR-code verification,Uganda,,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,2025-11-12-ura-shift-from-tin-to-nin
+UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,"2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN"

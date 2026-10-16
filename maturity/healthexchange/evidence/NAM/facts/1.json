@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-namibia-digital-community-system-health-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Community System (DCS)", "country_label": "Namibia", "class": "other", "platform": "mobile app on phones or tablets", "owner": "Ministry of Health and Social Services", "tiers": "community health workers to facilities"}
+  ],
+  "note": "DCS is a community data-collection app that shares records with facilities; the article gives no rollout date and names no exchange between separate health systems, so no fact for the exchange class."
+}

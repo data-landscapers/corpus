@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-04-eswatini-disability-indicators-emis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2-based national EMIS",
+   "country_label": "Eswatini",
+   "class": "",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes disability indicators added to the EMIS; no exchange between education systems stated."
+}

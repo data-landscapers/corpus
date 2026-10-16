@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-15-eswatini-youth-employment-opportunities-project-pid",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank project information document says the Imbeleko registry will be financed with an MIS with interoperability mechanisms, and that registry data will target beneficiaries of the project's youth income component, starting with Shiselweni's first cycle.",
+   "as_of": "2025-03-15",
+   "date_precision": "day",
+   "system": "Eswatini Social Registry (Imbeleko)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Imbeleko (National Dynamic Social Registry)",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "Management Information System financed under EYEOP Component 2",
+   "owner": "Deputy Prime Minister's Office (implementing agency, with World Bank financing)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

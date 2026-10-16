@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-cote-divoire-gontougo-mhealth-650-equipements",
+  "facts": [],
+  "systems": [
+    {"system": "mHealth platform", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of Health, Public Hygiene and Universal Health Coverage (UNICEF and Canada support)", "tiers": "community health workers; supervisors"}
+  ],
+  "note": "States the handover of 380 smartphones and 270 tablets on 2026-08-28 to extend the mHealth community-health platform to Gontougo; says nothing about data exchange between systems."
+}

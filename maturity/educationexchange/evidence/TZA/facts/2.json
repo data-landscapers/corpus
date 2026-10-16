@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-22-policyforum-emis-knowledge-gap-mbeya",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "", "tiers": "school;district"}
+  ],
+  "note": "Concerns teacher training on EMIS in Mbeya; states nothing on data exchange between education systems, a shared learner identifier or links to other sectors."
+}

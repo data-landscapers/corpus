@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-20-swz-data-the-power-is-in-the-use",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 for Education (EMIS)", "country_label": "Eswatini", "class": "other", "platform": "DHIS2", "owner": "Ministry of Education and Training", "tiers": "school;learner"}
+  ],
+  "note": "Describes a single EMIS (learner PINs inside it, used for planning and UIS reporting); no exchange with another education system, cross-system learner ID or national ID link is stated."
+}

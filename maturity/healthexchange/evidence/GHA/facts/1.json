@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-ghs-launches-pheoc-strategic-documents",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Health Emergency Operations Centre (PHEOC)", "country_label": "Ghana", "class": "other", "platform": "integrated dashboards", "owner": "Ghana Health Service", "tiers": "national, regional, district, community"}
+  ],
+  "note": "PHEOC is a planned emergency coordination centre using integrated dashboards; no exchange between named health systems is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-03-08-comores-code-electoral-2023",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Article 11 of the electoral code (law of 27 December 2022, promulgated 8 March 2023) names the biometric national identity document as one of two recognised documents for verifying the identity of an applicant to the electoral file; it states a legal rule, not a count of checks.",
+   "as_of": "2023-03-08",
+   "date_precision": "day",
+   "system": "Fichier électoral (national electoral file)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier électoral (national electoral file)",
+   "country_label": "Comoros",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Law only; no operating record of checks against the ID, so the fact is a legal rule."
+}

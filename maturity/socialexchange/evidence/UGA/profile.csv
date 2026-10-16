@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,exchange,exchange,coverage,inservice,2026-09-18,UGA-004;UGA-005;UGA-006,UGA-003=underway;UGA-001=underway;UGA-002=underway,
+UGA,exchange,registry,coverage,,,,,nothing held
+UGA,exchange,linked,coverage,,,,,nothing held

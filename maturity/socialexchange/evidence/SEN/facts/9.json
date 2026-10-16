@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-23-guichet-unique-acces-services-sociaux-senegal",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The minister of Family, Social Action and Solidarities said at a workshop in Saly that each structure in the social sector has its own information system, which does not always allow data to be shared with other actors, and that a unified system is still to be built ahead of a planned single social window.", "as_of": "2026-07-23", "date_precision": "day", "system": "Social protection information systems of the structures in the social sector", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Social protection information systems of the structures in the social sector", "country_label": "Senegal", "class": "exchange", "platform": "", "owner": "Ministry of Family, Social Action and Solidarities (structures in the sector)", "tiers": ""},
+    {"system": "Guichet social unique (planned single social window)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Government of Senegal", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-28-lejournalducongo-digitalisation-gestion-examens-etat-exatrust",
+  "facts": [],
+  "systems": [
+    {"system": "Exatrust", "country_label": "Congo", "class": "other", "platform": "web and mobile results-verification platform", "owner": "Meppsa, Direction des systemes d'information et de communication", "tiers": ""}
+  ],
+  "note": "Exatrust is a results-verification lookup used by Campus France, an outside body, not a link between two education systems; exam-centre geolocation on tablets is not an exchange."
+}

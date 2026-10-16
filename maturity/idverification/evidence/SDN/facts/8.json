@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-21-suna-sudan-baldna-trade-registry-integration",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "SUNA via allAfrica reports the Minister of Digital Transformation said the Baldna platform, which runs the Ministry of Industry and Trade's import, export and importer/exporter registry procedures, had been linked to the digital identity system; the document does not say people are checked against it.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Baldna platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SudaPass",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  },
+  {
+   "system": "Baldna platform",
+   "country_label": "Sudan",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

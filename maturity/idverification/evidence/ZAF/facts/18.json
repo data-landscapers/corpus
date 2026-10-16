@@ -1,0 +1,15 @@
+{
+ "slug": "2021-08-30 31 First we must build Infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID card",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "States only that over 13 million ID cards were issued; no other system checking against it."
+}

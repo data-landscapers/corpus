@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-13-acp-rdc-pass-lancement-president-tshisekedi",
+  "facts": [],
+  "systems": [
+    {"system": "RDC-PASS", "country_label": "COD", "class": "other", "platform": "", "owner": "Government of the DRC (Ministry of Digital Economy)", "tiers": ""}
+  ],
+  "note": "Launch report on 2026-06-13 names no other system that checks people against RDC-PASS; interoperability and services (financial, education, health) are stated as aims only."
+}

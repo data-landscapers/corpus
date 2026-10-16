@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Patient Summary FHIR Implementation Guide", "country_label": "Kenya", "class": "other", "platform": "HL7 FHIR 4.0.1", "owner": "Digital Health Agency (DHA), Kenya", "tiers": ""},
+    {"system": "Kenya Digital Health Superhighway", "country_label": "Kenya", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A data specification (0.1.0 CI build) for sharing patient summaries; it states no exchange in service, under way or absent."
+}

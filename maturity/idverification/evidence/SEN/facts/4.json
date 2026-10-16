@@ -1,0 +1,10 @@
+{
+  "slug": "2016-09-29-decret-2016-1536-carte-identite-biometrique-cedeao-nin",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Article 2 of decree 2016-1536 makes the ECOWAS biometric identity card serve as the voter card for citizens on the electoral rolls, with the elector number and polling place printed on it beside the NIN.", "as_of": "2016-09-29", "date_precision": "day", "system": "Electoral register (listes électorales)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Electoral register (listes électorales)", "country_label": "Senegal", "class": "relying", "platform": "", "owner": "State electoral administration", "tiers": ""}
+  ],
+  "note": ""
+}

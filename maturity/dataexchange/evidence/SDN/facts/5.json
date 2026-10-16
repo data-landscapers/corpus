@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-national-investment-authority-in-the-process-of-electronic-single-window",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The National Investment Authority's Secretary-General said the electronic single window will operate once all entities related to investment work are linked electronically, with no date given.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Electronic single window",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic single window",
+   "country_label": "Sudan",
+   "class": "exchange",
+   "platform": "",
+   "owner": "National Investment Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Statement of intent; as_of is the published date."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "Decree 2018-1270 (art. 6) says electronic communications providers have access to the Office National d'Identification database, on terms to be set by order of the Security Minister, for subscriber identification; it states no check in operation.",
+     "as_of": "2018-12-31", "date_precision": "day",
+     "system": "SIM and cybercafe subscriber identification", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "SIM and cybercafe subscriber identification", "country_label": "Burkina Faso", "class": "relying", "platform": "operators' subscriber identification databases", "owner": "electronic communications providers; regulator ARCEP", "tiers": ""},
+    {"system": "Office National d'Identification database", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Office National d'Identification", "tiers": ""}
+  ],
+  "note": ""
+}

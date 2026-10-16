@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-itweb-africa-sierra-leone-ai-deepfake-awareness-campaign",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WhatsApp verification service",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "WhatsApp",
+   "owner": "Directorate of Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "The planned verification service checks content, not people against the national ID."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-15-kemis-team-unveiled",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Education unveiled a 15-member multi-agency team to build KEMIS, consolidating the separate registers for ECDE, basic education, TIVET and universities into one database, with a pilot announced for July 2025 and full transition in September, and with planned integration with the births and deaths register through Civil Registration Services and the National Registration Bureau.", "as_of": "2025-05-15", "date_precision": "day", "system": "KEMIS (Kenya Education Management Information System)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "KEMIS (Kenya Education Management Information System)", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Ministry of Education, State Department for Basic Education", "tiers": ""},
+    {"system": "NEMIS (National Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Maisha ecosystem Unique Personal Identifier (UPI)", "country_label": "Kenya", "class": "", "platform": "", "owner": "National Registration Bureau / Civil Registration Services", "tiers": ""}
+  ],
+  "note": ""
+}

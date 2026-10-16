@@ -1,0 +1,13 @@
+# Mozambique
+
+## National data exchange system
+
+**Exchange platform built and in service.** [MISAU's SIS-MA page describes an interoperability platform, a mediating layer centralising communication between SIS-MA and other systems, with live integrations to the medicines-logistics system of CMAM (Ferramenta Central) and to the Ministry of Justice's SIRCEV for death-certificate data](<https://sisma.misau.gov.mz/interoperability.html>). [ATDI trained 25 technicians from nine public bodies, including civil identification, migration, tax, social action and registries, on the X-Road data-exchange layer to prepare them to integrate their institutions' systems, with World Bank EDGE support](<https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/>). [ATDI is developing an interoperability platform for government that is expected to be available in the fourth quarter of 2026, so citizens give their data only once](<https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services>).
+
+**Many systems connected.** No source held since October 2023 counts ten or more institutions or systems connected. The nearest held fact: [the one given above](<https://sisma.misau.gov.mz/interoperability.html>).
+
+**Use reported.** No source held since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://sisma.misau.gov.mz/interoperability.html>).
+
+***Noted, not assessed***. [Ferramenta Central](<https://sisma.misau.gov.mz/interoperability.html>); [SIRCEV](<https://sisma.misau.gov.mz/interoperability.html>); [Portal do Cidadão](<https://www.ecofinagency.com/news-digital/2409-59214-mozambique-plans-unified-digital-public-services-platform-by-2029>); [National mobile digital identity and e-signature ecosystem](<https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/>); [Citizen Portal](<https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services>); [national mobile digital ID](<https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services>).
+
+***Not held***. No source held since October 2023 counts ten or more institutions or systems connected.

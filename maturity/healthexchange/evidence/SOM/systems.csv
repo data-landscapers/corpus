@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,RAAD (BAMNI),Somalia,exchange,,Somalia Federal Ministry of Health,"111 public primary healthcare facilities, six states",2026-05-27-somalia-raad-bamni-ehr-dhis2-integration
+SOM,DHIS2,Somalia,other,DHIS2,Somalia Federal Ministry of Health,national HMIS for aggregate reporting,2026-05-27-somalia-raad-bamni-ehr-dhis2-integration
+SOM,Caafimaad+ Digitalized Data System (C+ DDS),Somalia,exchange,,CaafimaadPlus Consortium,"over 40 facilities, 9 regions, 25+ districts",2026-04-14-somalia-caafimaad-plus-digitalized-data-system
+SOM,Pharmaceutical Information Management System (PIMS),Somalia,other,,International Medical Corps,handheld devices with barcode scanning for dispensing data,2026-04-14-somalia-caafimaad-plus-digitalized-data-system
+SOM,DHIS2,Somalia,other,DHIS2,Somali Federal Ministry of Health,government national platform,2026-04-14-somalia-caafimaad-plus-digitalized-data-system

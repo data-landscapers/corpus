@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-31-hmis-eswatini-cmis-dhis2-integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CMIS",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "SQL Server",
+   "owner": "Ministry of Health HMIS unit",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health HMIS unit",
+   "tiers": ""
+  }
+ ],
+ "note": "CMIS-to-DHIS2 flows are a health-sector integration, not a government data exchange platform."
+}

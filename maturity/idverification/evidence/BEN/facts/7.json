@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption",
+  "facts": [],
+  "systems": [
+    {"system": "eservices.anip.bj", "country_label": "Benin", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""},
+    {"system": "ANIP BJ mobile app", "country_label": "Benin", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""}
+  ],
+  "note": "Gives ANIP's own 2025 issue figures and channel split for civil-status and identity documents; no other system is said to check people against the ID."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-14-cybernetica-national-interoperability-platform-phase2",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Cybernetica states phase 1 introduced UXP to five key ministries and institutions.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National interoperability platform (UXP)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Cybernetica states a phase 2 contract was signed with the Ministries of Communication Technologies and of Economy and Planification, extending the platform to RNE, TIA, APII, CEPEX, the Ministry of Finance and the Central Bank, scheduled to complete in 2027.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "National interoperability platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National interoperability platform (UXP)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "Cybernetica Unified eXchange Platform (UXP)",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

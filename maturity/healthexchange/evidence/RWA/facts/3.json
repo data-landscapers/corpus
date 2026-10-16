@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-13-rbc-nhic-pandemic-fund-board-visit",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Rwanda Biomedical Centre says Pandemic Fund board members were shown, at the National Health Intelligence Center, the integration of laboratory information systems with indicator-based surveillance, with several data streams converging in one platform.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "National Health Intelligence Center",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health Intelligence Center",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Rwanda Biomedical Centre",
+   "tiers": ""
+  },
+  {
+   "system": "IMPURUZA",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "Rwanda Biomedical Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Laboratory information systems",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

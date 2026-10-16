@@ -1,0 +1,15 @@
+{
+ "slug": "2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national unique (RNU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "hosted by ADIE",
+   "owner": "DGPSN",
+   "tiers": ""
+  }
+ ],
+ "note": "2019 institutional baseline (RNU built from 2015, hosted by ADIE); states no exchange, link or shared use."
+}

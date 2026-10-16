@@ -1,0 +1,60 @@
+{
+ "slug": "2026-05-29-somalia-govstack-high-school-certificate-system",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The High School Certificate System connects the MOECHE Examination System registry so exam results are retrieved automatically and verified digital certificates are issued online, per GovStack's showcase page; as_of is the publication date, the document gives none.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "High School Certificate System (HSC)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The HSC verifies students' identity through the eAqoonsi/NIRA national ID as one of its integrated building blocks, per GovStack; as_of is the publication date, the document gives none.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "High School Certificate System (HSC)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "High School Certificate System (HSC)",
+   "country_label": "Somalia",
+   "class": "exchange",
+   "platform": "GovStack building blocks",
+   "owner": "Government of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "MOECHE Examination System",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "MOECHE",
+   "tiers": ""
+  },
+  {
+   "system": "eAqoonsi / NIRA digital ID",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "SomaliPay / GovPay",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

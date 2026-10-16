@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Sierra Leone", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The roadmap states that 81.2% of digital health solutions neither connect with DHIS2 nor integrate with others and 10% are HL7-FHIR compatible, and plans standards, a national EHR and a unique health ID review; it names no exchange contracted, built or in service, so no fact."
+}

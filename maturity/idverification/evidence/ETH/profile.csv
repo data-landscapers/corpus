@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,use,use,coverage,inservice,2026-10-09,ETH-001;ETH-003;ETH-005;ETH-007;ETH-009;ETH-011;ETH-014;ETH-015;ETH-016,ETH-010=underway;ETH-013=underway;ETH-008=underway;ETH-018=underway,
+ETH,use,sectors,coverage,,,,,nothing held
+ETH,use,usage,coverage,reported,2026-10-09,ETH-002;ETH-004;ETH-006;ETH-012;ETH-017,,

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIG-RSU",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Workshop on RSU interoperability names ONECI as a partner system but states no check of people against the national ID."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "A 7-11 September 2025 workshop at Grand-Bassam, run by the Ministry of National Cohesion through the Filets Sociaux programme office, aims to update the Registre Social Unique's interoperability framework for data sharing between SIG-RSU and CNAM, CNPS, CGRAE, ONECI, WURI and DOB.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "SIG-RSU",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIG-RSU",
+       "country_label": "Cote d'Ivoire",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of National Cohesion, Solidarity and Fight against Poverty (Filets Sociaux)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

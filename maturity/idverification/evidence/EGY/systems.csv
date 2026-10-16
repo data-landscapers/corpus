@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+EGY,E-KYC (WE),Egypt,,,Telecom Egypt (WE),,2026-09-12-youm7-egypt-telecom-egypt-we-e-kyc-launch
+EGY,EFG Hermes ONE e-passport verification (VLens),Egypt,other,VLens,EFG Holding / EFG Hermes,,2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding
+EGY,VLens,Egypt,,,VLens,,2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding
+EGY,Digital Financial Identity platform (eKYC),Egypt,,,Central Bank of Egypt,,2026-08-23-ahram-egypt-central-bank-digital-financial-identity-rules
+EGY,Digital Financial Identity (DFI) Platform,Egypt,,,Central Bank of Egypt,,2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations
+EGY,Araqamy (My Lines),Egypt,relying,My NTRA app,National Telecom Regulatory Authority (NTRA),,2026-08-17-egypt-sim-verification-5-million-users
+EGY,Biometric SIM registration eKYC,Egypt,relying,,National Telecommunications Regulatory Authority (NTRA),,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
+EGY,My Lines,Egypt,other,,NTRA,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
+EGY,Proposed biometric identity verification for new mobile subscribers,Egypt,relying,,National Telecom Regulatory Authority,,2026-08-12-egypt-privacy-chaos-sim-biometric-critique
+EGY,Digital identity card,Egypt,other,,Ministry of Communications and Information Technology,,2025-12-18 Egypt targets full government automation and digital ID verification by 2026
+EGY,Haweya,Egypt,other,mobile app,Central Bank of Egypt,,2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)
+EGY,Digified eKYC,Egypt,relying,,Digified,,2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate
+EGY,"SIM registration (mobile operators, corporate registration systems)",Egypt,relying,operators' registration systems and mobile apps,four mobile operators under NTRA,,2026-08-10-egypt-sim-reverification-operators-prosecution
+EGY,MOIEG-PASS,Egypt,relying,"Android app, iOS expected",Ministries of Interior and of Communications and Information Technology,,2026-03-10-egypt-moieg-pass-selfie-biometrics-pilot-biometricupdate
+EGY,Public Prosecution electronic portal,Egypt,relying,,Public Prosecution,,2026-09-10-egy-youm7-niyaba-amma-vothaiq-hala-shakhsiya-bawaba-electroniya
+EGY,Digital Egypt portal digital identity,Egypt,other,Digital Egypt portal,Ministry of Communications and Information Technology,,2026-09-10-egy-youm7-niyaba-amma-vothaiq-hala-shakhsiya-bawaba-electroniya
+EGY,Public Prosecution electronic portal,Egypt,relying,,Public Prosecution,,2026-09-01-egypte-parquet-service-electronique-affaires-familiales
+EGY,Digital Egypt portal digital identity,Egypt,other,Digital Egypt portal,Ministry of Communications and Information Technology,,2026-09-01-egypte-parquet-service-electronique-affaires-familiales
+EGY,Social care services platform (digital.moss.gov.eg),Egypt,relying,,Ministry of Social Solidarity,,2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives
+EGY,Government digital exchange,Egypt,other,,,,2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives
+EGY,Digital identity system,Egypt,other,,,,2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives

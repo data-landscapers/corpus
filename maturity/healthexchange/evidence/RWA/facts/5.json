@@ -1,0 +1,92 @@
+{
+ "slug": "2025-04-03-rwanda-health-intelligence-center-launch",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Ministry of Health says the Health Intelligence Center, launched 3 April 2025, takes in data from DHIS2, the eBuzima and cEMR medical records, CRVS, eLMIS, WelTel, emergency medical services and the health workforce system.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "Health Intelligence Center",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "The Ministry of Health says the Health Intelligence Center integrates data from DHIS2, eBuzima, cEMR, CRVS, eLMIS, WelTel, emergency medical services and the health workforce management system, from village level to referral hospitals.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "Health Intelligence Center",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Health Intelligence Center",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "six-layer architecture with data lakehouse",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "eBuzima",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "cEMR",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CRVS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "eLMIS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WelTel",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Health Workforce Management System",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

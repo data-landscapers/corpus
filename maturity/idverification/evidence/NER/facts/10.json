@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric national ID (AES)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": "Says chips enable verification for government services and banking in general terms; no relying system named or described as in use."
+}

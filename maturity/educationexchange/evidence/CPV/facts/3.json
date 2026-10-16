@@ -1,0 +1,23 @@
+{
+ "slug": "2019-02-01-cabo-verde-minedu-sige-sistema-integrado-gestao-escolar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Gestão Escolar (SIGE)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministério da Educação; built by NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Porton di nos ilha",
+   "country_label": "Cabo Verde",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "National school-management rollout and a parent portal; no exchange between education systems stated."
+}

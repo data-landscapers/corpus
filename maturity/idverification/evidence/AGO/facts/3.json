@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Identidade Digital (base de dados multifuncional, Ministério da Justiça)", "country_label": "Angola", "class": "other", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": ""}
+  ],
+  "note": "Registrar presentation of the target ID architecture; names an authentication platform in phase II but states no other system checking people against the ID."
+}

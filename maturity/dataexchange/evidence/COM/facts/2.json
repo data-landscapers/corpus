@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-16-e-administration-project-launch-eu-expertise-france-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The government launched the EU-funded, Expertise France-implemented e-Administration project, whose stated scope includes interoperability between ministries and institutions for secure data sharing; no platform is described as built or in service.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "e-Administration project (inter-ministry interoperability)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Administration project (inter-ministry interoperability)",
+   "country_label": "Comoros",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Comoros; funded by the EU, implemented by Expertise France",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

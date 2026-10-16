@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan",
+  "facts": [],
+  "systems": [
+    {"system": "Maadeni (النظام المعلوماتي المندمج معدني)", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Agence nationale Maaden Mauritanie", "tiers": ""},
+    {"system": "GIMTEL CONNECT", "country_label": "Mauritania", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The APD opinion of 2026-03-24 on the Maadeni mining register limits its interconnection to the population register and the GIMTEL CONNECT platform; it does not say what GIMTEL CONNECT does, and describes no government data exchange platform."
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,exchange,platform,none,"The Global Digital Identity Index's GovTech dataset for Eritrea (data year 2022) answers No to whether there is a government service bus platform, and No to whether the FMIS, tax, customs, HRMIS, social insurance, e-procurement and PIMS systems exchange data with other systems.",2022,year,Government service bus platform,exchange,2022-01-01-eritrea-global-digital-identity-index-govtech,https://digitalidentityindex.com/countries/eritrea/govtech/

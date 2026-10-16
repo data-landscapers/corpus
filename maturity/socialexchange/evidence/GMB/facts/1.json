@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-23 The Gambia Social Registry - A Success Story in Systems Building",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The World Bank blog says the Gambia Social Registry (GamSR), covering 203,022 households in 40 of 43 districts, underpinned the Nafa Quick COVID-19 response (78,422 households) and the Nafa cash-transfer programme (16,966 households), and is also used by the National Disaster Management Agency, the ROOTS project and the World Food Programme; no event date is given, so the publication date is used.",
+     "as_of": "2024-04-23", "date_precision": "day", "system": "Gambia Social Registry (GamSR)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Gambia Social Registry (GamSR)", "country_label": "The Gambia", "class": "exchange", "platform": "Social Registry Information System (SRIS)", "owner": "", "tiers": ""}
+  ],
+  "note": "No statement of a link to the national ID, a payment provider or another sector's system; only shared use of the registry."
+}

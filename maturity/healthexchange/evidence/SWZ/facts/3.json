@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Digital Landscape Assessment Report, as reported by Independent News, describes the Ministry of Health's Health Information Exchange system, based on HL7/FHIR integration standards, as the most technically advanced architecture observed in the assessment of 21 ministries; no systems it links are named (date is the story's published date).", "as_of": "2026-05-21", "date_precision": "day", "system": "Health Information Exchange system", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Health Information Exchange system", "country_label": "Eswatini", "class": "exchange", "platform": "HL7/FHIR", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

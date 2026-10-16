@@ -1,0 +1,15 @@
+{
+ "slug": "2023-09-01-eritrea-2023-2027-partnership-compact",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS)",
+   "country_label": "Eritrea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Captured text ends in section 2.2; it states EMIS was used for analysis but nothing on data exchange, learner identifier or linkage."
+}

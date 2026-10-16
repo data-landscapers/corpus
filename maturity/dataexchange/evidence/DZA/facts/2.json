@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-20-elmasdar-algeria-new-phase-digital-transformation",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none", "fact": "An interviewed digital transformation expert (Fatih Kezim) says the sectors' platforms in finance, higher education, interior and justice mostly run separately, with no automatic data exchange between them; as_of is the document's published date.", "as_of": "2026-08-20", "date_precision": "day", "system": "National data exchange between sector platforms", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The expert lists, among official figures, the launch of a secure data exchange platform and the national digital services portal, giving no description of bodies connected; as_of is the document's published date.", "as_of": "2026-08-20", "date_precision": "day", "system": "Secure data exchange platform (منصة التبادل الآمن للبيانات)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Secure data exchange platform", "country_label": "Algeria", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National data platform (المنصة الوطنية للبيانات)", "country_label": "Algeria", "class": "", "platform": "", "owner": "Haut commissariat à la numérisation", "tiers": ""},
+    {"system": "National digital services portal", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

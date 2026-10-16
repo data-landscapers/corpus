@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-23-afdb-pacres-i-completion-report-niu-mandatory",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Unique Identification Number (NIU) on supplier invoices",
+   "country_label": "CAF",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget (DGID)",
+   "tiers": ""
+  }
+ ],
+ "note": "The NIU is stated as an invoice number required of government suppliers, with no description of a check against a national ID."
+}

@@ -1,0 +1,113 @@
+{
+ "id": "socialexchange",
+ "study_file": "maturity-study-socialexchange.md",
+ "pass": "first",
+ "subjects": [
+  "dpi.exchange",
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.exchange",
+ "redraws": [
+  "dpi.exchange--interoperability-of-social-protection-systems"
+ ],
+ "carry": [
+  "dpi.exchange--interoperability-of-social-protection-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "social registry",
+  "unified social registry",
+  "single registry",
+  "national social registry",
+  "social protection management information system",
+  "social protection MIS",
+  "integrated beneficiary registry",
+  "beneficiary registry",
+  "national household registry",
+  "NSR",
+  "NSER",
+  "NHTR",
+  "registre social unifié",
+  "registre social",
+  "RSU",
+  "RNU",
+  "registre national unique",
+  "registre unique",
+  "registre des bénéficiaires",
+  "cadastro social",
+  "registo social",
+  "registo único",
+  "base de dados de beneficiários",
+  "السجل الاجتماعي",
+  "السجل الاجتماعي الموحد",
+  "قاعدة بيانات المستفيدين"
+ ],
+ "sub_indicators": [
+  {
+   "key": "exchange",
+   "label": "Interoperability of social protection systems",
+   "subject": "dpi.exchange",
+   "text": "Interoperability of social protection systems: interoperability of social protection systems",
+   "indicator_id": "dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems",
+   "class": "exchange",
+   "norm_short": "The African Union's Protocol on Social Protection asks for a social protection information system that works with the ID, civil registration, payments and other sectors, so benefits follow the person.",
+   "criteria": [
+    "A source from the past three years says social protection programmes keep separate lists with no exchange between them or with other systems.",
+    "A link from a registry or programme to the national ID, a payment provider or another programme is contracted, being built or piloted.",
+    "A social registry or programme system exchanges data with the national ID, a payment provider or another programme in use.",
+    "Two or more programmes draw their beneficiaries from a shared social registry.",
+    "The registry is linked to the national ID and to civil registration, health, education or tax."
+   ],
+   "criteria_of": "3ad9ac4f3dfc"
+  }
+ ],
+ "classes": [
+  "exchange",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "exchange",
+   "name": "Social protection systems exchanging data",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "registry",
+   "name": "One registry shared by programmes",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "shared"
+   ],
+   "values": [
+    "shared"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked to the ID and another sector",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

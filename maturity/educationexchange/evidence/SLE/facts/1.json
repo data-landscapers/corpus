@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "MBSSE has launched an initiative, funded by GPE with UNICEF supporting, to build a DHIS2-based national education data hub whose automated interoperability layer will connect the annual school census, teacher management system, learning assessments, school quality data and examination results, rolling out across all 16 districts (date is the document's published date, as it gives none).", "as_of": "2026-04-07", "date_precision": "day", "system": "National education data hub (DHIS2)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The document says the annual school census, teacher management records, school quality assurance data, learning assessments and examination results are collected and maintained in separate systems, with no reliable way to track a learner across them (date is the document's published date, as it gives none).", "as_of": "2026-04-07", "date_precision": "day", "system": "Education data systems (census, teacher management, assessments, examinations)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National education data hub (DHIS2, ClickHouse, Apache Superset)", "country_label": "Sierra Leone", "class": "exchange", "platform": "DHIS2", "owner": "MBSSE", "tiers": "national, district, school"},
+    {"system": "Unique Learner ID (ULID) system", "country_label": "Sierra Leone", "class": "other", "platform": "web application and Android app", "owner": "MBSSE", "tiers": "school"}
+  ],
+  "note": ""
+}

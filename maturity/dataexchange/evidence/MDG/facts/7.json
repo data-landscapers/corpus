@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-28-instat-interoperabilite-nationale",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "INSTAT reports the official launch on 28 April 2026 of national interoperability, a shared IT system for ministries and public bodies to exchange data, with the first RAHAKA usage convention signed by UGD, several ministries, private actors and INSTAT; it gives no count of connected systems.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "RAHAKA",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAHAKA",
+   "country_label": "Madagascar",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Unite de Gouvernance Digitale (UGD)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

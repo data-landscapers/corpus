@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-01-bwa-2026-1100-12244",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The estimates record P28,934,000 appropriated for MoH Computerisation, and its notes cite the Committee of Supply speech describing a Health Information Exchange and a Client Registry keyed on the Omang or passport number as ready for deployment; dated by the fiscal-year start, 2026/27.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Health Information Exchange",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Client Registry",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Facilities Registry",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

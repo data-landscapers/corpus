@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-morocco-water-digital-twin-national-data-platform-ehtp",
+  "facts": [],
+  "systems": [
+    {"system": "Jumeau numérique de l'Eau (national data platform)", "country_label": "Morocco", "class": "other", "platform": "sovereign national data platform hosted in Morocco, under the EHTP science tower", "owner": "EHTP, Ministry of Equipment and Water", "tiers": "pilot stated 18-24 months away; sensors, satellites, basin agencies, HCP as sources"}
+  ],
+  "note": "A planned water-domain digital twin on a data platform, not a platform exchanging data between government systems; class other, no fact."
+}

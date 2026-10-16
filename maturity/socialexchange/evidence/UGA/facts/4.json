@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-mglsd-national-shock-responsive-social-protection-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Single Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": ""},
+    {"system": "Social Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": ""}
+  ],
+  "note": "Captured text only defines the Single and Social Registry in a glossary and names beneficiary identification as a challenge; it gives no dated state of any link or exchange."
+}

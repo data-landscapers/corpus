@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-30-integrated-population-registration-service",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Maisha Integrated Population Register (IPRS)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": "The page describes the ID register's own identity-verification service and fees; it names no other system checking against it."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": "national"
+  }
+ ],
+ "note": "e-Msomo is a single school-management platform with no stated link to another education system; the bulletin unique as sole enrolment document for the University of the Comoros is a document requirement, not a stated data link."
+}

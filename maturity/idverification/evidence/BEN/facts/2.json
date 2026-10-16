@@ -1,0 +1,72 @@
+{
+ "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ANIP's playbook says acquiring a phone number is conditional on authentication from the NPI and fingerprint.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SIM registration against NPI",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ANIP's playbook says access to public service platforms is conditional on authentication by NPI plus SMS OTP.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "Public service platforms NPI authentication",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The playbook names phone-number acquisition (telecoms) and public service platforms as conditioned on NPI authentication.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SIM registration against NPI",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The playbook reports 25 million identity verifications (eKYC) in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANIP eKYC platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration against NPI",
+   "country_label": "Benin",
+   "class": "relying",
+   "platform": "RNPP / NPI",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Public service platforms NPI authentication",
+   "country_label": "Benin",
+   "class": "relying",
+   "platform": "NPI + OTP",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANIP eKYC platform",
+   "country_label": "Benin",
+   "class": "relying",
+   "platform": "ANIP",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

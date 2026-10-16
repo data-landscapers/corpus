@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-civ-fratmat-bic-qualite-donnees-credit",
+  "facts": [],
+  "systems": [
+    {"system": "BIC Cote d'Ivoire (Bureau d'Information sur le Credit)", "country_label": "Cote d'Ivoire", "class": "other", "platform": "Creditinfo West Africa", "owner": "", "tiers": "data providers are banks, decentralised financial systems and large billers"}
+  ],
+  "note": "Credit-information bureau data-quality meeting; not a government data exchange platform, so class other and no fact."
+}

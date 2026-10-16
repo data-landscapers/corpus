@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The CMSS (Caisse Malienne de Securite Sociale) presented a digital pension payment scheme whose pilot with the Banque de Developpement du Mali was concluded as conclusive and is ready for phased rollout to other partner banks, with payment orders issued digitally through to settlement.", "as_of": "2026-07-27", "date_precision": "day", "system": "CMSS digital pension payment (bank)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The document refers to the success of the CMSS's mobile payment of pensions, which the bank payment scheme follows; it gives no date or figures for the mobile payments.", "as_of": "2026-07", "date_precision": "month", "system": "CMSS mobile pension payment", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CMSS digital pension payment (bank)", "country_label": "Mali", "class": "exchange", "platform": "", "owner": "Caisse Malienne de Securite Sociale", "tiers": ""},
+    {"system": "CMSS mobile pension payment", "country_label": "Mali", "class": "exchange", "platform": "", "owner": "Caisse Malienne de Securite Sociale", "tiers": ""},
+    {"system": "Hopital dermatologie de Bamako digitised patient circuit", "country_label": "Mali", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of for the mobile payment fact is the published month because the document gives no date for it."
+}

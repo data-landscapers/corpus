@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFIP", "country_label": "Tchad", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-tax", "country_label": "Tchad", "class": "", "platform": "", "owner": "DGI", "tiers": ""},
+    {"system": "Facturation electronique normalisee (FEN)", "country_label": "Tchad", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A protocol signed 1 April 2026 between DGI and DGTCP for automated exchange; it names no exchange platform and says the exchange will happen, so no fact; SIGFIP, E-tax and FEN are named without a description of what they do."
+}

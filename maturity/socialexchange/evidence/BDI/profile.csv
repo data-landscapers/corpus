@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,exchange,exchange,coverage,inservice,2026-01-22,BDI-002,,
+BDI,exchange,registry,coverage,shared,2026-05-01,BDI-001,,
+BDI,exchange,linked,coverage,,,,,nothing held

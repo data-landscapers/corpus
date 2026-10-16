@@ -1,0 +1,34 @@
+{
+ "slug": "2023-10-10-worldbank-legal-identity-madagascar-namibia",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The World Bank blog says Namibia adopted the Estonian open-source X-Road software after 2011, so the National Population Register now links functional public and private sector registries, and it was used during COVID-19 to validate identity data for emergency income support.",
+   "as_of": "2023-10-10",
+   "date_precision": "day",
+   "system": "X-Road (National Population Register)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road (National Population Register)",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Population Register (NPRS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Adoption year given only as after 2011 and present tense; published date used as as_of."
+}

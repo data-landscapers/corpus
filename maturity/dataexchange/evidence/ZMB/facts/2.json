@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-10-zambia-dzap-data-protection-compliance-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Service Bus (Zamportal)",
+   "country_label": "Zambia",
+   "class": "exchange",
+   "platform": "Zamportal / gsb.gov.zm",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "ZamConnect",
+   "country_label": "Zambia",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ZamPay",
+   "country_label": "Zambia",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Data Protection Compliance Management System",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement notice for a compliance system that must integrate with the Government Service Bus through ZamConnect and ZamPay; it describes no exchange platform procured or built."
+}

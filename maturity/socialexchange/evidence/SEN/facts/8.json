@@ -1,0 +1,34 @@
+{
+ "slug": "2022-06-10-wb-sen-003-senegal-adaptive-safety-net-project",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank's US$100m Adaptive Safety Net Project, approved in 2022, funds modernisation of the RNU management information system covering controlled data sharing and interoperability with other social protection systems, and a PNBSF beneficiary-management system that draws its targeting from the RNU.",
+   "as_of": "2022-06-10",
+   "date_precision": "day",
+   "system": "Registre National Unique (RNU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National Unique (RNU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DGPSN",
+   "tiers": ""
+  },
+  {
+   "system": "PNBSF beneficiary-management system",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

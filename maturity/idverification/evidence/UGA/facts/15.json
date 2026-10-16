@@ -1,0 +1,72 @@
+{
+ "slug": "2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "An MP told Parliament on 20 August 2026 that holders of new national IDs were turned away at banks and when registering or replacing SIM cards, services that require electronic verification of the card's QR code, which was not responding.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "SIM registration",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The same account says banking services require the new ID's QR code for verification, and that it was failing to authenticate users in August 2026.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Bank customer verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The MP's statement names banking and telecoms (SIM registration) as sectors requiring QR-code verification of the national ID.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "SIM registration",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA acknowledged on 9 February 2026, as the MP recounts, that QR-code functionality was not yet integrated into its digital system, and said it would be fixed by 31 March.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "SIM registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration",
+   "country_label": "Uganda",
+   "class": "relying",
+   "platform": "",
+   "owner": "telecom providers",
+   "tiers": ""
+  },
+  {
+   "system": "Bank customer verification",
+   "country_label": "Uganda",
+   "class": "relying",
+   "platform": "",
+   "owner": "banks",
+   "tiers": ""
+  },
+  {
+   "system": "National ID QR-code verification",
+   "country_label": "Uganda",
+   "class": "",
+   "platform": "QR code on new national ID card",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

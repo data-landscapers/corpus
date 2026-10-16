@@ -1,0 +1,76 @@
+{
+ "slug": "2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Minister of Higher Education announced the Système Intégré de Gestion des Universités (SIGU) as a centralised digital tool interconnected with other national platforms, named as ANSAE, the National Education Ministry's Porte Educ platform and SIGOU.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "Système Intégré de Gestion des Universités (SIGU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "learnerid",
+   "value": "shared",
+   "fact": "The Minister said each 2025 bachelier receives a unique identifier kept through the whole university career, and the CENOU director general said the single file with CENOU matricule numbers serves enrolment, bursaries, housing, social aid, SAMA Money allowance payment and tracking on CENOU KIBARU.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "numéro matricule CENOU / identifiant unique du néo-bachelier",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système Intégré de Gestion des Universités (SIGU)",
+   "country_label": "Guinea",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministère de l'Enseignement supérieur",
+   "tiers": ""
+  },
+  {
+   "system": "CENOU KIBARU",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "CENOU",
+   "tiers": ""
+  },
+  {
+   "system": "SAMA Money",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Porte Educ",
+   "country_label": "Guinea",
+   "class": "",
+   "platform": "",
+   "owner": "Ministère de l'Éducation nationale",
+   "tiers": ""
+  },
+  {
+   "system": "ANSAE",
+   "country_label": "Guinea",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SIGOU",
+   "country_label": "Guinea",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the document's published date; the document gives no event date beyond the announcement at the workshop."
+}

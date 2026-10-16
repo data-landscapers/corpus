@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 Eritrea launches ASYCUDA World digital customs system",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "Eritrea", "class": "other", "platform": "UNCTAD ASYCUDA World", "owner": "Government of Eritrea (customs)", "tiers": ""}
+  ],
+  "note": "Describes a customs management system, not a data exchange platform between public bodies; no exchange-class system or statement."
+}

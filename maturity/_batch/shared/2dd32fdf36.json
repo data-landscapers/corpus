@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-02-worldbank-pgnsp-procurement-plan-interoperabilite",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan lists a technical-assistance contract for target architecture and interoperability of public finance systems, awaiting execution; no exchange platform is procured or built."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated about the national ID being checked by other systems."
+    }
+   }
+  }
+ }
+}

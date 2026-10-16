@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,exchange,exchange,coverage,inservice,2026-08-17,KEN-002,KEN-005=underway;KEN-001=underway;KEN-004=underway,
+KEN,exchange,learnerid,coverage,,,,,nothing held
+KEN,exchange,linked,coverage,linked,2026-08-17,KEN-003,,

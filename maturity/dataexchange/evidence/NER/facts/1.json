@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national interoperability layer based on OpenFn",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "OpenFn",
+   "owner": "Directorate of e-Health with Data.FI Project",
+   "tiers": ""
+  }
+ ],
+ "note": "The OpenFn layer links three health platforms to the national health DHIS2: one ministry's internal integration, not a government-wide exchange platform."
+}

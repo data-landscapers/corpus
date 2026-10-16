@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-pandemic-fund-cmr-2026-record",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Echos Sante reports that the Pandemic Fund's FCFA 13.44bn grant, within a FCFA 91.5bn (about US$160m) 2026-2029 project, has as a stated deliverable increased interoperability of Cameroon's national health information systems, with project activities launched on 2026-07-29.", "as_of": "2026-07-29", "date_precision": "day", "system": "Pandemic Fund Cameroon pandemic prevention, preparedness and response project (national health information systems interoperability)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Pandemic Fund Cameroon pandemic prevention, preparedness and response project (national health information systems interoperability)", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "Ministry of Public Health", "tiers": ""}
+  ],
+  "note": ""
+}

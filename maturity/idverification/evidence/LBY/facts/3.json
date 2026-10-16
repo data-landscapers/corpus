@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Libyan Digital National Identity (LY-DNID)",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The story names LY-DNID as national infrastructure supporting compliance but names no other system that checks people against it."
+}

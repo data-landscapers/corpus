@@ -1,0 +1,34 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamConnect,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamPay,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,Digital Data Protection Compliance Management System,Zambia,other,,Data Protection Commission,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-07-02-eight-local-authorities-go-digital-mlgrd
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,ZamPay,Zambia,,,Ministry of Finance,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,ZELMIS,Zambia,other,,Ministry of Labour and Social Security,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
+ZMB,ZILAS,Zambia,other,,Ministry of Lands and Natural Resources,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
+ZMB,Government Service Bus,Zambia,exchange,,Electronic Government Division (public bodies must integrate),,2023-10-06-zmb-gazette-si-43-egovernment-general-regulations
+ZMB,Government Services Bus,Zambia,exchange,,,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Citizen Support Services Portal,Zambia,other,Government Services Bus,Ministry of Labour and Social Security,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Zambia Employment and Labour Market Information System (ZELMIS),Zambia,other,Government Services Bus,Ministry of Labour and Social Security,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Government Services Bus,Zambia,exchange,,Ministry of Finance and National Planning,central government; eight local authorities,2026-07-23-zambia-k22-million-collected-8-councils-electronic-payments-gsb
+ZMB,Government Service Bus,Zambia,exchange,,Ministry of Finance and National Planning,central government; eight councils,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,Government Electronic Payment Gateway ZamPortal,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,ZamPay,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,ZamConnect,Zambia,exchange,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamPortal,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamPay,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamSign,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,Integrated National Registration Information System (INRIS),Zambia,other,,Ministry of Home Affairs and Internal Security,,2025-09-11 DZAP World Bank PAD
+ZMB,Government Service Bus,Zambia,exchange,,SMART Zambia Institute,,2024-07-09-zambia-government-service-bus-services-update
+ZMB,Government Service Bus (GSB),Zambia,exchange,,SMART Zambia Institute (electronic Government division),,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Zambia Integrated Land Administration System (ZILAS),Zambia,other,Government Service Bus,Ministry of Lands and Natural Resources,,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Zamportal,Zambia,other,,SMART Zambia Institute,,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Government Service Bus (GSB),Zambia,exchange,,Smart Zambia Institute,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+ZMB,ZamConnect,Zambia,exchange,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamPortal,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamPay,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamSign,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)

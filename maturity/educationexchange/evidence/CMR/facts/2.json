@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08-cmr-parec-plateforme-sige-sectoriel",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme sectorielle intégrée du Système d'Information pour la Gestion de l'Éducation (SIGE), sige-sectoriel.cm", "country_label": "Cameroon", "class": "other", "platform": "sige-sectoriel.cm", "owner": "Institut National de la Statistique (host); Ministère de l'Éducation de Base", "tiers": ""}
+  ],
+  "note": "Describes a statistics platform that centralises and federates education sub-sector statistics, presented 8 May 2025; no exchange with the examinations body, payroll, learner registration or national ID is stated."
+}

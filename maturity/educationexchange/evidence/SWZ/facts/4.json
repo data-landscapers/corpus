@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2-based national EMIS",
+   "country_label": "Eswatini",
+   "class": "",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": "Interoperability with other learner-tracking systems is stated only as the Ministry's next priority, with no link contracted, built or piloted."
+}

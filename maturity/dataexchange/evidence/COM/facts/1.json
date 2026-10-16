@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "ANADEN's general procurement notice of 12 March 2026 lists the setting up and operation of an interoperability and data-exchange platform under Component B of project COM-1026, financed entirely by an Islamic Development Bank loan of 5,000,000 Islamic Dinars, with its tender documents still to be prepared by a design and supervision consultant.",
+     "as_of": "2026-03-12", "date_precision": "day",
+     "system": "plateforme d'interopérabilité et d'échange de données", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "plateforme d'interopérabilité et d'échange de données", "country_label": "Comoros", "class": "exchange", "platform": "", "owner": "ANADEN", "tiers": ""},
+    {"system": "plateforme d'administration numérique (portail gouvernemental)", "country_label": "Comoros", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""},
+    {"system": "système de paiement numérique de l'administration", "country_label": "Comoros", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""},
+    {"system": "centre de données national", "country_label": "Comoros", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""}
+  ],
+  "note": ""
+}

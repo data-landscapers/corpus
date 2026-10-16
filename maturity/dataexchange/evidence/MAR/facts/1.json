@@ -1,0 +1,42 @@
+{
+ "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "We Are Tech Africa reports that the Agency for Digital Development launched an e-government interoperability platform, built by Minsait, for data and document exchange between public administrations, and that the Single Social Register and the MASSAR school management system and some social programmes are operational on it; no count of connected bodies is given.",
+   "as_of": "2022-09-05",
+   "date_precision": "day",
+   "system": "E-government interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-government interoperability platform",
+   "country_label": "Morocco",
+   "class": "exchange",
+   "platform": "Minsait",
+   "owner": "Agency for Digital Development (ADD)",
+   "tiers": ""
+  },
+  {
+   "system": "Single Social Register (RSU)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MASSAR",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the Minsait release date of 5 September 2022 cited by the article."
+}

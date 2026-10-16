@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-19-togo-planification-lancement-operationnalisation-transferts-monetaires",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Ministry of Planning reports that on 18 December 2025 the government launched the cash-transfer component of the Programme National de Protection Sociale, for more than 700,000 people targeted by INSEED and ANADEB, to be paid at 25,000 FCFA per household through mobile money (Mixx by Yas and Flooz).",
+     "as_of": "2025-12-18", "date_precision": "day",
+     "system": "Programme National de Protection Sociale, cash-transfer component", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Programme National de Protection Sociale, cash-transfer component", "country_label": "Togo", "class": "exchange", "platform": "mobile money (Mixx by Yas, Flooz)", "owner": "Ministere de la Planification du Developpement et de la Cooperation; INSEED; ANADEB", "tiers": ""}
+  ],
+  "note": ""
+}

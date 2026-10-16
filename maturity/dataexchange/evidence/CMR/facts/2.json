@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none", "fact": "Participants at the Cameroon Internet Governance Forum 2026 stressed the urgent need to establish a national interoperability infrastructure, and the posts and telecommunications minister said the country must move beyond isolated platforms.", "as_of": "2026-08", "date_precision": "month", "system": "national interoperability infrastructure", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "national interoperability infrastructure", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

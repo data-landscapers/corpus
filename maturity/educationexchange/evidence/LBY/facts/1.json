@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-29-libyaobserver-education-ministry-emis-unicef",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Libya", "class": "other", "platform": "", "owner": "Ministry of Education, with UNICEF Libya", "tiers": ""}
+  ],
+  "note": "States an EMIS launch (pilot in 205 institutions); it names no exchange with another education system, learner identifier or link to national ID or another sector."
+}

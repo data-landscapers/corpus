@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-28-sisma-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "MISAU's SIS-MA page describes an interoperability platform, a mediating layer centralising communication between SIS-MA and other systems, with live integrations to the medicines-logistics system of CMAM (Ferramenta Central) and to the Ministry of Justice's SIRCEV for death-certificate data.",
+     "as_of": "2026-08-28", "date_precision": "day", "system": "Plataforma de Interoperabilidade (SIS-MA)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade (SIS-MA)", "country_label": "Mozambique", "class": "exchange", "platform": "DHIS2-based SIS-MA with intermediary API and Master Facility List", "owner": "Ministry of Health (MISAU), Departamento de Informação para Saúde", "tiers": ""},
+    {"system": "Ferramenta Central", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Central de Medicamentos e Artigos Médicos (CMAM)", "tiers": ""},
+    {"system": "SIRCEV", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Ministry of Justice", "tiers": ""}
+  ],
+  "note": "as_of is the page's published date (a retrieved-date proxy); the page gives no date for when the platform entered service, and no counts or transaction figures."
+}

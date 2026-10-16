@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-13-pm-conseil-ministeriel-transformation-numerique-interconnexion",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Minister of Communication Technologies told the 13 February 2026 Council of Ministers that interoperability services for the social affairs sector were among the digital projects completed by the end of 2025, alongside phase 1 of the national interconnection platform.", "as_of": "2025", "date_precision": "year", "system": "Interoperability services for the social affairs sector", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Interoperability services for the social affairs sector", "country_label": "Tunisia", "class": "exchange", "platform": "national interconnection platform", "owner": "Ministry of Communication Technologies", "tiers": ""},
+    {"system": "National interconnection platform (phase 1)", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}
+  ],
+  "note": ""
+}

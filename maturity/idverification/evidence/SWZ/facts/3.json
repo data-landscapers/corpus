@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-smile-id-eswatini-identity-verification",
+  "facts": [],
+  "systems": [
+    {"system": "Smile ID document verification", "country_label": "Eswatini", "class": "other", "platform": "Smile ID", "owner": "Smile ID", "tiers": "private vendor; checks ID document authenticity and selfie match to the document image"}
+  ],
+  "note": "Vendor page describes document and selfie checks on Eswatini ID documents, not a check against the national ID database; no dated event."
+}

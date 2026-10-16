@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-06-gabon-eformation-identifiants-uniques-etablissements-apprenants",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eFormation",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "SOSUP",
+   "tiers": "national"
+  }
+ ],
+ "note": "eFormation gives each school and pupil a unique number, but the document does not state that two or more education systems use the identifier or exchange data."
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SLE-001,SLE,exchange,exchange,inservice,"The Ministry of Health and Sanitation reports it launched a Health Information Hub, described as fully functional, that integrates data from multiple platforms including DHIS2 and consolidates facility, human resources, supply chain and referral data.",2026-01-20,day,Health Information Hub,exchange,2026-01-20-sierra-leone-moh-launches-health-information-hub,https://mohs.gov.sl/moh-launches-health-information-hub/

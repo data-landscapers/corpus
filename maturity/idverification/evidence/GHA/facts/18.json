@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "AGNOS Legal's article states that user agencies including the Ghana Revenue Authority, financial institutions, telecom providers and insurers depend on the NIA's Identity Verification Services, and that the NIA disconnected the GRA over unpaid access fees (as_of is the published date).",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "NIA Identity Verification Services",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "AGNOS Legal's article names tax (GRA), financial institutions, telecom providers and insurers as user agencies relying on the NIA's Identity Verification Services (as_of is the published date).",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "NIA Identity Verification Services",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA Identity Verification Services",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "National Identity Register",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

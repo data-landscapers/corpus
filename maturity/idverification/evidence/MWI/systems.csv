@@ -1,0 +1,58 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,e-KYC and Digital Identity Project,Malawi,relying,,India-UN Development Partnership Fund; UNDP; UNCDF; Reserve Bank of Malawi,,2026-09-29-mwi-india-un-ekyc-digital-identity-review
+MWI,national eKYC system,Malawi,relying,,World Bank-financed; National Registration Bureau,,2026-09-26-mwi-nzika-wallet-laxton-biometric-contract
+MWI,Nzika Digital ID Wallet,Malawi,other,smartphone app,National Registration Bureau; UNDP,,2026-09-26-mwi-nzika-wallet-laxton-biometric-contract
+MWI,Bomalathu data-sharing platform,Malawi,other,,,,2026-09-26-mwi-nzika-wallet-laxton-biometric-contract
+MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-09-26-mwi-nzika-wallet-laxton-biometric-contract
+MWI,NRB e-KYC verification service,Malawi,relying,,,basic; intermediate; advanced,2026-08-17-malawi-nrb-registration-fees-e-kyc
+MWI,Malawi Electoral Commission voter roll,Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,FISP beneficiary identification (Ministry of Agriculture),Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,Airtel Malawi SIM registration and mobile money,Malawi,relying,,Airtel Malawi,,2026-02-01-national-registration-bureau-malawi
+MWI,Bank KYC integrations,Malawi,relying,,Ecobank; National Bank of Malawi; NBS Bank; Standard Bank; First Capital Bank; Centenary Bank; Mukuru,,2026-02-01-national-registration-bureau-malawi
+MWI,Malawi Revenue Authority taxpayer identification,Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,Department of Immigration identity verification,Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,Financial Intelligence Authority KYC/AML link,Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,Department of Human Resource payroll verification,Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,NID-EMR Integration (Ministry of Health),Malawi,relying,,,,2026-02-01-national-registration-bureau-malawi
+MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-02-01-national-registration-bureau-malawi
+MWI,biometric SIM registration,Malawi,relying,,MACRA; National Registration Bureau,,2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025
+MWI,DMAP Component 2 identity verification services and eKYC,Malawi,relying,,Ministry of Information and Digitalization; PPPC implementing,,2025-06-27-dmap-tors-data-centre-cloud-architect
+MWI,Bomalathu data exchange platform,Malawi,other,,Government of Malawi,,2025-06-27-dmap-tors-data-centre-cloud-architect
+MWI,Malawi digital ID (NRB) mobile identity verification,Malawi,relying,,National Registration Bureau,,2025-05-26-nrb-digital-id-2026-target-id4africa-techafricanews
+MWI,SIM card registration,Malawi,relying,,MACRA; electronic communications licensees,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
+MWI,Bank KYC,Malawi,relying,,Banks,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
+MWI,Biometric national ID (NRIS),Malawi,other,,National Registration Bureau,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
+MWI,Domestic eKYC framework/platform,Malawi,,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-09-23-mwi-data-harmonization-interoperability-agenda
+MWI,Department of Human Resource Management system connected to NRIS,Malawi,relying,NRIS,Department of Human Resource Management,,2026-09-23-mwi-data-harmonization-interoperability-agenda
+MWI,Ministry of Agriculture system connected to NRIS,Malawi,relying,NRIS,Ministry of Agriculture,,2026-09-23-mwi-data-harmonization-interoperability-agenda
+MWI,Ministry of Health system connected to NRIS,Malawi,relying,NRIS,Ministry of Health,,2026-09-23-mwi-data-harmonization-interoperability-agenda
+MWI,Digitally Signed Biometric QR Verification for Secure Farmer Social Protection Programme (Offline Digital ID),Malawi,relying,NRIS,National Registration Bureau with UNDP support,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
+MWI,Farm Input Subsidy Programme (FISP),Malawi,relying,,,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
+MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
+MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-01-09-mwi-nris-servers-relocation-data-centre
+MWI,Biometric SIM registration,Malawi,relying,NRB systems integration,Airtel; TNM,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,Malawi Social Registry (MSR),Malawi,relying,NRB integration module,,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,Biometric KYC pilots,Malawi,relying,NRB verification gateway,Standard Bank; First Capital Bank; National Bank; Centenary Bank; Old Mutual,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,"EMR National ID integration, Karonga",Malawi,relying,electronic medical records,Ministry of Health,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,FISP application,Malawi,relying,QR codes generated by NRB,Ministry of Agriculture,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,Nzika mobile application,Malawi,other,,NRB,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,Digitally Signed QR Code and ID verification kit,Malawi,other,offline DS-QR,NRB,tiered assurance,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,National ID (NRB),Malawi,other,NRB verification gateway,National Registration Bureau,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Malawi Social Registry (MSR/UBR),Malawi,relying,,,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Bank KYC biometric verification pilot,Malawi,relying,,Reserve Bank of Malawi directive,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Biometric SIM registration (MACRA),Malawi,relying,,MACRA,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,MoH electronic medical records link to NRB UIN,Malawi,relying,,Ministry of Health,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Digitally signed QR code offline ID verification,Malawi,relying,,NRB,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Nzika app,Malawi,other,,NRB,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,NRIS (National Registration and Identification System),Malawi,other,,National Registration Bureau,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Bank and microfinance KYC against NRIS,Malawi,relying,,Banks; Reserve Bank of Malawi,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,SIM card registration,Malawi,relying,,Mobile network operators; MACRA,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Social Cash Transfer Program,Malawi,relying,,,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Voter registration,Malawi,relying,,Malawi Electoral Commission,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Malawi Revenue Authority,Malawi,relying,,Malawi Revenue Authority,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Digital ID wallet,Malawi,other,,National Registration Bureau,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,Mobile money KYC for CUCI cash transfer,Malawi,relying,,Airtel Malawi; TNM Malawi,,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,COVID-19 Urban Cash Intervention (CUCI),Malawi,relying,Unified Beneficiary Registry,"Ministry of Gender, Community Development and Social Welfare",,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,National Registry (National IDs),Malawi,other,,National Registration Bureau,,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,Unified Beneficiary Registry,Malawi,,,,,2025-02-01-mwi-cuci-impact-evaluation-report

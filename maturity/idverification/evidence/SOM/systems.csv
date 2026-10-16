@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,High School Certificate System (HSC),Somalia,relying,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,Commercial bank account opening and KYC (CBS eKYC regulation),Somalia,relying,,Central Bank of Somalia with commercial banks,,2025-07-29-somalia-cbs-kyc-id-verification-banking
+SOM,Hubiye eKYC,Somalia,relying,NIRA digital identity (Hubiye),NIRA with UNDP support,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,NIRA Authentication service (HUBIYE Portal),Somalia,other,HUBIYE Portal,NIRA,,2026-01-01-somalia-nira-authentication
+SOM,HUBIYE,Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,eAqoonsi app,Somalia,other,mobile app,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Certificate Delivery System (CDS),Somalia,,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Government payroll and Somali Financial Management Information System (SFMIS),Somalia,relying,SFMIS,"Office of the Accountant General, Ministry of Finance",,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,National identification system,Somalia,other,,National Identification and Registration Authority (NIRA),,2026-08-30-somalia-payroll-nira-id-database-link

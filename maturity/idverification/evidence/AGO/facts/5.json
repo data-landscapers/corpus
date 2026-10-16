@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10-agt-interoperabilidade-certidao-tributaria-orgaos-estado-angolano",
+  "facts": [],
+  "systems": [
+    {"system": "Certidão de conformidade tributária (AGT)", "country_label": "Angola", "class": "other", "platform": "", "owner": "Administração Geral Tributária", "tiers": ""}
+  ],
+  "note": "Concerns tax-compliance certificate and NIF status, not the national ID; no check against the national ID stated."
+}

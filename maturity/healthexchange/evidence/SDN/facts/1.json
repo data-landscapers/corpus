@@ -1,0 +1,19 @@
+{
+  "slug": "2026-05-11-sudan-health-sector-digitalization-hms-launch",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Sudan's Ministries of Health and Digital Transformation and Communications launched phase one of a hospital management system programme at Al-Nao Hospital in Khartoum State and the diagnostic centre of Gedaref Hospital, a system the report says comprises integrated applications for civil registration and vital statistics, electronic patient record, laboratory, pharmacy, HMIS, disease surveillance, electronic medical record and health-worker HR information, with gradual expansion to other states planned.",
+     "as_of": "2026-05-11", "date_precision": "day", "system": "نظام إدارة المستشفيات (HMS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "نظام إدارة المستشفيات (HMS)", "country_label": "Sudan", "class": "exchange", "platform": "", "owner": "Ministry of Health; Ministry of Digital Transformation and Communications", "tiers": "hospital"},
+    {"system": "CRVS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "EPR", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "LIMS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PIS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HMIS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "EMR", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HRIS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+# Benin
+
+## National data exchange system
+
+**Exchange platform built and in service.** [ASIN's legal note describes Xroad-BJ as Benin's national platform for secure data exchange between public administrations' information systems, instituted by decree 2020-209 of 18 March 2020, managed by ASIN and supervised by the national interoperability committee, with registration and connection rules for users; the page holds only an excerpt](<https://asin.bj/doc/142/download>). [La Nation reports that Xroad-BJ, instituted by decree 2020-209, lets the information systems of administrations and authorised actors communicate securely, with ASIN managing it and the national interoperability committee supervising, and sets conditions for bodies joining it](<https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj>).
+
+**Many systems connected.** [The dashboard says the instance has 73 members, 176 information systems and 512 services, with ANATT, ANIP and DGI the top providers](<https://statistiques.xroad.bj/>). [The ASIN speakers said more than 1,500 services are integrated and more than 55 institutions, including banks, telecoms and insurers, are connected to the platform](<https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar>).
+
+**Use reported.** [The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026](<https://statistiques.xroad.bj/>). [The ASIN speakers said over 70 million data exchange transactions have been completed to date](<https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar>). [The ministry's scorecard reports more than 42,000 data exchanges through XROAD BJ (2021, before the three-year window)](<https://www.gouv.bj/doc/191/download>).
+
+***Noted, not assessed***. [Smart Africa Data Exchange (SADX)](<https://techafricanews.com/2025/12/19/smart-africa-partners-ascend-digital-solutions-to-pilot-cross-border-data-exchange-platform/>); [ePass](<https://www.biometricupdate.com/202510/benin-unveils-platform-to-ease-biometric-passport-applications-for-diaspora-citizens>); [Portail National des Services Publics](<https://www.gouv.bj/doc/191/download>); [securoute.anatt.bj](<https://cadreco.media/regulation/2026/infractions-routieres-le-tresor-invite-au-reglement-des-penalites-avant-le-1er-octobre>); [SECUROUTE](<https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/>).
+
+***Not held***. Nothing further is asked of this indicator.

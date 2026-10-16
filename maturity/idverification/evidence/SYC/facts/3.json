@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-about-ekyc-seyid",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID eKYC", "country_label": "Seychelles", "class": "other", "platform": "SeyID", "owner": "", "tiers": ""}
+  ],
+  "note": "Describes SeyID's own eKYC enrolment check; names no other system relying on the ID."
+}

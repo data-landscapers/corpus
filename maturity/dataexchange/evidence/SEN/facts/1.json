@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-19-techafricanews-interoperability-update",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The government is advancing its data exchange interoperability platform, launched on 22 April 2025, with phase one due by end of December 2025 and a COCOOR meeting having validated the roadmap (as_of is the publication date, the meeting being undated).",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "Data exchange interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data exchange interoperability platform",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "MCTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

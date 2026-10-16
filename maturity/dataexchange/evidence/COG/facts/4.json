@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-05-cog-module-fiscalite-sivl-mfbpp",
+  "facts": [],
+  "systems": [
+    {"system": "SIVL (Système informatisé de vérification de la légalité de bois)", "country_label": "Congo", "class": "other", "platform": "", "owner": "Ministry of Forest Economy; Ministry of Finance IT directorate", "tiers": ""}
+  ],
+  "note": "SIVL is a sector timber-legality system, not a national exchange platform; its interconnection with national financial systems is stated without a platform description."
+}

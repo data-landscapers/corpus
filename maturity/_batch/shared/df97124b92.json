@@ -1,0 +1,32 @@
+{
+ "slug": "2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "X-Road interoperability infrastructure",
+       "country_label": "Mozambique",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "ATDI",
+       "tiers": ""
+      }
+     ],
+     "note": "Calls X-Road 'pre-existing' only; does not say whether it is in service or carries data between bodies, so no fact."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on education systems."
+    }
+   }
+  }
+ }
+}

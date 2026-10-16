@@ -1,0 +1,43 @@
+{
+ "slug": "2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The Prime Minister ordered all public institutions to join GovESB, built by e-GA so government systems can read each other and exchange information, by 30 July 2025, saying joining is free.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "GovESB (e-GA)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovESB (e-GA)",
+       "country_label": "TZA",
+       "class": "exchange",
+       "platform": "",
+       "owner": "e-Government Authority (e-GA)",
+       "tiers": ""
+      }
+     ],
+     "note": "The document gives no count of connected institutions and no usage figure."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on social protection systems."
+    }
+   }
+  }
+ }
+}

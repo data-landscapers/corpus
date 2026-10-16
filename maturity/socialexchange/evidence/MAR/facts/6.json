@@ -1,0 +1,16 @@
+{
+  "slug": "2024-10-23-aujourdhui-extension-identifiant-digital-civil-social",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The RSU information system registers households through automated verification of the head of household's declared data against more than 30 administrative databases via the government interoperability platform, per the Ministry of Interior document; the date of this statement is not given, so the publication date is used.",
+     "as_of": "2024-10-23", "date_precision": "day", "system": "Registre social unifié (RSU)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The Ministry of Interior document says the RSU, which held 4.1 million households (40% of the population) at 31 December 2023, serves to target social protection programmes, and that the RNP is used by social protection programmes.",
+     "as_of": "2023-12-31", "date_precision": "day", "system": "Registre social unifié (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre social unifié (RSU)", "country_label": "Morocco", "class": "exchange", "platform": "government interoperability platform", "owner": "Ministry of Interior", "tiers": ""},
+    {"system": "Registre national de la population (RNP)", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": ""
+}

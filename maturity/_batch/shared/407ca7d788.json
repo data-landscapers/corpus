@@ -1,0 +1,62 @@
+{
+ "slug": "2024-07-09-zambia-government-service-bus-services-update",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "SMART Zambia's National Coordinator said 290 services were deployed on the Government Service Bus in the past six months (date is the document's published date).",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Government Service Bus",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "SMART Zambia's National Coordinator said 290 services were deployed on the Government Service Bus in the past six months (date is the document's published date).",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Government Service Bus",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Service Bus",
+       "country_label": "Zambia",
+       "class": "exchange",
+       "platform": "",
+       "owner": "SMART Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "electronic Know Your Customer System (e-KYC)",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "",
+       "owner": "SMART Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "e-KYC is described as holding details of clients who access the SMART Zambia system; no check against a national ID is stated."
+    }
+   }
+  }
+ }
+}

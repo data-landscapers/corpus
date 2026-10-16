@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-ID",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Population Register",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The e-ID is not yet launched (planned 2026); no other system is stated to check people against it."
+}

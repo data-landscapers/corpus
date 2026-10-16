@@ -1,0 +1,42 @@
+{
+ "slug": "2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank's September 2025 factsheet describes the RSU as interoperable with other systems and lists coordination with UNHCR, CNARR and ANATS and integration of refugees into the RSU among the system-strengthening work, with 25,000 secure IDs issued to refugees and 684,500 households registered in the RSU.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Chad",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Rapid payment platform",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nouveau système de gestion des bénéficiaires (with MGP)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

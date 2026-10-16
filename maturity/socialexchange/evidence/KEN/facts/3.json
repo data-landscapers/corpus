@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-22-ken-kenyans-co-ke-sha-nssf-social-protection-database",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Kenyans.co.ke reported that the State Department for Social Protection and Senior Citizen Affairs invited consultants to upgrade the Enhanced Single Registry and the Community Development Management Information System so they exchange data with SHA, NSSF, IPRS, the National Registration Bureau, Civil Registration Services and cash transfer programmes, under the World Bank-funded KSEIP-2; the assignment is an individual consultancy still being procured.",
+     "as_of": "2026-09-22", "date_precision": "day", "system": "Enhanced Single Registry (ESR) and Community Development Management Information System (CDMIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Enhanced Single Registry (ESR)", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "State Department for Social Protection and Senior Citizen Affairs", "tiers": ""},
+    {"system": "Community Development Management Information System (CDMIS)", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "State Department for Social Protection and Senior Citizen Affairs", "tiers": ""},
+    {"system": "Integrated Population Registration Service (IPRS)", "country_label": "Kenya", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the report's published date (2026-09-22); the document gives no date for the consultancy invitation."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The ministry and UNESCO held a workshop on 29 July to 2 August 2024 for the project, agreed in December 2022 and running 35 months to 14 February 2026, to build a human resources module integrated into the central SIGE and compatible with the STATEDUC application, for teacher recruitment, deployment and posting; activities were planned over 12 months and user profiles validated.", "as_of": "2024-08", "date_precision": "month", "system": "Module de Gestion des Ressources Humaines du SIGE", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Module de Gestion des Ressources Humaines du SIGE", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Ministère de l'Éducation nationale et de la Recherche scientifique", "tiers": ""},
+    {"system": "SIGE central", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Ministère de l'Éducation nationale et de la Recherche scientifique", "tiers": ""},
+    {"system": "STATEDUC", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the workshop date (29 July to 2 August 2024, month inferred by the page's proxy date)."
+}

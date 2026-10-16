@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric national ID card (AES)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior; contractor Al Itissan Al-Jadeed",
+   "tiers": ""
+  }
+ ],
+ "note": "ID card launch only; states an intent to simplify access to public and private services, with no relying system named."
+}

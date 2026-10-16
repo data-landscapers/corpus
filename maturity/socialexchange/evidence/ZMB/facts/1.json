@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-10-zambia-gewel2-additional-financing-project-paper",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank project paper says procurement is ongoing for a GBV management information system to be integrated with the GBV call center and possibly other programme MISs and the national Social Registry.", "as_of": "2025-11-10", "date_precision": "day", "system": "Zambia Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Zambia Social Registry", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "Ministry of Community Development and Social Services", "tiers": "Cabinet memorandum approved April 2025; concept note endorsed September 2025; architecture design ongoing"},
+    {"system": "GBV management information system", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Gender Division, Office of the President", "tiers": "procurement ongoing"},
+    {"system": "Social Cash Transfer beneficiary system", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry of Community Development and Social Services", "tiers": "1.31 million households"}
+  ],
+  "note": ""
+}

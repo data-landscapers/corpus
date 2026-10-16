@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-06-mwi-education-data-portal-edap",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Unlocking Data Initiative Malawi team is developing an Education Data Portal (EDaP) to bring together datasets from the education ministry (MoEST, which runs the EMIS), the gender and social welfare ministry, the National Statistics Office, development partners and academia, with hosting to pass to CERT at the University of Malawi.", "as_of": "2026-07-06", "date_precision": "day", "system": "Education Data Portal (EDaP)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Data Portal (EDaP)", "country_label": "Malawi", "class": "exchange", "platform": "", "owner": "Unlocking Data Initiative, to pass to CERT, University of Malawi", "tiers": "tiered access"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Ministry of Education, Science and Technology", "tiers": ""}
+  ],
+  "note": "Date is the post's publication date, as it gives no date for the portal work."
+}

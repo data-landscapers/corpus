@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,SIGE,Togo,other,DHIS2 over CSPro and StatEduc,Ministry of Education,,2026-05-04-gpe-kix-study-tour-education-data-system
+TGO,DHIS2-StatEduc integrated EMIS,Togo,exchange,DHIS2 with StatEduc,Ministry of Primary and Secondary Education,,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,StatEduc,Togo,other,StatEduc,Ministry of Primary and Secondary Education,,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,DHIS2-StatEduc integrated EMIS,Togo,exchange,DHIS2 with StatEduc,MEPSTA,,2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo
+TGO,StatEduc,Togo,other,StatEduc,MEPSTA,,2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo
+TGO,DHIS2-StatEduc integrated EMIS,Togo,exchange,DHIS2 with StatEduc,"Ministry of Primary, Secondary, Technical Education",,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,StatEduc,Togo,other,StatEduc,"Ministry of Primary, Secondary, Technical Education",,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,DHIS2-StatEduc integrated EMIS,Togo,exchange,DHIS2 with StatEduc,MEPSTA,,2022-12-01-hisp-wca-dhis2-emis-togo
+TGO,StatEduc,Togo,other,StatEduc,MEPSTA,,2022-12-01-hisp-wca-dhis2-emis-togo
+TGO,"Bac1 results consultation platform (resultats.service-public.gouv.tg, WhatsApp chatbot, Telegram bot)",Togo,other,"web, WhatsApp, Telegram",Ministere de l'Education Nationale,,2026-06-08-togo-men-resultats-bac1-2026-digitalisation-systeme-educatif
+TGO,Education Management Information System (EMIS) prototype,Togo,other,,"Ministry of Primary, Secondary, and Technical Education and Crafts",,2025-01-14-world-bank-isr-togo-basic-education-p172674
+TGO,Human Resources Management Information System (HRMIS),Togo,other,,"Ministry of Primary, Secondary, and Technical Education and Crafts",,2025-01-14-world-bank-isr-togo-basic-education-p172674
+TGO,interconnectivity of platforms and databases project,Togo,exchange,,,,2025-01-14-world-bank-isr-togo-basic-education-p172674

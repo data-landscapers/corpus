@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-07-mtomady-dhis2-interoperability",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "mTOMADY, a health-financing platform, announced it is now interoperable with DHIS2, the national health data system of the Ministry of Public Health, with DEPSI thanked for collaboration; no data flows, routine use or scope are stated.",
+     "as_of": "2025-10-07", "date_precision": "day", "system": "mTOMADY-DHIS2 interoperability", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "mTOMADY", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "mTOMADY", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Madagascar", "class": "", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": "national"}
+  ],
+  "note": ""
+}

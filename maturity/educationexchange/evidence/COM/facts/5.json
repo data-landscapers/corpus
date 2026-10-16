@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-09-e-msomo-e-shiyo-education-digitisation-anaden-unicef-lagazette",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN with Ministry of Education",
+   "tiers": "national"
+  },
+  {
+   "system": "e-Shiyo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN with UNICEF",
+   "tiers": "national"
+  }
+ ],
+ "note": "A unique student identifier is only planned within e-Msomo; no second system, exchange or link to national ID is stated."
+}

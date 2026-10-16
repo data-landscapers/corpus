@@ -1,0 +1,19 @@
+{
+  "slug": "2022-05-31-world-bank-burundi-digital-foundations-project-pad",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none",
+     "fact": "The World Bank appraisal says many Burundian ministries and agencies run their own disparate servers, making intra-government data exchange difficult in the absence of shared solutions for data hosting and interoperability.",
+     "as_of": "2022-05-31", "date_precision": "day", "system": "National data exchange layer", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The World Bank's US$50 million Digital Foundations Project (PAD4690) will finance a national data exchange layer, including its connection to information systems, and technical specifications for a national data exchange solution; the document does not say any platform is yet built (date is the document's published date).",
+     "as_of": "2022-05-31", "date_precision": "day", "system": "National data exchange layer", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National data exchange layer", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Government of Burundi, financed by World Bank Digital Foundations Project", "tiers": ""},
+    {"system": "Interoperability platform", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Government of Burundi, financed by World Bank Digital Foundations Project", "tiers": ""},
+    {"system": "Isoko platform", "country_label": "Burundi", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Payments switch", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Public key infrastructure (PKI)", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

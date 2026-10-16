@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,OpenHIM interoperability layer (MGDH-Birth to e-SiRCEV),Mozambique,exchange,OpenHIM,Jembi Health Systems,national,2025-01-01-jembi-mozambique-case-study
+MOZ,MGDH-Birth,Mozambique,other,,,facility,2025-01-01-jembi-mozambique-case-study
+MOZ,e-SiRCEV,Mozambique,other,,,,2025-01-01-jembi-mozambique-case-study
+MOZ,SIS-H,Mozambique,other,,,facility,2025-01-01-jembi-mozambique-case-study
+MOZ,DISA (Laboratory Information System),Mozambique,other,,Ministry of Health,referral laboratories,2025-10-29-connecting-health-information-systems-hiv-care
+MOZ,SESP (Electronic Patient Tracking System),Mozambique,other,,Ministry of Health,health facilities,2025-10-29-connecting-health-information-systems-hiv-care
+MOZ,DISA-SESP interoperability platform,Mozambique,exchange,HL7-based applications,Ministry of Health with C-Saude and US Government support,"referral laboratories to health facilities, national",2025-10-29-connecting-health-information-systems-hiv-care
+MOZ,e-SiRCEV (Electronic Civil Registration and Vital Statistics System),Mozambique,other,,Government of Mozambique,,2024-08-14-jembi-birth-registration-interoperability
+MOZ,MGDH-births (Hospital Data Management Module for Births Registration),Mozambique,other,,Government of Mozambique,public hospitals and health centres,2024-08-14-jembi-birth-registration-interoperability
+MOZ,e-SiRCEV and MGDH-births interoperability,Mozambique,exchange,,Government of Mozambique with Jembi Health Systems and Saudigitus,"hospitals to civil registration, Inhambane first",2024-08-14-jembi-birth-registration-interoperability

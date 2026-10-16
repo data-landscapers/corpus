@@ -1,0 +1,6 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,LBY,status,dpi.exchange,,outputs/reports/LBY/LBY-status.md,,Data Exchange,,,status,,0,306
+,,,,LBY,status,dpi.mis,,outputs/reports/LBY/LBY-status.md,,Sectoral management information systems,,,status,,0,369
+1,1,0,news,LBY,raw,2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada,whole,raw/2026/2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada.md,https://ar.libyaobserver.ly/article/37094,الهيئة الوطنية لمرض السكري تطلق المنظومة الإلكترونية الموحدة,2026-05-03,LBY,cell+ledger+subject+considered,,0,130
+2,1,0,news,LBY,raw,2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya,whole,raw/2025/2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya.md,https://ar.libyaobserver.ly/article/34348,وزارة الصحة تعلن تفعيل منظومة إلكترونية لتتبع حركة الأدوية,2025-10-06,LBY,cell+ledger+subject+considered,,0,169
+3,1,0,news,LBY,raw,2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi,whole,raw/2022/2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi.md,https://moh.gov.ly/pages/centers-offices/health-info-center,مركز المعلومات والتوثيق الصحي,2022-01-01,LBY,cell+ledger+subject+considered,,0,506

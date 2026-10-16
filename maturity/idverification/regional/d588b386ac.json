@@ -1,0 +1,116 @@
+{
+ "slug": "2026-09-18-papss-security-data-governance-dailycircular",
+ "countries": {
+  "BEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "BEN",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+  },
+  "CMR": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "CMR",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+  },
+  "GHA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "GHA",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Story does not name Ghana beyond a Nigeria-Ghana transaction pattern; nothing on national ID use."
+  },
+  "KEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "KEN",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+  },
+  "NER": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "NER",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+  },
+  "NGA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "NGA",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    },
+    {
+     "system": "MANSA",
+     "country_label": "NGA",
+     "class": "other",
+     "platform": "centralised CDD/KYC repository",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Story says PAPSS keeps no PII or KYC and connectors pass Afreximbank's MANSA KYC repository; no check of people against a national ID is stated."
+  },
+  "RWA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "PAPSS",
+     "country_label": "RWA",
+     "class": "other",
+     "platform": "Pan-African Payment and Settlement System",
+     "owner": "Afreximbank",
+     "tiers": ""
+    }
+   ],
+   "note": "Named only as a PAPSS trading partner; nothing on national ID use."
+  },
+  "ZWE": {
+   "facts": [],
+   "systems": [],
+   "note": "Zimbabwe appears only in an author anecdote; nothing on national ID use."
+  }
+ }
+}

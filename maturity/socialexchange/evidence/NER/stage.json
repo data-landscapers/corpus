@@ -1,0 +1,17 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "unplaced",
+   "exchange": "",
+   "registry": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 names social protection systems exchanging data.",
+   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+  }
+ ]
+}

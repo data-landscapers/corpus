@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-30-lby-cjos-nawa-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "A proof-of-concept Government Service Bus called Nawa, built in about a month at a national hackathon, linked four institutions (Tax Authority, Commercial Registry, Central Bank of Libya, Customs Authority) through 23 web service endpoints, and won the competition's grand prize in January 2025, per the paper's authors.",
+     "as_of": "2025-01", "date_precision": "month", "system": "Nawa (Government Service Bus)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Nawa (Government Service Bus)", "country_label": "Libya", "class": "exchange", "platform": "open-source Government Service Bus prototype", "owner": "General Information Authority with the Libyan Digital Innovation Lab, Expertise France and the EU E-NABLE project", "tiers": ""}
+  ],
+  "note": ""
+}

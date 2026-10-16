@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CAF-001,CAF,exchange,exchange,inservice,"HISP Rwanda says clinical data collected in the e-SENI hospital EMR is automatically structured and integrated into national health information systems, including DHIS2-powered platforms, with a central EMR server synchronising data from facilities.",2026-03-18,day,HISP EMR (e-SENI),exchange,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car,https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/

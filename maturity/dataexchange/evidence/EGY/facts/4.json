@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt platform", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "Public Shop Licensing System", "country_label": "Egypt", "class": "other", "platform": "Digital Egypt platform", "owner": "Ministry of Local Development and Environment", "tiers": ""},
+    {"system": "digital treasury system", "country_label": "Egypt", "class": "other", "platform": "Digital Egypt platform", "owner": "Ministry of Communications and Information Technology", "tiers": ""}
+  ],
+  "note": "It gives 105 entities and over 100 databases for Digital Egypt's infrastructure but names no data exchange platform carrying data between them."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The platform's own portal describes the Plateforme d'Interoperabilite du Senegal (e-Jokkoo, built on X-Road) as connecting state information systems for secure data exchange between administrations, with API Gateway, Identite Numerique and Data Exchange services listed; its counters for connected administrations, active APIs and monthly transactions show only placeholders, and the page gives no date, so its published date is used.", "as_of": "2026-09-03", "date_precision": "day", "system": "Plateforme d'Interoperabilite du Senegal (e-Jokkoo)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plateforme d'Interoperabilite du Senegal (e-Jokkoo)", "country_label": "Senegal", "class": "exchange", "platform": "X-Road", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

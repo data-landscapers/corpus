@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-22-tunisie-lequotidien-interoperabilite-phase-2-192-projets",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Le Quotidien reports the first phase of the national interoperability platform, UXP, was completed in 2025 in five ministries, with first applications deployed in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National interoperability platform (UXP)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Le Quotidien reports a contract signed with Cybernetica for phase two, running to end-2027, to integrate the platform across all ministries.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National interoperability platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National interoperability platform (UXP)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "Cybernetica Unified eXchange Platform (UXP)",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

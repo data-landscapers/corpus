@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-22-seneweb-cbit-donnees-climatiques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "plateforme nationale integree de transparence (CBIT-Senegal)",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Environment and Ecological Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "A climate-data transparency platform to centralise climate data, not an exchange between public bodies' systems; no fact for the exchange class."
+}

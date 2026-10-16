@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-20-dmap-accelerates-progress-on-key-digital-initiatives",
+  "facts": [],
+  "systems": [
+    {"system": "Enterprise Service Bus", "country_label": "Malawi", "class": "exchange", "platform": "DMAP", "owner": "Department of eGovernment", "tiers": ""},
+    {"system": "Bomalathu e-Service Portal", "country_label": "Malawi", "class": "other", "platform": "DMAP", "owner": "Department of eGovernment", "tiers": ""}
+  ],
+  "note": "The Enterprise Service Bus is named only as one of five core DMAP priority areas, with no statement of its build state; the 25 e-services onboarding is to the citizen portal (class other)."
+}

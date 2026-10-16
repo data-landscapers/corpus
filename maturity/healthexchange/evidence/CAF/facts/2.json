@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-18-hisprwanda-emr-digitizing-hospital-care-car",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "HISP Rwanda says clinical data collected in the e-SENI hospital EMR is automatically structured and integrated into national health information systems, including DHIS2-powered platforms, with a central EMR server synchronising data from facilities.", "as_of": "2026-03-18", "date_precision": "day", "system": "HISP EMR (e-SENI)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "HISP EMR (e-SENI)", "country_label": "Central African Republic", "class": "exchange", "platform": "HISP EMR", "owner": "Ministry of Health with HISP Rwanda and the Susan Buffett Foundation", "tiers": "hospital, health centre, central"},
+    {"system": "DHIS2 (national health information systems)", "country_label": "Central African Republic", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "as_of is the published date, the document gives no event date. The patient unique identification is facility-level; no national identifier is stated."
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,exchange,exchange,coverage,underway,2025-10,CMR-001;CMR-002,,
+CMR,exchange,registry,coverage,,,,,nothing held
+CMR,exchange,linked,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-05 Sierra Leone reaches 93 percent national ID coverage 80 percent services digitized",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NCRA's Deputy Director of ICT said a bank account and enrolment in public educational institutions cannot be had without a national ID number (NIN), and the NIN is required for public and private employment; no event date given, so the published date is used.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "National ID number (NIN) requirement in other services",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "NCRA's Deputy Director of ICT named banking, public education and employment as requiring the NIN; no event date given, so the published date is used.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "National ID number (NIN) requirement in other services",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID number (NIN) requirement in other services",
+   "country_label": "SLE",
+   "class": "relying",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "No figure for verifications made is given; the document states NIN is required, not that each is verified against the register."
+}

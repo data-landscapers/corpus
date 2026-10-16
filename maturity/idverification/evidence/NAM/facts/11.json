@@ -1,0 +1,15 @@
+{
+ "slug": "2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Registration System (NPRS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "unique identification number (UIN)"
+  }
+ ],
+ "note": "The document says the population register links to functional registers of government and the private sector and that birth and death registration is a prerequisite for social grants; it states no system checking people against the national ID."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-12-strengthening-namibias-health-system-through-investment-in-infrastructure-digitalisation-and-equity",
+  "facts": [],
+  "systems": [
+    {"system": "e-Health system", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": "hospitals, health centres, clinics"},
+    {"system": "Integrated Human Resources Information System", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": ""}
+  ],
+  "note": "Network infrastructure for the e-Health system and real-time access to patient records are stated, but no exchange between separate health systems."
+}

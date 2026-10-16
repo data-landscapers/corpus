@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10-icap-hiv-insight-dashboard-drc",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DRC", "class": "other", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": "national, provincial, health zone, facility"},
+    {"system": "HIV Insight Dashboard", "country_label": "DRC", "class": "other", "platform": "DHIS2", "owner": "ICAP with PNLS", "tiers": "national, provincial"}
+  ],
+  "note": "A dashboard inside the one national DHIS2; no exchange between health systems stated."
+}

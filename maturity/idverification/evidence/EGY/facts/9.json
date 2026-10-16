@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Haweya",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "Haweya is itself a financial digital ID and eKYC app; the document does not say banks or SIM sellers check people against the national ID."
+}

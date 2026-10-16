@@ -1,0 +1,14 @@
+{"slug": "2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states",
+ "studies": {
+  "dataexchange": {"countries": {"TZA": {
+   "facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+    "fact": "Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given.",
+    "as_of": "2026-01-26", "date_precision": "day", "system": "GovESB (Government Enterprise Service Bus)", "class": "exchange"}],
+   "systems": [
+    {"system": "GovESB (Government Enterprise Service Bus)", "country_label": "Tanzania", "class": "exchange", "platform": "", "owner": "e-Government Authority", "tiers": ""},
+    {"system": "GePG", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "", "tiers": ""}],
+   "note": "as_of is the published date; the article gives no date for when GovESB went live."}}},
+  "socialexchange": {"countries": {"TZA": {
+   "facts": [], "systems": [],
+   "note": "The story names no social protection system or link for Tanzania."}}}
+ }}

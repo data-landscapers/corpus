@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-tun-khadamet-analyst-critique",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Khadamet app, which works with the digital identity, lets users track CNAM reimbursements and prior approvals, view CNSS career records and get CNRPS attestations, as presented by the ministry's Ahmed Megdich on 2 September 2026; the article says real interconnection of administrations is yet to be shown.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Khadamet",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamet",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "mobile app, digital identity login",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

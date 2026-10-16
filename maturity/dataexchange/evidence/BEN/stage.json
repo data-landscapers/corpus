@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "5",
+   "platform": "inservice",
+   "reach": "wide",
+   "usage": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-004;BEN-007",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
+  }
+ ]
+}

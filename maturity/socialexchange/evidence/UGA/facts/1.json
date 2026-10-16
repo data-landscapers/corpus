@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-wfp-uganda-annual-country-report-2025",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "WFP's 2025 country report says its support in 2025 included advancing integration of the Karamoja Social Registry into the National Single Registry, with discussions continuing with the Office of the Prime Minister and the World Bank's NUSAF team.", "as_of": "2025", "date_precision": "year", "system": "National Single Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Single Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Karamoja Social Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NEMIS (National Education Management Information System)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  },
+  {
+   "system": "KEMIS (Kenya Education Management Information System)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Verification cross-checks NEMIS against school-submitted enrolment data and NEMIS is to be replaced by KEMIS; no exchange between education systems stated."
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BWA,exchange,exchange,coverage,inservice,2022,BWA-002,,nothing dated since 2023-09-28
+BWA,exchange,registry,coverage,shared,2025-03,BWA-001;BWA-003,,
+BWA,exchange,linked,coverage,,,,,nothing held

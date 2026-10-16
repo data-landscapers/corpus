@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-01-iped-liberia-emis-peer-review",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The AU-IPED peer review held 1-2 September 2025 found Liberia's EMIS has no integration with WAEC exam data or teacher service records, and that exams, curriculum and teacher databases are not linked.",
+     "as_of": "2025-09", "date_precision": "month", "system": "Liberia EMIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Liberia EMIS", "country_label": "Liberia", "class": "other", "platform": "ODK data collection; DHIS2 integration planned", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": ""
+}

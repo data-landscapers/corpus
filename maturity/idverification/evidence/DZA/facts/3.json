@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Bank of Algeria Instruction 04-2026 of 30 April 2026, in force from signature, requires banks, financial institutions and Algerie Poste financial services to verify customer identity before and during a relationship; the national ID is not named.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "KYC Instruction 04-2026",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank KYC customer identity verification",
+   "country_label": "Algeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Bank of Algeria; banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

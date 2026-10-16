@@ -1,0 +1,10 @@
+{
+  "slug": "2023-04-24-togo-jo-decret-2023-043-registre-social-personnes-menages",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "Decree 2023-043/PR of 24 April 2023 creates the RSPM and obliges administrations to base their aid programmes on it and its household scores (art. 14), as a legal duty with no statement that any programme yet draws on it.", "as_of": "2023-04-24", "date_precision": "day", "system": "Registre social des personnes et des ménages (RSPM)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre social des personnes et des ménages (RSPM)", "country_label": "Togo", "class": "exchange", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": ""}
+  ],
+  "note": "Decree text only: it holds the NIU of each person (art. 4) and charges ANID with interconnecting the RSPM with administrations' databases (art. 5) as a duty, but states no link built, piloted or in service, so no exchange or linked fact."
+}

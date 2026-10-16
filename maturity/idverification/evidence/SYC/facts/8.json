@@ -1,0 +1,23 @@
+{
+  "slug": "2024-09-18 Launch of New Digital Solutions for Public Services",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SeyID",
+      "country_label": "Seychelles",
+      "class": "other",
+      "platform": "SeyID portal and app with ID-Wallet",
+      "owner": "Government of Seychelles (DICT)",
+      "tiers": ""
+    },
+    {
+      "system": "CertExpress",
+      "country_label": "Seychelles",
+      "class": "other",
+      "platform": "online platform; certificates saved to E-Doc wallet in SeyID app",
+      "owner": "Department of Immigration and Civil Status with DICT",
+      "tiers": ""
+    }
+  ],
+  "note": "SeyID virtual ID issue for permit holders is the ID system's own issuance; CertExpress is not stated to check people against the ID."
+}

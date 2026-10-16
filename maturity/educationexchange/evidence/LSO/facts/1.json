@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-11-lesotho-lemis-dhis2-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "LEMIS (Lesotho Education Management Information System)", "country_label": "Lesotho", "class": "other", "platform": "DHIS2", "owner": "Ministry of Education and Training, with UNICEF and HISP", "tiers": ""}
+  ],
+  "note": "Describes a single EMIS on DHIS2, not yet live nationally; it names no link to another education system, learner identifier or national ID."
+}

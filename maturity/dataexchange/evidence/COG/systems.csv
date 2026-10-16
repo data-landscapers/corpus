@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,X-Road (interoperability layer of the national DPI architecture),Congo,exchange,X-Road,MPTEN,federated exchange between ministries,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,MOSIP (digital identity layer),Congo,other,MOSIP,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Mojaloop (national payments switch),Congo,other,Mojaloop,MPTEN with BEAC supervision,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Data Center National,Congo,other,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Portail e-Citizen,Congo,other,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,plateforme d'échange de données entre les administrations,Congo,exchange,,Ministry of digital economy,,2026-07-28-cg-feuille-de-route-numerique-tribune
+COG,SIVL (Système informatisé de vérification de la légalité de bois),Congo,other,,Ministry of Forest Economy; Ministry of Finance IT directorate,,2025-12-05-cog-module-fiscalite-sivl-mfbpp

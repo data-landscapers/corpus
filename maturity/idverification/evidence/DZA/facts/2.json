@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-29-algerie-banques-connaissez-votre-client",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Echorouk reports CNEP-Banque, Housing Bank for Trade and Finance and Banque Nationale d'Algerie are verifying customers' identity and updating files, which can require a valid identity card; it does not say checks are made against the national ID register.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Know your customer (KYC) system",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank KYC customer identity verification",
+   "country_label": "Algeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Bank of Algeria; banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

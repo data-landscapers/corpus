@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-02-dhis2-africa-cdc-ebola-outbreak-response-toolkit",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker", "country_label": "DRC", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health with HISP DRC and COUSP", "tiers": "national, provincial"}
+  ],
+  "note": "Ebola Tracker configuration within DHIS2 and a continental DHIS2 toolkit; no exchange between separate DRC health systems stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "An official named Anteneh said the prime minister recently established a board that approved the creation of a national data exchange platform to let government systems communicate, which the article's passages do not describe as live; the date is the article's publication date, as it gives none.", "as_of": "2026-07-25", "date_precision": "day", "system": "national data exchange platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "national data exchange platform", "country_label": "Ethiopia", "class": "exchange", "platform": "", "owner": "Government of Ethiopia", "tiers": ""},
+    {"system": "MESOB", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Federal MESOB service", "tiers": ""}
+  ],
+  "note": ""
+}

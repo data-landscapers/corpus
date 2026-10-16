@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-29-worldbank-gambia-rise-project-isr05520",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank's November 2025 status report on the RISE project says complementary systems strengthening, including social registry enhancements and interoperability efforts, progressed, without naming the systems linked.", "as_of": "2025-11", "date_precision": "month", "system": "social registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "social registry", "country_label": "The Gambia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Nafa Cash Transfer Program", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Interoperability efforts are stated without naming the systems linked; date taken from the report's archive date of 2025-11-29."
+}

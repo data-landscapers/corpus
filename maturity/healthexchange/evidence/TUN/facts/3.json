@@ -1,0 +1,39 @@
+{
+ "slug": "2026-09-25-tun-telehealth-connect-2026-preview",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National health identifier",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Sahetna",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic medical records",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Teleradiology",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives counts (800,000 identifier registrations, 99 facilities implementing EMRs, 30 teleradiology facilities) but no exchange between systems."
+}

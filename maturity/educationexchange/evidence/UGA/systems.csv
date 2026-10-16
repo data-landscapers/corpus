@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,EMIS (Education Management Information System),Uganda,other,,Ministry of Education and Sports,,2026-06-09-newvision-emis-rules-mandatory-compliance
+UGA,"EMIS (EMIS 1.0, upgrading to EMIS 2.0)",Uganda,other,,Ministry of Education and Sports; administered by vendor SMSOne,,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da
+UGA,UNEB examinations system,Uganda,,,Uganda National Examinations Board,,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da
+UGA,EMIS (Education Management Information System),Uganda,other,,Ministry of Education and Sports,,2019-08-14-moes-emis-overview
+UGA,EMIS (Education Management Information System),Uganda,other,,Ministry of Education and Sports,,2024-10-04-uga-emis-no-more-physical-registration-licensing-of-schools
+UGA,DHIS2-DEMIS,Uganda,other,DHIS2,Ministry of Education and Sports with HISP Uganda and Save the Children Uganda,district and school (10 pilot sites),2023-03-28-dhis2-routine-data-collection-uganda-education
+UGA,UNEB examinations results,Uganda,,,Uganda National Examinations Board,,2023-03-28-dhis2-routine-data-collection-uganda-education
+UGA,DHIS2 for Education (DHIS2-Ed) / Termly School Report,Uganda,exchange,DHIS2,HISP Uganda with the Ministry of Education and Sports and the Aga Khan Foundation,district and school,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,National EMIS,Uganda,other,,Ministry of Education and Sports,national,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,UNEB examination results portal,Uganda,other,,Uganda National Examinations Board,national,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,TELA (teacher effectiveness and learner attendance) system,Uganda,other,,,national,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,eIDSR,Uganda,other,,Ministry of Health,national,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,Education Management Information System (EMIS),Uganda,other,,Ministry of Education and Sports,national,2025-03-18-essa-ulearn-education-systems-assessment
+UGA,Baseline Education Census portal,Uganda,other,,Uganda Bureau of Statistics with the Ministry of Education and Sports,national to parish,2026-05-28-ubos-baseline-education-census-2025
+UGA,School Report Card,Uganda,exchange,DHIS2 for Education,,"school, district, national",2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
+UGA,DHIS2 for Education,Uganda,exchange,DHIS2,,,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
+UGA,Offline Android data capture,Uganda,other,Android,,school,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation

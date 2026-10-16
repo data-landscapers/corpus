@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-17-ami-conseil-ministres-decret-base-donnees-menages-catastrophes-registre-social",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Council of Ministers adopted on 17 September 2025 a draft decree creating a disaster-household database whose first stated aim is a formal cooperation framework between the civil security and crisis management delegation and the National Social Registry Programme.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "BDS-MAC (Base de Donnees Speciale des Menages affectes par les catastrophes)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BDS-MAC (Base de Donnees Speciale des Menages affectes par les catastrophes)",
+   "country_label": "BDS-MAC",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Social Registry Programme",
+   "country_label": "Programme National du Registre Social",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

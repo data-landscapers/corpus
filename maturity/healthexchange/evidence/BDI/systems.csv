@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Interoperable health information system (SIS interopérable),Burundi,exchange,HL7 FHIR (planned standard),Ministry of Public Health and the Fight against AIDS,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,DHIS2,Burundi,other,DHIS2,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,SIDAInfo,Burundi,other,,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,OpenClinic,Burundi,other,OpenClinic,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,DataToCare,Burundi,other,DataToCare Desktop and Web laboratory information system,"Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie medicale, with UNDP support","national, nine laboratory sites",2026-05-29-pnud-digitalisation-laboratoires-datatocare
+BDI,DHIS2,Burundi,other,DHIS2,MSPLS,national,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024

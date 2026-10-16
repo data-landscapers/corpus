@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-13-mwi-undp-digital-innovation-egovernment-recognition",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "UNDP Malawi reports that the NRB-built Digitally Signed Biometric QR Verification platform, using QR codes generated from NRIS plus biometrics, verifies farmers online and offline for the Farm Input Subsidy Programme.", "as_of": "2026-07-13", "date_precision": "day", "system": "Digitally Signed Biometric QR Verification for Secure Farmer Social Protection Programme (Offline Digital ID)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "UNDP Malawi reports the platform authenticated more than 1.2 million farmers nationwide under the Farm Input Subsidy Programme; the date of the verifications is not given, so the article's publication date is used.", "as_of": "2026-07-13", "date_precision": "day", "system": "Digitally Signed Biometric QR Verification for Secure Farmer Social Protection Programme (Offline Digital ID)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Digitally Signed Biometric QR Verification for Secure Farmer Social Protection Programme (Offline Digital ID)", "country_label": "Malawi", "class": "relying", "platform": "NRIS", "owner": "National Registration Bureau with UNDP support", "tiers": ""},
+    {"system": "Farm Input Subsidy Programme (FISP)", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+  ],
+  "note": ""
+}

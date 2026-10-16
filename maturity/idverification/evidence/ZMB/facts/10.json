@@ -1,0 +1,8 @@
+{
+  "slug": "2021-05-19-zambia-electronic-government-act-2021-batch4_dpi_a",
+  "facts": [],
+  "systems": [
+    {"system": "Citizen card", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Ministry responsible for national registration", "tiers": ""}
+  ],
+  "note": "The Act provides in law for electronic proof of identity and a citizen card but records no system actually checking people against the national ID; a law allowing use with none on record gives no fact."
+}

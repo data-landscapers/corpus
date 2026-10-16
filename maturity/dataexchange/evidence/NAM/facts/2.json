@@ -1,0 +1,42 @@
+{
+ "slug": "2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The IISD report on a Global Partnership for Sustainable Development Data compendium says the e-birth and e-death notification platforms are linked to the National Population Registration System through the National Data Exchange Service Bus interoperability layer, which also lets the register link to other government and private-sector registers; no date for the link is given and the count of connected systems is not stated.",
+   "as_of": "2020-01-24",
+   "date_precision": "day",
+   "system": "National Data Exchange Service Bus",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Exchange Service Bus",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Population Registration System (NPRS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-birth and e-death notification platforms",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date, the document giving no event date."
+}

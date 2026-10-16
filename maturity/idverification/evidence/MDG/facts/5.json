@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-newsmada-rahaka-interoperability-platform-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rahaka",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "UGD (Unite de gouvernance digitale)",
+   "tiers": ""
+  }
+ ],
+ "note": "The body text describes a data exchange layer and says nothing about the national ID or checks against it."
+}

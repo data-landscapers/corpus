@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems",
+  "facts": [],
+  "systems": [
+    {"system": "ITAS", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Namibia Revenue Agency", "tiers": ""},
+    {"system": "ASYCUDA", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Namibia Revenue Agency", "tiers": ""}
+  ],
+  "note": "Two agencies signed an MoU and name integrating their systems a long-term goal; no data exchange platform is stated."
+}

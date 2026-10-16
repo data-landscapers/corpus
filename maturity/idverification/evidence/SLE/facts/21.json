@@ -1,0 +1,36 @@
+{
+ "slug": "2020-01-02-sierra-leone-finance-act-2020-tax-register",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Finance Act 2020 sets monthly or per-transaction fees for the National Civil Registration Secretariat's electronic Know Your Customer service, payable by banks, microfinance, credit reference, passport, driver licence, NRA/tax, NaSSIT, councils, lands, WAEC, universities and mobile companies.",
+   "as_of": "2020-01-01",
+   "date_precision": "day",
+   "system": "Electronic Know Your Customer Service (eKYC)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The Act's eKYC fee schedule lists users in banking, telecoms (mobile company), tax, social security, education, lands and licensing.",
+   "as_of": "2020-01-01",
+   "date_precision": "day",
+   "system": "Electronic Know Your Customer Service (eKYC)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Know Your Customer Service (eKYC)",
+   "country_label": "Sierra Leone",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Civil Registration Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": "Fee schedule only; no figure for verifications made. Act is dated 2020 (in operation 1 January 2020)."
+}

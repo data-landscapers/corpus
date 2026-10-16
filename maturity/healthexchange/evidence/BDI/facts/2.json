@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-29-pnud-digitalisation-laboratoires-datatocare",
+  "facts": [],
+  "systems": [
+    {"system": "DataToCare", "country_label": "Burundi", "class": "other", "platform": "DataToCare Desktop and Web laboratory information system", "owner": "Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie medicale, with UNDP support", "tiers": "national, nine laboratory sites"}
+  ],
+  "note": "Single laboratory information system linking diagnostic instruments to its own central platform; no exchange between health systems is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-25-dhis2-prueba-piloto-baney-anisok-finalizada",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Guinea Ecuatorial", "class": "other", "platform": "DHIS2", "owner": "MINSABSIS", "tiers": "national"}
+  ],
+  "note": "A single-system DHIS2 pilot in two districts (June 2025); it states no exchange with another health system."
+}

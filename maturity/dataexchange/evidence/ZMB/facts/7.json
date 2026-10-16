@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-23-efficacynews-zambia-labour-ministry-digital-services",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "Ministry of Labour and Social Security staff were trained to handle cases submitted through the Citizen Support Services Portal and the ZELMIS system on the Government Services Bus, per Permanent Secretary Zechariah Luhanga.",
+     "as_of": "2026-08-23", "date_precision": "day", "system": "Government Services Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Services Bus", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Citizen Support Services Portal", "country_label": "Zambia", "class": "other", "platform": "Government Services Bus", "owner": "Ministry of Labour and Social Security", "tiers": ""},
+    {"system": "Zambia Employment and Labour Market Information System (ZELMIS)", "country_label": "Zambia", "class": "other", "platform": "Government Services Bus", "owner": "Ministry of Labour and Social Security", "tiers": ""}
+  ],
+  "note": "as_of is the document's published date; it gives no date for the training."
+}

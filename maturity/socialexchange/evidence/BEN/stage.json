@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "no evidence",
+   "exchange": "",
+   "registry": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names social protection systems exchanging data, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+  }
+ ]
+}

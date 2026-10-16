@@ -1,0 +1,6 @@
+iso3,n,aspect,value,action,why
+GHA,019,use,underway,removed,"the source record holds no URL, so the fact cannot be linked"
+EGY,002,usage,reported,removed,"First pass: sign-ups to an app are not verifications against the ID"
+GHA,011,usage,reported,removed,"First pass: a share cross-referenced with no count of verifications"
+GHA,005,usage,reported,removed,"First pass: SIMs linked to the card with biometrics never checked against the register; not a figure for verifications"
+ZAF,015,usage,reported,removed,"First pass: bank branches offering Home Affairs services are not a figure for verifications"

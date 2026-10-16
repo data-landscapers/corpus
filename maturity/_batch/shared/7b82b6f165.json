@@ -1,0 +1,52 @@
+{
+ "slug": "2025-08-26-nigerian-data-exchange-platform-ngdx",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "NITDA held a stakeholders' workshop in Abuja on the Nigerian Data Exchange Platform (NGDX), described as a unified data exchange system for government institutions being rolled out, backed by the EU; no connected bodies or volumes are given.",
+       "as_of": "2025-08-25",
+       "date_precision": "day",
+       "system": "Nigerian Data Exchange Platform (NGDX)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigerian Data Exchange Platform (NGDX)",
+       "country_label": "Nigeria",
+       "class": "exchange",
+       "platform": "",
+       "owner": "NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nigerian Data Exchange Platform (NGDX)",
+       "country_label": "Nigeria",
+       "class": "",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "NGDX is said to let agencies verify records and ease KYC, but only as an intended benefit; no ID check in use or under build is stated."
+    }
+   }
+  }
+ }
+}

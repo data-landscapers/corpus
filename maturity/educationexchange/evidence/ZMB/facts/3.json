@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-zambia-education-management-system-emis-user-story",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Zambia", "class": "other", "platform": "DHIS2", "owner": "Ministry of General Education", "tiers": "district (Namwala)"}
+  ],
+  "note": "Describes a DHIS2 EMIS in Namwala District capturing monthly aggregate attendance, exam and WASH data; no exchange with another system, learner identifier or ID link is stated."
+}

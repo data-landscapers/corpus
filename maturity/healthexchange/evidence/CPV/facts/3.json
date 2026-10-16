@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS-2",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Death certification equipment handover and DHIS-2 modernisation; no exchange between systems is stated."
+}

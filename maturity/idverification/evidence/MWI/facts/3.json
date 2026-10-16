@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-17-malawi-nrb-registration-fees-e-kyc",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Malawi24 reports that the National Registration (Amendment) Regulations 2026, gazetted 31 July 2026, set NRB charges for e-KYC verification (K350 basic, K450 intermediate, K500 advanced) and K500 once-off for mobile money subscribers, SIM card holders, bank account holders and utility services.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "NRB e-KYC verification service",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The 2026 NRB fee regulations name e-KYC verification charges for mobile money subscribers, SIM card holders, bank account holders and utility services, per Malawi24.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "NRB e-KYC verification service",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRB e-KYC verification service",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": "basic; intermediate; advanced"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-comores-gpe-rapport-achevement-education-primaire",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Comoros", "class": "other", "platform": "", "owner": "Ministry of National Education (MEN)", "tiers": ""}
+  ],
+  "note": "GPE completion report (2018-2023 project); the captured text states nothing on data exchange between education systems, a learner identifier or links to the national ID; the EMIS/SIGE findings are only in the source note and the capture says they are not in the fetched text."
+}

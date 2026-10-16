@@ -1,0 +1,385 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Plataforma de Interoperabilidade da Administracao Publica,Angola,exchange,"service bus and interoperability intermediation layer, data held at source",Instituto de Modernizacao Administrativa (IMA) under PADA,,2026-08-31-ago-pti-interoperabilidade-13-milhoes
+AGO,Janela Unica de Prestacao nao Presencial de Servicos Publicos,Angola,other,,,,2026-08-31-ago-pti-interoperabilidade-13-milhoes
+AGO,Plataforma de Interoperabilidade da Administracao Publica (PIAP),Angola,exchange,,Instituto de Modernizacao Administrativa (IMA) under PADA,,2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade
+AGO,Projecto de Infra-Estruturas Digitais Públicas,Angola,exchange,,Instituto de Modernização Administrativa (IMA),,2026-08-04-angola-ima-launches-public-digital-infrastructure-project-with-tis
+AGO,Projecto de Aceleração Digital de Angola (PADA),Angola,other,,"IMA, World Bank-financed",,2026-08-04-angola-ima-launches-public-digital-infrastructure-project-with-tis
+AGO,Projecto de Infra-estruturas Digitais Públicas,Angola,exchange,,Instituto de Modernização Administrativa (IMA),,2026-06-17-ago-2026-ima-infra-estruturas-digitais-publicas
+AGO,Projecto de Infra-estruturas Digitais Publicas (plataforma de interoperabilidade),Angola,exchange,,Instituto de Modernizacao Administrativa (IMA),,2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas
+BDI,National data exchange layer,Burundi,exchange,,"Government of Burundi, financed by World Bank Digital Foundations Project",,2022-05-31-world-bank-burundi-digital-foundations-project-pad
+BDI,Interoperability platform,Burundi,exchange,,"Government of Burundi, financed by World Bank Digital Foundations Project",,2022-05-31-world-bank-burundi-digital-foundations-project-pad
+BDI,Isoko platform,Burundi,,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
+BDI,Payments switch,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
+BDI,Public key infrastructure (PKI),Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
+BEN,Xroad-BJ,Benin,exchange,,ASIN,,2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj
+BEN,UXP,Benin,exchange,UXP,Government of Benin,,2026-07-11 UXP Directory
+BEN,XROAD BJ national interoperability platform,Benin,exchange,,ASIN,,2020-03-18-benin-cadre-interoperabilite-xroad-bj
+BEN,UXP,Benin,exchange,UXP (Cybernetica),ASIN,,2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar
+BEN,XRoad BJ,Benin,exchange,,,,2020-03-18-benin-decret-2020-209-plateforme-interoperabilite-xroad-bj
+BEN,Smart Africa Data Exchange (SADX),Benin,other,,Smart Africa,,2025-12-19-smart-africa-ascend-sadx-pilot
+BEN,Xroad-BJ,Benin,exchange,X-Road,ASIN,,2026-07-28-asin-billet-juridique-cadre-interoperabilite-benin
+BEN,ePass,Benin,other,,Government of Benin,,2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens
+BEN,X-Road model DPI,Benin,exchange,X-Road,ASIN,,"2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals"
+BEN,XROAD BJ,Benin,exchange,X-Road,Ministère du Numérique et de la Digitalisation,,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,Portail National des Services Publics,Benin,other,,Ministère du Numérique et de la Digitalisation,,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,securoute.anatt.bj,Benin,other,ANATT secured portal,ANATT,,2026-09-11-ben-cadreco-tresor-penalites-routieres-paiement
+BEN,SECUROUTE,Benin,other,,"Government of Benin (Ministry of Economy and Finance, with Ministry of Transport, National Police and road safety agencies)",,"2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade"
+BFA,service-public.gov.bf national portal,Burkina Faso,other,,Government of Burkina Faso,,2026-05-07-burkina-faso-central-portal-e-services
+BWA,Information gateway,Botswana,exchange,,Digital Services Authority,,2025-10-17-bwa-digital-services-act-2025
+CAF,Dunia platform,Central African Republic,,,MEPCI-RCA,,2026-02-27-primature-dunia-platform-launch
+CAF,Dunia platform,Central African Republic,,modular ERP-like administrative platform,MEPCI-RCA with EDEN TiiiT,,2026-02-26-dunia-platform-launch-mepci-interview
+CAF,Dunia platform,Central African Republic,,modular ERP-like administrative platform,MEPCI-RCA with EDEN TiiiT,,2026-02-05-rca-mepci-dunia-digitalisation-effective
+CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2025-09-29-interoperability-platform-uxp-wearetech
+CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2025-09-29-interoperability-platform-uxp-x-road-techafricanews
+CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-04-civ-afriksoir-world-bank-150m-atelier
+CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques
+CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-03-civ-transformation-numerique-la-cote-divoire-priorise-les-servic
+CIV,GUCE-CI platform,Côte d'Ivoire,,,GUCE-CI,,2025-12-23-guce-ci-dgi-echange-donnees-fratmat
+CIV,Public-administration interoperability platform (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road family),Ministry of Digital Transition and Digitalization; SNDI commissioned,,2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing
+CIV,BIC-UEMOA (Bureau d'Information sur le Credit de l'UEMOA),Cote d'Ivoire,other,Creditinfo West Africa (technical operator),BCEAO with the ministry of economy and finance,"credit-information sharing among banks, decentralised financial systems and large billers; operational in Cote d'Ivoire since 2015",2026-09-17-civ-abidjannet-qualite-donnees-credit-bic-uemoa
+CIV,BIC Cote d'Ivoire (Bureau d'Information sur le Credit),Cote d'Ivoire,other,Creditinfo West Africa,,"data providers are banks, decentralised financial systems and large billers",2026-09-17-civ-fratmat-bic-qualite-donnees-credit
+CIV,e-Administration application,Cote d'Ivoire,other,,Ministry of the Civil Service (MFPMA),to interconnect the ministry's information systems with those of banks for civil-servant loan files; no go-live date stated,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
+CIV,SIGFAE,Cote d'Ivoire,,,,named as the civil-service management system; no description of exchange function,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
+CMR,national interoperability infrastructure,Cameroon,exchange,,,,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure
+CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun
+COD,RDC-PASS,DRC,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,Guichet numérique,DRC,other,,,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,"Data-sharing platform (planned, Digital Transformation Project)",DR Congo,exchange,,"Ministry of Post, Telecommunications and Digital Affairs (MPTN) unit",,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
+COG,X-Road (interoperability layer of the national DPI architecture),Congo,exchange,X-Road,MPTEN,federated exchange between ministries,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,MOSIP (digital identity layer),Congo,other,MOSIP,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Mojaloop (national payments switch),Congo,other,Mojaloop,MPTEN with BEAC supervision,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Data Center National,Congo,other,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,Portail e-Citizen,Congo,other,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,plateforme d'échange de données entre les administrations,Congo,exchange,,Ministry of digital economy,,2026-07-28-cg-feuille-de-route-numerique-tribune
+COG,SIVL (Système informatisé de vérification de la légalité de bois),Congo,other,,Ministry of Forest Economy; Ministry of Finance IT directorate,,2025-12-05-cog-module-fiscalite-sivl-mfbpp
+COM,plateforme d'interopérabilité et d'échange de données,Comoros,exchange,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,plateforme d'administration numérique (portail gouvernemental),Comoros,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,système de paiement numérique de l'administration,Comoros,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,centre de données national,Comoros,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,e-Administration project (inter-ministry interoperability),Comoros,exchange,,"Government of Comoros; funded by the EU, implemented by Expertise France",,2025-10-16-e-administration-project-launch-eu-expertise-france-alwatwan
+COM,SIGIT (Système de Gestion des Impôts et Taxes),Comoros,other,,Ministry of Finance (Direction Générale des Impôts),,2025-10-07-com-mfbsb-ami-interfacage-sigit-mobile-banking-pagf-si
+COM,Interoperability and data-exchange platform (PADEC),Comoros,exchange,,Government of Comoros; AfDB-funded,,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
+CPV,Autentika,Cabo Verde,exchange,,IMIJ (Institute for Justice Modernization and Innovation),,2026-05-19-crvs-id-reforms-birth-registration-biometricupdate
+CPV,SGIT,Cabo Verde,other,,Government of Cabo Verde (CCIP as executing entity),,2026-09-21-cpv-ccip-afdb-reoi-sgit-nomadas-digitais-modulo
+CPV,PDEX,Cabo Verde,exchange,,NOSi,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+DJI,national data exchange layer,Djibouti,exchange,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
+DJI,X-Road secure data exchange,Djibouti,exchange,X-Road,ANSIE,,2021-12-31-ega-public-administration-modernisation-djibouti
+DJI,CatIS,Djibouti,,,ANSIE,,2021-12-31-ega-public-administration-modernisation-djibouti
+DJI,système d'interopérabilité (DGPF),Djibouti,exchange,,Direction générale de la Population et de la Famille,"public administrations, banks, social protection bodies",2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
+DJI,"Plate-forme d'échange des données (art. 38, to be set up by the Direction de l'Exécution Budgétaire with all central-administration departments)",Djibouti,exchange,,Direction de l'Exécution Budgétaire (Ministry of the Budget),,2025-12-31-djibouti-loi-de-finances-203-an-25-budget-initial-2026
+DJI,Sydonia World / e-Guichet,Djibouti,other,Sydonia World,Direction Générale des Douanes et Droits Indirects,,2025-12-31-djibouti-loi-de-finances-203-an-25-budget-initial-2026
+DZA,Système national d'interopérabilité,Algeria,exchange,secure interconnection network,Haut commissariat à la numérisation,public institutions and administrations; bodies and enterprises with a public service on need,2025-12-30-joradp-decret-25-320-gouvernance-donnees
+DZA,Secure data exchange platform,Algeria,exchange,,,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
+DZA,National data platform (المنصة الوطنية للبيانات),Algeria,,,Haut commissariat à la numérisation,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
+DZA,National digital services portal,Algeria,other,,,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
+DZA,Plateforme d'interopérabilité,Algeria,exchange,,Haut commissariat à la numérisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
+DZA,Centre national algérien des services numériques (Mohammadia),Algeria,other,Huawei-led consortium; active-active data centres,Haut commissariat à la numérisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
+DZA,Portail national des services publics,Algeria,other,,,about forty services in a first stage,2026-07-05-dza-elwatan-centre-national-services-numeriques
+DZA,Base nationale de données pour le service public,Algeria,other,,,,2026-07-05-dza-elwatan-centre-national-services-numeriques
+DZA,النظام الوطني للتشغيل البيني (national interoperability system),DZA,exchange,,High Commission for Digitalisation,,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
+DZA,IRIES sovereign secured national network,DZA,other,,,,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
+DZA,dzair digital services portal,DZA,other,,,,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
+DZA,national sovereign cloud,DZA,other,,,,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
+DZA,national digital system for tracking strategic goods (proposed),DZA,other,,High Commission for Digitalisation; Ministry of Internal Trade,,2026-09-04-algerie-manzouma-wataniya-raqamiya-mawad-istiratijiya
+DZA,intersectoral interconnection via the Centre national des données,DZA,exchange,,,,2026-08-10-algeria-care-digital-brief-interconnection
+DZA,Centre national algérien des services numériques (CNASN),DZA,other,,,launched 2026-07-05,2026-08-10-algeria-care-digital-brief-interconnection
+DZA,Notaries' online access to cadastral and land databases of the Direction generale des Domaines,Algeria,other,,Ministry of Finance; Direction generale des Domaines; Ministry of Justice (Chambre nationale du notariat),,2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord
+EGY,Unified environmental data registry for the industrial sector (سجل البيانات البيئية الموحد),Egypt,other,Green Sustainable Industries (GSI) programme,Egyptian Environmental Affairs Agency,,2026-09-01-egypt-masrawy-environmental-data-registry-protocol
+EGY,المحول الرقمي الحكومي (Government Digital Transformer),Egypt,exchange,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
+EGY,منصة مصر الرقمية (Digital Egypt platform),Egypt,other,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
+EGY,الخزانة الرقمية (Digital Vault),Egypt,other,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
+EGY,الهوية الرقمية (digital identity),Egypt,,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
+EGY,التوقيع الإلكتروني (electronic signature),Egypt,,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
+EGY,EGX-ITDA commercial registry and exchange database integration,Egypt,other,,Egyptian Exchange; Internal Trade Development Authority,,2026-08-20-businessmen-eg-egx-itda-data-integration
+EGY,Digital Egypt platform,Egypt,other,,Ministry of Communications and Information Technology,,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
+EGY,Public Shop Licensing System,Egypt,other,Digital Egypt platform,Ministry of Local Development and Environment,,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
+EGY,digital treasury system,Egypt,other,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
+EGY,المحول الرقمي الحكومي (government digital switch),Egypt,exchange,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
+EGY,Digital Egypt platform (منصة مصر الرقمية),Egypt,other,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
+EGY,digital identity app,Egypt,other,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
+EGY,digital treasury,Egypt,other,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
+ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea (customs),,2026-01-08 Eritrea launches ASYCUDA World digital customs system
+ETH,national data exchange platform,Ethiopia,exchange,,Government of Ethiopia,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
+ETH,MESOB,Ethiopia,other,,Federal MESOB service,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
+ETH,whole-of-government data exchange platform,Ethiopia,exchange,,Federal Democratic Republic of Ethiopia,,2023-12-20-ethiopia-digital-id-financing-agreement
+ETH,Fayda,Ethiopia,other,,,,2023-12-20-ethiopia-digital-id-financing-agreement
+ETH,Fayda,Ethiopia,other,,,,2026-06-16 The financing gap for data exchange is well documented so why does it persist
+GAB,interoperability platform,Gabon,exchange,,"ANINF (National Agency for Digital Infrastructure and Frequencies) implementing, under the Ministry of Digital Economy",,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,National Digital Identity System,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,government messaging system,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,government interoperability platform,Gabon,exchange,,CN-TIPPEE (Digital Gabon project implementing agency),,2024-12-19-world-bank-digital-gabon-isr-seq7
+GHA,eGIF national data-exchange hub,Ghana,exchange,,Ministry of Communications and Digitalisation,,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
+GHA,Ghana.gov,Ghana,other,,,,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
+GHA,Smart Africa Data Exchange (SADX),Ghana,other,,Smart Africa,,2025-12-19-smart-africa-ascend-sadx-pilot
+GHA,Open Data Initiative portal,Ghana,other,,,,2026-06-16 The financing gap for data exchange is well documented so why does it persist
+GHA,national data exchange hub,Ghana,exchange,,"Ministry of Communication, Digital Technology and Innovations",,2026-10-15-gha-myjoyonline-sam-george-ai-5bn-compute-centre
+GHA,National Data Exchange Hub,Ghana,exchange,,"Ministry of Communication, Digital Technology and Innovations",,2026-07-31-govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth
+GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
+GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
+GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
+GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
+GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-guinee-etat-interconnexion-x-road-e-service
+GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-20-guinee-etat-interconnexion-x-road-e-service
+GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-nimba224-revolution-numerique-la-guinee-veut-mettre
+GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-20-nimba224-revolution-numerique-la-guinee-veut-mettre
+GIN,plateforme nationale d'interopérabilité et de vérification de l'identité du RNPP,Guinea,exchange,,ONECI,,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil
+GIN,Diama Djigui,Guinea,,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
+GIN,e-Services,Guinea,other,,ANDE,,2026-05-07-ande-deploiement-plateforme-nationale-e-services
+GIN,GovStack,Guinea,,,,,2026-04-08-techreviewafrica-govstack-workshop-wardip
+GMB,Education Management Information System (EMIS),Gambia,other,,Ministry of Basic and Secondary Education,,2026-07-01-mobse-health-ministry-data-systems
+GMB,Health Management Information System (HMIS),Gambia,other,,Ministry of Health,,2026-07-01-mobse-health-ministry-data-systems
+GMB,GamSR,The Gambia,other,,,,2025-11-29-worldbank-gambia-rise-project-isr05520
+GMB,EMIS (MoBSE and MoHERST),The Gambia,other,,"MoBSE, MoHERST",,2025-11-29-worldbank-gambia-rise-project-isr05520
+GMB,CRVS,The Gambia,other,,,,2025-11-29-worldbank-gambia-rise-project-isr05520
+GMB,Health insurance system,The Gambia,other,,,,2025-11-29-worldbank-gambia-rise-project-isr05520
+GNB,eGIF-GW,Guinea-Bissau,other,,ITMA / MTTDE (WARDIP),,2024-07-31-gnb-wardip-egif-gw-interoperability-framework-v2
+GNB,KONTAKTU,Guinea-Bissau,other,,,,2024-07-31-gnb-wardip-egif-gw-interoperability-framework-v2
+KEN,interoperability platform,Kenya,exchange,,State Department for ICT and the Digital Economy,national,2026-09-23-ken-techweez-manual-backend-interoperability
+KEN,Government Enterprise Architecture,Kenya,other,,,national,2026-09-23-ken-techweez-manual-backend-interoperability
+KEN,interoperability platform (X-Road test environment),Kenya,exchange,X-Road (GovStack information mediator building block),Ministry of ICT; ICT Authority,national,2026-01-20-cybernetica-piloted-interoperability-platform-kenya
+KEN,KeHMIS interoperability layer,Kenya,other,OpenHIE framework,Ministry of Health,national,2022-01-01-kenya-the-principles-in-action
+KEN,Enterprise Platform,Kenya,exchange,secure APIs,State Department for ICT and the Digital Economy,,2026-09-23-ken-techtrendske-state-plans-unified-platform
+KEN,Development Partners Management Information System (DPMIS),Kenya,other,,National Treasury,,2026-08-17-kenya-treasury-dpmis-development-partner-tracking
+KEN,KNPHI ERP,Kenya,other,,Kenya National Public Health Institute,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,KNPHI LIMS,Kenya,other,,Kenya National Public Health Institute,,2026-07-27-kenya-moh-knphi-lims-addendum-interoperability-specifications
+LBR,Service Bus (GREAT Project),Liberia,exchange,,"Government of Liberia (GREAT Project, World Bank financed)",,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
+LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
+LBR,e-Government procurement (e-GP) system,Liberia,other,,Public Procurement and Concessions Commission,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
+LBR,National Identification Registry,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
+LBR,Government Service Bus (GSB),Liberia,exchange,,Ministry of Finance and Development Planning (GREAT Project),,2026-02-13-liberia-great-project-procurement-plan
+LBR,National Data Center shared digital infrastructure,Liberia,other,,Ministry of Finance and Development Planning (GREAT Project),,2026-02-13-liberia-great-project-procurement-plan
+LBY,Nawa (Government Service Bus),Libya,exchange,open-source Government Service Bus prototype,"General Information Authority with the Libyan Digital Innovation Lab, Expertise France and the EU E-NABLE project",,2026-06-30-lby-cjos-nawa-interoperability-platform
+LBY,Libyan National Data Exchange (LY-NDEX),Libya,exchange,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
+LBY,Libyan Digital National Identity (LY-DNID),Libya,other,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
+LBY,National Data Distributor,Libya,exchange,,General Information Authority,,2026-04-23-chambers-union-electronic-system-gia
+LBY,Electronic system of the Union of Chambers,Libya,other,,Union of Chambers,,2026-04-23-chambers-union-electronic-system-gia
+LSO,X-Road,Lesotho,exchange,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,MOSIP,Lesotho,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+MAR,E-government interoperability platform,Morocco,exchange,Minsait,Agency for Digital Development (ADD),,2022-09-07-morocco-e-government-interoperability-platform
+MAR,Single Social Register (RSU),Morocco,other,,,,2022-09-07-morocco-e-government-interoperability-platform
+MAR,MASSAR,Morocco,other,,,,2022-09-07-morocco-e-government-interoperability-platform
+MAR,Jumeau numérique de l'Eau (national data platform),Morocco,other,"sovereign national data platform hosted in Morocco, under the EHTP science tower","EHTP, Ministry of Equipment and Water","pilot stated 18-24 months away; sensors, satellites, basin agencies, HCP as sources",2026-07-28-morocco-water-digital-twin-national-data-platform-ehtp
+MAR,Justice Ministry-DGSN electronic data exchange agreement,Morocco,other,,Ministry of Justice; DGSN,two bodies,2024-07-24-justice-ministry-dgsn-electronic-data-exchange
+MDG,Rahaka,Madagascar,exchange,X-Road,UGD (Unite de gouvernance digitale),,2026-04-29-newsmada-rahaka-interoperability-platform-launch
+MDG,national interoperability platform,Madagascar,exchange,X-Road (or equivalent) required of bidders,"Digital Governance Unit (UGD), PRODIGY project",,2025-08-28 Madagascar seeks firm to expand digital interoperability platform
+MDG,Orinasa interoperable ecosystem,Madagascar,exchange,,Digital Governance Unit (UGD),,2022-11-14-ugd-cadre-interoperabilite
+MDG,interoperability platform based on X-Road,Madagascar,exchange,X-Road,Government of Madagascar,,2023-10-10-worldbank-legal-identity-madagascar-namibia
+MDG,CNECI civil registration and identification databases,Madagascar,other,,CNECI,,2023-10-10-worldbank-legal-identity-madagascar-namibia
+MDG,Rahaka,Madagascar,exchange,PRODIGY (World Bank) support,Unite de Gouvernance Digitale (UGD),,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress
+MDG,RAHAKA,Madagascar,exchange,,UGD (Unite de Gouvernance Digitale),,2026-04-29-interoperabilite-nationale-instat
+MDG,RAHAKA,Madagascar,exchange,,Unite de Gouvernance Digitale (UGD),,2026-04-28-instat-interoperabilite-nationale
+MLI,PKI nationale,Mali,other,,,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
+MLI,Intranet gouvernemental,Mali,other,private secured government network,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Single-window portal of digitalised public services,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Government messaging system,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,SMTD data centre,Mali,other,"colocation, IaaS, SaaS, backup",SMTD,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,AGETIC data centre,Mali,other,"hosting, IaaS, SaaS, backup",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,Government PKI (planned),Mali,other,,,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MOZ,X-Road,Mozambique,exchange,X-Road,ATDI,,2026-10-09-moz-mznews-atdi-x-road-training
+MOZ,Plataforma de Interoperabilidade (SIS-MA),Mozambique,exchange,DHIS2-based SIS-MA with intermediary API and Master Facility List,"Ministry of Health (MISAU), Departamento de Informação para Saúde",,2026-08-28-sisma-interoperability-platform
+MOZ,Ferramenta Central,Mozambique,other,,Central de Medicamentos e Artigos Médicos (CMAM),,2026-08-28-sisma-interoperability-platform
+MOZ,SIRCEV,Mozambique,other,,Ministry of Justice,,2026-08-28-sisma-interoperability-platform
+MOZ,interoperability platform (ATDI),Mozambique,exchange,,Digital Transformation and Innovation Agency (ATDI),,2026-09-24-moz-ecofinagency-unified-digital-platform
+MOZ,Portal do Cidadão,Mozambique,other,,,,2026-09-24-moz-ecofinagency-unified-digital-platform
+MOZ,Interoperability Platform (X-Road),Mozambique,exchange,X-Road,"Digital Transformation and Innovation Agency (ATDI, IP)",,2026-05-29-atdi-mobile-digital-id-tender
+MOZ,National mobile digital identity and e-signature ecosystem,Mozambique,other,,"ATDI, IP",,2026-05-29-atdi-mobile-digital-id-tender
+MOZ,interoperability platform,Mozambique,exchange,,ATDI,,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,Citizen Portal,Mozambique,other,,ATDI,,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,national mobile digital ID,Mozambique,other,,"ATDI, World Bank EDGE",,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,X-Road interoperability infrastructure,Mozambique,exchange,X-Road,ATDI,,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
+MOZ,X-Road Interoperability Platform,Mozambique,exchange,X-Road,ATDI,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
+MOZ,National mobile digital identity and electronic signature infrastructure,Mozambique,other,,,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
+MRT,Maadeni (النظام المعلوماتي المندمج معدني),Mauritania,other,,Agence nationale Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
+MRT,GIMTEL CONNECT,Mauritania,,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
+MRT,integrated government digital platform for qualification and classification of firms,Mauritania,other,,Ministry of Housing,,2026-09-16-mrt-ami-rqmnt-tahil-tasnif-muassasat
+MUS,InfoHighway,Mauritius,exchange,"Publish and subscribe service platform with portal, web services and bulk transfer, hosted at the Government Online Centre on the Government Intranet","Ministry of Information Technology, Communication and Innovation (project owner); Central Informatics Bureau (project management)",,2016-08-01-infohighway-data-sharing-platform
+MWI,National Data Exchange Platform (Boma Lathu),Malawi,exchange,,Ministry of ICT,,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
+MWI,Enterprise Service Bus,Malawi,exchange,,Department of e-Government,,2026-01-13-ict-sector-2025-implementation-woes-times
+MWI,Malawi Health Care Information System (MAHIS),Malawi,other,,Ministry of Health and Sanitation,,2026-09-04-malawi-mahis-digital-health-records-pilot
+MWI,Enterprise Service Bus,Malawi,exchange,DMAP,Department of eGovernment,,2026-02-20-dmap-accelerates-progress-on-key-digital-initiatives
+MWI,Bomalathu e-Service Portal,Malawi,other,DMAP,Department of eGovernment,,2026-02-20-dmap-accelerates-progress-on-key-digital-initiatives
+MWI,Bomalathu,Malawi,other,digital services platform / single government services portal,Department of E-Government,,2026-07-07 Malawi integrates immigration e-services
+MWI,Enterprise Service Bus,Malawi,exchange,,Department of e-Government,,2026-01-27-ict-sector-eyes-policy-enforcement-times
+MWI,Malawi National Single Window,Malawi,other,trade single window,,,2026-01-27-ict-sector-eyes-policy-enforcement-times
+MWI,Public Sector Reforms Information Management System,Malawi,other,,,,2026-01-27-ict-sector-eyes-policy-enforcement-times
+MWI,National Agricultural Data Infrastructure (NAGDI) framework,Malawi,other,proposed framework for agricultural data interoperability,Commonwealth (framework),,2025-12-05-farmer-data-interoperability-nagdi-dpi-times
+MWI,National Registration and Identification System,Malawi,other,national ID,National Registration Bureau,,2025-12-05-farmer-data-interoperability-nagdi-dpi-times
+MWI,Bomalathu,Malawi,exchange,data-exchange platform,,,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
+MWI,Harmonized National Management Information System (HN-MIS),Malawi,other,planning and monitoring information system,Ministry of Finance and Economic Affairs (Dept of Economic Planning and Development),,2025-01-01-establishment-harmonized-national-management-information-system
+NAM,Nam-X,Namibia,exchange,Cybernetica Unified eXchange Platform (UXP),"Office of the Prime Minister, Department of Public Service e-Government Management",,2024-01-01-namibia-governmental-interoperability-framework-nam-x
+NAM,National Data Exchange Service Bus,Namibia,exchange,,,,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9
+NAM,National Population Registration System (NPRS),Namibia,other,,,,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9
+NAM,e-birth and e-death notification platforms,Namibia,other,,,,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9
+NAM,Namibia governmental interoperability solution (X-Road/UXP),Namibia,exchange,Cybernetica UXP (X-Road based),,,2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia
+NAM,X-Road (National Population Register),Namibia,exchange,X-Road,,,2023-10-10-worldbank-legal-identity-madagascar-namibia
+NAM,National Population Register (NPRS),Namibia,other,,,,2023-10-10-worldbank-legal-identity-madagascar-namibia
+NAM,government Interoperability Platform (X-Road based),Namibia,exchange,X-Road,"Office of the Prime Minister, DPSITM",,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
+NAM,NamX,Namibia,exchange,,Government of Namibia,,2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)
+NAM,Nam-X,Namibia,,,Office of the Prime Minister,,2025-01-01-developing-digital-services-nam-x
+NAM,ITAS,Namibia,other,,Namibia Revenue Agency,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
+NAM,ASYCUDA,Namibia,other,,Namibia Revenue Agency,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
+NER,national interoperability layer based on OpenFn,Niger,other,OpenFn,Directorate of e-Health with Data.FI Project,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,to be interoperable with civil status and nationality registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3),Niger,exchange,,Ministère de l'Intérieur (WURI-Niger project),,2024-01-01-lesahel-wuri-niger-presentation-projet
+NER,"base identification system (f-ID, NUI)",Niger,other,,WURI-Niger project,,2024-01-01-lesahel-wuri-niger-presentation-projet
+NGA,NGDX,Nigeria,exchange,,Federal Ministry of Digital Economy (NITDA),,2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy
+NGA,Nigerian Data Exchange Platform (NGDX),Nigeria,exchange,,NITDA,,2025-08-26-nigerian-data-exchange-platform-ngdx
+NGA,NIMC national identity database and authentication platform,Nigeria,other,NIN API,NIMC,national,2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted
+NGA,Lagos Smart Health Information Platform (SHIP),Nigeria,other,FHIR,Lagos State Government,state,2026-08-08-nigeria-lagos-ship-ai-health-data-interoperability
+NGA,Nigerian Digital Exchange,Nigeria,exchange,,NITDA,national,2026-07-30-nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services
+NGA,Government Service Portal,Nigeria,other,single sign-on,Galaxy Backbone,national,2026-07-30-nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services
+NGA,Nigeria Government Enterprise Architecture (NGEA) Portal,Nigeria,,,NITDA,national,2026-07-30-nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services
+NGA,NIMC authentication platform (NIN),Nigeria,other,NIN,NIMC,national,2026-07-25-nin-contradiction-high-cost-of-false-integration
+NGA,NIMC authentication platform (NIN),Nigeria,other,NIN,NIMC,national,2026-07-15-nigeria-national-database-still-fragmented
+NGA,National Data Exchange (NGDX),Nigeria,exchange,X-Road specifications listed among interoperability standards,,,2025-03-17-nitda-dpi-technical-standards-draft-v1-3
+NGA,National Data Exchange Platform,Nigeria,exchange,,,,2026-04-22-fg-nigeria-police-mou-digital-infrastructure
+NGA,Nigeria's Data Exchange Platform,Nigeria,,,,,2026-03-25-finland-nigeria-cyber-digitalisation-mou
+NGA,Data Exchange Platform,Nigeria,,,,,2026-03-23-nigeria-finland-mou-digitalisation
+NGA,Data Exchange Platform,Nigeria,,,,,"2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties"
+RWA,National Data Sharing Platform (DSP),Rwanda,exchange,"to be built on APIs, metadata structures and standard data formats; cloud or hybrid infrastructure",Ministry of ICT and Innovation; implemented by RISA,,2025-09-27-data-sharing-platform-2026-newtimes
+RWA,Data Sharing Platform,Rwanda,exchange,,RISA oversees infrastructure and platforms used for data sharing,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Shared Government Data Hub,Rwanda,exchange,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Data Interoperability Platform,Rwanda,exchange,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Shared Government Data Hub & Data Interoperability Platform,Rwanda,exchange,hybrid: on-premise hardware at the National Data Center plus cloud components,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
+RWA,ESB (upgraded),Rwanda,,,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
+RWA,Smart Africa Data Exchange (SADX),Rwanda,other,,Smart Africa,,2025-12-19-smart-africa-ascend-sadx-pilot
+RWA,data sharing platform,Rwanda,exchange,,National Institute of Statistics of Rwanda (Data Governance Unit),,2026-05-07 What will determine the success of Rwanda’s data governance push
+SDN,Baladna,Sudan,exchange,Baladna,Ministry of Digital Transformation and Communications,,2026-09-03-sudan-baladna-investor-service-g2g-data-exchange
+SDN,Electronic One-Stop Platform,Sudan,other,,National Investment Authority,,2026-09-01-investment-authority-launches-service-to-activate-requiremen
+SDN,Electronic capital flows system,Sudan,other,,Central Bank of Sudan,,2026-08-27-sudan-cbos-electronic-capital-flows
+SDN,Central Bank electronic application system,Sudan,,,Central Bank of Sudan,,2026-08-11-sudan-economic-committee-electronic-system-forex
+SDN,Electronic single window,Sudan,exchange,,National Investment Authority,,2026-08-04-national-investment-authority-in-the-process-of-electronic-single-window
+SDN,UNIVERSAL SECURE (CONSOLEX) unified API gateway,Sudan,exchange,unified API gateway,Ministry of Digital Transformation and Telecommunications,,2026-01-01-sudan-3x3-digital-transformation-plan-phase-two
+SDN,Secure Government Messaging Program,Sudan,other,,Ministry of Cabinet Affairs,,2026-01-01-sudan-3x3-digital-transformation-plan-phase-two
+SDN,SUDAPAY,Sudan,other,instant-transfer application,Central Bank of Sudan,,2026-01-01-sudan-3x3-digital-transformation-plan-phase-two
+SDN,Yaqeen,Sudan,other,verification service,Ministry of Interior,,2026-01-01-sudan-3x3-digital-transformation-plan-phase-two
+SEN,Data exchange interoperability platform,Senegal,exchange,,MCTN,,2025-09-19-techafricanews-interoperability-update
+SEN,Interministerial interoperable data exchange platform,Senegal,exchange,,MCTN,,2025-04-22-lesoleil-interoperability-platform
+SEN,PINS (Plateforme d'Interopérabilité Nationale du Sénégal),Senegal,exchange,,MCTN,,2026-09-24-sen-guindima-pins-interoperability-tender
+SEN,Plateforme d'interopérabilité,Senegal,exchange,,MCTN,,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite
+SEN,Plateforme d'interopérabilité d'échange de données,Senegal,exchange,,MCTN,,2025-09-18-egov-senegal-plateforme-interoperabilite
+SEN,PINs,Senegal,exchange,X-Road,,,2026-09-04-senegal-new-deal-technologique-wsis-session
+SEN,Plateforme d'Interoperabilite du Senegal (e-Jokkoo),Senegal,exchange,X-Road,,,2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo
+SEN,Government Enterprise Architecture (EAG),SEN,other,,Ministry of Telecommunications and Digital Economy,,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
+SEN,digital government platform,SEN,other,,Government of Senegal,,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
+SEN,plateforme nationale integree de transparence (CBIT-Senegal),SEN,other,,Ministry of Environment and Ecological Transition,,2026-07-22-seneweb-cbit-donnees-climatiques
+SEN,National Transparency Platform (NTP),SEN,other,,"Ministry of the Environment and Ecological Transition, DCCTEFV",,2025-08-11-gef-senegal-cbit-etf-project-document
+SLE,national Data Exchange Layer (X-Road based),Sierra Leone,exchange,X-Road,Ministry of Finance,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
+SLE,Government Service Bus prototype,Sierra Leone,exchange,X-Road or another open-source platform,Ministry of Finance,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Government Service Bus,Sierra Leone,exchange,,,,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,X-Road platform,Sierra Leone,exchange,X-Road,,,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,"Municipal Property Tax System (MOPTAX 2.0, CGMRS)",Sierra Leone,other,,Ministry of Finance,,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,Data Exchange Layer (DEL),Sierra Leone,exchange,,NCRA and MoCTI (MoU signed 2024-05-10),,2024-05-15-ncra-mocti-digital-governance-mou
+SOM,Central data exchange platform (PFM),Somalia,exchange,,Ministry of Finance,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,SFMIS,Somalia,other,,Ministry of Finance,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,SFMIS,Somalia,other,,Federal Government of Somalia,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Somali Business Registration System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Electronic Tax Administration System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Road Transport Tax System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Rental Income Tax System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,E-Visa,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Electronic Non-Tax Revenue System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,DFS Revenue Collection System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+STP,Interoperability and data-exchange platform (DEX),STP,exchange,,"INIC and DGRN, with System Integrator Ooru",,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Verifiable Credentials Infrastructure (VCI),STP,other,,INIC and DGRN,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Citizen Portal and Mobile App,STP,other,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Electronic Signature service,STP,other,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,government-wide data exchange layer,STP,exchange,,,,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
+STP,plataforma de interoperabilidade (registo civil / recenseamento eleitoral),STP,exchange,,DGRN and CEN/GTE; developed by Universidade de Aveiro,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
+STP,SIGA,STP,other,,DGRN,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
+STP,Bilhete de Identidade,STP,other,,DGRN,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
+STP,Plataforma de Interoperabilidade,STP,exchange,,INIC (strategy proponent),,2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital
+SWZ,Mchumanisi,Eswatini,exchange,,"Ministry of Information, Communications and Technology (draft National Data Governance Policy 2027-2031)",,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,CMIS-eLMIS integration,Eswatini,other,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration
+SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
+SWZ,CMIS,Eswatini,other,SQL Server,Ministry of Health HMIS unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,DHIS2,Eswatini,other,DHIS2,Ministry of Health HMIS unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,OpenHIM Platform with FHIR-based health information exchange,Eswatini,other,OpenHIM,Ministry of Health (implemented by Jembi),,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
+SWZ,ERS Digital Transformation Agenda data matching,Eswatini,other,,Eswatini Revenue Service,,2025-10-29-ers-intensifies-drive-close-tax-gap
+SYC,NPCI International Payments Limited MoU with Central Bank of Seychelles,Seychelles,,,Central Bank of Seychelles,,2026-06-28-statehouse-india-nine-agreements-npci-digital-payments
+SYC,National Addressing System (National Addressing Database Unit),Seychelles,other,,National Addressing Department,,2026-04-03-seychelles-national-addressing-system-bill-cabinet
+SYC,Digital Public Infrastructure buildout (incl. digital payments),Seychelles,,,India (assistance) / Government of Seychelles,,2026-02-09-india-seychelles-sesel-joint-vision
+SYC,National Addressing and Postcode System,Seychelles,other,,"Seychelles Postal Regulator with DICT, MLH, NBS and others",,2025-01-01 National Addressing System - Seychelles Postal Regulator
+TCD,SIGFIP,Tchad,,,,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,E-tax,Tchad,,,DGI,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,Facturation electronique normalisee (FEN),Tchad,,,,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,E-Justice Tchad digital exchange platform,Tchad,other,,"Ministere de la Justice et des Droits Humains, with UNDP",Extranet (public); Intranet (judicial staff),2025-10-23-tribuneechos-e-justice-tchad-plateforme-echange-numerique
+TCD,SIGFiP (Système intégré de gestion des finances publiques),Tchad,other,,Government of Chad,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TCD,e-Visa,Tchad,other,,Government of Chad,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TGO,Smart Bridge,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee); NITEC (licensor),,2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing
+TGO,Single platform of internet resources for public agencies,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee); NITEC (licensor),,2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing
+TGO,Smart Data Ukimet,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee); NITEC (licensor),,2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing
+TUN,National interoperability platform (UXP),Tunisia,exchange,Cybernetica Unified eXchange Platform (UXP),Ministry of Communication Technologies,,2026-05-22-tunisie-lequotidien-interoperabilite-phase-2-192-projets
+TUN,National interoperability platform (UXP),Tunisia,exchange,Cybernetica Unified eXchange Platform (UXP),Ministry of Communication Technologies,,2026-05-14-cybernetica-national-interoperability-platform-phase2
+TUN,National interoperability platform (xROAD),Tunisia,exchange,X-Road,Centre National de l'Informatique,,2025-01-01-tunisie-cni-interoperability-solutions
+TUN,National interoperability platform (UXP),Tunisia,exchange,Cybernetica Unified eXchange Platform (UXP),Ministry of Communication Technologies,,2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)
+TUN,Tej,Tunisia,,,Direction generale des impots,,2026-09-08-tun-tunisienumerique-dgi-tej-nouvelles-fonctionnalites
+TUN,UXP national interconnection platform,Tunisia,exchange,UXP,Ministry of Communication Technologies,,2024-01-01-tunisia-s-interoperability-platform-phase-1-institutions
+TUN,Plateforme d'interopérabilité,Tunisia,exchange,,Centre national de l'informatique (interoperability operator),,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite
+TUN,Plateforme d'interopérabilité,Tunisia,exchange,,Centre national de l'informatique (interoperability operator),,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique
+TUN,UXP (Unified eXchange Platform),Tunisia,exchange,UXP,Ministry of Communication Technologies,national,2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp
+TZA,GovESB (Government Enterprise Service Bus),Tanzania,exchange,,e-Government Authority,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,GePG,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,GovESB (e-GA),TZA,exchange,,e-Government Authority (e-GA),,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb
+TZA,Jamii X-Change,Tanzania,exchange,,"Ministry of Information, Communication and Information Technology",,2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa
+TZA,Jamii Namba,Tanzania,other,,,,2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa
+TZA,Jamii Portal,Tanzania,,,,,2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa
+TZA,NaPA,Tanzania,other,,"Ministry of Information, Communication and Information Technology",,2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa
+TZA,Jamii X-Change,Tanzania,exchange,,"Ministry of Information, Communication and Information Technology with e-Government Authority",,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama
+TZA,Jamii Namba,Tanzania,other,,,,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama
+TZA,Jamii Kadi,Tanzania,other,,,,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama
+TZA,Jamii Malipo,Tanzania,other,,,,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama
+TZA,TIPS,Tanzania,other,,,,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama
+TZA,Government Enterprise Service Bus (GovESB),Tanzania,exchange,,e-Government Authority,,2024-02-01-e-government-technology-roadmap
+UGA,UGHub,Uganda,exchange,,NITA-U,,2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study
+UGA,UgHub,Uganda,exchange,,,,2025-08-25-dci-data-exchange-platforms-interoperability
+UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in
+UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
+UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
+UGA,National ICT Infrastructure Spatial Data Store (NISDS),Uganda,other,Esri (partner),Ministry of ICT and National Guidance with NITA-U,,2025-08-27-ict-national-ict-infrastructure-spatial-data-store
+UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2025-06-19-nita-u-integration-service-ughub
+ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-11-05-govt-data-exchange-estonia-xroad
+ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-11-04-ggf-south-africa-government-data-exchange-pilot
+ZAF,X-Road data exchange,South Africa,exchange,X-Road,"Digital Services Unit, Presidency; hosted by SITA",,2026-09-23-dailymaverick-zaf-govtech2026-dpi-estonia-2026
+ZAF,data exchange platform,South Africa,exchange,,National Treasury,,2026-08-03-mymzansi-roadmap-initiative-2-data-exchange
+ZAF,Master Social Security Registry,South Africa,other,,,,2026-08-03-mymzansi-roadmap-initiative-2-data-exchange
+ZAF,SDF,South Africa,other,,National Treasury,,2026-08-03-mymzansi-roadmap-initiative-2-data-exchange
+ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-10-03-national-treasury-launches-mzansixchange-pilot-advisory
+ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-10-10-mzansixchange-launch
+ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2025-09-27-mzansixchange-pilot-programme
+ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamConnect,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamPay,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,Digital Data Protection Compliance Management System,Zambia,other,,Data Protection Commission,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-07-02-eight-local-authorities-go-digital-mlgrd
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,ZamPay,Zambia,,,Ministry of Finance,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,ZELMIS,Zambia,other,,Ministry of Labour and Social Security,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
+ZMB,ZILAS,Zambia,other,,Ministry of Lands and Natural Resources,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
+ZMB,Government Service Bus,Zambia,exchange,,Electronic Government Division (public bodies must integrate),,2023-10-06-zmb-gazette-si-43-egovernment-general-regulations
+ZMB,Government Services Bus,Zambia,exchange,,,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Citizen Support Services Portal,Zambia,other,Government Services Bus,Ministry of Labour and Social Security,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Zambia Employment and Labour Market Information System (ZELMIS),Zambia,other,Government Services Bus,Ministry of Labour and Social Security,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
+ZMB,Government Services Bus,Zambia,exchange,,Ministry of Finance and National Planning,central government; eight local authorities,2026-07-23-zambia-k22-million-collected-8-councils-electronic-payments-gsb
+ZMB,Government Service Bus,Zambia,exchange,,Ministry of Finance and National Planning,central government; eight councils,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,Government Electronic Payment Gateway ZamPortal,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,ZamPay,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,ZamConnect,Zambia,exchange,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamPortal,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamPay,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,ZamSign,Zambia,other,,,,2025-09-11 DZAP World Bank PAD
+ZMB,Integrated National Registration Information System (INRIS),Zambia,other,,Ministry of Home Affairs and Internal Security,,2025-09-11 DZAP World Bank PAD
+ZMB,Government Service Bus,Zambia,exchange,,SMART Zambia Institute,,2024-07-09-zambia-government-service-bus-services-update
+ZMB,Government Service Bus (GSB),Zambia,exchange,,SMART Zambia Institute (electronic Government division),,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Zambia Integrated Land Administration System (ZILAS),Zambia,other,Government Service Bus,Ministry of Lands and Natural Resources,,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Zamportal,Zambia,other,,SMART Zambia Institute,,2023-06-16-zambia-zilas-ministerial-statement-parliament
+ZMB,Government Service Bus (GSB),Zambia,exchange,,Smart Zambia Institute,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+ZMB,ZamConnect,Zambia,exchange,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamPortal,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamPay,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,ZamSign,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZWE,Government Service Bus,Zimbabwe,exchange,,"Ministry of ICT, Postal and Courier Services",,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin
+ZWE,Ndarama Enterprise Resource Planning system,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold

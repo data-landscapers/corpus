@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-23-newvision-uga-tahaluf-ai-border-control-nira",
+  "facts": [],
+  "systems": [
+    {"system": "Tahaluf e-KYC and e-verification system", "country_label": "Uganda", "class": "relying", "platform": "", "owner": "Tahaluf", "tiers": ""},
+    {"system": "Tahaluf AI smart gate system", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Tahaluf", "tiers": ""}
+  ],
+  "note": "Forward notice of an expo demonstration; no contracted, piloted or in-use link of another system to the national ID is stated."
+}

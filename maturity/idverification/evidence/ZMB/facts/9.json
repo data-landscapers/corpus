@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Domestic eKYC framework/platform",
+   "country_label": "Zambia",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Named as having, or building, a central bank-led or financial sector-led eKYC platform; checking against the national ID is not stated."
+}

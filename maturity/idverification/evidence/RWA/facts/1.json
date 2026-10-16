@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "NIDA's Director General said banks, hospitals, telecom companies and government institutions are expected to use the SDID authentication system by the June 2027 deadline, and that the digital ID will simplify Know Your Customer processes for service providers.", "as_of": "2026-03-26", "date_precision": "day", "system": "SDID authentication system (use by banks, hospitals, telecoms, government)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Single Digital ID (SDID) authentication system", "country_label": "Rwanda", "class": "other", "platform": "Irembo account and digital wallet", "owner": "NIDA", "tiers": ""}
+  ],
+  "note": "As_of is the article's published date; the document gives no date for the stated expectation."
+}

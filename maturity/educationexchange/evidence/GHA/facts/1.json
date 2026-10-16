@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-ghana-moe-pmdv-dashboard-api-documentation",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Education's PMDV Dashboard API documentation lists endpoints serving EMIS school statistics, enrolment rates, schools and NST test scores, and a POST endpoint that takes data from agencies by agency code into MongoDB, with development and production base URLs; it does not say which systems feed it or that it is in service.", "as_of": "2024", "date_precision": "year", "system": "PMDV Dashboard API", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "PMDV Dashboard API", "country_label": "Ghana", "class": "exchange", "platform": "REST API with MongoDB", "owner": "Ministry of Education, Ghana (PMDV Development Team)", "tiers": "national"},
+    {"system": "EMIS", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Education, Ghana", "tiers": "region;district;school"},
+    {"system": "NASIA", "country_label": "Ghana", "class": "other", "platform": "MongoDB", "owner": "", "tiers": ""}
+  ],
+  "note": "Date is the page's 'Last Updated: 2024'; no exchange partner or in-service statement is given."
+}

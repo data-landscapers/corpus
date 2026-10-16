@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-02-worldbank-tunisia-health-system-strengthening-pid",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "The World Bank PID says the pre-hospital emergency service (SAMU) relies on paper reports, lacks centralised data collection and does not integrate with hospital and electronic health record systems; the health system is largely paper-based and the DMI electronic record pilot has connectivity and functionality issues. Date is the document's published date.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "SAMU and hospital EHR (DMI)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The project would support a comprehensive national primary care information system and the integration of surveillance data for public health emergencies. Date is the document's published date.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "Health System Strengthening Project information systems",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Health Records pilot (DMI)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAMU paper reporting",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Health System Strengthening Project information systems",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

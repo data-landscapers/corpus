@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-05-mauritania-adaptive-social-protection",
+  "facts": [],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "Taazour", "tiers": ""},
+    {"system": "Tekavoul", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Government of Mauritania", "tiers": ""},
+    {"system": "Elmaouna", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Government of Mauritania", "tiers": ""}
+  ],
+  "note": "States Tekavoul households are registered in the Social Registry and gives coverage figures, but states no data exchange and does not say Elmaouna or Tekavoul Choc draw on the registry."
+}

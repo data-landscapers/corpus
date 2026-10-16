@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,SIS/PORTAL,Cabo Verde,other,,Ministry of Health (health information system),,2026-09-04-cabo-verde-ida-health-digital-tools-tender
+CPV,DHIS2,Cabo Verde,other,DHIS2,,,2026-09-04-cabo-verde-ida-health-digital-tools-tender
+CPV,DHIS-2,Cabo Verde,other,DHIS2,Ministry of Health,,2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos
+CPV,PDEX,Cabo Verde,exchange,API publication and subscription platform,NOSi,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,NhaCard,Cabo Verde,other,,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,National Health System (SNS) digitalisation,Cabo Verde,exchange,,Ministry of Health,,2025-12-18 Cabo Verde advances digitalisation of National Health System (SNS)
+CPV,Plataforma para a gestão de informação laboratorial no âmbito de Uma Só Saúde,Cabo Verde,exchange,,Ministério da Saúde,national,2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
+CPV,SIS (Sistema de Informação Sanitária),Cabo Verde,other,"IGRP, Talend, WSO2, PostgreSQL",Ministério da Saúde (developed by NOSi),,2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
+CPV,DHIS2,Cabo Verde,other,DHIS2,,,2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
+CPV,PDEX,Cabo Verde,other,,State,national,2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
+CPV,Autentika,Cabo Verde,other,,State,national,2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude

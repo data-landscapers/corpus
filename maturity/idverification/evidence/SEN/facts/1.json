@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-pressafrik-artp-resiliation-numeros-non-identifies-appui-daf",
+  "facts": [],
+  "systems": [
+    {"system": "Campagne nationale d'identification des abonnés de la téléphonie mobile (ARTP)", "country_label": "Sénégal", "class": "", "platform": "", "owner": "ARTP, with operators Sonatel, Yas, Expresso, Hayo and Promobile and technical support from the DAF", "tiers": ""}
+  ],
+  "note": "The article describes a mandatory subscriber-identification campaign with DAF technical support but does not say that subscribers are checked against the national ID, so no fact is recorded for class relying."
+}

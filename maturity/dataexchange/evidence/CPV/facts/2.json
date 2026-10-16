@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-21-cpv-ccip-afdb-reoi-sgit-nomadas-digitais-modulo",
+  "facts": [],
+  "systems": [
+    {"system": "SGIT", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "Government of Cabo Verde (CCIP as executing entity)", "tiers": ""}
+  ],
+  "note": "A procurement notice for a digital-nomads statistics module in SGIT, interoperable with unnamed institutional platforms; it names no data exchange platform."
+}

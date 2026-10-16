@@ -1,0 +1,55 @@
+iso3,stage,platform,reach,usage,stage_sources
+AGO,2,underway,,,AGO-001;AGO-003
+BDI,unplaced,,,,
+BEN,5,inservice,wide,reported,BEN-004;BEN-007
+BFA,no evidence,,,,
+BWA,no evidence,,,,
+CAF,no evidence,,,,
+CIV,3,inservice,,,CIV-003;CIV-001
+CMR,1,none,,,CMR-001
+COD,no evidence,,,,
+COG,2,underway,,,COG-001
+COM,2,underway,,,COM-001;COM-002
+CPV,3,inservice,,,CPV-001
+DJI,2,underway,,,DJI-003
+DZA,3,inservice,,,DZA-004;DZA-002
+EGY,4,inservice,wide,,EGY-002;EGY-004
+ERI,unplaced,,,,
+ETH,2,underway,,,ETH-001;ETH-002
+GAB,2,underway,,,GAB-001;GAB-002
+GHA,unplaced,,,,
+GIN,2,underway,,,GIN-001;GIN-002
+GMB,1,none,,,GMB-001
+GNB,no evidence,,,,
+GNQ,no evidence,,,,
+KEN,2,underway,,,KEN-001;KEN-003
+LBR,2,underway,,,LBR-002;LBR-001
+LBY,3,inservice,,,LBY-003
+LSO,2,underway,,,LSO-001
+MAR,unplaced,,,,
+MDG,3,inservice,,,MDG-005
+MLI,no evidence,,,,
+MOZ,3,inservice,,,MOZ-002
+MRT,no evidence,,,,
+MUS,unplaced,,,,
+MWI,2,underway,,,MWI-001;MWI-003
+NAM,3,inservice,,,NAM-002;NAM-005
+NER,2,underway,,,NER-001
+NGA,2,underway,,,NGA-003;NGA-001
+RWA,2,underway,,,RWA-005;RWA-004
+SDN,3,inservice,,,SDN-001
+SEN,3,inservice,,,SEN-006;SEN-007
+SLE,2,underway,,,SLE-001;SLE-004
+SOM,1,none,,,SOM-001
+SSD,no evidence,,,,
+STP,2,underway,,,STP-001;STP-003
+SWZ,no evidence,,,,
+SYC,no evidence,,,,
+TCD,no evidence,,,,
+TGO,no evidence,,,,
+TUN,3,inservice,,,TUN-003;TUN-001
+TZA,3,inservice,,,TZA-001;TZA-002
+UGA,4,inservice,wide,,UGA-009;UGA-002
+ZAF,2,underway,,,ZAF-003;ZAF-004
+ZMB,4,inservice,wide,,ZMB-010;ZMB-004
+ZWE,2,underway,,,ZWE-001

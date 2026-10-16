@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-05-farmer-data-interoperability-nagdi-dpi-times",
+  "facts": [],
+  "systems": [
+    {"system": "National Agricultural Data Infrastructure (NAGDI) framework", "country_label": "Malawi", "class": "other", "platform": "proposed framework for agricultural data interoperability", "owner": "Commonwealth (framework)", "tiers": ""},
+    {"system": "National Registration and Identification System", "country_label": "Malawi", "class": "other", "platform": "national ID", "owner": "National Registration Bureau", "tiers": ""}
+  ],
+  "note": "States farmer data sits in non-interoperable service-provider databases and NAGDI is a proposed framework; no government exchange platform is described."
+}

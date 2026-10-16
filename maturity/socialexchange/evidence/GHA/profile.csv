@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GHA,exchange,exchange,coverage,underway,2025-10,GHA-004,GHA-002=none;GHA-003=none,
+GHA,exchange,registry,coverage,shared,2024,GHA-001,,
+GHA,exchange,linked,coverage,,,,,nothing held

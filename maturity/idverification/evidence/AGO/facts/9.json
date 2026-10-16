@@ -1,0 +1,23 @@
+{
+ "slug": "2015-05-08-lei-6-15-simplificacao-do-registo-de-nascimento-e-do-registo-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Base de dados do registo civil (national civil registration database)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "Base de dados da identificação civil (civil identification database)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The law lets the civil registry database be interconnected with the civil identification database and requires birth data sent to social, health and tax services; it states no other system checking people against the national ID."
+}

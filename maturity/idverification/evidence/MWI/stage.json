@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "5",
+   "use": "inservice",
+   "sectors": "several",
+   "usage": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-015;MWI-007",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

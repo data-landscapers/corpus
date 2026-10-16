@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "L'Express reports that the Rahaka national exchange system is already operational at five bodies, EDBM, CNaPS, Instat, the Ministry of Justice and the Direction generale des Impots, at the 28 April 2026 launch.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Rahaka",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rahaka",
+       "country_label": "Madagascar",
+       "class": "exchange",
+       "platform": "PRODIGY (World Bank) support",
+       "owner": "Unite de Gouvernance Digitale (UGD)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Rahaka",
+       "country_label": "Madagascar",
+       "class": "exchange",
+       "platform": "PRODIGY (World Bank) support",
+       "owner": "Unite de Gouvernance Digitale (UGD)",
+       "tiers": ""
+      }
+     ],
+     "note": "The minister says one ID document will suffice in future; no service in use or under way checking the national ID is stated."
+    }
+   }
+  }
+ }
+}

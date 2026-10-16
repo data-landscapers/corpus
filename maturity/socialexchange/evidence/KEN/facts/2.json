@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-01-kseip2-esmp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The KSEIP 2 environmental and social management plan says all four National Safety Net Programme cash transfers (HSNP, OPCT, CT-OVC, PwSD-CT) use the Enhanced Single Registry, a national database of poor and vulnerable households, for targeting (except OPCT), transfers and management information systems.", "as_of": "2025-08", "date_precision": "month", "system": "Enhanced Single Registry", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The plan says the National Safety Net Programme programmes use the Enhanced Single Registry for electronic transfers to bank accounts and mobile money, alongside secure management information systems.", "as_of": "2025-08", "date_precision": "month", "system": "Enhanced Single Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Enhanced Single Registry", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Government of Kenya", "tiers": ""},
+    {"system": "Consolidated Cash Transfer Program Management Information System (CCTP-MIS)", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "Directorate of Social Assistance, State Department for Social Protection", "tiers": ""}
+  ],
+  "note": "As_of dates are the document's published date (2025-08); it gives no date for the stated current use."
+}

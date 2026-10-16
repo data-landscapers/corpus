@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "La Nation reports that Xroad-BJ, instituted by decree 2020-209, lets the information systems of administrations and authorised actors communicate securely, with ASIN managing it and the national interoperability committee supervising, and sets conditions for bodies joining it.", "as_of": "2026-07-28", "date_precision": "day", "system": "Xroad-BJ", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Xroad-BJ", "country_label": "Benin", "class": "exchange", "platform": "", "owner": "ASIN", "tiers": ""}
+  ],
+  "note": "As_of is the article's published date; the document gives no other date for the stated thing."
+}

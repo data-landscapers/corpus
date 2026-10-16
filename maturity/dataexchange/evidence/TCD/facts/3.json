@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-23-tribuneechos-e-justice-tchad-plateforme-echange-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "E-Justice Tchad digital exchange platform", "country_label": "Tchad", "class": "other", "platform": "", "owner": "Ministere de la Justice et des Droits Humains, with UNDP", "tiers": "Extranet (public); Intranet (judicial staff)"}
+  ],
+  "note": "The platform links litigants, lawyers and the judicial system (citizen-facing, pilot in N'Djamena), not government systems with each other, so it is class other and gives no fact."
+}

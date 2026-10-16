@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-01-bmj-open-eregister-data-use-midwifery-lesotho",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The BMJ Open study says the eRegister, piloted in 2018, is configured to compile and send facility-level data automatically into the district health information management system, and that three pilot facilities were using it when interviewed.",
+     "as_of": "2023-12", "date_precision": "month",
+     "system": "eRegister to district health information management system data flow", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "eRegister", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Health with implementing partners (ICAP funds it)", "tiers": "four health centres and two hospitals piloted; 178 government facilities planned"},
+    {"system": "District health information management system", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "district"}
+  ],
+  "note": "The as_of is the start of the interview period, December 2023 to March 2024; the configuration statement itself cites a 2022 source."
+}

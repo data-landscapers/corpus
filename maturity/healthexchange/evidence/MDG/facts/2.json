@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-01-who-dhis2-tracker-pilot-vaccination",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker", "country_label": "Madagascar", "class": "other", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": "20 basic health centres and 54 private vaccination sites, Antananarivo-Renivohitra district"},
+    {"system": "Vigimobile", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "", "tiers": "national and regional pharmacovigilance focal points"}
+  ],
+  "note": "DHIS2 Tracker pilot (June 2026) and AMR indicators in DHIS2 are single-system deployments; no exchange between health systems is stated."
+}

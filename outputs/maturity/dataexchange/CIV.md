@@ -1,0 +1,13 @@
+# Cote d'Ivoire
+
+## National data exchange system
+
+**Exchange platform built and in service.** [The head of SNDI said at the 3 September 2026 workshop that the national interoperability platform is a reality and already improves data exchange between several administrations](<https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact>). [The digital transition minister launched the public administration interoperability platform, built on Cybernetica's UXP, in Abidjan on 25 September 2025; the pilot phase covers twelve public bodies](<https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-une-plateforme-d-interoperabilite-pour-fluidifier-l-administration>). [The Public Administration Interoperability Platform, based on Cybernetica's UXP, was officially launched on 25 September 2025, with twelve pilot institutions to integrate in the first phase](<https://techafricanews.com/2025/09/29/ivory-coast-launches-interoperability-platform-to-modernize-public-administration/>).
+
+**Many systems connected.** No source held since October 2023 counts ten or more institutions or systems connected. The nearest held fact: [the one given above](<https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact>).
+
+**Use reported.** No source held since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact>).
+
+***Noted, not assessed***. [GUCE-CI platform](<https://www.fratmat.info/article/2638979/economie/dynamisation-du-commerce-exterieur-le-guce-ci-et-la-direction-generale-des-impots-prets-a-echanger-leurs-donnees>); [BIC-UEMOA (Bureau d'Information sur le Credit de l'UEMOA)](<https://news.abidjan.net/articles/749264/economie-qualite-des-donnees-de-credit-la-cote-divoire-mobilise-les-acteurs-financiers-pour-renforcer-le-dispositif-bic-uemoa>); [BIC Cote d'Ivoire (Bureau d'Information sur le Credit)](<https://www.fratmat.info/article/2644583/economie/qualite-des-donnees-du-bic-le-gouvernement-veut-renforcer-la-fiabilite-des-rapports-de-credit>); [e-Administration application](<https://connectionivoirienne.net/2026/07/31/fonction-publique-vers-la-fin-des-longues-demarches-pour-obtenir-un-pret-bancaire-en-cote-divoire/>); [SIGFAE](<https://connectionivoirienne.net/2026/07/31/fonction-publique-vers-la-fin-des-longues-demarches-pour-obtenir-un-pret-bancaire-en-cote-divoire/>).
+
+***Not held***. No source held since October 2023 counts ten or more institutions or systems connected.

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NIMC national identity database and authentication platform",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "NIN API",
+      "owner": "NIMC",
+      "tiers": "national"
+    }
+  ],
+  "note": "NIMC identity registry with about 63 agencies on its API is an identity system, not a general exchange platform; no exchange-class system stated."
+}

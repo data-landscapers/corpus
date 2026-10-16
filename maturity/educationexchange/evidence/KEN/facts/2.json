@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-27-harmonize-education-data-maisha-namba-biometricupdate",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Kenya was to begin a pilot in July 2025 of KEMIS, integrated with the national digital ID system (Maisha Namba), with full go-live set for September, as reported by Biometric Update citing The Kenya Times.", "as_of": "2025-05-27", "date_precision": "day", "system": "KEMIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "KEMIS (Kenya Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "ECDE to higher education"},
+    {"system": "NEMIS (National Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Maisha Namba national digital ID", "country_label": "Kenya", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the published date: the document gives no date for the planned pilot beyond July and September of 2025."
+}

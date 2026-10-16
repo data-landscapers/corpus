@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-13-cbn-diaspora-nrbvn-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Non-Resident BVN (NRBVN) platform",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "NIBSS",
+   "owner": "CBN with NIBSS",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes issue of a BVN to Nigerians abroad with KYC checks; no check against the national ID is stated."
+}

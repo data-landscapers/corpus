@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-smileid-guinea-bissau-identity-verification",
+  "facts": [],
+  "systems": [
+    {"system": "Smile ID identity verification", "country_label": "Guinea-Bissau", "class": "other", "platform": "Smile ID document and selfie verification", "owner": "Smile Identity (private vendor)", "tiers": ""}
+  ],
+  "note": "Undated vendor marketing page (published 2026, proxy) offering document-and-selfie KYC checks on the national ID card, ECOWAS ID and passport; it states no check against the national ID database and no client or volume, so no relying fact."
+}

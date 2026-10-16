@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-25-biometric-verification-fee-increase",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Department of Home Affairs said on 24 March 2025 that its upgraded verification service, which checks face and fingerprint biometrics against the National Population Register, serves clients from the National Treasury and SASSA to financial-sector institutions.", "as_of": "2025-03-24", "date_precision": "day", "system": "Home Affairs verification service", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The Department of Home Affairs said the National Population Register verification service is used by public bodies including the National Treasury and SASSA (social grants) and by private financial-sector institutions such as banks and insurers (account opening).", "as_of": "2025-03-24", "date_precision": "day", "system": "Home Affairs verification service", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Home Affairs verification service", "country_label": "South Africa", "class": "relying", "platform": "National Population Register", "owner": "Department of Home Affairs", "tiers": "public and private sector clients; fees for private sector from 1 April 2025"}
+  ],
+  "note": ""
+}

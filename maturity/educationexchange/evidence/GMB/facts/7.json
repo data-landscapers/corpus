@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix",
+  "facts": [],
+  "systems": [
+    {"system": "Education Data Centre (EDC), DHIS2-Ed", "country_label": "Gambia", "class": "other", "platform": "DHIS2-Ed", "owner": "MoBSE", "tiers": ""},
+    {"system": "Digital student registry", "country_label": "Gambia", "class": "other", "platform": "DHIS2-Ed", "owner": "MoBSE", "tiers": ""},
+    {"system": "DHIS2-Ed School-based EMIS (SEMIS)", "country_label": "Gambia", "class": "other", "platform": "DHIS2-Ed", "owner": "MoBSE", "tiers": ""}
+  ],
+  "note": "States a learner registry with unique IDs (~80% coverage) and attendance and exam-results modules feeding the EDC, but names no link between two education systems, no ID used across systems and no link to national ID or another sector."
+}

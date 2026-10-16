@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-27 Interoperability - key workshop to modernize Guinea's health information system",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "A workshop of 25-28 November 2025 in Conakry, run by Terre des Hommes with the Ministry of Health and Public Hygiene and funded by Enabel via Wehubit, transferred skills on interoperability of health information systems, with a consultant mapping the sector's digital tools and aggregated individual data to feed the SNIS.", "as_of": "2025-11-25", "date_precision": "day", "system": "SNIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "SNIS (Systeme National d'Information Sanitaire)", "country_label": "Guinea", "class": "exchange", "platform": "", "owner": "Ministry of Health and Public Hygiene", "tiers": "national"},
+    {"system": "REC maternite", "country_label": "Guinea", "class": "other", "platform": "", "owner": "Terre des Hommes with the Ministry of Health and Public Hygiene", "tiers": "piloted in 15 health centres"}
+  ],
+  "note": ""
+}

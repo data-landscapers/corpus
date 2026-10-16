@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-mobse-health-ministry-data-systems",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "In July 2026 the Ministry of Basic and Secondary Education and the Ministry of Health signed an MoU to link the EMIS with the HMIS, with a joint technical working group to oversee implementation; the story states the linkage is planned, not yet running.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "EMIS-HMIS linkage",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS)",
+   "country_label": "Gambia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

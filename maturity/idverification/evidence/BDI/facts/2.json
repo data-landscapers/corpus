@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-13-brb-renforcement-cadre-lbc-ft",
+  "facts": [],
+  "systems": [
+    {"system": "Bank KYC under BRB Circulaire n° 01/LBC-FT/2026", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Banque de la Republique du Burundi (regulator)", "tiers": ""}
+  ],
+  "note": "BRB announces KYC and client-identification circulars of 30 January 2026 but does not state that customers are checked against the national ID."
+}

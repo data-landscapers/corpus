@@ -1,0 +1,17 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "no evidence",
+   "exchange": "",
+   "learnerid": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names education systems exchanging data, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "ONECI and NG Tech Innovation signed an MoU on 24 July 2026 in Conakry to set up a national interoperability and identity-verification platform for the RNPP, under the Diama Djigui project; no platform in service is stated.",
+     "as_of": "2026-07-24", "date_precision": "day",
+     "system": "plateforme nationale d'interopérabilité et de vérification de l'identité du RNPP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "plateforme nationale d'interopérabilité et de vérification de l'identité du RNPP", "country_label": "Guinea", "class": "exchange", "platform": "", "owner": "ONECI", "tiers": ""}
+  ],
+  "note": ""
+}

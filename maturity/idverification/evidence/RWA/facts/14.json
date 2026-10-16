@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-14-rwanda-sdid-law-029-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Single Digital Identity (SDID) system", "country_label": "RWA", "class": "other", "platform": "", "owner": "competent authority for population identification and civil registration", "tiers": ""}
+  ],
+  "note": "Law 029/2023 sets duties for unnamed relying parties (Art. 2(p), 20, 21, 23, 30, 33) but names no other system checking people against the ID, so it is a law allowing use with none on record."
+}

@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,Health Patient Registration System,South Africa,other,,National Department of Health,,2026-08-20-itweb-nhi-telemedicine
+ZAF,Turn.io WhatsApp telemedicine,South Africa,other,WhatsApp,Turn.io,,2026-08-20-itweb-nhi-telemedicine
+ZAF,National Health Information Exchange (HIE),South Africa,exchange,"Federated Health Information Architecture; IHE profiles, HL7, FHIR",National Department of Health,national,2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,2021 Health Normative Standards Framework (HNSF),South Africa,other,,National Department of Health,,2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette

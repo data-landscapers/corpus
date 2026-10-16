@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SSD,DHIS2 (national HMIS),South Sudan,other,DHIS2,Ministry of Health,national,2026-07-01-south-sudan-dhis2-climate-and-health-country-profile
+SSD,FLLOW-M dashboard,South Sudan,other,DHIS2 custom application,"HISP Tanzania, Malaria Consortium, National Malaria Control Programme",national,2026-07-01-south-sudan-dhis2-climate-and-health-country-profile
+SSD,mSupply eLMIS,South Sudan,exchange,mSupply,"UNDP with Global Fund support, Gumbo Warehouse",national warehouse and 105 health facilities,2026-03-01-undp-msupply-elmis-dhis2-integration
+SSD,DHIS2,South Sudan,other,DHIS2,,,2026-03-01-undp-msupply-elmis-dhis2-integration
+SSD,DHIS2,South Sudan,exchange,DHIS2,Ministry of Health,national and sub-national/district,2025-02-01-who-his-maturity-assessment-south-sudan

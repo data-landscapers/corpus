@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-ics-national-identity-card",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Card", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Department of Immigration and Civil Status", "tiers": ""},
+    {"system": "SeyID", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Describes card issue and SeyID virtual-ID sign-up with eKYC, which are the ID system's own enrolment; no other system checking against the ID."
+}

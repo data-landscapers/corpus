@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-ca-kenya-draft-safeguards-deactivation-recycling-inactive-numbers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIM registration (KYC)",
+   "country_label": "Kenya",
+   "class": "",
+   "platform": "",
+   "owner": "Mobile network operators under the Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft CA guidelines on number deactivation and recycling; they mention KYC-collected contacts and national ID numbers supplied for whitelisting, but describe no check against the national ID."
+}

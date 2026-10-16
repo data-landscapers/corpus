@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Health's terms of reference (published 2026-04-28, with the Special Projects Management Unit, UGPE) seek a consultancy to design, install and train users on an interoperable laboratory information system for 20 public laboratories, required to integrate with DHIS2, existing LIMS, the health information system SIS and national surveillance systems, and to conform to HL7/FHIR.", "as_of": "2026-04-28", "date_precision": "day", "system": "Plataforma para a gestão de informação laboratorial no âmbito de Uma Só Saúde", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plataforma para a gestão de informação laboratorial no âmbito de Uma Só Saúde", "country_label": "Cabo Verde", "class": "exchange", "platform": "", "owner": "Ministério da Saúde", "tiers": "national"},
+    {"system": "SIS (Sistema de Informação Sanitária)", "country_label": "Cabo Verde", "class": "other", "platform": "IGRP, Talend, WSO2, PostgreSQL", "owner": "Ministério da Saúde (developed by NOSi)", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Cabo Verde", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "PDEX", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "State", "tiers": "national"},
+    {"system": "Autentika", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

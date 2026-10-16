@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-11-superapp-verifiable-credentials-rfi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SuperApp with Secure ID Wallet",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": ""
+    }
+  ],
+  "note": "Early-market RFI for a digital ID wallet; no other system is stated to check people against the national ID."
+}

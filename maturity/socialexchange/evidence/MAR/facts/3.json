@@ -1,0 +1,52 @@
+{
+ "slug": "2023-07-28-protection-sociale-rsu-rnp-chantiers-envergure",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Les Eco, citing the Ministry of Interior, says each household member must hold an RNP-issued digital civil and social identifier (IDCS) to register in the RSU and to authenticate for programme benefits, with RNP and RSU generalised to all regions by mid-May 2023.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Registre Social Unifie (RSU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "Les Eco, citing the Ministry of Interior, says the RSU is the main targeting mechanism for social support programmes, with 1.8 million households enrolled of 3.5 million targeted for 2023 and a socio-economic index used by programmes to target households.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Registre Social Unifie (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifie (RSU)",
+   "country_label": "Morocco",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Agence nationale des registres",
+   "country_label": "Morocco",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Bank KYC customer identity verification,Algeria,relying,,Bank of Algeria; banks,,2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid
+DZA,Bank KYC customer identity verification,Algeria,relying,,Bank of Algeria; banks,,2026-08-29-algerie-banques-connaissez-votre-client
+DZA,Bank KYC customer identity verification,Algeria,relying,,Bank of Algeria; banks,,2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk
+DZA,"National digital identity (enrolment via dzds.dz, biometric match)",Algeria,other,dzds.dz national digital services portal,High Commission for Digitalisation with the Interior Ministry,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,SDK for secure biometric documents,Algeria,relying,,High Commission for Digitalisation,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,National interoperability system / secure digital link network,Algeria,other,,,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,WADHIFATI,Algeria,relying,National digital services platform,Ministry of Sports,,2026-08-12-algeria-sports-platforms-unified-digital-identity
+DZA,Unified national digital identity,Algeria,other,,Haut Commissariat a la Numerisation,,2026-08-12-algeria-sports-platforms-unified-digital-identity
+DZA,Digital ID system under the draft trust-services law,Algeria,other,Linked to the biometric ID card system,,,2025-11-10-digital-id-trust-services-draft-law--biometricupdate
+DZA,National digital identification system linked to the biometric national ID card,Algeria,other,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
+DZA,National digital identification framework based on the biometric identity card,Algeria,other,,,,2025-11-04-digital-trust-e-transactions-law--wearetech

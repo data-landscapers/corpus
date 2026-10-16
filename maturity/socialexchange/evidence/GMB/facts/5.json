@@ -1,0 +1,22 @@
+{
+  "slug": "2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The World Bank framework says Gambian social protection agencies operate in silos with little information shared across them, and that the Department of Social Welfare and Community Development hold no functional information systems; the date is the document's published year, as it gives none for the finding (its missions ran November 2017 to May 2018).",
+     "as_of": "2019", "date_precision": "year", "system": "Social protection programmes of The Gambia", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The framework says the Maternal and Child Nutrition and Health Results Project (NaNA, World Bank-supported) handles beneficiary lists, payment calculation and data exchange manually in Excel files, with data sharing by e-mail and no database; the date is the document's published year.",
+     "as_of": "2019", "date_precision": "year", "system": "MCNHRP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The framework says MCNHRP payments are made manually, although a pilot test was running to pay beneficiaries by mobile money through a private service provider, Qcell; the date is the document's published year.",
+     "as_of": "2019", "date_precision": "year", "system": "MCNHRP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Gambia National Social Registry (GAMNSR)", "country_label": "The Gambia", "class": "exchange", "platform": "", "owner": "Social Protection Secretariat (proposed)", "tiers": ""},
+    {"system": "MCNHRP beneficiary and payment files", "country_label": "The Gambia", "class": "exchange", "platform": "Excel files", "owner": "National Nutrition Agency (NaNA)", "tiers": ""},
+    {"system": "BReST on the WFP SCOPE platform", "country_label": "The Gambia", "class": "exchange", "platform": "WFP SCOPE", "owner": "NaNA with UNICEF", "tiers": ""},
+    {"system": "District Health Information Software (DHIS)", "country_label": "The Gambia", "class": "other", "platform": "DHIS, hosted as a service by BAO Systems", "owner": "MCNHRP", "tiers": ""},
+    {"system": "Social registry case management system", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "Social Protection Secretariat (proposed)", "tiers": ""}
+  ],
+  "note": "The social registry, its links to the national ID and civil registration, and its data exchange are all design intentions written in the future tense; no link in service is stated."
+}

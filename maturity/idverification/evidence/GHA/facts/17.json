@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-08 Ghana plans new framework for SIM card-digital ID linkage",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Biometric Update reports the communications minister announced a legislative framework, to go to parliament as a bill in October 2025, linking SIM registration to the Ghana Card, with biometric SIM and device registration through a CEIR linked to the NIA database (as_of is the published date, the document giving none other).",
+   "as_of": "2025-09-08",
+   "date_precision": "day",
+   "system": "SIM card to Ghana Card linkage framework",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM card to Ghana Card linkage framework",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "CEIR linked to NIA database",
+   "owner": "Ministry of Communication; NCA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

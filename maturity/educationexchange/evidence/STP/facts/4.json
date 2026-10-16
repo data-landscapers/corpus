@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-01-sao-tome-gpe-pacto-parceria-educacao-sige",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The GPE partnership compact, endorsed by the local education partners group, lists as a constraint the lack of articulation between the elements of the Ministry of Education's information system, so teacher access, workload and history data and school-materials requests cannot be fed or matched with SIGE data.", "as_of": "2023-06", "date_precision": "month", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE / EMIS)", "country_label": "STP", "class": "other", "platform": "", "owner": "Ministério da Educação, Cultura e Ciências (MECC), with the World Bank", "tiers": "central and districts"},
+    {"system": "Passaporte para a aprendizagem (national digital learning platform)", "country_label": "STP", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The compact says MECC and the World Bank are developing the EMIS/SIGE to link information between the central level and the districts; that is one system's tiers, not a link between education systems, so no underway fact."
+}

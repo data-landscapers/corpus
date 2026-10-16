@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "RISA held an early market engagement session on its draft RFP for the Shared Government Data Hub and Data Interoperability Platform, stating a 9-month implementation period, 12 months of post-deployment support, and a final RFP to be published before the end of 2025.", "as_of": "2025-11-21", "date_precision": "day", "system": "Shared Government Data Hub & Data Interoperability Platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Shared Government Data Hub & Data Interoperability Platform", "country_label": "Rwanda", "class": "exchange", "platform": "hybrid: on-premise hardware at the National Data Center plus cloud components", "owner": "RISA", "tiers": ""},
+    {"system": "ESB (upgraded)", "country_label": "Rwanda", "class": "", "platform": "", "owner": "RISA", "tiers": ""}
+  ],
+  "note": ""
+}

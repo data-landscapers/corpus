@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-04-uga-emis-no-more-physical-registration-licensing-of-schools",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS (Education Management Information System)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": "School registration and licensing module on EMIS; no exchange with another education system or shared learner ID stated."
+}

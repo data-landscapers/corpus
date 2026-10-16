@@ -1,0 +1,31 @@
+{
+  "slug": "2025-09-12-sao-tome-banco-mundial-protecao-social-financiamento-adicional-kenon",
+  "studies": {
+    "idverification": {
+      "countries": {
+        "STP": {
+          "facts": [],
+          "systems": [
+            {"system": "Digital Sao Tome and Principe Project (P177158) digital IDs", "country_label": "Sao Tome and Principe", "class": "", "platform": "", "owner": "Government of Sao Tome and Principe / World Bank project", "tiers": ""}
+          ],
+          "note": "The paper names linkage of social protection systems with emerging digital public infrastructure like digital IDs only as an intended synergy of the additional financing; no system checks people against a national ID."
+        }
+      }
+    },
+    "socialexchange": {
+      "countries": {
+        "STP": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The World Bank project paper states that the open-source social protection MIS Ke-Non, deployed in 2024, is integrated with the Unique Social Registry, which holds socio-demographic data on 8,740 families (about 16 percent of the population), and that the MIS tracks beneficiaries, services and payments.", "as_of": "2025-09-12", "date_precision": "day", "system": "Ke-Non (CORE-MIS/openIMIS) integrated with the Unique Social Registry", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "Ke-Non", "country_label": "Sao Tome and Principe", "class": "exchange", "platform": "CORE-MIS / openIMIS", "owner": "DPSSF, Ministry of Labor, Solidarity and Social Security", "tiers": ""},
+            {"system": "Unique Social Registry (USR)", "country_label": "Sao Tome and Principe", "class": "exchange", "platform": "", "owner": "Government of Sao Tome and Principe", "tiers": ""},
+            {"system": "Electronic cash transfer payment system", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "partnership with a financial institution (unnamed)", "tiers": ""}
+          ],
+          "note": "Fact dated by the document's publication date; it gives no date for the integration itself. The document does not say that two or more programmes draw on the USR, and states the digital ID linkage only as an intended synergy."
+        }
+      }
+    }
+  }
+}

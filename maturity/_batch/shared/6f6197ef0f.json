@@ -1,0 +1,25 @@
+{
+  "slug": "2025-09-25-wuri-niger-lancement-mission-restructuration",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "NER": {
+          "facts": [],
+          "systems": [],
+          "note": "The story reports the launch of a restructuring mission for the WURI-Niger unique identification project and names no data exchange platform."
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "NER": {
+          "facts": [],
+          "systems": [
+            {"system": "WURI-Niger", "country_label": "Niger", "class": "other", "platform": "", "owner": "Ministry of the Interior (project overseen with Ministry of Economy and Finance and the World Bank)", "tiers": ""}
+          ],
+          "note": "The story concerns the ID project's own restructuring (unique proof of identity to facilitate access to services); it names no other system checking people against the ID."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-lesahel-wuri-niger-presentation-projet",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "WURI-Niger's Component 3 funds the commissioning of an interoperability framework to offer identity verification and authentication services to public and private service providers; banks, telecom operators, money transfer firms, social protection, tax and social security bodies are named as direct beneficiaries, with no service stated as in use.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3)",
+   "country_label": "Niger",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur (WURI-Niger project)",
+   "tiers": ""
+  }
+ ],
+ "note": "First pass: the verification service is the ID project's own component; as_of is the published year, the document gives no date for the component."
+}

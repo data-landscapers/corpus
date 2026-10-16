@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-14-angola-digital-identity-platform-usd28m-pti",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Presidential Despacho 300/26 of 13 August 2026 authorised USD 28 million and opened the public tender for a national digital identity and e-signature platform meant to let citizens and companies electronically verify the identity of their customers, per PTI.", "as_of": "2026-08-13", "date_precision": "day", "system": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas", "country_label": "Angola", "class": "relying", "platform": "", "owner": "Instituto de Modernização Administrativa (tender delegate)", "tiers": ""}
+  ],
+  "note": ""
+}

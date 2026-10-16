@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,national interoperability layer based on OpenFn,Niger,exchange,OpenFn,Directorate of e-Health with Data.FI Project,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,national DHIS2-based health information system,Niger,other,DHIS2,,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,couche nationale d'interopérabilité,Niger,exchange,,"Direction de la e-Santé, Ministère de la Santé et de l'Hygiène publique",,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,Estelab,Niger,other,,,,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,DHIS2,Niger,other,DHIS2,,,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,OpenClinic,Niger,other,OpenClinic,,,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,OpenHEXA,Niger,exchange,OpenHEXA,Ministère de la Santé et de l'Hygiène Publique (Direction de la e-Santé),,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,DHIS2,Niger,other,DHIS2,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,OpenIMIS,Niger,other,OpenIMIS,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,OpenClinic,Niger,other,OpenClinic,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,SNIS,Niger,other,,,,2025-09-04-openhexa-niger-interoperabilite-sante

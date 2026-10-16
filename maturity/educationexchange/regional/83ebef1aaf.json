@@ -1,0 +1,24 @@
+{
+ "slug": "2026-05-14-lbr-request-for-proposal-consultancy-for-emis-policy-development-support-t",
+ "countries": {
+  "ERI": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "EMIS",
+     "country_label": "Eritrea",
+     "class": "other",
+     "platform": "",
+     "owner": "Ministry of Education",
+     "tiers": ""
+    }
+   ],
+   "note": "EMIS data exists; no link or exchange stated."
+  },
+  "LBR": {
+   "facts": [],
+   "systems": [],
+   "note": "Document says Liberia has no formal National EMIS Policy and fragmented data governance; states nothing on exchange between systems."
+  }
+ }
+}

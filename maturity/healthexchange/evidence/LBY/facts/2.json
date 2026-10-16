@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Ministry of Health announced the activation of an integrated electronic system connecting the Ministry's pharmacy department, the Medical Supply Organisation and hospital pharmacy departments to track medicines from arrival to dispensing; no platform name or coverage figure is given.", "as_of": "2025-10-06", "date_precision": "day", "system": "منظومة إلكترونية متكاملة لتتبع حركة الأدوية (medicines tracking system)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "منظومة إلكترونية متكاملة لتتبع حركة الأدوية (medicines tracking system)", "country_label": "Libya", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": ""
+}

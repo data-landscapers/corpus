@@ -1,0 +1,118 @@
+{
+ "slug": "2026-02-01-national-registration-bureau-malawi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NRB homepage lists linkages of the National ID with Airtel Malawi for SIM registration and mobile money, and with Ecobank, National Bank of Malawi, NBS Bank, Standard Bank, First Capital Bank, Centenary Bank and Mukuru for KYC identity verification.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National ID KYC and SIM registration linkages",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The NRB homepage lists National ID linkages with public bodies (Malawi Revenue Authority, Immigration, Electoral Commission, Financial Intelligence Authority, Department of Human Resource, Ministry of Agriculture) and private telecoms and banks.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National ID linkages with public and private sectors",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The NRB homepage states 7.2 million Malawians were verified for voter registration for the 2025 election and biometric verification covered 1.5 million FISP beneficiaries.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National ID linkages with public and private sectors",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Electoral Commission voter roll",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "FISP beneficiary identification (Ministry of Agriculture)",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Malawi SIM registration and mobile money",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Bank KYC integrations",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ecobank; National Bank of Malawi; NBS Bank; Standard Bank; First Capital Bank; Centenary Bank; Mukuru",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Revenue Authority taxpayer identification",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Department of Immigration identity verification",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Financial Intelligence Authority KYC/AML link",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Department of Human Resource payroll verification",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NID-EMR Integration (Ministry of Health)",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "Undated page; published date used as as_of."
+}

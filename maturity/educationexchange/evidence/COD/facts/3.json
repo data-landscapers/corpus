@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-04-corus-eduser-pilote-kasai-donnees-education",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The SERNIE director writes that other education departments in the DRC collect teacher and school-infrastructure data separately from SERNIE's learner records, with no link between them stated.",
+     "as_of": "2026-08-04", "date_precision": "day",
+     "system": "Departmental education data collections (SERNIE learner data; teacher and infrastructure data)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EDUSER", "country_label": "COD", "class": "other", "platform": "Built on HereMIS by CGA Technologies (Corus)", "owner": "Ministry of Education (MEPST), run by SERNIE", "tiers": "National learner enrolment, piloted in 20 primary schools in Kasai in April 2026 (8,634 learners)"},
+    {"system": "HereMIS", "country_label": "COD", "class": "", "platform": "CGA Technologies", "owner": "", "tiers": ""}
+  ],
+  "note": "EDUSER is a learner enrolment system, not a stated link between systems; the document states no exchange, shared learner identifier or national-ID link."
+}

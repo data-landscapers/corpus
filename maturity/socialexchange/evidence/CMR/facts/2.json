@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-18-worldbank-asneip-additional-financing-project-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Social Registry of Cameroon (RESUC)", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "Ministry of Social Affairs (MINAS)", "tiers": ""},
+    {"system": "ASNEIP digital government-to-person payment system", "country_label": "Cameroon", "class": "", "platform": "", "owner": "MINEPAT project implementation unit", "tiers": ""}
+  ],
+  "note": "Captured text states RESUC covered 198,140 households by July 2025 and gives a foundation for integration, but names no link to the ID, a payment provider or another programme; capture truncated before Component 1 detail."
+}

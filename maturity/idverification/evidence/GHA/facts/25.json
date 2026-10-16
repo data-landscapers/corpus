@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-16-ghana-card-digital-checks-compulsory-bbc",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "BBC reported on 2026-07-16 that all Ghanaian businesses and institutions must now check the Ghana Card with the NIA's biometric app scanner instead of photocopying or visual inspection, on pain of fines up to GH¢24,000 for organisations.", "as_of": "2026-07-16", "date_precision": "day", "system": "NIA digital identity verification app", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "BBC reported on 2026-07-16 that the Ghana Card is needed for banking services, SIM card registration, and passport and driver's licence applications.", "as_of": "2026-07-16", "date_precision": "day", "system": "Ghana Card", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "NIA digital identity verification app", "country_label": "Ghana", "class": "relying", "platform": "mobile app", "owner": "National Identification Authority", "tiers": ""},
+    {"system": "Ghana Card", "country_label": "Ghana", "class": "other", "platform": "", "owner": "National Identification Authority", "tiers": ""}
+  ],
+  "note": "No figure for verifications made, so no usage fact."
+}

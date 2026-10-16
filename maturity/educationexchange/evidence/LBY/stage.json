@@ -1,0 +1,17 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "3",
+   "exchange": "inservice",
+   "learnerid": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "No source held since October 2023 says one learner identifier is used across education systems.",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

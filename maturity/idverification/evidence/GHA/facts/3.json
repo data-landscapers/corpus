@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-07-ghana-biometric-sim-verification-resolve-unshaken",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The 2021-23 SIM registration required subscribers to link SIM cards to Ghana Cards; the exercise ended on 31 May 2023.",
+   "as_of": "2023-05-31",
+   "date_precision": "day",
+   "system": "SIM registration (Ghana Card linkage)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "By October 2022, about 28.96 million SIM cards (67.28% of those issued) were linked to Ghana Cards and 18.93 million (44.28%) had completed both stages, per the article.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "SIM registration (Ghana Card linkage)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Communications Minister said on 7 September 2026 that Parliament had passed the LI for SIM registration and a biometric verification phase would be introduced before end-2026 so SIMs are linked to verified identities.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "SIM registration biometric verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration (Ghana Card linkage)",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations; National Communications Authority; mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

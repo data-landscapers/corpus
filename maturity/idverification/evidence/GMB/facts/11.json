@@ -1,0 +1,13 @@
+{
+  "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "The World Bank results brief says the eCRVS birth-registration system integrated the Ministry of Interior's national ID system with the Ministry of Health's civil registration, and that between August 2022 and February 2023 it issued about 1.17 million people birth certificates and health insurance cards carrying a unique national identification number.",
+     "as_of": "2023-02", "date_precision": "month", "system": "eCRVS (electronic Civil Registration and Vital Statistics)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "eCRVS (electronic Civil Registration and Vital Statistics)", "country_label": "Gambia", "class": "relying", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "National health insurance cards (NHIA)", "country_label": "Gambia", "class": "", "platform": "", "owner": "National Health Insurance Authority", "tiers": ""}
+  ],
+  "note": ""
+}

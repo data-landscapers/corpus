@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-29-ndpc-mogcsp-giz-twg-social-protection-data-coordination",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "At a Technical Working Group meeting on 29 January 2026, NDPC said fragmented data management limits sharing across Ghana's social protection systems, and the project consultants said the several platforms remain poorly linked with limited access across institutions, particularly at sub-national level.",
+     "as_of": "2026-01-29", "date_precision": "day", "system": "Ghana social protection data platforms", "class": "exchange"}
+  ],
+  "systems": [],
+  "note": ""
+}

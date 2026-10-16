@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "NOSi's PDEX page says the platform lets data owners publish data as APIs and carries live integrations for the civil identification system (via the Portal Consular), NhaCard's traffic with the national health system, and the Treasury's DUC system, with public and private entities already consuming its citizen-validation APIs.",
+     "as_of": "2026", "date_precision": "year", "system": "PDEX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "PDEX", "country_label": "Cabo Verde", "class": "exchange", "platform": "", "owner": "NOSi", "tiers": ""}
+  ],
+  "note": "The page is undated, so as_of is its published year (inferred); it names four integrations and no count of ten or more, and no usage figures; the API catalogue is stated as still to come."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-27-anies-fdsi-protocole-accord-registre-social-unifie",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "On 27 June 2024 the ANIES and FDSI directors general signed a protocol for ANIES to use secured RSU data for the IMF-financed Guichet Choc Alimentaire project, aimed at 51,259 indigent households.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Guinea",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Fonds de Développement Social et de l'Indigence (FDSI)",
+   "tiers": ""
+  },
+  {
+   "system": "Guichet Choc Alimentaire",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

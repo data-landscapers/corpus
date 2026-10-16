@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,exchange,exchange,coverage,underway,2026-04,MWI-001;MWI-002,,
+MWI,exchange,breadth,coverage,,,,,nothing held
+MWI,exchange,identifier,coverage,,,,,nothing held

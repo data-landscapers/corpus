@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "World Bank WURI project",
+   "owner": "ANEI",
+   "tiers": "to be interoperable with civil status and nationality registers"
+  }
+ ],
+ "note": "The population register is an ID and registry system said to be interoperable with other registers once built; no data exchange platform between public bodies is described."
+}

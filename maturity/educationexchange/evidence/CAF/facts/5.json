@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-28-worldbank-pad-accelerating-results-education",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Central African Republic", "class": "other", "platform": "", "owner": "Directorate of Studies, Statistics and Planning", "tiers": ""},
+    {"system": "Human Resources Management Information System (HRMIS)", "country_label": "Central African Republic", "class": "", "platform": "", "owner": "Directorate of Human Resources, Ministry of National Education", "tiers": ""},
+    {"system": "National Learning Assessment System (NLAS)", "country_label": "Central African Republic", "class": "other", "platform": "", "owner": "Directorate of Learning Assessment", "tiers": ""}
+  ],
+  "note": "The passages use the EMIS as a data source for project indicators and name the HRMIS and NLAS as supported systems; none states a link or data exchange between education systems."
+}

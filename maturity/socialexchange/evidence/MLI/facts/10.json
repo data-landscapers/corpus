@@ -1,0 +1,19 @@
+{
+  "slug": "2025-05-01-mali-jigisemejiri-saspp-technical-paper",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The World Bank paper says the unified social registry built under the Jigiséméjiri project, holding nearly 1.2 million households at the project's close, has been used by several programs as a common targeting tool.",
+     "as_of": "2023-06", "date_precision": "month",
+     "system": "Registre Social Unifié (RSU)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The paper says the RSU, holding over 60,000 poor households and almost 75,000 by March 2018, was used to identify beneficiaries of the labor-intensive public works program (launched September 2018) and the income-generating activities (launched October 2017), with RSU households given priority.",
+     "as_of": "2018-09", "date_precision": "month",
+     "system": "Registre Social Unifié (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unifié (RSU)", "country_label": "Mali", "class": "exchange", "platform": "", "owner": "Government of Mali, supported by the World Bank Jigiséméjiri project", "tiers": ""},
+    {"system": "Management information system (MIS) of the safety net project", "country_label": "Mali", "class": "exchange", "platform": "", "owner": "Safety Net Management Technical Unit (UTGFS)", "tiers": ""},
+    {"system": "Orange Money mobile money payment", "country_label": "Mali", "class": "other", "platform": "Orange Money", "owner": "Orange", "tiers": ""}
+  ],
+  "note": ""
+}

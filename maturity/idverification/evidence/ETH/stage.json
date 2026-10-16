@@ -1,0 +1,17 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "5",
+   "use": "inservice",
+   "sectors": "several",
+   "usage": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-006;ETH-012",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

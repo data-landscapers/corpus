@@ -1,0 +1,12 @@
+{
+  "slug": "2012-03-24-gabon-loi-21-2011-orientation-generale-education-formation-recherche",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "learnerid", "value": "shared",
+     "fact": "Law 21/2011 of 14 February 2012 (Article 90) provides that each learner receives, from entry into the first pre-primary section until entry into working life, a unique identification number codified and assigned by the Education Ministry's central file; Article 94 has the schools and universities orientation secretariat draw up the nominative list of new baccalaureate holders from that central identification file; the law gives no evidence that the number is in use.",
+     "as_of": "2012-02-14", "date_precision": "day", "system": "fichier central du Ministère en charge de l'Education Nationale", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "fichier central du Ministère en charge de l'Education Nationale", "country_label": "Gabon", "class": "exchange", "platform": "", "owner": "Ministry of National Education", "tiers": ""}
+  ],
+  "note": "Statute only: provision for a unique learner number and one cross-service use of the central file; no exchange between systems or standard described."
+}

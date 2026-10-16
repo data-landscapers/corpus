@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "Malawi", "class": "other", "platform": "DHIS2", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": "Passages describe HMIS data use and DHIS2 adoption only; no exchange between systems is stated."
+}

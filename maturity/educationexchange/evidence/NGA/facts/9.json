@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-07-thisday-nerd-academic-repository-400000-submissions",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigeria Education Repository and Databank (NERD)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Credential Verification Service (NCVS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Academic repository and credential verification; states no exchange between education systems."
+}

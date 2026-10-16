@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-01-worldbank-restructuring-eesse-education-project",
+  "facts": [],
+  "systems": [
+    {"system": "e-SIGE-DRC", "country_label": "Democratic Republic of Congo", "class": "other", "platform": "application for automated data collection and transmission", "owner": "DIGE (Direction d'Information de Gestion de l'Education)", "tiers": "primary school census, 10 project provinces"}
+  ],
+  "note": "States the e-SIGE-DRC census collection for 2022/23; no exchange with another education system, learner identifier or national ID link is stated."
+}

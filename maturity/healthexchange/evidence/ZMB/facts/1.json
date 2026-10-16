@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-21-zambia-zm-core-fhir-implementation-guide",
+  "facts": [],
+  "systems": [
+    {"system": "ZM-Core (HL7 FHIR R5 implementation guide)", "country_label": "Zambia", "class": "other", "platform": "HL7 FHIR R5", "owner": "Zambia Ministry of Health", "tiers": ""},
+    {"system": "SmartCare", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Master Facility List (MFL)", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HMIS", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eLMIS", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "iHRIS", "country_label": "Zambia", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is a published FHIR standard (profiles and examples) and states no exchange in service or under way between named systems."
+}

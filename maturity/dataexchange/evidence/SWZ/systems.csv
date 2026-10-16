@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SWZ,Mchumanisi,Eswatini,exchange,,"Ministry of Information, Communications and Technology (draft National Data Governance Policy 2027-2031)",,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,CMIS-eLMIS integration,Eswatini,other,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration
+SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
+SWZ,CMIS,Eswatini,other,SQL Server,Ministry of Health HMIS unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,DHIS2,Eswatini,other,DHIS2,Ministry of Health HMIS unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,OpenHIM Platform with FHIR-based health information exchange,Eswatini,other,OpenHIM,Ministry of Health (implemented by Jembi),,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
+SWZ,ERS Digital Transformation Agenda data matching,Eswatini,other,,Eswatini Revenue Service,,2025-10-29-ers-intensifies-drive-close-tax-gap

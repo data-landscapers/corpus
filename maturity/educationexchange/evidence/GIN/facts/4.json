@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-30-ami-plateforme-centralisee-donnees-suivi-diplomes-etfp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Système informatisé de suivi des diplômés de l'ETFP",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Enseignement Technique, de la Formation Professionnelle et de l'Emploi",
+   "tiers": ""
+  },
+  {
+   "system": "plateforme centralisée de collecte et d'analyse des données (ETFP)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Unité de gestion du projet ERAM 2, IsDB financing GIN-1016",
+   "tiers": ""
+  }
+ ],
+ "note": "Expression of interest for a consultant to build a central data platform over the graduate-tracking system; names no link between two education systems, no award."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Education and Training", "tiers": ""},
+    {"system": "Teacher management information system", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Education and Training, partnership with Ministry of Education of Zambia", "tiers": ""}
+  ],
+  "note": "Names an EMIS handling aggregated and individual data and a teacher MIS being introduced; states no exchange between education systems, shared learner ID or link to national ID."
+}

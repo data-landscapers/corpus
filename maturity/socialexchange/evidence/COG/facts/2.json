@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-29-congo-registre-social-unique-insuffisamment-connu",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "A flood-preparedness workshop on 27-28 January 2026 reported that survey data collected in five Talangai districts were migrated to the PSIPJ general beneficiary register and that a test payment to a sample of beneficiaries was made through that register.", "as_of": "2026-01-28", "date_precision": "day", "system": "Registre general des beneficiaires (PSIPJ) / Registre social unique", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre social unique (RSU)", "country_label": "Congo", "class": "exchange", "platform": "", "owner": "Ministere des Affaires sociales, de la Solidarite et de l'Action humanitaire", "tiers": ""},
+    {"system": "Registre general des beneficiaires (PSIPJ)", "country_label": "Congo", "class": "exchange", "platform": "", "owner": "PSIPJ project management unit", "tiers": ""}
+  ],
+  "note": ""
+}

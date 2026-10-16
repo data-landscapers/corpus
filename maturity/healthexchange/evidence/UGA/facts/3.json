@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-05-national-laboratory-data-repository-health",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Ministry of Health launched the National Laboratory Data Repository, which New Vision reports links all laboratory information systems across the country to the National Health Data Warehouse and consolidates facility laboratory data into one national repository with real-time access for authorised users (no launch date given; the story's published date is used).", "as_of": "2026-02-05", "date_precision": "day", "system": "National Laboratory Data Repository", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Laboratory Data Repository", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "National Health Data Warehouse", "country_label": "Uganda", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": ""
+}

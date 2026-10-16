@@ -1,0 +1,8 @@
+{
+  "slug": "2020-06-30-ben-eduactions-blassou-educmaster-matricule-national",
+  "facts": [],
+  "systems": [
+    {"system": "Educmaster", "country_label": "Benin", "class": "other", "platform": "web platform (SIGE)", "owner": "Ministry of Secondary, Technical and Vocational Education (MESTFP)", "tiers": "secondary, grades 6 to Terminale, public and private"}
+  ],
+  "note": "Describes a single EMIS and its learner tracking; no second education system, shared identifier or national ID link is stated in the passages."
+}

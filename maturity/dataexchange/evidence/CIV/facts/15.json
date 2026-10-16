@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans",
+  "facts": [],
+  "systems": [
+    {"system": "e-Administration application", "country_label": "Cote d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of the Civil Service (MFPMA)", "tiers": "to interconnect the ministry's information systems with those of banks for civil-servant loan files; no go-live date stated"},
+    {"system": "SIGFAE", "country_label": "Cote d'Ivoire", "class": "", "platform": "", "owner": "", "tiers": "named as the civil-service management system; no description of exchange function"}
+  ],
+  "note": "Links a ministry's systems to private banks, not between public bodies, and states no go-live; class other, no fact."
+}

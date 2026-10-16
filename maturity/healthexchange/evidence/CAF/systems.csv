@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CAF,DHIS2 (SNIS national platform),Central African Republic,other,DHIS2,Ministry of Health and Population,"central, regional, district",2026-05-26-dhis2-community-snis-reconstruction-rca
+CAF,HISP EMR (e-SENI),Central African Republic,exchange,HISP EMR,Ministry of Health with HISP Rwanda and the Susan Buffett Foundation,"hospital, health centre, central",2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,DHIS2 (national health information systems),Central African Republic,other,DHIS2,Ministry of Health,national,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,DHIS2 vaccination microplanning tool,Central African Republic,other,DHIS2,Ministry of Health and Population,"district, regional, central",2026-03-12-vaccination-microplanning-digitalisation-hisprwanda

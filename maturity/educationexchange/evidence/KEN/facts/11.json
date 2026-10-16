@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KEMIS (Kenya Education Management Information System)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "KEMIS is described as one platform onto which schools, TVETs, universities and agencies (KNEC, KICD, SEPU, HELB) will be registered, rolled out from January 2026 with capitation through it from third term; no data exchange between separate education systems is stated."
+}

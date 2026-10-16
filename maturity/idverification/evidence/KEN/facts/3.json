@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-07-sim-deactivation-now-backed-by-law-ca-says",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIM registration (KYC)",
+   "country_label": "Kenya",
+   "class": "",
+   "platform": "",
+   "owner": "Mobile network operators under the Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "States that operators use KYC contacts to notify inactive subscribers and that mobile numbers are linked to financial services and digital identity; says nothing of checking people against the national ID."
+}

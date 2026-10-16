@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-20-vove-id-compliance-readiness-programme-morocco",
+ "facts": [],
+ "systems": [
+  {
+   "system": "VOVE ID platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "VOVE ID",
+   "tiers": ""
+  }
+ ],
+ "note": "VOVE ID offers identity verification by API; the story does not say it checks against the national ID."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-16-tunisie-radionationale-kebili-identifiant-national-sante",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "identifier",
+   "value": "linked",
+   "fact": "The Kebili regional health director said on 16 July 2026 that the region's health institutions began adopting the national health identifier (INS), which unifies each patient's health file and links it to the national identity.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "National health identifier (INS)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The regional director said the INS programme provides a fast, secure exchange of health data between the various medical institutions, under the ministry's digital transformation programmes.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "National health identifier (INS)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National health identifier (INS)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

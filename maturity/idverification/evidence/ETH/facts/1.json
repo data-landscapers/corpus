@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-09-eth-biometricupdate-fayda-developer-sandbox",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Biometric Update, citing Faydaverse, reports 150 integrated partners and over 208 million eKYC verifications on Fayda as of 9 October 2026.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "VeriFayda eKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Faydaverse figures reported by Biometric Update give over 208 million eKYC verifications and 150 integrated partners as of 9 October 2026.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "VeriFayda eKYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VeriFayda eKYC",
+   "country_label": "Ethiopia",
+   "class": "relying",
+   "platform": "Fayda (eSignet)",
+   "owner": "Faydaverse",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

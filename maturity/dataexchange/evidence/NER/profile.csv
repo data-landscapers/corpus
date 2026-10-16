@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,exchange,platform,coverage,underway,2024,NER-001,,
+NER,exchange,reach,coverage,,,,,nothing held
+NER,exchange,usage,coverage,,,,,nothing held

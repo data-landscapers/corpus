@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-15-mauritanie-decret-2025-162-bds-mac-texte-integral-faolex",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Decree 2025-162 of 15 October 2025 creates the BDS-MAC disaster-household database, fed by Taazour's Registre Social data among other sources, with lists of affected households sent back to the Registre Social to update it as the targeting base for shock-response programmes; an arrete of the Interior Minister is still to set its operating rules.",
+     "as_of": "2025-10-15", "date_precision": "day", "system": "BDS-MAC", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "Taazour", "tiers": ""},
+    {"system": "BDS-MAC (Base de Donnees Speciale des Menages pauvres et/ou vulnerables Affectes par les Catastrophes)", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": ""
+}

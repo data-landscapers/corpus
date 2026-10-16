@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-06-cabinet-highlights-internet-gratis-srm",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Cabinet notes the Internet Gratis measure for Social Register of Mauritius households is operational, with a State Informatics platform letting the three internet service providers verify whether an applicant is on the SRM database.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Social Register of Mauritius (SRM)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "Cabinet records Internet Gratis (over 7,000 families, nearly 31,000 persons, Rs85 million a year) and a wastewater-fee exemption for subscribers of six cubic metres or less as both keyed to the Social Register of Mauritius.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Social Register of Mauritius (SRM)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Register of Mauritius (SRM)",
+   "country_label": "Mauritius",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Social Integration, Social Security and National Solidarity",
+   "tiers": ""
+  },
+  {
+   "system": "State Informatics SRM verification platform",
+   "country_label": "Mauritius",
+   "class": "exchange",
+   "platform": "",
+   "owner": "State Informatics Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

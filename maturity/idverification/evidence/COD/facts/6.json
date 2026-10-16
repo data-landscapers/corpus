@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-25 Trident and DR Congo sign final DRCPass PPP; nationwide deployment begins",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The press release says Trident signed the definitive PPP on 25 June 2025 as exclusive e-KYC provider for 80 million+ mobile subscribers, with DRCPass use cases including biometric SIM registration and identity verification for digital payments and credit assessment.",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "biometric SIM registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric SIM registration",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "RDC-PASS",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-KYC for digital payments and credit assessment",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "RDC-PASS",
+   "owner": "Trident Digital Tech",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

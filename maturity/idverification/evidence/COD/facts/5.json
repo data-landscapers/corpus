@@ -1,0 +1,70 @@
+{
+ "slug": "2025-06-27-congo-partners-trident-national-digital-id-ekyc-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "TechAfrica News (vendor copy) says the PPP signed in June 2025 makes Trident exclusive e-KYC provider, with SIM-card registration binding the SIM to a verified citizen record as a core use case to be deployed.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "SIM-card registration",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "TechAfrica News (vendor copy) says the June 2025 PPP covers digital payments enablement through one-click e-KYC as a core use case to be deployed in phases.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "digital payments e-KYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "TechAfrica News (vendor copy) says the June 2025 PPP covers single-sign-on access to e-government and business portals as a core use case, rolled out in phases.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-government and business portal single sign-on",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DRCPass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "DRCPass",
+   "owner": "Government of DRC with Trident Digital Tech",
+   "tiers": ""
+  },
+  {
+   "system": "SIM-card registration",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "DRCPass",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "digital payments e-KYC",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "DRCPass",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-government and business portal single sign-on",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "DRCPass",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

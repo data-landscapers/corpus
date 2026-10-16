@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-31-burkina-faso-identite-numerique-wuri",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Identifiant electronique unique (WURI)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Enrolment decree; services that will use the ID are described in general terms only, with no named system or link."
+}

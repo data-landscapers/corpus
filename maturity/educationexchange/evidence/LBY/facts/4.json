@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-01-moe-dic-almasharie-nizam-bayanat-altaalim",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education data system (منظومة بيانات التعليم)",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education, Information and Documentation Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Data Centre and SD-WAN network",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "SD-WAN",
+   "owner": "Ministry of Education, Information and Documentation Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Education GIS",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "GIS",
+   "owner": "Ministry of Education, Information and Documentation Centre",
+   "tiers": ""
+  }
+ ],
+ "note": "Undated portfolio page (published date is a retrieval-year proxy); states general aims of activating data between bodies and a data centre for information exchange, but names no link between two education systems."
+}

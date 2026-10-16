@@ -1,0 +1,118 @@
+{
+ "id": "dataexchange",
+ "study_file": "maturity-study-dataexchange.md",
+ "pass": "first",
+ "subjects": [
+  "dpi.exchange"
+ ],
+ "stage_topic": "dpi.exchange",
+ "redraws": [
+  "dpi.exchange--national-data-exchange-system"
+ ],
+ "carry": [
+  "dpi.exchange--national-data-exchange-system"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "data exchange platform",
+  "data exchange layer",
+  "data exchange system",
+  "government data exchange",
+  "national data exchange",
+  "interoperability platform",
+  "interoperability layer",
+  "interoperability bus",
+  "government service bus",
+  "enterprise service bus",
+  "service bus",
+  "X-Road",
+  "XRoad",
+  "information mediator",
+  "data sharing platform",
+  "interoperability hub",
+  "plateforme d'interopérabilité",
+  "plateforme nationale d'interopérabilité",
+  "plateforme d'échange de données",
+  "plateforme d'échange",
+  "bus d'interopérabilité",
+  "bus de services",
+  "échange de données",
+  "plataforma de interoperabilidade",
+  "plataforma nacional de interoperabilidade",
+  "troca de dados",
+  "intercâmbio de dados",
+  "plataforma de intercambio de datos",
+  "منصة التشغيل البيني",
+  "منصة الربط البيني",
+  "تبادل البيانات",
+  "الربط البيني"
+ ],
+ "sub_indicators": [
+  {
+   "key": "exchange",
+   "label": "National data exchange system",
+   "subject": "dpi.exchange",
+   "text": "National data exchange system: national data exchange system",
+   "indicator_id": "dpi.exchange--national-data-exchange-system-national-data-exchange-system",
+   "class": "exchange",
+   "norm_short": "The African Union's Digital Transformation Strategy and its interoperability framework ask for a secure exchange layer through which government systems reuse each other's data and registers.",
+   "criteria": [
+    "A source from the past three years says government systems have no data exchange platform between them.",
+    "A government data exchange platform is procured, being built or piloted between a few systems. A framework or law with no platform does not count.",
+    "The platform is in service, carrying data between two or more public bodies' systems.",
+    "Ten or more institutions, systems or services are connected to the platform, counted by a source from the past three years.",
+    "A source from the past three years gives a figure for the exchanges or transactions through the platform."
+   ],
+   "criteria_of": "2494a638b981"
+  }
+ ],
+ "classes": [
+  "exchange",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "platform",
+   "name": "Exchange platform built and in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "Many systems connected",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "wide"
+   ],
+   "values": [
+    "wide"
+   ]
+  },
+  {
+   "key": "usage",
+   "name": "Use reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

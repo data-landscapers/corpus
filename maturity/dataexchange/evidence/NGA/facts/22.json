@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-22-fg-nigeria-police-mou-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Exchange Platform",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the National Data Exchange Platform only as a future integration pathway for the police project; states nothing on its status."
+}

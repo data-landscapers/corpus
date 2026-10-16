@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-20-lanation-interview-ministre-education-gose-smis",
+  "facts": [],
+  "systems": [
+    {"system": "GOSE", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Ministry of National Education and Vocational Training", "tiers": ""},
+    {"system": "SMIS", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Ministry of National Education and Vocational Training", "tiers": ""}
+  ],
+  "note": "Minister says GOSE and SMIS data identified over 3,000 at-risk students; no exchange between systems, shared learner ID or link to national ID stated."
+}

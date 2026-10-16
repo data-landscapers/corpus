@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-02-lanation-rentree-scolaire-gose-smis",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (Système d'Information pour la Gestion de l'Éducation), through the GOSE and SMIS platforms", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Ministry of National Education and Vocational Training", "tiers": ""},
+    {"system": "plateforme nationale des ressources humaines", "country_label": "Djibouti", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Circular makes consolidation of the SIGE through GOSE and SMIS a priority, but states no data link between named systems being built or in service."
+}

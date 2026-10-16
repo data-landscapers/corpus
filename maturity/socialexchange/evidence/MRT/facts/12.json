@@ -1,0 +1,14 @@
+{
+  "slug": "2021-04-15-worldbank-icr-mauritania-social-safety-net-plateforme-paiement-electronique",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The World Bank ICR says the government designed and implemented a consolidated MIS built on three interoperable systems, the Social Registry, Tekavoul and Elmaouna, whose structure links the registry and payment systems.", "as_of": "2021-04", "date_precision": "month", "system": "Consolidated MIS", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank ICR says the Social Registry was in use by 13 actors in 2020, including Tadamoun/Taazour, WFP, Oxfam, ACF, UNHCR and Save the Children, and that the Prime Minister announced in September 2019 that all social programmes would eventually have to use it for targeting.", "as_of": "2020", "date_precision": "year", "system": "Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Social Registry", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "Social Registry Direction, Ministry of Economy and Finance", "tiers": ""},
+    {"system": "Consolidated MIS", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Tekavoul", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Elmaouna", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

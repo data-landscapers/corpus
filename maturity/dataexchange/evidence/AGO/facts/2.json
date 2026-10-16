@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "IMA's terms of reference, version of 11 February 2026, seek a consultant to run training for the PIAP, to be aligned with contracts still to be awarded including a separate PIAP implementation consultancy; no platform is stated to be in service (as_of is the document's published date).", "as_of": "2026-02-11", "date_precision": "day", "system": "Plataforma de Interoperabilidade da Administracao Publica (PIAP)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade da Administracao Publica (PIAP)", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "Instituto de Modernizacao Administrativa (IMA) under PADA", "tiers": ""}
+  ],
+  "note": "The document also cites a World Bank-financed interoperability framework study finding interoperability limited with mostly one-off integrations, undated, so no separate fact."
+}

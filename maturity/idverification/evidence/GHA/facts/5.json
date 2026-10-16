@@ -1,0 +1,46 @@
+{
+ "slug": "2026-03-23-ghana-card-non-negotiable-sim-graphic",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NIA statement says financial institutions rely on the Ghana Card through the National Identity Register for identity verification.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Bank identity verification against the National Identity Register",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The NIA statement says it supports banking, healthcare and taxation services, as well as telecoms, in verifying identity against the Ghana Card.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Ghana Card verification across sectors",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A new SIM registration framework with Ghana Card verification, app self-registration, facial recognition and liveness detection was welcomed by the NIA Executive Secretary on 20 March 2026.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "SIM registration biometric verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank identity verification against the National Identity Register",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "Financial institutions",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

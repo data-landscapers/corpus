@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "ASIN speakers told a CDPI peer-learning webinar that Benin's UXP interoperability platform, operational since the programme began, enables secure data exchange across government and private entities.", "as_of": "2025-06-23", "date_precision": "day", "system": "UXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The ASIN speakers said more than 1,500 services are integrated and more than 55 institutions, including banks, telecoms and insurers, are connected to the platform.", "as_of": "2025-06-23", "date_precision": "day", "system": "UXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "The ASIN speakers said over 70 million data exchange transactions have been completed to date.", "as_of": "2025-06-23", "date_precision": "day", "system": "UXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UXP", "country_label": "Benin", "class": "exchange", "platform": "UXP (Cybernetica)", "owner": "ASIN", "tiers": ""}
+  ],
+  "note": "As_of is the webinar article's published date; the figures are 'to date' as spoken."
+}

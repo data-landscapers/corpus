@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-01-mrt-taazour-plateforme-aoun-verification-2057006-citoyens",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Taazour's AOUN verification platform was launched: beneficiaries in the social registry database received SMS messages with a link to the platform to verify eligibility, see their collection code and complete identity verification, targeting 2,057,006 registered citizens.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "AOUN verification platform (aoun.taazour.gov.mr)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AOUN verification platform (aoun.taazour.gov.mr)",
+   "country_label": "AOUN",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  },
+  {
+   "system": "National social registry (Registre Social)",
+   "country_label": "Registre Social",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  }
+ ],
+ "note": "Page carries no date; as_of uses published 2026-06 (month precision)."
+}

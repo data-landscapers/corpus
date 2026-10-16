@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-23-mwi-data-harmonization-interoperability-agenda",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Malawi officials say the Department of Human Resource Management, the Ministry of Agriculture and the Ministry of Health systems are connected to the NRIS infrastructure and have registered positive results, and that all government systems are to be connected to NRIS for anti-fraud verification; the article does not say these systems check people against the ID.", "as_of": "2026-09-23", "date_precision": "day", "system": "National Registration and Identification System (NRIS) connections of DHRM, Ministry of Agriculture and Ministry of Health systems", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""},
+    {"system": "Department of Human Resource Management system connected to NRIS", "country_label": "Malawi", "class": "relying", "platform": "NRIS", "owner": "Department of Human Resource Management", "tiers": ""},
+    {"system": "Ministry of Agriculture system connected to NRIS", "country_label": "Malawi", "class": "relying", "platform": "NRIS", "owner": "Ministry of Agriculture", "tiers": ""},
+    {"system": "Ministry of Health system connected to NRIS", "country_label": "Malawi", "class": "relying", "platform": "NRIS", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Connection to NRIS stated for three bodies, dated by article only; verification against the ID not stated, so recorded as underway."
+}

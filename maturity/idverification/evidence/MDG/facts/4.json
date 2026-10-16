@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-interoperabilite-nationale-instat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RAHAKA",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD (Unite de Gouvernance Digitale)",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes a data exchange system and states nothing about checking people against the national ID."
+}

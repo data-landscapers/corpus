@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-07-canam-digitalisation-accord-prealable-amo-anywhere",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "CANAM launched on 7 May 2026 digital prior-authorisation requests under the AMO, with health facilities transmitting scanned patient files to CANAM through the AMO Anywhere information system and CANAM doctors returning decisions through it; several facilities have integrated it and others are being deployed.", "as_of": "2026-05-07", "date_precision": "day", "system": "AMO Anywhere", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "AMO Anywhere", "country_label": "Mali", "class": "exchange", "platform": "", "owner": "CANAM", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The e-Sénégal single-window app, launched 24 March 2026 and built by SENUM SA, gives access through authentication on the NIN carried on the biometric identity card, with judicial-record, nationality-certificate and similar procedures live at launch.", "as_of": "2026-03-24", "date_precision": "day", "system": "e-Sénégal", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "e-Sénégal", "country_label": "Senegal", "class": "relying", "platform": "mobile app and single-window portal (sn.senum.guichetunique)", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": ""},
+    {"system": "GovStack", "country_label": "Senegal", "class": "", "platform": "platform for over 800 administrative procedures, presented November 2023", "owner": "SENUM SA with GIZ", "tiers": ""}
+  ],
+  "note": ""
+}

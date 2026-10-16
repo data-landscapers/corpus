@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-06-iom-midas-border-management-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "MIDAS (Migration Information and Data Analysis System)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "IOM-developed border management system, deployed at the Kalamon crossing", "owner": "IOM with the Directorate of Territorial Surveillance (DST) and ANSSI; Japan-funded", "tiers": ""}
+  ],
+  "note": "MIDAS replaces paper border checks; the story does not say it checks people against the national ID."
+}

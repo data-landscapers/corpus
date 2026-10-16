@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-24-graphic-national-service-authority-biodata-mismatch-correction-window",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National Service Authority said on 2026-08-24 that students whose records do not match their Ghana Card must correct them, with the National Identification Authority, before registering for national service, ahead of a 26 August 2026 deadline.", "as_of": "2026-08-24", "date_precision": "day", "system": "National service registration (National Service Authority)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "National service registration (National Service Authority)", "country_label": "Ghana", "class": "relying", "platform": "", "owner": "National Service Authority", "tiers": ""},
+    {"system": "Ghana Card", "country_label": "Ghana", "class": "other", "platform": "", "owner": "National Identification Authority", "tiers": ""}
+  ],
+  "note": ""
+}

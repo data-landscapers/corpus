@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-foroyaa-national-id-cards-bureaucracy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID card system",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "Semlex",
+   "owner": "Immigration Department / Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes ID card issuance delays at Kanifing; no other system checking against the ID."
+}

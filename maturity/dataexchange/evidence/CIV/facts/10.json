@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-civ-transformation-numerique-la-cote-divoire-priorise-les-servic",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The head of SNDI said at the 3 September 2026 workshop that the national interoperability platform is a reality and already improves data exchange between several administrations.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Public Administration Interoperability Platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National public administration interoperability platform (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "UXP (Cybernetica)",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

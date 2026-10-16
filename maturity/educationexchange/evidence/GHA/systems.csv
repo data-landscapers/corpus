@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,PMDV Dashboard API,Ghana,exchange,REST API with MongoDB,"Ministry of Education, Ghana (PMDV Development Team)",national,2024-01-01-ghana-moe-pmdv-dashboard-api-documentation
+GHA,EMIS,Ghana,other,,"Ministry of Education, Ghana",region;district;school,2024-01-01-ghana-moe-pmdv-dashboard-api-documentation
+GHA,NASIA,Ghana,other,MongoDB,,,2024-01-01-ghana-moe-pmdv-dashboard-api-documentation
+GHA,EMIS,Ghana,other,,"Ministry of Education, Ghana (Pre-Tertiary and SRIM Directorates)",school;district;national,2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools
+GHA,EMIS,Ghana,other,,"Ministry of Education, Ghana (SRIM directorate)",,2025-09-01-ghana-education-sector-medium-term-development-plan
+GHA,CSSPS,Ghana,,,,,2025-09-01-ghana-education-sector-medium-term-development-plan
+GHA,EMIS,Ghana,other,,"Ministry of Education, Ghana",school;subnational;national,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
+GHA,NST,Ghana,other,,"Ministry of Education, Ghana",,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
+GHA,mSRC,Ghana,other,,,,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal

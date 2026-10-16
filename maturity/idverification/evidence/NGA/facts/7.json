@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-norrsken22-reg-smileid-2023-norrsken22-co-leads-smile-id-series-b",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Smile ID (Smile Identity) verifies identities against government databases in real time for fintechs and enterprises across 30+ African countries, naming Nigeria among its markets (2023 funding announcement, no month given; published date used).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Smile ID identity verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smile ID identity verification",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Smile ID (Smile Identity)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

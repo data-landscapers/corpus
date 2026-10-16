@@ -1,0 +1,52 @@
+{
+ "slug": "2024-12-04 World Bank approves $70M for Morocco's social protection delivery (RNP and Unified Social Registry)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The World Bank says the RSU serves as the single entry point for new social programmes in Morocco, with the project aiming to affect at least five programmes by end-2024 and eight by 2028.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Registre Social Unifie (RSU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank approved US$70 million for a second project extending the RNP and RSU to rural and remote areas through digital and remote applications.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Registre Social Unifie (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifie (RSU)",
+   "country_label": "Morocco",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Agence nationale des registres",
+   "country_label": "Morocco",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-03-rwanda-imibereho-social-registry-appeals",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The New Times quotes a Ministry of Local Government official saying the Imibereho registry is integrated with other government databases, including land records and Rwanda Social Security Board salary data, and records tax paid through the Rwanda Revenue Authority.", "as_of": "2026-08-03", "date_precision": "day", "system": "Imibereho Social Registry System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Imibereho Social Registry System", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "Ministry of Local Government", "tiers": ""}
+  ],
+  "note": "as_of is the article's published date, as it gives no date for the integration. Planned mobile-money and bank data is a plan, not recorded."
+}

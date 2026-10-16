@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Tech Rek states the Khadamati app, which groups more than 15 digital public services, relies on Houwiyeti to verify users' national identity (as_of is the article's published date, 2026-08-11).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamati",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Tech Rek states Houwiyeti is the gateway public and private services use to verify citizens' identity, with private financial apps using the identity verification system at user registration alongside the public Khadamati services (as_of is the published date).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamati",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANRPTS",
+   "tiers": ""
+  },
+  {
+   "system": "Khadamati",
+   "country_label": "Mauritania",
+   "class": "relying",
+   "platform": "app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Private financial applications (unnamed)",
+   "country_label": "Mauritania",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-15-newzimbabwe-emis-dropout-early-warning",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The ministry spokesperson says the Early Warning System is now integrated into EMIS and runs under the National Case Management System alongside the Ministry of Public Service, Labour and Social Welfare, generating real-time lists of absent learners.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Early Warning System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  },
+  {
+   "system": "Early Warning System",
+   "country_label": "Zimbabwe",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  },
+  {
+   "system": "National Case Management System",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Date of the event not given; published date used."
+}

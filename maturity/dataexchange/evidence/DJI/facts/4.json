@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-31-djibouti-loi-de-finances-203-an-25-budget-initial-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Plate-forme d'échange des données (art. 38, to be set up by the Direction de l'Exécution Budgétaire with all central-administration departments)", "country_label": "Djibouti", "class": "exchange", "platform": "", "owner": "Direction de l'Exécution Budgétaire (Ministry of the Budget)", "tiers": ""},
+    {"system": "Sydonia World / e-Guichet", "country_label": "Djibouti", "class": "other", "platform": "Sydonia World", "owner": "Direction Générale des Douanes et Droits Indirects", "tiers": ""}
+  ],
+  "note": "Art. 38 of the 2026 budget law only orders the Direction de l'Exécution Budgétaire to set up a data-exchange platform with central-administration departments; it states no procurement, build or pilot, so no underway or in-service fact; e-Guichet is a customs single window, class other."
+}

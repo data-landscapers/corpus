@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-10-cmu-numero-immatriculation-identifiant-sante",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "identifier", "value": "linked", "fact": "The Council of Ministers of 10 July 2024 adopted a decree making the Couverture maladie universelle registration number the health identifier in all public and private health facilities, replacing any other number for the patient file, care and referencing of the patient's health data across facilities' information systems, with 24 months for users and facilities to comply; the document reports adoption of the decree, not use in service.", "as_of": "2024-07-10", "date_precision": "day", "system": "CMU registration number as health identifier", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CMU registration number as health identifier", "country_label": "Côte d'Ivoire", "class": "exchange", "platform": "", "owner": "Government of Côte d'Ivoire (Ministry of Health)", "tiers": "public and private health facilities"}
+  ],
+  "note": ""
+}

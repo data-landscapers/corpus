@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-23-chambers-union-electronic-system-gia",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The General Information Authority, reporting a 20 April 2026 meeting with the Union of Chambers, describes the National Data Distributor as a sovereign operational platform for interoperability enabling secure exchange of data between entities, and says the Chambers Union's new electronic system is to interoperate with it; it names no connected bodies and gives no counts.", "as_of": "2026-04-20", "date_precision": "day", "system": "National Data Distributor", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Data Distributor", "country_label": "Libya", "class": "exchange", "platform": "", "owner": "General Information Authority", "tiers": ""},
+    {"system": "Electronic system of the Union of Chambers", "country_label": "Libya", "class": "other", "platform": "", "owner": "Union of Chambers", "tiers": ""}
+  ],
+  "note": ""
+}

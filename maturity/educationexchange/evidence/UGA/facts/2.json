@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "The article states that EMIS lacks integration with the Uganda National Examinations Board system, so details of all Senior One and Senior Five students are not yet fully captured, as acknowledged by the Ministry's Assistant Commissioner for Statistics.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "EMIS-UNEB integration",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Assistant Commissioner said the ministries and UNEB are working to resolve the EMIS-UNEB integration gap so the affected students can be uploaded.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "EMIS-UNEB integration",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS (EMIS 1.0, upgrading to EMIS 2.0)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education and Sports; administered by vendor SMSOne",
+   "tiers": ""
+  },
+  {
+   "system": "UNEB examinations system",
+   "country_label": "Uganda",
+   "class": "",
+   "platform": "",
+   "owner": "Uganda National Examinations Board",
+   "tiers": ""
+  }
+ ],
+ "note": "Fact dates use the published date (2026-06-09, proxy from URL) as the article gives no event date."
+}

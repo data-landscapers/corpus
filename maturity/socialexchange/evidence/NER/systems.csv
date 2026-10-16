@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre Social Unifié (RSU),Niger,exchange,,,,2025-09-09-lesahel-rsu-500000-menages
+NER,Registre Social Unifié (RSU),Niger,exchange,,,,2025-09-03-actuniger-niger-feuille-route-protection-sociale
+NER,Registre Social Unifié (RSU),Niger,exchange,,Primature / DNPGCA,,2018-07-27-rsu-niger-bibliotheque-textes-fondateurs
+NER,Unified Social Registry,Niger,exchange,,,,2026-02-11-worldbank-cerp-project-paper-niger
+NER,Unified Social Registry (USR),Niger,exchange,,"DNPGCCA (DN), Prime Minister's Office",,2018-12-07-worldbank-pad3086-niger-safety-net-mis
+NER,Cellule des Filets Sociaux monitoring and information system (MIS),Niger,exchange,tablets and electronic payment modules,"Cellule des Filets Sociaux (CFS), within the DN",,2018-12-07-worldbank-pad3086-niger-safety-net-mis

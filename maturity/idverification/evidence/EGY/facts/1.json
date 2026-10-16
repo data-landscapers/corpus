@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-12-youm7-egypt-telecom-egypt-we-e-kyc-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-KYC (WE)",
+   "country_label": "Egypt",
+   "class": "",
+   "platform": "",
+   "owner": "Telecom Egypt (WE)",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch of an e-KYC for mobile line sale and activation; the document names no identity database or national ID it verifies against."
+}

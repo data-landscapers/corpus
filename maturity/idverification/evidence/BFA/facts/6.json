@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-20-mdenp-decret-identification-abonnes-sim-cnib",
+  "facts": [],
+  "systems": [
+    {"system": "Subscriber identification under Decree 2018-1270 (SIM card sales)", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Telecom operators and service providers", "tiers": ""}
+  ],
+  "note": "The document says identification is mandatory before access to electronic communications and lists supporting documents, but does not say subscribers are checked against the national ID; no fact for a relying system."
+}

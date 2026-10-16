@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-kenya-moh-knphi-lims-addendum-interoperability-specifications",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KNPHI LIMS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya National Public Health Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "A laboratory system specification requiring HL7 and integration with external systems; no national exchange platform is described."
+}

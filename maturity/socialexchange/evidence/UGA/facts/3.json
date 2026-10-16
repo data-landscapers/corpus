@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-mofped-public-investment-plan-fy2026-27",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The FY2026/27 Public Investment Plan lists NUSAF IV (1 July 2025 to 30 June 2030) as establishing a National Social Registry, with the Ministry of Gender, Labour and Social Development to ensure interoperability and data sharing with UBOS, NIRA, NITA-U, NPA and the Ministry of Local Government; FY2026/27 funding is UShs 44.798 billion, all donor-funded.", "as_of": "2026", "date_precision": "year", "system": "National Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Social Registry", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": ""}
+  ],
+  "note": "as_of is the document's published year (2026), as the plan gives no event date for the interoperability duty."
+}

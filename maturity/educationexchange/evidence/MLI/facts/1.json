@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-unesco-mali-sige-statistiques-sante-scolaire",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information et de Gestion de l'Éducation (SIGE)", "country_label": "Mali", "class": "other", "platform": "", "owner": "Ministère de l'Éducation nationale (CPS-SE)", "tiers": ""}
+  ],
+  "note": "Document describes the SIGE being extended with school-health indicators (March 2026 workshop); it states no data exchange with another system, no shared learner identifier and no link to national ID or another sector."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-17-rwanda-social-protection-transformation-project-additional-financing",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The World Bank project paper says the Imibereho dynamic social registry integrates data from more than 10 government agencies and interoperates with more than 10 government databases.",
+     "as_of": "2026-03", "date_precision": "month", "system": "Imibereho dynamic social registry", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The paper's results framework counts systems interlinked to the social registry, from 0 in July 2022 to a target of 10 by December 2028, and the additional financing funds improved interoperability of the registry with other systems and MEIS.",
+     "as_of": "2026-03", "date_precision": "month", "system": "Imibereho dynamic social registry", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The paper says the share of VUP beneficiaries identified through the dynamic social registry rose from 0 to 100 percent by end-February 2026, and that the registry facilitates access to the Ejo Heza long-term savings scheme and community-based health insurance.",
+     "as_of": "2026-02", "date_precision": "month", "system": "Imibereho dynamic social registry", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "linked", "value": "linked",
+     "fact": "The paper says the Imibereho platform is anchored in the national ID system and interoperates with more than 10 government databases, and that Smart Start targeting draws on both health MIS data and the social registry.",
+     "as_of": "2026-03", "date_precision": "month", "system": "Imibereho dynamic social registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Imibereho dynamic social registry", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "MINALOC", "tiers": ""},
+    {"system": "MEIS (Monitoring and Evaluation Information System, LODA)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "LODA", "tiers": ""},
+    {"system": "PGMIS (Poverty Graduation Management Information System)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "As_of for the registry-interoperability facts is the paper's published date (2026-03-17); it gives no event date. The paper also says limited interoperability between the MIS and the social registry is an internal-control risk."
+}

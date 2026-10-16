@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "5",
+   "exchange": "inservice",
+   "learnerid": "shared",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

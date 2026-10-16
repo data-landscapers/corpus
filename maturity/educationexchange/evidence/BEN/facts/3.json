@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-educmaster-mise-a-jour-donnees-classes-intermediaires",
+  "facts": [],
+  "systems": [
+    {"system": "EDUCMASTER", "country_label": "Benin", "class": "other", "platform": "", "owner": "Ministry of Nursery and Primary Education", "tiers": ""}
+  ],
+  "note": "The document describes EDUCMASTER as a sub-sector management platform for pupil and class records and CEP registration; it states no exchange with another system, no shared learner identifier and no link to the national ID or another sector."
+}

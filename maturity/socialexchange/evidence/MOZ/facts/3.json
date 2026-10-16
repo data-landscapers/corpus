@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-12-mozambique-s-digital-humanitarian-response-system-set-for-october-launch",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Mozambique's disaster agency INGD says its WFP-funded Beneficiary and Humanitarian Assistance Management System (SGBAH), in field pilot and validated ahead of an October 2026 national launch, will be interoperable with the database of the social action institute INAS, which runs support programmes for vulnerable households.", "as_of": "2026-08-12", "date_precision": "day", "system": "Beneficiary and Humanitarian Assistance Management System (SGBAH)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Beneficiary and Humanitarian Assistance Management System (SGBAH)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INGD", "tiers": ""},
+    {"system": "INAS database", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INAS", "tiers": ""}
+  ],
+  "note": ""
+}

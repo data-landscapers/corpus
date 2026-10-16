@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,use,use,coverage,inservice,2025,GMB-001;GMB-002;GMB-003,GMB-005=underway;GMB-004=underway,
+GMB,use,sectors,coverage,,,,,nothing held
+GMB,use,usage,coverage,,,,,nothing held

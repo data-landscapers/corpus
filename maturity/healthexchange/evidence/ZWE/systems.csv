@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,Zimbabwe Core IG (ZWCore),Zimbabwe,other,HL7 FHIR 4.0.1,Ministry of Health and Child Care,,2026-06-15-zimbabwe-core-fhir-implementation-guide
+ZWE,Impilo EMR (Patient Health ID namespace),Zimbabwe,other,,Ministry of Health and Child Care,,2026-06-15-zimbabwe-core-fhir-implementation-guide
+ZWE,national health information exchange platform,Zimbabwe,exchange,,Ministry of Health and Child Care,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,Impilo,Zimbabwe,other,,Government of Zimbabwe,"1,254 facilities implementing",2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,DHIS2,Zimbabwe,other,DHIS2,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,Laboratory information system,Zimbabwe,other,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,Logistics management information system,Zimbabwe,other,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,CRVS-Health interoperability platform,Zimbabwe,exchange,,Civil Registry Department; Ministry of Health and Child Care,,2026-07-18-zwe-crvs-health-integration-egmrg-presentation
+ZWE,National Population Register,Zimbabwe,other,,Civil Registry Department,,2026-07-18-zwe-crvs-health-integration-egmrg-presentation
+ZWE,Health Information Exchange Platform,Zimbabwe,exchange,,UNDP Zimbabwe (procuring),,2026-05-29-undp-rfp-health-information-exchange
+ZWE,Impilo EHR,Zimbabwe,other,,Ministry of Health and Child Care,over 700 facilities,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
+ZWE,DHIS2,Zimbabwe,other,DHIS2,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
+ZWE,Impilo EHR to DHIS2 FHIR integration,Zimbabwe,exchange,FHIR; OpenHIE,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh

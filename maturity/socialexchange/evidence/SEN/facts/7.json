@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-worldbank-senegal-energy-access-scale-up-isr",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank status report says vulnerable households registered to the RNU by the DGPSN will be targeted for free ReadyBoard connections under the energy access project, with connections expected to begin in early 2027; none connected by 4 December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Registre National Unique (RNU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National Unique (RNU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DGPSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

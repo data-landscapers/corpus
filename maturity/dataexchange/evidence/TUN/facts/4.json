@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Cybernetica states UXP was deployed as a proof of concept for five ministries, with the governing authority set up and five member organisations onboarded, in the go-live phase of Phase 1.",
+   "as_of": "2024-02-14",
+   "date_precision": "day",
+   "system": "National interoperability platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National interoperability platform (UXP)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "Cybernetica Unified eXchange Platform (UXP)",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

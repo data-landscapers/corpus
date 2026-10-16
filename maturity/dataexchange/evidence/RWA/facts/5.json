@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-07 What will determine the success of Rwanda’s data governance push",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "Cenfri, interviewing NISR's Data Governance Project Lead, lists building the data sharing platform itself among the Data Governance Unit's current foundation work, and says institutions should publish quality-assured datasets through it over the next three to five years.",
+     "as_of": "2026-05-07", "date_precision": "day", "system": "data sharing platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "data sharing platform", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "National Institute of Statistics of Rwanda (Data Governance Unit)", "tiers": ""}
+  ],
+  "note": "No in-service, connection count or usage figure is stated; as_of is the article's published date because it gives no event date."
+}

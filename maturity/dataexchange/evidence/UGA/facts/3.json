@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "A NITA-U IT professional said on 2026-10-01 that UGHub, a national data integration platform managed by NITA-U, connects NIRA's identity registry to MDAs and private institutions, which verify identities against it in real time.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub (Uganda Government Integrated Hub)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The same NITA-U speaker said UGHub connects NIRA's registry with more than 150 government ministries, departments and agencies, plus banks and telecoms.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub (Uganda Government Integrated Hub)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "WSO2",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

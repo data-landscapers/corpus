@@ -1,0 +1,12 @@
+{"slug": "2026-01-01-consolidation-of-social-grants-and-the-food-bank", "studies": {
+"idverification": {"countries": {"NAM": {"facts": [], "systems": [
+{"system": "Integrated Beneficiary Registry (IBR)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""}
+], "note": "The page lists data-integration MoUs with GIPF, SSC, the tax system, IFMS and the Veteran Affairs System; none is with a national ID."}}},
+"socialexchange": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Ministry's activity page lists MoUs for data integration with GIPF, SSC, the tax system, IFMS and the Veteran Affairs System, and the integration of the ISAS module into the Integrated Beneficiary Registry, and gives the activity as Complete with the system piloted by June 2022.", "as_of": "2022-06", "date_precision": "month", "system": "Integrated Beneficiary Registry (IBR) and ISAS", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The page says a central information management system was developed holding all social grant beneficiaries, to remove duplication, with the activity at 100 percent and Complete.", "as_of": "2022-06", "date_precision": "month", "system": "Integrated Beneficiary Registry (IBR)", "class": "exchange"}
+], "systems": [
+{"system": "Integrated Beneficiary Registry (IBR)", "country_label": "Namibia", "class": "exchange", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""},
+{"system": "Integrated Social Assistance System (ISAS)", "country_label": "Namibia", "class": "exchange", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""}
+], "note": "The page gives no date for the use of the system after the 2022 pilot, and no link to the national ID."}}}
+}}

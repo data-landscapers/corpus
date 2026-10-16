@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "URA's Ritah Akech said NIN becomes the tax identifier for individuals in phases: first mapping existing NINs to TINs, then fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "URA taxpayer register linked to the National ID (NIN)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA taxpayer register linked to the National ID (NIN)",
+   "country_label": "Uganda",
+   "class": "relying",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "National ID (NIRA)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

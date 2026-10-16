@@ -1,0 +1,18 @@
+{
+  "slug": "2024-01-01-maupass",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "OECD OPSI says government e-services such as the MoKloud digital safe use MauPass 2FA, which needs prior KYC registration, to confirm users' identity, with name and ID number validated against the Central Population Database.",
+     "as_of": "2022-09", "date_precision": "month", "system": "MoKloud digital safe (via MauPass)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "OECD OPSI says government is integrating MauPass across e-services, naming learner's licence application, Public Service Commission posts, MoRendezVous booking, Supreme Court portal, e-payslip, e-HR leave and online motor vehicle licence payment; date is the page's published year, the document giving none for this.",
+     "as_of": "2024", "date_precision": "year", "system": "Government e-services integrating MauPass", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "MauPass", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "Levels 0-3"},
+    {"system": "MoKloud digital safe", "country_label": "Mauritius", "class": "relying", "platform": "", "owner": "Government Online Centre", "tiers": ""},
+    {"system": "Central Population Database", "country_label": "Mauritius", "class": "other", "platform": "InfoHighway", "owner": "Civil Status Division", "tiers": ""},
+    {"system": "Acuant Trusted Identity Platform", "country_label": "Mauritius", "class": "other", "platform": "Acuant cloud", "owner": "Acuant", "tiers": ""}
+  ],
+  "note": ""
+}

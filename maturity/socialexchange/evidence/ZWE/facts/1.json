@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-20-zbc-government-develops-social-registry",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Minister of Public Service, Labour and Social Welfare said ZISO, the social registry now being developed, will be used as part of the mechanism to identify beneficiaries of the BEAM education assistance programme, to be rolled out across 65 districts.",
+     "as_of": "2026-07-20", "date_precision": "day", "system": "Zimbabwe Social Registry (ZISO)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Zimbabwe Social Registry (ZISO)", "country_label": "Zimbabwe", "class": "exchange", "platform": "", "owner": "Ministry of Public Service, Labour and Social Welfare", "tiers": ""},
+    {"system": "Basic Education Assistance Module (BEAM)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

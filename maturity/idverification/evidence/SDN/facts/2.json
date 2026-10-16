@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-sudan-sudapass-privacy-policy",
+  "facts": [],
+  "systems": [
+    {"system": "SudaPass", "country_label": "Sudan", "class": "other", "platform": "", "owner": "National Authority for Digital Certification (NADC)", "tiers": ""}
+  ],
+  "note": "Privacy policy of the ID application itself; states no other system checking people against the ID."
+}

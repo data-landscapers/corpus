@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-mcc-civ-emis-2017-cote-divoire-compact-education-management-information",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS / SIGE Intégré)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of National Education and Literacy (MENET-FP); funded by MCC", "tiers": ""}
+  ],
+  "note": "The record describes a single integrated EMIS centralising HR, school management, examinations and assessment data; it states no link between separate education systems, learner ID or national ID link."
+}

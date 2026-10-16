@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-namibia-governmental-interoperability-framework-nam-x",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Cybernetica says that in 2014 it and the e-Governance Academy introduced an interoperability platform, known locally as Nam-X, connecting databases of different entities, and that Namibia has implemented it for secure data exchange between organisations.", "as_of": "2014", "date_precision": "year", "system": "Nam-X", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Cybernetica says an ESTDEV-funded project begun in 2024 continues scaling the Nam-X platform, developing two digital services for it, and was expected to end in March 2025; no count of connected bodies is given.", "as_of": "2024", "date_precision": "year", "system": "Nam-X", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Nam-X", "country_label": "Namibia", "class": "exchange", "platform": "Cybernetica Unified eXchange Platform (UXP)", "owner": "Office of the Prime Minister, Department of Public Service e-Government Management", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-19-eha-pillars-of-digital-transformation-telemedicine-uhis",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Egypt Healthcare Authority states an electronic referral system from primary healthcare units and centres to higher levels of service has been implemented in the universal health insurance provinces.",
+   "as_of": "2024-08-19",
+   "date_precision": "day",
+   "system": "Electronic referral system (Egypt Healthcare Authority)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic referral system",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Egypt Healthcare Authority",
+   "tiers": "primary to higher levels"
+  },
+  {
+   "system": "Unified electronic medical record (4.5 million electronic health records)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egypt Healthcare Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

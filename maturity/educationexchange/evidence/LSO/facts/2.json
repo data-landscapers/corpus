@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-14-lso-request-for-proposal-consultancy-for-capacity-building-for-emis-distri",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national EMIS",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education",
+   "tiers": "district offices to national"
+  }
+ ],
+ "note": "District offices transmit school data into the national EMIS; no exchange between education systems stated."
+}

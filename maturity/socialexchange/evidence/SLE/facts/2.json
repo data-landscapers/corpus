@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-sierra-leone-world-bank-sprint-social-registry-technical-note",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The World Bank technical note says the SPRINT module built to import data from external sources had never been used, and that Sierra Leone had no Data Protection Act, so data sharing between agencies carried unmitigated risk.", "as_of": "2023", "date_precision": "year", "system": "Social Protection Registry for Integrated National Targeting (SPRINT)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank technical note says the initial SPRINT configuration would upload existing beneficiary and applicant data from current and former programmes, and that a data sharing policy would be developed for exchanges with external entities.", "as_of": "2023", "date_precision": "year", "system": "Social Protection Registry for Integrated National Targeting (SPRINT)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Social Protection Registry for Integrated National Targeting (SPRINT)", "country_label": "Sierra Leone", "class": "exchange", "platform": "", "owner": "NaCSA / Government of Sierra Leone (National Social Protection Secretariat)", "tiers": ""},
+    {"system": "Social Safety Net Management Information System (SSN MIS)", "country_label": "Sierra Leone", "class": "exchange", "platform": "", "owner": "NaCSA", "tiers": ""}
+  ],
+  "note": "Fact dates use the note's published date, 2023-01-01, as it gives no event date for the unused import module or the plans."
+}

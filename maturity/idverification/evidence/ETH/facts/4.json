@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-11-ethiopia-banks-harmonize-fayda-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Bank of Ethiopia directed on 10 December 2025 that all banks open new accounts using the VeriFayda 2 eKYC system (EthSwitch eKYC Service), which replaces VeriFayda 1 used previously.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "VeriFayda 2 (EthSwitch eKYC Service)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The National Bank of Ethiopia set 1 December 2025 to 30 March 2026 for banks to link all active customer accounts to Fayda ID, by mobile app or branch.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "VeriFayda 2 (EthSwitch eKYC Service)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VeriFayda 2 (EthSwitch eKYC Service)",
+   "country_label": "Ethiopia",
+   "class": "relying",
+   "platform": "EthSwitch",
+   "owner": "EthSwitch",
+   "tiers": ""
+  },
+  {
+   "system": "VeriFayda 1",
+   "country_label": "Ethiopia",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KNPHI ERP",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya National Public Health Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "A single institute's ERP tender with API interfaces to IFMIS, KRA, SHA and others; no national exchange platform is described."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric Health Identification (BHI)",
+   "country_label": "Kenya",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "BHI is a fingerprint check at health facilities against SHA registration; no check against the national ID is stated."
+}

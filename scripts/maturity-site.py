@@ -722,7 +722,10 @@ def preview_downloads(studies: list[dict]) -> int:
     for stem, body in files.items():
         path = PREVIEW / f"{stem}.csv"
         if not path.exists() or path.read_bytes().replace(b"\r\n", b"\n") != body:
-            path.write_bytes(body)
+            try:
+                path.write_bytes(body)
+            except PermissionError:   # open in Excel for checking: a check copy, so it waits for the next run
+                print(f"maturity: {path.name} is locked (open elsewhere?); left as it was")
     return len(files)
 
 

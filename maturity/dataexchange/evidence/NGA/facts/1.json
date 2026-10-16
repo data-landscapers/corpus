@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The Nigerian government is preparing to launch the NGDX data-sharing platform between government agencies and businesses, expected operational by end 2025, as discussed at an Abuja workshop on 25 August 2025.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "NGDX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NGDX",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Federal Ministry of Digital Economy (NITDA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

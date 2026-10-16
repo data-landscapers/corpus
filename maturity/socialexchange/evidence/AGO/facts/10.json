@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-04-plano-de-gestao-ambiental-e-social-projecto-proteccao-social-capital-humano",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastro Social Único (CSU)", "country_label": "Angola", "class": "", "platform": "", "owner": "MASFAMU", "tiers": ""},
+    {"system": "KWENDA delivery systems", "country_label": "Angola", "class": "", "platform": "", "owner": "IDL-FAS", "tiers": ""},
+    {"system": "SPEREC", "country_label": "Angola", "class": "other", "platform": "", "owner": "IDL-FAS", "tiers": ""}
+  ],
+  "note": "Environmental and social plan: names the CSU, Kwenda delivery systems and the SPEREC grievance system as project components but states no link or data exchange between systems."
+}

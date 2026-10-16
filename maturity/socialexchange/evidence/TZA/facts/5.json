@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-01-e-government-technology-roadmap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Enterprise Service Bus (GovESB)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The roadmap names no social registry or social protection link; it lists only an NHIF service portal and a social security fund portal among e-services."
+}

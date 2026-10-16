@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-14-who-management-response-djibouti-evaluation",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Djibouti", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "primary health care"}
+  ],
+  "note": "States HIS limitations and an intention to seek resources to revamp the data system and ensure national data connectivity; no exchange contracted, being built or in service, and DHIS2 is a single system."
+}

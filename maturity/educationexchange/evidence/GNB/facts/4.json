@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-12-gnb-gems-school-monitoring-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "GEMS digital school inspection form", "country_label": "Guinea-Bissau", "class": "other", "platform": "World Bank GEMS (mobile data collection, georeferencing, dashboards)", "owner": "General Inspectorate of Education / Project Coordination Unit", "tiers": ""}
+  ],
+  "note": "Describes a digital school-inspection system (78 inspectors, 568+ schools); no exchange between education systems, learner identifier or national ID link is stated, so no fact of class exchange."
+}

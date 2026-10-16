@@ -1,0 +1,29 @@
+{
+  "slug": "2024-02-01-e-government-technology-roadmap",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "TZA": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The e-Government Authority's roadmap states that the Government Data Sharing and Exchange Platform, GovESB, was established and that public institutions use it to exchange information between them; it also says the e-Government Act 2019 requires all government systems to exchange data through it.", "as_of": "2024-02", "date_precision": "month", "system": "Government Enterprise Service Bus (GovESB)", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Tanzania", "class": "exchange", "platform": "", "owner": "e-Government Authority", "tiers": ""}
+          ],
+          "note": "as_of is the document's published date (February 2024); it gives no establishment date and no count of connected institutions."
+        }
+      }
+    },
+    "socialexchange": {
+      "countries": {
+        "TZA": {
+          "facts": [],
+          "systems": [
+            {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "e-Government Authority", "tiers": ""}
+          ],
+          "note": "The roadmap names no social registry or social protection link; it lists only an NHIF service portal and a social security fund portal among e-services."
+        }
+      }
+    }
+  }
+}

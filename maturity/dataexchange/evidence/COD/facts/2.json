@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  },
+  {
+   "system": "Guichet numérique",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No data exchange platform stated; names an identity scheme and an online services portal only."
+}

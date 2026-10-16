@@ -1,0 +1,4 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,ERI,status,dpi.exchange,,outputs/reports/ERI/ERI-status.md,,Data Exchange,,,status,,0,243
+,,,,ERI,status,dpi.mis,,outputs/reports/ERI/ERI-status.md,,Sectoral management information systems,,,status,,0,296
+1,1,0,news,ERI,raw,2023-04-01-un-eritrea-annual-results-report-2022,whole,raw/2023/2023-04-01-un-eritrea-annual-results-report-2022.md,https://eritrea.un.org/sites/default/files/2023-04/Eritrea%20UNCT%20Annual%20Results%20Report%202022%20%281%29%20%281%29.pdf,2022 UN Annual Results Report — UN Eritrea,2023-04-01,ERI,cell+ledger+subject,beneficiary registry;social registry,2,314

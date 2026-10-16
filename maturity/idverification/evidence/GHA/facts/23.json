@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-nsa-biodata-mismatch-registration-window",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National Service Authority announced on 2026-08-31 a 1-3 September 2026 window at its Kumasi office for prospective national service personnel whose biodata mismatches blocked registration, working with the National Identification Authority to correct records against the Ghana Card before they can proceed.", "as_of": "2026-08-31", "date_precision": "day", "system": "National service registration (National Service Authority)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "National service registration (National Service Authority)", "country_label": "Ghana", "class": "relying", "platform": "", "owner": "National Service Authority", "tiers": ""},
+    {"system": "Ghana Card", "country_label": "Ghana", "class": "other", "platform": "", "owner": "National Identification Authority", "tiers": ""}
+  ],
+  "note": ""
+}

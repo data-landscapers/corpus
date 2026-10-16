@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Biometric Update reports DRC has agreements in place to launch DRCPass, a blockchain-based digital ID developed by Trident, for SIM registration and digital public service delivery; a March rollout was targeted but no launch or delay has been announced.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "DRCPass",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DRCPass",
+   "country_label": "DR Congo",
+   "class": "relying",
+   "platform": "blockchain",
+   "owner": "Government of DRC (developer Trident)",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date; the document gives no date for the agreements."
+}

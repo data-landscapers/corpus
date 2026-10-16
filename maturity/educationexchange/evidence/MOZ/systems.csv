@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,StatEduc,MOZ,other,"Microsoft .NET, MS SQL Server 2008 R2",Ministry of Education and Culture,,2025-01-01-building-responsive-emis-policies-robust-education-data
+MOZ,"EMIS (DHIS2 for Education, Milange District)",MOZ,other,DHIS2,Milange District education office,district;school,2024-06-25-milange-district-emis-scaling-school-level
+MOZ,EMIS,MOZ,other,,Ministry of Education and Culture,national;provincial;district;school,2026-08-21-gpekix-mozambique-education-data-system
+MOZ,National Population Registry,Mozambique,other,,DNIC,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique

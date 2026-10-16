@@ -1,0 +1,9 @@
+{
+  "slug": "2024-07-31-gnb-wardip-egif-gw-interoperability-framework-v2",
+  "facts": [],
+  "systems": [
+    {"system": "eGIF-GW", "country_label": "Guinea-Bissau", "class": "other", "platform": "", "owner": "ITMA / MTTDE (WARDIP)", "tiers": ""},
+    {"system": "KONTAKTU", "country_label": "Guinea-Bissau", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Captured portion (to section 1.1.6) is a framework and feasibility-study deliverable of Feb-Jul 2024 and states no platform procured, built or in service; KONTAKTU is named only as the online tax filing and payment platform."
+}

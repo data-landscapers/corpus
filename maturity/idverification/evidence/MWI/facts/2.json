@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-26-mwi-nzika-wallet-laxton-biometric-contract",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Malawi24, citing the World Bank's November 2025 report, says development of a national electronic know-your-customer (eKYC) system for public and private sector services is among identity work heading to procurement.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "national eKYC system",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national eKYC system",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "World Bank-financed; National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Nzika Digital ID Wallet",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "smartphone app",
+   "owner": "National Registration Bureau; UNDP",
+   "tiers": ""
+  },
+  {
+   "system": "Bomalathu data-sharing platform",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

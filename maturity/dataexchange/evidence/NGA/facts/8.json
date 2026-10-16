@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-25-nin-contradiction-high-cost-of-false-integration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NIMC authentication platform (NIN)",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "NIN",
+      "owner": "NIMC",
+      "tiers": "national"
+    }
+  ],
+  "note": "Identity linkage by shared identifier, disputed as interoperability; no exchange platform named and no dated statement of absence."
+}

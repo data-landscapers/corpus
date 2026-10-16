@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-06-biometric-document-production-suspended-semlex-genkey-transition-alwatwan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric national ID card and passport production",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "Semlex to GenKey",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes production of the ID system's own documents being suspended during a provider change; no other system checks against the ID."
+}

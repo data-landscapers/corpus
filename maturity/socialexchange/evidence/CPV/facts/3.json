@@ -1,0 +1,10 @@
+{
+  "slug": "2018-09-20-cabo-verde-mfids-cadastro-social-unico-csu",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The ministry's page says the CSU, created by Decreto Regulamentar 7/2018, is the prior condition for access to public safety-net benefits such as social water and energy tariffs, school transport and kits, higher-education fee support and health user-fee exemption, and will be the reference database for municipalities, utilities, the health, education, housing and family ministries and the Centro Nacional de Pensões Sociais.", "as_of": "2018-09-20", "date_precision": "day", "system": "Cadastro Social Único (CSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Cadastro Social Único (CSU)", "country_label": "Cabo Verde", "class": "exchange", "platform": "", "owner": "Ministério da Família, Inclusão e Desenvolvimento Social (MFIDS), with municipal CSU services", "tiers": ""}
+  ],
+  "note": "The page carries no date; as_of is the founding decree's date (the story's published date)."
+}

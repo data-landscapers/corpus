@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The document says Eswatini's EMIS is driven by the Personal Identity Number, with individual-level learner and staff records, since national launch in March 2024 across all 976 primary and secondary schools; schools still submit PINs manually on claim forms for validation against Home Affairs records at regional offices, to be automated with SEMIS.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "EMIS (SEMIS)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS (SEMIS)",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Education and Training",
+   "tiers": "976 primary and secondary schools"
+  }
+ ],
+ "note": ""
+}

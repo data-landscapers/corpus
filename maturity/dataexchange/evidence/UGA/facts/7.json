@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-19-nita-u-integration-service-ughub",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "NITA-U's UGHub page states the integration platform is fully operational, connecting government systems for real-time data sharing; dated by the page's 2025-06-19 publication.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "UGHub (Uganda Government Integrated Hub)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The page states UGHub is fully operational and serves over 150 entities, with others onboarding; dated by page publication 2025-06-19.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "UGHub (Uganda Government Integrated Hub)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "WSO2",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

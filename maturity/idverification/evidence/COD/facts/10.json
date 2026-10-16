@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de l'Economie numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "RDC-Pass is the ID system itself; no other system is said to check against it."
+}

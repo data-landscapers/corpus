@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-ande-deploiement-plateforme-nationale-e-services",
+  "facts": [],
+  "systems": [
+    {"system": "e-Services", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ANDE", "tiers": ""}
+  ],
+  "note": "The e-Services platform is a citizen and business access portal for administrative services, not a data exchange between public bodies' systems."
+}

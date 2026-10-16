@@ -1,0 +1,10 @@
+{
+  "slug": "2020-01-01-sierra-leone-dsti-education-data-hub",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The DSTI Education Data Hub states that it currently connects the Annual School Census (Ministry of Basic and Senior Secondary Education, 2019) with the National Examination Results (West African Examinations Council, 2016-2019); the page gives no date, so as_of is its published year of 2020.", "as_of": "2020", "date_precision": "year", "system": "DSTI Education Data Hub", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DSTI Education Data Hub", "country_label": "Sierra Leone", "class": "exchange", "platform": "", "owner": "Directorate of Science, Technology and Innovation (DSTI)", "tiers": "national"}
+  ],
+  "note": ""
+}

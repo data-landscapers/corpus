@@ -1,0 +1,80 @@
+{
+ "slug": "2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NCC claimed in October 2024 that all active SIM cards in Nigeria had been identified and linked to the digital ID, per the article.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "SIM registration linked to NIN",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Nigeria is using the NIN to build a social register for distributing government cash support, and plans a farmers register.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Social register",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Secretary to the Government announced that access to all social services would henceforth be mandatorily tied to the NIN.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "NIN requirement for social services",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The article reports NIN linkage for SIM registration (telecoms) and a NIN requirement for social services and a social register (social protection).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "NIN use across telecoms and social services",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) / NIMC",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "SIM registration linked to NIN",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "NCC and telecom operators",
+   "tiers": ""
+  },
+  {
+   "system": "Social register",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Farmers register",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Facts dated to the article's published month where no event date is given, except the NCC claim (October 2024)."
+}

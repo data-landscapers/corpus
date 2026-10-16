@@ -1,0 +1,28 @@
+{
+  "slug": "2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "TUN": {
+          "facts": [],
+          "systems": [
+            {"system": "Plateforme d'interopérabilité", "country_label": "Tunisia", "class": "exchange", "platform": "", "owner": "Centre national de l'informatique (interoperability operator)", "tiers": ""}
+          ],
+          "note": "The decree-law defines the interoperability platform and names the CNI to set up and run it; it does not say a platform is built, piloted or live."
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "TUN": {
+          "facts": [],
+          "systems": [
+            {"system": "Registre de l'identifiant unique du citoyen", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+            {"system": "Plateforme d'interopérabilité", "country_label": "Tunisia", "class": "relying", "platform": "", "owner": "Centre national de l'informatique (interoperability operator)", "tiers": ""}
+          ],
+          "note": "Article 9 requires interoperability to use the citizen unique identifier register to identify persons; it is a legal requirement with no system stated as in use or being built."
+        }
+      }
+    }
+  }
+}

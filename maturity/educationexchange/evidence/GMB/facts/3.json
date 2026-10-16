@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-dhis2-education-gambia-implementation",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (aggregate data), DHIS2", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "national"},
+    {"system": "SEMIS App (individual learner module)", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "national, individual-level"}
+  ],
+  "note": "States an individual student identification number launched nationally in 2021 inside MoBSE's own DHIS2 EMIS; names no link to another education system, the national ID or another sector."
+}

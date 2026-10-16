@@ -1,0 +1,40 @@
+{
+ "slug": "2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no government data exchange platform."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital ID programme (BioEnable pilot)",
+       "country_label": "NER",
+       "class": "other",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "WURI Niger birth registration pilot, Filingue",
+       "country_label": "NER",
+       "class": "other",
+       "platform": "",
+       "owner": "WURI Niger project",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states no other system checking people against the national ID."
+    }
+   }
+  }
+ }
+}

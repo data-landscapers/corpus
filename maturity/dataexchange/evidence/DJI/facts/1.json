@@ -1,0 +1,10 @@
+{
+  "slug": "2023-04-30-ega-djibouti-digital-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The e-Governance Academy says its experts supported ANSIE in setting up a national data exchange layer and trained staff to deploy and work with the solution on national scale, in a project run May 2022 to April 2023 and marked finished; the page does not say the layer is live.", "as_of": "2023-04", "date_precision": "month", "system": "national data exchange layer", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "national data exchange layer", "country_label": "Djibouti", "class": "exchange", "platform": "", "owner": "ANSIE", "tiers": ""}
+  ],
+  "note": ""
+}

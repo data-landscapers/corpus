@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-itweb-nhi-telemedicine",
+  "facts": [],
+  "systems": [
+    {"system": "Health Patient Registration System", "country_label": "South Africa", "class": "other", "platform": "", "owner": "National Department of Health", "tiers": ""},
+    {"system": "Turn.io WhatsApp telemedicine", "country_label": "South Africa", "class": "other", "platform": "WhatsApp", "owner": "Turn.io", "tiers": ""}
+  ],
+  "note": "States only that the health department continues to work on the Health Patient Registration System, with no description of exchange between systems; the rest is WhatsApp telemedicine, which is out of the study's field."
+}

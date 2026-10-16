@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-12-ami-aoun-transferts-numeriques-taazour-cndd-gimtel",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The national social registry coordinator said the AOUN cash transfers will be paid under a partnership agreement between Taazour, the Caisse de Depot et de Developpement and GIMTEL, with beneficiaries from the registry notified electronically and paid to the number they choose.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "National social registry (Registre Social)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National social registry (Registre Social)",
+   "country_label": "Registre Social",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  },
+  {
+   "system": "GIMTEL",
+   "country_label": "GIMTEL",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Facts dated by the document's published date; the document gives the cash leg in future tense. Registry holds 352,000 households per the coordinator."
+}

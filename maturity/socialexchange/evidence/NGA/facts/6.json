@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-17-nitda-dpi-technical-standards-draft-v1-3",
+  "facts": [],
+  "systems": [
+    {"system": "Nigerian Data Exchange (NGDX)", "country_label": "Nigeria", "class": "other", "platform": "Three-layer exchange with security servers", "owner": "NITDA standard; operated by Galaxy Backbone Limited", "tiers": "national, sub-national, sectoral"}
+  ],
+  "note": "Draft technical standard for a general data exchange; it names social benefit payments only as a mobile service and states no social protection system link."
+}

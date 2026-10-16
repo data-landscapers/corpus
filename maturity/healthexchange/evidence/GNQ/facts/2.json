@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-04-evaluacion-trabajos-implantacion-seguro-medico-universal",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema informatizado del Seguro Médico Universal (SEMU)", "country_label": "Guinea Ecuatorial", "class": "other", "platform": "", "owner": "Ministerio de Sanidad / Comité de Pilotaje del SEMU", "tiers": "national"},
+    {"system": "Sistema Nacional de Información Sanitaria", "country_label": "Guinea Ecuatorial", "class": "", "platform": "", "owner": "Ministerio de Sanidad", "tiers": "national"}
+  ],
+  "note": "States a plan to digitalise SEMU functions and a computerised insurance system in preparation; it states no data exchange between systems."
+}

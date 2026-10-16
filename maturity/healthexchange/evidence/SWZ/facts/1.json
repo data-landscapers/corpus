@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-31-hmis-eswatini-cmis-dhis2-integration",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "HMIS Eswatini's Q1 2026 account says in-country developers completed OpenFn training, with automated FHIR-aligned data flows from the CMIS SQL Server environment into DHIS2 as the outcome.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "CMIS-DHIS2 data flows",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CMIS",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "SQL Server",
+   "owner": "Ministry of Health HMIS unit",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health HMIS unit",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

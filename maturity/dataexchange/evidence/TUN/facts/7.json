@@ -1,0 +1,15 @@
+{
+ "slug": "2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme d'interopérabilité",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Centre national de l'informatique (interoperability operator)",
+   "tiers": ""
+  }
+ ],
+ "note": "The implementing decree sets the operator's tasks, including putting the platform into service, and two committees; it states no platform built, piloted or live."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-10-szi-rtsa-government-service-bus",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "SMART Zambia Institute reports that RTSA driver's licence, road tax and vehicle registration applications are made through the Government Service Bus (Zamportal), which it says has removed queues.",
+   "as_of": "2024-09-10",
+   "date_precision": "day",
+   "system": "Government Service Bus (Zamportal)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus (Zamportal)",
+   "country_label": "Zambia",
+   "class": "exchange",
+   "platform": "Zamportal / gsb.gov.zm",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

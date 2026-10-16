@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-liberia-moh-validates-integrated-sample-referral-system-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Sample Referral System Framework", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Health, National Diagnostics Division", "tiers": ""}
+  ],
+  "note": "A validated framework for laboratory sample transport and referral, not yet adopted; it states no exchange of data between health information systems."
+}

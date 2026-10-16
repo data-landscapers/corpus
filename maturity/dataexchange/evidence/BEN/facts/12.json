@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade",
+  "facts": [],
+  "systems": [
+    {"system": "SECUROUTE", "country_label": "Benin", "class": "other", "platform": "", "owner": "Government of Benin (Ministry of Economy and Finance, with Ministry of Transport, National Police and road safety agencies)", "tiers": ""}
+  ],
+  "note": "SECUROUTE is described as a road-enforcement data platform, a single-sector system and not a national data exchange layer, so it gives no fact of class exchange."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-uganda-crackdown-telecoms-vandalism",
+  "facts": [],
+  "systems": [
+    {"system": "SIM card registration", "country_label": "Uganda", "class": "", "platform": "", "owner": "UCC", "tiers": ""}
+  ],
+  "note": "States SIM registration rules are enforced (an Airtel agent jailed for registering outside an approved point) but not that registration checks the national ID."
+}

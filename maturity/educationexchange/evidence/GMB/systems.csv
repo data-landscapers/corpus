@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,Education Management Information System (EMIS),Gambia,exchange,,Ministry of Basic and Secondary Education,,2026-07-01-mobse-health-ministry-data-systems
+GMB,national EMIS,The Gambia,other,DHIS2,Ministry of Basic and Secondary Education,"school, regional, central",2026-05-04-gpe-kix-study-tour-education-data-system
+GMB,"EMIS (aggregate data), DHIS2",The Gambia,other,DHIS2,MoBSE,national,2025-01-01-dhis2-education-gambia-implementation
+GMB,SEMIS App (individual learner module),The Gambia,other,DHIS2,MoBSE,"national, individual-level",2025-01-01-dhis2-education-gambia-implementation
+GMB,DHIS2-based Education Management Information System (Tracker),The Gambia,other,DHIS2,MoBSE,basic and secondary education,2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story
+GMB,Teacher Attendance System (SMS-based),The Gambia,other,DHIS2,MoBSE,regional and national reporting,2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story
+GMB,School Report Card (digitised),The Gambia,other,DHIS2,MoBSE,school,2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story
+GMB,"EMIS (Annual School Census, aggregated, paper-based)",The Gambia,other,,MoBSE,central,2022-10-01-dhis2-education-gambia-country-use-case-emis-shift
+GMB,DHIS2 for Education EMIS,The Gambia,other,DHIS2,MoBSE,"central, regional",2022-10-01-dhis2-education-gambia-country-use-case-emis-shift
+GMB,School Report Card,The Gambia,other,DHIS2,MoBSE,sub-national and school,2022-10-01-dhis2-education-gambia-country-use-case-emis-shift
+GMB,EMIS,The Gambia,other,,Ministry of Basic and Secondary Education,individual-level learner and teacher data,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+GMB,"Education Data Centre (EDC), DHIS2-Ed",Gambia,other,DHIS2-Ed,MoBSE,,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix
+GMB,Digital student registry,Gambia,other,DHIS2-Ed,MoBSE,,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix
+GMB,DHIS2-Ed School-based EMIS (SEMIS),Gambia,other,DHIS2-Ed,MoBSE,,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix
+GMB,DHIS2 for Education (DHIS2-Ed),Gambia,other,DHIS2,Ministry of Basic and Secondary Education,,2026-01-30 The Gambia charts a path to data-driven education with DHIS2
+GMB,Higher Education Management Information System (HEMIS),Gambia,other,,,,2025-11-29-worldbank-gambia-rise-project-isr05520

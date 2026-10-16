@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,X-Road,Mozambique,exchange,X-Road,ATDI,,2026-10-09-moz-mznews-atdi-x-road-training
+MOZ,Plataforma de Interoperabilidade (SIS-MA),Mozambique,exchange,DHIS2-based SIS-MA with intermediary API and Master Facility List,"Ministry of Health (MISAU), Departamento de Informação para Saúde",,2026-08-28-sisma-interoperability-platform
+MOZ,Ferramenta Central,Mozambique,other,,Central de Medicamentos e Artigos Médicos (CMAM),,2026-08-28-sisma-interoperability-platform
+MOZ,SIRCEV,Mozambique,other,,Ministry of Justice,,2026-08-28-sisma-interoperability-platform
+MOZ,interoperability platform (ATDI),Mozambique,exchange,,Digital Transformation and Innovation Agency (ATDI),,2026-09-24-moz-ecofinagency-unified-digital-platform
+MOZ,Portal do Cidadão,Mozambique,other,,,,2026-09-24-moz-ecofinagency-unified-digital-platform
+MOZ,Interoperability Platform (X-Road),Mozambique,exchange,X-Road,"Digital Transformation and Innovation Agency (ATDI, IP)",,2026-05-29-atdi-mobile-digital-id-tender
+MOZ,National mobile digital identity and e-signature ecosystem,Mozambique,other,,"ATDI, IP",,2026-05-29-atdi-mobile-digital-id-tender
+MOZ,interoperability platform,Mozambique,exchange,,ATDI,,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,Citizen Portal,Mozambique,other,,ATDI,,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,national mobile digital ID,Mozambique,other,,"ATDI, World Bank EDGE",,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist
+MOZ,X-Road interoperability infrastructure,Mozambique,exchange,X-Road,ATDI,,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
+MOZ,X-Road Interoperability Platform,Mozambique,exchange,X-Road,ATDI,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
+MOZ,National mobile digital identity and electronic signature infrastructure,Mozambique,other,,,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique

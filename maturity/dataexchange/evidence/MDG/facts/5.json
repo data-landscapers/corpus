@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "L'Express reports that the Rahaka national exchange system is already operational at five bodies, EDBM, CNaPS, Instat, the Ministry of Justice and the Direction generale des Impots, at the 28 April 2026 launch.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Rahaka",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rahaka",
+   "country_label": "Madagascar",
+   "class": "exchange",
+   "platform": "PRODIGY (World Bank) support",
+   "owner": "Unite de Gouvernance Digitale (UGD)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

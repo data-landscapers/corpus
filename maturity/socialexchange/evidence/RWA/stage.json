@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "5",
+   "exchange": "inservice",
+   "registry": "shared",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-009;RWA-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+  }
+ ]
+}

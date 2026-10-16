@@ -1,0 +1,15 @@
+{
+  "slug": "2006-10-18-mali-decret-06-442-modalites-application-nina",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NINA (Numéro d'Identification Nationale)",
+      "country_label": "Mali",
+      "class": "other",
+      "platform": "répertoire national",
+      "owner": "service national chargé de la statistique",
+      "tiers": ""
+    }
+  ],
+  "note": "Decree obliges listed services to use and cite the NINA but states no check of people against it; 2006, outside three years."
+}

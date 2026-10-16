@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-kenya-the-principles-in-action",
+  "facts": [],
+  "systems": [
+    {"system": "KeHMIS interoperability layer", "country_label": "Kenya", "class": "other", "platform": "OpenHIE framework", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "The only exchange layer described is a health-programme interoperability layer (eight connected systems, 2022 report, no month), a single ministry's sector integration and so class other; no national government exchange platform is stated."
+}

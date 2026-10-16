@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-26-mwi-dhis2-climate-health-surveillance-project",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "A Ministry of Health project, begun December 2025 and running to March 2027 with GIZ and HISP UNIMA, is deploying climate and health tools on the DHIS2-based HMIS and One Health surveillance platform and facilitating interoperability with the WHO-supported national EWARS system, initially in four districts.", "as_of": "2026-02-10", "date_precision": "day", "system": "DHIS2-based HMIS, One Health Surveillance Platform and national EWARS interoperability", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2-based health management information system (HMIS)", "country_label": "Malawi", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "One Health Surveillance Platform (OHSP)", "country_label": "Malawi", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Early Warning, Alert and Response (EWARS) system", "country_label": "Malawi", "class": "other", "platform": "", "owner": "supported by WHO", "tiers": ""}
+  ],
+  "note": ""
+}

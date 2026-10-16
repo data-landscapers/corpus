@@ -1,0 +1,42 @@
+{
+  "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "NER": {
+          "facts": [],
+          "systems": [
+            {"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "other", "platform": "World Bank WURI project", "owner": "ANEI", "tiers": "to be interoperable with civil status and nationality registers"}
+          ],
+          "note": "The population register is an ID and registry system said to be interoperable with other registers once built; no data exchange platform between public bodies is described."
+        }
+      }
+    },
+    "educationexchange": {
+      "countries": {
+        "NER": {
+          "facts": [],
+          "systems": [],
+          "note": "The document names no education system; school enrolment appears only as an occasion needing an ID document."
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "NER": {
+          "facts": [
+            {"sub_indicator": "use", "aspect": "use", "value": "underway",
+             "fact": "The WURI Niger project says it is developing a National Population Register meant to identify and authenticate anyone requesting public or private services that require prior identification, with a first enrolment phase in Niamey's five arrondissements to start in the coming weeks.",
+             "as_of": "2026-07-27", "date_precision": "day", "system": "Registre National de la Population (RNP)", "class": "relying"}
+          ],
+          "systems": [
+            {"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "relying", "platform": "World Bank WURI project", "owner": "ANEI", "tiers": "public and private services requiring identification"},
+            {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "Niger", "class": "other", "platform": "", "owner": "Direction Générale de l'état civil, des migrations et des réfugiés", "tiers": ""},
+            {"system": "Registre National des Nationalités (RNN)", "country_label": "Niger", "class": "other", "platform": "", "owner": "Ministère de la justice", "tiers": ""}
+          ],
+          "note": "Date is the document's published date; no named service yet checks against the ID."
+        }
+      }
+    }
+  }
+}

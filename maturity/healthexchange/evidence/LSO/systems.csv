@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,LEAD,Lesotho,,,FHI 360 EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,Infolink,Lesotho,,,FHI 360 EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,DHIS2 Tracker,Lesotho,other,DHIS2,FHI 360 EpiC Lesotho project,project sites,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,National DHIS2 platform,Lesotho,other,DHIS2,Ministry of Health,national,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,DHIS2,Lesotho,other,DHIS2,Ministry of Health,,2026-04-09-who-lesotho-2025-annual-report
+LSO,DORIS (Digital Online Reporting and Information System),Lesotho,other,,Ministry of Health,,2026-04-09-who-lesotho-2025-annual-report
+LSO,LMIS (Logistics Management Information System),Lesotho,other,,,,2026-04-09-who-lesotho-2025-annual-report
+LSO,eRegister,Lesotho,other,,Ministry of Health with implementing partners (ICAP funds it),four health centres and two hospitals piloted; 178 government facilities planned,2025-11-01-bmj-open-eregister-data-use-midwifery-lesotho
+LSO,District health information management system,Lesotho,other,,Ministry of Health,district,2025-11-01-bmj-open-eregister-data-use-midwifery-lesotho
+LSO,eRegister,Lesotho,other,"open-source client-level electronic register for HIV, TB and MCH services",Ministry of Health,facility,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho
+LSO,DHIS2,Lesotho,other,District Health Information Software 2,Ministry of Health (PEPFAR-supported since 2015),national,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho
+LSO,Hospital-based EMR,Lesotho,other,,Ministry of Health,16 public hospitals,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho
+LSO,eRegister integration with national DHIS2,Lesotho,exchange,,Ministry of Health,,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho

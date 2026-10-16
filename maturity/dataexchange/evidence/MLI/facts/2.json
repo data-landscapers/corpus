@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-30-lessor-agetic-intranet-point-ml",
+  "facts": [],
+  "systems": [
+    {"system": "Intranet gouvernemental", "country_label": "Mali", "class": "other", "platform": "private secured government network", "owner": "AGETIC", "tiers": ""},
+    {"system": "Single-window portal of digitalised public services", "country_label": "Mali", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Government messaging system", "country_label": "Mali", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": "The government Intranet is a network and the portal a citizen services window; the document describes no platform carrying data between public bodies' systems."
+}

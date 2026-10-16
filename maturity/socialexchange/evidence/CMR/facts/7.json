@@ -1,0 +1,17 @@
+{
+  "slug": "2022-01-04-cameroon-adaptive-safety-nets-economic-inclusion-project-pid-p175363",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank appraisal document says the Unified Social Registry information system, to be built under MINAS with project funds, will consolidate the existing databases of the Social Safety Nets Project, the Cash for Education Program, the Caisse Nationale de Prevoyance Sociale and the World Food Programme, with a pilot registry running since 2015 in 15 communes and 64,424 individuals.",
+     "as_of": "2021-11", "date_precision": "month", "system": "Unified Social Registry (USR)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The document says a digital payment system for safety net benefits is to be designed and piloted in two or three communes, with financial service providers required to supply an API to monitor payments in real time, building on a digital payment pilot under the COVID-19 urban emergency response.",
+     "as_of": "2021-11", "date_precision": "month", "system": "Digital payment system (Adaptive Safety Nets and Economic Inclusion Project)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Unified Social Registry (USR)", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "Ministry of Social Affairs (MINAS)", "tiers": ""},
+    {"system": "Digital payment system (Adaptive Safety Nets and Economic Inclusion Project)", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "Project, with financial service providers", "tiers": ""},
+    {"system": "SSNP management information system", "country_label": "Cameroon", "class": "exchange", "platform": "", "owner": "Social Safety Nets Project", "tiers": ""}
+  ],
+  "note": ""
+}

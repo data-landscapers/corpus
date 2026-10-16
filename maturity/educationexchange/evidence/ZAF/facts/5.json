@@ -1,0 +1,8 @@
+{
+  "slug": "2011-06-06-sc009-standard-for-data-coding",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (Education Management Information Systems, Department of Basic Education)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Department of Basic Education", "tiers": "national"}
+  ],
+  "note": "A 2011 gazetted data-coding standard with national EMIS institution numbers; it states no link in service or under way between education systems, so it gives no fact."
+}

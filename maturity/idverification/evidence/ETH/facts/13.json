@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MESOB, the one-stop government service platform, uses Fayda as its authentication backbone, and citizens validate identity to access its services.",
+   "as_of": "2025-07-12",
+   "date_precision": "day",
+   "system": "MESOB",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "MOSIP/NIDP report MESOB gives access to 41 services across 12 federal institutions and serves 55 providers, all authenticated through Fayda.",
+   "as_of": "2025-07-12",
+   "date_precision": "day",
+   "system": "MESOB",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  },
+  {
+   "system": "MESOB",
+   "country_label": "Ethiopia",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date; the document gives no event date."
+}

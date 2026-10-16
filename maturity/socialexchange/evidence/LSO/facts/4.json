@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "UNICEF reports the tablet-based digital birth registration system under the Ntlafatsa Bana project, launched at Ha-Tankele, is integrated with NISSA, Lesotho's national social assistance database, in real time.", "as_of": "2025-06-19", "date_precision": "day", "system": "NISSA", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "NISSA", "country_label": "Lesotho", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital birth registration system (Ntlafatsa Bana)", "country_label": "Lesotho", "class": "other", "platform": "tablet-based", "owner": "Government of Lesotho, EU and UNICEF project", "tiers": ""}
+  ],
+  "note": "as_of is the document's published date; it gives no earlier date for the integration."
+}

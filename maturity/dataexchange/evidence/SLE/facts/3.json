@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The Ministry of Finance's 20 May 2026 expression-of-interest notice requires the rollout firm to ensure data exchange between MOPTAX and CGMRS and integration with the Government Service Bus, and refers to emerging national interoperability standards including the GSB.", "as_of": "2026-05-20", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The notice describes the Municipal Property Tax System as integrating with the councils' PFM Smart accounting software through the X-Road platform, first deployed in Kenema City Council as a pilot, with rollout to Bo and Koidu and then all 22 councils intended.", "as_of": "2026-05-20", "date_precision": "day", "system": "X-Road platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus", "country_label": "Sierra Leone", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "X-Road platform", "country_label": "Sierra Leone", "class": "exchange", "platform": "X-Road", "owner": "", "tiers": ""},
+    {"system": "Municipal Property Tax System (MOPTAX 2.0, CGMRS)", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": ""
+}

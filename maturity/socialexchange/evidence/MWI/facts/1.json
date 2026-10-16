@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-23-giz-social-registry-dynamism-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Malawi Social Registry",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Department of Poverty Reduction and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": "States a six-month pilot of on-demand household updates via district offices, USSD *432# and village committees in Balaka and Dowa; no link to another system or shared use by programmes is stated."
+}

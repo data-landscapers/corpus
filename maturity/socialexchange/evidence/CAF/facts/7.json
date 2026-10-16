@@ -1,0 +1,14 @@
+{
+  "slug": "2024-05-02-worldbank-car-safety-nets-pad-rsu",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank appraisal says the Unified Social Registry (RSU), begun in 2018, is delayed, and the Safety Nets Project will fund its management information system, with a beneficiary operations system (BOMS) whose household data will be fed into the RSU and a digital payment platform for safety net programmes.",
+     "as_of": "2024-05-02", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "Central African Republic", "class": "exchange", "platform": "", "owner": "MAHSRN (coordination committee); institutional anchorage has changed", "tiers": ""},
+    {"system": "Beneficiary Operations Management System (BOMS)", "country_label": "Central African Republic", "class": "exchange", "platform": "", "owner": "Safety nets project implementation unit under MAHSRN", "tiers": ""},
+    {"system": "Digital payment platform for safety net programmes", "country_label": "Central African Republic", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The as_of is the document's publication date, since the planned links carry no other date; no shared-registry use or ID link is stated as in service."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2016-07-01-stp-telanon-ministerio-educacao-lancou-sige",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "STP", "class": "other", "platform": "", "owner": "Ministry of Education, Science and Culture", "tiers": ""}
+  ],
+  "note": "Launch of SIGE as a single school-management database (library, statistics, secretariat, parts of finance); it states no exchange with another education system, so class other and no fact."
+}

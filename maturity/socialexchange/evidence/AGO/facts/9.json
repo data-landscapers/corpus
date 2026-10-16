@@ -1,0 +1,8 @@
+{
+  "slug": "2019-06-28 World Bank - Strengthening the National Social Protection System Project (Angola)",
+  "facts": [],
+  "systems": [
+    {"system": "Kwenda cash-transfer programme", "country_label": "Angola", "class": "other", "platform": "", "owner": "FAS", "tiers": ""}
+  ],
+  "note": "The captured page is a short stub: it says the project builds a social registry and digital payment rails but gives no link, exchange or data flow between named systems."
+}

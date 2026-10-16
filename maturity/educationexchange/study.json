@@ -1,0 +1,112 @@
+{
+ "id": "educationexchange",
+ "study_file": "maturity-study-educationexchange.md",
+ "pass": "first",
+ "subjects": [
+  "dpi.exchange",
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.exchange",
+ "redraws": [
+  "dpi.exchange--interoperability-of-education-systems"
+ ],
+ "carry": [
+  "dpi.exchange--interoperability-of-education-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "EMIS",
+  "education management information system",
+  "learner identification number",
+  "learner ID",
+  "unique learner",
+  "student identification number",
+  "unique student identifier",
+  "learner number",
+  "UPI number",
+  "learner registration",
+  "learner database",
+  "student database",
+  "NEMIS",
+  "SA-SAMS",
+  "LURITS",
+  "système d'information de gestion de l'éducation",
+  "SIGE",
+  "identifiant unique de l'élève",
+  "identifiant national de l'élève",
+  "matricule de l'élève",
+  "numéro d'identification de l'élève",
+  "sistema de informação de gestão da educação",
+  "número de identificação do aluno",
+  "نظام معلومات إدارة التعليم",
+  "الرقم القومي للطالب"
+ ],
+ "sub_indicators": [
+  {
+   "key": "exchange",
+   "label": "Interoperability of education systems",
+   "subject": "dpi.exchange",
+   "text": "Interoperability of education systems: interoperability of education systems",
+   "indicator_id": "dpi.exchange--interoperability-of-education-systems-interoperability-of-education-systems",
+   "class": "exchange",
+   "norm_short": "The African Union's Digital Education Strategy asks for an individual, identifier-based education management information system linked to the national ID and other sectors.",
+   "criteria": [
+    "A source from the past three years says the country's education systems exchange no data.",
+    "A link between two education systems is contracted, being built or piloted.",
+    "Two education systems exchange data in use: the EMIS with the examinations body, teacher payroll or learner registration.",
+    "Learners carry a unique identifier used by two or more education systems.",
+    "Learner records are linked to the national ID, civil registration, health or social protection."
+   ],
+   "criteria_of": "c0d2194b5be3"
+  }
+ ],
+ "classes": [
+  "exchange",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "exchange",
+   "name": "Education systems exchanging data",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "learnerid",
+   "name": "One learner identifier across education systems",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "shared"
+   ],
+   "values": [
+    "shared"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked to the national ID or another sector",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

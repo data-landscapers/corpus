@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The World Bank reports that the Malawi Digital Foundations Project (2017-2024, P160533) built a data-exchange platform called Bomalathu, with no statement that it is live or of what it connects.", "as_of": "2024", "date_precision": "year", "system": "Bomalathu", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Bomalathu", "country_label": "Malawi", "class": "exchange", "platform": "data-exchange platform", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

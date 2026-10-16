@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-28-ubos-baseline-education-census-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Baseline Education Census portal", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Uganda Bureau of Statistics with the Ministry of Education and Sports", "tiers": "national to parish"}
+  ],
+  "note": "States a school census dissemination portal (13,575,145 learners, 88,242 schools); no link or data exchange between education systems, no learner identifier, no link to national ID."
+}

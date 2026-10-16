@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-sierra-leone-nacsa-statistics-sl-amended-mou-sprint",
+  "facts": [],
+  "systems": [
+    {"system": "Social Protection Registry for Integrated National Targeting (SPRINT)", "country_label": "Sierra Leone", "class": "exchange", "platform": "", "owner": "NaCSA", "tiers": ""}
+  ],
+  "note": "The MoU between NaCSA and Statistics Sierra Leone is a data collaboration for the PSSNYE project to expand SPRINT; it states no link to the national ID, a payment provider or another programme, and no programmes drawing on a shared registry."
+}

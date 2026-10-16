@@ -1,0 +1,10 @@
+{
+  "slug": "2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The e-Governance Academy says its project, run October 2014 to December 2016, delivered an X-Road-based interoperability framework using Cybernetica's UXP technology to connect government databases, in three stages ending in full-scale implementation; it does not say the platform was in service.", "as_of": "2016-12", "date_precision": "month", "system": "Namibia governmental interoperability solution (X-Road/UXP)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Namibia governmental interoperability solution (X-Road/UXP)", "country_label": "Namibia", "class": "exchange", "platform": "Cybernetica UXP (X-Road based)", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

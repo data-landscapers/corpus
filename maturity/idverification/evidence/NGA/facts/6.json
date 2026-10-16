@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification",
+  "facts": [],
+  "systems": [
+    {"system": "NINAuth", "country_label": "Nigeria", "class": "other", "platform": "web, API and mobile app", "owner": "National Identity Management Commission (NIMC)", "tiers": ""}
+  ],
+  "note": "NINAuth is the ID system's own verification platform; the services named (SIM registration, tax, social protection) are listed as uses it is meant for, with no named relying system or date of use."
+}

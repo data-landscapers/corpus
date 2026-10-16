@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-11 UXP Directory",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The Government of Benin's national data-exchange dashboard shows an instance with 138,174,337 total requests exchanged, including 32,685,727 in the last 30 days.", "as_of": "2026-07-11", "date_precision": "day", "system": "UXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The dashboard says the instance has 73 members, 176 information systems and 512 services, with ANATT, ANIP and DGI the top providers.", "as_of": "2026-07-11", "date_precision": "day", "system": "UXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026.", "as_of": "2026-07-11", "date_precision": "day", "system": "UXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UXP", "country_label": "Benin", "class": "exchange", "platform": "UXP", "owner": "Government of Benin", "tiers": ""}
+  ],
+  "note": ""
+}

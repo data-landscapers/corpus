@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-11-niger-population-registry-legal-texts-tour",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior (ANEI to administer)",
+   "tiers": ""
+  },
+  {
+   "system": "Carte nationale d'identité biométrique (CNIB)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Nationalités (RNN)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Only future plans: the RNP is to be interoperable so public and private services can authenticate users; no named service is said to check people against the ID yet."
+}

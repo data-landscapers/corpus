@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MRT,exchange,exchange,coverage,inservice,2026-06,MRT-002;MRT-010,MRT-001=underway;MRT-006=underway;MRT-003=underway;MRT-007=underway;MRT-004=underway;MRT-009=underway,
+MRT,exchange,registry,coverage,shared,2025-03-15,MRT-005;MRT-008;MRT-011,,
+MRT,exchange,linked,coverage,,,,,nothing held

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-21-registre-social-unique-protection-vulnerables",
+  "facts": [],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "Benin", "class": "exchange", "platform": "", "owner": "Conseil des ministres / government of Benin", "tiers": "non pauvres; pauvres non extrêmes; pauvres extrêmes"},
+    {"system": "ARCH (Assurance pour le renforcement du capital humain)", "country_label": "Benin", "class": "other", "platform": "", "owner": "government of Benin", "tiers": ""},
+    {"system": "Gbessoké productive social safety nets programme 2023-2026", "country_label": "Benin", "class": "other", "platform": "", "owner": "government of Benin", "tiers": ""}
+  ],
+  "note": "The article says the RSU was created by the Conseil des ministres (date not given, 'mardi dernier') and is being set up as a single database for programmes to draw on, but states no link to the ID, a payment provider or another programme and no programme drawing on it yet."
+}

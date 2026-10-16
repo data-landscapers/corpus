@@ -1,0 +1,52 @@
+{
+ "slug": "2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The PDEX page says all integrations of the Consular Portal with the civil identification system run through PDEX, giving access to citizens' data; it does not say the portal verifies people.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Portal Consular de Cabo Verde",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The PDEX page says public and private entities already use the citizen data validation APIs on PDEX in their digital processes; it names no entity and gives no count.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Citizen and company data validation APIs",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PDEX",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "API publication and subscription platform",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Portal Consular de Cabo Verde",
+   "country_label": "Cabo Verde",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Citizen and company data validation APIs",
+   "country_label": "Cabo Verde",
+   "class": "relying",
+   "platform": "PDEX",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The page carries no date; as_of is the published year, inferred."
+}

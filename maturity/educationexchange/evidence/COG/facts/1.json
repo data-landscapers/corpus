@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-congo-modernize-education-data-systems-au-iped",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Republic of Congo", "class": "other", "platform": "", "owner": "Ministry of Preschool, Primary, Secondary Education and Literacy", "tiers": ""}
+  ],
+  "note": "States only a 19-21 May 2026 AU-IPED workshop on the state of the EMIS and that DHIS2 could be considered; no link between education systems is stated."
+}

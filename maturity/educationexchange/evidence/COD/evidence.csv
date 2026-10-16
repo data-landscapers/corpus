@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,exchange,exchange,none,"The SERNIE director writes that other education departments in the DRC collect teacher and school-infrastructure data separately from SERNIE's learner records, with no link between them stated.",2026-08-04,day,Departmental education data collections (SERNIE learner data; teacher and infrastructure data),exchange,2026-08-04-corus-eduser-pilote-kasai-donnees-education,https://corusinternational.org/fr/blog/2026/case-scaling-education-data-drc

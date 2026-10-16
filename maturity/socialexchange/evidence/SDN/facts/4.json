@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-28-sudan-family-support-project-icr-worldbank",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The World Bank's completion report dated 28 February 2025 is catalogued as stating that the project MIS held a data-sharing platform linked to the National Civil Registry via API and to payment providers, but the captured text stops before that narrative, so the date used is the report's published date.",
+   "as_of": "2025-02-28",
+   "date_precision": "day",
+   "system": "Sudan Family Support Project MIS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan Family Support Project MIS",
+   "country_label": "Sudan",
+   "class": "exchange",
+   "platform": "data-sharing platform",
+   "owner": "Ministry of Finance and Economic Planning",
+   "tiers": ""
+  }
+ ],
+ "note": "Captured text is the datasheet only; the link is stated in the record's own note, not in the body, so the fact rests on that note."
+}

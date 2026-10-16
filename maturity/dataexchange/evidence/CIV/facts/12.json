@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The Minister of Digital Transition launched a public-administration interoperability platform in Abidjan on 25 September 2025 for data exchange between state information systems, built on Cybernetica's UXP and commissioned from SNDI, with a 20-month implementation alongside Digital Afrique Telecom; the document does not say it is carrying data between named bodies.",
+     "as_of": "2025-09-25", "date_precision": "day",
+     "system": "Public-administration interoperability platform (UXP)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Public-administration interoperability platform (UXP)", "country_label": "Côte d'Ivoire", "class": "exchange", "platform": "Cybernetica UXP (X-Road family)", "owner": "Ministry of Digital Transition and Digitalization; SNDI commissioned", "tiers": ""}
+  ],
+  "note": ""
+}

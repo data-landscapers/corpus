@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-19-gpe-eri-001-eritrea-emis-system-transformation-grant",
+  "facts": [],
+  "systems": [
+    {"system": "national EMIS", "country_label": "Eritrea", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "The document funds EMIS strengthening (routine data collection, processing, storage, use) and states no exchange with another education system, shared learner identifier or link to national ID or another sector."
+}

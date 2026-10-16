@@ -1,0 +1,12 @@
+{
+  "slug": "2019-07-16-world-bank-ago-2019-strengthening-national-social-protection-system",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The record, citing the World Bank status report of 25 October 2024, says the Cadastro Social Unico was still not operational as of mid-2024 and MASFAMU's SIGAS registry was available in all 54 CASIs in its place.", "as_of": "2024-10-25", "date_precision": "day", "system": "Cadastro Social Unico", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Cadastro Social Unico", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU", "tiers": ""},
+    {"system": "Kwenda programme Management Information System", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU / FAS-IDL", "tiers": ""},
+    {"system": "SIGAS", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU", "tiers": "54 CASIs"}
+  ],
+  "note": "as_of is the document's own 2024-10-25 development-history date, not the event date, which it gives only as 'mid-2024'."
+}

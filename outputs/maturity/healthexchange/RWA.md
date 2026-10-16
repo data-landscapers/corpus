@@ -1,0 +1,13 @@
+# Rwanda
+
+## Interoperability of health systems
+
+**Health systems exchanging data.** [KT Press reports that the National Health Intelligence Center centralizes, processes and analyzes health data from hospitals, health centers and community health workers, and in its first year contributed to faster ambulance dispatch and disease surveillance, according to the Ministry of Health](<https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/>). [The Rwanda Biomedical Centre says Pandemic Fund board members were shown, at the National Health Intelligence Center, the integration of laboratory information systems with indicator-based surveillance, with several data streams converging in one platform](<https://rbc.gov.rw/SPPROHRWANDA/pandemic-fund-board-visits-rwandas-national-health-intelligence-center-to-witness-digital-surveillance-innovations/>).
+
+**Exchange across the health system.** [The Tony Blair Institute says the National Health Intelligence Center integrates real-time data from hospitals, health centres, supply chains, workforce management and other sources across the health system](<https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care>).
+
+**Patients matched by a national identifier.** No source held since October 2023 says patient records are linked through the national ID or a national health identifier. The nearest held fact: [the one given above](<https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care>).
+
+***Noted, not assessed***. [Integrated Health Management Information System](<https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care>); [e-Buzima](<https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care>); [IMPURUZA](<https://rbc.gov.rw/SPPROHRWANDA/pandemic-fund-board-visits-rwandas-national-health-intelligence-center-to-witness-digital-surveillance-innovations/>); [Laboratory information systems](<https://rbc.gov.rw/SPPROHRWANDA/pandemic-fund-board-visits-rwandas-national-health-intelligence-center-to-witness-digital-surveillance-innovations/>); [eBuzima](<https://cquin.icap.columbia.edu/wp-content/uploads/2026/04/Rwandas-eBuzima-EMR_KP-and-PrEP-Modules_Zephanie_Final.pdf>); [DHIS2](<https://cquin.icap.columbia.edu/wp-content/uploads/2026/04/Rwandas-eBuzima-EMR_KP-and-PrEP-Modules_Zephanie_Final.pdf>).
+
+***Not held***. No source held since October 2023 says patient records are linked through the national ID or a national health identifier.

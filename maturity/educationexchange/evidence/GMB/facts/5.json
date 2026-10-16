@@ -1,0 +1,12 @@
+{
+  "slug": "2022-10-01-dhis2-education-gambia-country-use-case-emis-shift",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The University of Oslo DHIS2 for Education country use case says separate databases for HR, examinations and infrastructure exist, with no comprehensive database bringing different data sources together for cross-analysis and planning.", "as_of": "2022-10", "date_precision": "month", "system": "Fragmented HR, examinations and infrastructure databases alongside the paper-based Annual School Census EMIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EMIS (Annual School Census, aggregated, paper-based)", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "MoBSE", "tiers": "central"},
+    {"system": "DHIS2 for Education EMIS", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "central, regional"},
+    {"system": "School Report Card", "country_label": "The Gambia", "class": "other", "platform": "DHIS2", "owner": "MoBSE", "tiers": "sub-national and school"}
+  ],
+  "note": ""
+}

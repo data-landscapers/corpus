@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,GOTHOMIS (Government of Tanzania Health Operations Management Information System),Tanzania,other,,Government of Tanzania (PORALG),"facility; used in over 3,500 facilities",2025-08-01-path-digital-innovation-pandemic-control-tanzania
+TZA,DHIS2,Tanzania,other,DHIS2,Ministry of Health Tanzania,,2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity
+TZA,Health Data Universal API (HDU API) integrated EMR system,Tanzania,exchange,HDU API,Ministry of Health,"district, regional referral, zonal, specialised and national hospitals",2026-10-13-tza-thecitizen-222-health-facilities-digital-records
+TZA,Health Data Centre (Kituo cha Taifa cha Takwimu za Afya),Tanzania,exchange,,Ministry of Health,national,2026-09-09-tza-moh-sekta-binafsi-interoperability-national-health-data-centre
+TZA,Afya-Tek,Tanzania,other,,Ministry of Health,community,2026-09-01-thecitizen-tanzania-digital-health-procurement
+TZA,Electronic prescription system,Tanzania,exchange,,Ministry of Health,public and private providers,2026-09-01-thecitizen-tanzania-korea-ai-healthcare
+TZA,national interoperability platform,Tanzania,exchange,,Ministry of Health,"national, about 220 facilities",2026-05-19-mageuzi-ya-kidijitali-katika-sekta-ya-afya-tanzania-yashika-kasi
+TZA,DHIS2,Tanzania,other,DHIS2,,central and subnational data offices,2025-12-01-impulse-erhis-newborn-data-functionalities
+TZA,Integrated electronic medical records system,Tanzania,exchange,,Ministry of Health,"community, health centres, district hospitals, national",2025-10-02-matumizi-ya-data-na-teknolojia-yaimarisha-huduma-za-afya-nchini
+TZA,M-Mama,Tanzania,other,,Ministry of Health,"national, all regions",2025-10-02-matumizi-ya-data-na-teknolojia-yaimarisha-huduma-za-afya-nchini

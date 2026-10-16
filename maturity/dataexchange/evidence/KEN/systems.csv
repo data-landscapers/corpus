@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,interoperability platform,Kenya,exchange,,State Department for ICT and the Digital Economy,national,2026-09-23-ken-techweez-manual-backend-interoperability
+KEN,Government Enterprise Architecture,Kenya,other,,,national,2026-09-23-ken-techweez-manual-backend-interoperability
+KEN,interoperability platform (X-Road test environment),Kenya,exchange,X-Road (GovStack information mediator building block),Ministry of ICT; ICT Authority,national,2026-01-20-cybernetica-piloted-interoperability-platform-kenya
+KEN,KeHMIS interoperability layer,Kenya,other,OpenHIE framework,Ministry of Health,national,2022-01-01-kenya-the-principles-in-action
+KEN,Enterprise Platform,Kenya,exchange,secure APIs,State Department for ICT and the Digital Economy,,2026-09-23-ken-techtrendske-state-plans-unified-platform
+KEN,Development Partners Management Information System (DPMIS),Kenya,other,,National Treasury,,2026-08-17-kenya-treasury-dpmis-development-partner-tracking
+KEN,KNPHI ERP,Kenya,other,,Kenya National Public Health Institute,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,KNPHI LIMS,Kenya,other,,Kenya National Public Health Institute,,2026-07-27-kenya-moh-knphi-lims-addendum-interoperability-specifications

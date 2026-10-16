@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-01-who-his-maturity-assessment-south-sudan",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The WHO and Ministry of Health assessment states DHIS2 runs at national and district level and that integration of health programme data into it is in progress, which it calls a gap in system unification and data interoperability.", "as_of": "2025-02", "date_precision": "month", "system": "DHIS2", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "South Sudan", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national and sub-national/district"}
+  ],
+  "note": "as_of is the document's published date (2025-02); it gives no event date."
+}

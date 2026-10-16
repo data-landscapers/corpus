@@ -1,0 +1,26 @@
+{
+ "slug": "2020-10-08-wb-sdn-001-sudan-family-support-project",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The record states the Sudan Family Support Project, approved 8 October 2020 and closed 30 June 2024 with US$181.4 million disbursed of US$760 million committed, had an MIS with a data-sharing platform linked to the National Civil Registry via API and to payment providers; the date used is the approval date, given as the record's published date.",
+   "as_of": "2020-10-08",
+   "date_precision": "day",
+   "system": "Sudan Family Support Project MIS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan Family Support Project MIS",
+   "country_label": "Sudan",
+   "class": "exchange",
+   "platform": "data-sharing platform",
+   "owner": "Ministry of Finance and Economic Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

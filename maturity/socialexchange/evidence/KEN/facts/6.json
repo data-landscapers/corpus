@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-05-social-protection-act-2025",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "Social Protection Act 2025 (s.40) requires the National Board for Social Protection to establish a Social Protection Registry as the singular database for social protection interventions under the Act, used to select and register beneficiaries and coordinate interventions; the Act also requires the Registry to be updated in real time through interoperability with other national registries (s.40(4)(c)) and the Board to facilitate data sharing and interoperability among social protection information systems (s.8(g)).",
+     "as_of": "2025-08-19", "date_precision": "day", "system": "Social Protection Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Social Protection Registry", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "National Board for Social Protection", "tiers": ""}
+  ],
+  "note": "as_of is the Act's commencement date, 19 August 2025; the Act states duties, not a link in service or being built."
+}

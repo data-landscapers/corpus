@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-22-sao-tome-dpssf-sistema-kenon-informacao-protecao-social",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The DPSSF page describes Kénon as a unified database centralising data on vulnerable families and beneficiaries of programmes such as Programa Família, and as producing reports for both PEP+ and Programa Família; it names no exchange with the ID, civil registration or other government systems. Dated by its published date, 2025-04-22.",
+     "as_of": "2025-04-22", "date_precision": "day", "system": "Sistema Kénon", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Sistema Kénon", "country_label": "STP", "class": "exchange", "platform": "", "owner": "Direção da Proteção Social, Solidariedade e Família (DPSSF)", "tiers": ""}
+  ],
+  "note": ""
+}

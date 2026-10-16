@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-25-thepoint-gambia-biometric-id-rollout-schedule",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "GMB",
+   "class": "other",
+   "platform": "",
+   "owner": "Gambia Immigration Department / Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Card issuance rollout and fees only; no other system checking people against the ID."
+}

@@ -1,0 +1,4 @@
+{"slug":"2026-07-21-south-africa-sim-registration-identity-fraud","facts":[
+{"sub_indicator":"use","aspect":"use","value":"underway","fact":"A draft RICA-amending framework agreed by government and telcos (via ACT) requires real-time SIM activation checks of the user's identity against the Home Affairs population register, with implementation reported as started on 1 July and described as an interim measure.","as_of":"2026-07","date_precision":"month","system":"SIM card registration (RICA framework)","class":"relying"}],
+"systems":[{"system":"SIM card registration (RICA framework)","country_label":"South Africa","class":"relying","platform":"Home Affairs population register","owner":"Telcos; ACT","tiers":""}],
+"note":""}

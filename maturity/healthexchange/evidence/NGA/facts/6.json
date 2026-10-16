@@ -1,0 +1,37 @@
+{
+  "slug": "2025-12-01-nga-fmohsw-nigeria-digital-health-architecture",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "none",
+      "fact": "The Federal Ministry of Health and Social Welfare's architecture document says Nigeria lacks health data standards and a functional health information exchange, that no national health information exchange brings health data together, and that health information stays in the system where it is generated; no date is given for the statement, so the document's publication date is used.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Health Information Exchange (HIE) with Shared Health Record",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "underway",
+      "fact": "The document says the National Council on Health approved in 2024 the creation and implementation of the Nigeria Digital in Health Initiative, to build a unified, interoperable health data and services infrastructure, with the Nigeria Digital Health Architecture (a federal HIE with shared health record, health claims exchange and health services exchange) as its third pillar and the HIE still to be built and operated by the NDHTO.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Nigeria Digital Health Architecture (HIE with Shared Health Record)",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {"system": "Health Information Exchange (HIE) with Shared Health Record", "country_label": "Nigeria", "class": "exchange", "platform": "FHIR R4, cloud-based, open APIs", "owner": "Nigeria Digital Health Transformation Organisation (NDHTO), under the Federal Ministry of Health and Social Welfare", "tiers": "federal HIE plus optional state-level HIEs (multi-HIE architecture)"},
+    {"system": "State-level HIE with SHR (states unnamed)", "country_label": "Nigeria", "class": "exchange", "platform": "", "owner": "state governments", "tiers": "state"},
+    {"system": "Nigeria Health Client Registry (NHCR)", "country_label": "Nigeria", "class": "other", "platform": "based on the National Identification Number (NIN)", "owner": "NDHTO", "tiers": "federal with state sync"},
+    {"system": "Nigeria Health Facility Registry (NHFR)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "NDHTO", "tiers": "federal with state sync"},
+    {"system": "Nigeria Health Worker Registry (NHWR)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "NDHTO", "tiers": "federal with state sync"},
+    {"system": "Health Claims Exchange (HCX)", "country_label": "Nigeria", "class": "other", "platform": "FHIR-based eClaim", "owner": "NDHTO", "tiers": "federal"},
+    {"system": "Health Services Exchange (HSX)", "country_label": "Nigeria", "class": "other", "platform": "Beckn protocol", "owner": "NDHTO", "tiers": "federal"},
+    {"system": "Nigeria Health Logistics Management Information System (NHLMIS)", "country_label": "Nigeria", "class": "other", "platform": "offline-capable cloud system", "owner": "Federal Ministry of Health", "tiers": "federal and state"},
+    {"system": "DHIS2", "country_label": "Nigeria", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is an architecture: it describes planned exchanges, not any in service."
+}

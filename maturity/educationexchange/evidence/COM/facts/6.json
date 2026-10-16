@@ -1,0 +1,31 @@
+{
+ "slug": "2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN with Ministry of Education and UNICEF",
+   "tiers": "pilot"
+  },
+  {
+   "system": "e-Shiyo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN with Ministry of Education and UNICEF",
+   "tiers": ""
+  },
+  {
+   "system": "e-Bourse",
+   "country_label": "COM",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "e-Msomo is described as a pilot for report cards and pupil tracking; no exchange between education systems or shared learner ID is stated."
+}

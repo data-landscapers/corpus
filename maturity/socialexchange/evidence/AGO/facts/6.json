@@ -1,0 +1,13 @@
+{
+  "slug": "2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank status report says work on integrating Kwenda programme data with other systems and programmes in the country, named as MASFAMU's SIGAS, had advanced well by 30 June 2024.", "as_of": "2024-06-30", "date_precision": "day", "system": "Kwenda MIS / SIGAS", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The World Bank status report says the Cadastro Social Unico (CSU) was not operational at 30 June 2024, so the project counted units with access to the MASFAMU SIGAS registry instead (54 of 54 CASIs).", "as_of": "2024-06-30", "date_precision": "day", "system": "Cadastro Social Unico", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Cadastro Social Unico", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU", "tiers": ""},
+    {"system": "Kwenda programme Management Information System", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU / FAS-IDL", "tiers": ""},
+    {"system": "SIGAS", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "MASFAMU", "tiers": "54 CASIs"}
+  ],
+  "note": ""
+}

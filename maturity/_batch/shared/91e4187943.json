@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-12 Cote d'Ivoire - Registre Social Unique (RSU) operationalisation, 200,000+ households",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no other system checking people against the national ID."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Cote d'Ivoire is operationalising its Registre Social Unique, a single registry of poor and vulnerable households to be shared with social programmes for targeting, with more than 200,000 households in the process of registration through the SIG-RSU system (BCP Filets Sociaux).",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Registre Social Unique (RSU) / SIG-RSU",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unique (RSU) / SIG-RSU",
+       "country_label": "CIV",
+       "class": "exchange",
+       "platform": "SIG-RSU",
+       "owner": "BCP Filets Sociaux, Ministere de la Cohesion Nationale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

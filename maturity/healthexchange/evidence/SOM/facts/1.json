@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-27-somalia-raad-bamni-ehr-dhis2-integration",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Ministry of Health's poster says RAAD (BAMNI), deployed 2023-2025 in 111 public primary healthcare facilities across six states, lets routine care documentation automatically generate DHIS2-compliant aggregate reports, with reporting completeness up from 85% to 96%.", "as_of": "2025", "date_precision": "year", "system": "RAAD (BAMNI)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "RAAD (BAMNI)", "country_label": "Somalia", "class": "exchange", "platform": "", "owner": "Somalia Federal Ministry of Health", "tiers": "111 public primary healthcare facilities, six states"},
+    {"system": "DHIS2", "country_label": "Somalia", "class": "other", "platform": "DHIS2", "owner": "Somalia Federal Ministry of Health", "tiers": "national HMIS for aggregate reporting"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-11-ben-cadreco-tresor-penalites-routieres-paiement",
+  "facts": [],
+  "systems": [
+    {"system": "securoute.anatt.bj", "country_label": "Benin", "class": "other", "platform": "ANATT secured portal", "owner": "ANATT", "tiers": ""}
+  ],
+  "note": "The story names a citizen portal for checking traffic-offence penalties and describes no exchange between public bodies' systems."
+}

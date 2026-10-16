@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-gambia-national-identity-cards-rollout",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "GMB",
+   "class": "other",
+   "platform": "Margins ID Systems Applications (MIDSA)",
+   "owner": "Gambia Immigration Department / Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Card rollout with Margins ID Group; mentions identity verification only as the company's general business, no relying system."
+}

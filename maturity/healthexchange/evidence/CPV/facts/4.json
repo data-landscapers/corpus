@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The PDEX page says communication between the NhaCard platform and the national health system runs through PDEX, sharing data for social and medical benefits; it gives no count of health systems and no date.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "PDEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PDEX",
+   "country_label": "Cabo Verde",
+   "class": "exchange",
+   "platform": "API publication and subscription platform",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "NhaCard",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-29-interoperability-platform-uxp-x-road-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Public Administration Interoperability Platform, based on Cybernetica's UXP, was officially launched on 25 September 2025, with twelve pilot institutions to integrate in the first phase.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Public Administration Interoperability Platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National public administration interoperability platform (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "UXP (Cybernetica)",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Education, Ghana (Pre-Tertiary and SRIM Directorates)", "tiers": "school;district;national"}
+  ],
+  "note": "Reports a December 2025 revision of EMIS ICT indicators for the next school census; no link between systems is stated."
+}

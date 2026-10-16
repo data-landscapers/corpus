@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-23-tbi-rwanda-health-data",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Tony Blair Institute says the National Health Intelligence Center, launched April 2025, integrates real-time data from hospitals, health centres, supply chains and workforce management, and records now flow directly into it instead of being collated manually by the Ministry of Health.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "National Health Intelligence Center",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "The Tony Blair Institute says the National Health Intelligence Center integrates real-time data from hospitals, health centres, supply chains, workforce management and other sources across the health system.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "National Health Intelligence Center",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health Intelligence Center",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "secure data warehouse",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Health Management Information System",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "King Faisal Hospital Rwanda",
+   "tiers": ""
+  },
+  {
+   "system": "e-Buzima",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

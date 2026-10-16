@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-20-guinee-etat-interconnexion-x-road-e-service",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "On 20 August 2026 the prime minister was briefed on the progress of X-Road, the ANDE-run national interoperability platform that is to let public information systems communicate; it is described as a tool meant to enable exchange, with no connected systems or figures.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "Guinea",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANDE",
+   "tiers": ""
+  },
+  {
+   "system": "Portail national e-service",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Administrative Modernisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

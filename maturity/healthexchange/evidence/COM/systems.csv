@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,DHIS2 (national HMIS),Comoros,other,DHIS2,Ministry of Health,national,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,DHIS2 Climate & Health instance,Comoros,other,DHIS2,Ministry of Health,testing instance,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,openIMIS (AMG enrolment and claims),Comoros,other,openIMIS,"UTGAM, Ministry of Health",pilot on Moheli,2025-12-01-openimis-comores-amg-digital-pilot

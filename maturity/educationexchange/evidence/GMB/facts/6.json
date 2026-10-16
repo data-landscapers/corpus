@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": "individual-level learner and teacher data"
+  }
+ ],
+ "note": "Individual-level data integrated in the EMIS; no exchange between two systems or learner ID stated."
+}

@@ -1,0 +1,13 @@
+# Uganda
+
+## Use of digital ID in other systems
+
+**ID checked by another system.** [Internal Affairs Minister Ephraim Kamuntu launched the integration of the National Identification and National Tax Identification systems at the first Identity Expo and Symposium in Kololo](<https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems>). [URA's Christine Mirembe said government will phase out the TIN for individuals and replace it with the NIN, and that banks and microfinance institutions will be able to use the NIN to verify a trader's tax compliance history](<https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026>). [NITA-U's Director of e-Government Services said it is working with government institutions to integrate systems and support digital authentication against the national ID](<https://nilepost.co.ug/news/369498/nira-to-host-national-id-expo-as-millions-remain-outside-register>).
+
+**Used across sectors.** [The NIRA Executive Director named the SIM card (telecoms), financial services and taxation as areas where the NIN is recognised, and the expo is to show how identity is already used across sectors](<https://nilepost.co.ug/news/369498/nira-to-host-national-id-expo-as-millions-remain-outside-register>). [The MP's statement names banking and telecoms (SIM registration) as sectors requiring QR-code verification of the national ID](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>).
+
+**Use reported.** [The Bank of Uganda reports 74 financial institutions with NIRA database access for KYC and a directive of April 2024 requiring ID verification for all financial transactions of UGX 1 million and above](<https://www.biometricupdate.com/202410/uganda-financial-institutions-sign-on-for-digital-kyc-through-national-id>).
+
+***Noted, not assessed***. [NIRA information-exchange module](<https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/>); [Tahaluf AI smart gate system](<https://www.newvision.co.ug/category/news/tahaluf-to-showcase-ai-border-control-systems-NV_241119_092026>); [SIM card registration](<https://itweb.africa/article/uganda-steps-up-crackdown-on-telecoms-vandalism/dgp45MaB8lZqX9l8>); [National ID (NIRA)](<https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems>); [National ID QR-code verification](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>).
+
+***Not held***. Nothing further is asked of this indicator.

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-21-cbn-ncc-tirms-telecom-data-banks",
+  "facts": [],
+  "systems": [
+    {"system": "Telecom Identity Risk Management System (TIRMS)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "CBN and NCC (joint MoU)", "tiers": ""}
+  ],
+  "note": "TIRMS lets banks check a mobile number for swap, recycling or flags; the document does not say any check is against the national ID."
+}

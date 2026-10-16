@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-20-parliament-ilms-intellectual-property-dispute",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Parliament's Higher Education and Training committee was briefed by MICT SETA that the Integrated Learner Management System, meant to integrate the various post-school entities' systems into one national shared platform for real-time data sharing, is being developed and is now piloted in a couple of SETAs, though an IP dispute with Tshwane University of Technology and weak DHET buy-in could delay it.",
+     "as_of": "2026-08-20", "date_precision": "day",
+     "system": "Integrated Learner Management System (ILMS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Integrated Learner Management System (ILMS)", "country_label": "South Africa", "class": "exchange", "platform": "built by TUT Faculty of ICT", "owner": "MICT SETA and Tshwane University of Technology (IP ownership disputed)", "tiers": "post-school education and training"},
+    {"system": "Higher Education and Training Management Information System (HETMIS)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Department of Higher Education and Training", "tiers": "comprised TVET, SETA and community education MIS"}
+  ],
+  "note": ""
+}

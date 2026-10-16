@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-26-nigerian-data-exchange-platform-ngdx",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "NITDA held a stakeholders' workshop in Abuja on the Nigerian Data Exchange Platform (NGDX), described as a unified data exchange system for government institutions being rolled out, backed by the EU; no connected bodies or volumes are given.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigerian Data Exchange Platform (NGDX)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigerian Data Exchange Platform (NGDX)",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

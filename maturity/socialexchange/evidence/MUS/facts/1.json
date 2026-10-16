@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-02-e-social-security-digitization-welfare-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-Social Security",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Integration, Social Security and National Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes bulk scanning of 10.5 million paper beneficiary records into a future platform; no link to another system is stated."
+}

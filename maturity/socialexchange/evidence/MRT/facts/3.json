@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-30-ami-taazour-acces-plateforme-registre-social-wilayas-nouakchott",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National social registry (Registre Social)",
+   "country_label": "Registre Social platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  }
+ ],
+ "note": "States only that Nouakchott wilaya authorities will access the registry platform to process claims; no link to ID, payment provider or another programme."
+}

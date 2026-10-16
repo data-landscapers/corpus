@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-19-social-registries-digital-platforms-inclusive-service-delivery",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank says Rwanda's Imibereho Social Registry covers 13.8 million people and supports safety nets, economic inclusion, skills and health insurance programmes.", "as_of": "2025-11-19", "date_precision": "day", "system": "Imibereho Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Imibereho Social Registry", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the published date, as no event date is given. Link to ID and administrative data is stated without naming the other sector, so no linked fact."
+}

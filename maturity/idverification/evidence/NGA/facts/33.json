@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-22-thisday-shettima-digital-transformation-nimc-act-2026",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's Director-General said the Nigerian Immigration Service now uses the NIN for issuing and renewing passports.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Nigerian Immigration Service passport issuance",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's Director-General said many insurance companies, financial institutions and public agencies are already integrated into the national digital public infrastructure, without naming them.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NIMC-integrated insurers, financial institutions and agencies",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "NIMC's Director-General named immigration, insurance and financial institutions as using or integrated with the NIN, three sectors, on her own statement and without figures.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NIMC-integrated services",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigerian Immigration Service passport issuance",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Nigerian Immigration Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

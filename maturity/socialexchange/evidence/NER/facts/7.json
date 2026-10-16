@@ -1,0 +1,30 @@
+{
+  "slug": "2018-12-07-worldbank-pad3086-niger-safety-net-mis",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "underway",
+      "fact": "The World Bank appraisal document says the project will support institutionalising and operationalising a Unified Social Registry as a common household database to select beneficiaries for safety nets and other social programmes, with the DN (national food crisis framework) as lead institution; shock-response beneficiaries are to be selected from the social registry where available.",
+      "as_of": "2018-12-07",
+      "date_precision": "day",
+      "system": "Unified Social Registry (USR)",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "inservice",
+      "fact": "The World Bank appraisal document says the Cellule des Filets Sociaux has a solid MIS and electronic payment modules in use, with cash-transfer payments based on a centrally managed database and delivered by payment agencies electronically, over 60,000 beneficiary households paid monthly; no date is given for the state described, so the document's published date is used.",
+      "as_of": "2018-12-07",
+      "date_precision": "day",
+      "system": "Cellule des Filets Sociaux monitoring and information system (MIS)",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {"system": "Unified Social Registry (USR)", "country_label": "Niger", "class": "exchange", "platform": "", "owner": "DNPGCCA (DN), Prime Minister's Office", "tiers": ""},
+    {"system": "Cellule des Filets Sociaux monitoring and information system (MIS)", "country_label": "Niger", "class": "exchange", "platform": "tablets and electronic payment modules", "owner": "Cellule des Filets Sociaux (CFS), within the DN", "tiers": ""}
+  ],
+  "note": ""
+}

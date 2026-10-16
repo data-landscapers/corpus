@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBR-001,LBR,exchange,exchange,none,"The AU-IPED peer review held 1-2 September 2025 found Liberia's EMIS has no integration with WAEC exam data or teacher service records, and that exams, curriculum and teacher databases are not linked.",2025-09,month,Liberia EMIS,exchange,2025-10-01-iped-liberia-emis-peer-review,https://www.iped.africa/media/Liberia_Emis_Review_Report_Final.pdf

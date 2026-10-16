@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-30 DR Congo gives Singapore firm exclusive digital-ID rights (NTU-SBF risk analysis)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DRCPass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "DRCPass",
+   "owner": "Government of DRC with Trident Digital Tech",
+   "tiers": ""
+  }
+ ],
+ "note": "Analysis of the exclusive e-KYC PPP; names no specific system relying on the ID."
+}

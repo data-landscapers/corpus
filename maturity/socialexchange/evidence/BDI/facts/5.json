@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-implementing-core-mis-social-protection-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "CORE-MIS", "country_label": "Burundi", "class": "exchange", "platform": "CORE-MIS (powered by openIMIS)", "owner": "Cash for Jobs Project (Merankabandi), financed by IDA", "tiers": ""},
+    {"system": "Unified Social Registry", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Government of Burundi", "tiers": ""}
+  ],
+  "note": "Passages state only that Burundi is working on establishing a unified social registry and the project supports it; no dated link to the ID, a payment provider or another programme in the passages."
+}

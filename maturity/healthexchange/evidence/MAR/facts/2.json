@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-morocco-dhis2-health-data-audit",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Morocco", "class": "other", "platform": "DHIS2 (PostgreSQL database)", "owner": "Ministere de la Sante et de la Protection Sociale (MSPS)", "tiers": "national"}
+  ],
+  "note": "The document describes DHIS2 as a single national platform for collecting, managing and analysing health data (audit July-September 2026) and states no exchange with other health systems."
+}

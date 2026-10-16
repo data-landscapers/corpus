@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-08-ingd-registo-digital-donativos",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "INGD's digital registry of humanitarian-assistance beneficiaries is being tested in Beira and is due nationwide in October 2026, and its director of prevention says it should interoperate with the INAS database to show who has already received assistance.",
+     "as_of": "2026-08-08", "date_precision": "day", "system": "INGD digital humanitarian beneficiary registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "INGD digital humanitarian beneficiary registry", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INGD", "tiers": ""},
+    {"system": "INAS database", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INAS", "tiers": ""}
+  ],
+  "note": "as_of is the article's published date; it gives no date for the pilot."
+}

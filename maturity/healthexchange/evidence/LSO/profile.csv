@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,exchange,exchange,coverage,inservice,2025-05-12,LSO-003;LSO-004,LSO-001=underway;LSO-002=underway,
+LSO,exchange,breadth,coverage,,,,,nothing held
+LSO,exchange,identifier,coverage,,,,,nothing held

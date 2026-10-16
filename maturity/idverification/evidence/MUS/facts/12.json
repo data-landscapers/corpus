@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius Mobile ID", "country_label": "Mauritius", "class": "other", "platform": "Mauritius mID Certification Authority System", "owner": "Government of Mauritius", "tiers": ""},
+    {"system": "MauPass", "country_label": "Mauritius", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regulations on issue and use of the Mobile ID; they state no other system checking people against the national ID."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework",
+  "facts": [],
+  "systems": [
+    {"system": "government Interoperability Platform (X-Road based)", "country_label": "Namibia", "class": "exchange", "platform": "X-Road", "owner": "Office of the Prime Minister, DPSITM", "tiers": ""}
+  ],
+  "note": "The EOI says Namibia adopted X-Road and the EEC envisages exchanging data through the government platform, but gives no statement of the platform's status, reach or use."
+}

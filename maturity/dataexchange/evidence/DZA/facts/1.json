@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-30-joradp-decret-25-320-gouvernance-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "Système national d'interopérabilité", "country_label": "Algeria", "class": "exchange", "platform": "secure interconnection network", "owner": "Haut commissariat à la numérisation", "tiers": "public institutions and administrations; bodies and enterprises with a public service on need"}
+  ],
+  "note": "The decree defines the national interoperability system and makes it the exclusive framework for public data exchange, but states nothing about it being built, piloted or in service."
+}

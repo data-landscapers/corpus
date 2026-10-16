@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-29-lapresse-inscription-scolaire-vie-scolaire-53pct",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vie scolaire (viescolaire.education.tn)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal links a citizen account to the student record; no exchange between education systems, shared learner ID or national-ID link is stated."
+}

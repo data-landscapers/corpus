@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,SDMS,Rwanda,,,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
+RWA,SEMIS,Rwanda,,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
+RWA,DHIS2-based student absence tracking system,Rwanda,other,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
+RWA,School Data Management System (SDMS),Rwanda,other,,MINEDUC,,2026-02-01-education-statistical-yearbook-2024-2025
+RWA,Education Management Information System (integrated EMIS),Rwanda,other,,MINEDUC,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029
+RWA,School Data Management Information System (SDMIS),Rwanda,other,,,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029
+RWA,Teacher Management Information System (TMIS),Rwanda,other,,,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029
+RWA,Comprehensive Assessment Management Information System (CAMIS),Rwanda,other,,,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029
+RWA,Teaching and Learning Materials Management Information System (TLM-MIS),Rwanda,other,,,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029
+RWA,EBMIS,Rwanda,other,,University of Rwanda,,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029

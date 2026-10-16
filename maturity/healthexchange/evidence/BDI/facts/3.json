@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Burundi", "class": "other", "platform": "DHIS2", "owner": "MSPLS", "tiers": "national"}
+  ],
+  "note": "Passages only name the plan's projects (DHIS2, hospital computerisation, GMAO) and list HL7 and IPU as acronyms; no exchange between systems is stated."
+}

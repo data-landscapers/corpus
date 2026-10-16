@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-03-eswatini-secures-e16-3-million-gpe-grant-to-strengthen-education-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2-based national EMIS",
+   "country_label": "Eswatini",
+   "class": "",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": "A grant to strengthen EMIS for planning; no link between education systems stated."
+}

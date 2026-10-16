@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-01-ethiopia-education-statistics-annual-abstract-2022-23",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Ministry of Education, EMIS and ICT Executive Office", "tiers": "decentralised levels"}
+  ],
+  "note": "The foreword says only that the EMIS collects and processes education data at decentralised levels; no link between systems is stated."
+}

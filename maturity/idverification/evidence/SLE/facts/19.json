@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital ID pilot",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes the ID system's own MOSIP pilot and an aim to require digital ID for services; no other system is stated to check against the ID."
+}

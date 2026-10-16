@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education",
+  "facts": [],
+  "systems": [
+    {"system": "LURITS (Learner Unit Record Information Tracking System)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Department of Basic Education", "tiers": "national"}
+  ],
+  "note": "Reply analyses LURITS learner records linked across years by ID number; it states no exchange between two education systems, no shared identifier across systems and no link to national ID, health or social protection."
+}

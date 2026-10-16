@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-26-manual-de-procedimentos-das-reparticoes-fiscais-agt",
+  "facts": [],
+  "systems": [
+    {"system": "SIGT (Sistema Integrado de Gestao Tributaria)", "country_label": "Angola", "class": "other", "platform": "", "owner": "AGT", "tiers": ""}
+  ],
+  "note": "The manual has the technician copy data from the original B.I. into SIGT to issue the NIF; it states no check against the national ID database, so no fact for a relying system."
+}

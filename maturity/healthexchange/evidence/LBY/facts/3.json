@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (نظام المعلومات الصحية المناطقي)", "country_label": "Libya", "class": "other", "platform": "DHIS2", "owner": "Health Information and Documentation Centre, Ministry of Health", "tiers": "national"}
+  ],
+  "note": "Describes a single system, DHIS2, for routine facility data collection; the civil registry cooperation is joint report preparation, not a stated data exchange between systems."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "The World Bank's 8-12 September 2025 mission to the STP Digital project saw live demonstrations of functional prototypes of the interoperability and data-exchange platform (DEX), being designed and implemented by the System Integrator Ooru with INIC and DGRN, with integration of the interoperability layer with the verifiable credentials infrastructure planned for March 2026.",
+     "as_of": "2025-09", "date_precision": "month", "system": "Interoperability and data-exchange platform (DEX)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Interoperability and data-exchange platform (DEX)", "country_label": "STP", "class": "exchange", "platform": "", "owner": "INIC and DGRN, with System Integrator Ooru", "tiers": ""},
+    {"system": "Verifiable Credentials Infrastructure (VCI)", "country_label": "STP", "class": "other", "platform": "", "owner": "INIC and DGRN", "tiers": ""},
+    {"system": "Citizen Portal and Mobile App", "country_label": "STP", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Signature service", "country_label": "STP", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

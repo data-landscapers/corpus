@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-zwe-zimbabwesituation-electronic-traffic-system",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Police said logistics for implementing the Electronic Traffic Management System were being finalised, with its first phase awaiting commissioning, and that the system is integrated with the Central Vehicle Registry and the Civil Registry to identify offenders electronically.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Electronic Traffic Management System (ETMS)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Traffic Management System (ETMS)",
+   "country_label": "Zimbabwe",
+   "class": "relying",
+   "platform": "",
+   "owner": "Zimbabwe Republic Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

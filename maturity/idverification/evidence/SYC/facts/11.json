@@ -1,0 +1,12 @@
+{
+  "slug": "2023-04-19-sla-online-services-seyid-monservis",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Seychelles Licensing Authority says its business and vehicle licence online services moved to monServis and require a SeyID account, which needs a valid National Identity Number; the old E-ID Gateway no longer works (as_of is the page's published date).", "as_of": "2023-04-19", "date_precision": "day", "system": "SLA online services on monServis", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "SLA online services on monServis", "country_label": "Seychelles", "class": "relying", "platform": "monServis", "owner": "Seychelles Licensing Authority", "tiers": ""},
+    {"system": "monServis", "country_label": "Seychelles", "class": "relying", "platform": "", "owner": "DICT", "tiers": ""},
+    {"system": "SeyID", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "DICT", "tiers": ""}
+  ],
+  "note": ""
+}

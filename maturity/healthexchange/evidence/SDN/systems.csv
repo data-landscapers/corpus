@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,نظام إدارة المستشفيات (HMS),Sudan,exchange,,Ministry of Health; Ministry of Digital Transformation and Communications,hospital,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,CRVS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,EPR,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,LIMS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,PIS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,HMIS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,EMR,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,HRIS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,"electronic medical records management system (hospital digitisation, pilot at Soba University Hospital and Gedaref Hospital)",Sudan,other,,Ministry of Digital Transformation and Communications with Ministry of Health,hospital,2026-03-30-sudan-pm-ai-bachelor-directive-hospital-digitisation
+SDN,DHIS2,Sudan,other,DHIS2,Federal Ministry of Health,national,2026-02-10-sudan-health-ministry-digital-transformation-year
+SDN,District Health Information Software version 2 (DHIS2),Sudan,other,DHIS2,Federal Ministry of Health,national,2022-01-01-sudan-health-information-system-assessment-2020

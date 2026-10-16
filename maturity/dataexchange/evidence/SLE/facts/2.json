@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The World Bank's terms of reference say a Japan QII grant signed on 26 April 2025 funds a Government Service Bus prototype on an open-source platform such as X-Road, hosted in the Ministry of Finance data centre, to link PFM systems including IFMIS, ITAS, ASYCUDA and CRVS.",
+   "as_of": "2025-04-26",
+   "date_precision": "day",
+   "system": "Government Service Bus prototype",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "none",
+   "fact": "The terms of reference say there is no government service bus with agreed protocols within the PFM ecosystem and the systems operate standalone (date is the document's published year).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Government Service Bus",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus prototype",
+   "country_label": "Sierra Leone",
+   "class": "exchange",
+   "platform": "X-Road or another open-source platform",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

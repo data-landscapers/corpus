@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-16-talangai-documents-identite-menages-vulnerables",
+  "facts": [],
+  "systems": [
+    {"system": "Registre social unique (RSU)", "country_label": "Congo", "class": "exchange", "platform": "", "owner": "Ministere des Affaires sociales, de la Solidarite et de l'Action humanitaire", "tiers": ""}
+  ],
+  "note": "Pilot issuing of birth certificates, ID cards and NIU to enrol households and update the RSU; no data link between systems is stated."
+}

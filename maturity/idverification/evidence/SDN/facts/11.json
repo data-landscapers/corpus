@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)",
+  "facts": [],
+  "systems": [
+    {"system": "SUDAPASS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation and Communications, with the Sudanese Cyber Security Authority, the National Electronic Certification Authority and the Civil Registry", "tiers": ""}
+  ],
+  "note": "Launch of the ID itself, named for use across government, banking, telecoms, education and health in general terms; no other system is named as checking people against it."
+}

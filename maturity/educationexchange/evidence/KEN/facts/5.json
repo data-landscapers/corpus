@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-17-kemis-learner-validation-guidance",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "A Ministry of Education circular says the KEMIS Learner Validation Engine is operational and automatically compares learner records against official examination and assessment databases, marking learners Valid or Invalid.", "as_of": "2026-08-17", "date_precision": "day", "system": "KEMIS Learner Validation Engine", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "linked", "value": "linked", "fact": "The circular says a Unique Learner Identifier is generated in KEMIS only once parent or guardian identification details are complete, and that this is essential for integration with national identity and civil registration records.", "as_of": "2026-08-17", "date_precision": "day", "system": "KEMIS Learner Validation Engine", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "KEMIS (Kenya Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education, State Department for Basic Education", "tiers": ""},
+    {"system": "KEMIS Learner Validation Engine", "country_label": "Kenya", "class": "exchange", "platform": "KEMIS", "owner": "KEMIS Secretariat", "tiers": ""},
+    {"system": "KNEC examination and assessment databases", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Kenya National Examinations Council", "tiers": ""}
+  ],
+  "note": ""
+}

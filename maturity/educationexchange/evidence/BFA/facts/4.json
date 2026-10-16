@@ -1,0 +1,12 @@
+{
+  "slug": "2024-02-01-menaplan-fiue-bf-fichier-identification-unique-eleves",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The ministry's February 2024 report on the pilot phase of the national pupil file, online enrolment and school identity cards (FIUE-BF) records a pilot of the unique pupil identification file; the passages read give only the contents list, with no figures.",
+     "as_of": "2024-02", "date_precision": "month", "system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)", "country_label": "Burkina Faso", "class": "exchange", "platform": "unique pupil identification file platform", "owner": "MENAPLN, Direction Générale des Études et des Statistiques Sectorielles", "tiers": ""}
+  ],
+  "note": "as_of is the report date, the passage file giving no event date."
+}

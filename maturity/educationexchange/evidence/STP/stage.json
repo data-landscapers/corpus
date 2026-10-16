@@ -1,0 +1,17 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "unplaced",
+   "exchange": "",
+   "learnerid": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 names education systems exchanging data.",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

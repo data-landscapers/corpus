@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,SNISI (Système National d'Information Sanitaire Intégré),Mali,exchange,,ANTIM (Ministry of Health),CSCom and CSRéf health facilities and community health workers,2026-09-03-mali-snisi-a-propos-de-ce-systeme
+MLI,flotte mobile pour la Santé,Mali,other,ANTIM-tagged mobile and fixed-GSM terminals (Orange Mali),ANTIM,CSCom/CSRéf,2026-09-03-mali-snisi-a-propos-de-ce-systeme
+MLI,sante.gov.ml national digital health portal,Mali,other,,Ministry of Health and Social Development,national,2026-07-08-techgriot-mali-national-digital-health-portal
+MLI,DISK-Mali,Mali,exchange,integrated into DHIS2,Ministry of Health (community health),"community health workers, four health districts (Diéma, Kita, Sikasso, Kignan)",2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births
+MLI,DHIS2,Mali,exchange,DHIS2,,national,2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births
+MLI,"SanDi project digital solutions (telemedicine, electronic billing)",Mali,other,"smart glasses, electronic billing software",UNDP with Ministry of Health and Social Development,"34 health facilities (27 CSCOM, 7 referral health centres)",2025-12-26-pnud-mali-kalake-innovation-sante-familles-sandi
+MLI,DHIS2,Mali,exchange,DHIS2,Ministry of Health (DGSHP),national,2025-09-19-muso-integrated-efficient-health-information-ecosystem
+MLI,DISC-Mali,Mali,exchange,,,community health workers,2025-09-19-muso-integrated-efficient-health-information-ecosystem
+MLI,Muso community health toolkit,Mali,exchange,digital toolkit for ProCHWs,Muso,community health workers and supervisors,2025-09-19-muso-integrated-efficient-health-information-ecosystem

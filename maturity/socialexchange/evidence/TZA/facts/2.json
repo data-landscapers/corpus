@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31-world-bank-tza-2026-pssn-iii-social-safety-net",
+  "facts": [],
+  "systems": [
+    {"system": "social registry (PSSN III digital delivery systems)", "country_label": "Tanzania", "class": "exchange", "platform": "", "owner": "TASAF", "tiers": ""}
+  ],
+  "note": "Factsheet says PSSN III expands digital delivery systems including a social registry; names no data link to the ID, payments or another programme, so no exchange fact."
+}

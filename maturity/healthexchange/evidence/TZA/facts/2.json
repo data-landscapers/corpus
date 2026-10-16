@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Tanzania", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health Tanzania", "tiers": ""}
+  ],
+  "note": "A funding record saying work strengthens DHIS2 and FHIR-compliant data exchange; it names no exchange between named systems and gives no event date beyond 2021-2026 grant years."
+}

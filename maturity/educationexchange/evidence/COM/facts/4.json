@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-20-comoros-eshiyo-emsomo-edtech-platforms-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education with ANADEN, UNICEF funding",
+   "tiers": "national"
+  },
+  {
+   "system": "e-Shiyo",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education with ANADEN, UNICEF funding",
+   "tiers": "national"
+  }
+ ],
+ "note": "e-Msomo assigns a unique student ID within one platform; no exchange between education systems or link to another sector is stated."
+}

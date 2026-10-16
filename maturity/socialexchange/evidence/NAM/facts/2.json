@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-15-fact-sheet-namibias-instant-payment-solution-ips",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The fact sheet says Instant Payment Solution pilot testing finished in live production and a phased rollout is underway, with phase 1 having participating institutions receive and disburse government social grant payments through the platform.", "as_of": "2026-06-15", "date_precision": "day", "system": "Government social grant payments on the Instant Payment Solution (IPS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Instant Payment Solution (IPS) / Instant Payment Platform (IPP)", "country_label": "Namibia", "class": "other", "platform": "NPCI International Payments Limited (technology partner)", "owner": "Instant Payment Namibia (IPN), under the Bank of Namibia", "tiers": ""},
+    {"system": "Government social grant payments on the Instant Payment Solution (IPS)", "country_label": "Namibia", "class": "exchange", "platform": "Instant Payment Solution (IPS)", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the published date; the fact sheet gives no event date."
+}

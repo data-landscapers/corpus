@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-04 Cameroon's Campost partners with FindMe to improve national address system",
+  "facts": [],
+  "systems": [
+    {"system": "FindMe", "country_label": "Cameroon", "class": "other", "platform": "postal-addressing model", "owner": "FindMe (private start-up)", "tiers": ""}
+  ],
+  "note": "Campost-FindMe address partnership tied to customer identification (KYC); no check against the national ID is stated."
+}

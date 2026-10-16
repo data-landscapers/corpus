@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-22-lesotho-south-africa-border-crossing-id-cards",
+  "facts": [],
+  "systems": [
+    {"system": "Border e-gates (ID scanning)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Office of Immigration", "tiers": ""}
+  ],
+  "note": "Proposal to use national ID cards as travel documents with e-gates scanning IDs; announced, no link contracted, built or piloted is stated, and a border crossing is not a check by a relying service."
+}

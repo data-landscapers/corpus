@@ -1,0 +1,3 @@
+iso3,n,aspect,value,action,why
+ZMB,008,usage,reported,removed,"First pass: revenue collected through the bus is not a count of exchanges or transactions"
+ZMB,011,usage,reported,removed,"First pass: revenue for several platforms together, not the bus's exchanges"

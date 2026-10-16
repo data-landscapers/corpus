@@ -1,0 +1,25 @@
+{"slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025", "studies": {
+"idverification": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The UNDP report says more than 4 million Malawi Social Registry (formerly UBR) household records, 75 percent, have been integrated with the National ID, with a module for real-time integration with NRB being built.", "as_of": "2025-09", "date_precision": "month", "system": "Malawi Social Registry (MSR/UBR)", "class": "relying"},
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The report says Standard Bank, First Capital Bank, Mukuru and FINCA, on Reserve Bank directive, are developing or testing biometric interfaces to the NRB verification gateway for KYC in a pilot.", "as_of": "2025-09", "date_precision": "month", "system": "Bank KYC biometric verification pilot", "class": "relying"},
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The report says Airtel and TNM have direct linkages with NRB and are running end-to-end tests of biometric validation for SIM registration ahead of a national-scale pilot, under a MACRA directive.", "as_of": "2025-09", "date_precision": "month", "system": "Biometric SIM registration (MACRA)", "class": "relying"},
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The report says a Karonga District pilot linking National ID and birth-certificate UINs to the Ministry of Health's electronic medical records was approved on 30 June 2025 for national scale-up.", "as_of": "2025-06-30", "date_precision": "day", "system": "MoH electronic medical records link to NRB UIN", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The report says offline verification of Digital ID through digitally signed QR codes was successfully tested in 2024 in voter registration, 2 million people, and in agriculture programmes, 1.5 million farmers.", "as_of": "2024", "date_precision": "year", "system": "Digitally signed QR code offline ID verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "The report says offline verification has authenticated 3.5 million citizens; it gives no date, so as_of is the published month.", "as_of": "2026-01", "date_precision": "month", "system": "Digitally signed QR code offline ID verification", "class": "relying"}
+], "systems": [
+{"system": "National ID (NRB)", "country_label": "Malawi", "class": "other", "platform": "NRB verification gateway", "owner": "National Registration Bureau", "tiers": ""},
+{"system": "Malawi Social Registry (MSR/UBR)", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+{"system": "Bank KYC biometric verification pilot", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Reserve Bank of Malawi directive", "tiers": ""},
+{"system": "Biometric SIM registration (MACRA)", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "MACRA", "tiers": ""},
+{"system": "MoH electronic medical records link to NRB UIN", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+{"system": "Digitally signed QR code offline ID verification", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "NRB", "tiers": ""},
+{"system": "Nzika app", "country_label": "Malawi", "class": "other", "platform": "", "owner": "NRB", "tiers": ""}
+], "note": ""}}},
+"socialexchange": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The UNDP report says more than 4 million Malawi Social Registry (formerly UBR) household records, 75 percent, have been integrated with the National ID.", "as_of": "2025-09", "date_precision": "month", "system": "Malawi Social Registry (MSR/UBR)", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The report says the Social Registry is being upgraded with a new software platform and a dedicated module for real-time integration with NRB, for automated identity verification of all programme beneficiaries.", "as_of": "2025-09", "date_precision": "month", "system": "Malawi Social Registry (MSR/UBR)", "class": "exchange"}
+], "systems": [
+{"system": "Malawi Social Registry (MSR/UBR)", "country_label": "Malawi", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+{"system": "National ID (NRB)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+], "note": "The report links the registry to the National ID only; no other sector is named, and it does not say how many programmes share the registry."}}}
+}}

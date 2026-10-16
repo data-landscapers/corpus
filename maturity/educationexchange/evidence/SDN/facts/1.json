@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-13-unesco-red-sea-state-emis-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management and Information System Pilot Project (EMIS)", "country_label": "Sudan (Red Sea State)", "class": "other", "platform": "", "owner": "Ministry of Education, Red Sea State", "tiers": "state"},
+    {"system": "Transitional Education Plan Monitoring & Evaluation Application (TEP)", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TEP Dashboard", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Equipment handover for an EMIS pilot, a monitoring application and a dashboard; no link between education systems, shared learner identifier or link to national ID or another sector is stated."
+}

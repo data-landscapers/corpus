@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national EMIS",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": "school, regional, central"
+  }
+ ],
+ "note": "National EMIS in daily regional use; no exchange with another system or learner ID stated."
+}

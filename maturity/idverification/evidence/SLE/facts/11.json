@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-23-sierra-leone-financial-inclusion-project-isr-national-payment-switch",
+  "facts": [],
+  "systems": [
+    {"system": "National Payment Switch", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "Bank of Sierra Leone", "tiers": ""}
+  ],
+  "note": "States the E-KYC Guidelines were completed and gazetted but says no system checks people against the national ID."
+}

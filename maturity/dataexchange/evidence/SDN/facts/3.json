@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-sudan-cbos-electronic-capital-flows",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic capital flows system",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "A single bank's registration portal with a central database; no exchange between public bodies' systems stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-nsr-coverage-across-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "National Social Register (NSR)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "National Social Investment Programme Agency (NASSCO)", "tiers": ""}
+  ],
+  "note": "Gives NSR coverage counts only (36 states plus FCT, 774 LGAs, over 19 million households, over 70 million individuals); no link, exchange or shared use by programmes is stated."
+}

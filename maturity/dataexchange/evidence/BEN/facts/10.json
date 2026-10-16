@@ -1,0 +1,44 @@
+{
+ "slug": "2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The ministry's PAG 2016-2021 scorecard lists the Plateforme Nationale d'Interopérabilité (XROAD BJ) as put in place, among its smart government achievements.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "XROAD BJ",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The ministry's scorecard reports more than 42,000 data exchanges through XROAD BJ.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "XROAD BJ",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "XROAD BJ",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "Ministère du Numérique et de la Digitalisation",
+   "tiers": ""
+  },
+  {
+   "system": "Portail National des Services Publics",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère du Numérique et de la Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the deck's published year (2021, inferred by the stager); the deck gives no event date. Its Agenda 2021 plan to connect agricultural registers to XroadBJ is a plan, not recorded."
+}

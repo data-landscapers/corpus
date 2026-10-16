@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-newhumanitarian-givedirectly-google-flood-hub-nigeria-ai-exclusion",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "GiveDirectly's 2024 anticipatory cash programme in Ibaji verified applicants' ID and name through Smile ID, which cross-checks against telecommunications and government databases, and applicants gave their National Identification Numbers to the call centre, so enrolment in the programme depended on the check.", "as_of": "2024", "date_precision": "year", "system": "Smile ID", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "GiveDirectly's spokesperson said 939 applicants were excluded for failing identity verification via Smile ID, among nearly 39,000 pre-enrolled applicants in the Ibaji programme.", "as_of": "2024", "date_precision": "year", "system": "Smile ID", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Smile ID", "country_label": "Nigeria", "class": "relying", "platform": "biometric identity verification platform", "owner": "Smile ID", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-sudan-3x3-digital-transformation-plan-phase-two",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "The Ministry of Digital Transformation and Telecommunications is said to offer the UNIVERSAL SECURE (CONSOLEX) unified API gateway, which integrates government systems and enables secure data exchange among institutions; no connected-body count or volume is given.",
+     "as_of": "2026", "date_precision": "year", "system": "UNIVERSAL SECURE (CONSOLEX) unified API gateway", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UNIVERSAL SECURE (CONSOLEX) unified API gateway", "country_label": "Sudan", "class": "exchange", "platform": "unified API gateway", "owner": "Ministry of Digital Transformation and Telecommunications", "tiers": ""},
+    {"system": "Secure Government Messaging Program", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Cabinet Affairs", "tiers": ""},
+    {"system": "SUDAPAY", "country_label": "Sudan", "class": "other", "platform": "instant-transfer application", "owner": "Central Bank of Sudan", "tiers": ""},
+    {"system": "Yaqeen", "country_label": "Sudan", "class": "other", "platform": "verification service", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": "as_of uses the published date 2026-01-01 (year precision, proxy date); the document gives no event date."
+}

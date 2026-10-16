@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "4",
+   "exchange": "inservice",
+   "registry": "shared",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-002",
+   "gaps": "No source held since October 2023 says the registry is linked to the national ID and to another sector.",
+   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+  }
+ ]
+}

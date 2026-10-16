@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "The Federal Ministry of Agriculture and Food Security announced plans to deploy NIMC's identity verification platform and the NIN to authenticate beneficiaries of government agricultural programmes, per the minister and NIMC's Director-General.",
+     "as_of": "2026-07-12", "date_precision": "day",
+     "system": "Federal Ministry of Agriculture and Food Security farmer and beneficiary verification", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Federal Ministry of Agriculture and Food Security farmer and beneficiary verification", "country_label": "Nigeria", "class": "relying", "platform": "NIMC identity verification platform", "owner": "Federal Ministry of Agriculture and Food Security", "tiers": ""}
+  ],
+  "note": "as_of is the article's published date; it gives no event date beyond the announcement."
+}

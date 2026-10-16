@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-genkey-to-replace-semlex-from-april-data-domiciled-in-comoros-alwatwan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric national ID card and passport production",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "Semlex to GenKey",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Covers the ID system's own production, vendor change and data location; no other system checks against the ID."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Jembi says healthcare facilities in Eswatini can now share demographic and clinical patient information in near real-time through a FHIR-based exchange on the OpenHIM Platform, with a Master Patient Index integrated; no facility count is given.",
+   "as_of": "2026-01-30",
+   "date_precision": "day",
+   "system": "OpenHIM Platform / FHIR-based health information exchange with Master Patient Index",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenHIM Platform / FHIR-based health information exchange with Master Patient Index",
+   "country_label": "Eswatini",
+   "class": "exchange",
+   "platform": "OpenHIM, FHIR",
+   "owner": "Ministry of Health (implemented by Jembi with DataFI)",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date (year inferred by the source's own note); no go-live date is given. Scaling to more facilities is listed as a next step, so no breadth fact; the Population Registry is used for patient identification but is not stated to be the national ID, so no identifier fact."
+}

@@ -1,0 +1,19 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,Registre social des personnes et des ménages,Togo,exchange,,Agence nationale d'identification (ANID),,2022-06-24-togo-loi-2022-010-identification-biometrique-jo
+TGO,Registre social des personnes et des ménages,Togo,exchange,,Agence nationale d'identification (ANID),,2022-06-16-togo-loi-modification-2020-009-identification-biometrique
+TGO,"Programme National de Protection Sociale, cash-transfer component",Togo,exchange,"mobile money (Mixx by Yas, Flooz)",Ministere de la Planification du Developpement et de la Cooperation; INSEED; ANADEB,,2025-12-19-togo-planification-lancement-operationnalisation-transferts-monetaires
+TGO,Registre Social des Personnes et des Menages (RSPM),Togo,exchange,,ANID,,2025-01-01-anid-togo-rspm-social-register
+TGO,Interoperable social information system (SIIS),Togo,exchange,,ANID,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Registre Social des Personnes et des Menages (RSPM),Togo,exchange,,ANID,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Data exchange platform,Togo,exchange,,ANID,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Beneficiary Operations Management System (BOMS),Togo,exchange,,,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Payments Bridge and multi-program payments platform,Togo,exchange,,ANID,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Togo eID,Togo,other,,ANID,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Novissi,Togo,other,mobile money,,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,FSB,Togo,other,mobile money,,,2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system
+TGO,Registre social des personnes et des ménages (RSPM),Togo,exchange,RSPM platform,ANID (Agence Nationale d'Identification),,2024-09-30-togo-jo-arrete-007-acces-partage-donnees-rspm
+TGO,NOVISSI platform (beneficiary operations management system),Togo,exchange,USSD self-registration with mobile money payment and API links to mobile network operators,Ministry of Digital Economy and Digital Transformation (MENTD),model 1 (April 2020) and model 2 (November 2020 to August 2021),2023-09-01-togo-novissi-harnessing-artificial-intelligence-social-protection
+TGO,Foundational unique ID platform (WURI) and planned dynamic social registry,Togo,exchange,,Government of Togo,"being built, IDA financing of US$72 million",2023-09-01-togo-novissi-harnessing-artificial-intelligence-social-protection
+TGO,Voter list,Togo,other,biometric voter registration,national independent electoral commission,"3,633,898 registered, about 86.6 percent of adults",2023-09-01-togo-novissi-harnessing-artificial-intelligence-social-protection
+TGO,Safety Nets and Basic Services Project (FSB) cash transfers,Togo,other,"in-person survey registration, proxy means testing",,"rural, February 2018 to December 2021",2023-09-01-togo-novissi-harnessing-artificial-intelligence-social-protection
+TGO,Registre social des personnes et des ménages (RSPM),Togo,exchange,,Agence nationale d'identification (ANID),,2023-04-24-togo-jo-decret-2023-043-registre-social-personnes-menages

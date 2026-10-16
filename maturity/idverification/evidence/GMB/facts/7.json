@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-barrow-national-identity-management-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "Margins ID Systems Applications Ltd",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "States only that NIMS will be integrated with civil registration, health and other systems in future; no link contracted, built or piloted for another system."
+}

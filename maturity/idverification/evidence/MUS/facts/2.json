@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 eKYC Steps for Mauritian Citizen (SIM Re-Registration)",
+  "facts": [],
+  "systems": [
+    {"system": "eKYC SIM re-registration (CHiLi)", "country_label": "Mauritius", "class": "", "platform": "ekyc.chili.mu", "owner": "Mahanagar Telephone Mauritius Ltd (CHiLi)", "tiers": ""}
+  ],
+  "note": "Excerpt describes eKYC for mandatory SIM re-registration under the ICTA (Registration of SIM) Regulations 2023 (deadline 30 April 2024) but does not say the check is against the national ID."
+}

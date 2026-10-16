@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-07-wb-liberia-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The World Bank blog says the Liberia Household Social Registry and the project MIS are used by three government-led social protection programmes.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Liberia Household Social Registry (LHSR)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Household Social Registry (LHSR)",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Social Safety Net Project MIS",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the published date; the blog gives no date for the three-programme use."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-09-09-world-bank-ieg-icr-review-liberia-social-safety-nets-p155293",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The IEG review says three social protection programmes (SCT-COVID, SCT Phase 2 and the labour-intensive public works programme under P174417) used the Liberia Household Social Registry as an intake tool, while the MIS had yet to serve programmes outside Bank financing.", "as_of": "2023-06", "date_precision": "month", "system": "Liberia Household Social Registry (LHSR)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Liberia Household Social Registry (LHSR)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Social Registry Information System (SRIS)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Social protection MIS (enrolment, payment, grievance, M&E modules)", "country_label": "Liberia", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""}
+  ],
+  "note": "as_of is the project's actual closing date (30 June 2023), the review giving no date for the programmes' use of the registry."
+}

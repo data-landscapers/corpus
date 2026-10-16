@@ -1,0 +1,23 @@
+{
+ "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MASSAR",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-government interoperability platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "Minsait",
+   "owner": "Agency for Digital Development (ADD)",
+   "tiers": ""
+  }
+ ],
+ "note": "MASSAR is said to be operational on the interoperability platform, but the article states no exchange between education systems and no learner-record link."
+}

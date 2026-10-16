@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-22-wb-burundi-cash-for-jobs-embracing-smart-it",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The World Bank blog says the Merankabandi (Cash for Jobs) programme's CORE-MIS connects with multiple payment service providers, easing payment processing and reconciliation, and that field data collected with KoboToolbox flows directly into it; it was used to deliver emergency cash transfers to over 30,000 beneficiaries.",
+     "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CORE-MIS", "country_label": "Burundi", "class": "exchange", "platform": "CORE-MIS (openIMIS), open source, World Bank Social Protection Global Solutions Group", "owner": "Merankabandi (Cash for Jobs Project), hosted by the government at SETIC", "tiers": ""},
+    {"system": "Unified Social Registry", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

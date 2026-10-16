@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-education-management-information-system-emis",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Education, Arts and Culture, Directorate of Planning and Development", "tiers": ""}
+  ],
+  "note": "Ministry EMIS page describes twice-yearly school data collection and a login gateway; states no exchange with any other system."
+}

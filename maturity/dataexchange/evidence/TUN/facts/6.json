@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-tunisia-s-interoperability-platform-phase-1-institutions",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The Ministry of Communication Technologies' workshop statement says the UXP national interconnection platform was presented and the project launched in a first phase with four ministries (Interior, Education, Transport, Social Affairs), to extend to the other ministries in a second phase; the page has no dateline, so the published year is used.", "as_of": "2024", "date_precision": "year", "system": "UXP national interconnection platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UXP national interconnection platform", "country_label": "Tunisia", "class": "exchange", "platform": "UXP", "owner": "Ministry of Communication Technologies", "tiers": ""}
+  ],
+  "note": ""
+}

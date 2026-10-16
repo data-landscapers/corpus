@@ -1,0 +1,20 @@
+{
+  "slug": "2019-09-01-zwe-adea-emis-peer-review-report",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The ADEA peer review of September 2019 found no formal structures for data sharing among key education stakeholders in Zimbabwe, and recommended a data reporting and sharing platform.",
+     "as_of": "2019-09", "date_precision": "month",
+     "system": "Education Management Information System (EMIS)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The peer review reported that education data sit in different ministries and datasets, making a sector-wide report hard to produce, and recommended integrating education data into a consolidated annual report.",
+     "as_of": "2019-09", "date_precision": "month",
+     "system": "Education Management Information System (EMIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of Primary and Secondary Education (SPPRSD)", "tiers": "school, district, province, national"},
+    {"system": "Teacher Development Information System (TDIS)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of Primary and Secondary Education (SPPRSD)", "tiers": ""},
+    {"system": "MHTESTD central database", "country_label": "Zimbabwe", "class": "other", "platform": "local area network linking the ministry, universities and polytechnics", "owner": "Ministry of Higher and Tertiary Education, Science and Technology Development", "tiers": ""},
+    {"system": "HEXCO central database", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Higher Education Examination Council (HEXCO)", "tiers": "polytechnics enter student registration and results directly"}
+  ],
+  "note": "Document states no learner tracking or individual learner identification system (2019), but the learnerid aspect has no absence value, so no fact is recorded for it."
+}

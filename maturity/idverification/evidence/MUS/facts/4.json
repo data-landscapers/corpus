@@ -1,0 +1,14 @@
+{
+  "slug": "2022-04-15-mus-bom-central-kyc-mous-infohighway",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "Bank of Mauritius Governor said two tripartite MoUs were signed on 15 April 2022 with the Registrar of Civil Status, the Police and the ICT ministry so that the Central KYC system, with the Bank as gateway, lets banks and financial institutions verify customer identity against the Central Population Database via InfoHighway.",
+     "as_of": "2022-04-15", "date_precision": "day", "system": "Central KYC system", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Central KYC system", "country_label": "Mauritius", "class": "relying", "platform": "InfoHighway", "owner": "Bank of Mauritius", "tiers": ""},
+    {"system": "Central Population Database", "country_label": "Mauritius", "class": "other", "platform": "InfoHighway", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "InfoHighway", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

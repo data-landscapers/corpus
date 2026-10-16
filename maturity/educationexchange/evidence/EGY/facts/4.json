@@ -1,0 +1,11 @@
+{
+  "slug": "2023-09-01-egypt-education-sector-plan-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Education and Technical Education (MoETE)", "tiers": ""},
+    {"system": "Learning Management System (LMS)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "MoETE", "tiers": ""},
+    {"system": "Egyptian Knowledge Bank (EKB)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Student Information System", "country_label": "Egypt", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 2023 plan only proposes an integrated, interoperable EMIS ecosystem linked to national identification systems, a student and teacher digital profile and a shared non-formal education database; it states no link built, piloted or in service, so no fact."
+}

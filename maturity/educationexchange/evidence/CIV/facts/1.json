@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-25-c-te-d-ivoire-turns-to-digital-mapping-to-improve-school-planning",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Education Management Information System (SIGE)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of Education, with MCC support under a $536 million Compact", "tiers": ""}
+  ],
+  "note": "SIGE is described as one EMIS for HR, enrolment and examinations, tested in Bouaké and San Pedro; no link between two education systems, shared learner ID or national ID link is stated, and the GIS school map is not an education system."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-02-cybernetica-uxp-interoperability-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Biometric Update reports that SNDI signed a contract with Cybernetica to provide a secure data exchange layer (UXP) among government institutions, with a 20-month implementation project; date of signing not given, so the published date is used.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "Cybernetica UXP (X-Road based)",
+   "owner": "SNDI for the Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

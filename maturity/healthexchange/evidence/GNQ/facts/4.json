@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-08 Deploying DHIS2 for eLMIS to improve Malaria stock management in Equatorial Guinea",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 eLMIS for malaria commodities", "country_label": "Equatorial Guinea", "class": "other", "platform": "DHIS2", "owner": "Bioko Island Malaria Elimination Project with the Ministry of Health and Social Welfare", "tiers": "national"}
+  ],
+  "note": "A logistics module within the existing DHIS2 instance; it states no exchange between separate health systems."
+}

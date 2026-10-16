@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-07-even-on-the-rainiest-afternoons-in-eswatini",
+  "facts": [],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "Eswatini", "class": "other", "platform": "open-source electronic medical record", "owner": "Government of Eswatini (Ministry of Health)", "tiers": "73% of health facilities, 233 live sites"}
+  ],
+  "note": "Describes CMIS as a single EMR with cloud backup so records follow the patient; no exchange between health systems or national identifier linkage is stated."
+}

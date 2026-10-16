@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-papss-security-data-governance-dailycircular",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "GHA",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": "Story does not name Ghana beyond a Nigeria-Ghana transaction pattern; nothing on national ID use."
+}

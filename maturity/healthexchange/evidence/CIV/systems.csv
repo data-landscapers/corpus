@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,mHealth to DHIS2 (SIGSANTE) synchronisation,Côte d'Ivoire,exchange,"HL7 FHIR, secure APIs",mHealth (TICANALYSE),community to national,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire
+CIV,DHIS2 (SIGSANTE),Côte d'Ivoire,other,DHIS2,"Health Information Directorate, Ministry of Health",national,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire
+CIV,mHealth community platform,Côte d'Ivoire,other,mHealth,mHealth (TICANALYSE),community,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire
+CIV,mHealth platform,Côte d'Ivoire,other,,"Ministry of Health, Public Hygiene and Universal Health Coverage (UNICEF and Canada support)",community health workers; supervisors,2026-08-31-cote-divoire-gontougo-mhealth-650-equipements
+CIV,CMU registration number as health identifier,Côte d'Ivoire,exchange,,Government of Côte d'Ivoire (Ministry of Health),public and private health facilities,2024-07-10-cmu-numero-immatriculation-identifiant-sante
+CIV,mHealth.ci,Côte d'Ivoire,exchange,eCHIS developed by Ticanalyse,"Ministry of Health (DSCPS, DIS, DISD) with UNICEF",community health workers; frontline health workers,2026-05-04-mhealth-ci-acceptance-community-frontline-health-workers
+CIV,DHIS2,Côte d'Ivoire,other,DHIS2,Ministry of Health,national health information system,2026-05-04-mhealth-ci-acceptance-community-frontline-health-workers
+CIV,DHIS2,Côte d'Ivoire,other,DHIS2,Direction de l'Informatique et de l'Information Sanitaire (Ministry of Health),all 33 sanitary regions and 113 districts,2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
+CIV,MAGPI,Côte d'Ivoire,other,,Institut National d'Hygiène Publique,all 33 regions and 113 districts,2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
+CIV,SORMAS,Côte d'Ivoire,other,SORMAS,Institut National d'Hygiène Publique,"pilot in 2 regions and 11 districts, from July-August 2021 to June 2023",2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire

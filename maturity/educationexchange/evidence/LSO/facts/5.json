@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-lesotho-teacher-management-zambia-lessons",
+  "facts": [],
+  "systems": [
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Education and Training (Teaching Service Department)", "tiers": ""}
+  ],
+  "note": "TMIS is being developed on its own, with integration into national ICT infrastructure only a stated priority; no link between two education systems is stated."
+}

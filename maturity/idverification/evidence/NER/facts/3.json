@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-29-niger-agadez-reformes-etat-civil-identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  },
+  {
+   "system": "CNIB AES",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The RNP and its unique identifier are announced as still to be rolled out; no other system is said to check against the ID."
+}

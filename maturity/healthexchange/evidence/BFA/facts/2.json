@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-29-africa-frontline-first-burkina-faso-digital-community-health-roadmap",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "Africa Frontline First and Living Goods state that community health worker data are not integrated into the national health information system (DHIS2/ENDOS), most community health workers still use paper tools, and a roadmap prioritising that integration was co-created by the Ministry of Health with Africa CDC, Living Goods and UNICEF at a workshop on 8-12 September 2025, with finalisation, validation and resourcing still to come.",
+     "as_of": "2025-09", "date_precision": "month",
+     "system": "ENDOS (DHIS2) community health data integration", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2/ENDOS", "country_label": "Burkina Faso", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": ""
+}

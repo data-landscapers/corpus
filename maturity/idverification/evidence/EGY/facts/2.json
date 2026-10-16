@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EFG Hermes ONE e-passport verification (VLens)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "VLens",
+   "owner": "EFG Holding / EFG Hermes",
+   "tiers": ""
+  },
+  {
+   "system": "VLens",
+   "country_label": "Egypt",
+   "class": "",
+   "platform": "",
+   "owner": "VLens",
+   "tiers": ""
+  }
+ ],
+ "note": "Sandbox project verifies non-Egyptians by e-passport (other class); VLens's 4.3 million citizen verifications are not stated to be against the national ID."
+}

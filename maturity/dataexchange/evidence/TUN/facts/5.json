@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-08-tun-tunisienumerique-dgi-tej-nouvelles-fonctionnalites",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tej",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": "Tej is described as a tax-exchange platform for filing and supplier tax checks; the document does not say it carries data between public bodies' systems, so no exchange fact."
+}

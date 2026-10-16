@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)",
+  "facts": [],
+  "systems": [
+    {"system": "CNEDOGE (Centro Nacional de Emision de Documentos Oficiales)", "country_label": "GNQ", "class": "other", "platform": "biometric security issuance and verification devices for official documents", "owner": "Ministry of National Security (attached autonomous public entity)", "tiers": ""}
+  ],
+  "note": "Describes the ID issuer's mandate and issuance times only; no other system is said to check people against the national ID."
+}

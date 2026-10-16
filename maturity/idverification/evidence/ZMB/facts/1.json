@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-28-zambia-fisp-e-voucher-pdu",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked.",
+     "as_of": "2026-01-15", "date_precision": "day", "system": "FISP e-Voucher", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "FISP e-Voucher", "country_label": "Zambia", "class": "relying", "platform": "", "owner": "Ministry of Agriculture", "tiers": ""}
+  ],
+  "note": ""
+}

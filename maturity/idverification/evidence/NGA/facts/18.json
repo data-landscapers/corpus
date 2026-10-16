@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)",
+  "facts": [],
+  "systems": [
+    {"system": "APC membership e-registration", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "All Progressives Congress", "tiers": ""}
+  ],
+  "note": "Party e-registration is said to require a valid NIN but no check against NIMC is described; NINAuth is named only as NIMC's own consent-based service."
+}

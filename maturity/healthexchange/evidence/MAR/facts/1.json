@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-14-mohim-project-interoperability-digital-health-africa",
+  "facts": [],
+  "systems": [
+    {"system": "MOHIM (Morocco Health Interoperability and Maturity Lab) / CI-SIS Morocco", "country_label": "Morocco", "class": "other", "platform": "HL7 FHIR, DICOM, SNOMED CT profiles; IHE Gazelle test suite", "owner": "Center for e-Health Innovation (CIeS), Mohammed V University, with the Ministry of Health and Social Protection", "tiers": ""}
+  ],
+  "note": "Describes an interoperability framework, test lab and governance (CI-SIS, Shared Patient Record as a use case) with no stated exchange between health systems contracted, built, piloted or in service; class other."
+}

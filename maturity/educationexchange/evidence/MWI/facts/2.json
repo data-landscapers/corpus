@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS), with cohort tracking and Learner Identification Numbers", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "school, zone (ZEMIS), district (DEMIS), central"}
+  ],
+  "note": "Describes fragmented, paper-based, poorly integrated systems and LINs within EMIS cohort tracking; no exchange between education systems, shared identifier or link beyond is stated."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-17-aps-rnu-extension-996194-menages",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National Unique (RNU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Programme national de bourses de sécurité familiale",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "States the RNU update reached 996,194 households and names pending committee, manual and bursary-payment digitisation pilot, but no data link or shared use between systems."
+}

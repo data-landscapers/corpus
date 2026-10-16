@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-27-ict-national-ict-infrastructure-spatial-data-store",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ICT Infrastructure Spatial Data Store (NISDS)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "Esri (partner)",
+   "owner": "Ministry of ICT and National Guidance with NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a planned geospatial data store for ICT infrastructure, not a government data exchange platform; no fact."
+}

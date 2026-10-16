@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none",
+     "fact": "An adviser to the digital economy minister, in an op-ed, says administrations often work with systems that do not communicate with each other and that the government wants to build a data exchange platform between administrations (date is the document's published date, no event date given).",
+     "as_of": "2026-07-28", "date_precision": "day", "system": "plateforme d'échange de données entre les administrations", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "plateforme d'échange de données entre les administrations", "country_label": "Congo", "class": "exchange", "platform": "", "owner": "Ministry of digital economy", "tiers": ""}
+  ],
+  "note": ""
+}

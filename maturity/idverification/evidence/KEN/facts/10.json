@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-npdm-formerly-iprs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Data Management (NPDM), formerly IPRS / Maisha Integrated Population Register",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": "The page describes the ID register's own verification service and fees; it names no other system or institution relying on it."
+}

@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,NUIS (Numero Unique d'Identification Scolaire),Madagascar,exchange,,"Ministry of National Education with the Unite de gouvernance digitale, under the Prodigy project",national,2026-05-12-nuis-national-student-id-rollout
+MDG,SIGE (Systeme d'information de gestion de l'education),Madagascar,other,,"Ministry of National Education (DPE, DSI)",national,2025-03-01-papesi-evaluation-unesco-iiep
+MDG,.Stat Suite data warehouse and national statistics portal,Madagascar,other,.Stat Suite (SDMX),"Ministry of National Education, supported by UNESCO, OECD, UN DESA and ILO",national,2025-03-01-papesi-evaluation-unesco-iiep
+MDG,FPE,Madagascar,other,,Ministry of National Education (DSI),national,2025-03-01-papesi-evaluation-unesco-iiep

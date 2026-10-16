@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-lebara-nigeria-mvno-launch-techcabal",
+  "facts": [],
+  "systems": [
+    {"system": "Lebara Nigeria remote KYC (My LebaraNG app)", "country_label": "Nigeria", "class": "", "platform": "mobile app", "owner": "Lebara Nigeria", "tiers": ""}
+  ],
+  "note": "Remote KYC for SIM activation is described, but the document does not say it checks people against the national ID."
+}

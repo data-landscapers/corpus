@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "5",
+   "use": "inservice",
+   "sectors": "several",
+   "usage": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-003;MAR-008",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

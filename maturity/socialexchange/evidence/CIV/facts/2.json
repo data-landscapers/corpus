@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-25-elaboration-validation-indicateurs-rsu-cote-divoire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "Bureau de Coordination des Programmes Filets Sociaux",
+   "tiers": ""
+  }
+ ],
+ "note": "RSU holds 1.45 million households and 8.8 million people (set up 2019), but no programme draws on it and no link to the ID or other systems is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-09-gabon-school-health-sige-integration",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "country_label": "Gabon", "class": "other", "platform": "", "owner": "Ministry of National Education", "tiers": ""}
+  ],
+  "note": "The SIGE is an EMIS taking in school health indicators; no exchange with another system, shared learner identifier or learner-level link is stated."
+}

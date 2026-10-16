@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-kuyenda-investing-in-emis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": "States EMIS is adopted and collects enrolment, teacher and facility data; no exchange between systems, learner ID or link stated."
+}

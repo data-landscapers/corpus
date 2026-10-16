@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-07-thecitizen-bot-creditinfo-local-fraud-identity-kyc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Creditinfo fraud, identity verification and KYC solution",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Creditinfo Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": "Creditinfo's service verifies individuals against credit bureau data and official registries; the document does not say the national ID is one of them, so no fact."
+}

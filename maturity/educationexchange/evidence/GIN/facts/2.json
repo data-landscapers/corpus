@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-guinee-lancement-carte-scolaire-nationale",
+ "facts": [],
+ "systems": [
+  {
+   "system": "carte scolaire nationale",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Éducation Nationale (lead); INS validates data",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch of a national school map for planning; states no exchange between education systems, no learner identifier and no link."
+}

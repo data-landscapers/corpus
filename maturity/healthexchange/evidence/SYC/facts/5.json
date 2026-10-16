@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-01-moh-annual-performance-report-2022",
+  "facts": [],
+  "systems": [
+    {"system": "eHIS", "country_label": "Seychelles", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Passages list building one integrated health information system and implementing eHIS as NHSP 2022-2026 priorities, and the integrated system as a pending issue; no description of data passing between systems."
+}

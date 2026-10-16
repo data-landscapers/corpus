@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-15-namibia-mhaiss-eid-omaheke-campaign",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID (electronic identity card)", "country_label": "Namibia", "class": "other", "platform": "National Population Register", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+  ],
+  "note": "Describes the e-ID awareness campaign and says institutions would access card data with the holder's consent, naming no institution or live check against the ID."
+}

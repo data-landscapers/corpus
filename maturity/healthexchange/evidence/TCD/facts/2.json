@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-08-dhis2-tchad-systeme-information-sanitaire",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Chad", "class": "other", "platform": "DHIS2", "owner": "Ministère de la Santé Publique et de la Prévention (DSSIS)", "tiers": ""},
+    {"system": "Gesis", "country_label": "Chad", "class": "other", "platform": "", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": ""}
+  ],
+  "note": "Describes the national HMIS moving from Gesis to DHIS2 (96.4% of districts entering data directly, Nov 2022); Tracker and integration of other programmes are only next steps, so no exchange between systems is stated."
+}

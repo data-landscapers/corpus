@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-07 Malawi integrates immigration e-services",
+  "facts": [],
+  "systems": [
+    {"system": "Bomalathu", "country_label": "Malawi", "class": "other", "platform": "digital services platform / single government services portal", "owner": "Department of E-Government", "tiers": ""}
+  ],
+  "note": "Bomalathu is described as a single portal for e-services (25 being onboarded; used by MRA and NRB), not as a platform carrying data between public bodies' systems, so no exchange fact."
+}

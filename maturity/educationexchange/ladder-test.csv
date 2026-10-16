@@ -1,0 +1,55 @@
+iso3,stage,exchange,learnerid,linked,stage_sources
+AGO,no evidence,,,,
+BDI,2,underway,,,BDI-001;BDI-003
+BEN,no evidence,,,,
+BFA,2,underway,,,BFA-001;BFA-002
+BWA,no evidence,,,,
+CAF,3,inservice,,,CAF-001
+CIV,no evidence,,,,
+CMR,2,underway,,,CMR-001
+COD,1,none,,,COD-001
+COG,no evidence,,,,
+COM,no evidence,,,,
+CPV,no evidence,,,,
+DJI,no evidence,,,,
+DZA,no evidence,,,,
+EGY,no evidence,,,,
+ERI,no evidence,,,,
+ETH,2,underway,,,ETH-001;ETH-003
+GAB,unplaced,,,,
+GHA,2,underway,,,GHA-001
+GIN,4,inservice,shared,,GIN-002
+GMB,2,underway,,,GMB-001
+GNB,no evidence,,,,
+GNQ,no evidence,,,,
+KEN,3,inservice,,,KEN-002
+LBR,1,none,,,LBR-001
+LBY,3,inservice,,,LBY-001
+LSO,no evidence,,,,
+MAR,no evidence,,,,
+MDG,no evidence,,,,
+MLI,no evidence,,,,
+MOZ,no evidence,,,,
+MRT,5,inservice,shared,linked,MRT-001
+MUS,no evidence,,,,
+MWI,2,underway,,,MWI-001
+NAM,no evidence,,,,
+NER,no evidence,,,,
+NGA,5,inservice,shared,linked,NGA-003;NGA-002
+RWA,2,underway,,,RWA-001
+SDN,no evidence,,,,
+SEN,4,inservice,shared,,SEN-001
+SLE,2,underway,,,SLE-001;SLE-003
+SOM,5,inservice,shared,linked,SOM-004
+SSD,3,inservice,,,SSD-001
+STP,unplaced,,,,
+SWZ,5,inservice,shared,linked,SWZ-001;SWZ-002
+SYC,no evidence,,,,
+TCD,unplaced,,,,
+TGO,3,inservice,,,TGO-001
+TUN,no evidence,,,,
+TZA,2,underway,,,TZA-001
+UGA,5,inservice,shared,linked,UGA-005
+ZAF,2,underway,,,ZAF-001
+ZMB,no evidence,,,,
+ZWE,3,inservice,,,ZWE-001

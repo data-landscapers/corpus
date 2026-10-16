@@ -1,0 +1,15 @@
+{
+ "slug": "2022-10-01-zwe-rbz-collateral-registry-user-manual",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Collateral Registry System",
+   "country_label": "Zimbabwe",
+   "class": "",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "The manual takes a National Identification Number as a search key and form field; it states no check against the national ID database."
+}

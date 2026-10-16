@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-30-le-renouveau-projet-merankabandi-ii-bilan-mi-parcours",
+  "facts": [],
+  "systems": [
+    {"system": "Registre social unique (RSU)", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Merankabandi II project", "tiers": "national"},
+    {"system": "Système d'information de gestion (MIS) modernisé", "country_label": "Burundi", "class": "exchange", "platform": "government data centre", "owner": "Merankabandi II project", "tiers": ""}
+  ],
+  "note": "States 249,671 households registered in the RSU against a 290,000 target and the MIS deployed in the government data centre, but no link to another system and no second programme drawing on the registry."
+}

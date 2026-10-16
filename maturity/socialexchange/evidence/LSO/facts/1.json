@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01 Lesotho — RFP for NISSA social registry and MISSA",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The document says the management information system completed in January 2016 supported integrated social safety nets, naming the Child Grants Programme, the OVC Bursary and Public Assistance; this is the date given in the document for the system, with the programme list as the document's own examples.", "as_of": "2016-01", "date_precision": "month", "system": "Management Information System for Social Assistance (MISSA) / NISSA social registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Information System for Social Assistance (NISSA) social registry", "country_label": "Lesotho", "class": "exchange", "platform": "web-based on Microsoft platform with mobile data-collection app (earlier system)", "owner": "Ministry of Gender, Youth and Social Development", "tiers": ""},
+    {"system": "Management Information System for Social Assistance (MISSA)", "country_label": "Lesotho", "class": "exchange", "platform": "web-based on Microsoft platform with mobile data-collection app (earlier system)", "owner": "Ministry of Gender, Youth and Social Development", "tiers": ""}
+  ],
+  "note": "RFP in 2024 (closing 12 August) to rebuild the registry and MISSA is not a link or exchange; one fact on the earlier MIS supporting several programmes."
+}

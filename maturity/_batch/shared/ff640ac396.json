@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-29-newsmada-rahaka-interoperability-platform-launch",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Newsmada reports that the UGD, with World Bank-backed Prodigy and the digital ministry, launched the first stage of Rahaka on 28 April 2026, an X-Road-based secure data exchange layer, under decree n°2025-1959 on interoperability of public information systems; it names no connected bodies or data flows yet.",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "Rahaka",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rahaka",
+       "country_label": "Madagascar",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "UGD (Unite de gouvernance digitale)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Rahaka",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "X-Road",
+       "owner": "UGD (Unite de gouvernance digitale)",
+       "tiers": ""
+      }
+     ],
+     "note": "The body text describes a data exchange layer and says nothing about the national ID or checks against it."
+    }
+   }
+  }
+ }
+}

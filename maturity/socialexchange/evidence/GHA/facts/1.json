@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-gnhr-registry",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The Ghana National Household Registry page describes a single national database that serves as the primary platform for identifying and targeting beneficiaries of LEAP, school feeding and national health insurance (NHIS) enrolment; no date is given for the statement, so the page's published year is used.",
+     "as_of": "2024", "date_precision": "year", "system": "GNHR Registry (Ghana National Household Registry)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "GNHR Registry (Ghana National Household Registry)", "country_label": "GHA", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""}
+  ],
+  "note": ""
+}

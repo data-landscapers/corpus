@@ -1,0 +1,19 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,MEPU-A education management information system (EMIS),Guinea,other,,Ministry of Pre-University Education and Literacy (MEPU-A),,2023-12-21-wb-isr-guinee-education-base-p167478
+GIN,carte scolaire nationale,Guinea,other,,Ministère de l'Éducation Nationale (lead); INS validates data,,2026-04-29-guinee-lancement-carte-scolaire-nationale
+GIN,immatriculation numérique des élèves du primaire (plateforme),Guinea,other,,Ministère de l'Éducation nationale; direction générale des examens et contrôle scolaire,,2026-02-26-guinee-immatriculation-numerique-eleves-primaire
+GIN,Système informatisé de suivi des diplômés de l'ETFP,Guinea,other,,"Ministère de l'Enseignement Technique, de la Formation Professionnelle et de l'Emploi",,2025-09-30-ami-plateforme-centralisee-donnees-suivi-diplomes-etfp
+GIN,plateforme centralisée de collecte et d'analyse des données (ETFP),Guinea,other,,"Unité de gestion du projet ERAM 2, IsDB financing GIN-1016",,2025-09-30-ami-plateforme-centralisee-donnees-suivi-diplomes-etfp
+GIN,Système Intégré de Gestion des Universités (SIGU),Guinea,exchange,,Ministère de l'Enseignement supérieur,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,CENOU KIBARU,Guinea,other,,CENOU,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,SAMA Money,Guinea,other,,,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,Porte Educ,Guinea,,,Ministère de l'Éducation nationale,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,ANSAE,Guinea,,,,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,SIGOU,Guinea,,,,,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu
+GIN,Application de gestion des Examens et Concours (WinDev),Guinea,other,WinDev,"MEPUA, SNECSO",,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,base de données du personnel du MEPUA (Apex/Oracle),Guinea,other,Apex/Oracle,"MEPUA, DRH",,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,BAREME,Guinea,other,,MEPUA,,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,TRANSPARENCE,Guinea,other,,MEPUA,,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,Rapport de rentrée statistique (RSA) databases,Guinea,other,Access/Excel,"BSD, MEPUA",,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,Immatriculation et suivi des élèves du secondaire,Guinea,,,MEPUA,,2021-11-01-mepua-informatisation-digitalisation-sige
+GIN,SIGE agrégé (planned single integrated system),Guinea,other,,MEPUA,,2021-11-01-mepua-informatisation-digitalisation-sige

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-12-lesotho-nissa-data-update",
+  "facts": [],
+  "systems": [
+    {"system": "NISSA (National Information System for Social Assistance)", "country_label": "Lesotho", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Youth and Social Development", "tiers": ""}
+  ],
+  "note": "States NISSA household data dates from 2017 and is to be refreshed December 2025 to March 2026; no link or exchange with another system is stated."
+}

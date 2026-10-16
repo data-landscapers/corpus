@@ -1,0 +1,42 @@
+{
+ "slug": "2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "The case study says Botswana's health sector comprises numerous digital health systems that operate in isolation, constraining interoperability and limiting data exchange; dated by publication, no event date given.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Botswana health sector digital systems",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Master Patient Index",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "HL7 FHIR",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Shared Health Record",
+   "country_label": "Botswana",
+   "class": "exchange",
+   "platform": "HL7 FHIR",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Botswana eHealth Enterprise Architecture",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The architecture (developed 2023-2024, with a Master Patient Index and Shared Health Record) is a blueprint with no exchange stated as built or in service, so no underway fact."
+}

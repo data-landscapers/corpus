@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-16-burundi-central-bank-new-aml-cft-rules",
+  "facts": [],
+  "systems": [
+    {"system": "KYC and client identification circular (BRB)", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Bank of the Republic of Burundi (regulator)", "tiers": ""}
+  ],
+  "note": "Reports BRB's KYC circular of 30 January 2026 for banks, microfinance and payment providers; no check against the national ID is stated."
+}

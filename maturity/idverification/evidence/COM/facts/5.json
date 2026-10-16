@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-09-genkey-takes-over-comoros-biometric-passport-id-production-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric passport and national ID card production",
+   "country_label": "COM",
+   "class": "other",
+   "platform": "GenKey (from 31 March 2026; Semlex 2007-2026)",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes the ID system's own production contract and data storage; no other system checks people against the ID."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-14-jembi-birth-registration-interoperability",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Jembi reports that interoperability between the civil registration system e-SiRCEV and the hospital births module MGDH-births launched on 22 July 2024, after an Inhambane Province start in April and May 2024 that takes birth-registering facilities there from five to nineteen, with nationwide expansion planned.", "as_of": "2024-07-22", "date_precision": "day", "system": "e-SiRCEV and MGDH-births interoperability", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "e-SiRCEV (Electronic Civil Registration and Vital Statistics System)", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "MGDH-births (Hospital Data Management Module for Births Registration)", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Government of Mozambique", "tiers": "public hospitals and health centres"},
+    {"system": "e-SiRCEV and MGDH-births interoperability", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "Government of Mozambique with Jembi Health Systems and Saudigitus", "tiers": "hospitals to civil registration, Inhambane first"}
+  ],
+  "note": ""
+}

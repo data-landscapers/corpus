@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-mot-du-coordonnateur-wuri-niger",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WURI-Niger foundational ID (fID, NIU)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "The page gives interoperability of the fID with functional systems as a project aim and names no system that checks people against it."
+}

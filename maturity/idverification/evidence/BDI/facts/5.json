@@ -1,0 +1,14 @@
+{
+  "slug": "2025-04-01-uncdf-payment-infrastructure-assessment-burundi",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "none",
+     "fact": "UNCDF's assessment says citizens open bank and mobile money accounts by presenting national IDs, but Burundi has no national identity database to support financial institutions in KYC checks, so account-opening KYC is not checked against an ID register.",
+     "as_of": "2023-03", "date_precision": "month",
+     "system": "Bank and mobile money account-opening KYC", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Bank and mobile money account-opening KYC", "country_label": "Burundi", "class": "relying", "platform": "", "owner": "commercial banks and mobile money operators (Ecocash, Lumicash)", "tiers": ""},
+    {"system": "National identity card", "country_label": "Burundi", "class": "other", "platform": "non-biometric card", "owner": "Republic of Burundi", "tiers": ""}
+  ],
+  "note": "as_of 2023-03 is the data period the report states (data up to March 2023); the report is dated April 2025."
+}

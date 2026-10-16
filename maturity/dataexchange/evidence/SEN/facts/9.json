@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Enterprise Architecture (EAG)",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Telecommunications and Digital Economy",
+   "tiers": ""
+  },
+  {
+   "system": "digital government platform",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes an architecture framework, a planned inventory and a national interoperability system only as an aim; no exchange platform procured, built or in service."
+}

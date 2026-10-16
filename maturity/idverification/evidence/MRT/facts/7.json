@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-24-houwiyati-national-certificates-service-ami",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Houwiyati",
+   "country_label": "Mauritania",
+   "class": "",
+   "platform": "",
+   "owner": "Digital Transformation Ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "The service links education certificates to the NNI; it does not state that people are checked against the ID by another system."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-06-who-afro-namibia-launches-national-digital-health-policy-2026-2036",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "At the policy launch the health minister said many systems still operate in isolation, giving the example that a system managing HIV services may not connect with patient records or pharmaceutical supply systems.", "as_of": "2026-02-06", "date_precision": "day", "system": "health information systems", "class": "exchange"}
+  ],
+  "systems": [],
+  "note": "as_of is the article's published date, as it gives no launch date. The policy and its interoperability objective are not an exchange in service."
+}

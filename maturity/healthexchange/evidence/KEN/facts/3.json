@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Ministry of Health launched a Health Information Exchange as one of four components, described as real-time secure data exchange between hospitals, counties and national systems; no count of connected systems is given.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Health Information Exchange (HIE)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Health Information Exchange (HIE)",
+   "country_label": "Kenya",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Biometric Health Identification (BHI)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

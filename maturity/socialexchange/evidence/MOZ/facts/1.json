@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-19-worldbank-pid-social-registry-af1",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank's Additional Financing for the Social Protection and Economic Resilience Project (US$154.4m, estimated board date 28 May 2026) funds the legal and technical establishment of Mozambique's National Social Registry and its interoperability with civil registration, health and education data systems.",
+     "as_of": "2026-05", "date_precision": "month", "system": "National Social Registry (NSR)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The same financing pays to modernise the core INAS management information system (eINAS) for interoperability with other government platforms; the date given is the document's own, 19 May 2026.",
+     "as_of": "2026-05", "date_precision": "month", "system": "INAS Management Information System (eINAS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Social Registry (NSR)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "Ministry of Labor, Gender and Social Protection (DNPC, DNAS)", "tiers": ""},
+    {"system": "INAS Management Information System (eINAS)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "National Social Protection Institute (INAS)", "tiers": ""},
+    {"system": "Beneficiary registry (BR)", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "INAS", "tiers": ""}
+  ],
+  "note": ""
+}

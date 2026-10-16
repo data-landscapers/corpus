@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-18-kenya-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Kenya's Civil Registration Services says its CRVS system is integrated with the National ID system, so parents' National ID details are held in birth registration records and parents' details are verified during birth registration.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Kenya CRVS-National ID integration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya CRVS-National ID integration",
+   "country_label": "Kenya",
+   "class": "relying",
+   "platform": "",
+   "owner": "Civil Registration Services",
+   "tiers": ""
+  },
+  {
+   "system": "IPRS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Date is the presentation date, the document's published date; it gives no date for when the integration began."
+}

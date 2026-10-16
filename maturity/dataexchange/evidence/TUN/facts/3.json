@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-tunisie-cni-interoperability-solutions",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "CNI's page describes a national X-Road interoperability platform with three pilot services (tax situation, death notification, payslip), without a date on the page; published date used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National interoperability platform (xROAD)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National interoperability platform (xROAD)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "Centre National de l'Informatique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

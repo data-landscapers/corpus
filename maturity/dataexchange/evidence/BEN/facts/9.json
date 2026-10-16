@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Biometric Update says Benin is in the process of implementing inclusive DPI using Estonia's X-Road model, as shared by ASIN officials in a June webinar; no systems or figures given.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "X-Road model DPI",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road model DPI",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the article's published month; it gives no event date."
+}

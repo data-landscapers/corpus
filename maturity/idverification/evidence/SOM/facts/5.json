@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-somalia-nira-authentication",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA Authentication service (HUBIYE Portal)", "country_label": "Somalia", "class": "other", "platform": "HUBIYE Portal", "owner": "NIRA", "tiers": ""}
+  ],
+  "note": "NIRA's own authentication service is the ID system itself (class other); the page mentions relying party officers but names no relying system or sector."
+}

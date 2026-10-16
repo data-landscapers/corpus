@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-01-mak-transitions-digital-health-systems-assets",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "Makerere University's MakSPH-METS programme handed over 16 fully developed digital health systems to the Ministry of Health on 31 March 2026, among them OpenHIM, named as the platform for health information exchange, alongside UgandaEMR repositories, eIDSR and the Weekly Stock Status System.", "as_of": "2026-03-31", "date_precision": "day", "system": "OpenHIM", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "OpenHIM", "country_label": "Uganda", "class": "exchange", "platform": "OpenHIM", "owner": "Ministry of Health (handed over by Makerere University MakSPH-METS)", "tiers": "national"},
+    {"system": "DHIS2", "country_label": "Uganda", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "UgandaEMR", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "National Data Warehouse", "country_label": "Uganda", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "eIDSR", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

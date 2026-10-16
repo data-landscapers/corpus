@@ -1,0 +1,149 @@
+{
+ "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+ "countries": {
+  "ETH": {
+   "facts": [
+    {
+     "sub_indicator": "use",
+     "aspect": "use",
+     "value": "underway",
+     "fact": "The National Agricultural Finance Implementation Roadmap (NAFIR), newly established, incorporates the Fayda ID for farmers tied to a land registry of 18 million plots; no date given, published date 2026-03-03 used.",
+     "as_of": "2026-03",
+     "date_precision": "month",
+     "system": "NAFIR (National Agricultural Finance Implementation Roadmap)",
+     "class": "relying"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NAFIR",
+     "country_label": "Ethiopia",
+     "class": "relying",
+     "platform": "",
+     "owner": "Ethiopia",
+     "tiers": ""
+    },
+    {
+     "system": "Fayda",
+     "country_label": "Ethiopia",
+     "class": "other",
+     "platform": "",
+     "owner": "National ID Programme (NIDP)",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "KEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Huduma card",
+     "country_label": "Kenya",
+     "class": "other",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    },
+    {
+     "system": "National digital registry for farmers",
+     "country_label": "Kenya",
+     "class": "",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Says only that Kenya has explored linking the Huduma card to farm cooperatives; no link under way or in use is stated."
+  },
+  "NGA": {
+   "facts": [
+    {
+     "sub_indicator": "use",
+     "aspect": "use",
+     "value": "inservice",
+     "fact": "NIRSAL's farmer registration for subsidised inputs and loans required entering the National Identity Number, and the system failed to verify a rice farmer in Adamawa State (2024); a GEEP farmer likewise got a 'verification failed' message (reporter's account).",
+     "as_of": "2024",
+     "date_precision": "year",
+     "system": "NIRSAL farmer registration",
+     "class": "relying"
+    },
+    {
+     "sub_indicator": "use",
+     "aspect": "use",
+     "value": "inservice",
+     "fact": "The Federal Ministry of Agriculture launched a National Digital Farmers Registry in 2025, said by the minister to be anchored and accessed through the NIN; the ministry has since noted duplications and inconsistencies in the records.",
+     "as_of": "2025",
+     "date_precision": "year",
+     "system": "National Digital Farmers Registry",
+     "class": "relying"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NIRSAL registration portal",
+     "country_label": "Nigeria",
+     "class": "relying",
+     "platform": "",
+     "owner": "NIRSAL",
+     "tiers": ""
+    },
+    {
+     "system": "GEEP Growth Enhancement Support",
+     "country_label": "Nigeria",
+     "class": "relying",
+     "platform": "",
+     "owner": "NSIPA",
+     "tiers": ""
+    },
+    {
+     "system": "National Digital Farmers Registry",
+     "country_label": "Nigeria",
+     "class": "relying",
+     "platform": "",
+     "owner": "Federal Ministry of Agriculture",
+     "tiers": ""
+    },
+    {
+     "system": "NIN",
+     "country_label": "Nigeria",
+     "class": "other",
+     "platform": "",
+     "owner": "NIMC",
+     "tiers": ""
+    },
+    {
+     "system": "BVN",
+     "country_label": "Nigeria",
+     "class": "other",
+     "platform": "",
+     "owner": "CBN",
+     "tiers": ""
+    },
+    {
+     "system": "SIM registration",
+     "country_label": "Nigeria",
+     "class": "",
+     "platform": "",
+     "owner": "mobile network operators",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "RWA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Smart Nkunganire e-voucher",
+     "country_label": "Rwanda",
+     "class": "",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Describes an e-voucher for registered farmers; no check against the national ID is stated."
+  }
+ }
+}

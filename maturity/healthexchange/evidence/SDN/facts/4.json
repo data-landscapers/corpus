@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-sudan-health-information-system-assessment-2020",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software version 2 (DHIS2)", "country_label": "Sudan", "class": "other", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": "national"}
+  ],
+  "note": "Passages state an integrated HMIS (2013) on DHIS2 (since 2016) to reduce parallel reporting; a single platform, with no exchange between health systems stated."
+}

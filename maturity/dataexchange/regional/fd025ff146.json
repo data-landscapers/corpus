@@ -1,0 +1,6 @@
+{"slug": "2025-12-19-smart-africa-ascend-sadx-pilot", "countries": {
+"BEN": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Benin", "class": "other", "platform": "", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a continental cross-border platform between states, class other; no fact."},
+"COG": {"facts": [], "systems": [], "note": "Republic of the Congo is not named in the story."},
+"GHA": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a continental cross-border platform between states, class other; no fact."},
+"RWA": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a continental cross-border platform between states, class other; no fact."}
+}}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "ANATS and Airtel Tchad signed a partnership on 8 May 2026 under which ANATS will verify Airtel's customer data and interconnect the two systems to identify mobile subscribers, with the enrolment campaign due to start in the following days (Tchadinfos report).",
+     "as_of": "2026-05-08", "date_precision": "day",
+     "system": "ANATS-Airtel Tchad subscriber identification partnership", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "ANATS-Airtel Tchad subscriber identification partnership", "country_label": "Chad", "class": "relying", "platform": "", "owner": "Airtel Tchad; ANATS", "tiers": ""}
+  ],
+  "note": ""
+}

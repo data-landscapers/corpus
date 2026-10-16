@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-07-unesco-renforcement-sige-burundi-cadres-menrs-formation-yaounde",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "country_label": "Burundi", "class": "other", "platform": "Microsoft SQL Server 2022", "owner": "Ministère de l'Éducation nationale et de la Recherche scientifique", "tiers": ""}
+  ],
+  "note": "Database-administration training for seven ministry staff in May 2026; it states no data exchange between education systems, no learner ID and no link to another sector."
+}

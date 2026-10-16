@@ -1,0 +1,11 @@
+{
+  "slug": "2022-06-01-ghana-health-information-system-strategic-plan-2022-2025",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Management System (DHIMS)", "country_label": "Ghana", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Ghana Integrated Logistics Management Information System (GhILMIS)", "country_label": "Ghana", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Medical Records System (EMRS)", "country_label": "Ghana", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Human Resource Information System (HRIS)", "country_label": "Ghana", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages give a strategy objective on data exchange (inter-operability) with no exchange in service or under way stated; systems appear only in the acronym list."
+}

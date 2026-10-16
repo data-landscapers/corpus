@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-30-dhis2-school-reporting-edo-state",
+  "facts": [],
+  "systems": [
+    {"system": "EdoEMIS", "country_label": "Nigeria (Edo State)", "class": "other", "platform": "DHIS2", "owner": "Edo State Ministry of Education", "tiers": "state"}
+  ],
+  "note": "EdoEMIS is a state school-reporting EMIS in 51 pilot schools; the article states no exchange with another education system, no shared learner identifier and no link to the national ID, and only a future plan for an individual-level SEMIS."
+}

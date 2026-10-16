@@ -1,0 +1,16 @@
+{
+  "slug": "2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "FHI 360's EpiC Lesotho request for proposal seeks a consultant, July to September 2026, to coordinate integration and interoperability of its LEAD, Infolink and DHIS2 Tracker systems with the national DHIS2 platform and partner platforms, and to create import files from Tracker DHIS2 systems for aggregate systems.",
+     "as_of": "2026-06-19", "date_precision": "day",
+     "system": "Integration of LEAD, Infolink and DHIS2 Tracker with the national DHIS2 platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LEAD", "country_label": "Lesotho", "class": "", "platform": "", "owner": "FHI 360 EpiC Lesotho project", "tiers": ""},
+    {"system": "Infolink", "country_label": "Lesotho", "class": "", "platform": "", "owner": "FHI 360 EpiC Lesotho project", "tiers": ""},
+    {"system": "DHIS2 Tracker", "country_label": "Lesotho", "class": "other", "platform": "DHIS2", "owner": "FHI 360 EpiC Lesotho project", "tiers": "project sites"},
+    {"system": "National DHIS2 platform", "country_label": "Lesotho", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "The as_of is the document's published date; the document gives no start date for the integration work beyond the consultancy window (the posting is a solicitation, not an award)."
+}

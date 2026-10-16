@@ -1,0 +1,13 @@
+# Niger
+
+## Interoperability of health systems
+
+**Health systems exchanging data.** [Data.FI Project says a national interoperability layer on OpenFn now enables automated data exchange between three health platforms and the national DHIS2-based health information system](<https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC>). [At the 8 July 2026 workshop validating the e-Santé roadmap 2025-2029, the national interoperability layer was demonstrated and its presenter said it is already operational with several systems, with Estelab disease-surveillance data now transferred automatically into DHIS2 without manual weekly entry at health centres, districts and hospitals](<https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/>).
+
+**Exchange across the health system.** [Data.FI Project says the layer connects three health platforms to DHIS2, four systems in all, out of more than 32 digital health platforms Niger had in 2023](<https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC>).
+
+**Patients matched by a national identifier.** No source held since October 2023 says patient records are linked through the national ID or a national health identifier. The nearest held fact: [the one given above](<https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC>).
+
+***Noted, not assessed***. [national DHIS2-based health information system](<https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC>); [Estelab](<https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/>); [DHIS2](<https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/>); [OpenClinic](<https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/>); [OpenIMIS](<https://www.openhexa.com/fr/openhexa-premiere-couche-de-gestion-des-interoperabilites-entre-les-plateformes-en-sante-en-niger/>); [SNIS](<https://www.openhexa.com/fr/openhexa-premiere-couche-de-gestion-des-interoperabilites-entre-les-plateformes-en-sante-en-niger/>).
+
+***Not held***. No source held since October 2023 says patient records are linked through the national ID or a national health identifier.

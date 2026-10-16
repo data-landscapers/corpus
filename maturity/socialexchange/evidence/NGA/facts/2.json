@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-10-multidimensional-poverty-social-protection-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "National Social Register (NSR)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Office of the Honourable Minister for Humanitarian Affairs and Poverty Reduction", "tiers": ""},
+    {"system": "P-CGS (Public Cash Grant)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "VGF (Vulnerable Groups Fund)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CCT (Conditional Cash Transfer)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Reports NSR coverage (69.93 million individuals, 47.4% of the poor unregistered) and programme reach; no link, exchange or shared registry use is stated, and linking NSR enrolment to programme eligibility appears only as a recommendation."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-17-kenya-treasury-dpmis-development-partner-tracking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Development Partners Management Information System (DPMIS)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "DPMIS is a management information system for development-partner funding data, not an exchange between public bodies' systems."
+}

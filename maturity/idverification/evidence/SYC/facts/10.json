@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "Seychelles", "class": "other", "platform": "WISeID (WISeKey)", "owner": "Government of Seychelles", "tiers": ""}
+  ],
+  "note": "States only that the SeyID digital ID card carries a QR code able to support third-party verification such as bank account opening; no named relying system or use, so no fact."
+}

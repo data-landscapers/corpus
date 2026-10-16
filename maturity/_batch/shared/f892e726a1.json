@@ -1,0 +1,52 @@
+{
+ "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "Biometric Update says Cabo Verde launched the Autentika interoperability platform, linking its civil registration and national identity systems, within the past five years, with birth registration at 99 percent and registration of deaths in health facilities at 100 percent.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Autentika",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Autentika",
+       "country_label": "Cabo Verde",
+       "class": "exchange",
+       "platform": "",
+       "owner": "IMIJ (Institute for Justice Modernization and Innovation)",
+       "tiers": ""
+      }
+     ],
+     "note": "as_of is the published date; the launch date is given only as within five years."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Autentika",
+       "country_label": "Cabo Verde",
+       "class": "other",
+       "platform": "",
+       "owner": "IMIJ (Institute for Justice Modernization and Innovation)",
+       "tiers": ""
+      }
+     ],
+     "note": "Autentika links civil registration and ID; the document names no other system checking people against the national ID, only planned expansion of use across public services."
+    }
+   }
+  }
+ }
+}

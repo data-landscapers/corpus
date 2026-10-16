@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-19-world-bank-digital-gabon-isr-seq7",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The World Bank's Digital Gabon ISR (Dec 2024) sets a closing-2026 target of 5 government entities exchanging data on the government interoperability platform, with the actual at baseline 0, and the loan only 1.92% disbursed.", "as_of": "2024-12-19", "date_precision": "day", "system": "government interoperability platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "government interoperability platform", "country_label": "Gabon", "class": "exchange", "platform": "", "owner": "CN-TIPPEE (Digital Gabon project implementing agency)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated national digital ID ecosystem (MOSIP-based)", "country_label": "Lesotho", "class": "other", "platform": "MOSIP", "owner": "MICSTI", "tiers": ""}
+  ],
+  "note": "Work plan for the ID system itself; identity verification for financial services is a stated aim with no named service or link."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-28-worldbank-car-emergency-food-crisis-af2-project-paper",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "underway",
+      "fact": "The World Bank project paper says the Emergency Food Crisis Response Project's beneficiary registration system will consolidate and update the parent project's beneficiary databases, with the Ministry of Agriculture and the National Statistical Institute, and cross-check them against existing registries to reduce duplication.",
+      "as_of": "2026-05-28",
+      "date_precision": "day",
+      "system": "Beneficiary registration system (Emergency Food Crisis Response Project)",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Beneficiary registration system (Emergency Food Crisis Response Project)",
+      "country_label": "CAF",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Agriculture and Rural Development",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

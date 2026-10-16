@@ -1,0 +1,39 @@
+{
+ "slug": "2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIB AES",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Police nationale",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Amana",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NITA",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Enrolment for the ID card itself, with fees payable by mobile money; no other system is said to check people against the ID."
+}

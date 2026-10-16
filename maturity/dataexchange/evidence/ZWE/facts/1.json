@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-08-zwe-mavetera-enterprise-architecture-linkedin",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Zimbabwe's Minister of ICT said in an official LinkedIn post that the government is implementing a Government Service Bus and online portal for once-only data sharing across all ministries, with no statement that it is live.", "as_of": "2026-05-07", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus", "country_label": "Zimbabwe", "class": "exchange", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "On 20 August 2026 the minister presented the state of operationalisation of X-Road, the national interoperability platform piloted by ANDE and meant to enable exchange between administration information systems; no connected systems or figures are given.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "Guinea",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANDE",
+   "tiers": ""
+  },
+  {
+   "system": "Portail national e-service",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Administrative Modernisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

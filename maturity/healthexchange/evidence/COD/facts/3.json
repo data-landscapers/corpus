@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DRC", "class": "other", "platform": "DHIS2", "owner": "DRC government with Africa CDC", "tiers": ""}
+  ],
+  "note": "Names DHIS2 for outbreak data collection and sharing, with no exchange between health systems stated."
+}

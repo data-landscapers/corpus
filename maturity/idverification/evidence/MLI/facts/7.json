@@ -1,0 +1,23 @@
+{
+  "slug": "2025-03-20-wearetech-tresorpay-guichet-unique-foncier",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Tresor Pay",
+      "country_label": "Mali",
+      "class": "other",
+      "platform": "mobile-money operators",
+      "owner": "CAISFF with National Directorate of Treasury and Public Accounting",
+      "tiers": ""
+    },
+    {
+      "system": "Système d'information foncière / Guichet unique foncier (SIF/GUF)",
+      "country_label": "Mali",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Payment and land platforms are described; neither is stated to check people against the national ID."
+}

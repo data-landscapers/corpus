@@ -1,0 +1,15 @@
+{
+  "slug": "2016-01-01-id4d-country-diagnostic-botswana",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The World Bank ID4D diagnostic, prepared in September 2015, says Botswana's National Identity Management System is linked with the electoral system, the Social Benefit Registration System (SOBERS), government payroll and the transport system, and is interfaced with many government systems for online authentication of person identity.", "as_of": "2015-09", "date_precision": "month", "system": "National Identity Management System (NIS)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The diagnostic names the electoral system, social benefits (SOBERS), government payroll and the transport system as linked to the national identity system, which is more than one sector.", "as_of": "2015-09", "date_precision": "month", "system": "National Identity Management System (NIS)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "National Identity Management System (NIS) / Omang", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": ""},
+    {"system": "Electoral system", "country_label": "Botswana", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Social Benefit Registration System (SOBERS)", "country_label": "Botswana", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Government payroll", "country_label": "Botswana", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Transport system", "country_label": "Botswana", "class": "relying", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

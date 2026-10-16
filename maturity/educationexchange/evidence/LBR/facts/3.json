@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-02-liberia-au-iped-emis-peer-review-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education Management Information System",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "States limited integration across sub-sectors with no named link, date or system pair; no usable fact."
+}

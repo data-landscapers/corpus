@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,Système d'Information et de Gestion de l'Éducation (SIGE),Mali,other,,Ministère de l'Éducation nationale (CPS-SE),,2026-03-16-unesco-mali-sige-statistiques-sante-scolaire
+MLI,Education Management Information System,Mali,other,,CPS Education (Ministry of National Education),,2025-12-19-mali-miqra-isr-seq10-emis
+MLI,StatEduc-2,Mali,other,"SQL Server database (formerly Access), data entry and processing over a VPN","CPS-SE, Ministere de l'Education Nationale","central, academies (AE) and animation centres (CAP)",2017-01-01-mali-adea-revue-par-les-pairs-sige

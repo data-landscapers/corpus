@@ -1,0 +1,15 @@
+{
+ "slug": "2018-09-01-anuario-estadistico-educacion-2014-2015",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS (SIME)",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministerio de Educación y Ciencia / PRODEGE",
+   "tiers": ""
+  }
+ ],
+ "note": "Passages give only the EMIS abbreviation and yearbook front matter; no exchange, learner identifier or link stated."
+}

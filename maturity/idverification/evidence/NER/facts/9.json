@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-07-cnib-aes-mass-enrolment-launch-lesahel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Carte nationale d'identité biométrique AES (CNIB)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Card enrolment is the ID system itself; access to health, education and banking services is stated as a future benefit, with no service named as checking the ID."
+}

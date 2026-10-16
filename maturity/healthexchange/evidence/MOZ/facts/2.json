@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-29-connecting-health-information-systems-hiv-care",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "C-Saude reports that the laboratory information system DISA sends viral load results automatically to the patient tracking system SESP, covering all provinces with more than 500 facilities and over a million results transmitted in the past 12 months.", "as_of": "2025-10", "date_precision": "month", "system": "DISA-SESP interoperability platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DISA (Laboratory Information System)", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "referral laboratories"},
+    {"system": "SESP (Electronic Patient Tracking System)", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "health facilities"},
+    {"system": "DISA-SESP interoperability platform", "country_label": "Mozambique", "class": "exchange", "platform": "HL7-based applications", "owner": "Ministry of Health with C-Saude and US Government support", "tiers": "referral laboratories to health facilities, national"}
+  ],
+  "note": ""
+}

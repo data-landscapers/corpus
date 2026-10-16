@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The director general says an interoperability system is being worked on that will let social protection bodies, among others, verify a national ID card's authenticity in real time.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "système d'interopérabilité (DGPF)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "système d'interopérabilité (DGPF)",
+   "country_label": "Djibouti",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Direction générale de la Population et de la Famille",
+   "tiers": "social protection bodies named among users"
+  }
+ ],
+ "note": "Social protection is one named user of a planned ID-verification link; no social registry or programme system is described. Date is the published date."
+}

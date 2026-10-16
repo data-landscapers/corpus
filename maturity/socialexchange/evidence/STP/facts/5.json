@@ -1,0 +1,42 @@
+{
+ "slug": "2025-09-12-wb-stp-003-social-protection-additional-financing",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The World Bank's record of the additional financing says the project continues an electronic cash-transfer payment system built through a partnership with a financial institution, alongside the Ké-Non management information system and the Unique Social Registry.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "Ké-Non management information system",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ké-Non management information system",
+   "country_label": "STP",
+   "class": "exchange",
+   "platform": "CORE-MIS / openIMIS (open source)",
+   "owner": "Government of STP, via DPSSF",
+   "tiers": ""
+  },
+  {
+   "system": "Unique Social Registry (CSU)",
+   "country_label": "STP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DPSSF",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic cash-transfer payment system of the Programa Família Vulnerável",
+   "country_label": "STP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DPSSF with a financial institution",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the document's published date; the document names digital-ID linkages as intended only, in a record that does not itself state them as a fact."
+}

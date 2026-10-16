@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sahetna.tn",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "National Health Identifier (INS)",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a portal and identifier rollout (15,000 issued per minister on 22 June 2026); does not state records linked or exchanged between systems."
+}

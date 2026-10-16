@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SWZ,national e-KYC system,Eswatini,relying,national identity verification platform / e-KYC registry,Central Bank of Eswatini,Royal Science and Technology Park provides infrastructure,2025-09-26-eswatini-national-ekyc-system
+SWZ,civil registry access for commercial banks,Eswatini,relying,,Ministry of Home Affairs,commercial banks,2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
+SWZ,SIM card registration,Eswatini,other,,Minister of ICT (Legal Notice No. 26 of 2016),"mobile operators collect names, addresses, identity numbers and facial images; no check against the ID is stated",2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
+SWZ,Smile ID document verification,Eswatini,other,Smile ID,Smile ID,private vendor; checks ID document authenticity and selfie match to the document image,2025-01-01-smile-id-eswatini-identity-verification
+SWZ,ENPF KYC verification,Eswatini,,,Eswatini National Provident Fund,,2026-10-07-swz-times-enpf-express-claims-payment-gateway
+SWZ,Eswatini national identity card and civil registration (Ministry of Home Affairs),Eswatini,other,,Ministry of Home Affairs,,2026-09-23-swz-independentnews-cat-matlala-eswatini-id-saga
+SWZ,Ministry of Home Affairs civil-registration system,Eswatini,other,,Ministry of Home Affairs,,2026-08-18-home-affairs-chief-codes-verification
+SWZ,National ID card production system (Ministry of Home Affairs),Eswatini,other,,Ministry of Home Affairs,,2026-02-23-id-card-services-resume

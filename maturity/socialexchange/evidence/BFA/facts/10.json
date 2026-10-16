@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-22-worldbank-pad-economic-opportunities-resilience-project",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank appraisal document says Component 2 of the proposed Economic Opportunities for Resilience Project supports development of interoperable systems, including social registries and Government payment platforms, and sets an outcome indicator on databases or systems connected to the social registry.",
+     "as_of": "2026-05-22", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The document says a unique ID supported under the WURI project is a prerequisite to realize the integrated system envisioned under the project, which links to the social registry's Component 2 financing; it gives no date for the link going live.",
+     "as_of": "2026-05-22", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The document says the RSU and the internally displaced persons data are managed separately, while coordination efforts are under way; date is the document's published date, as it gives none for the statement.",
+     "as_of": "2026-05-22", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared",
+     "fact": "The document says the social registry is a gateway for various social programs to select their beneficiaries, and that PAMPV economic inclusion beneficiaries will be selected from the RSU database; it states the RSU covers about one-quarter of poor and vulnerable households and is rolled out in 10 regions.",
+     "as_of": "2026-05-22", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "Burkina Faso", "class": "exchange", "platform": "", "owner": "Ministry of Family and Solidarity (ST-RSU)", "tiers": ""},
+    {"system": "PAMPV (Programme d'Appui a l'Autonomisation des Menages Pauvres et Vulnerables)", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Ministry of Family and Solidarity", "tiers": ""},
+    {"system": "WURI unique ID", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CONASUR IDP databases", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "SP-CONASUR", "tiers": ""}
+  ],
+  "note": ""
+}

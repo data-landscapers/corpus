@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-openimis-comores-amg-digital-pilot",
+  "facts": [],
+  "systems": [
+    {"system": "openIMIS (AMG enrolment and claims)", "country_label": "Comoros", "class": "other", "platform": "openIMIS", "owner": "UTGAM, Ministry of Health", "tiers": "pilot on Moheli"}
+  ],
+  "note": "A single insurance enrolment and claims system; it says 68 facilities are integrated but does not state data exchange with another health system."
+}

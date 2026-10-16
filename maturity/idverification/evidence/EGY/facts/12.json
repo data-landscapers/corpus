@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-10-egypt-moieg-pass-selfie-biometrics-pilot-biometricupdate",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The Interior Ministry announced a pilot of MOIEG-PASS, a selfie-biometric app built with the Communications and IT Ministry in which users scan their national ID and face to authenticate for a selected number of government services, with scaling to be decided after the pilot; as_of is the document's published date, none being given for the event.", "as_of": "2026-03-10", "date_precision": "day", "system": "MOIEG-PASS", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "MOIEG-PASS", "country_label": "Egypt", "class": "relying", "platform": "Android app, iOS expected", "owner": "Ministries of Interior and of Communications and Information Technology", "tiers": ""}
+  ],
+  "note": ""
+}

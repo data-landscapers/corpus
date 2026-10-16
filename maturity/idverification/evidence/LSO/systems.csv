@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,SIM card registration (Communications (Subscriber Identity Module Registration) Regulations 2021),Lesotho,other,,Lesotho Communications Authority,,2023-11-23-lca-final-call-for-sim-registration
+LSO,Lesotho digital identity card,Lesotho,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+LSO,Lesotho Exemption Permit electronic verification,Lesotho,relying,,South Africa Department of Home Affairs,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+LSO,SADC cross-border DPI framework / federated eKYC ecosystem,Lesotho,relying,,"SADC CCBG, Co-Develop, FinMark Trust",,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries"
+LSO,EcoCash wallet KYC,Lesotho,other,EcoCash,Econet Telecom Lesotho,tier 1 (ID submitted/updated),2025-10-01-econet-hoa-khonahala-terms
+LSO,FinMark Trust Lesotho-South Africa cross-border identity verification pilot,Lesotho,relying,,FinMark Trust,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
+LSO,Border e-gates (ID scanning),Lesotho,other,,Office of Immigration,,2026-04-22-lesotho-south-africa-border-crossing-id-cards
+LSO,Integrated national digital ID ecosystem (MOSIP-based),Lesotho,other,MOSIP,MICSTI,,2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate
+LSO,MOSIP,Lesotho,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,X-Road,Lesotho,other,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,IEC voter registration system,Lesotho,relying,,Independent Electoral Commission,,2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project
+LSO,National Identity Register,Lesotho,other,,"Director responsible for national identity cards, Ministry of Home Affairs",,2011-03-21-lesotho-national-identity-cards-act-2011

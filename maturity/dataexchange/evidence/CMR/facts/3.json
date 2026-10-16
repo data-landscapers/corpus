@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun",
+  "facts": [],
+  "systems": [
+    {"system": "CNEF IT platform", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "CNEF", "tiers": ""}
+  ],
+  "note": "Describes a financial-consumer-protection database platform fed by regulated institutions, not an exchange between public bodies' systems."
+}

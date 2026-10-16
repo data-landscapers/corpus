@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-05-dza-elwatan-centre-national-services-numeriques",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "El Watan reports that the national digital services centre is to support the progressive rollout of the interoperability platform, the National Database for Public Service and the national cloud, with a second data centre planned at Blida; as_of is the document's published date.", "as_of": "2026-07-05", "date_precision": "day", "system": "Plateforme d'interopérabilité", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité", "country_label": "Algeria", "class": "exchange", "platform": "", "owner": "Haut commissariat à la numérisation", "tiers": ""},
+    {"system": "Centre national algérien des services numériques (Mohammadia)", "country_label": "Algeria", "class": "other", "platform": "Huawei-led consortium; active-active data centres", "owner": "Haut commissariat à la numérisation", "tiers": ""},
+    {"system": "Portail national des services publics", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": "about forty services in a first stage"},
+    {"system": "Base nationale de données pour le service public", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

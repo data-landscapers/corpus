@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The Ministry of Communication Technologies presented the new national interoperability platform UXP at a workshop on 7 February 2024 and said the project was launched in a first phase with four ministries (Interior, Education, Transport, Social Affairs), to be extended to the other ministries in a second phase; the document does not say data is yet flowing.", "as_of": "2024-02-07", "date_precision": "day", "system": "UXP (Unified eXchange Platform)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UXP (Unified eXchange Platform)", "country_label": "Tunisia", "class": "exchange", "platform": "UXP", "owner": "Ministry of Communication Technologies", "tiers": "national"}
+  ],
+  "note": ""
+}

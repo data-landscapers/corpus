@@ -1,0 +1,19 @@
+{
+  "slug": "2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "MoGCSP's terms of reference say its social protection programmes and other systems operate in silos with data dispersed across systems, limited interoperability and each programme running its own servers, and seek a firm to build a unified data exchange platform linking them to the National ID Registry.",
+     "as_of": "2026-08-29", "date_precision": "day", "system": "Ghana Integrated Social Protection Information System (GISPIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Ghana Integrated Social Protection Information System (GISPIS)", "country_label": "Ghana", "class": "exchange", "platform": "unified data exchange platform to be developed", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Ghana National Household Registry (GNHR)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Livelihood Empowerment Against Poverty (LEAP)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Social Protection Single Window Citizens Service (SWCES)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Social Protection Monitoring and Evaluation Management Information System (SP MEMIS)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Social Welfare Information Management System (SWIMS)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Identification Authority (NIA) Database", "country_label": "Ghana", "class": "other", "platform": "", "owner": "National Identification Authority", "tiers": ""},
+    {"system": "Ghana Interbank Payment and Settlement System (GhIPSS) and e-Zwich", "country_label": "Ghana", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

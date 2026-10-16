@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-20-cybernetica-piloted-interoperability-platform-kenya",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "Cybernetica reports a GIZ, EU and ESTDEV-funded pilot, April 2024 to June 2025, for Kenya's Ministry of ICT and ICT Authority that built an X-Road-based test environment platform with two demo integrated public services and a service catalogue.",
+     "as_of": "2025-06", "date_precision": "month", "system": "interoperability platform (X-Road test environment)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "interoperability platform (X-Road test environment)", "country_label": "Kenya", "class": "exchange", "platform": "X-Road (GovStack information mediator building block)", "owner": "Ministry of ICT; ICT Authority", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,NIA Identity Verification System,Ghana,other,,National Identification Authority,,2026-07-23-graphic-ghana-card-photocopying-november-2-deadline
+GHA,DVLAverify,Ghana,other,mobile app and web portal,Driver and Vehicle Licensing Authority,,2026-09-23-gha-myjoyonline-dvlaverify-app-web-verification
+GHA,SIM registration (Ghana Card linkage),Ghana,relying,,"Ministry of Communication, Digital Technology and Innovations; National Communications Authority; mobile network operators",,2026-09-07-ghana-biometric-sim-verification-resolve-unshaken
+GHA,SIM registration (Ghana Card linkage),Ghana,relying,,"Ministry of Communication, Digital Technology and Innovations; National Communications Authority; mobile network operators",,2026-08-19-modern-ghana-ghana-sim-registration-reset-what-past
+GHA,Bank identity verification against the National Identity Register,Ghana,relying,,Financial institutions,,2026-03-23-ghana-card-non-negotiable-sim-graphic
+GHA,New nationwide SIM registration,Ghana,relying,,"Ministry of Communications, Digital Technology and Innovations",,2025-12-05-ghana-new-sim-registration-2026-telecomreview
+GHA,SIM card re-registration (2021-22),Ghana,relying,,telecommunications companies,,2025-10-13-ghana-2022-sim-biometric-never-authenticated-biometricupdate
+GHA,SIM card to Ghana Card linkage framework,Ghana,relying,,National Identification Authority,,2025-10-13-ghana-2022-sim-biometric-never-authenticated-biometricupdate
+GHA,SIM re-registration,Ghana,relying,fully online platform,Ministry of Communication,,2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025
+GHA,Smile ID identity verification,Ghana,relying,,Smile ID (Smile Identity),,2023-01-01-norrsken22-reg-smileid-2023-norrsken22-co-leads-smile-id-series-b
+GHA,Ghana Card e-wallet,Ghana,relying,Ghana Card,National Identification Authority,,2026-09-21-biometricupdate-ghana-card-digital-wallet-mobile-money
+GHA,Identity Verification System Platform (IVSP),Ghana,other,NIA biometric verification against the National Identity Register,National Identification Authority,,2026-07-27-templars-ghana-li-2523-client-alert
+GHA,Ghana Card biometric verification by organisations,Ghana,relying,,,,2026-07-27-templars-ghana-li-2523-client-alert
+GHA,Identity Verification System Platform (IVSP),Ghana,other,NIA biometric verification against the National Identity Register,National Identification Authority,,2026-07-22-ghana-nia-mandatory-biometric-verification-li-2523
+GHA,Ghana Card biometric verification by organisations,Ghana,relying,,,,2026-07-22-ghana-nia-mandatory-biometric-verification-li-2523
+GHA,Identity Verification System Platform (IVSP),Ghana,other,NIA biometric verification against the National Identity Register,National Identification Authority,,2026-07-16-nia-li-2523-biometric-verification-press-release
+GHA,Ghana Card biometric verification by organisations,Ghana,relying,,,,2026-07-16-nia-li-2523-biometric-verification-press-release
+GHA,Identity Verification System Platform (IVSP),Ghana,other,NIA biometric verification against the National Identity Register,National Identification Authority,,2026-07-15-photocopying-ghana-card-illegal-fines-graphic
+GHA,Bank of Ghana customer identification via Ghana Card,Ghana,relying,,,,2026-07-15-photocopying-ghana-card-illegal-fines-graphic
+GHA,SIM registration against Ghana Card,Ghana,relying,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
+GHA,Liveness detection system connected to NIA database,Ghana,,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
+GHA,Bank of Ghana KYC onboarding against the Ghana Card,Ghana,relying,NIA database,Bank of Ghana (regulator); financial institutions,,2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG
+GHA,SIM card to Ghana Card linkage framework,Ghana,relying,CEIR linked to NIA database,Ministry of Communication; NCA,,2025-09-08 Ghana plans new framework for SIM card-digital ID linkage
+GHA,NIA Identity Verification Services,Ghana,relying,National Identity Register,National Identification Authority,,2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework
+GHA,Ghana.gov portal Ghana Card verification,Ghana,relying,Ghana.gov,NITA,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
+GHA,CitizenApp Data Interoperability System (CADIS),Ghana,relying,mobile app,,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
+GHA,PAPSS,GHA,other,Pan-African Payment and Settlement System,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+GHA,National service registration (National Service Authority),Ghana,relying,,National Service Authority,,2026-08-31-nsa-biodata-mismatch-registration-window
+GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-08-31-nsa-biodata-mismatch-registration-window
+GHA,National service registration (National Service Authority),Ghana,relying,,National Service Authority,,2026-08-24-graphic-national-service-authority-biodata-mismatch-correction-window
+GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-08-24-graphic-national-service-authority-biodata-mismatch-correction-window
+GHA,NIA digital identity verification app,Ghana,relying,mobile app,National Identification Authority,,2026-07-16-ghana-card-digital-checks-compulsory-bbc
+GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-07-16-ghana-card-digital-checks-compulsory-bbc

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-13-tun-lapresse-khadamet-50000-utilisateurs-dix-jours",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Khadamet",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "mobile app, digital identity login",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Khadamet use is reported (50,000 users in ten days, social security among services used) but no CNAM, CNSS or other programme data exchange is described beyond access through digital identity."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-thisday-nimc-partnerships-women-affairs-boi-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ThisDay reports the Bank of Industry reaffirmed its commitment to working with NIMC in deploying digital identity infrastructure, its chief executive saying the NIMC Act 2026 would enhance identity verification for credit access.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Bank of Industry identity verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Industry identity verification",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "Bank of Industry",
+   "tiers": ""
+  }
+ ],
+ "note": "Women Affairs Ministry talks are on expanding registration, not on checking people against the ID; no usage figure given."
+}

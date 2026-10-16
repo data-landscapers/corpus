@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-16-tunisia-khadamet-digital-transformation-114-projects",
+  "facts": [],
+  "systems": [
+    {"system": "Khadamet", "country_label": "Tunisia", "class": "other", "platform": "mobile app accessed through MobileID", "owner": "Government of Tunisia (Ministry of Communication Technologies)", "tiers": ""},
+    {"system": "Registre de l'identifiant national de sante", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "States the Khadamet app and a health-ID registry project; no social protection registry or programme exchange is described."
+}

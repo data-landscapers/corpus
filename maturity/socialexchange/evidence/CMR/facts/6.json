@@ -1,0 +1,9 @@
+{
+  "slug": "2022-02-14-cameroon-adaptive-safety-nets-economic-inclusion-pad-p175363",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Social Registry (USR) / National Social Registry", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "Ministry of Social Affairs (MINAS)", "tiers": ""},
+    {"system": "Digital government-to-person payment system (Safety Nets project)", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Appraisal-stage document describes a registry and a payment system to be financed, each separately; no link between systems or to the ID is stated."
+}

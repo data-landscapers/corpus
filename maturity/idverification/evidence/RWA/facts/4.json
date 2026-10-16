@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers",
+  "facts": [],
+  "systems": [
+    {"system": "e-KYC", "country_label": "Rwanda", "class": "", "platform": "", "owner": "BNR", "tiers": ""},
+    {"system": "eKash", "country_label": "Rwanda", "class": "other", "platform": "National Instant Payment System", "owner": "BNR", "tiers": ""}
+  ],
+  "note": "Says e-KYC is meant to let customers be verified and onboarded digitally but does not say it checks against the national ID; eKash figures are payment volumes, not verifications."
+}

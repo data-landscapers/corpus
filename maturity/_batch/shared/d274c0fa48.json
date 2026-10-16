@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-29-interoperabilite-nationale-instat",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "INSTAT says the 28 April 2026 ceremony launched national interoperability between ministries and public institutions, a shared IT system for exchanging data, and the first convention on using the RAHAKA system was signed by the UGD, several ministries and private-sector actors.",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "RAHAKA",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RAHAKA",
+       "country_label": "Madagascar",
+       "class": "exchange",
+       "platform": "",
+       "owner": "UGD (Unite de Gouvernance Digitale)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RAHAKA",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "",
+       "owner": "UGD (Unite de Gouvernance Digitale)",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes a data exchange system and states nothing about checking people against the national ID."
+    }
+   }
+  }
+ }
+}

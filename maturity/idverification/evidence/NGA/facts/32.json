@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-23-nimc-nitda-collaborate-digital-identity-agenda",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INEC voter register",
+   "country_label": "Nigeria",
+   "class": "",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": "Only collaboration talks and an INEC remark on addressing duplicate identities in the register; no contracted link, build or pilot of a check against the ID stated."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-12-dzair-tube-solidarity-digital-platform-pilot",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Ministry of National Solidarity said a pilot of its unified digital platform, covering electronic registration for the AFS allowance and the national digital card for persons with special needs, was being tested in Dar El Beida and Hussein Dey until 31 March 2026, with database integration and interconnectivity under verification.",
+     "as_of": "2026-03-12", "date_precision": "day",
+     "system": "National digital services portal of the National Solidarity sector", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National digital services portal of the National Solidarity sector", "country_label": "Algeria", "class": "exchange", "platform": "", "owner": "Ministry of National Solidarity, Family and the Status of Women, with the High Commission for Digitalization", "tiers": ""}
+  ],
+  "note": ""
+}

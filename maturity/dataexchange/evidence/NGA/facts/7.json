@@ -1,0 +1,42 @@
+{
+  "slug": "2026-07-30-nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "platform",
+      "value": "underway",
+      "fact": "The Government Service Portal, soft-launched with KOICA and Galaxy Backbone, is in a pilot that has run since 2025 and integrates some government institutions before nationwide rollout, with a key feature of integration with the Nigerian Digital Exchange so agencies can share data among them.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Nigerian Digital Exchange",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigerian Digital Exchange",
+      "country_label": "Nigeria",
+      "class": "exchange",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": "national"
+    },
+    {
+      "system": "Government Service Portal",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "single sign-on",
+      "owner": "Galaxy Backbone",
+      "tiers": "national"
+    },
+    {
+      "system": "Nigeria Government Enterprise Architecture (NGEA) Portal",
+      "country_label": "Nigeria",
+      "class": "",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

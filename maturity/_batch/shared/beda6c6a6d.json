@@ -1,0 +1,77 @@
+{
+ "slug": "2026-03-31-hmis-eswatini-cmis-dhis2-integration",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CMIS",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "SQL Server",
+       "owner": "Ministry of Health HMIS unit",
+       "tiers": ""
+      },
+      {
+       "system": "DHIS2",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health HMIS unit",
+       "tiers": ""
+      }
+     ],
+     "note": "CMIS-to-DHIS2 flows are a health-sector integration, not a government data exchange platform."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "HMIS Eswatini's Q1 2026 account says in-country developers completed OpenFn training, with automated FHIR-aligned data flows from the CMIS SQL Server environment into DHIS2 as the outcome.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "CMIS-DHIS2 data flows",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMIS",
+       "country_label": "Eswatini",
+       "class": "exchange",
+       "platform": "SQL Server",
+       "owner": "Ministry of Health HMIS unit",
+       "tiers": ""
+      },
+      {
+       "system": "DHIS2",
+       "country_label": "Eswatini",
+       "class": "exchange",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health HMIS unit",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on checking people against the national ID."
+    }
+   }
+  }
+ }
+}

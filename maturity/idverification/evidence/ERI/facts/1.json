@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-eritel-apply-for-services",
+  "facts": [],
+  "systems": [
+    {"system": "Eritel mobile prepaid service application", "country_label": "Eritrea", "class": "other", "platform": "", "owner": "Eritel (Eritrean Telecommunication Services Corporation)", "tiers": ""}
+  ],
+  "note": "Asks for an identity card copy and a Regional Administration letter for service applications; states no check against the national ID database, so no fact of class relying."
+}

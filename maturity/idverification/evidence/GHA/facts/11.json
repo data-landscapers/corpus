@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-27-templars-ghana-li-2523-client-alert",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "TEMPLARS says L.I. 2523, in force 9 June 2026, requires banks, insurers, telecoms operators, hospitals and government agencies that verify identity with the Ghana Card to confirm it biometrically against the card chip or the National Identity Register, with a transition window to 2 November 2026.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Ghana Card biometric verification by organisations",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identity Verification System Platform (IVSP)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "NIA biometric verification against the National Identity Register",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Card biometric verification by organisations",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

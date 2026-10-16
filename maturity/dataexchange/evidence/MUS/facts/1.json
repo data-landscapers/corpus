@@ -1,0 +1,12 @@
+{
+  "slug": "2016-08-01-infohighway-data-sharing-platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The Ministry of Information Technology, Communication and Innovation's InfoHighway page says the data-sharing platform has been live since August 2016, letting government agencies share data at runtime from publishers' databases to subscribing agencies.", "as_of": "2016-08", "date_precision": "month", "system": "InfoHighway", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The page counts 33 publishers, 192 connections and 628 e-services on InfoHighway; the counts carry no date, so the published date is used.", "as_of": "2016-08", "date_precision": "month", "system": "InfoHighway", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "The page reports 816,723,627 total queries to date, 169,549 this month and 217,861 the previous month on InfoHighway; the figures carry no date, so the published date is used.", "as_of": "2016-08", "date_precision": "month", "system": "InfoHighway", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "Mauritius", "class": "exchange", "platform": "Publish and subscribe service platform with portal, web services and bulk transfer, hosted at the Government Online Centre on the Government Intranet", "owner": "Ministry of Information Technology, Communication and Innovation (project owner); Central Informatics Bureau (project management)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-27-adoption-decret-registre-social-unique-actualite",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The government adopted on 25 July 2025 the draft decree creating the Registre Social Unique, described as a single database on household profiles on which targeted interventions of social protection projects and programmes are to be based.", "as_of": "2025-07-25", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "COD", "class": "exchange", "platform": "", "owner": "Ministere des Affaires Sociales, Actions humanitaires et Solidarite nationale", "tiers": ""}
+  ],
+  "note": ""
+}

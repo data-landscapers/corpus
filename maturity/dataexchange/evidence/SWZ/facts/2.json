@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-12-hmis-eswatini-cmis-elmis-integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CMIS-eLMIS integration",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "A single health-sector integration, not a government data exchange platform; other class, no fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-18-government-plans-unified-system-to-verify-public-servants-certificates-nairobi-w",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Nairobi Wire reports a State House meeting of the Head of Public Service with the Public Service Commission, the Kenya National Examinations Council and the Ministry of Education to integrate the systems that authenticate academic qualifications and link credential databases directly with hiring agencies, with no technological framework or timeline disclosed.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Unified academic credential verification mechanism",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified academic credential verification mechanism",
+   "country_label": "Kenya",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Public Service Commission; Kenya National Examinations Council; Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the meeting date inferred by OSINT from the report of 2026-09-18 (meeting held the preceding Wednesday); the document states a plan to link, not a build."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-05-sig-conseil-ministres-n004-irapol",
+  "facts": [],
+  "systems": [
+    {"system": "IRAPOL (Identification, Rapprochement, Analyse de Police)", "country_label": "Burkina Faso", "class": "other", "platform": "five interconnected modules: IRAPOL core, Police judiciaire, detainee and prison management, civilian-arms tracking, IRAPOL SMART mobile", "owner": "Ministere de la Securite", "tiers": ""}
+  ],
+  "note": "Council of Ministers approved the IRAPOL development-operation fiche on 2026-02-05 (internal-security information sharing); it does not say the system checks people against the national ID or that another system does."
+}

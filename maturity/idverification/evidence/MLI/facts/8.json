@@ -1,0 +1,15 @@
+{
+  "slug": "2019-02-22-mali-decret-2019-0112-ninacad-identification-parcelles",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NINACAD",
+      "country_label": "Mali",
+      "class": "other",
+      "platform": "application NINACAD",
+      "owner": "service du cadastre",
+      "tiers": ""
+    }
+  ],
+  "note": "Parcel identifier decree; identifies parcels, not people, and states no ID check."
+}

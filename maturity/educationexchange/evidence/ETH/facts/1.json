@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-18-ethiopia-etol-additional-financing-program-paper",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank Program Paper proposes US$69m additional financing, including US$750,000 for EMIS enhancement, to integrate all 57 refugee primary schools, which currently operate outside the Ministry of Education's EMIS, and their learners into the national EMIS.", "as_of": "2026-03-18", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": ""
+}

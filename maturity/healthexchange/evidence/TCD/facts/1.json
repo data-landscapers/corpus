@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-17-hisp-rwanda-tchad-dossier-medical-electronique",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "HISP Rwanda reports that a strategic meeting on 15 April 2026, chaired by the Ministry of Public Health's Secretary-General, committed to a patient-centred electronic medical record (DME) with HISP Rwanda as technical assistant, and lists integration with existing national systems, notably DHIS2, among its intended benefits; no timetable, pilot site or budget is stated.",
+     "as_of": "2026-04-15", "date_precision": "day", "system": "Dossier Médical Électronique (DME)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Dossier Médical Électronique (DME)", "country_label": "Chad", "class": "exchange", "platform": "", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Chad", "class": "other", "platform": "DHIS2", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": ""}
+  ],
+  "note": ""
+}

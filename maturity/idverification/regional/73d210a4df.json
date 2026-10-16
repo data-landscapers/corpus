@@ -1,0 +1,80 @@
+{
+ "slug": "2026-08-28-biometricupdate-digital-id-financial-inclusion-africa",
+ "countries": {
+  "ETH": {
+   "facts": [
+    {
+     "sub_indicator": "use",
+     "aspect": "use",
+     "value": "inservice",
+     "fact": "Ethiopia's Fayda programme director says a Fayda ID lets holders open a bank account on their phone.",
+     "as_of": "2026-08",
+     "date_precision": "month",
+     "system": "Fayda (bank account opening)",
+     "class": "relying"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Fayda (bank account opening)",
+     "country_label": "Ethiopia",
+     "class": "relying",
+     "platform": "Fayda",
+     "owner": "National ID Program Ethiopia",
+     "tiers": ""
+    }
+   ],
+   "note": "Published date used as as_of; the story gives none."
+  },
+  "NGA": {
+   "facts": [
+    {
+     "sub_indicator": "use",
+     "aspect": "use",
+     "value": "inservice",
+     "fact": "NIMC's director general says NINAuth processes over 1.3 million identity verifications daily for commercial banks, fintechs and government agencies onboarding citizens.",
+     "as_of": "2026-08",
+     "date_precision": "month",
+     "system": "NINAuth",
+     "class": "relying"
+    },
+    {
+     "sub_indicator": "use",
+     "aspect": "sectors",
+     "value": "several",
+     "fact": "NIMC says banks, fintechs and government agencies use NINAuth to verify citizens at onboarding.",
+     "as_of": "2026-08",
+     "date_precision": "month",
+     "system": "NINAuth",
+     "class": "relying"
+    },
+    {
+     "sub_indicator": "use",
+     "aspect": "usage",
+     "value": "reported",
+     "fact": "NIMC reports over 1.3 million identity verifications a day through NINAuth.",
+     "as_of": "2026-08",
+     "date_precision": "month",
+     "system": "NINAuth",
+     "class": "relying"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NINAuth",
+     "country_label": "Nigeria",
+     "class": "relying",
+     "platform": "NINAuth",
+     "owner": "NIMC",
+     "tiers": ""
+    }
+   ],
+   "note": "Published date used as as_of; the story gives none."
+  },
+  "RWA": {
+   "facts": [],
+   "systems": [],
+   "note": "Says the national ID gives access to banking and financial services and covers nearly all adults; no named system checking against it."
+  }
+ }
+}

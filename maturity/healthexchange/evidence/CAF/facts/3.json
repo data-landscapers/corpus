@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-12-vaccination-microplanning-digitalisation-hisprwanda",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 vaccination microplanning tool", "country_label": "Central African Republic", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health and Population", "tiers": "district, regional, central"}
+  ],
+  "note": "A single-system DHIS2 microplanning tool; no exchange with another system is stated."
+}

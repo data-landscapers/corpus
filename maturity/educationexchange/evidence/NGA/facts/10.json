@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-14-nga-nigeria-launches-nationwide-education-data-system-reaching-more-than-4",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital National Education Management Information System (DNEMIS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Education",
+   "tiers": "national"
+  }
+ ],
+ "note": "DNEMIS is a school census/EMIS on its own; the document states no link to another education system."
+}

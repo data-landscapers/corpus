@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-08-nigeria-lagos-ship-ai-health-data-interoperability",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lagos Smart Health Information Platform (SHIP)",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "FHIR",
+      "owner": "Lagos State Government",
+      "tiers": "state"
+    }
+  ],
+  "note": "State-level health records platform, planned; not a national government data exchange."
+}

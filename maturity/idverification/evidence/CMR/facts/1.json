@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-19-cameroons-findme-rides-new-bank-deal-scale-digital-addressing",
+  "facts": [],
+  "systems": [
+    {"system": "FindMe", "country_label": "Cameroon", "class": "other", "platform": "smartphone app generating geolocated postal addresses certified through Campost", "owner": "FindMe (private start-up)", "tiers": ""}
+  ],
+  "note": "Describes a certified digital address required by CCA-Bank for KYC; no check against the national ID is stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-18-nigeria-centralised-gateway-portal-services-gov-ng",
+ "facts": [],
+ "systems": [
+  {
+   "system": "services.gov.ng",
+   "country_label": "Nigeria",
+   "class": "",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal lists identity verification among its services but does not say it checks people against the national ID."
+}

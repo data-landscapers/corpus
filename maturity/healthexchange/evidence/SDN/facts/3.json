@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10-sudan-health-ministry-digital-transformation-year",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Sudan", "class": "other", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": "national"}
+  ],
+  "note": "DHIS2 is described as one reporting platform whose expansion to link health facilities is a recommendation; no exchange between health systems is stated."
+}

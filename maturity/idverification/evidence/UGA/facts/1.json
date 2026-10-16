@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-02-uga-tin-to-nin-migration-analysis",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "An opinion piece by a local government official says Uganda is migrating tax identification from the TIN to the NIN, implemented through collaboration between the Uganda Revenue Authority and NIRA, so that tax identity rests on the national ID; it gives no completion date or counts.", "as_of": "2026-09-02", "date_precision": "day", "system": "URA TIN-to-NIN migration", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "URA TIN-to-NIN migration", "country_label": "Uganda", "class": "relying", "platform": "", "owner": "Uganda Revenue Authority with NIRA", "tiers": ""}
+  ],
+  "note": "as_of is the document's published date; it gives no event date."
+}

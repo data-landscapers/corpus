@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-barrow-inaugurates-national-data-centre-nims-standard",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "Margins ID Group",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "NIMS launch only; says it lets citizens verify themselves across government services in general terms, names no other system checking against the ID."
+}

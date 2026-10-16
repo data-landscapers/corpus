@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-15-mrt-decret-2025-162-bds-mac-base-donnees-menages-catastrophes",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Decree 2025-162 of 15 October 2025 created the BDS-MAC disaster-household database, fed by the Registre Social of Taazour among other sources, with disaster household data passed to the Registre Social for socio-economic analysis; operating rules await a later ministerial order.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "BDS-MAC (Base de Donnees Speciale des Menages affectes par les catastrophes)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BDS-MAC (Base de Donnees Speciale des Menages affectes par les catastrophes)",
+   "country_label": "BDS-MAC",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere de l'Interieur",
+   "tiers": ""
+  },
+  {
+   "system": "National social registry (Registre Social)",
+   "country_label": "Registre Social",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

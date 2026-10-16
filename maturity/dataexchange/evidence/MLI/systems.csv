@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,PKI nationale,Mali,other,,,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
+MLI,Intranet gouvernemental,Mali,other,private secured government network,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Single-window portal of digitalised public services,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Government messaging system,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,SMTD data centre,Mali,other,"colocation, IaaS, SaaS, backup",SMTD,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,AGETIC data centre,Mali,other,"hosting, IaaS, SaaS, backup",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,Government PKI (planned),Mali,other,,,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees

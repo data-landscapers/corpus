@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-27-data-sharing-platform-2026-newtimes",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "RISA's CTO told The New Times that Rwanda is establishing a national data sharing platform, to be built in phases from requirements and design through core platform development integrated with pilot systems, with launch of a fully operational portal planned for 2026 and a firm still to be onboarded.", "as_of": "2025-09-27", "date_precision": "day", "system": "National Data Sharing Platform (DSP)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "National Data Sharing Platform (DSP)", "country_label": "Rwanda", "class": "exchange", "platform": "to be built on APIs, metadata structures and standard data formats; cloud or hybrid infrastructure", "owner": "Ministry of ICT and Innovation; implemented by RISA", "tiers": ""}
+  ],
+  "note": ""
+}

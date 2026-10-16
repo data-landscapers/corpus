@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-11-webinaire-prodigy-cni-biometrique-digital-gov-mg",
+  "facts": [],
+  "systems": [
+    {"system": "PRODIGY (Carte Nationale d'Identite Biometrique)", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "Madagascar government, financed by the World Bank", "tiers": ""}
+  ],
+  "note": "Passages show only an architecture list item 'Services Auth/eKYC activés' with no relying system, sector or date named; component 2 mentions digital administration services without saying any checks against the ID."
+}

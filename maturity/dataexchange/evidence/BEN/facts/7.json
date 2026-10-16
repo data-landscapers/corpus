@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-asin-billet-juridique-cadre-interoperabilite-benin",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "ASIN's legal note describes Xroad-BJ as Benin's national platform for secure data exchange between public administrations' information systems, instituted by decree 2020-209 of 18 March 2020, managed by ASIN and supervised by the national interoperability committee, with registration and connection rules for users; the page holds only an excerpt.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Xroad-BJ",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Xroad-BJ",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

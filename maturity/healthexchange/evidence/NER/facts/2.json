@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-08-anp-sante-numerique-schema-directeur-e-sante",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "At the 8 July 2026 workshop validating the e-Santé roadmap 2025-2029, the national interoperability layer was demonstrated and its presenter said it is already operational with several systems, with Estelab disease-surveillance data now transferred automatically into DHIS2 without manual weekly entry at health centres, districts and hospitals.",
+     "as_of": "2026-07-08", "date_precision": "day",
+     "system": "couche nationale d'interopérabilité", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "couche nationale d'interopérabilité", "country_label": "Niger", "class": "exchange", "platform": "", "owner": "Direction de la e-Santé, Ministère de la Santé et de l'Hygiène publique", "tiers": ""},
+    {"system": "Estelab", "country_label": "Niger", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Niger", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "Niger", "class": "other", "platform": "OpenClinic", "owner": "", "tiers": ""}
+  ],
+  "note": "Only two systems (Estelab, DHIS2) are named as exchanging; 'plusieurs systèmes' is not a count of three, so no breadth fact."
+}

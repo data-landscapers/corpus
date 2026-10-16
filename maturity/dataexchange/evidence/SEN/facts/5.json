@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-18-egov-senegal-plateforme-interoperabilite",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The project coordination committee met in the week of 15 September 2025, validated the roadmap and the ministry said phase one would be delivered at end December 2025; the platform was launched 22 April 2025 with pilot 2024-2025 and scale-up 2025-2027.",
+   "as_of": "2025-09-15",
+   "date_precision": "day",
+   "system": "Plateforme d'interopérabilité d'échange de données",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'interopérabilité d'échange de données",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "MCTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

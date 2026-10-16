@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-18-censo-escolar-nacional-2025-2026-bata-prodege",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Censo Escolar Nacional",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "paper questionnaires against school enrolment registers",
+   "owner": "PRODEGE / Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "School census collected on questionnaires; no exchange between education systems stated."
+}

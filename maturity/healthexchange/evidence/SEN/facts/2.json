@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-22-senum-sen-csu-convention",
+  "facts": [],
+  "systems": [
+    {"system": "SEN-CSU services", "country_label": "Senegal", "class": "other", "platform": "", "owner": "SEN-CSU (Agence sénégalaise de la Couverture Sanitaire Universelle)", "tiers": ""},
+    {"system": "Espaces Sénégal Services network", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Sénégal Numérique S.A. (SENUM S.A.)", "tiers": ""}
+  ],
+  "note": "Announcement of a partnership signing to route CSU enrolment through the Espaces Sénégal Services network; it describes no data exchange between health systems, so no fact."
+}

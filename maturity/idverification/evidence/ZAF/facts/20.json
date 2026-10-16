@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Domestic eKYC framework/platform",
+   "country_label": "South Africa",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lesotho Exemption Permit electronic verification",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Named as having or building a financial sector-led eKYC platform; checking against the South African ID is not stated. Its Home Affairs verifies Lesotho citizens, which is not use of its own ID."
+}

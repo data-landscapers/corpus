@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-23-ken-techtrendske-state-plans-unified-platform",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Kenya's ICT PS John Tanui said at WSO2Con Africa in Nairobi on 23 September 2026 that the government is building an Enterprise Platform to orchestrate data and services across government, linking institutions' systems through secure APIs; no live date or connected-system count is given.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Enterprise Platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Platform",
+   "country_label": "Kenya",
+   "class": "exchange",
+   "platform": "secure APIs",
+   "owner": "State Department for ICT and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

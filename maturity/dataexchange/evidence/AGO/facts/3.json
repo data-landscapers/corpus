@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-04-angola-ima-launches-public-digital-infrastructure-project-with-tis",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "IMA formally started the USD 150 million, 12-month Public Digital Infrastructure Project with the implementation contract with TIS Angola on 31 July 2026, aiming to strengthen interoperability of public systems, digital identity and e-service security.", "as_of": "2026-07-31", "date_precision": "day", "system": "Projecto de Infra-Estruturas Digitais Públicas", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Projecto de Infra-Estruturas Digitais Públicas", "country_label": "Angola", "class": "exchange", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": ""},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "Angola", "class": "other", "platform": "", "owner": "IMA, World Bank-financed", "tiers": ""}
+  ],
+  "note": ""
+}

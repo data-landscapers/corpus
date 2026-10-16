@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-consolidation-of-social-grants-and-the-food-bank",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Beneficiary Registry (IBR)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare",
+   "tiers": ""
+  }
+ ],
+ "note": "The page lists data-integration MoUs with GIPF, SSC, the tax system, IFMS and the Veteran Affairs System; none is with a national ID."
+}

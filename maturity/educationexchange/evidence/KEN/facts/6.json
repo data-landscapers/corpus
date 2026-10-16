@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-28-kemis-schools-data-validation-circular",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS (Kenya Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education, State Department for Basic Education", "tiers": ""},
+    {"system": "NEMIS (National Education Management Information System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "Circular describes KEMIS as an EMIS being operationalised and school data validation as a prerequisite for onboarding; it states no link between education systems."
+}

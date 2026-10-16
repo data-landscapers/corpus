@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+AGO,exchange,exchange,coverage,underway,2026-07-20,AGO-001;AGO-002;AGO-003,AGO-005=none;AGO-004=none,
+AGO,exchange,registry,coverage,,,,,nothing held
+AGO,exchange,linked,coverage,,,,,nothing held

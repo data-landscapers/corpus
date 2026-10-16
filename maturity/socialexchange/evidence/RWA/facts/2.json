@@ -1,0 +1,12 @@
+{
+  "slug": "2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "BMZ's Healthy DEvelopments says Imibereho data is validated by cross-checks with the National ID Agency, LODA's MEIS and the Health Monitoring Information System, and updates automatically through integration with civil registration, at its launch on 29 February 2024.", "as_of": "2024-02-29", "date_precision": "day", "system": "Imibereho Dynamic Social Registry System", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "BMZ's Healthy DEvelopments says Imibereho initially targets households for the Vision Umurenge Programme and determines payments for community-based health insurance, to extend gradually to other programmes.", "as_of": "2024-02-29", "date_precision": "day", "system": "Imibereho Dynamic Social Registry System", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "linked", "value": "linked", "fact": "BMZ's Healthy DEvelopments says Imibereho is cross-checked with the National ID Agency and the health information system and is integrated with civil registration, so a registered birth updates the registry.", "as_of": "2024-02-29", "date_precision": "day", "system": "Imibereho Dynamic Social Registry System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Imibereho Dynamic Social Registry System", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "Ministry of Local Government", "tiers": ""}
+  ],
+  "note": ""
+}

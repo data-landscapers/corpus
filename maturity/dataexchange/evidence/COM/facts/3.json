@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-07-com-mfbsb-ami-interfacage-sigit-mobile-banking-pagf-si",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIT (Système de Gestion des Impôts et Taxes)",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance (Direction Générale des Impôts)",
+   "tiers": ""
+  }
+ ],
+ "note": "Call for a feasibility study on interfacing the tax system SIGIT with mobile banking platforms: a payments interface, not a government data exchange platform, so no fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-13-drc-equity-bcdc-digital-economy-ministry-mou",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The digital economy ministry and Equity BCDC, a commercial bank, signed an MoU on 2026-08-13 to modernise the financial ecosystem and promote bank inclusion, including innovations tied to citizen digital identity; the article gives no KYC mechanism.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Equity BCDC",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equity BCDC",
+   "country_label": "COD",
+   "class": "relying",
+   "platform": "",
+   "owner": "Equity BCDC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

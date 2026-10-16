@@ -1,0 +1,10 @@
+{
+  "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "SMTD data centre", "country_label": "Mali", "class": "other", "platform": "colocation, IaaS, SaaS, backup", "owner": "SMTD", "tiers": ""},
+    {"system": "AGETIC data centre", "country_label": "Mali", "class": "other", "platform": "hosting, IaaS, SaaS, backup", "owner": "AGETIC", "tiers": ""},
+    {"system": "Government PKI (planned)", "country_label": "Mali", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Data centre and PKI hosting assessment; no data exchange platform is stated."
+}

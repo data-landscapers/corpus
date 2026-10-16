@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-dfn-ali-sabieh-regional-hospital-fibre-lanation",
+  "facts": [],
+  "systems": [
+    {"system": "Hospital network over DFN fibre (Ali Sabieh regional hospital linked to other hospitals)", "country_label": "Djibouti", "class": "other", "platform": "World Bank-financed Djibouti Fondations Numeriques fibre network", "owner": "Ministry of Communication in charge of Posts and Telecommunications (project lead)", "tiers": "regional hospital to national hospitals"}
+  ],
+  "note": "Describes fibre connectivity letting the Ali Sabieh hospital share patient files with Peltier hospital specialists; names no health information systems exchanging data, so no fact for the exchange class."
+}

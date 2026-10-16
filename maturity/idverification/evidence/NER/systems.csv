@@ -1,0 +1,32 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,PAPSS,NER,other,Pan-African Payment and Settlement System,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+NER,CNIB AES,Niger,other,,Police nationale,,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement
+NER,Airtel Money,Niger,other,,,,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement
+NER,Amana,Niger,other,,,,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement
+NER,NITA,Niger,other,,,,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,CNIB AES,Niger,other,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,Registre National d'Etat Civil,Niger,other,,,,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,CNIB AES,Niger,other,,,,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,CNIB AES,Niger,other,,,,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Registre National des Nationalites (RNN),Niger,other,,,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,CNIB AES,Niger,other,,,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Registre National de la Population (RNP),Niger,other,,Ministry of Interior (ANEI to administer),,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Carte nationale d'identité biométrique (CNIB),Niger,other,,Ministry of Interior,,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,,,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Registre National des Nationalités (RNN),Niger,other,,Ministry of Justice,,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Registre National de la Population (RNP),Niger,relying,World Bank WURI project,ANEI,public and private services requiring identification,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalités (RNN),Niger,other,,Ministère de la justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Carte nationale d'identité biométrique AES (CNIB),Niger,other,,Ministry of Interior,,2026-05-07-cnib-aes-mass-enrolment-launch-lesahel
+NER,Biometric national ID (AES),Niger,other,,Government of Niger,,2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica
+NER,Biometric national ID card (AES),Niger,other,,Ministry of Interior; contractor Al Itissan Al-Jadeed,,2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card
+NER,"WURI-Niger foundational ID (fID, NIU)",Niger,other,,Ministry of the Interior,,2026-01-01-mot-du-coordonnateur-wuri-niger
+NER,WURI-Niger,Niger,other,,Ministry of the Interior (project overseen with Ministry of Economy and Finance and the World Bank),,2025-09-25-wuri-niger-lancement-mission-restructuration
+NER,MOSIP-based national digital ID programme (BioEnable pilot),NER,other,MOSIP,,,2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate
+NER,"WURI Niger birth registration pilot, Filingue",NER,other,,WURI Niger project,,2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate
+NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3),Niger,relying,,Ministère de l'Intérieur (WURI-Niger project),,2024-01-01-lesahel-wuri-niger-presentation-projet

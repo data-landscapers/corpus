@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-27-ict-sector-eyes-policy-enforcement-times",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "An ICT expert (former ICTAM president) said in January 2026 that the Department of e-Government would be under pressure in 2026 to onboard all major ministries, departments and agencies onto the Enterprise Service Bus for interoperability of government systems, with no count of connected bodies.", "as_of": "2026-01-27", "date_precision": "day", "system": "Enterprise Service Bus", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Enterprise Service Bus", "country_label": "Malawi", "class": "exchange", "platform": "", "owner": "Department of e-Government", "tiers": ""},
+    {"system": "Malawi National Single Window", "country_label": "Malawi", "class": "other", "platform": "trade single window", "owner": "", "tiers": ""},
+    {"system": "Public Sector Reforms Information Management System", "country_label": "Malawi", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

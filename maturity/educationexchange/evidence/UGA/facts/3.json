@@ -1,0 +1,15 @@
+{
+ "slug": "2019-08-14-moes-emis-overview",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS (Education Management Information System)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": "Design description only; says EMIS was to eventually link up with UNEB, a plan with no link stated in service."
+}

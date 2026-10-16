@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,Education Management Information System (EMIS),Somalia,other,,Ministry of Education (MoECHE),,2026-02-06-somalia-emis-effectiveness-study-springer
+SOM,Teacher Management Information System (TMIS),Somalia,exchange,,MoECHE,,2025-10-01-somalia-worldbank-emis-tmis-financing-amendment
+SOM,Education Management Information System (EMIS),Somalia,other,,MoECHE,,2025-10-01-somalia-worldbank-emis-tmis-financing-amendment
+SOM,Fogaan-Dersi Platform,Somalia,other,online distance learning,MoECHE,,2025-10-01-somalia-worldbank-emis-tmis-financing-amendment
+SOM,Education Management Information System (EMIS),Somalia,other,,MoECHE,"federal, Federal Member State and regional ministries",2024-02-01-somalia-better-data-management-system-improving-education
+SOM,Education Management Information System (EMIS),Somalia,other,,MoECHE,,2023-11-01-somalia-joint-education-sector-review-2023
+SOM,Higher Education Management Information System (HIMIS),Somalia,other,,,,2023-11-01-somalia-joint-education-sector-review-2023
+SOM,Teacher Management Information System (TMIS),Somalia,exchange,"offline, GPS-enabled attendance module",MoECHE,,2025-09-01-somalia-education-human-capital-development-project-restructuring
+SOM,Education Management Information System (EMIS),Somalia,other,,MoECHE,,2025-09-01-somalia-education-human-capital-development-project-restructuring
+SOM,GEMS dashboard,Somalia,other,Global Education Monitoring System,,,2025-09-01-somalia-education-human-capital-development-project-restructuring
+SOM,High School Certificate System (HSC),Somalia,exchange,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,MOECHE Examination System,Somalia,other,,MOECHE,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,SomaliPay / GovPay,Somalia,other,,,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,National Digital Trust System (NDTS),Somalia,other,,,,2026-04-28-dpi-somalia-risks-repeating-old-mistakes

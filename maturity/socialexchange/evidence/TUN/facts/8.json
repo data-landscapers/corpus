@@ -1,0 +1,12 @@
+{
+  "slug": "2022-11-28-ministere-affaires-sociales-cni-accord-echange-donnees",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministries of Social Affairs and Health and the National Center for Informatics signed a framework agreement on 28 November 2022 to share data digitally between the ministries and bodies under them, so users need not supply data held by others.", "as_of": "2022-11-28", "date_precision": "day", "system": "Framework agreement on intangible data exchange", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Minister of Health said 92 health facilities using the Labes card had carried out more than 6 million data exchange operations with the National Health Insurance Fund (CNAM).", "as_of": "2022-11", "date_precision": "month", "system": "Labes card", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Labes card", "country_label": "Tunisia", "class": "exchange", "platform": "", "owner": "Ministry of Health; CNAM", "tiers": ""},
+    {"system": "National interconnection platform", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}
+  ],
+  "note": "The Labes fact has as_of taken from the document's published date (2022-11-28), as the minister's statement is undated."
+}

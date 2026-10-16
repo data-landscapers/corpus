@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-uganda-health-information-exchange-interoperability-guidelines",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Ministry of Health's HIE and Interoperability Guidelines (January 2023) say ad-hoc exchanges exist, with EMRs exchanging data with the national Viral Load Information System and the mTrac surveillance system exchanging data with the national eHMIS, none premised on nationally endorsed guidelines.", "as_of": "2023-01", "date_precision": "month", "system": "Viral Load Information System; mTrac; eHMIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Viral Load Information System", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "mTrac", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "eHMIS", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "The text is an excerpt; the guidelines set standards for an OpenHIE-style HIE but the captured part states no national HIE in service. As_of is the published date, January 2023."
+}

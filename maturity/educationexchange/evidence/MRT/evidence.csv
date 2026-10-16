@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MRT-001,MRT,exchange,linked,linked,"The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates, available for certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry; the AMI report gives no figures. Dated by its published date.",2025-07-24,day,Houwiyati national certificates service,exchange,2025-07-24-houwiyati-national-certificates-service-ami,https://ami.mr/fr/archives/276019

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "DHIS2 over CSPro and StatEduc",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 layer added over CSPro/StatEduc census infrastructure; no data exchange between education systems stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-29-interoperability-platform-uxp-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The digital transition minister launched the public administration interoperability platform, built on Cybernetica's UXP, in Abidjan on 25 September 2025; the pilot phase covers twelve public bodies.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Public Administration Interoperability Platform (UXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National public administration interoperability platform (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "UXP (Cybernetica)",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

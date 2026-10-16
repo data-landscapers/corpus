@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-17-zimbabwe-social-registry-support-project-pid",
+  "facts": [],
+  "systems": [
+    {"system": "ZISO (formerly ISPMIS)", "country_label": "Zimbabwe", "class": "exchange", "platform": "", "owner": "Ministry of Public Service, Labor, and Social Welfare", "tiers": ""}
+  ],
+  "note": "Concept-stage PID only proposes integration with civil registry systems and linkage of programs to the registry; nothing contracted, built or in service is stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-07-biometric-case-management-migration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric case management system (BCMS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "600 handheld biometric devices",
+   "owner": "Department of Home Affairs inspectorate",
+   "tiers": ""
+  }
+ ],
+ "note": "Tender for Home Affairs' own migration-enforcement biometric system; not another system checking people against the national ID."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-16-lbr-government-of-liberia-european-union-and-unicef-launch-partnership-to",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Youth Management Information System (YMIS)", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Youth and Sports", "tiers": ""}
+  ],
+  "note": "Partnership to upgrade the EMIS and create a YMIS; no data link between education systems is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Minister of Communications told Parliament that the NIN and SIM registration programme is ongoing, with not all mobile subscribers yet having linked their SIM cards to verified National Identification Numbers.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "National Identification Number and SIM registration programme",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number and SIM registration programme",
+   "country_label": "Sierra Leone",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministry of Communication, Technology and Innovation; NatCA",
+   "tiers": ""
+  }
+ ],
+ "note": "Orange Sierra Leone's 18,000+ police KYC requests are disclosures to police, not verifications against the ID, so no usage fact."
+}

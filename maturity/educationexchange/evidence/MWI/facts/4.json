@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-01-malawi-2023-2027-partnership-compact",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Malawi", "class": "other", "platform": "web-based, developed with UNICEF support; functional at national, district and school level, limited offline functionality", "owner": "Ministry of Education", "tiers": "national;district;school"},
+    {"system": "Teacher deployment monitoring and reporting system", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "national;district"}
+  ],
+  "note": "The compact (April 2024) describes the EMIS and a planned teacher deployment monitoring system, and says education data is fragmented, but states no link between education systems, no shared learner identifier and no link to the national ID or another sector."
+}

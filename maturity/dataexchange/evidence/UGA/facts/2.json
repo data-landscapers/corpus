@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-25-dci-data-exchange-platforms-interoperability",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The DCI brief says Uganda has adopted a centralised architecture with a data exchange platform as the hub connecting different systems and routing their traffic.", "as_of": "2025-06-24", "date_precision": "day", "system": "UgHub", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "UgHub", "country_label": "Uganda", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No count of connected systems or transaction figures stated for Uganda; as_of is the dialogue date of 24 June 2025."
+}

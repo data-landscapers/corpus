@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-01-worldbank-building-burundi-national-social-protection-systems",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank says the Merankabandi social registry is also used by the World Bank-financed Soleil-Nyakiriza solar energy project to reach vulnerable households for subsidised solar kits.", "as_of": "2026-05-01", "date_precision": "day", "system": "Unified Social Registry", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Unified Social Registry", "country_label": "Burundi", "class": "exchange", "platform": "CORE-MIS", "owner": "Government of Burundi (Merankabandi, World Bank-supported)", "tiers": "national"},
+    {"system": "CORE-MIS", "country_label": "Burundi", "class": "exchange", "platform": "open source", "owner": "Government of Burundi (Merankabandi, World Bank-supported)", "tiers": "national"}
+  ],
+  "note": ""
+}

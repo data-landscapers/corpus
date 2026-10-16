@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-23-ahram-egypt-central-bank-digital-financial-identity-rules",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Financial Identity platform (eKYC)",
+   "country_label": "Egypt",
+   "class": "",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "CBE board approved eKYC rules on 2026-08-23; the document does not say the platform checks against the national ID."
+}

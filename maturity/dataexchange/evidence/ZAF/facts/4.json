@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-03-mymzansi-roadmap-initiative-2-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The MyMzansi roadmap page refers to a data exchange pilot and sets a milestone to implement a data exchange platform for grant eligibility testing by Q4 2026 and to roll it out to at least 20 more databases by Q4 2027; date is a proxy published date.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data exchange platform",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  },
+  {
+   "system": "Master Social Security Registry",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SDF",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

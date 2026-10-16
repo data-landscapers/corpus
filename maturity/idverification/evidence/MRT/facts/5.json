@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-16-ami-numerisation-services-consulaires-etat-civil-houwiyeti-diaspora",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANRPTS",
+   "tiers": ""
+  },
+  {
+   "system": "Digital consular services platform",
+   "country_label": "Mauritania",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Names digitised consular and civil status services via Houwiyeti; no other system checking against the ID."
+}

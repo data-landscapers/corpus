@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-17-bwa-digital-services-act-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Information gateway", "country_label": "Botswana", "class": "exchange", "platform": "", "owner": "Digital Services Authority", "tiers": ""}
+  ],
+  "note": "The Act (assented 2025-10-17) only requires the Authority to develop and administer an information gateway for public bodies to exchange data (s.22); it states no platform procured, built, piloted or live, so no aspect value is met."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Secretary of State for Health said Angola is developing the interoperability of ReDIV and IOTA with the national health information system based on DHIS2.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "ReDIV and IOTA interoperability with DHIS2",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ReDIV",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "national vaccination campaigns"
+  },
+  {
+   "system": "IOTA",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "central warehouses to peripheral facilities"
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": "national"
+  }
+ ],
+ "note": "as_of is the document's published date; the statement was made recently at the Rabat congress."
+}

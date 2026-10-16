@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-04-mhealth-ci-acceptance-community-frontline-health-workers",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Ministry of Health piloted the mHealth.ci community health platform in five districts of the Poro region from December 2024 (full operational launch 8 January 2025), and the authors state it integrates with the national health information system DHIS2.", "as_of": "2025-01", "date_precision": "month", "system": "mHealth.ci", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "mHealth.ci", "country_label": "Côte d'Ivoire", "class": "exchange", "platform": "eCHIS developed by Ticanalyse", "owner": "Ministry of Health (DSCPS, DIS, DISD) with UNICEF", "tiers": "community health workers; frontline health workers"},
+    {"system": "DHIS2", "country_label": "Côte d'Ivoire", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national health information system"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-04-dbe-sa-sams-modernisation-uat",
+  "facts": [],
+  "systems": [
+    {"system": "SA-SAMS (modernised)", "country_label": "South Africa", "class": "other", "platform": "cloud-based school administration and management system", "owner": "Department of Basic Education EMIS Directorate, with NECT delivering", "tiers": "school, district, provincial"}
+  ],
+  "note": "Describes user acceptance testing of a school administration system, 2-4 February 2026; states no link or data exchange with another education system."
+}

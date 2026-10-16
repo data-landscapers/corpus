@@ -1,0 +1,17 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "no evidence",
+   "exchange": "",
+   "breadth": "",
+   "identifier": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names health systems exchanging data, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-seychelles-nhsp-strategic-direction-six-data",
+  "facts": [],
+  "systems": [
+    {"system": "eHIS (electronic health information system)", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "States data capture is mostly paper-based, eHIS work begun 2020 has stalled, and building one integrated HIS is a 2022-2026 priority; no exchange between systems is stated as built, under way or in service."
+}

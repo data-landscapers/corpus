@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-18-wb-eth-004-ethiopia-etol-additional-financing",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank deal record for ETOL additional financing (wb-eth-004) states the grants integrate all 57 refugee primary schools and their learners into the national EMIS, with US$750,000 earmarked for EMIS enhancement and disaggregated reporting, the schools currently being outside the Ministry's EMIS.", "as_of": "2026-03-18", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": ""
+}

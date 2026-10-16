@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-29-atdi-mobile-digital-id-tender",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "ATDI's World Bank-funded (EDGE) request for expressions of interest states that ATDI has already begun implementing an X-Road-based Interoperability Platform for secure data exchange between government institutions and service providers.",
+     "as_of": "2026-05-29", "date_precision": "day", "system": "Interoperability Platform (X-Road)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Interoperability Platform (X-Road)", "country_label": "Mozambique", "class": "exchange", "platform": "X-Road", "owner": "Digital Transformation and Innovation Agency (ATDI, IP)", "tiers": ""},
+    {"system": "National mobile digital identity and e-signature ecosystem", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "ATDI, IP", "tiers": ""}
+  ],
+  "note": "as_of is the notice's published date, as it gives no start date for implementation."
+}

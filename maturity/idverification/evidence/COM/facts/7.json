@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-16 Comoros - Anjouan (Ndzuani) to produce its own biometric ID cards (Genkey replaces Semlex)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric national ID card and passport production",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "Semlex to GenKey",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Covers the ID system's own card issue and vendor switch; no other system checks against the ID."
+}

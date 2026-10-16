@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual School Census",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory School Record System",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a planned real-time EMIS and EMIS policy; no link between education systems stated as in service or under way."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "The World Bank ID4D diagnostic says the national ID's NIN was populated into the eCRVS to cross-verify parents' IDs when new NINs were issued after the mass enrolment.",
+     "as_of": "2023", "date_precision": "year", "system": "eCRVS (HERA)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "The diagnostic says the Drivers License System uses the National ID system for biometric verification of applicants to prevent identity fraud and duplication; no date is given, so the document's 2025 publication year is used.",
+     "as_of": "2025", "date_precision": "year", "system": "Drivers License System", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "The diagnostic says user acceptance testing of an integrated eCRVS and electronic ID to produce health insurance cards was completed in April 2025, with testing for driver's licence and ID cards due in May 2025, under World Bank operation P173287.",
+     "as_of": "2025-04", "date_precision": "month", "system": "Integrated eCRVS/eID health insurance card production", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "The diagnostic says the HR/Payroll module of the Gambia Public Procurement and Payment Management System is being designed for API integration with the National ID to automate government payroll.",
+     "as_of": "2025", "date_precision": "year", "system": "Gambia Public Procurement & Payment Management System (HR/Payroll module)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "underway",
+     "fact": "The diagnostic describes a proposed or underway integration linking the eCRVS and eID through an Identity Bus to health HRMIS, national health insurance, the social registry, passports, education management information system, voter registration, the revenue authority, social security, marriage registration, financial management and police driver's licensing systems.",
+     "as_of": "2025", "date_precision": "year", "system": "Identity Bus (eCRVS and eID integration)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "eCRVS (HERA)", "country_label": "Gambia", "class": "relying", "platform": "WCC HERA", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Drivers License System", "country_label": "Gambia", "class": "relying", "platform": "", "owner": "Gambia Police Force", "tiers": ""},
+    {"system": "Passport System", "country_label": "Gambia", "class": "", "platform": "", "owner": "Ministry of Interior", "tiers": ""},
+    {"system": "Health Management Information System", "country_label": "Gambia", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "GamSIR Gambia Social Registry", "country_label": "Gambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TIN Tax Identification Number System", "country_label": "Gambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CKYC Centralized Know Your Customer System (planned)", "country_label": "Gambia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PURA SIM database (planned)", "country_label": "Gambia", "class": "", "platform": "", "owner": "PURA", "tiers": ""},
+    {"system": "Voter Registration Database", "country_label": "Gambia", "class": "", "platform": "", "owner": "Independent Election Commission", "tiers": ""}
+  ],
+  "note": ""
+}

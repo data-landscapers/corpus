@@ -1,0 +1,11 @@
+{
+  "slug": "2021-12-31-ega-public-administration-modernisation-djibouti",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The e-Governance Academy says a functional and integrated X-Road secure data exchange with PKI was implemented for ANSIE between government registries and databases, and that the government of Djibouti has the X-Road data exchange system in place; the date is the project's end month, taken from the published date.", "as_of": "2021-12", "date_precision": "month", "system": "X-Road secure data exchange", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "X-Road secure data exchange", "country_label": "Djibouti", "class": "exchange", "platform": "X-Road", "owner": "ANSIE", "tiers": ""},
+    {"system": "CatIS", "country_label": "Djibouti", "class": "", "platform": "", "owner": "ANSIE", "tiers": ""}
+  ],
+  "note": "The page gives no count of connected systems and no usage figure."
+}

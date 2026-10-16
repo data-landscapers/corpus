@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-civ-afriksoir-world-bank-150m-atelier",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National public administration interoperability platform (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "UXP (Cybernetica)",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the interoperability platform only as the place where digitalised services are to be put; states no status, connection count or use."
+}

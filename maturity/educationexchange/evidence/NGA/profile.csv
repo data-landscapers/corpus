@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,exchange,exchange,coverage,inservice,2026-03-06,NGA-004,,
+NGA,exchange,learnerid,coverage,shared,2026-04-09,NGA-001,,
+NGA,exchange,linked,coverage,linked,2026-08-05,NGA-002;NGA-003,,

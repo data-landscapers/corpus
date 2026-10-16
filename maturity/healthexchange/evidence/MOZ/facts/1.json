@@ -1,0 +1,16 @@
+{
+  "slug": "2025-01-01-jembi-mozambique-case-study",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "Jembi states that in July 2024 Mozambique launched real-time digital birth registration connecting the hospital system MGDH-Birth to the civil registration system e-SiRCEV through its OpenHIM interoperability layer, as a pilot that grew from 5 to 19 health facilities in Inhambane Province and registered over 11,589 newborns.",
+     "as_of": "2024-07", "date_precision": "month",
+     "system": "OpenHIM interoperability layer (MGDH-Birth to e-SiRCEV)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "OpenHIM interoperability layer (MGDH-Birth to e-SiRCEV)", "country_label": "Mozambique", "class": "exchange", "platform": "OpenHIM", "owner": "Jembi Health Systems", "tiers": "national"},
+    {"system": "MGDH-Birth", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": "facility"},
+    {"system": "e-SiRCEV", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIS-H", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": "facility"}
+  ],
+  "note": ""
+}

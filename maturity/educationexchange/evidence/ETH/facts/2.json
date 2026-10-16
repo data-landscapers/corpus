@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-13-ethiopia-launches-dhis2-for-education",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "HISP Ethiopia and the HISP Centre report that from November 2025 a UNICEF-backed project in the SER, SWEPR, Oromia and Benishangul Gumuz regions works to connect local school, woreda and zone data systems to the Ministry's national DHIS2-Ed EMIS enterprise application.", "as_of": "2025-11", "date_precision": "month", "system": "DHIS2-Ed", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DHIS2-Ed", "country_label": "Ethiopia", "class": "other", "platform": "DHIS2", "owner": "Ministry of Education", "tiers": "school; woreda; zone; region; national"}
+  ],
+  "note": ""
+}

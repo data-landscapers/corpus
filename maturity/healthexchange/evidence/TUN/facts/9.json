@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-15-tmo-national-health-identifier-pilot",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "identifier",
+   "value": "linked",
+   "fact": "The Tunisian Monitor reports, citing the Tunis Regional Directorate of Health, that over 9,000 patients were enrolled in the first weeks of the National Health Identifier, a lifetime code meant to connect a patient's medical history across providers, piloted from early July 2026 at Habib Thameur University Hospital using the national identity card.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Health Identifier (NHI)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Health authorities set out a phased plan to extend the NHI to all medical facilities nationwide by the end of 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Health Identifier (NHI)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health Identifier (NHI)",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

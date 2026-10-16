@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The UNDP report says more than 4 million Malawi Social Registry (formerly UBR) household records, 75 percent, have been integrated with the National ID.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Malawi Social Registry (MSR/UBR)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The report says the Social Registry is being upgraded with a new software platform and a dedicated module for real-time integration with NRB, for automated identity verification of all programme beneficiaries.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Malawi Social Registry (MSR/UBR)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Social Registry (MSR/UBR)",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National ID (NRB)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "The report links the registry to the National ID only; no other sector is named, and it does not say how many programmes share the registry."
+}

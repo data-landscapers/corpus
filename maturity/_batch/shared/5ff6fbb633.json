@@ -1,0 +1,34 @@
+{
+  "slug": "2025-11-29-worldbank-gambia-rise-project-isr05520",
+  "studies": {
+    "dataexchange": {
+      "countries": {
+        "GMB": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "platform", "value": "none", "fact": "The World Bank ISR for the RISE project records no interoperability across the GamSR, the education management information systems, CRVS and the health insurance system at baseline (January 2024) and a current value of 0 at 25 November 2025, against a target of at least 3 systems interoperable by October 2028; one instance is being verified.", "as_of": "2025-11-25", "date_precision": "day", "system": "Interoperability of the GamSR, EMISs (MoBSE and MoHERST), CRVS and health insurance system", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "GamSR", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+            {"system": "EMIS (MoBSE and MoHERST)", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "MoBSE, MoHERST", "tiers": ""},
+            {"system": "CRVS", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+            {"system": "Health insurance system", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+          ],
+          "note": "The indicator counts systems interoperable, not a named exchange platform; no platform, protocol or system pair is named."
+        }
+      }
+    },
+    "healthexchange": {
+      "countries": {
+        "GMB": {
+          "facts": [
+            {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The World Bank ISR for the RISE project records a current value of 0 systems interoperable at 25 November 2025 across the GamSR, education management information systems, CRVS and the health insurance system, with one instance being verified and a target of at least 3 by October 2028.", "as_of": "2025-11-25", "date_precision": "day", "system": "Health insurance system (interoperability indicator of the RISE project)", "class": "exchange"}
+          ],
+          "systems": [
+            {"system": "Health insurance system", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+          ],
+          "note": "The only health system named is the health insurance system, inside a cross-sector indicator; no pair of health systems is named."
+        }
+      }
+    }
+  }
+}

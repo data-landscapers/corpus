@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-29-somalia-cbs-kyc-id-verification-banking",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Central Bank of Somalia's public notice of 29 July 2025 mandates all commercial banks, from 1 September 2025, to open no new account without a valid NIRA National ID and to renew or update accounts only on confirmation of a valid NIRA ID, starting in the Banadir region.", "as_of": "2025-09-01", "date_precision": "day", "system": "Commercial bank account opening and KYC (CBS eKYC regulation)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "Commercial bank account opening and KYC (CBS eKYC regulation)", "country_label": "Somalia", "class": "relying", "platform": "", "owner": "Central Bank of Somalia with commercial banks", "tiers": ""}
+  ],
+  "note": ""
+}

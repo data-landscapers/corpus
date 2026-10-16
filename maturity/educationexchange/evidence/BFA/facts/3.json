@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-14-world-bank-gpe-restoring-education-system-burkina-faso",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (SIGE) student management module", "country_label": "Burkina Faso", "class": "other", "platform": "centralized digital platform with smartphone data-collection app and web interface, planned under subcomponent 3.3", "owner": "MEBAPLN", "tiers": ""},
+    {"system": "shared digital platform centralizing educational data (subcomponent 4.1)", "country_label": "Burkina Faso", "class": "", "platform": "centralizes data on examinations, assessments and performance, planned", "owner": "MEBAPLN", "tiers": ""}
+  ],
+  "note": "The appraisal document states planned EMIS student-management and data-centralisation platforms, with no stated link between two education systems, shared learner identifier or national ID link."
+}

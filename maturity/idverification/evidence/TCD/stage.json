@@ -1,0 +1,17 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "use": "underway",
+   "sectors": "",
+   "usage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-001",
+   "gaps": "No source held since October 2023 says a service in use checks people against the ID.",
+   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
+  }
+ ]
+}

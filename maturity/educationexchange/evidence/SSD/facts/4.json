@@ -1,0 +1,18 @@
+{
+  "slug": "2025-09-23-ericc-south-sudan-education-data-systems",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The ERICC working paper states that REMIS, the UNHCR refugee education data system, relies on data from the Ministry's EMIS to incorporate refugee hosting areas and compare quality indicators between refugee and host communities, and that only the Ministry receives REMIS enrolment and attendance data; no date is given, so the document's published date is used.",
+     "as_of": "2025-09-23", "date_precision": "day", "system": "REMIS (EMIS data feed)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The ERICC working paper states that SAMS, the school attendance monitoring system supported by the Ministry's GESS unit, draws on EMIS data to register schools before it begins tracking real-time attendance; no date is given, so the document's published date is used.",
+     "as_of": "2025-09-23", "date_precision": "day", "system": "SAMS (EMIS school register)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EMIS (Annual Education Census)", "country_label": "South Sudan", "class": "other", "platform": "tablets and Kobo Toolbox, paper questionnaires", "owner": "MOGEI", "tiers": "national"},
+    {"system": "SAMS (South Sudan School Attendance Monitoring System)", "country_label": "South Sudan", "class": "other", "platform": "paper enrolment surveys and daily SMS attendance, online dashboard", "owner": "MOGEI, supported by GESS", "tiers": "school"},
+    {"system": "SSEC Functionality", "country_label": "South Sudan", "class": "other", "platform": "field assessments and monthly 5W reports", "owner": "South Sudan Education Cluster", "tiers": "sample of schools"},
+    {"system": "REMIS (Refugee Education Management Information System)", "country_label": "South Sudan", "class": "other", "platform": "biometric enrolment, electronic and online storage", "owner": "UNHCR", "tiers": "refugee schools"}
+  ],
+  "note": "Two links in use are stated (EMIS to REMIS, EMIS to SAMS); no learner identifier shared across systems and no link to national ID or another sector is stated; the paper says national examination results are not shared through the existing data systems and that student-level data is lacking."
+}

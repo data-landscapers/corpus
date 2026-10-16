@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-16-rdc-homologation-sih-anicns-congoquotidien",
+  "facts": [],
+  "systems": [
+    {"system": "Systèmes d'Information Hospitaliers (SIH)", "country_label": "RDC", "class": "other", "platform": "", "owner": "ANICNS (homologation); vendors", "tiers": "facility"},
+    {"system": "Identifiant National en Santé (INS)", "country_label": "RDC", "class": "other", "platform": "", "owner": "Ministère de la Santé", "tiers": "national"},
+    {"system": "Registre National des SIH Homologués", "country_label": "RDC", "class": "other", "platform": "anics.gouv.cd; SANTE RDC mobile app", "owner": "ANICNS", "tiers": "national"}
+  ],
+  "note": "States a homologation requirement (FHIR, DICOM, API REST conformity, INS-based patient identity) for hospital information systems, not an exchange under way or in service."
+}

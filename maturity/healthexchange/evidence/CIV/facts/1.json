@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "mHealth Africa (TICANALYSE) states that its mHealth community platform automatically transmits community-collected data (consultations, vaccinations, input management) to the national DHIS2 (SIGSANTE) through synchronisation mechanisms using HL7 FHIR and secure APIs, so two systems exchange data.",
+     "as_of": "2025-09-12", "date_precision": "day",
+     "system": "mHealth to DHIS2 (SIGSANTE) synchronisation", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "mHealth to DHIS2 (SIGSANTE) synchronisation", "country_label": "Côte d'Ivoire", "class": "exchange", "platform": "HL7 FHIR, secure APIs", "owner": "mHealth (TICANALYSE)", "tiers": "community to national"},
+    {"system": "DHIS2 (SIGSANTE)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "DHIS2", "owner": "Health Information Directorate, Ministry of Health", "tiers": "national"},
+    {"system": "mHealth community platform", "country_label": "Côte d'Ivoire", "class": "other", "platform": "mHealth", "owner": "mHealth (TICANALYSE)", "tiers": "community"}
+  ],
+  "note": "as_of is the document's published date; it gives no date for when the synchronisation began."
+}

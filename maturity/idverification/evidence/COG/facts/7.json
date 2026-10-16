@@ -1,0 +1,8 @@
+{
+  "slug": "2004-11-03-decret-2004-469-institution-numero-identification-unique",
+  "facts": [],
+  "systems": [
+    {"system": "numéro d'identification unique (NIU)", "country_label": "COG", "class": "other", "platform": "", "owner": "Direction générale des impôts", "tiers": ""}
+  ],
+  "note": "The NIU is a taxpayer number keyed across administrations, not the national ID; no check against the national ID is stated."
+}

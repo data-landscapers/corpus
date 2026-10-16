@@ -1,0 +1,8 @@
+{
+  "slug": "2019-02-01-mus-mauritius-emis-support-and-monitoring-of-education-2030-agenda",
+  "facts": [],
+  "systems": [
+    {"system": "School integrated management information system (SIMIS)", "country_label": "Mauritius", "class": "other", "platform": "OpenEMIS", "owner": "Ministry of Education and Human Resources, Tertiary Education and Scientific Research", "tiers": "national;zonal;school"}
+  ],
+  "note": "2019 needs assessment and design mission; EMIS planned, aims to improve data sharing, but states no link between two education systems contracted, built or in use."
+}

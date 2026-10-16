@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-30-egy-shorouknews-mohp-vodafone-health-information-exchange",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Deputy Minister of Health held a coordination meeting with Vodafone, the communications ministry and the universal health insurance authority on digital integration to lay the foundations for the national digital health strategy, and the ministry spokesman said it stressed activating the health information exchange (HIE), with a wider workshop proposed.",
+     "as_of": "2026-09-30", "date_precision": "day", "system": "Health information exchange (HIE)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Health information exchange (HIE)", "country_label": "Egypt", "class": "exchange", "platform": "", "owner": "Ministry of Health and Population", "tiers": ""}
+  ],
+  "note": "The meeting date is not given, so as_of is the published date; the article describes coordination, with no system stated to be in service."
+}

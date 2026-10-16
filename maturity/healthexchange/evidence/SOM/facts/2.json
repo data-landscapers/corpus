@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-14-somalia-caafimaad-plus-digitalized-data-system",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "CaafimaadPlus says its Digitalized Data System (C+ DDS), operational in over 40 facilities across 9 regions and 25 districts and capturing over 3,000 consultations a day, pushes data directly into the Federal Ministry of Health's DHIS2 in real time (date is the document's published date; the article gives no event date).", "as_of": "2026-04-14", "date_precision": "day", "system": "Caafimaad+ Digitalized Data System (C+ DDS)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Caafimaad+ Digitalized Data System (C+ DDS)", "country_label": "Somalia", "class": "exchange", "platform": "", "owner": "CaafimaadPlus Consortium", "tiers": "over 40 facilities, 9 regions, 25+ districts"},
+    {"system": "Pharmaceutical Information Management System (PIMS)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "International Medical Corps", "tiers": "handheld devices with barcode scanning for dispensing data"},
+    {"system": "DHIS2", "country_label": "Somalia", "class": "other", "platform": "DHIS2", "owner": "Somali Federal Ministry of Health", "tiers": "government national platform"}
+  ],
+  "note": ""
+}

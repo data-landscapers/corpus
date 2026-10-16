@@ -1,0 +1,13 @@
+{
+  "slug": "2025-03-31-worldbank-isr-social-safety-net-system-project-ii-registre-social",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The World Bank ISR reports 17 users with signed agreements with the Social Registry as of March 2025 (baseline 7 in July 2020), out of at least 25 governmental and non-governmental users, including Elmaouna, WFP, UNHCR and UNICEF, using it to select beneficiaries.", "as_of": "2025-03-15", "date_precision": "day", "system": "Registre Social", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank ISR reports that, in a civil-registration pilot, the government signed a convention between the Social Registry and ANRPTS, the civil registry agency, with enrollment support under way.", "as_of": "2025-03-15", "date_precision": "day", "system": "Registre Social", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "Taazour General Delegation", "tiers": ""},
+    {"system": "Tekavoul Social Transfer Program", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Taazour General Delegation", "tiers": ""},
+    {"system": "Elmaouna program", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

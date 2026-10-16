@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-18-dz-aps-dossier-electronique-patient",
+  "facts": [],
+  "systems": [
+    {"system": "dossier électronique du patient", "country_label": "Algeria", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "Electronic patient record is a sectoral system, not an exchange; the document states no exchange between systems."
+}

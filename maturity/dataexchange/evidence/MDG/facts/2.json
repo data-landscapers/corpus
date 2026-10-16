@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-28 Madagascar seeks firm to expand digital interoperability platform",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "Biometric Update reports that Madagascar's Digital Governance Unit (UGD), under the World Bank-financed PRODIGY project, issued a call for expressions of interest in August 2025 for a firm to help operationalise and scale up the national interoperability platform, with bidders required to have deployed X-Road or equivalent platforms.",
+     "as_of": "2025-08", "date_precision": "month", "system": "national interoperability platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "national interoperability platform", "country_label": "Madagascar", "class": "exchange", "platform": "X-Road (or equivalent) required of bidders", "owner": "Digital Governance Unit (UGD), PRODIGY project", "tiers": ""}
+  ],
+  "note": ""
+}

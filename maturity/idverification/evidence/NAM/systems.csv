@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
+NAM,Social grants identity verification,Namibia,relying,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
+NAM,Electronic signature and certification service regime,Namibia,other,,Ministry of Information and Communication Technology,,2025-12-19-namibia-electronic-signature-regulations-gazette-8814
+NAM,Instant Payments Namibia,Namibia,relying,,Bank of Namibia,,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate
+NAM,MTC-UN digital identity and e-KYC partnership,Namibia,,,Mobile Telecommunications Limited; United Nations Namibia,,2025-05-23-namibia-un-mtc-five-year-digital-partnership
+NAM,e-ID (electronic identity card),Namibia,other,National Population Register,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-08-15-namibia-mhaiss-eid-omaheke-campaign
+NAM,NPRS-social protection integration,Namibia,relying,National Population Registration System,"Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,Emergency Income Grant verification against NPRS,Namibia,relying,National Population Registration System,,,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,National Population Registration System (NPRS),Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,electronic identity card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,Integrated Beneficiary Registry (IBR),Namibia,other,,"Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-01-01-consolidation-of-social-grants-and-the-food-bank
+NAM,e-ID (electronic identity card) pilot,Namibia,other,smart card with secure chip; mobile ID,"Ministry of Home Affairs, Immigration, Safety and Security; UNDP-supported",,2025-09-24-namibia-eid-piloting-otjimbingwe
+NAM,e-ID,Namibia,other,,,,2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)
+NAM,National Population Register,Namibia,other,,,,2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)
+NAM,National Population Registration System (NPRS),Namibia,other,,,unique identification number (UIN),2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9

@@ -1,0 +1,14 @@
+{
+  "slug": "2023-06-16-zambia-zilas-ministerial-statement-parliament",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The Minister of Lands told Parliament that ZILAS went live on 17 May 2023 with sixty services made available on the Government Service Bus (GSB).", "as_of": "2023-05-17", "date_precision": "day", "system": "Government Service Bus (GSB)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The Minister stated that ZILAS is integrated with the Government Service Bus to verify National Registration Cards with the Ministry of Home Affairs and Internal Security and to retrieve company profiles from PACRA; no event date is given, so the statement's published date is used.", "as_of": "2023-06-16", "date_precision": "day", "system": "Government Service Bus (GSB)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The Minister stated that sixty services of the Ministry of Lands and Natural Resources have been made available on the Government Service Bus.", "as_of": "2023-05-17", "date_precision": "day", "system": "Government Service Bus (GSB)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus (GSB)", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "SMART Zambia Institute (electronic Government division)", "tiers": ""},
+    {"system": "Zambia Integrated Land Administration System (ZILAS)", "country_label": "Zambia", "class": "other", "platform": "Government Service Bus", "owner": "Ministry of Lands and Natural Resources", "tiers": ""},
+    {"system": "Zamportal", "country_label": "Zambia", "class": "other", "platform": "", "owner": "SMART Zambia Institute", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada",
+  "facts": [],
+  "systems": [
+    {"system": "المنظومة الإلكترونية الموحدة (National Diabetes Authority unified electronic system)", "country_label": "Libya", "class": "other", "platform": "", "owner": "National Diabetes Authority", "tiers": "national"}
+  ],
+  "note": "A single sectoral system for patient registration and drug distribution, linked to the national number for insulin dispensing; no exchange between health systems is stated."
+}

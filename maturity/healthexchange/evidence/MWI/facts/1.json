@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-27-mwi-dhis2-diabetes-compass-project",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "DHIS2 says integration of the iCHIS community health platform's NCD module with the MaHIS OpenMRS-based electronic medical record system at health facilities is being finalised and is the remaining step before full field deployment, so that community and facility staff can share information for the first time.",
+     "as_of": "2026-04", "date_precision": "month",
+     "system": "iCHIS NCD module integration with MaHIS OpenMRS EMR", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "iCHIS (integrated Community Health Information System)", "country_label": "Malawi", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health, Community Health Services", "tiers": "community"},
+    {"system": "MaHIS OpenMRS electronic medical record system", "country_label": "Malawi", "class": "other", "platform": "OpenMRS", "owner": "Ministry of Health", "tiers": "facility"},
+    {"system": "DHIS2 national health information system", "country_label": "Malawi", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": ""
+}

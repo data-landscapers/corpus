@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-02-superapp-digital-wallet-clarification-no-1",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SuperApp with Secure ID Wallet",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": ""
+    },
+    {
+      "system": "MAUCAS",
+      "country_label": "Mauritius",
+      "class": "",
+      "platform": "national payment switch",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned wallet would hold Mobile ID and other documents as credentials; it is the ID wallet, not another system checking people against the ID."
+}

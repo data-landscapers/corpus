@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The APHRC KIX-SEEDS issue brief says Uganda introduced the School Report Card integrated with DHIS2 for Education, and that sustainability depends on system-wide integration, so the link between school-level data and the national platform is not yet national.", "as_of": "2025-12", "date_precision": "month", "system": "School Report Card integrated with DHIS2 for Education", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "School Report Card", "country_label": "Uganda", "class": "exchange", "platform": "DHIS2 for Education", "owner": "", "tiers": "school, district, national"},
+    {"system": "DHIS2 for Education", "country_label": "Uganda", "class": "exchange", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Offline Android data capture", "country_label": "Uganda", "class": "other", "platform": "Android", "owner": "", "tiers": "school"}
+  ],
+  "note": ""
+}

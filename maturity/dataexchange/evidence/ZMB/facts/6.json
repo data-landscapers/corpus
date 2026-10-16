@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-06-zmb-gazette-si-43-egovernment-general-regulations",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Bus", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "Electronic Government Division (public bodies must integrate)", "tiers": ""}
+  ],
+  "note": "The regulations define the Government Service Bus and oblige public bodies to integrate with it (reg. 9), but state nothing on whether it is built, in service, how many systems are connected or its use."
+}

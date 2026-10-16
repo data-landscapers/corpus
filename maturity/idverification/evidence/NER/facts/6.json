@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Nationalites (RNN)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CNIB AES",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The RNP is to serve eventually as the base to authenticate citizens for public and private services; no link is stated as contracted, built or piloted."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-ghana-education-sector-medium-term-development-plan",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Education, Ghana (SRIM directorate)", "tiers": ""},
+    {"system": "CSSPS", "country_label": "Ghana", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Captured excerpt is a table of contents and acronym list; it states nothing about data exchange between systems."
+}

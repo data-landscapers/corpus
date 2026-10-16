@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-28-car-systeme-national-identite-numerique-snid",
+  "facts": [],
+  "systems": [
+    {"system": "Système national d'identité numérique (SNID)", "country_label": "République centrafricaine", "class": "other", "platform": "", "owner": "Office national d'identification (ONI)", "tiers": ""}
+  ],
+  "note": "The SNID is the ID system itself (implementation 2027-2032); telecom and banking access are stated only as expected benefits, with no other system named as linked, contracted, built or piloted."
+}

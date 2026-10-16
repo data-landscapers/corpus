@@ -1,0 +1,62 @@
+{
+ "slug": "2024-08-15-malawi-dragging-feet-legal-gaps-human-rights",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "APC says mandatory SIM card registration, in force since 2018 under the Communications Act 2016, is linked to the national ID and all licensed agents require the national ID for registration.",
+   "as_of": "2024-08-15",
+   "date_precision": "day",
+   "system": "SIM card registration",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "APC says banks mandate a Know-Your-Customer process requiring presentation of the national ID.",
+   "as_of": "2024-08-15",
+   "date_precision": "day",
+   "system": "Bank KYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "APC says government entities require the national ID for passport, driver's licence, tax number, SIM and voter registration, agricultural subsidies and cash transfer programmes, and banks require it for KYC.",
+   "as_of": "2024-08-15",
+   "date_precision": "day",
+   "system": "National ID requirement across services",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM card registration",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "MACRA; electronic communications licensees",
+   "tiers": ""
+  },
+  {
+   "system": "Bank KYC",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "Banks",
+   "tiers": ""
+  },
+  {
+   "system": "Biometric national ID (NRIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "as_of is the document's published date; it gives no date for the ID requirements. No verification figures stated (nine million is ID enrolment)."
+}

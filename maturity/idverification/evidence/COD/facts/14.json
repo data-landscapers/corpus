@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-15-deskeco-rdc-pass-lancement-agents",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de l'Economie numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "Says the identifier should progressively simplify education, health and banking procedures; no relying system is named as checking against it."
+}

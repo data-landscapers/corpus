@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-23-unicef-innocenti-supporting-middle-tier-actors-chad-data",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS) / SIGE", "country_label": "Chad", "class": "other", "platform": "", "owner": "Ministry of National Education and Civic Promotion (MENPC)", "tiers": "national; decentralised in 16 provinces, to be extended to seven more under PRET"}
+  ],
+  "note": "States the EMIS collects school data routinely since 2009 and is decentralised in 16 provinces; no exchange with another education system, learner identifier or link to national ID or another sector is stated."
+}

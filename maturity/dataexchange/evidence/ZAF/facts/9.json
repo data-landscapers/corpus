@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The Q3 2025/26 Operation Vulindlela report says the MzansiXchange pilot entered implementation after its 9 October 2025 launch, with pilot infrastructure operational at the CSIR and testing under way between SASSA, NSFAS, DPSA and Home Affairs (four bodies); date is the published date, a proxy for the Q3 2025 report.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

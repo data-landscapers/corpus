@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-04-tchad-budget-2027-numerique-finances-publiques",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFiP (Système intégré de gestion des finances publiques)", "country_label": "Tchad", "class": "other", "platform": "", "owner": "Government of Chad", "tiers": ""},
+    {"system": "e-Visa", "country_label": "Tchad", "class": "other", "platform": "", "owner": "Government of Chad", "tiers": ""}
+  ],
+  "note": "The 2027 budget orientations plan interconnection of tax, customs, Treasury and cadastre systems but name no exchange platform and state no procurement, build or pilot."
+}

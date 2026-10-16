@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-14-registre-social-unique-congo-siege-approprie",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The social affairs minister said at the 10 April 2026 inauguration of the RSU headquarters that the universal health insurance, safety net and insertion programmes now have the RSU as a common source of information.", "as_of": "2026-04-10", "date_precision": "day", "system": "Registre Social Unique (RSU)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social Unique (RSU)", "country_label": "Congo", "class": "exchange", "platform": "", "owner": "Ministere des Affaires sociales, de la Solidarite et de l'Action humanitaire", "tiers": ""}
+  ],
+  "note": ""
+}

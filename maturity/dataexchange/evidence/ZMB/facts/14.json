@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)",
+  "facts": [],
+  "systems": [
+    {"system": "ZamConnect", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamPortal", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamPay", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ZamSign", "country_label": "Zambia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The PID names ZamConnect as a data exchange / data integration platform but gives no status, connections or usage, and gives no dated statement about it; it does not name the Government Service Bus."
+}

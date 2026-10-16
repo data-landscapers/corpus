@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autentika",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "IMIJ (Institute for Justice Modernization and Innovation)",
+   "tiers": ""
+  }
+ ],
+ "note": "Autentika links civil registration and ID; the document names no other system checking people against the national ID, only planned expansion of use across public services."
+}

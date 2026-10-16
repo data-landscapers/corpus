@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-01-papesi-evaluation-unesco-iiep",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (Systeme d'information de gestion de l'education)", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "Ministry of National Education (DPE, DSI)", "tiers": "national"},
+    {"system": ".Stat Suite data warehouse and national statistics portal", "country_label": "Madagascar", "class": "other", "platform": ".Stat Suite (SDMX)", "owner": "Ministry of National Education, supported by UNESCO, OECD, UN DESA and ILO", "tiers": "national"},
+    {"system": "FPE", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "Ministry of National Education (DSI)", "tiers": "national"}
+  ],
+  "note": "Evaluation of the 2022-2024 EMIS and planning support programme; it describes the EMIS, a central education data warehouse and data collection tools, and states no exchange between education systems, no learner identifier and no link to the national ID or another sector."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-19-itweb-nsfas-30-days-ict-modernisation",
+  "facts": [],
+  "systems": [
+    {"system": "NSFAS ICT systems", "country_label": "ZAF", "class": "other", "platform": "", "owner": "National Student Financial Aid Scheme", "tiers": ""}
+  ],
+  "note": "Student financial aid scheme, not a social registry or social protection programme MIS; the article says its systems are not sufficiently integrated with Home Affairs, SASSA and SARS but names no registry, ID or payment link under way or in service."
+}

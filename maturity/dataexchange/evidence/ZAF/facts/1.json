@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-govt-data-exchange-estonia-xroad",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Biometric Update reports National Treasury is leading a year-long pilot of the MzansiXchange data exchange platform, built on Estonia's X-Road technology, with a nationwide rollout to be considered afterwards; date is the article's published date.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

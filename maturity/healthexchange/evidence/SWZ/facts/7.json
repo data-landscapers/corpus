@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-01-eswatini-annual-report-health-2025",
+  "facts": [],
+  "systems": [
+    {"system": "CMIS", "country_label": "Eswatini", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Excerpt stops before the HMIS chapter; CMIS appears only in the acronym list and the HRIS description concerns staff data, so nothing on health-system exchange."
+}

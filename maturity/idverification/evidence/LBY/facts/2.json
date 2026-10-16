@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-20-gia-ly-dnid-second-level-trial-phases",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Identity System (LY-DNID)", "country_label": "Libya", "class": "other", "platform": "LY-NDEX", "owner": "General Information Authority", "tiers": "Level 1 G2G; Level 2 pilot"}
+  ],
+  "note": "Describes the ID system's own level-2 pilot and its integration with LY-NDEX; names no other system checking people against the ID."
+}

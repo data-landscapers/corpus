@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-houwiyati-national-certificates-service-ami",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates, available for certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry; the AMI report gives no figures. Dated by its published date.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "Houwiyati national certificates service",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Houwiyati national certificates service",
+   "country_label": "Mauritania",
+   "class": "exchange",
+   "platform": "Houwiyati",
+   "owner": "Ministry of Education and Digital Transformation Ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

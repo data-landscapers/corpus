@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-20-ghana-gpsnp2-implementation-support-mission",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "MoGCSP reported progress toward full integration of its social protection management information systems to centralise data and enable real-time monitoring, reviewed at a World Bank GPSNP 2 support mission; the article is undated and its date is inferred from the mission of 20-24 October 2025.",
+     "as_of": "2025-10", "date_precision": "month", "system": "MoGCSP management information systems integration", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Ghana National Household Registry (GNHR)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Livelihood Empowerment Against Poverty (LEAP)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""},
+    {"system": "Single Window Citizens Engagement Services (SWCES)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Gender, Children and Social Protection", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-20-iidentifii-marco-wagener-ceo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iiDENTIFii",
+   "country_label": "South Africa",
+   "class": "",
+   "platform": "biometric identity verification platform",
+   "owner": "iiDENTIFii (private firm, Cape Town)",
+   "tiers": ""
+  }
+ ],
+ "note": "Vendor of biometric identity verification used by banks; the document does not say it checks against the national ID."
+}

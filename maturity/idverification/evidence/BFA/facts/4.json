@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-30-sidwaya-digitalisation-identite-identifiant-unique-electronique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Identifiant unique electronique (WURI)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Decree on mass enrolment into the ID itself; no other system checking people against it."
+}

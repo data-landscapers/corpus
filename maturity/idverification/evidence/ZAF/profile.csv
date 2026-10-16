@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,use,use,coverage,inservice,2026-07-20,ZAF-002;ZAF-004;ZAF-007;ZAF-008;ZAF-010;ZAF-011;ZAF-014;ZAF-016;ZAF-018,ZAF-001=underway;ZAF-012=underway;ZAF-009=underway,
+ZAF,use,sectors,coverage,several,2026-07-20,ZAF-003;ZAF-005;ZAF-013;ZAF-017,,
+ZAF,use,usage,coverage,reported,2026-03-11,ZAF-006;ZAF-019,,

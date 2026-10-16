@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Communications and IT Minister Raafat Hindy said the state has connected government bodies through the Government Digital Transformer, allowing real-time, secure data exchange with more than 100 government databases.", "as_of": "2026-07-27", "date_precision": "day", "system": "المحول الرقمي الحكومي (Government Digital Transformer)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "Minister Hindy said 105 government bodies are connected through the Government Digital Transformer, with integration to more than 100 government databases.", "as_of": "2026-07-27", "date_precision": "day", "system": "المحول الرقمي الحكومي (Government Digital Transformer)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "المحول الرقمي الحكومي (Government Digital Transformer)", "country_label": "Egypt", "class": "exchange", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "منصة مصر الرقمية (Digital Egypt platform)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "الخزانة الرقمية (Digital Vault)", "country_label": "Egypt", "class": "other", "platform": "Digital Egypt platform", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "الهوية الرقمية (digital identity)", "country_label": "Egypt", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "التوقيع الإلكتروني (electronic signature)", "country_label": "Egypt", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}
+  ],
+  "note": "No figure for exchanges or transactions through the Transformer; the 240-service and 12 million-user figures are for the Digital Egypt portal."
+}

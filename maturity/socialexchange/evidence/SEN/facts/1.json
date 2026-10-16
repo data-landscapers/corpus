@@ -1,0 +1,66 @@
+{
+ "slug": "2026-07-23-lesoleil-systeme-information-interoperable",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "Le Soleil reports that Senegal's social programmes (Bourses de securite familiale, CSU, Carte d'egalite des chances, Fonds de solidarite nationale, RNU) run on separately developed information systems that limit data exchange, with a workshop of 23-24 July 2026 opened to design an interoperable system.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Registre national unique (RNU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national unique (RNU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites",
+   "tiers": ""
+  },
+  {
+   "system": "Bourses de securite familiale",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Couverture sanitaire universelle (CSU)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Carte d'egalite des chances",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Fonds de solidarite nationale",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme d'Information Interoperable / Guichet Unique Social (planned)",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

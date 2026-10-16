@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-23-ken-techweez-manual-backend-interoperability",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
+     "fact": "ICT Secretary Mary Kerema told WSO2Con Africa that a new interoperability platform to let government entities share data is still in development, alongside the launched Government Enterprise Architecture (Techweez report).",
+     "as_of": "2026-09-23", "date_precision": "day", "system": "interoperability platform", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "interoperability platform", "country_label": "Kenya", "class": "exchange", "platform": "", "owner": "State Department for ICT and the Digital Economy", "tiers": "national"},
+    {"system": "Government Enterprise Architecture", "country_label": "Kenya", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

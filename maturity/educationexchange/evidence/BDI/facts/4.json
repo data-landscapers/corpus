@@ -1,0 +1,17 @@
+{
+  "slug": "2023-12-19-gpe-itap-assessment-of-enabling-factors-burundi",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "The GPE Independent Technical Advisory Panel says the EMIS is not yet integrated with other education management infrastructure and data sources, including human resources management and examinations.",
+     "as_of": "2023-12-19", "date_precision": "day", "system": "EMIS (Education Management and Information System)", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The Panel says the ministry of education is developing a human resources module to be integrated in the education management information system; no completion is stated.",
+     "as_of": "2023-12-19", "date_precision": "day", "system": "Human resources module of the EMIS", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EMIS (Education Management and Information System)", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Ministry of National Education and Scientific Research (MENRS)", "tiers": "paper collection at school, electronic entry at central level"},
+    {"system": "Human resources module of the EMIS", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Ministry of National Education and Scientific Research (MENRS)", "tiers": ""},
+    {"system": "Integrated Financial Management Information System", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Dates are the report's publication date (2023-12-19); the document gives no separate event date. No learner identifier or national ID link stated."
+}

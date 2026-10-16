@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "none",
+     "fact": "The Ministry of Finance's PFM Reform Strategy 2026-2030 lists developing a central data exchange platform as a priority measure, with piloting and rollout phased after working-group and data-standards stages, and says lack of interoperability between PFM IT systems limits consolidation of financial information.",
+     "as_of": "2026-03-31", "date_precision": "day",
+     "system": "Central data exchange platform (PFM)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Central data exchange platform (PFM)", "country_label": "Somalia", "class": "exchange", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "SFMIS", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": "as_of is the strategy's published date, as the document gives no other date for the state of systems."
+}

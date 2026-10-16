@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-26-burkina-faso-zero-data-abroad-120-platforms",
+  "studies": {
+    "idverification": {
+      "countries": {
+        "BFA": {
+          "facts": [],
+          "systems": [
+            {"system": "identification unique électronique de la personne", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": ""}
+          ],
+          "note": "The document says the vendor for the electronic unique ID is being recruited and an enrolment mechanism is before the Council of Ministers; no other system checking people against the ID is described."
+        }
+      }
+    },
+    "socialexchange": {
+      "countries": {
+        "BFA": {
+          "facts": [],
+          "systems": [],
+          "note": "The document says nothing about social protection systems."
+        }
+      }
+    }
+  }
+}

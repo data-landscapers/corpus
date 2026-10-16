@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-01-policyreview-deplatformed-africa",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "none",
+     "fact": "An Internet Policy Review op-ed quotes a Lagos software engineer saying LinkedIn's identity verification, run by Persona, did not accept his NIN and worked only with an international passport; no date is given, so the document's published date is used.",
+     "as_of": "2026", "date_precision": "year", "system": "LinkedIn identity verification (Persona)", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "LinkedIn identity verification (Persona)", "country_label": "Nigeria", "class": "relying", "platform": "Persona", "owner": "LinkedIn", "tiers": ""}
+  ],
+  "note": "Op-ed on platform lockouts; no Nigerian system is stated to check people against the NIN."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-24-mlha-committee-of-supply-speech-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Identification System (Biometric Identity Card) / Digital ID initiative", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""},
+    {"system": "National Identification System (NIS)", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Department of Civil and National Registration", "tiers": ""}
+  ],
+  "note": "Covers the ID system's own rescoping, budget and maintenance; states no other system checking people against the national ID."
+}

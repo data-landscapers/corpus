@@ -1,0 +1,55 @@
+iso3,stage,exchange,registry,linked,stage_sources
+AGO,2,underway,,,AGO-001;AGO-002
+BDI,4,inservice,shared,,BDI-001
+BEN,no evidence,,,,
+BFA,4,inservice,shared,,BFA-006
+BWA,4,inservice,shared,,BWA-001
+CAF,2,underway,,,CAF-001;CAF-002
+CIV,2,underway,,,CIV-001;CIV-003
+CMR,2,underway,,,CMR-001
+COD,no evidence,,,,
+COG,4,inservice,shared,,COG-001
+COM,no evidence,,,,
+CPV,4,inservice,shared,,CPV-001
+DJI,2,underway,,,DJI-003;DJI-002
+DZA,2,underway,,,DZA-001
+EGY,4,inservice,shared,,EGY-003
+ERI,no evidence,,,,
+ETH,no evidence,,,,
+GAB,2,underway,,,GAB-001
+GHA,4,inservice,shared,,GHA-001
+GIN,4,inservice,shared,,GIN-001;GIN-004
+GMB,4,inservice,shared,,GMB-001
+GNB,no evidence,,,,
+GNQ,no evidence,,,,
+KEN,4,inservice,shared,,KEN-001;KEN-004
+LBR,4,inservice,shared,,LBR-005;LBR-002
+LBY,no evidence,,,,
+LSO,3,inservice,,,LSO-002
+MAR,4,inservice,shared,,MAR-003;MAR-001
+MDG,2,underway,,,MDG-001
+MLI,3,inservice,,,MLI-002;MLI-003
+MOZ,2,underway,,,MOZ-003;MOZ-004
+MRT,4,inservice,shared,,MRT-008;MRT-005
+MUS,4,inservice,shared,,MUS-002;MUS-003
+MWI,4,inservice,shared,,MWI-002
+NAM,3,inservice,,,NAM-003;NAM-001
+NER,unplaced,,,,
+NGA,2,underway,,,NGA-001
+RWA,5,inservice,shared,linked,RWA-009;RWA-004
+SDN,3,inservice,,,SDN-001
+SEN,2,underway,,,SEN-002
+SLE,2,underway,,,SLE-002
+SOM,no evidence,,,,
+SSD,no evidence,,,,
+STP,4,inservice,shared,,STP-003
+SWZ,2,underway,,,SWZ-001
+SYC,3,inservice,,,SYC-002
+TCD,2,underway,,,TCD-001;TCD-002
+TGO,2,underway,,,TGO-001;TGO-002
+TUN,3,inservice,,,TUN-001;TUN-002
+TZA,no evidence,,,,
+UGA,3,inservice,,,UGA-004;UGA-005
+ZAF,no evidence,,,,
+ZMB,2,underway,,,ZMB-001
+ZWE,2,underway,,,ZWE-001

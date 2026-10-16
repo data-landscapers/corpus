@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-malawi-mahis-digital-health-records-pilot",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi Health Care Information System (MAHIS)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Ministry of Health and Sanitation", "tiers": ""}
+  ],
+  "note": "The interoperability layer is within one ministry's health records system (a sector system, class other); no national exchange platform is described."
+}

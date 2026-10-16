@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-01-gabon-interieur-verifiez-inscription-liste-electorale-nip",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme de consultation de la liste électorale (www.consultation.listelectorale.ga)", "country_label": "Gabon", "class": "other", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": ""}
+  ],
+  "note": "The page has citizens enter their NIP and name to look up their electoral-roll entry and polling centre; it does not state that the NIP is checked against the national ID register, so it is a lookup keyed on the number, not a recorded check."
+}

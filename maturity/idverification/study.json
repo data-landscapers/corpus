@@ -1,0 +1,114 @@
+{
+ "id": "idverification",
+ "study_file": "maturity-study-idverification.md",
+ "pass": "first",
+ "subjects": [
+  "dpi.exchange",
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.exchange",
+ "redraws": [
+  "dpi.exchange--use-of-digital-id-in-other-systems"
+ ],
+ "carry": [
+  "dpi.exchange--use-of-digital-id-in-other-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "identity verification",
+  "ID verification",
+  "identity authentication",
+  "ID authentication",
+  "verification service",
+  "authentication service",
+  "verify identity",
+  "verified against",
+  "eKYC",
+  "e-KYC",
+  "KYC",
+  "know your customer",
+  "SIM registration",
+  "SIM card registration",
+  "NIN-SIM",
+  "NIN verification",
+  "relying parties",
+  "relying party",
+  "vérification d'identité",
+  "vérification de l'identité",
+  "enregistrement des cartes SIM",
+  "identification des abonnés",
+  "verificação de identidade",
+  "registo de cartões SIM",
+  "registo do cartão SIM",
+  "التحقق من الهوية",
+  "تسجيل الشرائح"
+ ],
+ "sub_indicators": [
+  {
+   "key": "use",
+   "label": "Use of digital ID in other systems",
+   "subject": "dpi.exchange",
+   "text": "Use of digital id in other systems: use of digital id in other systems",
+   "indicator_id": "dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems",
+   "class": "relying",
+   "norm_short": "The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask that a national digital ID be the credential other public and private services rely on, recognised across borders.",
+   "criteria": [
+    "A source from the past three years says no other system checks people against the national ID.",
+    "Another system's use of the national ID is contracted, being built or piloted: a SIM-registration link, a bank's KYC check, a social programme's enrolment.",
+    "A service in use checks people against the national ID: SIM registration, a bank's or mobile money provider's KYC, a social programme, health insurance.",
+    "Services in two or more sectors check people against the national ID, shown by sources from the past three years.",
+    "A source from the past three years gives a figure for verifications made against the ID, or counts the services relying on it."
+   ],
+   "criteria_of": "79c467fb1ce3"
+  }
+ ],
+ "classes": [
+  "relying",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "use",
+   "name": "ID checked by another system",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "sectors",
+   "name": "Used across sectors",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "usage",
+   "name": "Use reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

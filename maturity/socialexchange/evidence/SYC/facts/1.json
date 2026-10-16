@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-26-worldbank-seychelles-social-protection-isr",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The World Bank reports three interagency information-sharing protocols signed by the Agency for Social Protection, against a baseline of zero in July 2019 and a target of three, with the social registry still at 0% of the 60% beneficiary target (pending the ASP MIS) as at 30 May 2025.", "as_of": "2024-11-22", "date_precision": "day", "system": "ASP Management Information System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "ASP Management Information System", "country_label": "Seychelles", "class": "exchange", "platform": "", "owner": "Agency for Social Protection", "tiers": ""},
+    {"system": "Social registry", "country_label": "Seychelles", "class": "exchange", "platform": "", "owner": "Agency for Social Protection", "tiers": ""}
+  ],
+  "note": ""
+}

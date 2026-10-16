@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-22-lesoleil-interoperability-platform",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The ministry with JICA launched on 22 April 2025 an interministerial interoperable data-sharing platform project, with a pilot phase planned 2024-2025 and large-scale deployment 2025-2027.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Interministerial interoperable data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Interministerial interoperable data exchange platform",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "MCTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

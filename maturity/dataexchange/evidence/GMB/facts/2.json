@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-01-mobse-health-ministry-data-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  },
+  {
+   "system": "Health Management Information System (HMIS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The story describes a link between two ministries' sector systems, not a government data exchange platform."
+}

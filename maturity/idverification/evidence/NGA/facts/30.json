@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's Alvan Ikoku said about 63 government agencies had integrated with NIMC, including bodies in examinations, student finance, consumer credit and health insurance, through its API for verification services; the story dates it to the 2026-10-14 briefing.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC identity verification API",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The story names integrated agencies in examinations, student finance, consumer credit and health insurance as part of the roughly 63 connected to NIMC, per NIMC at the 2026-10-14 briefing.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC identity verification API",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIMC said about 63 government agencies had integrated with it and that 142 million people held NINs as of September 2026; no count of verifications is given.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC identity verification API",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC identity verification API",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "API offered by NIMC to agencies and licensed partners for verification",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

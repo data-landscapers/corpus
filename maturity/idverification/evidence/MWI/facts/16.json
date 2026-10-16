@@ -1,0 +1,22 @@
+{
+  "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The NRB strategic plan says banks and microfinance institutions integrated NRB's ID verification (KYC) into their systems, and the Reserve Bank of Malawi pushed financial institutions to adopt e-KYC using the national ID database.", "as_of": "2024", "date_precision": "year", "system": "Bank and microfinance KYC against NRIS", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The plan says mobile network operators were required by the regulator MACRA to register all SIM cards against a national ID.", "as_of": "2024", "date_precision": "year", "system": "SIM card registration", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The plan says the Social Cash Transfer programme used the national ID to ensure beneficiaries are correctly identified, reducing ghost entries.", "as_of": "2024", "date_precision": "year", "system": "Social Cash Transfer Program", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The plan says the National ID was legally mandated as the sole voter identification for elections, and that the Malawi Revenue Authority, pension systems and voter registration relied on NRB data.", "as_of": "2024", "date_precision": "year", "system": "Voter registration; Malawi Revenue Authority; pension systems", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The plan says the national ID became the backbone for identification in banking, telecommunication, voting, taxation, immigration and social services by the end of the 2019-2024 plan period.", "as_of": "2024", "date_precision": "year", "system": "National ID (NRIS)", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "The plan says an enterprise architecture interoperability framework let nine different systems interface and share data with the NRB by 2024, against an initial target of one, naming immigration, banking KYC and the voter registry.", "as_of": "2024", "date_precision": "year", "system": "NRB interoperability framework", "class": "relying"},
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The plan says NRB signed MoUs with banks and mobile operators during 2019-2024 to integrate ID verification into their customer onboarding.", "as_of": "2024", "date_precision": "year", "system": "Bank and mobile operator onboarding MoUs", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "NRIS (National Registration and Identification System)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""},
+    {"system": "Bank and microfinance KYC against NRIS", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Banks; Reserve Bank of Malawi", "tiers": ""},
+    {"system": "SIM card registration", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Mobile network operators; MACRA", "tiers": ""},
+    {"system": "Social Cash Transfer Program", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Voter registration", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Malawi Electoral Commission", "tiers": ""},
+    {"system": "Malawi Revenue Authority", "country_label": "Malawi", "class": "relying", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""},
+    {"system": "Digital ID wallet", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+  ],
+  "note": ""
+}

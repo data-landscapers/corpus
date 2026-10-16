@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-04-ggf-south-africa-government-data-exchange-pilot",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Global Government Forum reports South Africa has launched a one-year MzansiXchange pilot led by National Treasury, to be tested in real-world conditions ahead of a broader national rollout; date is the article's published date.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

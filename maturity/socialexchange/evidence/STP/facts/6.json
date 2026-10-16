@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-12-sao-tome-dpssf-programa-familia-pagamentos-ke-non",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice",
+     "fact": "The DPSSF states that Programa Família Vulnerável payments to 5,000 households in the first five cycles of 2025, over STN 35.75 million through October, were made by bank transfer using the payments module of the Ké Non system, with BISTP named as the bank.",
+     "as_of": "2025-10", "date_precision": "month", "system": "Sistema Ké Non", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Sistema Ké Non", "country_label": "STP", "class": "exchange", "platform": "", "owner": "Direção da Proteção Social, Solidariedade e Família (DPSSF)", "tiers": ""}
+  ],
+  "note": ""
+}

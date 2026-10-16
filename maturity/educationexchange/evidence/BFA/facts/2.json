@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-27-numerisation-systeme-educatif-fichier-national-eleves",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "La Tribune du Faso, citing the digital transition ministry, reports that on 25 June 2025 the digital transition and basic education ministers reviewed progress on the national pupil file, online enrolment and school identity cards, built with WURI support to track pupils from primary to university, with progressive enrolment due from the next school year.",
+     "as_of": "2025-06-25", "date_precision": "day", "system": "fichier national des élèves", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "fichier national des élèves", "country_label": "Burkina Faso", "class": "exchange", "platform": "national pupil register with online enrolment and school ID cards", "owner": "Ministry of Digital Transition and Ministry of Basic Education", "tiers": "primary to university"}
+  ],
+  "note": ""
+}

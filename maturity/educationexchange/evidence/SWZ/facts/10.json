@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-26-eswatini-launches-semis",
+  "facts": [],
+  "systems": [
+    {"system": "SEMIS", "country_label": "Eswatini", "class": "other", "platform": "DHIS2 (mobile app)", "owner": "Ministry of Education and Training", "tiers": ""}
+  ],
+  "note": "Describes SEMIS as a data collection and analysis app launched March 2024 and piloted in 10 schools; no link to another education system is stated."
+}

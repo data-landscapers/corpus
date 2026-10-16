@@ -1,0 +1,13 @@
+# Cape Verde
+
+## National data exchange system
+
+**Exchange platform built and in service.** [Biometric Update says Cabo Verde launched the Autentika interoperability platform, linking its civil registration and national identity systems, within the past five years, with birth registration at 99 percent and registration of deaths in health facilities at 100 percent](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>). [NOSi's PDEX page says the platform lets data owners publish data as APIs and carries live integrations for the civil identification system (via the Portal Consular), NhaCard's traffic with the national health system, and the Treasury's DUC system, with public and private entities already consuming its citizen-validation APIs](<https://pdex.gov.cv/>).
+
+**Many systems connected.** No source held since October 2023 counts ten or more institutions or systems connected. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>).
+
+**Use reported.** No source held since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>).
+
+***Noted, not assessed***. [SGIT](<https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1789997089690.pdf>).
+
+***Not held***. No source held since October 2023 counts ten or more institutions or systems connected.

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sao-tome-dgrn-legi-non-troca-dados-registos",
+  "facts": [],
+  "systems": [
+    {"system": "legi nón", "country_label": "STP", "class": "other", "platform": "", "owner": "Direção Geral dos Registos e Notariado (DGRN)", "tiers": ""}
+  ],
+  "note": "Page describes the civil-registry interface and machine-to-machine exchange between accredited public systems; it names no system that checks people against the national ID."
+}

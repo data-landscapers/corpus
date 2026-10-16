@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-30-wfp-uganda-country-strategic-plan-2026-2030",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Single Registry",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National social registry (planned)",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Plan says the national single registry is still to be operationalised and a social registry is planned; no link or exchange stated."
+}

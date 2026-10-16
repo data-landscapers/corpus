@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "5",
+   "exchange": "inservice",
+   "learnerid": "shared",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
+  }
+ ]
+}

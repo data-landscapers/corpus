@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-31-uga-oag-pdm-thematic-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Parish Development Management Information System",
+   "country_label": "Uganda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": "Passages hold only the cover, contents and table lists; the PDMIS section text is not in the passages, so no fact."
+}

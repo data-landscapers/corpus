@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-13-mrt-worldbank-isr-p179263-taxes-en-ligne-grandes-entreprises-39pc",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
+     "fact": "The World Bank's March 2026 status report says Decree 2025-162 established a dedicated sub-registry for disaster-affected households within the national Social Registry, with full operationalisation with the Ministry of Interior and the World Bank expected by 31 December 2026.",
+     "as_of": "2026-03-13", "date_precision": "day", "system": "Registre Social", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Mauritania", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "as_of is the document's published date; the report gives no event date for the sub-registry's status."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "A Johns Hopkins and Université Joseph Ki-Zerbo evaluation in Toma district found limited integration between the REC-Maternity tablet tool and DHIS2, with parallel paper and electronic flows (REC-Maternity to DHIS2 record ratios of 1.56 for postnatal care and 3.05 for family planning in 2021) and facilities still summarising paper forms for district staff to enter into DHIS2; dated to the study's 2021 endline because the paper gives no later date.",
+     "as_of": "2021", "date_precision": "year",
+     "system": "REC-Maternity to DHIS2 reporting", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "REC-Maternity (Registre Electronique de Consultations-Maternite)", "country_label": "Burkina Faso", "class": "other", "platform": "tablet job aid within the IeDA project", "owner": "Terre des hommes with the Ministry of Health", "tiers": "primary (CSPS), 14 districts and 556 facilities as of March 2022"},
+    {"system": "DHIS2", "country_label": "Burkina Faso", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "nationwide, all CSPS facilities"}
+  ],
+  "note": ""
+}

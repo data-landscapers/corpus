@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao",
+  "facts": [],
+  "systems": [
+    {"system": "Cartão Nacional de Identificação (CNI) / SNIAC", "country_label": "Cabo Verde", "class": "other", "platform": "smart-card national ID with chip", "owner": "SNIAC", "tiers": ""},
+    {"system": "Chave Móvel Digital de Cabo Verde (CMDCV)", "country_label": "Cabo Verde", "class": "other", "platform": "mobile authentication and digital signature", "owner": "State of Cabo Verde", "tiers": ""},
+    {"system": "Autentika", "country_label": "Cabo Verde", "class": "other", "platform": "electronic identity management and authentication platform", "owner": "State of Cabo Verde", "tiers": "basic;CMDCV;CNI"}
+  ],
+  "note": "Describes the ID card and its own digital functions; names no other system relying on it, and carries no dated use figure."
+}

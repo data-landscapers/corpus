@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-12-secteur-public-e-health-couverture-complete-2027",
+  "facts": [],
+  "systems": [
+    {"system": "e-Health system (projet national e-Health)", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Ministry of Health and Wellness; Digital Health Agency; Digital Health Co. Ltd", "tiers": "national"}
+  ],
+  "note": "Describes one national electronic medical-records system in pilot (153,200 patients, several facilities); no exchange between separate health systems is stated."
+}

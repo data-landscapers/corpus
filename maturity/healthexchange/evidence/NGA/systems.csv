@@ -1,0 +1,19 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,National Health Information Exchange Platform,Nigeria,exchange,,Federal Ministry of Health and Social Welfare,national,2025-11-20-nch-2025-salako-digital-health-remarks
+NGA,Electronic Medical Records systems,Nigeria,,,,hospitals,2025-11-20-nch-2025-salako-digital-health-remarks
+NGA,Edo State Digital Health Initiative,Nigeria,,,Edo State,state,2025-11-20-nch-2025-salako-digital-health-remarks
+NGA,SORMAS (Surveillance Outbreak Response Management and Analysis System),Nigeria,other,,NCDC,national,2026-09-30-nga-thesun-ncdc-hfn-pharmaccess-moc-private-sector-surveillance
+NGA,HCPAN Connect,Nigeria,exchange,,Health Care Providers Association of Nigeria,"private providers, HMOs, regulators; Lagos first",2026-09-25-nga-vanguard-hcpan-connect-health-data
+NGA,Health Information Exchange (HIE) with Shared Health Record,Nigeria,exchange,"FHIR R4, cloud-based, open APIs","Nigeria Digital Health Transformation Organisation (NDHTO), under the Federal Ministry of Health and Social Welfare",federal HIE plus optional state-level HIEs (multi-HIE architecture),2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,State-level HIE with SHR (states unnamed),Nigeria,exchange,,state governments,state,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Nigeria Health Client Registry (NHCR),Nigeria,other,based on the National Identification Number (NIN),NDHTO,federal with state sync,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Nigeria Health Facility Registry (NHFR),Nigeria,other,,NDHTO,federal with state sync,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Nigeria Health Worker Registry (NHWR),Nigeria,other,,NDHTO,federal with state sync,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Health Claims Exchange (HCX),Nigeria,other,FHIR-based eClaim,NDHTO,federal,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Health Services Exchange (HSX),Nigeria,other,Beckn protocol,NDHTO,federal,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Nigeria Health Logistics Management Information System (NHLMIS),Nigeria,other,offline-capable cloud system,Federal Ministry of Health,federal and state,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,DHIS2,Nigeria,other,DHIS2,,,2025-12-01-nga-fmohsw-nigeria-digital-health-architecture
+NGA,Health Information/Claims Exchange with Shared Health Record,Nigeria,exchange,,Federal Ministry of Health and Social Welfare,national,2025-11-13-jar-2025-salako-inaugural-address-health-resilience
+NGA,Health Client Registry,Nigeria,exchange,,Federal Ministry of Health and Social Welfare,national,2025-11-13-jar-2025-salako-inaugural-address-health-resilience
+NGA,Health Facility Registry,Nigeria,other,,Federal Ministry of Health and Social Welfare,national,2025-11-13-jar-2025-salako-inaugural-address-health-resilience
+NGA,Healthcare Worker Registry,Nigeria,other,,Federal Ministry of Health and Social Welfare,national,2025-11-13-jar-2025-salako-inaugural-address-health-resilience

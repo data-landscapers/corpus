@@ -1,0 +1,13 @@
+{
+  "slug": "2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "use", "value": "inservice",
+     "fact": "APC states that recent developments allow service providers such as commercial banks to access the civil registry for identity verification, while saying the National ID card does not yet meet the criteria for digital identification.",
+     "as_of": "2024-07-22", "date_precision": "day", "system": "civil registry access for commercial banks", "class": "relying"}
+  ],
+  "systems": [
+    {"system": "civil registry access for commercial banks", "country_label": "Eswatini", "class": "relying", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "commercial banks"},
+    {"system": "SIM card registration", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "Minister of ICT (Legal Notice No. 26 of 2016)", "tiers": "mobile operators collect names, addresses, identity numbers and facial images; no check against the ID is stated"}
+  ],
+  "note": "as_of is the document's published date (2024-07-22); the document gives no date for the bank access."
+}

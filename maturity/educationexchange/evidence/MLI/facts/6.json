@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-mali-adea-revue-par-les-pairs-sige",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc-2", "country_label": "Mali", "class": "other", "platform": "SQL Server database (formerly Access), data entry and processing over a VPN", "owner": "CPS-SE, Ministere de l'Education Nationale", "tiers": "central, academies (AE) and animation centres (CAP)"}
+  ],
+  "note": "The review describes StatEduc-2, the school census database, on its own; it states no dated link between education systems, no learner identifier and no link to the national ID."
+}

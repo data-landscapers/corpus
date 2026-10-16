@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National public administration interoperability platform (UXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "UXP (Cybernetica)",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": "Says a first portfolio of about 100 services is to be built on the national interoperability platform and that data exchange remains limited; no platform status, connection count or use figure."
+}

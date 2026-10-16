@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Bridge", "country_label": "Togo", "class": "other", "platform": "Kazakhstan NITEC eGov", "owner": "Agence Togo Digital (licensee); NITEC (licensor)", "tiers": ""},
+    {"system": "Single platform of internet resources for public agencies", "country_label": "Togo", "class": "other", "platform": "Kazakhstan NITEC eGov", "owner": "Agence Togo Digital (licensee); NITEC (licensor)", "tiers": ""},
+    {"system": "Smart Data Ukimet", "country_label": "Togo", "class": "other", "platform": "Kazakhstan NITEC eGov", "owner": "Agence Togo Digital (licensee); NITEC (licensor)", "tiers": ""}
+  ],
+  "note": "Licensing of three eGov units to ATD in June 2024 is described as a services showcase, a resources platform and an analytics system; none is described as carrying data between public bodies' systems, so no exchange-class fact."
+}

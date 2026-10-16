@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The study states that the Ministry of Health's eRegister (EMR) is integrated with the national DHIS2, which facilitated more robust data collection and analysis, and that the eRegister has been in use since 2018; the document gives no date for the integration, so its published date is used.", "as_of": "2025-05-12", "date_precision": "day", "system": "eRegister integration with national DHIS2", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "eRegister", "country_label": "Lesotho", "class": "other", "platform": "open-source client-level electronic register for HIV, TB and MCH services", "owner": "Ministry of Health", "tiers": "facility"},
+    {"system": "DHIS2", "country_label": "Lesotho", "class": "other", "platform": "District Health Information Software 2", "owner": "Ministry of Health (PEPFAR-supported since 2015)", "tiers": "national"},
+    {"system": "Hospital-based EMR", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "16 public hospitals"},
+    {"system": "eRegister integration with national DHIS2", "country_label": "Lesotho", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

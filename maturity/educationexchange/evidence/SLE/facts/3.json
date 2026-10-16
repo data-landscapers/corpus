@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-sierra-leone-mbsse-emis-education-management-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "MBSSE Directorate of Basic Education", "tiers": "national, provincial"},
+    {"system": "Situation Room", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "MBSSE Planning and Policy Directorate", "tiers": "national"}
+  ],
+  "note": "Describes the EMIS as a centralised database and unit; states no exchange with another education system."
+}

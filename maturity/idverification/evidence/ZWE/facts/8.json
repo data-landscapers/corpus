@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Justice Minister said the Zimbabwe Electoral Commission was already using the Registrar-General's national population database to verify voter information and clean up the voters' roll.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Voters' roll (Zimbabwe Electoral Commission)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voters' roll (Zimbabwe Electoral Commission)",
+   "country_label": "Zimbabwe",
+   "class": "relying",
+   "platform": "",
+   "owner": "Zimbabwe Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "As_of is the published date; the minister speaks in the present and past, with no date for the start of the checks."
+}

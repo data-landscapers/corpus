@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,SIM card registration (RICA framework),South Africa,relying,Home Affairs population register,Telcos; ACT,,2026-07-21-south-africa-sim-registration-identity-fraud
+ZAF,Online Verification System (OVS),South Africa,relying,National Population Register,Department of Home Affairs,,"2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike"
+ZAF,NPR identity verification service (OVS),South Africa,relying,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
+ZAF,SASSA grant payments,South Africa,relying,,SASSA,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
+ZAF,Online Verification System (OVS),South Africa,relying,National Population Register,Department of Home Affairs,,2025-06-23-dha-npr-verification-service-pricing-correction
+ZAF,SASSA grant client identification,South Africa,,,SASSA,,2025-04-24 New ID verification process for Sassa grants - Here's who's affected
+ZAF,SADC cross-border DPI framework / federated eKYC ecosystem,South Africa,relying,,"SADC CCBG, Co-Develop, FinMark Trust",,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries"
+ZAF,Smile ID identity verification,South Africa,relying,,Smile ID (Smile Identity),,2023-01-01-norrsken22-reg-smileid-2023-norrsken22-co-leads-smile-id-series-b
+ZAF,South African Digital ID (MyMzansi wallet),South Africa,other,MyMzansi digital wallet,Department of Home Affairs,,2026-10-02-zaf-biometricupdate-digital-id-prototype-first-credential
+ZAF,Instarc compliance platform,South Africa,other,cloud-native,Instarc,,2026-09-02-techafricanews-instarc-125m-south-africa
+ZAF,SASSA WhatsApp self-service,South Africa,other,WhatsApp,SASSA,,2026-08-28-citizen-za-sassa-whatsapp-self-service
+ZAF,iiDENTIFii,South Africa,,biometric identity verification platform,"iiDENTIFii (private firm, Cape Town)",,2026-07-20-iidentifii-marco-wagener-ceo
+ZAF,SIM registration (RICA),South Africa,relying,,mobile network operators; ACT; Department of Justice,,2026-07-20-south-africa-sim-registration-rica-digital-id
+ZAF,Home Affairs identity verification,South Africa,relying,DHA database,Department of Home Affairs,,2026-07-20-south-africa-sim-registration-rica-digital-id
+ZAF,Biometric case management system (BCMS),South Africa,other,600 handheld biometric devices,Department of Home Affairs inspectorate,,2026-07-07-biometric-case-management-migration
+ZAF,Online Verification Service (OVS),South Africa,relying,,Department of Home Affairs,,2025-08-12-schreiber-digital-home-affairs
+ZAF,Home Affairs verification service,South Africa,relying,National Population Register,Department of Home Affairs,public and private sector clients; fees for private sector from 1 April 2025,2025-03-25-biometric-verification-fee-increase
+ZAF,National ID card,South Africa,other,,,,2021-08-30 31 First we must build Infrastructure
+ZAF,Domestic eKYC framework/platform,South Africa,,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+ZAF,Lesotho Exemption Permit electronic verification,South Africa,other,,Department of Home Affairs,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+ZAF,SASSA biometric verification,South Africa,relying,SASSA online facial biometric system and local-office fingerprint enrolment,South African Social Security Agency (Department of Social Development),,2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification

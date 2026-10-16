@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Health Information Exchange",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "HL7/FHIR",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The report says more than half of assessed ministries lack meaningful interoperability or central data repository connectivity; it does not say no exchange platform exists, and the Health Information Exchange is a single ministry's system."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-sao-tome-afap-consultoria-implementacao-sige",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "STP", "class": "other", "platform": "", "owner": "Ministry of Education (AFAP procuring, World Bank-financed project)", "tiers": ""}
+  ],
+  "note": "Tender notice for technical assistance to implement the SIGE school-management system; it describes no link between education systems, and SIGE is a school-management system on its own, class other."
+}
