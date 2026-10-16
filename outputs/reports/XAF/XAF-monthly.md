@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 72331520d94b
+record: 197c6dee8e6e
 ---
 
 # Africa: monthly update, September – October 2026
@@ -105,7 +105,7 @@ The AfCFTA Secretary-General set out the case for the Digital Trade Corridor: cu
 
 **[Africa Prosperity Dialogues 2027 to push for 'borderless Africa' as registration opens September 7](https://www.myjoyonline.com/africa-prosperity-dialogues-2027-to-push-for-borderless-africa-as-registration-opens-september-7/)** — MyJoyOnline, 2 September 2026
 
-APD 2027 set for Accra 27-29 Jan 2027; RECs endorsed a continent-wide mobile money interoperability framework by 2027.
+The Africa Prosperity Network said on 2 September 2026 that its next Africa Prosperity Dialogues will run in Accra from 27 to 29 January 2027, with registration opening on 7 September. Organisers recalled that regional economic communities committed in July 2024 to a continent-wide mobile money interoperability framework by 2027; payments and digital infrastructure are two of the four themes.
 
 </div>
 
@@ -113,7 +113,7 @@ APD 2027 set for Accra 27-29 Jan 2027; RECs endorsed a continent-wide mobile mon
 
 **[Africa's integration will fail without harmonised standards and laws - AUDA-NEPAD official](https://asaaseradio.com/africas-integration-will-fail-without-harmonised-standards-and-laws-auda-nepad-official/)** — Asaase Radio, 2 September 2026
 
-AUDA-NEPAD's Amine Idriss Adoum - over 1,000 integration decisions adopted, fewer than 15% implemented.
+Amine Idriss Adoum, a director at the African Union Development Agency (AUDA-NEPAD), said African institutions have adopted more than 1,000 decisions and declarations on regional integration but implemented fewer than 15%. Speaking at the launch of the Africa Prosperity Dialogues 2027, he blamed unaligned national laws, regulations and technical standards, citing transport rules along the proposed Abidjan–Lagos highway.
 
 </div>
 
@@ -155,7 +155,7 @@ ECCAS member states met in Douala from 31 August to 4 September to draft a regio
 
 **[Korea-Africa Ministerial Conference Convenes Under AI Theme, Two Weeks After Seoul's First AI Loan to the Continent](https://iafrica.com/korea-africa-ministerial-conference-convenes-under-ai-theme-two-weeks-after-seouls-first-ai-loan-to-the-continent/)** — iAfrica.com, 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-KOAFEC Trust Fund leverage: US$50m of project preparation since 2007 against US$6bn pipeline and US$4bn mobilised.
+The 8th Korea-Africa Economic Cooperation ministerial conference opens in Seoul on 8 September 2026 under an AI and digital infrastructure theme, the first in its twenty-year history. iAfrica links it to Korea's US$170 million concessional loan for a Tanzanian AI institute approved in August. The KOAFEC Trust Fund has provided about US$50 million for project preparation since 2007.
 
 </div>
 
@@ -163,7 +163,7 @@ KOAFEC Trust Fund leverage: US$50m of project preparation since 2007 against US$
 
 **[2026 KOAFEC Ministerial Conference](https://etradeforall.org/events/2026-koafec-ministerial-conference)** — eTrade for all, 8 September 2026
 
-8th KOAFEC ministerial, Seoul, 8-11 September 2026: Harnessing AI and Digital Infrastructure for Africa's Transformation.
+The African Development Bank co-hosts the 8th Korea-Africa Economic Cooperation ministerial conference in Seoul from 8 to 11 September 2026, with Korea's finance ministry and Export-Import Bank. The theme is harnessing artificial intelligence and digital infrastructure for Africa's transformation, and African finance ministers attend. No financing commitments are stated.
 
 </div>
 
@@ -187,7 +187,7 @@ The Korea-Africa economic cooperation summit, KOAFEC, closed in Seoul on 11 Sept
 
 **[Africa–Korea: a strengthened partnership to accelerate innovation, investment and the continent's digital transformation](https://www.afdb.org/en/news-and-events/press-releases/africa-korea-strengthened-partnership-accelerate-innovation-investment-and-continents-digital-transformation-96768)** — African Development Bank Group, 15 September 2026
 
-AfDB and Korea sign a letter of intent, 9 Sept 2026; KOAFEC Trust Fund at USD 132.82m to 31 May 2026.
+The African Development Bank and South Korea's finance ministry signed a letter of intent in Seoul on 9 September 2026 to strengthen the Korea-Africa Economic Cooperation (KOAFEC) Trust Fund and cooperate through Korea's Economic Development Cooperation Fund, naming AI and digital technologies as priorities. Korean contributions to the trust fund total US$132.82m; no new sum is attached to the letter.
 
 </div>
 
@@ -225,7 +225,7 @@ Korea, 45 African countries and the African Development Bank adopted a joint dec
 
 **[African Union Commission Receives South African Delegation for Mission on the AU Archives and Repository Project](https://au.int/en/pressreleases/20260907/auc-receives-south-african-delegation-au-archives-and-repository-project)** — African Union, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-AUC receives a South African delegation in Addis Ababa on the reinstatement of the AU Archives and Repository Project.
+The African Union Commission received a South African delegation in Addis Ababa on 7 September 2026 to restart the project to digitise the African Union's archives and build a common repository system. The delegation, led by an official of South Africa's African Renaissance and International Cooperation Fund, is to stay until 19 September 2026. No cost or timetable for the project is given.
 
 </div>
 
@@ -239,7 +239,7 @@ AUC receives a South African delegation in Addis Ababa on the reinstatement of t
 
 **[COMESA Calls for Agile Regulation to Keep Pace with Africa's Rapid Digital Transformation](https://www.comesa.int/comesa-calls-for-agile-regulation-to-keep-pace-with-africas-rapid-digital-transformation/)** — Common Market for Eastern and Southern Africa (COMESA), 9 September 2026
 
-COMESA presses for predictable, agile regulatory frameworks at the 14th ARICEA annual general meeting in Livingstone.
+COMESA assistant secretary-general Mohamed Kadah called for more predictable and agile regulation of digital technologies at the 14th annual general meeting of ARICEA, the Eastern and Southern African ICT regulators' association, in Livingstone, Zambia, on 9 September 2026. He cited data privacy, cybersecurity, AI and cross-border enforcement, and named universal high-speed internet as a priority.
 
 </div>
 
@@ -267,7 +267,7 @@ The African telecommunications union's secretary-general called for stronger ali
 
 **[AIP/ La Côte d'Ivoire appelle à une position africaine unie sur les enjeux du numérique à l'approche de la PP-26](https://www.aip.ci/aip-la-cote-divoire-appelle-a-une-position-africaine-unie-sur-les-enjeux-du-numerique-a-lapproche-de-la-pp-26/)** — AIP - Agence Ivoirienne de Presse, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-Côte d'Ivoire bids for the ITU Council 2027-2030; 18 African candidates for 13 seats, says ATU's John Omo.
+Côte d'Ivoire's digital transition minister Djibril Ouattara opened the last African preparatory meeting for the ITU Plenipotentiary Conference in Abidjan on 15 September 2026, calling for a common African position before the Doha conference in November. He announced Côte d'Ivoire's candidacy for the ITU Council for 2027-2030. The African Telecommunications Union said about 18 African countries are contesting 13 Council seats.
 
 </div>
 
@@ -275,7 +275,7 @@ Côte d'Ivoire bids for the ITU Council 2027-2030; 18 African candidates for 13 
 
 **[Télécommunications : La 4ᵉ et dernière réunion préparatoire africaine avant la PP-26 de Doha s'est ouverte à Abidjan](https://afriksoir.net/telecommunications-la-4%e1%b5%89-et-derniere-reunion-preparatoire-africaine-avant-la-pp-26-de-doha-sest-ouverte-a-abidjan/)** — Afrik Soir, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-Abidjan, 15-17 Sept 2026: Africa's last PP-26 prep meeting, and a USD 60,000 ATU Innovation Challenge.
+Côte d'Ivoire opened the fourth and final African preparatory meeting for the ITU Plenipotentiary Conference in Abidjan on 15 September 2026, under the African Telecommunications Union. The meeting, closing on 17 September, is to settle common African proposals and candidatures for the Doha conference. The union also launched the fifth edition of its Innovation Challenge, with US$60,000 in prizes.
 
 </div>
 
@@ -283,7 +283,7 @@ Abidjan, 15-17 Sept 2026: Africa's last PP-26 prep meeting, and a USD 60,000 ATU
 
 **[Africa concludes final preparatory meeting ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7323/africa-concludes-final-preparatory-meeting-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-46 African Common Proposals settled as the Abidjan preparatory meeting closed, 17 September 2026.
+African states closed their fourth and final preparatory meeting for the 2026 ITU Plenipotentiary Conference in Abidjan on 17 September 2026 with 46 African Common Proposals for the conference in Doha. The proposals cover connectivity, digital transformation, skills and inclusive digital services; space and spectrum regulation were among the most debated issues.
 
 </div>
 
@@ -291,7 +291,7 @@ Abidjan, 15-17 Sept 2026: Africa's last PP-26 prep meeting, and a USD 60,000 ATU
 
 **[ITU Africa Regional Director Emmanuel Manasseh highlights coordinated African priorities ahead of PP-26](https://techreviewafrica.com/news/7334/itu-africa-regional-director-emmanuel-manasseh-highlights-coordinated-african-priorities-ahead-of-pp-26)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-ITU's Africa director names the next step: inter-regional preparatory meeting, Saudi Arabia 13-14 October.
+The International Telecommunication Union's Africa director, Emmanuel Manasseh, said African states refined common proposals for the 2026 Plenipotentiary Conference at their fourth and final preparatory meeting in Abidjan, reported on 18 September 2026. The next step is an inter-regional preparatory meeting in Saudi Arabia on 13 and 14 October 2026.
 
 </div>
 
@@ -299,7 +299,7 @@ ITU's Africa director names the next step: inter-regional preparatory meeting, S
 
 **[Space regulation emerges as key issue ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-France's ITU-R Bureau candidate Eric Fournier campaigns in Abidjan as space regulation dominates.
+African telecommunications bodies concluded their last preparatory meeting for the 2026 ITU Plenipotentiary Conference in Abidjan, where space regulation was widely debated, reported on 18 September 2026. Eric Fournier, France's candidate to head the ITU Radiocommunication Bureau, presented his candidacy and met Côte d'Ivoire's digital minister and telecoms regulator.
 
 </div>
 
@@ -313,7 +313,7 @@ France's ITU-R Bureau candidate Eric Fournier campaigns in Abidjan as space regu
 
 **[PRESS STATEMENT: COMESA Advances Responsible AI Dialogue](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/)** — Digitalization in Eastern and Southern Africa (IDEA) / COMESA, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
 
-COMESA statement: validated baseline to feed a Regional AI Strategy, model policy guidelines, model regulatory framework.
+COMESA held a regional meeting in Mbabane, Eswatini, from 16 to 18 September 2026 to validate a draft study of artificial intelligence and emerging technologies across its member states. The World Bank-funded study is the first phase of work towards a Regional AI Strategy, model policy guidelines and a model regulatory framework. No timetable for those instruments is given.
 
 </div>
 
@@ -327,7 +327,7 @@ COMESA statement: validated baseline to feed a Regional AI Strategy, model polic
 
 **[UNECA Continental Call for African AI Innovations](https://igf.africa/ecainnovationcafe/)** — Africa Internet Governance Forum, 18 September 2026
 
-ECA, ITU and RIA open applications for an African AI showcase at AfIGF 2026, Accra 2-5 November.
+The UN Economic Commission for Africa, with the ITU and Research ICT Africa, invited African innovators to apply to present AI-based solutions at an Innovation Café during the 15th Africa Internet Governance Forum in Accra, 2–5 November 2026. Startups, universities, public bodies and individuals may apply; selected entries join a policy exchange and an exhibition.
 
 </div>
 
@@ -369,7 +369,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[Health leaders to explore intelligent health systems at Kigali summit](https://en.igihe.com/health/article/health-leaders-to-explore-intelligent-health-systems-at-kigali-summit)** — IGIHE, 27 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Africa CDC and Smart Africa summit, Kigali, 30 Sep-2 Oct 2026; consultation on draft continental health data framework.
+The Africa Centres for Disease Control and Prevention and Smart Africa are co-hosting the fifth Africa HealthTech Summit in Kigali from 30 September to 2 October 2026, IGIHE reported on 27 September. Africa CDC and Transform Health will hold a consultation on the draft African Continental Health Data Governance Framework on 30 September.
 
 </div>
 
@@ -441,7 +441,7 @@ Representatives of 11 African diplomatic missions in Cairo agreed to draft a joi
 
 **[CALL FOR CONTRIBUTIONS: Draft Guidelines on Public Interest Content in the Digital Era](https://achpr.au.int/en/news/press-releases/2026-10-13/draft-guidelines-public-interest-content-digital-era)** — African Commission on Human and Peoples' Rights, 8 October 2026
 
-Draft V3 held; inputs due 8 January 2027; state duties and tech-company responsibilities under Res.631.
+The African Commission on Human and Peoples' Rights invited comments by 8 January 2027 on draft Guidelines on Public Interest Content in the Digital Era, in a call dated 8 October 2026. The draft, prepared by its special rapporteur on freedom of expression under a 2025 resolution, sets out state obligations and responsibilities for technology companies and digital infrastructure services.
 
 </div>
 
@@ -455,7 +455,7 @@ Draft V3 held; inputs due 8 January 2027; state duties and tech-company responsi
 
 **[Primary Health Care Continental Coordination Mechanism (PHC-CCM) Outcome Statement](https://africacdc.org/news-item/primary-health-care-continental-coordination-mechanism-phc-ccm-outcome-statement/)** — Africa CDC, 8 October 2026
 
-Addis consultation 4-5 June 2026; digital health forum, maturity tool, costed investment cases, sovereign hosting.
+African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a Primary Health Care Continental Coordination Mechanism convened by Africa CDC, including a digital health forum on interoperability and data governance. They committed to apply the Africa Digital Health Maturity Assessment Tool and build costed digital health investment cases. Africa CDC posted the statement on 8 October 2026.
 
 </div>
 
@@ -473,7 +473,7 @@ Addis consultation 4-5 June 2026; digital health forum, maturity tool, costed in
 
 **[Signed-Sealed-Delivered: 21 September Africa Data Protection Day](https://www.linkedin.com/posts/tsitsi-mariwo_dataprotection-togetherwecandomore-activity-7501689491284320257-D6sq)** — Tsitsi Mariwo (LinkedIn), 4 September 2026
 
-Fifth Board signs the declaration on 3 September 2026, executing the 9th AGM's May 2026 decision.
+The board of the Network of African Data Protection Authorities, made up of the authorities of Cabo Verde, Côte d'Ivoire and Zimbabwe, signed a declaration on 3 September 2026 proclaiming 21 September as Africa Data Protection Day. It carries out a decision taken at the network's annual meeting in May 2026.
 
 </div>
 
@@ -489,7 +489,7 @@ Fifth Board signs the declaration on 3 September 2026, executing the 9th AGM's M
 
 **[Africa cannot outsource its digital sovereignty - NIMC](https://newsverge.com/2026/09/02/africa-cannot-outsource-its-digital-sovereignty-nimc/)** — Newsverge Nigeria News, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Odusote on homegrown cryptography and PKI; Mene warns of digital fragmentation at GITEX Nigeria.
+The head of Nigeria's National Identity Management Commission, Abisoye Odusote, told GITEX Nigeria in Lagos on 2 September 2026 that Africa must train its own cryptographers and digital trust specialists, and called for aligned certificate policies, data privacy and legal frameworks. At the same event the AfCFTA secretary-general, Wamkele Mene, urged faster implementation of the Protocol on Digital Trade.
 
 </div>
 
@@ -497,7 +497,7 @@ Odusote on homegrown cryptography and PKI; Mene warns of digital fragmentation a
 
 **[GITEX Nigeria 2026: NIMC Boss Urges African Digital Framework](https://techeconomy.ng/gitex-nigeria-2026-african-digital-trust-framework-nimc)** — Techeconomy, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Coker-Odusote on PKI, NIMC as root CA under the Identity Management Act 2026, and state-level alignment.
+Nigeria's identity commission head Abisoye Coker-Odusote called for a common African digital trust framework for identity checks, e-signatures and cross-border transactions at GITEX Nigeria 2026 in Lagos. She said the National Identity Management Act 2026 makes NIMC the root certificate authority for the national public key infrastructure, and urged states to build systems that recognise each other's credentials.
 
 </div>
 
@@ -505,7 +505,7 @@ Coker-Odusote on PKI, NIMC as root CA under the Identity Management Act 2026, an
 
 **[Lagos, NIMC, AfCFTA demand local data sovereignty at GITEX 2026](https://guardian.ng/news/lagos-nimc-afcfta-demand-local-data-sovereignty-at-gitex-2026/)** — The Guardian Nigeria, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-NIMC, AfCFTA and Lagos press for African-owned DPI, with PKI as the cross-border trust layer.
+At the opening of GITEX Nigeria 2026 in Lagos, the heads of Nigeria's identity commission (NIMC) and the AfCFTA Secretariat, with Lagos State officials, called for Africa to build and own its digital public infrastructure. NIMC's Abisoye Coker-Odusote said the National Identity Management Act 2026 makes NIMC root certificate authority for the national public key infrastructure.
 
 </div>
 
@@ -519,7 +519,7 @@ NIMC, AfCFTA and Lagos press for African-owned DPI, with PKI as the cross-border
 
 **[3rd African Preparatory Meeting for WRC-27 (APM27-3) and the 11th African Spectrum Management Conference](https://atuuat.africa/event/apm27-3-for-wrc-27/)** — African Telecommunications Union (ATU), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
-Draft agenda and GT1A-GT5 working-group schedule for the Tunis WRC-27 preparatory meeting, 7-11 September 2026.
+The African Telecommunications Union published the draft agenda and working-group schedule for the third African Preparatory Meeting for the 2027 World Radiocommunication Conference, held in Tunis on 7–11 September 2026 alongside the 11th African Spectrum Management Conference. The agenda covers the ITU's preparatory work plan, other regions' positions and the WRC-27 agenda items.
 
 </div>
 
@@ -527,7 +527,7 @@ Draft agenda and GT1A-GT5 working-group schedule for the Tunis WRC-27 preparator
 
 **[African Delegations Seek Common Ground in Tunis Ahead of 2027 World Radiocommunication Conference](https://atuuat.africa/african-delegations-seek-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — African Telecommunications Union (ATU), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
-Four days of African regulator talks from 8 September 2026 on broadband, rural connectivity and spectrum before WRC-27.
+African governments and telecoms regulators opened four days of talks in Tunis on 8 September 2026 to build common spectrum positions ahead of the 2027 World Radiocommunication Conference. Hosted by Tunisia's National Frequency Agency and coordinated by the African Telecommunications Union, it is the third such preparatory meeting, after Maseru in 2024 and Nairobi in 2025.
 
 </div>
 
@@ -573,7 +573,7 @@ A draft AFRINIC policy would tie any new IPv4 request to IPv6 eligibility, a dep
 
 **[IPv6 as a criteria in IPv4 Soft Landing (AFPUB-2026-v6-001-DRAFT02)](https://afrinic.net/afpub-2026-v6-001-draft02.html)** — AFRINIC, 14 June 2026
 
-AFRINIC's own proposal text and impact assessment for gating IPv4 on measured IPv6 deployment.
+A draft policy before AFRINIC, the African internet registry, would require anyone requesting IPv4 addresses to also request IPv6 space and file a deployment plan, with IPv6 reachability targets of 25%, 50% and 75% over 12, 24 and 48 months. The proposal cites African IPv6 capability of 6% against 44% worldwide. It did not reach consensus at AFRINIC 37 on 24 June 2026 and remains under discussion.
 
 </div>
 
@@ -587,7 +587,7 @@ AFRINIC's own proposal text and impact assessment for gating IPv4 on measured IP
 
 **[PDP Working Group (WG) Guidelines and Procedures (AFPUB-2026-GEN-001-DRAFT02)](https://afrinic.net/afpub-2026-gen-001-draft02.html)** — AFRINIC, 7 September 2026
 
-Under Discussion: Regional Number Council, community appeal and recall, PDWG petition to ratify when Board absent.
+A second draft of a proposal to rewrite the rules of AFRINIC's policy development working group was submitted on 7 September 2026 and is under discussion. The authors say the registry's recent lack of a board quorum left adopted policies unratified and committees unrenewed; the draft would need changes to AFRINIC's bylaws.
 
 </div>
 
@@ -609,7 +609,7 @@ An analysis of the second draft of AFRINIC's policy-process guidelines finds tha
 
 **[\[rpd\] New draft policy proposal PPM Dates AFPUB-2026-GEN-003-DRAFT01](https://lists.afrinic.net/pipermail/rpd/2026/015558.html)** — AFRINIC Resource Policy Discussion (RPD) mailing list, 17 September 2026
 
-AFPUB-2026-GEN-003-DRAFT01 tabled 14 September; PDWG splits over whether meeting dates belong in the PDP.
+AFRINIC's Policy Development Working Group received a draft policy proposal on public policy meeting dates, AFPUB-2026-GEN-003-DRAFT01, from author Jordi Palet on 14 September 2026 and opened it for comment. On the mailing list, one participant argued meeting scheduling is an operational matter for the board, while the author replied that the community may use the policy process to address it.
 
 </div>
 
@@ -617,7 +617,7 @@ AFPUB-2026-GEN-003-DRAFT01 tabled 14 September; PDWG splits over whether meeting
 
 **[\[rpd\] RPD Digest, Vol 224, Issue 17](https://lists.afrinic.net/pipermail/rpd/2026/015563.html)** — AFRINIC Resource Policy Discussion (RPD) mailing list, 18 September 2026
 
-PDWG voices split on whether AFRINIC meeting dates belong in the PDP or in board and staff operations.
+Participants on AFRINIC's Resource Policy Discussion mailing list debated whether the dates of its public policy meetings should be set through the policy development process or left to the board and staff as an operational matter. One contributor, writing on 18 September 2026, asked the proposal's authors to state the problem it solves and what authority the process has to prescribe dates. No decision is recorded.
 
 </div>
 
@@ -631,7 +631,7 @@ PDWG voices split on whether AFRINIC meeting dates belong in the PDP or in board
 
 **[How an ITU security lab advances trust in digital financial services](https://www.itu.int/hub/2026/09/how-an-itu-security-lab-advances-trust-in-digital-financial-services/)** — International Telecommunication Union (ITU), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-CRASA and EACO adopted ITU DFS security guidelines, WATRA at draft; 20+ countries assisted, 8 now test independently.
+The International Telecommunication Union says its Digital Financial Services Security Lab has assisted more than 20 countries in Africa, the Caribbean and Latin America to test mobile payment apps for security. Its guidelines for regulators have been adopted by the southern and east African regulators' associations, CRASA and EACO; the central African body is considering them and the West African one has a draft.
 
 </div>
 
@@ -645,7 +645,7 @@ CRASA and EACO adopted ITU DFS security guidelines, WATRA at draft; 20+ countrie
 
 **[AFRINIC ratifies three policies with different implementation clocks](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-ratifies-three-policies-different-implementation-clocks)** — btw.media, 7 October 2026
 
-Three clocks: six-month IPv4 cleanup, 30-day utilisation change, AS-SET rule after MyAFRINIC v2.
+AFRINIC's board ratified three internet number-resource policies on 25 September 2026, all listed as awaiting implementation, btw.media reported on 7 October. They cover a quarantine for recovered IPv4 space (about six months to implement), documented exceptions to the 90% utilisation threshold (within 30 days), and hierarchical names for new AS-SETs, which waits on the MyAFRINIC v2 system.
 
 </div>
 
@@ -703,7 +703,7 @@ A research lab founded in 2020 is building training data covering a thousand Afr
 
 **[African Court, UNESCO strengthen judicial capacity on responsible use of Artificial Intelligence – AI](https://www.african-court.org/afchpr/african-court-unesco-strengthen-judicial-capacity-on-responsible-use-of-artificial-intelligence-ai/)** — African Court on Human and Peoples' Rights, 15 September 2026
 
-Arusha, 15 September 2026: UNESCO finds 44% of judicial operators using AI tools, only 9% given training.
+The African Court on Human and Peoples' Rights and UNESCO opened a four-day seminar on AI and the rule of law in Arusha on 15 September 2026 for more than 50 judges and staff, based on UNESCO's justice-sector toolkit. UNESCO cited its survey finding that 44% of judicial operators worldwide use AI tools but only 9% have had formal guidance or training.
 
 </div>
 
@@ -781,7 +781,7 @@ The African Union's development agency launched and chairs an AI policy workstre
 
 **[Africa Economic Update, October 2026: Building AI Readiness](https://www.tralac.org/documents/resources/africa/8051-africa-economic-update-october-2026-world-bank/file.html)** — World Bank, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-0.6% of global data-centre capacity; 39 states with data-protection laws; AI governance pillar 41.6 vs 52.6 globally.
+The World Bank's Africa Economic Update for October 2026 focuses on readiness for artificial intelligence. It puts Sub-Saharan Africa's share of global data-centre capacity at 0.6%, counts 39 countries with data-protection laws, and scores the region at 41.6 on AI governance against 52.6 globally. It forecasts 2026 growth of 4.3%.
 
 </div>
 
@@ -803,7 +803,7 @@ The World Bank's October Africa Economic Update urges Sub-Saharan governments to
 
 **[Paradigm Initiative's Statement to the African Commission on Human and Peoples' Rights on the Human Rights Situation in Africa at the 89th Ordinary Session](https://paradigmhq.org/paradigm-initiatives-statement-to-the-african-commission-on-human-and-peoples-rights-on-the-human-rights-situation-in-africa-at-the-89th-ordinary-session/)** — Paradigm Initiative, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Urges ACHPR to enforce Resolution 473 on AI and press Gabon to drop its under-16 social media ban.
+Paradigm Initiative, a digital rights organisation, told the African Commission on Human and Peoples' Rights' 89th session that AI is spreading in Africa without adequate law. It cited the use of Zambia's 2025 Cybersecurity and Cybercrime Act against media during the August 2026 elections, and criticised blanket online bans on children such as Gabon's April 2026 under-16 ordinance.
 
 </div>
 
@@ -835,7 +835,7 @@ Summarised under [Standards](#standards).
 
 **[The New Last Mile: Why African Broadband is Moving Outdoors](https://techafricanews.com/2026/09/10/the-new-last-mile-why-african-broadband-is-moving-outdoors/)** — Tech Africa News, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-40 operators live on 5G FWA across 37 African markets by May 2026; Safaricom at 132,060 FWA lines, up 53%.
+Tech Africa News reports that by May 2026, 40 operators in 37 African markets had launched commercial 5G fixed wireless access, using outdoor receivers mounted on homes instead of laying fibre. Safaricom reported 132,060 5G fixed wireless subscribers in the first half of its 2025/26 financial year, up 53%, and Airtel sells such services in Nigeria and Kenya.
 
 </div>
 
@@ -915,7 +915,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[New Roadmap by Africa's Telecom Union and Kenya's Tech Industry Association Targets Cheaper, More Reliable Internet](https://www.linkedin.com/pulse/new-roadmap-africas-telecom-union-kenyas-d88bf/)** — African Telecommunications Union (LinkedIn article), 11 October 2026
 
-57 IXPs in 36 countries (mid-2025); proposes continental coordination body, model national framework, IXP fund.
+The African Telecommunications Union and the Technology Service Providers Association of Kenya (TESPOK) published a joint roadmap to strengthen internet exchange points in Africa. It builds on their assessment counting about 57 operational exchanges in 36 countries as of mid-2025, and proposes a continental coordination body, a model national framework and an IXP development fund. No funding amount is given.
 
 </div>
 
@@ -947,7 +947,7 @@ African data centres face grids that fail outright rather than merely cost too m
 
 **[Data centers : WIOCC prépare un bond de capacités en Afrique avec l'appui américain](https://www.latribune.fr/article/afrique/70618725438421/data-centers-wiocc-prepare-un-bond-de-capacites-en-afrique-avec-l-appui-americain)** — La Tribune (Agence Ecofin), 18 September 2026
 
-ADCA puts Africa at about 360 MW live, 0.6% of world capacity, as DFC backs 25 MW more via WIOCC.
+The US International Development Finance Corporation approved an equity investment of up to about US$155m in WIOCC, part of which is to add about 25MW of data centre capacity in Africa. The DFC puts the whole programme at up to US$450m, including submarine and terrestrial networks. Days earlier WIOCC signed a US$300m subscription with Africa Finance Corporation and Vision Invest.
 
 </div>
 
@@ -975,7 +975,7 @@ A large cloud provider says it has invested more than US$819 million in African 
 
 **[Africa's Billion Dollar AI Data Centre Rush Is Real. Its Power and Water Aren't.](https://iafrikan.com/africas-billion-dollar-ai-data-centre-rush-is-real-its-power-and-water-arent/)** — iAfrikan, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-ADCA 2026: 360MW active, 238MW building, 656MW pipeline; McKinsey puts 2030 demand at 1.5-2.2GW.
+An iAfrikan analysis sets two September 2026 announcements — Egypt's $1bn sovereign AI data-centre programme with about $200m committed to its first phase, and MTN's 150MW venture across Nigeria and South Africa — against power and water limits. It cites Africa Data Centres Association figures of 360MW active, 238MW under construction and 656MW planned, and McKinsey's estimate of 1.5–2.2GW of demand by 2030.
 
 </div>
 
@@ -989,7 +989,7 @@ ADCA 2026: 360MW active, 238MW building, 656MW pipeline; McKinsey puts 2030 dema
 
 **[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
 </div>
 
@@ -1019,7 +1019,7 @@ The head of the continental free trade area told a conference that Africa should
 
 **[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-Compute as mini-grid anchor customer; Kenya, DRC, Sierra Leone pilots for about 85,000 people; community load first.
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
 
 </div>
 
@@ -1065,7 +1065,7 @@ Morocco's information systems security directorate is hosting a three-day cybers
 
 **[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code.
 
 </div>
 
@@ -1105,7 +1105,7 @@ The cross-border payments startup Grey launched direct yuan payouts into Chinese
 
 **[Ecobank to join China’s CIPS payments platform for yuan settlement](https://www.cnbcafrica.com/2026/ecobank-to-join-chinas-cips-payments-platform-for-yuan-settlement)** — CNBC Africa (Reuters), 9 October 2026
 
-Signing in China set for 10 Oct 2026; Ecobank in 34 countries; joint yuan settlement talks with Bank of China.
+Ecobank, which operates in 34 African countries, said it would sign an agreement in China on 10 October 2026 to join China's CIPS interbank payment system for yuan transactions, chief executive Jeremy Awori told Reuters. It is also in talks with Bank of China to offer yuan settlement jointly. Rwanda's Bank of Kigali has joined CIPS and Angola's BFA plans to.
 
 </div>
 
@@ -1119,7 +1119,7 @@ Signing in China set for 10 Oct 2026; Ecobank in 34 countries; joint yuan settle
 
 **[PAPSS targets 100% African coverage within five years](https://businessday.ng/news/article/papss-targets-100-african-coverage-within-five-years/)** — Businessday NG, 4 September 2026
 
-Second strategic plan: 30 countries and 200+ institutions live, 38 targeted by end-2026, South Africa out.
+The Pan-African Payment and Settlement System opened its second strategic plan, aiming to connect every African country within five years, chief executive Mike Ogbalu told a Lagos press conference. It now links 30 countries and over 200 financial institutions and expects about 38 countries by end-2026; South Africa is the one large market not yet connected.
 
 </div>
 
@@ -1127,7 +1127,7 @@ Second strategic plan: 30 countries and 200+ institutions live, 38 targeted by e
 
 **[Nigerian churches drive rising cross-border payments across Africa, PAPSS says](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/)** — Nairametrics, 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-30 countries live, 38 targeted by end-2026; stablecoins explored; Nigeria-Rwanda flows nearing Nigeria-Ghana.
+The Pan-African Payment and Settlement System (PAPSS) operates in 30 African countries and aims for about 38 by the end of 2026, its chief executive Mike Ogbalu said on 5 September 2026. He said PAPSS is exploring support for stablecoins, that Nigeria–Rwanda volumes are nearing Nigeria–Ghana volumes, and that church tithes sent to Nigeria from across Africa are a notable share of payments.
 
 </div>
 
@@ -1135,7 +1135,7 @@ Second strategic plan: 30 countries and 200+ institutions live, 38 targeted by e
 
 **[ABC Bank goes live on intra-African pay system](https://businesstoday.co.ke/abc-banks-goes-live-on-intra-african-pay-system/)** — Business Today Kenya, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Kenyan bank live on PAPSS to 28 countries and over 190 banks, with a choice of shilling or recipient-currency settlement.
+Kenya's African Banking Corporation (ABC Bank) has gone live on the Pan-African Payment and Settlement System, letting customers send and receive payments across 28 African countries. Customers can pay accounts at more than 190 participating banks, sending either in Kenyan shillings or in the recipient's currency.
 
 </div>
 
@@ -1159,7 +1159,7 @@ An account of what the pan-African payment system has built in four years and th
 
 **[PAPSS targets accelerated adoption and transaction growth as network expands across Africa](https://www.afreximbank.com/papss-targets-accelerated-adoption-and-transaction-growth-as-network-expands-across-africa/)** — African Export-Import Bank, 11 September 2026
 
-Volumes up about 1,000% and values about 120% year on year to September 2026; 30-plus countries, 24 central banks.
+PAPSS chief executive Mike Ogbalu III said in Lagos on 11 September 2026 that transaction volumes on the Pan-African Payment and Settlement System rose about 1,000% and values about 120% between comparable periods of 2025 and 2026. The network covers more than 30 countries, 24 central banks, over 200 banks and payment providers and 16 switches; about 10 countries joined in 2026.
 
 </div>
 
@@ -1197,7 +1197,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **['Africa's payment system is shaping global finance landscape positively'](https://thenationonlineng.net/africas-payment-system-is-shaping-global-finance-landscape-positively/)** — The Nation (Nigeria), 6 September 2026
 
-PAPSS CEO: 30 countries, 24 central banks live; 7-second average settlement; China and India links due Q1 2027.
+PAPSS chief executive Mike Ogbalu III told journalists in Lagos that the payment system is live in 30 countries with 24 central banks and settles in seven seconds on average. It stores encrypted transaction data but no personal or KYC records, attempted attacks more than doubled in six months, and links to China's and India's payment systems are targeted for early 2027.
 
 </div>
 
@@ -1213,7 +1213,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[PAPSS: Notes from a briefing with CEO Mike Ogbalu III](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)** — Nigeriaworks (Tolu Ogunlesi), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Named-analyst notes from Ogbalu's Lagos briefing: phase one was spread, phase two from 2027 is deepening.
+Mike Ogbalu, chief executive of the Pan-African Payment and Settlement System launched by Afreximbank in 2022, briefed journalists in Lagos on its move to a second strategic plan from 2027. He said Afreximbank's settlement guarantee has grown from $500 million to $3 billion, that 15 central bank governors sit on its governing council, and that PAPSS has launched a currency marketplace and a card scheme.
 
 </div>
 
@@ -1221,7 +1221,7 @@ Named-analyst notes from Ogbalu's Lagos briefing: phase one was spread, phase tw
 
 **[Nigeria, fintechs critical to Africa's payment integration](https://thesun.ng/nigeria-fintechs-critical-to-africas-payment-integration/)** — The Sun Nigeria, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Ogbalu Q&A on local-currency settlement, fraud controls, FX and formalising informal cross-border trade.
+The chief executive of the Pan-African Payment and Settlement System, Mike Ogbalu III, told journalists in Lagos that the system lets businesses settle cross-border trade in local currencies and is drawing informal trade into the formal economy. He described its fraud controls, currency exchange arrangements and aim of covering the whole continent, and placed Nigeria's fintech sector at the centre of that effort.
 
 </div>
 
@@ -1229,7 +1229,7 @@ Ogbalu Q&A on local-currency settlement, fraud controls, FX and formalising info
 
 **[Afreximbank plans PAPSS-Instapay link to expand Egypt-Africa cross-border payments](https://english.ahram.org.eg/News/576342.aspx)** — Ahram Online, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
-Ogbalu at the Cairo Middle East and Africa Conference: PAPSS to connect to Egypt's state-backed Instapay.
+The Pan-African Payment and Settlement System plans to connect to Instapay, Egypt's central-bank-licensed instant payment app, its chief executive Mike Ogbalu said at a Cairo conference held 7-9 September 2026. He said six Egyptian banks are awaiting central bank approval to join PAPSS, which operates in 30 African countries.
 
 </div>
 
@@ -1281,7 +1281,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[How Remittance Startups Are Undercutting Western Union Across Africa](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/)** — TechTrends Africa, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Sending $200 to Sub-Saharan Africa cost 8.46% in Q3 2025; app rivals run London-Lagos at 2-3%.
+Sending US$200 to sub-Saharan Africa cost an average of 8.46% in the third quarter of 2025, against a global average of 6.36%, according to World Bank figures cited by TechTrends Africa. Apps such as LemFi and Sendwave now run the London to Lagos corridor at about 2-3%, against around 7.8% in 2023.
 
 </div>
 
@@ -1401,7 +1401,7 @@ Payments platform Verto and Visa launched the Verto Card, a corporate card for A
 
 **[Airtel Mobile Commerce N.V. - Intention to Float (RNS 9490V)](https://www.londonstockexchange.com/news-article/market-news/airtel-mobile-commerce-n-v-intention-to-float/17799936)** — Airtel Mobile Commerce N.V. (Airtel Money), via the London Stock Exchange Regulatory News Service, 23 September 2026
 
-RNS 9490V; IFC cornerstone up to £67.2m; existing holders sell, no new capital; TPV US$213bn; Airtel Africa holds 77.85%.
+Airtel Money, Airtel Africa's mobile money business in 13 African markets, announced on 23 September 2026 its intention to list on the London Stock Exchange. Existing shareholders will sell shares, raising no new capital, and the IFC agreed to buy up to £67.2m. Airtel Money reported about 53 million monthly active users and revenue of US$1,346m for the year to March 2026.
 
 </div>
 
@@ -1467,7 +1467,7 @@ Mastercard announced it will explore pairing its A2A Protect fraud and dispute s
 
 **[Africa needs $120m, AU law to fix cross-border payments – AU](https://thesun.ng/africa-needs-120m-au-law-to-fix-cross-border-payments-au/)** — The Sun Nigeria, 5 October 2026
 
-Three gates: binding AU instrument, AACB supervisor, US$120m fund; 10-year plan, five REC pathfinders, NGA-GHA corridor.
+The African Union Commission and the AfricaNenda Foundation presented a framework in Nairobi on 5 October 2026 to harmonise cross-border payment rules across Africa. It would need a binding AU legal instrument, a supervisory body anchored in the Association of African Central Banks and a US$120m implementation fund. The 10-year plan names five regional blocs as pathfinders and Nigeria–Ghana as a pilot corridor.
 
 </div>
 
@@ -1475,7 +1475,7 @@ Three gates: binding AU instrument, AACB supervisor, US$120m fund; 10-year plan,
 
 **[Africa Eyes One Digital Payment Market Without A Single Currency](https://digitnomics.ng/africa-eyes-one-digital-payment-market-without-a-single-currency/)** — Digitnomics, 6 October 2026
 
-Licence passporting, ISO 20022, e-KYC; 10-year readiness roadmap; Nigeria-Ghana as potential pathfinder.
+The African Union Commission, supported by the AfricaNenda Foundation, is developing a regulatory framework for a single African digital payments market without a common currency. It covers licence passporting, interoperability standards, anti-money-laundering rules, consumer protection and data governance under a proposed ten-year roadmap, with Nigeria and Ghana discussed as a first corridor. The consultation's date is not given.
 
 </div>
 
@@ -1505,7 +1505,7 @@ AfricaNenda says its payments regulation initiative with the African Union Commi
 
 **[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-BoM governor, July 2026: SSA to miss 2027 G20 targets; REPSS, TCIB, PAPSS as building blocks; stablecoin risks.
+The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
 
 </div>
 
@@ -1549,7 +1549,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Africa CDC Calls for Stronger Community Engagement and Behavioural Intelligence to Boost Health Security](https://ommydalla.co.ke/buzz/item/4586-africa-cdc-calls-for-stronger-community-engagement-and-behavioural-intelligence-to-boost-health-security)** — Ommy Dallah, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Mombasa workshop harmonises a continental behavioural-intelligence and infodemic framework.
+Africa CDC held a continental workshop in Mombasa to harmonise a common framework for behavioural intelligence and infodemic management in public health. Delegates from Kenya, Ghana, Zimbabwe, Burundi and Mauritania attended, and Africa CDC's senior regional representative urged countries to use available technology for health surveillance and communication. No cost or timetable for the framework is given.
 
 </div>
 
@@ -1599,7 +1599,7 @@ The continental health agency, with member states and technical partners, has va
 
 **[WHO Africa launches the Health Campaign Digitization initiative (DIGIT-HCM) to transform health campaign planning and delivery across the Region](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health)** — WHO Regional Office for Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
 
-Three-year platform with eGov Foundation, Gates-backed; seven pilot countries, first run in Chad's June 2026 polio drive.
+The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative to digitise the planning, delivery and monitoring of health campaigns such as vaccination drives, built with the eGov Foundation and supported by the Gates Foundation. The first phase covers seven pilot countries; a pilot ran in a district of N'Djamena Province during Chad's June 2026 polio campaign. No funding figure is given.
 
 </div>
 
@@ -1617,7 +1617,7 @@ Three-year platform with eGov Foundation, Gates-backed; seven pilot countries, f
 
 **[ATU opens fifth Africa Innovation Challenge with US$60,000 prize pool](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)** — TechReviewAfrica, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-Fifth edition launched in Abidjan by Cote d'Ivoire's digital minister; AI software solutions sought.
+The African Telecommunications Union opened applications for the fifth Africa Innovation Challenge, with a total prize pool of US$60,000. Côte d'Ivoire's digital minister, Djibril Ouattara, launched it in Abidjan during Africa's final preparatory meeting for the 2026 ITU Plenipotentiary Conference. The call focuses on AI-based software.
 
 </div>
 
@@ -1633,7 +1633,7 @@ Fifth edition launched in Abidjan by Cote d'Ivoire's digital minister; AI softwa
 
 **[Opening the AI gateway](http://www.china.org.cn/2026-09/01/content_118674053.shtml)** — China.org.cn, 1 September 2026
 
-Mazu weather-warning deals with Cote d'Ivoire, Guinea and Cameroon; 10 African states found WAICO in Shanghai.
+China signed agreements with Côte d'Ivoire, Guinea and Cameroon to extend its Mazu weather-warning system in Africa, and showed Mazu Djibouti 2.0, which sharpens forecasts from 9km to 3km resolution. Ten African states, among them Algeria, Ethiopia, Kenya and South Africa, are founders of a new World Artificial Intelligence Cooperation Organisation based in Shanghai.
 
 </div>
 
@@ -1663,7 +1663,7 @@ Summarised under [China activities](#china-activities).
 
 **[African delegations study India's digital identity systems under UNDP mission](https://www.biometricupdate.com/202609/african-delegations-study-indias-digital-identity-systems-under-undp-mission)** — Biometric Update, 9 September 2026
 
-Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia complete a two-week UNDP AA4DPI mission across Delhi, Pune, Bengaluru.
+Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia completed a two-week mission to India under the UNDP's Africa Accelerator for Digital Public Infrastructure programme, visiting Delhi, Pune and Bengaluru. They met India's identity authority, UIDAI, and its national payments corporation, NPCI, and studied digital ID, payments and data systems used in agriculture, health and social protection.
 
 </div>
 
@@ -1681,7 +1681,7 @@ Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia complete a two-week UNDP AA4DP
 
 **[MTN, UJ, TAEF Launch Pan-African Media Innovation Programme for 42 Journalists](https://techafricanews.com/2026/09/01/mtn-uj-taef-launch-pan-african-media-innovation-programme-42-journalists/)** — Tech Africa News, 1 September 2026
 
-First cohort: 42 journalists from 10 countries join MTN's six-week Pan-African media programme.
+MTN Group, the University of Johannesburg and The African Editors' Forum welcomed the first cohort of the MTN Pan-African Media Innovation Programme on 1 September 2026. The six-week course takes 42 journalists, editors and media practitioners from 10 countries, including South Africa, Nigeria, Rwanda, Ghana and South Sudan; the university chose the participants.
 
 </div>
 
@@ -1723,7 +1723,7 @@ A regional mapping centre is training 55 officials from its 20 member states on 
 
 **[UNGA81: African Development Bank Group and partners launch free AI training for African public officials](https://www.afdb.org/en/news-and-events/press-releases/unga81-african-development-bank-group-and-partners-launch-free-ai-training-african-public-officials-97043)** — African Development Bank Group, 24 September 2026
 
-Free self-paced courses on AI fundamentals, leadership and procurement for officials; Stanford and SDA Bocconi content.
+The African Development Bank Group, the UNDP-led AI Hub for Sustainable Development, Google and Apolitical launched free, self-paced AI courses for African public officials at the UN General Assembly in New York, announced on 24 September 2026. The courses, by Stanford University Online and SDA Bocconi, cover AI fundamentals, leadership and procurement, and are open to officials in the Bank's regional member countries.
 
 </div>
 
@@ -1767,7 +1767,7 @@ A European-funded regulatory capacity programme is holding its eighth cohort in 
 
 **[Internet users in Africa and globally](https://www.the-star.co.ke/news/infographics/2026-09-15-internet-users-in-africa-and-globally)** — The Star (Kenya), 15 September 2026
 
-UNECA data 2019-2024: African men's internet use 43% against women's 31% in 2024, a 12-point gap.
+Figures from the UN Economic Commission for Africa's Economic Report on Africa 2026 show 43% of African men and 31% of African women used the internet in 2024, a 12-point gap. Worldwide the rates were 70% and 65%. Women's use in Africa peaked at 34% in 2022.
 
 </div>
 
@@ -1781,7 +1781,7 @@ UNECA data 2019-2024: African men's internet use 43% against women's 31% in 2024
 
 **[GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar](https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-SOMIC 2026: an entry handset costs the poorest fifth 76% of monthly income in Sub-Saharan Africa.
+The GSMA released its State of Mobile Internet Connectivity Report 2026 in New York on 15 September 2026, saying more than 3.4 billion people still do not use mobile internet. By end-2025 an entry-level smartphone cost the poorest fifth in Sub-Saharan Africa 76% of average monthly income, and memory prices more than doubled between late 2025 and early 2026, driven by demand for AI data centres.
 
 </div>
 
@@ -1789,7 +1789,7 @@ SOMIC 2026: an entry handset costs the poorest fifth 76% of monthly income in Su
 
 **[The State of Mobile Internet Connectivity 2026](https://www.gsma.com/somic/wp-content/uploads/2026/09/The-State-of-Mobile-Internet-Connectivity-2026.pdf)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-Senegal adult survey: 87% urban and 75% rural use mobile internet, against 25% adoption across Sub-Saharan Africa.
+The GSMA's State of Mobile Internet Connectivity 2026 finds 4.8 billion people, 59% of the world, use mobile internet on their own device. Sub-Saharan Africa has the lowest rate at 25%, with a 66% usage gap and a 9% coverage gap. Its survey puts mobile internet use in Senegal at 87% of urban and 75% of rural adults.
 
 </div>
 
@@ -1807,7 +1807,7 @@ Senegal adult survey: 87% urban and 75% rural use mobile internet, against 25% a
 
 **[African Union Commission and ITU Sign MoU to Accelerate Africa's Digital Future](https://au.int/en/pressreleases/20260907/african-union-commission-and-itu-sign-mou-accelerate-africas-digital-future)** — African Union, 7 September 2026
 
-Motaboge and Bogdan-Martin sign a cooperation framework in Geneva on 7 September 2026; no commitment sum stated.
+The African Union Commission and the International Telecommunication Union signed a memorandum of understanding in Geneva on 7 September 2026 setting a framework for cooperation on Africa's digital transformation. Priority areas include artificial intelligence, digital public infrastructure, skills, connectivity, cybersecurity, space technologies, regulation and standardisation. No funding commitment is stated.
 
 </div>
 
@@ -1857,7 +1857,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[ECA and DHL partner to advance MSMEs participation in intra-African trade](https://www.uneca.org/stories/eca-and-dhl-partner-to-advance-msmes-participation-in-intra-african-trade)** — UN Economic Commission for Africa, 14 September 2026
 
-Three-year non-exclusive MoU of 14 September 2026: virtual SME training on customs, logistics and digital trade.
+The UN Economic Commission for Africa and DHL Express Sub-Saharan Africa signed a non-exclusive three-year memorandum of understanding in Addis Ababa on 14 September 2026 to help small businesses trade across African borders under the AfCFTA. The first activity is a virtual training series on customs, logistics, e-commerce and digital trade through DHL's GoTrade programme. No financial value is attached.
 
 </div>
 
@@ -1865,7 +1865,7 @@ Three-year non-exclusive MoU of 14 September 2026: virtual SME training on custo
 
 **[UNECA, DHL Express Partner to Boost African SMEs in Cross-Border Trade Under AfCFTA](https://www.thereporterethiopia.com/52807/)** — The Reporter, 14 September 2026
 
-Three-year non-exclusive MoU on SME digital-trade training; no value and no signing date stated.
+The UN Economic Commission for Africa and DHL Express Sub-Saharan Africa signed a three-year memorandum to help small businesses trade across African borders under the AfCFTA, through DHL's GoTrade programme. The first activity is a virtual training series on customs, logistics, e-commerce and digital trade tools. No value or signing date is given.
 
 </div>
 
@@ -1879,7 +1879,7 @@ Three-year non-exclusive MoU on SME digital-trade training; no value and no sign
 
 **[Kitsoft and Smart Africa to cooperate on digital transformation of governments](https://smartafrica.org/kitsoft-and-smart-africa-to-cooperate-on-digital-transformation-of-governments/)** — Smart Africa, 15 September 2026
 
-Smart Africa Secretariat signs MoU with Ukrainian GovTech firm Kitsoft on DPI, e-governance and AI.
+The Smart Africa Secretariat signed a memorandum of understanding with Kitsoft, a GovTech company of Ukrainian origin, on public-sector digital transformation, announced on 15 September 2026. It covers digital public infrastructure, e-governance and AI, including building public services on Kitsoft's low-code Liquio platform. The release gives no signing date, value or duration.
 
 </div>
 
@@ -1923,7 +1923,7 @@ At a press conference alongside the African Development Bank's president in Seou
 
 **[UNGA81: ATU calls for stronger protection of Africa's critical digital infrastructure](https://www.techreviewafrica.com/news/7388/unga81-atu-calls-for-stronger-protection-of-africas-critical-digital-infrastructure)** — Tech Review Africa, 22 September 2026
 
-ATU's John Omo at UN-ODET roundtable, UNGA81; cites July 2026 ATU-UN-ODET partnership on DPI and AI.
+The African Telecommunications Union's secretary general, John Omo, called for stronger protection of critical civilian digital infrastructure at a UN Office for Digital and Emerging Technologies roundtable during the 81st UN General Assembly in New York. He cited domestic data centres, cross-border fibre and internet exchange points, and a July 2026 partnership with the UN office on digital public infrastructure and AI.
 
 </div>
 
@@ -1983,7 +1983,7 @@ WIOCC's own announcement of the US$300 million subscription agreement sets out t
 
 **[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across a $49bn financing gap.
+The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
 </div>
 
@@ -1997,7 +1997,7 @@ AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across
 
 **[EU, EIB Invest EUR108m to Drive African Entrepreneurship, Create 15,000 Jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/)** — THISDAYLIVE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-EUR 108m committed under Boost Africa, EUR 400m leveraged and 15,000 jobs claimed.
+The European Union and the European Investment Bank have invested €108 million through the Boost Africa initiative for African entrepreneurs, attracting a further €400 million and creating up to 15,000 jobs, the EU ambassador to Nigeria, Gautier Mignot, said in Abuja on 9 September 2026. He spoke ahead of the Boost Africa Impact Forum.
 
 </div>
 
@@ -2005,7 +2005,7 @@ EUR 108m committed under Boost Africa, EUR 400m leveraged and 15,000 jobs claime
 
 **[EU, EIB Highlight Boost Africa's Impact On Entrepreneurs](https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/)** — Voice of Nigeria, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-EUR108m placed through Boost Africa in a decade, leveraging about EUR400m more; EUR1 attracts EUR3.
+The EU and the European Investment Bank said at a forum in Abuja that their Boost Africa programme invested €108 million through venture capital funds over its first decade, attracting about €400 million more from other investors. EU ambassador Gautier Mignot named Nigeria a key beneficiary, and the EIB said it had launched new operations there.
 
 </div>
 
@@ -2019,7 +2019,7 @@ EUR108m placed through Boost Africa in a decade, leveraging about EUR400m more; 
 
 **[DFC Board of Directors Meeting, 16 September 2026 — Public Information Summary: WIOCC Holding Company Limited](https://www.dfc.gov/sites/default/files/media/documents/Board%20of%20Directors%20Meeting%20Notice%202026.09.16_0.pdf)** — U.S. International Development Finance Corporation (DFC), 9 September 2026
 
-DFC's own board summary: up to $155m equity in WIOCC, $450m project, ~25MW of new data-centre capacity.
+The US International Development Finance Corporation put to its board meeting of 16 September 2026 an equity investment of up to US$155m in WIOCC Holding Company, the African digital infrastructure group. Its public summary puts total project costs at up to US$450m, including about 25MW of new data-centre capacity.
 
 </div>
 
@@ -2027,7 +2027,7 @@ DFC's own board summary: up to $155m equity in WIOCC, $450m project, ~25MW of ne
 
 **[DFC Announces More Than $8 Billion in Investments to Fuel American Economic and National Security Interests](https://www.dfc.gov/media/press-releases/dfc-announces-more-8-billion-investments-fuel-american-economic-and-national)** — U.S. International Development Finance Corporation, 16 September 2026
 
-DFC board approves equity in WIOCC Group among $8bn+ of new investments; no amount published.
+The US International Development Finance Corporation's board approved more than $8 billion of new investments on 16 September 2026, including an equity investment in WIOCC Group, a wholesale connectivity and data-centre provider in Africa. DFC described WIOCC as the preferred partner for US technology companies expanding in Africa. No amount was published for the WIOCC investment.
 
 </div>
 
@@ -2043,7 +2043,7 @@ The US International Development Finance Corporation said it intends to invest U
 
 **[DFC Highlights U.S. Leadership in Economic Statecraft on Sidelines of U.N. General Assembly](https://www.dfc.gov/media/press-releases/dfc-highlights-us-leadership-economic-statecraft-sidelines-un-general-assembly)** — U.S. International Development Finance Corporation (DFC), 25 September 2026
 
-WIOCC equity signed on UNGA81 sidelines with Vision and AFC executives present; release gives no amount.
+The US International Development Finance Corporation held a signing ceremony in New York during the UN General Assembly for its board-approved equity investment in WIOCC, the African digital infrastructure group. Executives from WIOCC, Vision and the Africa Finance Corporation attended. The release gives no amount.
 
 </div>
 
@@ -2065,7 +2065,7 @@ An analysis of WIOCC's funding notes that the US development finance agency join
 
 **[FCDO Promises to Halve the Digital Divide. Where Is the Money?](https://www.ictworks.org/fcdo-promises-to-halve-the-digital-divide-where-is-the-money/)** — ICTworks, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-UK's 2024-2030 digital strategy still live on GBP 70m over three years, most of it possibly one AI programme.
+An ICTworks commentary argues that the UK Foreign Office's Digital Development Strategy 2024–2030 remains official policy but has little identifiable funding. The only digital line in published allocations is £70 million over three years for the Global Tech directorate, while the AI for Development programme alone is a £53 million commitment. The July 2026 development policy paper does not list digital as a priority.
 
 </div>
 
@@ -2107,7 +2107,7 @@ Cape Town's 22 On Sloane launched KUMii, an AI platform matching startups and sm
 
 **[Africa's leading venture capital fund managers convene at Oxford to strengthen investment expertise and advance venture investing across Africa](https://www.eib.org/en/press/all/2026-321-africa-s-leading-venture-capital-fund-managers-convene-at-oxford-to-strengthen-investment-expertise-and-advance-venture-investing-across-africa)** — European Investment Bank, 28 September 2026
 
-EUR 129m Commission guarantee launches Boost Ventures in Africa; EUR 4.5m EFSD+ technical assistance for VC funds.
+The European Investment Bank and the European Commission launched Boost Ventures in Africa, backed by a €129 million Commission guarantee covering all fund investments and €4.5 million of initial EFSD+ technical assistance. It was announced at the fifth Africa Venture Finance Programme in Oxford, attended by more than 40 African and Africa-focused venture fund managers.
 
 </div>
 

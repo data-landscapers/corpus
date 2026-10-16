@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: CAF
 ledger_rows: 18
 not_held: 4
-record: 90c9441d45fc
+record: fd1cfd911c90
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -107,7 +107,7 @@ The Central African Republic's digital development agency sets out its own footi
 
 **[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
 
-UNDP-funded review of the FCFA 60bn 2024-2028 strategy; statistics bill awaits official-texts commission.
+The Central African Republic's statistics institute ICASEES held a mid-term review of the second national statistics strategy (2024–2028) in Bangui from 7 to 9 October 2026, funded entirely by the UN Development Programme. The strategy, adopted in August 2023 with a budget of nearly 60 billion CFA francs, is to be updated; a bill replacing the 2001 statistics law has passed technical validation and awaits review by the official-texts commission.
 
 </div>
 
@@ -123,7 +123,7 @@ UNDP-funded review of the FCFA 60bn 2024-2028 strategy; statistics bill awaits o
 
 **[Centrafrique : le gouvernement se dote d'une Cellule de veille communicationnelle pour contrer les rumeurs](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/)** — Alwihda Info, 17 September 2026
 
-Presidential decree creates a spokesperson's communication-monitoring cell with a social-media watch unit.
+The Central African Republic's President Faustin Archange Touadéra signed a decree creating a communication-monitoring cell under the government spokesperson, reported on 17 September 2026. One of its three units handles crisis communication and rumours, monitoring broadcast, print, online and social media at home and abroad. It is funded from the state budget; the decree's date is not given.
 
 </div>
 
@@ -141,7 +141,7 @@ Presidential decree creates a spokesperson's communication-monitoring cell with 
 
 **[RCA : Touadéra mise sur l’IA et les données pour accélérer la transformation numérique](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/)** — Journal de Bangui, 29 September 2026
 
-CCIS-AMINI MoU at UNGA 81: national data centre, SOC and CERT-RCA; mining geodata and subsoil digital twin.
+The Central African Republic's internet and security agency (CCIS) signed a cooperation memorandum with the data and AI company AMINI after President Faustin-Archange Touadéra met its founder Kate Kallot at the 81st UN General Assembly, Journal de Bangui reported on 29 September 2026. It provides for a National Data Centre, a security operations centre and a national CERT, and in mining for digitised geological data and a digital twin of the subsoil. No cost is given.
 
 </div>
 
@@ -197,7 +197,7 @@ The digital-economy ministers of the Central African Republic and DR Congo agree
 
 **[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
 
-Starlink over 70% of fixed-wireless clients by June 2026; 1.56m internet users; FCFA 41.68bn operator revenue.
+The Central African Republic's telecoms regulator, ARCEP, reported 1.56 million internet clients at the end of June 2026, up 22.9% in a year, and 3.9 million mobile clients. Starlink, licensed in March 2026, held over 70% of fixed-wireless internet clients and carried 22.89 million of the 36.11 million GB of traffic in the half. Operator revenue exceeded 41.68 billion CFA francs.
 
 </div>
 
@@ -227,7 +227,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[RCA : une enquête ouverte après l'incendie du centre de données de l'ANE](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/)** — Journal de Bangui, 24 September 2026
 
-Investigation opened; minister says October 2026 residual elections still go ahead; no cause or damage estimate yet.
+A fire damaged part of the data-processing centre of the Central African Republic's National Elections Authority in the week before 24 September 2026, and the government opened an investigation. Territorial administration minister Bruno Yapandé said the residual elections scheduled for October 2026 will go ahead. No cause or estimate of damage is given.
 
 </div>
 
@@ -261,7 +261,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Central African Republic establishes first integrated criminal database with United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) and United Nations Office on Drugs and Crime (UNODC) support](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en)** — MINUSCA (via Africa Newsroom / APO Group), 9 October 2026
 
-MINUSCA funded centre and servers, UNODC training and connectivity; judicial police and regions next.
+The Central African Republic inaugurated its first integrated criminal database, attended by President Faustin-Archange Touadéra, the UN mission MINUSCA announced on 9 October 2026. MINUSCA financed the centre, equipment and servers and UNODC provided training and connectivity; the database lets police and gendarmerie share information, with the judicial police and regions to be added next.
 
 </div>
 
@@ -269,7 +269,7 @@ MINUSCA funded centre and servers, UNODC training and connectivity; judicial pol
 
 **[RCA : inauguration du nouveau centre de données criminelles au ministère de l'Intérieur](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/)** — Alwihda Info, 9 October 2026
 
-Inaugurated 8 Oct 2026 at interior ministry; long delayed by budget and logistics; data-protection conditions.
+The Central African Republic inaugurated a building housing criminal databases at the interior and public security ministry in Bangui on 8 October 2026, with equipment funded through the UN mission MINUSCA and the UN Office on Drugs and Crime. It will let the police and gendarmerie centralise records of offences and wanted persons.
 
 </div>
 
@@ -321,7 +321,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[La Centrafrique tend la main à la Russie pour renforcer sa gouvernance numérique](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique)** — Afrique Sur 7, 9 October 2026
 
-Five-year deal via HSE University: civil-servant training, joint research, seminars; signed at Global Digital Forum.
+The Central African Republic signed a five-year digital governance partnership with Russia, implemented through Moscow's HSE University, on 9 October 2026 at the Global Digital Forum in Moscow. It covers training for civil servants, joint research and case studies, and seminars. No cost or funding is stated.
 
 </div>
 
@@ -383,7 +383,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Atelier SDMX-ODP 2.0 : La délégation centrafricaine affirme sa participation active à la dynamique statistique de la CEMAC à Libreville](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville)** — ICASEES (Institut centrafricain des statistiques et des études économiques et sociales), 20 September 2026
 
-ICASEES demos a local ODP 2.0 install loaded with national accounts 2013–2029; CAR's ODP 2.0 action plan presented.
+A Central African Republic delegation from the statistics institute ICASEES and the CEMAC Commission took part in a workshop in Libreville, 14–18 September 2026, run by the African Development Bank, CEMAC and UNFPA on the SDMX data standard and Open Data Platform 2.0. ICASEES presented its national plan for moving from ODP 1.0 to 2.0 and demonstrated a locally installed ODP 2.0 system.
 
 </div>
 

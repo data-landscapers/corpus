@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: a15fc9f7451e
+record: 7596c66905e1
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -163,7 +163,7 @@ Egypt's communications minister Raafat Hendy put the Digital Egypt platform at a
 
 **[وزير الاتصالات يبحث مع لجنة صناعة الاتصالات تعزيز التصنيع المحلي وتطوير مراكز البيانات](https://gate.ahram.org.eg/News/5938370.aspx)** — Ahram Gate (Al-Ahram), 3 October 2026
 
-Digital Egypt ~250 services (Sept 2026); digital safety bill in drafting; biometric ID trial with four operators.
+Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconstituted Telecom Industry Committee, which recommended expanding local manufacture of telecoms equipment and studying data-centre and cloud development. Hendy said Digital Egypt offers about 250 services, with 270 targeted by end-2026. NTRA said the biometric digital identity system is in trial with the four mobile operators.
 
 </div>
 
@@ -207,7 +207,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[الرقابة المالية تلزم شركات التمويل باستخدام رمز التحقق OTP خلال شهرين](https://www.maspero.eg/economy/2026/09/14/989116/)** — Maspero (National Media Authority), 14 September 2026
 
-FRA Decision 2735 of 2026 gives consumer and MSME finance firms two months to implement OTP verification.
+Egypt's Financial Regulatory Authority issued Decision 2735 of 2026, giving consumer finance and small-business finance companies two months to introduce one-time password verification of customers. A code must be sent to the customer's verified phone number when a finance contract is signed and when the finance is drawn, and the lender must keep a record of it.
 
 </div>
 
@@ -221,7 +221,7 @@ FRA Decision 2735 of 2026 gives consumer and MSME finance firms two months to im
 
 **[بروتوكول بين "الأعلى للإعلام" و"الرقابة المالية" لتعزيز رقابة تطبيقات أسواق المالية غير المصرفية](https://www.youm7.com/story/2026/9/16/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/7548592)** — Youm7, 16 September 2026
 
-Media council must take the FRA's technical opinion, due in 15 days, before licensing any finance app.
+Egypt's Supreme Council for Media Regulation and the Financial Regulatory Authority signed a protocol on 16 September 2026 on oversight of apps and platforms in the non-bank financial markets. Before licensing any app that uses the names of FRA-supervised firms or carries on such activity, the council must obtain the authority's technical opinion, due within 15 days.
 
 </div>
 
@@ -235,7 +235,7 @@ Media council must take the FRA's technical opinion, due in 15 days, before lice
 
 **[«تنظيم الاتصالات»: حجب منصات التواصل في مصر حال مخالفة ضوابط حماية الأطفال](https://www.fintechgate.net/252234)** — Fintechgate, 18 September 2026
 
-NTRA spokesman: non-compliant platforms face full blocking; existing under-15 accounts covered; safety bill due.
+Egypt's National Telecom Regulatory Authority said social media platforms that fail to comply with new child-protection rules could be suspended and blocked in Egypt, whatever their size. Its vice-chairman, Mohamed Ibrahim, said platforms have three months to comply, the rules cover existing accounts of under-15s, and age checks must collect only necessary data.
 
 </div>
 
@@ -243,7 +243,7 @@ NTRA spokesman: non-compliant platforms face full blocking; existing under-15 ac
 
 **[رئيس اتصالات النواب: قانون السلامة الرقمية أولوية بدور الانعقاد الثاني](https://www.youm7.com/story/2026/10/4/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/7566923)** — Youm7, 4 October 2026
 
-Bill mostly regulates children's social media use; 9 sessions with 14 ministers; IT law amendments also on agenda.
+Ahmed Badawi, newly elected chair of the Egyptian House of Representatives' ICT committee, said a digital safety law tops the committee's agenda for the new session. He said parliament and government coordinated the bill over nine sessions with 14 ministers and that most of its articles regulate children's use of social media. Amendments to the information technology law are also planned.
 
 </div>
 
@@ -257,7 +257,7 @@ Bill mostly regulates children's social media use; 9 sessions with 14 ministers;
 
 **[اتصالات النواب: الانتهاء من قانون السلامة الرقمية خلال شهر](https://gate.ahram.org.eg/News/5939716.aspx)** — Al-Ahram, 5 October 2026
 
-ICT committee chair expects the bill done within a month; adds adult protections on betting, defamation, rumours.
+Egypt's parliamentary ICT committee chair Ahmed Badawi said the committee will open its new session with the digital safety bill and expects it finished within a month. The bill protects children on social media and adds rules for adults on online betting, defamation and disinformation; the committee held six hearings with 14 ministers and agency heads.
 
 </div>
 
@@ -289,7 +289,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[مسار والمبادرة المصرية للحقوق الشخصية تطالبان بضمانات معلنة لحماية الأطفال على الإنترنت وصون حقوقهم](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89)** — Egyptian Initiative for Personal Rights, 29 September 2026
 
-Rights groups ask for the decision text, rules on age-verification data, no biometric condition and PDPC guidance.
+Egyptian rights groups Masaar and the Egyptian Initiative for Personal Rights asked the media regulator and the telecoms regulator NTRA on 29 September 2026 to publish the full text and legal basis of their 17 September decision on children's social-media accounts, which bars independent accounts for under-13s. They also want public rules on what age-verification data is collected and kept, and no general biometric requirement.
 
 </div>
 
@@ -333,7 +333,7 @@ Egypt's Personal Data Protection Center opened its electronic portal for accredi
 
 **[مصر تبحث توحيد جهود حوكمة الذكاء الاصطناعي وتعزيز السيادة الرقمية وحماية البيانات عربيا](https://fintechgate.net/251952)** — Fintech Gate, 16 September 2026
 
-Egypt's MCIT at the Arab AI summit, Hammamet 7-10 September 2026, on AI governance and data sovereignty.
+Egypt's Ministry of Communications and Information Technology took part in the second AI summit organised by the Arab ICT Organization and the Arab League in Hammamet, Tunisia, from 7 to 10 September 2026. The ministry joined sessions on AI governance, trust and digital sovereignty, and on women in AI, where an alliance of Arab and African women in AI leadership was launched.
 
 </div>
 
@@ -473,7 +473,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Egypt open to international partnerships to strengthen position as regional data center hub](https://sis.gov.eg/en/media-center/news/egypt-open-to-international-partnerships-to-strengthen-position-as-regional-data-center-hub/)** — Egypt State Information Service, 3 September 2026
 
-MCIT meets Heka Data on a hyperscale data-centre and AI zone; concept, scale and phases only, no sum.
+Egypt's communications minister, Raafat Hindi, met a delegation from the data-centre developer Heka Data and a US alliance of data-centre developers on 3 September 2026 to discuss an integrated zone for hyperscale data centres and artificial intelligence in Egypt. Talks covered the project's concept, scale and phases. No investment figure, site or timetable was stated.
 
 </div>
 
@@ -553,7 +553,7 @@ Egypt's communications minister met INTRO Investment Holding to review the Kemet
 
 **[OPEN// eFinance, Alibaba Cloud bring global cloud services to Egyptian businesses](https://mena.org.eg/en/news/open-efinance-alibaba-cloud-bring-c44faf96-d3bc-4aa1-8ac0-08bee74d4819)** — Middle East News Agency (MENA), 7 October 2026
 
-Alibaba Cloud via eFinance's local platform, data kept in Egypt; SMEs, agriculture, e-commerce first; no sum stated.
+Egypt's eFinance Investment Group, Alibaba Cloud and Nuvexa signed a memorandum, reported on 7 October 2026, to explore offering Alibaba Cloud services to Egyptian businesses through eFinance's locally hosted infrastructure, with data kept and processed in Egypt. Small businesses, agriculture and digital commerce come first. No sum is stated.
 
 </div>
 
@@ -567,7 +567,7 @@ Alibaba Cloud via eFinance's local platform, data kept in Egypt; SMEs, agricultu
 
 **[A consortium is forming to take an equity stake in an Egyptian data center, but the sector’s barriers run deep](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/)** — EnterpriseAM, 7 October 2026
 
-15-20 MW installed vs 400-500 MW announced, ~20 MW committed; EGP 3 bn substations; sovereignty rules deter hyperscalers.
+Egypt has about 15–20 MW of installed data centre IT capacity, and of 400–500 MW announced across four large projects only about 20 MW is committed, Post For Investment's chief executive told the EnterpriseAM Egypt Forum on 5 October 2026. He said his firm is forming a consortium to take an equity stake in a data centre; the four projects would need US$4–5bn.
 
 </div>
 
@@ -615,7 +615,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[بالتفاصيل.. بروتوكول تعاون لربط قواعد البيانات البيئية بالأنشطة الصناعية](https://www.masrawy.com/news/news_egypt/details/2026/9/1/3041890/بالتفاصيل-بروتوكول-لربط-قواعد-البيانات-البيئية-بالأنشطة-الصناعية)** — Masrawy, 1 September 2026
 
-EEAA-GOEIC protocol on the unified industrial environmental data registry; IDEIA digital EIA system launched.
+Egypt's Environmental Affairs Agency and the General Organization for Export and Import Control signed a protocol on 1 September 2026 to exchange data on industrial facilities through the unified environmental data registry. The two bodies will study linking their systems electronically and agree which data are shared, from what source and how often. It was signed at the launch of the IDEIA digital environmental impact assessment system.
 
 </div>
 
@@ -643,7 +643,7 @@ Egypt's Financial Regulatory Authority has required consumer finance and small-b
 
 **[Egypt plans unified digital platform to link patient records across health facilities](https://www.dailynewsegypt.com/2026/09/14/egypt-plans-unified-digital-platform-to-link-patient-records-across-health-facilities/)** — Daily News Egypt, 14 September 2026
 
-Proposed Egypt Smart Healthcare Platform would link facilities and patient histories with AI and telemedicine.
+Egypt's health minister, Khaled Abdel Ghaffar, discussed a proposed Egypt Smart Healthcare Platform with MTS and Inspur after reviewing China's digital health model. It would link health facilities through unified patient records, with telemedicine, a command centre and AI, and a pilot of the first phase was discussed. The ministry gave no cost, timetable or financing details.
 
 </div>
 
@@ -657,7 +657,7 @@ Proposed Egypt Smart Healthcare Platform would link facilities and patient histo
 
 **["الرقابة المالية" تضيف تقييم التحليل السلوكي للاستعلام عن عملاء التمويل الاستهلاكي](https://www.youm7.com/story/2026/9/15/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D9%8A%D9%81-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/7547207)** — Youm7, 15 September 2026
 
-FRA Decision 2863/2026: consumer-finance firms must use I-Score behavioural scoring on alternative data from April 2027.
+Egypt's Financial Regulatory Authority issued Decision No. 2863 of 2026 requiring licensed consumer-finance companies to verify applicants digitally and to check behavioural credit scores based on alternative data from the credit bureau I-Score before granting or refusing loans. The scoring requirement applies from 1 April 2027, once I-Score's system is ready, chairman Islam Azzam said.
 
 </div>
 
@@ -671,7 +671,7 @@ FRA Decision 2863/2026: consumer-finance firms must use I-Score behavioural scor
 
 **[“الرقابة المالية” تلزم شركات التمويل الاستهلاكي بالجاهزية لربط قواعد بياناتها مع الهيئة – الخميس 24 سبتمبر 2026](https://fra.gov.eg/fra_news/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%84%D8%B2%D9%85-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7/)** — Financial Regulatory Authority (FRA), Egypt, 24 September 2026
 
-Firms must feed customer, real-time purchase, repayment and solvency data to FRA; controls within 6 months; gazetted.
+Egypt's Financial Regulatory Authority issued Decision No. 2684 of 2026, in force from 24 September, requiring consumer-finance companies to build links from their databases to the authority's. Customer records, real-time purchases, repayment standing and solvency data are to flow under controls the authority will issue within six months. No terms on consent or retention are stated.
 
 </div>
 
@@ -679,7 +679,7 @@ Firms must feed customer, real-time purchase, repayment and solvency data to FRA
 
 **[Egypt FRA orders real-time consumer-finance data link](https://tech.africa/egypt-fra-consumer-finance-data/)** — Tech.Africa, 25 September 2026
 
-Decision 2684/2026: lenders to stream customer purchase data to FRA; controls due in 6 months; no consent terms stated.
+Egypt's Financial Regulatory Authority ordered licensed consumer-finance companies to link their databases to its own and report each customer's data on approval and their purchases of goods and services in real time. Decision No. 2684 of 2026 was announced on 24 September by FRA chairman Islam Azzam; detailed controls are due within six months.
 
 </div>
 
@@ -709,7 +709,7 @@ A digital truck yard at Ain Sokhna port, under an EGP 1bn contract for up to 1,1
 
 **[«وي» تطلق خدمة التحقق الإلكتروني من هوية العملاء (E-KYC)](https://www.youm7.com/story/2026/9/12/%C2%AB%D9%88%D9%8A%C2%BB-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D9%86-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-E-KYC/7544416)** — Youm7, 12 September 2026
 
-SIM sale and activation moved fully online with e-signature; first phase covers individual mobile lines.
+Telecom Egypt's mobile brand WE launched an electronic know-your-customer service that lets customers verify their identity, sign electronically and buy and activate lines without paper documents. The first phase covers individual mobile lines and some other digital services. The company says the service meets regulatory and data-protection requirements, without naming the identity database used.
 
 </div>
 
@@ -739,7 +739,7 @@ Egypt's communications and interior ministries launched a platform for remote bi
 
 **[الجهاز القومي لتنظيم الاتصالات يصدر تقرير مؤشرات استخدام المحافظ الإلكترونية التابعة لشركات الاتصالات للنصف الأول لعام 2026](https://www.tra.gov.eg/ar/%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2-%d8%a7%d9%84%d9%82%d9%88%d9%85%d9%8a-%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d9%8a%d8%b5%d8%af%d8%b1-%d8%aa-58/)** — National Telecom Regulatory Authority (NTRA), Egypt, 9 September 2026
 
-Regulator's own H1 2026 release: 57.01m wallets, 45% penetration, 67% male-held, Cairo 19% of wallets.
+Egypt's National Telecom Regulatory Authority reported 57.01 million mobile wallets in the first half of 2026, up 23% on a year earlier, with penetration at 45%. Wallets carried 2.22 billion transactions worth EGP 2.96 trillion. Vodafone Cash held 53% of wallets and 77% of transaction value.
 
 </div>
 
@@ -761,7 +761,7 @@ Egypt's telecom regulator counted 57.01 million operator mobile wallets in the f
 
 **[Afreximbank plans PAPSS-Instapay link to expand Egypt-Africa cross-border payments](https://english.ahram.org.eg/News/576342.aspx)** — Ahram Online, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Ogbalu at the Cairo Middle East and Africa Conference: PAPSS to connect to Egypt's state-backed Instapay.
+The Pan-African Payment and Settlement System plans to connect to Instapay, Egypt's central-bank-licensed instant payment app, its chief executive Mike Ogbalu said at a Cairo conference held 7-9 September 2026. He said six Egyptian banks are awaiting central bank approval to join PAPSS, which operates in 30 African countries.
 
 </div>
 
@@ -769,7 +769,7 @@ Ogbalu at the Cairo Middle East and Africa Conference: PAPSS to connect to Egypt
 
 **[CBE governor participates in 14th meeting of PGC PAPSS in Nairobi](https://sis.gov.eg/en/media-center/news/cbe-governor-participates-in-14th-meeting-of-pgc-papss-in-nairobi/)** — Egypt State Information Service, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Egypt's own state account of the 19 Sept 2026 council: 15 governors, AU and AfDB seated, AACB sidelines.
+The Central Bank of Egypt's governor, Hassan Abdalla, attended the 14th meeting of the Pan-African Payment and Settlement System's governing council in Nairobi on 19 September 2026. The council discussed increasing participation by central and commercial banks and tighter risk controls. Egypt's central bank has been studying the system's technical and legal features so that Egyptian banks can join.
 
 </div>
 
@@ -777,7 +777,7 @@ Egypt's own state account of the 19 Sept 2026 council: 15 governors, AU and AfDB
 
 **[CBE Governor: Enhanced Egyptian bank participation drives Pan-African financial integration](https://www.businessmen-eg.com/en/6489/cbe-governor-enhanced-egyptian-bank-participation-drives-pan-african-financial-integration)** — Businessmen EG, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-CBE's direct-participation model, PAPSS Card assessment and Marketplace exploration set before the Board of Governors.
+The Central Bank of Egypt told the board of governors of the Pan-African Payment and Settlement System that Egyptian banks can now execute and fund cross-border payments with African counterparts directly, without intermediary clearing agents or the US dollar, reported on 19 September 2026. Egypt joined PAPSS in November 2024 and is assessing the PAPSS Card scheme.
 
 </div>
 
@@ -785,7 +785,7 @@ CBE's direct-participation model, PAPSS Card assessment and Marketplace explorat
 
 **[Central Bank of Egypt Governor discusses African payment network expansion at Nairobi meeting](https://www.dailynewsegypt.com/2026/09/19/central-bank-of-egypt-governor-discusses-african-payment-network-expansion-at-nairobi-meeting/)** — Daily News Egypt, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Egypt on the PAPSS council since Jan 2025, in the network since Nov 2024; weighing Card and Marketplace.
+Central Bank of Egypt Governor Hassan Abdalla attended the 14th Governing Council meeting of the Pan-African Payment and Settlement System in Nairobi, which discussed adding participating banks and reducing cross-border payment risk. Egypt joined the system in November 2024 and its council in January 2025, and is assessing the PAPSS Card and Marketplace services.
 
 </div>
 
@@ -807,7 +807,7 @@ Afreximbank plans to connect the Pan-African Payment and Settlement System (PAPS
 
 **[CIB-Backed Yomo Digital Bank Plans Egypt Launch With $300M Investment](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/)** — MENA Startup Digest, 14 September 2026
 
-CIB's digital bank has CBE preliminary approval; up to $300m planned, neither sum nor date committed.
+Yomo, a digital bank being developed by Commercial International Bank Egypt, has preliminary approval from the Central Bank of Egypt, reported on 14 September 2026. Chief executive Roshwan Hamady said up to US$300 million will be invested before a pilot launch, serving individuals, including Egyptians abroad, before small businesses. No approval or launch date is given.
 
 </div>
 
@@ -849,7 +849,7 @@ Afreximbank is connecting the continental card scheme to Egypt's Meeza national 
 
 **[e-finance to acquire 99.32% of Tamweely in cash, share swap deal](https://www.arabfinance.com/en/news/newdetails/e-finance-to-acquire-tamweely-for-in-cash-share-swap-deal)** — Arab Finance, 20 September 2026
 
-EGM approves 99.32% stake: EGP 956.37m cash plus a 146.08m-share swap; Tamweely valued at EGP 6.426bn.
+Shareholders of Egypt's e-finance for Digital and Financial Investments approved the acquisition of a 99.32% stake in Tamweely Financial Services, for EGP 956.37 million in cash plus 146.08 million new e-finance shares issued to Tamweely's main shareholder, Turin Egypt. An independent study valued Tamweely at EGP 6.426 billion. The Financial Regulatory Authority approved the deal in August.
 
 </div>
 
@@ -863,7 +863,7 @@ EGM approves 99.32% stake: EGP 956.37m cash plus a 146.08m-share swap; Tamweely 
 
 **[Egypt’s IPN records 1.47 bln transactions worth EGP 4.33 tln in 2Q 2026: CBE governor](https://english.ahram.org.eg/News/577944.aspx)** — Ahram Online, 1 October 2026
 
-22m registered users; governor's Abu Dhabi remarks, 29 Sept 2026; inclusion, use cases, cross-border as priorities.
+The Central Bank of Egypt's governor, Hassan Abdalla, told the Council of Arab Central Banks in Abu Dhabi on 29 September 2026 that Egypt's Instant Payment Network had recorded 1.47 billion transactions worth about EGP 4.33tn by the end of the second quarter of 2026, with about 22 million registered customers. The report does not say whether the figures cover the quarter or the network's life to date.
 
 </div>
 
@@ -879,7 +879,7 @@ EGM approves 99.32% stake: EGP 956.37m cash plus a 146.08m-share swap; Tamweely 
 
 **[Cooperation Protocol between 'State-Owned Enterprises Unit', 'E-Finance' for data protection](https://www.cairo.gov.eg/en/news/2026/july/22/676fb4d6d94c47e0ab12e10fe1cc69e5)** — Cairo Portal (Al-Ahram Newspaper Online Portal), 3 September 2026
 
-e-Finance to host the Rashid AI platform cataloguing state-owned companies under Law 170 of 2025.
+Egypt's State-Owned Enterprises Unit, under the Cabinet, signed a protocol with e-Finance to host Rashid, the database of state-owned and state-part-owned companies, and run its AI applications. e-Finance will supply accredited secure infrastructure. The unit's mandate to catalogue state companies comes from Law No. 170 of 2025.
 
 </div>
 
@@ -893,7 +893,7 @@ e-Finance to host the Rashid AI platform cataloguing state-owned companies under
 
 **[Egyptians Struggle to Afford Bread After Aid Cuts](https://newscentraltv.com/egyptians-struggle-to-afford-bread-after-aid-cuts/)** — News Central TV, 12 September 2026
 
-850,000 people cut from Egypt's subsidy system since June 2026, with millions more slated for 2027.
+Egypt's supply ministry has removed 850,000 people from the food subsidy system since June 2026, and targeting reforms are set to exclude millions more next year. The government says about 66 million people rely on subsidised bread.
 
 </div>
 
@@ -907,7 +907,7 @@ e-Finance to host the Rashid AI platform cataloguing state-owned companies under
 
 **[FRA surveys creditors and operator E-Finance to improve the Egyptian Movable Collateral Registry's electronic system](https://www.dailynewsegypt.com/2026/09/21/fra-explores-developing-egyptian-movable-collateral-registry-services/)** — Daily News Egypt, 21 September 2026
 
-Creditor complaints on the registry's e-system go to technical and legal review; E-Finance is its current operator.
+Egypt's Financial Regulatory Authority surveyed creditors on the services and electronic system of the Egyptian Movable Collateral Registry and met them with the registry's operator, E-Finance, to review the findings, Daily News Egypt reported on 21 September 2026. The proposals will undergo technical and legal review before priorities are set. No timetable is given.
 
 </div>
 
@@ -937,7 +937,7 @@ Egypt's Pandemic Fund steering committee, chaired by the deputy health minister,
 
 **[رئيس الوزراء يتابع توافر الأدوية والمستلزمات الطبية بمختلف المستشفيات.. منظومة متكاملة لإدارة دورة حياة المخزون الصحى](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639)** — Youm7, 2 September 2026
 
-38,000 users, 11,000 facilities, 2,000 suppliers on one medical-stock system; EGP 90bn drug budget.
+Egypt's Unified Procurement Authority presented its national medical-stock system to the prime minister on 2 September 2026. Its head, Hisham Steit, said the system covers 38,000 users, 11,000 health facilities and 2,000 suppliers, with stocktaking on a mobile scanning app and real-time balances. The prime minister said about EGP 90 billion is budgeted this year for medicines and medical supplies.
 
 </div>
 
@@ -951,7 +951,7 @@ Egypt's Pandemic Fund steering committee, chaired by the deputy health minister,
 
 **[500 جنيه للتسجيل..منصة التقاضي الجنائي عن بعد تحدد رسوم خدماتها الإلكترونية للمحامين](https://www.shorouknews.com/news/view.aspx?cdate=08092026&id=bdee860b-5577-416e-be32-2bf2085c6952)** — Al Shorouk, 8 September 2026
 
-Platform's own price list, read hours after launch: EGP 500 a year, 500 remote felony, 10/page, 2,500 for 500 SMS.
+Egypt's Ministry of Justice opened lawyer registration on its remote criminal litigation platform, and Al Shorouk reported its charges on 8 September 2026: EGP 500 a year to register, EGP 500 for remote attendance at felony hearings, EGP 100 for a detention-renewal hearing and EGP 10 per copied page of case files. Remote litigation is provided for in the new criminal procedure law taking effect on 1 October 2026.
 
 </div>
 
@@ -959,7 +959,7 @@ Platform's own price list, read hours after launch: EGP 500 a year, 500 remote f
 
 **[محامون يختصمون «العدل» أمام «القضاء الإداري» لإلغاء رسوم منصة التقاضي و«النقابة» تعلن التضامن](https://www.safha1.com/15703)** — Al Safha Al Oula (safha1.com), 10 September 2026
 
-Suit to void the fees under Constitution Art. 38 — no charge without a statute; Helwan bar branch to join.
+Lawyers filed an urgent suit at Egypt's Administrative Judiciary Court to suspend and annul the Ministry of Justice's prepaid fees for its remote criminal litigation platform, Al Safha Al Oula reported on 10 September 2026. The claim argues that court fees must be set by statute, not by ministerial decision; the Helwan lawyers' syndicate branch declared its support.
 
 </div>
 
@@ -983,7 +983,7 @@ Egypt's justice ministry defended the charges on its remote criminal litigation 
 
 **[التشريعات الذكية وقانون الإجراءات الجنائية الجديد](https://gate.ahram.org.eg/News/5937174.aspx)** — Al-Ahram, 1 October 2026
 
-Ex-MCIT legislation chief on one-year deferral: e-notification, remote trials, no data-protection impact assessment.
+Mohamed Hegazy, former head of the legislation committee at Egypt's communications ministry, wrote in Al-Ahram that the proposal by parliament's legislative committee to defer the new Criminal Procedure Law by a year reflects missing impact assessment. He argues the extra year should address the legal standing of electronic notification and remote trials, court and prison infrastructure, and training.
 
 </div>
 
@@ -997,7 +997,7 @@ Ex-MCIT legislation chief on one-year deferral: e-notification, remote trials, n
 
 **[Egypt's gov't is bringing overland freight into Nafeza for the first time — closing a gap in trade digitization](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/)** — EnterpriseAM, 14 September 2026
 
-Finance Ministry surveys road-freight firms to register and link them to Nafeza; Nuweiba and Safaga first.
+Egypt's finance ministry has begun surveying road-freight firms at land ports in order to register them and link them to Nafeza, the national single window for foreign trade, according to three officials quoted on 14 September 2026. The plan adds consolidated bills of lading and pre-arrival cargo data for trucks, starting at the Red Sea ports of Nuweiba and Safaga.
 
 </div>
 
@@ -1011,7 +1011,7 @@ Finance Ministry surveys road-freight firms to register and link them to Nafeza;
 
 **[Agriculture ministry spokesman: digital system to register farmland holdings and protect farmers' rights](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116)** — Youm7, 23 September 2026
 
-About 4.4m farmer cards; each holding tied to the crop actually grown to stop subsidised-fertiliser fraud.
+Egypt's agriculture ministry spokesman Khaled Gad said on 23 September 2026 that a digital register of farm holdings, built over several years, links each holding to the crop actually grown across about 4.4 million farmer cards. He said this curbs fictitious holdings and false crop declarations used to obtain subsidised fertiliser.
 
 </div>
 
@@ -1027,7 +1027,7 @@ About 4.4m farmer cards; each holding tied to the crop actually grown to stop su
 
 **[Electronic System Activated to Expedite Assignment Modification Procedures for Medical Professionals](https://www.cairo.gov.eg/en/news/2026/septemper/1/79dcfae1e4954588996b61d80eacfb4d)** — Cairo Governorate Electronic Portal (Akhbar El Youm News Portal), 1 September 2026
 
-Assignment-modification requests go electronic after an August pilot; medical results exchanged between bodies.
+Egypt's Ministry of Health and Population put an electronic system for medical professionals' assignment-modification requests into full use at the start of September 2026, after a pilot from mid-August. Requests linked to a staff member's health previously meant repeated trips between offices and results sent by post; documents and examination results are now exchanged electronically between the bodies involved.
 
 </div>
 
@@ -1041,7 +1041,7 @@ Assignment-modification requests go electronic after an August pilot; medical re
 
 **[النيابة العامة تتيح خدمة الاستعلام الإلكترونى عن دعاوى الأسرة والأحكام](https://www.youm7.com/story/2026/9/1/النيابة-العامة-تتيح-خدمة-الاستعلام-الإلكترونى-عن-دعاوى-الأسرة-والأحكام/7533251)** — Youm7, 1 September 2026
 
-Egypt's prosecution opens online lookup for family-case rulings, gated by Digital Egypt ID.
+Egypt's Public Prosecution opened an online service on 1 September 2026 for looking up family-case data and the judgments issued in them, through its electronic portal. Working with the communications ministry, it restricts access to users verified by the Digital Egypt portal's digital identity, so that only the parties concerned can see their records.
 
 </div>
 
@@ -1055,7 +1055,7 @@ Egypt's prosecution opens online lookup for family-case rulings, gated by Digita
 
 **[وزيرة البيئة تطلق منظومة تقييم التأثير البيئي الرقمية المتكاملة "IDEIA"](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879)** — Youm7, 1 September 2026
 
-Egypt's IDEIA system digitises environmental impact reviews, part of a EUR271m green-industry programme.
+Egypt's Minister of Local Development and Environment, Manal Awad, launched IDEIA, a digital system for environmental impact assessments, on 1 September 2026. It moves applications, review, approval and follow-up off paper and lets applicants track their files. It is the digital component of the Green Sustainable Industry programme, financed by the EIB, the EU, AFD and the Egyptian government at a total of EUR 271 million.
 
 </div>
 
@@ -1069,7 +1069,7 @@ Egypt's IDEIA system digitises environmental impact reviews, part of a EUR271m g
 
 **[رئيس الوزراء لـ اليوم السابع: سأعقد اجتماعا مع وزير الكهرباء لمتابعة ملف الفواتير](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176)** — Youm7, 3 September 2026
 
-PM Madbouly promises an expanded meeting and a transparent account of the platform's technical faults.
+Egypt's prime minister Mostafa Madbouly told Youm7 on 3 September 2026 that faults on the unified electricity platform and mismatches between prepaid-meter top-ups and readings are a government priority. He said he would hold an expanded meeting with the electricity minister the following week and that the state's remedial steps would be announced publicly.
 
 </div>
 
@@ -1091,7 +1091,7 @@ Egypt's electricity distribution companies lost sight of citizens' service reque
 
 **[Everything you need to know about the Unified Card, a new alternative to the Ration Card](https://www.egyptindependent.com/everything-you-need-to-know-about-the-unified-card-a-new-alternative-to-the-ration-card/)** — Egypt Independent (Al-Masry Al-Youm), 5 September 2026
 
-Free prepaid fingerprint card via Egypt Post: bread and ration subsidy, health insurance, POS and ATM.
+Egypt's Supply and Internal Trade Ministry is gradually rolling out a free Unified Card, issued through Egypt Post, to replace the paper ration card. The fingerprint-enabled prepaid card carries subsidised bread and rations, comprehensive health insurance and payments, and is collected against a national ID and a mobile number in the holder's name. Payment services work on issue; no activation date is given for the subsidy and health insurance functions.
 
 </div>
 
@@ -1105,7 +1105,7 @@ Free prepaid fingerprint card via Egypt Post: bread and ration subsidy, health i
 
 **[Minassat Misr al-raqmiyya tatahhal lil-qaima al-nihaiyya li-jawaiz al-Umam al-Muttahida (Digital Egypt platform reaches UN digital award shortlist)](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)** — Egyptian National Media Authority (Maspero), 9 September 2026
 
-Top 15 of 1,500+ entries from 146 countries; 12.9m users, 240 services, 109 agencies integrated.
+Egypt's Digital Egypt platform was shortlisted among the top 15 entries in the digital government category of the ITU and UNDP Digital@UNGA 2026 awards, announced on 9 September 2026. The communications ministry says the platform offers more than 240 services to 12.9 million registered users and is linked to 109 government bodies, with 270 services targeted by the end of 2026.
 
 </div>
 
@@ -1119,7 +1119,7 @@ Top 15 of 1,500+ entries from 146 countries; 12.9m users, 240 services, 109 agen
 
 **[Fees for E-Court platform revive debate over commodifying justice](https://manassa.news/en/news/33836)** — Al Manassa, 9 September 2026
 
-500 EGP to register, 500 more per remote felony hearing; Lawyers Syndicate calls the fees unconstitutional.
+Egypt's justice ministry launched an E-Court platform on 31 August 2026 that lets lawyers and litigants attend first-instance criminal hearings remotely. Lawyers must pay 500 pounds a year to register, 500 more per remote felony hearing and 10 pounds a page for case-file copies. The Egyptian Lawyers Syndicate says the fees have no legal basis.
 
 </div>
 
@@ -1133,7 +1133,7 @@ Top 15 of 1,500+ entries from 146 countries; 12.9m users, 240 services, 109 agen
 
 **[النيابة العامة تطلق خدمات استخراج وثائق الحالة الشخصية عبر بوابتها الإلكترونية](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)** — Youm7, 10 September 2026
 
-Five personal-status document types issued through the prosecution's own portal, built with the ICT ministry.
+Egypt's Public Prosecution said on 10 September 2026 that official copies of five kinds of personal-status record, including Muslim and non-Muslim marriage and divorce certificates, can now be obtained through its online portal, built with the communications ministry. Users must verify their identity with the Digital Egypt portal's digital ID.
 
 </div>
 
@@ -1147,7 +1147,7 @@ Five personal-status document types issued through the prosecution's own portal,
 
 **[Investment ministry aide: digital platform for capital increases links 8 government entities](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140)** — Youm7, 22 September 2026
 
-Digital ID log-in for investors, ITIDA remote e-signing, e-passport checks on foreigners; TradeTech hub in October.
+Egypt's assistant investment minister for digital transformation, Sherif Yehia, said a platform for company capital increases now links eight government bodies digitally. Investors and their agents log in with digital ID and sign documents remotely through a service run with ITIDA, and the ministry is using e-passports to verify foreign investors. He spoke at the FDC Summit on 22 September 2026.
 
 </div>
 
@@ -1161,7 +1161,7 @@ Digital ID log-in for investors, ITIDA remote e-signing, e-passport checks on fo
 
 **[وزير المالية: رصدنا مشاكل تطبيق الضرائب العقارية ومد التسجيل قيد الدراسة](https://www.egyptke.com/294431)** — Egyptke, 27 September 2026
 
-Authority head admits app outages, seeks deadline extension and redress; ~1m registered two days out; 25% discount.
+The head of Egypt's Real Estate Tax Authority, Rami Youssef, acknowledged faults in the property tax registration app and said he had asked the finance minister to extend the registration deadline, which the minister said was under study. About one million citizens had registered with two days left. The authority is working with the app's contractor to fix outages.
 
 </div>
 
@@ -1201,7 +1201,7 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 **[Cairo Governor witnesses launch of Citizen Services System Development Program](https://www.cairo.gov.eg/en/news/2026/october/13/c34e40b9a36345c684c21c448d164f79)** — Cairo Governorate, 13 October 2026
 
-Six monthly complaint-handling workshops; service guide, quality checklist, indicators; digitised services named.
+Cairo Governor Ibrahim Saber launched a six-month programme for staff of the governorate's citizen service centres, announced on 13 October 2026, with monthly workshops on handling complaints. It is to produce a unified service guide, a quality checklist and evaluation indicators. Saber listed services already online, including real-estate tax, complaints, building-violation settlements and cemetery and parking bookings.
 
 </div>
 
@@ -1319,7 +1319,7 @@ Summarised under [AI](#ai).
 
 **[A/HRC/63/L.25 - Implications of artificial intelligence for the promotion and protection of human rights (draft resolution)](https://documents.un.org/api/symbol/access?s=A/HRC/63/L.25&l=en&t=pdf)** — UN Human Rights Council, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-Draft as tabled: human oversight and remedy for AI decisions, DPI and open models, a panel at HRC 65.
+A draft resolution on the implications of artificial intelligence for human rights, A/HRC/63/L.25, was tabled at the UN Human Rights Council's 63rd session on 28 September 2026 by 13 sponsors including Egypt, Algeria, Cameroon and Tunisia. It covers human oversight of and remedy for AI-made decisions, digital public infrastructure and open models, and calls for a panel discussion at the 65th session. This is the draft as tabled, not the adopted text.
 
 </div>
 
@@ -1327,7 +1327,7 @@ Draft as tabled: human oversight and remedy for AI decisions, DPI and open model
 
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
-Egypt and Bangladesh steer first HRC resolution on AI and human rights, by consensus; capacity-building focus.
+Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
 
 </div>
 
@@ -1437,7 +1437,7 @@ InteLogix opened an artificial-intelligence delivery hub in Cairo, inaugurated b
 
 **[Egypt expands digital transformation across gov't, industry, trade: Officials at FDC Summit](https://english.ahram.org.eg/News/577224.aspx)** — Al-Ahram (Ahram Online), 22 September 2026
 
-TradeTech sandbox due October 2026; capital-increase service links 8 agencies; AI incentives for factories.
+Egyptian officials at the FDC Summit in Cairo on 22 September 2026 said the communications ministry aims to offer more than 100 government services on the Digital Egypt platform by 2026. The investment and foreign trade ministry said it will launch TradeTech, a regulatory sandbox for trade technology, in October 2026, and cited a digital capital-increase service linking eight agencies; the industry ministry offered incentives for factories adopting AI.
 
 </div>
 
@@ -1469,7 +1469,7 @@ After Orange Group's chief executive met President El-Sisi, the operator announc
 
 **[وعود الرقمنة تعجز عن إخفاء أزمات التعليم وفاتورة التطوير التي تطارد الأسر](https://egyptwindow.net/article/4906806)** — نافذة مصر, 12 September 2026
 
-Tablets for about 700,000 secondary pupils a year, over 1.2m devices announced, equity still unmet.
+An opinion column in Egypt Window, published as the school year opened on 12 September 2026, questions Egypt's education digitisation. It notes the education minister's 4 September pledge of free tablets for about 700,000 secondary pupils a year, over 1.2 million devices in total, and coding classes for 800,000 pupils, and argues that devices alone do not secure equal access given connection costs and teacher shortages.
 
 </div>
 
@@ -1521,7 +1521,7 @@ Egypt is expanding artificial-intelligence and cybersecurity training inside its
 
 **[ICT Minister, SLA President Witness Signing of Cooperation Protocol on Digital Transformation, AI Capacity Building](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432)** — Ministry of Communications and Information Technology (Egypt), 31 August 2026
 
-NTI and State Lawsuits Authority sign a protocol launching a second cohort of AI Ambassadors.
+Egypt's National Telecommunication Institute and the State Lawsuits Authority signed a cooperation protocol on 31 August 2026 covering training in digital transformation, artificial intelligence and cybersecurity for the authority's counsellors. It continues the AI Ambassadors Program, whose second cohort is now under way. No protocol number, cost or date of effect is given.
 
 </div>
 
@@ -1577,7 +1577,7 @@ Egypt's national telecommunication institute, the communications ministry's capa
 
 **[Egypt invests up to EGP 1m per trainee in the Digilians digital-skills programme](https://english.ahram.org.eg/News/577047.aspx)** — Ahram Online, 20 September 2026
 
-EGP 500,000-1m per trainee, state-paid; 40,000 applied, 1,674 admitted; 50+ employers at October 2026 jobs event.
+Egypt pays training costs of EGP 500,000 to EGP 1 million per participant in its presidential Digilians digital-skills initiative, ICT ministry adviser Hesham Farouk said on 19 September 2026. Tracks cover AI, data science, software, digital arts and cybersecurity; about 40,000 applied for the first cohort and 1,674 were accepted. More than 50 companies are expected at an October jobs event.
 
 </div>
 
@@ -1621,7 +1621,7 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 
 **[Governing AI-driven digital transformation in public healthcare: assessing administrative readiness and institutional capacity in Egypt's health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full)** — Frontiers in Digital Health, 3 September 2026
 
-387 health administrators surveyed across 24 governorates; readiness model explains 68% of variance.
+A peer-reviewed study in Frontiers in Digital Health, published on 3 September 2026, assesses whether Egypt's public health institutions are ready for AI-enabled digital transformation. The authors surveyed 387 health administrators and policymakers across 24 governorates and interviewed 18 senior officials and experts; their readiness model explains 68 per cent of the variance in transformation success.
 
 </div>
 
@@ -1639,7 +1639,7 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 
 **[Year-End Post-Distribution Monitoring Report of UNHCR's Multi-Purpose Cash Assistance to Refugees in Egypt](https://data.unhcr.org/en/documents/details/114784)** — UNHCR Egypt, 28 February 2025
 
-UNHCR's own PDM survey — 393 of 434 sampled MPCA households interviewed, 99% could buy previously unaffordable items.
+UNHCR Egypt paid bi-monthly multi-purpose cash through Egypt Post Office branches to an average of 24,335 refugee and asylum-seeker households in 2024, raising transfer values by about 32% to between EGP 1,125 and EGP 3,435 a month. Its December 2024 monitoring survey reached 393 of 434 sampled households; 99% said the cash let them buy items they previously could not afford.
 
 </div>
 
@@ -1655,7 +1655,7 @@ UNHCR's own PDM survey — 393 of 434 sampled MPCA households interviewed, 99% c
 
 **[وزارة النقل تطلق خدمة الإتاحة الرقمية لذوي الهمم عبر موقعها الإلكتروني](https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148)** — اليوم السابع (Youm7), 17 September 2026
 
-Text-to-speech, speech-to-text, sign-language interpreter and dyslexia tools on mot.gov.eg, built with the ICT ministry.
+Egypt's Ministry of Transport added accessibility tools for people with disabilities to its website, mot.gov.eg, reported on 17 September 2026, working with the ICT ministry and the National Academy of IT for Persons with Disabilities. The tools include text-to-speech, speech-to-text, a sign-language interpreter, dyslexia fonts and a reading mask; the ministry plans to extend them to its affiliated bodies' sites.
 
 </div>
 
@@ -1669,7 +1669,7 @@ Text-to-speech, speech-to-text, sign-language interpreter and dyslexia tools on 
 
 **[ITIDA, GIZ launch ICT Inclusion Playbook to advance disability inclusion](https://egyptian-gazette.com/technology/itida-giz-launch-ict-inclusion-playbook-to-advance-disability-inclusion/)** — Egyptian Gazette, 26 September 2026
 
-14 ICT firms incl. IBM, Microsoft, DXC co-design disability-hiring practices over 15 workshops; Fit For Life consults.
+Egypt's Information Technology Industry Development Agency and GIZ Egypt launched an initiative in which 14 ICT companies, including IBM, Microsoft, DXC and Orange Business, will co-develop a playbook for recruiting and including persons with disabilities. The consultancy Fit For Life will run 15 workshops and sessions. No funding figure is given.
 
 </div>
 
@@ -1711,7 +1711,7 @@ Egypt's prime minister witnessed the signing of a letter of intent between the c
 
 **[مصر تشعل سباق مراكز بيانات الذكاء الاصطناعي بين واشنطن وبكين ..وخبراء مصر أمام فرصة ذهبية](https://www.alnaharegypt.com/1196580)** — النهار (Al-Nahar Egypt), 20 September 2026
 
-Experts Wael Badawi and Ghada Amer urge Egypt to play Huawei and US bids off for tech transfer; HiCA Data delegation.
+Egypt's communications minister, Raafat Hindy, signed a memorandum with China on cloud computing, data centres, semiconductors and cybersecurity during President Xi Jinping's visit, and then received a US data-centre consortium. Huawei had earlier offered to build AI data centres using 1,408 Ascend 950 chips within 12 months; Nvidia, AMD and Microsoft have formed a rival US bid.
 
 </div>
 

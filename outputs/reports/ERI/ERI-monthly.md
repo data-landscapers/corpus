@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ERI
 ledger_rows: 3
 not_held: 23
-record: 07d63beeae91
+record: 6c649cc02f84
 ---
 
 # Eritrea: monthly update, September – October 2026
@@ -49,7 +49,7 @@ record: 07d63beeae91
 
 **[Eritrea — Technology (Education Profile)](https://education-profiles.org/sub-saharan-africa/eritrea/~technology)** — UNESCO GEM Report — Profiles Enhancing Education Reviews (PEER), 2 September 2026
 
-2018-2022 sector plan ties ICT rollout to solar power; 50.3% of Eritreans have electricity access.
+UNESCO's education profile for Eritrea describes technology in education under the 2018–2022 National Education Sector Plan, which uses terms such as ICT, e-learning and distance learning without defining them. The 1997 Constitution mentions technology only in connection with science, arts and sports. The profile is on a legacy site that is no longer updated.
 
 </div>
 

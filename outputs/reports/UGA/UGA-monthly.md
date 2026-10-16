@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: UGA
 ledger_rows: 68
 not_held: 11
-record: b5064ec89058
+record: 7f8acc2b090b
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -129,7 +129,7 @@ Uganda is developing an artificial intelligence strategy aimed at building natio
 
 **[URA unveils data driven tax compliance strategy for FY2026/27](https://eagle.co.ug/2026/09/14/ura-unveils-data-driven-tax-compliance-strategy-for-fy2026-27/)** — Eagle Online, 14 September 2026
 
-URA's FY2026/27 compliance risk strategy uses taxpayer, transaction and sector data to target evasion.
+The Uganda Revenue Authority began implementing its taxpayer compliance risk management strategy and compliance improvement plan for 2026/27. It will use taxpayer records, transaction data and sector trends to target evasion, inaccurate declarations, non-registration and late filing, and prioritises compliance with the EFRIS e-invoicing system and digital tax stamps.
 
 </div>
 
@@ -143,7 +143,7 @@ URA's FY2026/27 compliance risk strategy uses taxpayer, transaction and sector d
 
 **[Government Launches National Communication Policy 2026](https://ict.go.ug/media/news/government-launches-national-communication-policy-2026)** — Ministry of ICT and National Guidance (Uganda), 13 October 2026
 
-Common standards for MDAs and local governments; crisis communication, access to information, citizen feedback.
+Uganda's Minister of ICT and National Guidance, Justine Kasule Lumumba, launched the National Communication Policy, 2026 in Kampala on 13 October 2026. It sets common communication standards for ministries, agencies and local governments, covering crisis communication, access to public information and citizen feedback, and requires each to adopt and budget for an aligned communication strategy.
 
 </div>
 
@@ -173,7 +173,7 @@ Uganda’s communications regulator published the text of its suspension directi
 
 **[Uganda's central bank to probe claims mobile money users are paying off strangers' loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/)** — Kikubolane, 15 September 2026
 
-BoU opens a probe as MPs allege wallet deductions from non-consenting guarantors; digital loans up 110.8%.
+Bank of Uganda governor Michael Atingi-Ego told a parliamentary committee on 14 September 2026 that the bank will investigate claims that mobile money operators it supervises, MTN and Airtel, helped digital lenders recover unpaid loans from the wallets of people listed as guarantors without consent. Standalone digital lenders fall under the finance ministry, not the central bank.
 
 </div>
 
@@ -181,7 +181,7 @@ BoU opens a probe as MPs allege wallet deductions from non-consenting guarantors
 
 **[MTN, Airtel deny deducting customers' money without consent](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html)** — PML Daily, 16 September 2026
 
-Both operators tell COSASE their lending is unsecured and unguaranteed, and ask UCC to block unlicensed apps.
+MTN Uganda and Airtel Uganda told Parliament's public enterprises committee, reported on 16 September 2026, that they do not deduct customers' money without consent or require loan guarantors, and that they only provide platforms for licensed lenders. They asked the Uganda Communications Commission to block unlicensed lending apps. The committee has summoned 58 online lending companies over recoveries from people named as guarantors without consent.
 
 </div>
 
@@ -217,7 +217,7 @@ Uganda's communications regulator said it is reviewing its enforcement against u
 
 **[Press Release on Illegal Wi-Fi Hotspots](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)** — Uganda Communications Commission, 13 October 2026
 
-About 4,000 unlicensed resellers; UGX 148bn yearly tax loss claimed; URA import block, nationwide take-down imminent.
+The Uganda Communications Commission said on 13 October 2026 that about 4,000 unlicensed operators resell public Wi-Fi at UGX 1,000 per GB against UGX 2,000 from licensed providers, costing about UGX 148 billion a year in tax. The Uganda Revenue Authority will block equipment imports by unlicensed operators, and a nationwide exercise to take down installations and seize routers is imminent.
 
 </div>
 
@@ -233,7 +233,7 @@ About 4,000 unlicensed resellers; UGX 148bn yearly tax loss claimed; URA import 
 
 **[Three arrested over alleged fake news, personal data offences on social media](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media)** — Nilepost, 1 September 2026
 
-Kampala police hold three over July's fake-news and data offences; charges can carry up to 10 years.
+Kampala police confirmed on 1 September 2026 that three men are held at Jinja Road Police Station over alleged fake news and unlawful obtaining or disclosure of personal data on social media in July. The case rests on Uganda's Computer Misuse Act, whose offences carry up to 10 years in prison. Police have not named the posts, platforms, victims or charges.
 
 </div>
 
@@ -271,7 +271,7 @@ Uganda's communications regulator launched a child online protection campaign at
 
 **[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
 
-Juba MoU sets real-time epidemiological data sharing and joint surveillance on the South Sudan-Uganda border.
+South Sudan and Uganda's health ministers signed a memorandum of understanding in Juba on cross-border health security, reported on 8 September 2026. It provides for real-time sharing of epidemiological information, mutual outbreak notification, joint contact tracing and surveillance, biospecimen transfer and harmonised screening at points of entry.
 
 </div>
 
@@ -285,7 +285,7 @@ Juba MoU sets real-time epidemiological data sharing and joint surveillance on t
 
 **[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
 
-Third SSRA–URA MoU adds e-permit enforcement and customs digital interoperability; three-layer oversight.
+The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
 
 </div>
 
@@ -301,7 +301,7 @@ Third SSRA–URA MoU adds e-permit enforcement and customs digital interoperabil
 
 **[URA engages manufacturers on new tax reforms, digital systems and import fee changes](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/)** — Mulengera News, 11 September 2026
 
-eTax2 build began February 2026; TIN retired for NIN and BRN across the tax register.
+The Uganda Revenue Authority told manufacturers on 11 September 2026 that its eTax2 platform, in development since February 2026, will be web-only and will replace Tax Identification Numbers with National Identification Numbers and Business Registration Numbers. URA said the change is meant to fix duplicate and fragmented records in the taxpayer register.
 
 </div>
 
@@ -355,7 +355,7 @@ Prices published with the Ugandan launch put a residential 100 Mbps package at S
 
 **[UETCL in Spotlight Over Uganda-Tanzania Fibre Connection](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection)** — Nile Post, 4 September 2026
 
-Parliament questions UETCL's cancelled open bid for the Uganda-Tanzania fibre link amid Shs77bn arrears.
+Uganda's parliamentary committee on state enterprises questioned the Uganda Electricity Transmission Company (UETCL) over the cancellation of open bidding for a partner to commercialise its fibre network. The energy ministry directed the termination in 2026 and Samanga Utilities was then considered for a Uganda–Tanzania fibre link, following a presidential directive of August 2025 seeking cheaper internet routes than those through Kenya.
 
 </div>
 
@@ -397,7 +397,7 @@ Airtel Uganda launched Starlink satellite-to-mobile service, giving compatible s
 
 **[Museveni Orders Cancellation of UTel Deal, Calls Investors ‘Bafere’ Over Missing $25 Million](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million)** — Nile Post, 9 October 2026
 
-State House meeting 6 Oct; RCC never paid initial $25m of $225m; 60/40 stake; Cabinet paper on state-funded revival.
+Uganda's President Yoweri Museveni ordered the cancellation of the government's agreement with Rowad Capital Commercial to revive Uganda Telecom at a State House meeting on 6 October 2026, according to unnamed meeting sources. The investor had not paid the initial US$25 million of a US$225 million package in four years. Ministries are to prepare a Cabinet paper on state funding for the revival.
 
 </div>
 
@@ -413,7 +413,7 @@ State House meeting 6 Oct; RCC never paid initial $25m of $225m; 60/40 stake; Ca
 
 **[Blogs: Plan now for infrastructure to power AI](https://www.newvision.co.ug/category/blogs/plan-now-for-infrastructure-to-power-ai-NV_242203_102026)** — New Vision, 10 October 2026
 
-Opinion: a 10-15-year national compute programme led by NITA-U; third data centre planned for Entebbe, recovery in Jinja.
+Godfrey Mutabazi, director of Net Studios Africa, argues in a New Vision opinion column that Uganda needs a 10–15-year national compute and data-centre programme. He notes that the national backbone connects more than 1,600 government sites and that the 2025/26–2029/30 strategic plan provides for a third national data centre in Entebbe, with disaster recovery in Jinja.
 
 </div>
 
@@ -461,7 +461,7 @@ The Uganda Bankers' Association counted 6,533 cyber and fraud incidents in the f
 
 **[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-URA and KRA still enforce Crawford Capital's e-Permit collections at borders after the 12 May 2026 US sanctions.
+The Capital Times reports that Uganda's and Kenya's revenue authorities still enforce e-Permit collections at border points for Crawford Capital, a firm the United States sanctioned on 12 May 2026 over diverting South Sudanese public funds. The UK-registered company collects a dollar charge on imports bound for South Sudan; documents cited show the Uganda Revenue Authority shares customs data with South Sudan's revenue authority but do not show a direct contract.
 
 </div>
 
@@ -475,7 +475,7 @@ URA and KRA still enforce Crawford Capital's e-Permit collections at borders aft
 
 **[URA tightens net on undeclared foreign income, offers window to regularise](https://www.vividvoicenews.com/2026/09/13/ura-tightens-net-on-undeclared-foreign-income-offers-window-to-regularise/)** — VividVoice, 13 September 2026
 
-URA matching TINs to foreign assets from shared data, with a voluntary window to mid-2027.
+The Uganda Revenue Authority has begun sending notices to taxpayers whose names and tax numbers have been matched to foreign income or assets through international data exchange under the Convention on Mutual Administrative Assistance in Tax Matters. Affected residents have until mid-2027 to make voluntary disclosures and amend three years of returns before the data are used for audits and investigations.
 
 </div>
 
@@ -503,7 +503,7 @@ Uganda's IT authority is building a digital signature and document-authenticatio
 
 **[News: NIRA to register learners, correct identity errors in December](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)** — New Vision, 1 October 2026
 
-December LC-level drive for learners without NINs and record corrections; UGHub links NIRA to over 150 MDAs.
+Uganda's National Identification and Registration Authority announced on 1 October 2026 a nationwide exercise in December, run at local council level, to register schoolchildren without National Identification Numbers and correct errors in identity records. At the same event the national IT authority said its UGHub links NIRA's register to more than 150 government bodies, banks and telecoms for real-time verification.
 
 </div>
 
@@ -527,7 +527,7 @@ Uganda's cabinet approved phasing out the standalone taxpayer identification num
 
 **[Minister Musasizi Explains Why NIN Is to Be Used as TIN as ICPAU Commits to Enforce AI Adoption in Accountancy Sector](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/)** — Mulengera News, 3 September 2026
 
-Finance minister: NIN does not replace the TIN; the two must be made to read each other.
+Uganda's finance minister, Henry Musasizi, said on 3 September 2026 that Cabinet's decision of 31 August does not replace the tax identification number with the national identification number, but requires the two to be interoperable. He said linking them would show who of taxable age and income is missing from the tax register.
 
 </div>
 
@@ -559,7 +559,7 @@ Uganda's internal affairs minister launched the integration of the national iden
 
 **[Linking NINs to Tax Records Will Tackle Identity Theft, Says URA](https://nilepost.co.ug/business/374460/linking-nins-to-tax-records-will-tackle-identity-theft-says-ura)** — Nile Post, 30 September 2026
 
-Fingerprint consent at URA counters; NIRA biodata fields pulled named, marital data excluded; entity numbers via URSB.
+The Uganda Revenue Authority is moving to the National Identification Number as individuals' tax identifier, first mapping existing tax numbers to NINs, then taking fingerprint consent at URA service points. Basic biodata such as name, date of birth and photograph is drawn from the national identity authority's servers. Companies receive an entity number from the business registry, URSB.
 
 </div>
 
@@ -587,7 +587,7 @@ Uganda's identification authority holds 36.15 million people on the national reg
 
 **[ANDREW BABA: URA's TIN to NIN Migration, The Benefits and Risks of Uganda's New Tax Identity System](https://insightpostug.com/andrew-baba-uras-tin-to-nin-migration-the-benefits-and-risks-of-ugandas-new-tax-identity-system/)** — Insight Post Uganda, 2 September 2026
 
-Analyst on folding the TIN into the NIN: fewer duplicate identities, more concentrated exposure.
+Analyst Andrew Baba reviews the Uganda Revenue Authority's move from the Tax Identification Number to the National Identification Number, run with the national registration authority NIRA. He says a single identifier should reduce duplicate tax identities and ease verification across government, but concentrates privacy, access and cybersecurity risks. No dates or figures for the migration are given.
 
 </div>
 
@@ -617,7 +617,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[NIRA staffing crisis leaves millions of IDs gathering dust](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/)** — The Independent, 9 September 2026
 
-5.4m printed IDs uncollected; 418 of 571 posts filled, 201 client-facing; NIRA asks for 998.
+Uganda's National Identification and Registration Authority told Parliament on 8 September 2026 that about 5.4 million printed ID cards are uncollected, of roughly 15.4 million printed. Its executive director said 418 of 571 approved posts are filled, only 201 client-facing, and asked for 998 posts plus at least 2,700 temporary staff for 18 months. About 10.9 million Ugandans remain unregistered.
 
 </div>
 
@@ -645,7 +645,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[NIRA on Spot as New National IDs Fail to Work for SIM Registration, Banks and Driving Permits](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/)** — Business Focus, 11 September 2026
 
-New Ugandan IDs still inactive; MTN the only partner fully onboarded to NIRA's March 2026 data-exchange module.
+Uganda's new national identity cards cannot yet be used for SIM registration, banking or driving permits because partner institutions have not connected to the registration authority NIRA's data-exchange module, MPs heard on 9 September 2026. NIRA's director Rosemary Kisembo said the module began on 31 March 2026 and MTN was the first partner onboarded. The committee chair asked NIRA not to recall old IDs and to set activation timelines.
 
 </div>
 
@@ -673,7 +673,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Secure documents to be printed locally](https://www.newvision.co.ug/category/news/secure-documents-to-be-printed-locally-NV_241521_092026)** — New Vision, 29 September 2026
 
-New factory to print ID cards, passports, permits, land titles and ballot papers; NIRA supplied security features.
+Uganda Security Printing Company said on 29 September 2026 that it will print the country's secure documents locally at a new factory, using security features supplied by the National Identification and Registration Authority for the national ID card. It named passports, driving permits, land titles, education certificates and ballot papers among its products. No start date or cost is given.
 
 </div>
 
@@ -717,7 +717,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Mobile Money Toll Payments Coming to Kampala-Entebbe Expressway](https://chimpreports.com/mobile-money-toll-payments-coming-to-kampala-entebbe-expressway/)** — ChimpReports, 11 September 2026
 
-Test runs done, dedicated lanes coming; platforms, fees and start date undisclosed amid Egis contract scrutiny.
+Uganda's Ministry of Works and Transport said on 10 September 2026 that test runs of mobile money toll payment on the Kampala-Entebbe Expressway were complete, with dedicated lanes to follow. It did not say which platforms, what charges or when. Parliament's infrastructure committee is examining the reported UGX 122 billion five-year toll operation contract with Egis.
 
 </div>
 
@@ -739,7 +739,7 @@ MTN Uganda and the Ministry of Works and Transport launched Mobile Money toll pa
 
 **[Afreximbank issues a $29 million guarantee to scale EAC Customs Bond, easing movement of goods across East Africa](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/)** — African Export-Import Bank (Afreximbank), 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
 
-US$29m guarantee to BSMART Technology for the digital EAC Customs Bond; piloted in Uganda 2025, launched March 2026.
+Afreximbank issued a US$29m guarantee to BSMART Technology on 22 September 2026 to scale the EAC Customs Bond, a digital regional customs guarantee that removes the need to post paper bonds at each border. The bond was piloted from August 2025 and launched at the East African Community heads of state summit in March 2026.
 
 </div>
 
@@ -753,7 +753,7 @@ US$29m guarantee to BSMART Technology for the digital EAC Customs Bond; piloted 
 
 **[Pride Bank and Interswitch join forces to deliver easier, accessible banking solutions to customers](https://www.independent.co.ug/pride-bank-and-interswitch-join-forces-to-deliver-easier-accessible-banking-solutions-to-customers/)** — The Independent (Uganda), 22 September 2026
 
-Quickteller agency banking via 21,000+ agents; Verve cards on 650+ ATMs and 20,000+ POS points.
+Uganda's Pride Bank launched a partnership with Interswitch that offers selected banking services through Interswitch's network of more than 21,000 Quickteller agents and issues Pride Bank Verve debit cards. Agents will handle deposits, withdrawals, loan repayments and bill payments. No financial terms are given.
 
 </div>
 
@@ -769,7 +769,7 @@ Quickteller agency banking via 21,000+ agents; Verve cards on 650+ ATMs and 20,0
 
 **[Trade Ministry launches digital system to register sugarcane farmers](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026)** — New Vision, 3 September 2026
 
-SIIMS to register every sugarcane grower and centralise cultivation, milling and market data.
+Uganda's Ministry of Trade, Industry and Cooperatives launched the Sugar Industry Information Management System with the National Sugar Stakeholders Council to register every sugarcane grower. Trade minister Sanjay Tanna said the satellite-linked system will gather data across cultivation, milling and markets. He also warned millers against unilateral deductions from the agreed cane price of UGX 125,000. The exact launch date is not given.
 
 </div>
 
@@ -783,7 +783,7 @@ SIIMS to register every sugarcane grower and centralise cultivation, milling and
 
 **[Parliament Probes Digital Plate Crisis as Delays Cost Uganda Shs4bn Weekly](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/)** — Business Times Uganda, 6 September 2026
 
-Daily plate output down from about 350 to 100; MPs put the cost at over Shs4bn a week, first-registration fee Shs714,300.
+Uganda's parliamentary Committee on Physical Infrastructure began a three-week inquiry on 2 September 2026 into delays in issuing digital number plates, which its chairman Mwine Mpaka said cost more than Shs4 billion a week. The committee heard daily plate output had fallen from about 350 to 100; first registration now costs Shs714,300, against about Shs137,000 for the old plates. The contractor, Joint Stock Company Global Security, is to be questioned.
 
 </div>
 
@@ -791,7 +791,7 @@ Daily plate output down from about 350 to 100; MPs put the cost at over Shs4bn a
 
 **[MPs grill digital plate makers over Shs4b weekly losses](https://www.monitor.co.ug/uganda/news/national/mps-grill-digital-plate-makers-over-shs4b-weekly-losses-5612862)** — Daily Monitor (Uganda), 29 September 2026
 
-Output down from 350 to under 100 sets a day (June 2026); Shs4bn weekly losses claimed; URA asked for figures.
+Uganda's parliamentary committee on physical infrastructure questioned Joint Stock Company Global Security, the Russian-based maker of digital number plates under the Intelligent Transport Monitoring System, on 28 September 2026 over revenue losses of at least Shs4 billion a week. The committee chair said daily output had fallen from 350 to under 100 sets, and some upcountry centres had stopped issuing plates for lack of kits.
 
 </div>
 
@@ -799,7 +799,7 @@ Output down from 350 to under 100 sets a day (June 2026); Shs4bn weekly losses c
 
 **[Ministry clears digital number plate backlog amid Parliamentary scrutiny](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106)** — Daily Monitor (Uganda), 30 September 2026
 
-Kampala bond fitment down from 19 days (Dec 2025) to 2 (Sep 2026); supply restored Aug 2026; taxes up 17% in year one.
+Uganda's Ministry of Works and Transport told Parliament's physical infrastructure committee that the digital number plate backlog has been cleared after component supplies were restored in August 2026. Average fitting time at Kampala bonds fell from 19 days in December 2025 to two days in September 2026; the ministry linked the registration system to a 17% rise in taxes.
 
 </div>
 
@@ -807,7 +807,7 @@ Kampala bond fitment down from 19 days (Dec 2025) to 2 (Sep 2026); supply restor
 
 **[MPs Verify, Confirm Digital Number Plate System is Working During Naguru Command Centre Visit](https://nilepost.co.ug/news/375252/mps-verify-confirm-digital-number-plate-system-is-working-during-naguru-command-centre-visit)** — Nile Post, 3 October 2026
 
-Live tracking demo for MPs; 337 of 375 stolen vehicles recovered per police; data said to be stored in Uganda.
+Uganda's parliamentary Committee on Physical Infrastructure watched police track four Parliament vehicles live through the Digital Number Plate System at the Naguru command centre. Police said 337 of 375 stolen vehicles had been tracked and recovered. MPs asked for faster response to tamper alerts, and the Ministry of Works and Transport is linking the registration database to owners' contact details.
 
 </div>
 
@@ -845,7 +845,7 @@ Uganda's parliamentary Physical Infrastructure Committee ordered two directors o
 
 **[Whistleblowers ask Museveni, IGG to halt Shs158bn digital plates deal](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/)** — Daily Star Uganda, 27 September 2026
 
-Claim of paying twice for ITMS registration functions and vendor lock-in; IGG, PPDA and COSASE review sought.
+Whistleblowers asked President Museveni, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158 billion Ministry of Works and Transport purchase of vehicle registration components from Global Security, the contractor for Uganda's digital number plates. They say it pays twice for functions already covered and gives one foreign vendor the registry and its data. The paper says the claims were not independently established.
 
 </div>
 
@@ -859,7 +859,7 @@ Claim of paying twice for ITMS registration functions and vendor lock-in; IGG, P
 
 **[Uganda: Judiciary Digitises Advocates, Bailiffs Records to Improve Access](https://allafrica.com/stories/202610090157.html)** — allAfrica, 9 October 2026
 
-Chief Registrar's files all scanned; searchable data capture next, first phase due end of October 2026.
+Uganda's Judiciary is digitising the Chief Registrar's records on advocates and bailiffs. When Chief Registrar Agnes Alum inspected the work at the Court of Appeal building in Kampala, all files had been scanned; capturing their data into a searchable system comes next, with the first phase due by the end of October 2026.
 
 </div>
 
@@ -873,7 +873,7 @@ Chief Registrar's files all scanned; searchable data capture next, first phase d
 
 **[Government Moves to Reduce Cost of Obtaining Land Titles](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles)** — Nile Post, 11 October 2026
 
-Fees over Shs2.5m to surveyors cited; blockchain records, drones against overlapping titles; surveyors to be registered.
+Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems let land-title applicants enter their data at district level and have titles printed without travelling between offices. She said some landowners had paid more than Shs2.5 million to surveyors and land boards, and that surveyors will be registered in the ministry's database.
 
 </div>
 
@@ -889,7 +889,7 @@ Fees over Shs2.5m to surveyors cited; blockchain records, drones against overlap
 
 **[Chil Group Launches Digital Platform Linking Rural Hospitals to Urban Specialists](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists)** — Nilepost, 3 September 2026
 
-Virtual ward rounds for 260+ rural wards; per-bed cryptographic tokens and AI triage on live vitals.
+Ugandan digital health company Chil Group launched an E-Ward Round Platform on 3 September 2026 that lets urban specialists hold virtual ward rounds with rural inpatient teams. It links to Chil's free electronic medical record software and bedside devices, uses an AI model to rank urgent cases, and gives each bed a cryptographic token to hide patient identities. The company says its partner facilities have more than 260 wards.
 
 </div>
 
@@ -903,7 +903,7 @@ Virtual ward rounds for 260+ rural wards; per-bed cryptographic tokens and AI tr
 
 **[Alarm raised as 50% of Zombo PDM tablets fail to function](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/)** — ChimpReports, 11 September 2026
 
-31 of 61 parish tablets dead; UGX 12.6bn revolving fund outstanding, UGX 13m recovered.
+Thirty-one of the 61 Parish Development Model tablets issued in Uganda's Zombo District do not work, forcing parishes back to paper records, district officials said. The tablets handle data capture, disbursement tracking, biometric verification and the Wendi digital wallet, and ICT ministry rules bar local repair. Zombo has disbursed UGX 21.6bn to 22,263 beneficiaries since 2022.
 
 </div>
 
@@ -925,7 +925,7 @@ An inter-ministerial meeting put Uganda's Parish Development Model at 3,571,108 
 
 **[URA lauds Manufacturers on DTS success](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success)** — Nile Post, 15 September 2026
 
-Unit stamp prices, 1,680 registered manufacturers and 13 excisable products, eight years into Uganda's DTS.
+The Uganda Revenue Authority told the Uganda Manufacturers Association in Kampala that more than 1,680 manufacturers and importers are registered on its Digital Tax Stamps portal, run by SICPA Uganda since 2018, Nile Post reported on 15 September 2026. The authority said the stamps and its EFRIS e-invoicing system supported nearly 40% growth in domestic revenue in 2024/25, and that stamp costs are tax-deductible.
 
 </div>
 
@@ -939,7 +939,7 @@ Unit stamp prices, 1,680 registered manufacturers and 13 excisable products, eig
 
 **[Health: Kiryandongo health facilities struggle with EMR system](https://www.newvision.co.ug/category/health/kiryandongo-health-facilities-struggle-with-e-NV_241031_092026)** — New Vision (Uganda), 21 September 2026
 
-Clinic data capture at every stage lengthens queues; staff cite connectivity, power, too few computers.
+Health workers in Uganda's Kiryandongo district told a public meeting on 19 September 2026 that the Ministry of Health's electronic medical record system is slowing care, citing poor connectivity, unstable power and too few computers. Nyakadoti Health Centre III, serving about 40,000 people including refugees, reported long queues, and the district hospital said services stop when power fails.
 
 </div>
 
@@ -953,7 +953,7 @@ Clinic data capture at every stage lengthens queues; staff cite connectivity, po
 
 **[Judiciary Cleans Case Records Ahead of ECCMIS Rollout in Nine Courts](https://ugandaradionetwork.com/s/judiciary-cleans-case-records-ahead-of-eccmis-rollout-in-nine-courts/)** — Uganda Radio Network, 10 October 2026
 
-Mpigi High Court and eight magistrates' courts reconcile paper files 6-16 October 2026 before going electronic.
+Uganda's Judiciary is reconciling physical case files with its existing case administration system in nine courts, including Mpigi High Court, from 6 to 16 October 2026. The exercise prepares those courts to move onto the Electronic Court Case Management Information System (ECCMIS). No go-live date is given.
 
 </div>
 
@@ -969,7 +969,7 @@ Mpigi High Court and eight magistrates' courts reconcile paper files 6-16 Octobe
 
 **[Musasizi Tasks Accountants on Fiscal Discipline, Accountability](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability)** — Ministry of Finance, Planning and Economic Development (Uganda), 3 September 2026
 
-Finance minister to the ICPAU seminar, 3 Sept 2026: e-government procurement, budget-execution controls, ATMS.
+Uganda's finance minister, Henry Musasizi, told the 31st annual seminar of the Institute of Certified Public Accountants of Uganda in Entebbe that accountants must support fiscal discipline and evidence-based decisions. He said the government is implementing reforms including electronic government procurement to improve budget outcomes.
 
 </div>
 
@@ -983,7 +983,7 @@ Finance minister to the ICPAU seminar, 3 Sept 2026: e-government procurement, bu
 
 **[Uganda: UPF Set to Launch AI Chatbot to Improve Access to Police Services](https://allafrica.com/stories/202609030622.html)** — Nile Post, syndicated by allAfrica, 3 September 2026
 
-UPF says the chatbot will supplement, not replace, the 999 emergency line.
+The Uganda Police Force said it will introduce an AI chatbot giving the public guidance on emergencies and police services, demonstrated at its ICT facility at Kikandwa in Wakiso District. Officers said it will be rolled out across the country and will not replace the 999 emergency line. No launch date is given.
 
 </div>
 
@@ -997,7 +997,7 @@ UPF says the chatbot will supplement, not replace, the 999 emergency line.
 
 **[UPPC opens free digital access to the Uganda Gazette](https://uppc.go.ug/news/uppc-opens-free-digital-access-uganda-gazette)** — Uganda Printing and Publishing Corporation (UPPC), 7 October 2026
 
-Government Printer drops E-Gazette fees; archive digitised to 1902; 80% of products digital by 2028.
+The Uganda Printing and Publishing Corporation, the government printer, announced on 7 October 2026 that the E-Gazette is now free to the public on its website. Gazette editions back to 1902 have been digitised, and its 2023–2028 strategic plan aims to digitise 80% of its products and systems by 2028.
 
 </div>
 
@@ -1015,7 +1015,7 @@ Government Printer drops E-Gazette fees; archive digitised to 1902; 80% of produ
 
 **[Govt rolls out digital tool to improve financial accountability in Hoima city](https://www.newvision.co.ug/category/news/govt-rolls-out-digital-tool-to-improve-financ-NV_241123_092026)** — New Vision (Uganda), 23 September 2026
 
-SCART web accounting tool at 66 units so far (25 lower local governments, 41 health units and schools).
+Uganda's Ministry of Local Government launched SCART, a web-based accounting and reporting tool, in Hoima city's two divisions on 22 September 2026. The ministry said it has reached 66 units so far: 25 lower local governments and 41 health units and schools. It standardises accounting, budgeting and financial reporting.
 
 </div>
 
@@ -1033,7 +1033,7 @@ SCART web accounting tool at 66 units so far (25 lower local governments, 41 hea
 
 **[Ugandan Startup SANDI AI Wins Shs190M GoGettaz Agripreneur Prize](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize)** — Nilepost, 5 September 2026
 
-US$50,000 top prize at AFS Forum Kigali for AI credit scoring of smallholders who lack collateral.
+Ugandan startup SANDI AI Technologies won the 2026 GoGettaz Agripreneur Prize of US$50,000, about UGX 190 million, at the Africa Food Systems Forum in Kigali, reported on 5 September 2026. Founded by Sandra Nabakka, it uses AI and farm data to assess smallholders without collateral for unsecured loans. The date of the award is not given.
 
 </div>
 
@@ -1061,7 +1061,7 @@ The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Tr
 
 **[Govt Eyes AI Tool to Tackle Rising Nude, Explicit Content on Social Media](https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media)** — Nilepost, 25 September 2026
 
-Minister says UCC procuring AI filter for explicit content, must handle local languages; cost, vendor, date undisclosed.
+Uganda's ICT minister, Justine Kasule Lumumba, said the Uganda Communications Commission is procuring an AI system to identify and filter sexually explicit and other harmful content before it is distributed online, and that it must understand local languages. The system, its cost, supplier and deployment date are not given.
 
 </div>
 
@@ -1075,7 +1075,7 @@ Minister says UCC procuring AI filter for explicit content, must handle local la
 
 **[Smarter parking at Entebbe: UCAA rolls out AI camera system, digital payments](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)** — Daily Monitor, 9 October 2026
 
-entervo V3 plate recognition; 2% USSD fee; plate, time and payment logs kept indefinitely, open to police on request.
+The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe International Airport with AI-assisted number-plate recognition, supplied through local contractor Samanga Utilities on Scheidt & Bachmann software, and mobile-money payment. The authority said it keeps vehicle registration records, timestamps and payment logs indefinitely and releases them to security agencies and police under statutory guidelines.
 
 </div>
 
@@ -1107,7 +1107,7 @@ A Nigerian technology company has acquired a Ugandan banking-software firm, brin
 
 **[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
 
-AEDIB 2.0 (2026-28) in Tanzania, Uganda, Senegal: WiT platform plus 12 EU-Africa ventures; bids close 23 Oct 2026.
+Enabel, the Belgian development agency, issued tender specifications for a consultancy to build a Women in Tech community platform and source 12 EU-Africa ventures under its AEDIB 2.0 programme in Tanzania, Uganda and Senegal for 2026 to 2028. The procedure is negotiated without prior publication; bids close on 23 October 2026. No contract value is stated.
 
 </div>
 
@@ -1121,7 +1121,7 @@ AEDIB 2.0 (2026-28) in Tanzania, Uganda, Senegal: WiT platform plus 12 EU-Africa
 
 **[UCC seeks partner to accelerate local ICT innovations under third e-Booster phase](https://pmldaily.com/news/2026/09/ucc-seeks-partner-to-accelerate-local-ict-innovations-under-third-e-booster-phase.html)** — PML Daily, 29 September 2026
 
-Re-advertised call for one implementing partner for Phase III, FY2026/27; closes 12 Oct 2026; UCUSAF-funded.
+The Uganda Communications Commission re-advertised on 29 September 2026 a call for one implementing partner to run Phase III of its National e-Booster Programme in 2026/27, funded through the levy-based universal service fund UCUSAF. The partner will select, mentor and incubate local ICT innovations and assess the national innovation ecosystem; proposals close on 12 October. No budget is given.
 
 </div>
 
@@ -1155,7 +1155,7 @@ Re-advertised call for one implementing partner for Phase III, FY2026/27; closes
 
 **[TVET Council approves new technician diplomas in cyber security and data science](https://www.ugstandard.com/tvet-council-approves-new-technician-diplomas-in-cyber-security-and-data-science/)** — UG Standard, 14 September 2026
 
-TVET Council approves national technician diplomas in cyber security and data science, pending accreditation.
+Uganda's TVET Council approved new national technician diploma curricula including cyber security, digital forensics and governance, and data science and analytics, alongside engineering and construction courses, its executive director Moses Kasakya said. Colleges may teach them only once accredited, and institutions have been asked to apply.
 
 </div>
 
@@ -1169,7 +1169,7 @@ TVET Council approves national technician diplomas in cyber security and data sc
 
 **[Govt introduces AI training in TVET](https://www.newvision.co.ug/category/education/govt-introduces-ai-training-in-tvet-NV_240632_092026)** — New Vision, 15 September 2026
 
-AI folded into Uganda's 17 new TVET technician diplomas; trainers warn of a knowledge gap and missing labs.
+Uganda has added artificial intelligence modules to 17 new specialised technician diploma curricula in its revised technical and vocational training system. A trainer orientation ran from 14 to 18 September 2026 at Nakawa Vocational College. Trainers said instructors need to understand the technology first and that institutions lack the laboratories and computers to teach the modules.
 
 </div>
 
@@ -1217,7 +1217,7 @@ Makerere University and Japan's international cooperation agency explored streng
 
 **[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-GSMA's own account: refugee women in Ethiopia twice as likely to hold SIMs in others' names; Mbera fieldwork.
+The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
 
 </div>
 
@@ -1239,7 +1239,7 @@ GSMA research finds identity rules for SIM registration push refugee women in Et
 
 **[Buhadyo Primary School Smart Classroom Enhancing E-Learning in Butaleja District](https://ict.go.ug/media/news/buhadyo-primary-school-smart-classroom-enhancing-e-learning-in-butaleja-district)** — Ministry of ICT and National Guidance, Uganda, 23 September 2026
 
-Smart Villages pilot with Huawei: solar-powered smart classroom, tower and household power in an unserved district.
+Uganda's ICT ministry said a smart classroom at Buhadyo Primary School in Butaleja District, built with Huawei under the Smart Villages pilot, lets pupils join the same e-learning lessons as Nakasero Primary School in Kampala. The pilot adds a telecoms tower and a 120-panel solar system that also powers 25 households. No cost is given.
 
 </div>
 
@@ -1255,7 +1255,7 @@ Smart Villages pilot with Huawei: solar-powered smart classroom, tower and house
 
 **[Free internet access excites traders in Oyam market](https://observer.ug/technology/free-internet-access-excites-traders-in-oyam-market/)** — The Observer (Uganda), 14 September 2026
 
-12-site rural community broadband network in Oyam in technical testing; a vendor's Shs5,000 daily data spend gone.
+A rural community broadband network built by the Women of Uganda Network with netLabs!UG and the Internet Society Foundation is in technical testing at 12 sites in Uganda's Oyam district. Market traders already use it instead of buying mobile data; one vendor put her former spend at about Shs5,000 a day. More than 60 people have received digital literacy training.
 
 </div>
 
@@ -1273,7 +1273,7 @@ Smart Villages pilot with Huawei: solar-powered smart classroom, tower and house
 
 **[UBOS partners with Samia Bugwe and Tieng Adhola to improve community data](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/)** — Uganda Broadcasting Corporation, 6 September 2026
 
-UBOS MoUs with the Samia Bugwe and Tieng Adhola cultural institutions on births, deaths and community data.
+The Uganda Bureau of Statistics signed memoranda of understanding with the Samia Bugwe and Tieng Adhola cultural institutions to collect and share community data, with a focus on births and deaths. The bureau will help the institutions set up statistics units and train staff. No cost or timetable is given.
 
 </div>
 

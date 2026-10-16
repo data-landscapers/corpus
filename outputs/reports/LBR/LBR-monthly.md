@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: LBR
 ledger_rows: 31
 not_held: 6
-record: 0d01b0ee7d06
+record: af12b5405151
 ---
 
 # Liberia: monthly update, September – October 2026
@@ -123,7 +123,7 @@ Liberia's telecommunications authority consulted internet service providers, mob
 
 **[CDC Youth League Accuses LWSC Boss, Gender Minister of Exposing Vulnerable Children's Data, Demands Probe](https://thepeoplenewsonline.com/cdc-youth-league-accuses-lwsc-boss-gender-minister-of-exposing-vulnerable-childrens-data-demands-probe/)** — The People News Online, 12 September 2026
 
-Youth wing demands a probe after a spreadsheet of abuse survivors' details was posted on Facebook.
+Liberia's opposition CDC youth league demanded an investigation into Liberia Water and Sewer Corporation head Mohammed Ali and gender minister Gbeme Horace-Kollie. Its statement of 12 September 2026 alleges Ali posted on Facebook a spreadsheet of names, addresses, ages and schools of child abuse and neglect survivors, supplied by the minister. The allegations are the league's.
 
 </div>
 
@@ -131,7 +131,7 @@ Youth wing demands a probe after a spreadsheet of abuse survivors' details was p
 
 **[MGCSP Admits Authentic Beneficiary Data Leaked, Launches Internal Investigation](https://smartnewsliberia.com/mgcsp-admits-authentic-beneficiary-data-leaked-launches-internal-investigation/)** — Smart News Liberia, 14 September 2026
 
-Ministry confirms leaked Save the Future Project records are authentic and opens an internal investigation.
+Liberia's Ministry of Gender, Children and Social Protection confirmed on 13 September 2026 that beneficiary records from its Save the Future Project circulating on social media are authentic and were never authorised for release, and opened an internal investigation. The records concern children removed from street situations; the ministry rejected claims they list survivors of gender-based violence and said it had shared collated data with funding partners.
 
 </div>
 
@@ -147,7 +147,7 @@ Ministry confirms leaked Save the Future Project records are authentic and opens
 
 **[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GIN/" title="GIN">Guinea</a>
 
-Eight delegations from seven countries in one week; IremboGov at 248 services, certificates near tripled.
+Rwanda Cooperation said it hosted eight government delegations from seven countries in one week in late August 2026: Liberia, Kenya, Nigeria, Benin, Gambia, Gabon and Guinea. A delegation from Gabon's interior ministry spent nearly two weeks studying e-government, AI policy, digital civil registration and identification, cybersecurity, data protection and system interconnection.
 
 </div>
 
@@ -183,7 +183,7 @@ The Liberia Revenue Authority signed a memorandum of engagement to help the Gamb
 
 **[Bank of Ghana and Liberia central bank strengthen partnership on payment systems](https://www.ghanaguardian.com/bank-of-ghana-and-liberia-central-bank-strengthen-partnership-on-payment-systems/)** — Ghana Guardian, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
 
-Liberian delegation under Governor Saamoi studies how GhIPSS was built, 2026-10-01, under a 2026 central-bank MoU.
+A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visited the Bank of Ghana in Accra on 1 October 2026 to learn how Ghana set up its interbank payment and settlement system, GhIPSS, to inform Liberia's own payment-systems work. The visit falls under a capacity-building memorandum the two central banks signed earlier in 2026.
 
 </div>
 
@@ -223,7 +223,7 @@ Liberia's Ministry of Education opened a five-day session in Kakata to develop a
 
 **[Liberia: LTA Embarrasses Boakai](https://allafrica.com/stories/202609040173.html)** — allAfrica.com (The New Republic Liberia), 3 September 2026
 
-Acting chair Massaquoi summoned to the Executive Mansion over undisclosed sector revenue.
+The New Republic reported on 3 September 2026 that Liberia's President Joseph Boakai summoned the Telecommunications Authority's acting chairperson, Clarence Massaquoi, to the Executive Mansion over undisclosed revenue activities. Civil society and the media have sought disclosure of sector revenue for months. Commissioners can be removed only for established cause; the report rests on unnamed sources.
 
 </div>
 
@@ -237,7 +237,7 @@ Acting chair Massaquoi summoned to the Executive Mansion over undisclosed sector
 
 **[Ten CSOs Form Digital Rights Coalition](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html)** — Liberian Observer, 24 September 2026
 
-MOU agenda: narrow the Cybercrime Act, curb interception, court sign-off for shutdowns; assembly due within 90 days.
+Ten Liberian civil society organisations signed a memorandum founding the Digital Advocacy and Rights Alliance. It commits them to press for an independent data protection authority, amendments narrowing the Cybercrime Act of 2025 and tighter oversight of state interception, and court authorisation for internet shutdowns. A founding assembly is due within 90 days; the signing date is not given.
 
 </div>
 
@@ -263,7 +263,7 @@ Ten Liberian civil society organisations, including CENTAL and the Liberia Equal
 
 **[Liberia's Free-Speech Balancing Act and What the Cybercrime Law Actually Changed](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/)** — FrontPageAfrica, 11 September 2026
 
-Printed Act marked approved 2026-07-03; Sections 15-20 read against Article 15 and the ECOWAS SERAP ruling.
+A FrontPageAfrica commentary compares Liberia's Cybercrime Act of 2025, whose printed text is marked approved on 3 July 2026, with the 2019 Kamara Abdullah Kamara Act that decriminalised sedition and criminal libel of the President. It sets out the Act's speech-related offences, including cyberstalking and harmful data messages, and a judge-ordered interception power. It also notes a pending amendment, introduced in March 2026, to criminalise insulting language online.
 
 </div>
 
@@ -271,7 +271,7 @@ Printed Act marked approved 2026-07-03; Sections 15-20 read against Article 15 a
 
 **[Liberia's New Cybercrime Law: The New Digital Police Power and the Fight Over Free Speech](https://smartnewsliberia.com/liberias-new-cybercrime-law-the-new-digital-police-power-and-the-fight-over-free-speech/)** — Smart News Liberia, 19 September 2026
 
-First enforcement test: EPS director Sam Gaye warns a manipulated video of VP Koung is prosecutable.
+Liberia's Cybercrime Act of 2025 has been published as approved law, and its first public test is a warning by the Executive Protection Service director, Sam Gaye, that makers of manipulated material meant to insult or harass could be prosecuted. It followed an arrest over a doctored video of Vice-President Jeremiah Kpan Koung. The article weighs this against the constitution's free-expression guarantee.
 
 </div>
 
@@ -321,7 +321,7 @@ A Monrovia criminal court gave the police a last opportunity to justify holding 
 
 **[MOE Pushes for Real-Time School Data System](https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html)** — Liberian Observer, 30 September 2026
 
-Consultation 28-29 Sep 2026 with AU and UNICEF; AU peer review found fragmented data, no standards; shift off paper.
+Liberia's Ministry of Education held a consultation on 28 and 29 September 2026, with the African Union and UNICEF, to draft an Education Management Information System policy. The ministry wants schools to feed real-time data on student and teacher attendance to a central dashboard. An AU peer review had found fragmented data collection and inconsistent standards.
 
 </div>
 
@@ -337,7 +337,7 @@ Consultation 28-29 Sep 2026 with AU and UNICEF; AU peer review found fragmented 
 
 **[Liberia: NIR: US$54.7M Digital ID Deal Awaits Legislative Approval](https://frontpageafricaonline.com/liberia-nir-us54-7m-digital-id-deal-awaits-legislative-approval/)** — FrontPage Africa, 8 September 2026
 
-US$54.7m OeSD concession signed but not in force; NIR says implementation waits on legislative rectification.
+Liberia's US$54.7 million concession with Austria's OeSD International to rebuild the national identification system has been signed but cannot be implemented until the legislature ratifies it, National Identification Registry director Andrew Peters said. The project covers biometric enrolment and deduplication, digital and physical credentials and a digital identity platform. No signature date is given.
 
 </div>
 
@@ -353,7 +353,7 @@ Liberia's identification registry plans one system linking national ID with civi
 
 **[Liberia: Free National ID Cards Only for Disadvantaged Liberians - Says National Identification Registry](https://allafrica.com/stories/202609170254.html)** — allAfrica.com, 17 September 2026
 
-Free cards limited to disadvantaged and unemployed; employed Liberians and foreign residents to pay.
+Liberia's National Identification Registry said on 15 September 2026 that free national ID cards will go only to disadvantaged and unemployed citizens, with employed Liberians and foreign residents paying a fee. It is seeking about US$54.7m for the programme, which starts once an agreement before the legislature is ratified. Its director said the financier, OSD, will invest in ICT infrastructure while the registry keeps custody of personal data.
 
 </div>
 
@@ -361,7 +361,7 @@ Free cards limited to disadvantaged and unemployed; employed Liberians and forei
 
 **[NIR Seeks Legislative Approval for US$54.7M Identity Deal - Liberia news The New Dawn Liberia, premier resource for latest news](https://www.thenewdawnliberia.com/nir-seeks-legislative-approval-for-us54-7m-identity-deal/)** — Liberia news The New Dawn Liberia, premier resource for latest news, 17 September 2026
 
-BOT structure named: OeSD invests US$54.7m, operates to recover it, then transfers to government.
+Liberia's National Identification Registry asked the legislature on 16 September 2026 to speed ratification of a US$54.7 million identity deal with OeSD International. Under the build, operate and transfer arrangement OeSD would fund biometric enrolment and infrastructure, run it to recover the investment, then hand it to government. No signature date is given.
 
 </div>
 
@@ -375,7 +375,7 @@ BOT structure named: OeSD invests US$54.7m, operates to recover it, then transfe
 
 **[Liberia: President Boakai Declares Wednesday, September 16, as “National Identification Day](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)** — APO Group - Africa Newsroom, 16 September 2026
 
-Proclamation makes 16 September a working holiday; about 720,000 enrolled in the NBIS.
+Liberia's President Joseph Nyuma Boakai declared 16 September 2026 National Identification Day, a working holiday, by proclamation. The proclamation states that about 720,000 people are enrolled in the National Biometric Identification System, run by the National Identification Registry set up by law in 2011, and that every person in Liberia is required to enrol.
 
 </div>
 
@@ -391,7 +391,7 @@ Proclamation makes 16 September a working holiday; about 720,000 enrolled in the
 
 **[Finance Minister Highlights Economic Growth, Revenue Mobilization, Infrastructure, Digital Payments and Diaspora Capital at Washington Conference](https://capefm-tv.com/finance-minister-highlights-economic-growth-revenue-mobilization-infrastructure-digital-payments-and-diaspora-capital-at-washington-conference/)** — Cape 96.5 FM/TV, 26 September 2026
 
-IIPS: 1.5m+ transactions worth L$1.4bn and US$9m in first three months; National Electronic Payment Switch next.
+Liberia's Finance Minister Augustine Kpehe Ngafuan told a diaspora conference in Washington that the Inclusive Instant Payment System, launched by the Central Bank of Liberia in December 2025, processed more than 1.5 million transactions worth over L$1.4 billion and US$9 million in its first three months. It first linked the Lonestar MTN and Orange mobile-money platforms. A national electronic payment switch is the longer-term aim.
 
 </div>
 
@@ -413,7 +413,7 @@ Liberia's finance minister told the diaspora conference near Washington that the
 
 **[Multinational - Government Payments (P2G & G2P) Digitization in Mano River Union - Liberia - Project Completion Report](https://www.afdb.org/en/documents/multinational-government-payments-p2g-g2p-digitization-mano-river-union-liberia-project-completion-report)** — African Development Bank Group, 27 September 2026
 
-AfDB closes out DIGIGOV Liberia: LRA-hosted e-payment for customs tax, DFS consumer protection; abstract only.
+The African Development Bank published on 27 September 2026 the completion report for DIGIGOV Liberia, part of its project to digitise government payments in the Mano River Union. The project aimed to set up an e-payment system hosted by the Liberia Revenue Authority for customs tax collection, build local digital finance capacity and run consumer-protection work. The summary page gives no results or figures.
 
 </div>
 
@@ -443,7 +443,7 @@ Liberia's instant payment system has processed more than 5.3 million transaction
 
 **[Liberia: Financial Inclusion Must Not Become Debt Inclusion](https://allafrica.com/stories/202609010311.html)** — allAfrica.com (Liberian Observer), 1 September 2026
 
-NPL ratio 12.9% (2025), down from 19.1% (2024), ahead of the 9-11 September loans conference.
+A Liberian Observer editorial argues that Liberia's newly launched Enhanced Collateral Registry, which lets borrowers pledge inventory, equipment and livestock, needs clear loan terms and real-time credit reporting alongside it. It cites a non-performing loan ratio of 19.1 per cent in 2024 and 12.9 per cent in 2025, ahead of a national conference on bad loans on 9–11 September.
 
 </div>
 
@@ -457,7 +457,7 @@ NPL ratio 12.9% (2025), down from 19.1% (2024), ahead of the 9-11 September loan
 
 **[Liberia's New Collateral Registry Opens Credit Doors for SMEs, Tightens Lending Controls](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/)** — FrontPageAfrica, 4 September 2026
 
-CBL trains 35 lenders; registration mandatory, links planned to national ID, land and traffic registries.
+The Central Bank of Liberia said registration in its enhanced collateral registry is now mandatory for financial institutions, at a training for about 35 loan and credit officers. The registry covers movable and immovable assets, allows remote public searches for prior liens, and is designed to link to the national ID registry, the land registry and the traffic system.
 
 </div>
 
@@ -517,7 +517,7 @@ Liberia's Ministry of Gender, Children and Social Protection launched an upgrade
 
 **[IAA Goes Digital](https://www.thenewdawnliberia.com/iaa-goes-digital/)** — The New Dawn Liberia, 9 September 2026
 
-Forward notice of the 2026-09-10 launch at Monrovia City Hall; names the system ASUFT, a misrendering.
+Liberia's Internal Audit Agency was due to launch its own custom software for planning, running and tracking internal audits across government on 10 September 2026 at Monrovia City Hall, Information Minister Jerolinmek Matthew Piah announced. It is the agency's first in-house digital system. No cost is given.
 
 </div>
 
@@ -525,7 +525,7 @@ Forward notice of the 2026-09-10 launch at Monrovia City Hall; names the system 
 
 **[IAA Launches Digital System to Strengthen Public Sector Audits](https://www.liberianobserver.com/business/iaa-launches-digital-system-to-strengthen-public-sector-audits/article_401f3132-cbd4-4d00-bd3c-1bc92b0d0412.html)** — Liberian Observer, 11 September 2026
 
-Second newsroom account of the launch, naming the platform iSoft; settles the ASUFT naming conflict.
+Liberia's Internal Audit Agency launched the iSoft Public Sector Internal Audit Management System in Monrovia, reported on 11 September 2026. Director General David Kermah said it replaces paper-based auditing and lets auditors plan audits, track findings and management responses, and produce reports from a central dashboard. No cost is given.
 
 </div>
 
@@ -533,7 +533,7 @@ Second newsroom account of the launch, naming the platform iSoft; settles the AS
 
 **[Liberia: IAA Launches Digital Platform To Improve Audit Processes](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/)** — FrontPageAfrica, 11 September 2026
 
-IAA launches the iSoft public-sector internal audit management system; the agency's own release, carried verbatim.
+Liberia's Internal Audit Agency launched iSoft, a public-sector audit management system, in Monrovia on 10 September 2026 to replace paper-based audits. Director General David Kemah said auditors can plan audits, track findings and management responses, and produce real-time reports, with an audit trail for every government institution. No cost or supplier is given.
 
 </div>
 
@@ -547,7 +547,7 @@ IAA launches the iSoft public-sector internal audit management system; the agenc
 
 **[GAC Automates Public Audits](https://www.thenewdawnliberia.com/gac-automates-public-audits/)** — The New Dawn Liberia, 23 September 2026
 
-World Bank-supported; KPMG contracted to build the audit software; disclosed at MoI briefing 22 Sep 2026.
+Liberia's General Auditing Commission has begun automating public-sector audits, with KPMG contracted to build audit software under a World Bank-supported project, deputy information minister Daniel Sanoe said at a press briefing on 22 September 2026. No contract value or timetable is given.
 
 </div>
 
@@ -579,7 +579,7 @@ Liberia's online police clearance system has generated more than US$200,000 sinc
 
 **[Liberia: AYEE Summit Opens in Monrovia, Elevate Liberia Program Launched](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/)** — FrontPage Africa, 11 September 2026
 
-LTA MoU for 15 county digital hubs, over US$200,000 committed; 156 public high schools to get high-speed internet.
+Liberia Telecommunications Authority chairman Clarence Massaquoi told the AYEE youth summit in Monrovia on 11 September 2026 that the regulator has an agreement with the youth and sports ministry to set up 15 digital hubs, one per county, backed by more than US$200,000. He also announced a partnership with the education ministry to connect 156 public high schools to high-speed internet.
 
 </div>
 
@@ -625,7 +625,7 @@ The University of Liberia, with UNDP support, is running national stakeholder co
 
 **[Gender Minister Signs Partnership with Cybastion Institute of Technology and Cisco System](https://elbcnews.com/2026/09/23/gender-minister-signs-partnership-with-cybastion-institute-of-technology-and-cisco-system/)** — Liberia Broadcasting System (LBS), 23 September 2026
 
-Signed 22 Sep 2026 in New York; five hubs in Lofa, Margibi, Grand Bassa, Bong, Montserrado over 36 months.
+Liberia's gender minister Gbeme Horace-Kollie signed a partnership with Cybastion Institute of Technology and Cisco Systems in New York on 22 September 2026 to build digital skills among women. Cybastion is to build, equip and run five technology and business hubs for women in Lofa, Margibi, Grand Bassa, Bong and Montserrado counties over 36 months. No cost is given.
 
 </div>
 
@@ -647,7 +647,7 @@ Liberia's gender ministry signed an agreement with Cybastion, on the sidelines o
 
 **[10 Years of Impact: Helping Africa Foundation calls for nationwide expansion of Nyamransa ICT model](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html)** — ModernGhana, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
 
-Education ministry to discuss a policy scaling the Nyamransa ICT lab nationwide; 19+ labs in Ghana, Gambia, Liberia.
+The US-based Helping Africa Foundation marked its tenth anniversary in Gbawe, Ghana, and called on African governments to expand its youth ICT laboratory model. It has supported more than 19 ICT demonstration labs in Ghana, The Gambia and Liberia, with more planned in Tanzania and Zanzibar. Ghana's education ministry will discuss a scale-up policy; no funding is stated.
 
 </div>
 
@@ -665,7 +665,7 @@ Education ministry to discuss a policy scaling the Nyamransa ICT lab nationwide;
 
 **[LTA Begins Decentralizing Its Regulatory And Consumer Protection Services](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services)** — News Public Trust, 5 September 2026
 
-First LTA office outside Monrovia, opened 4 Sep 2026; consumer complaints and community-radio compliance.
+The Liberia Telecommunications Authority opened its first service centre outside Monrovia, in Buchanan, Grand Bassa County, on 4 September 2026, offering regulatory and consumer-protection services locally. Chairman Clarence Massaquoi said the centre will also help community radio stations with compliance and serve as a model for other counties.
 
 </div>
 
@@ -679,7 +679,7 @@ First LTA office outside Monrovia, opened 4 Sep 2026; consumer complaints and co
 
 **[IIC, CENTAL Step Up Transparency, Anti-Corruption Drive](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/)** — Global News Network Liberia, 6 September 2026
 
-11 Aug-2 Sept 2026 round hit NIR, LISGIS, LACE and LWSC; three more agencies scheduled 8-10 September.
+Liberia's Independent Information Commission and the anti-corruption group CENTAL ran a Freedom of Information Act compliance campaign from 11 August to 2 September 2026 at the national identification registry, the statistics institute LISGIS, LACE and the water corporation. Agencies were told to appoint information officers, set up request review bodies and publish budgets and contracts proactively. Three more agencies were scheduled for 8-10 September.
 
 </div>
 

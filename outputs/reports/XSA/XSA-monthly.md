@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XSA
 ledger_rows: 13
 not_held: 2
-record: e6f4ea3ffe13
+record: d47ba110b75b
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -65,7 +65,7 @@ record: e6f4ea3ffe13
 
 **[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Manamela sets five priorities for SADC universities, among them a regional higher education data system.
+South Africa's higher education minister, Buti Manamela, told a meeting of SADC university vice-chancellors in Johannesburg on 31 August 2026 that the region must build its own computing capacity, datasets, African-language technologies and cybersecurity. He set five priorities, including agreement on a regional higher education data system, to show results by the SADC ministers' meeting in June 2027.
 
 </div>
 
@@ -73,7 +73,7 @@ Manamela sets five priorities for SADC universities, among them a regional highe
 
 **[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-SADC vice-chancellors meet at Wits, 31 Aug to 1 Sep 2026, on a regional higher education data system.
+University leaders, government representatives, the SADC Secretariat and the Southern African Regional Universities Association met at Wits University on 31 August–1 September 2026. They discussed the SADC higher education strategy, a proposed SADC University of Transformation, a regional higher education data system and micro-credentials. No design, cost or timetable for the data system is given.
 
 </div>
 
@@ -87,7 +87,7 @@ SADC vice-chancellors meet at Wits, 31 Aug to 1 Sep 2026, on a regional higher e
 
 **[CRASA Committee for the 2026/27 Financial Year Meets in Gaborone, 2-4 September](https://events.crasa.org/events/)** — Communications Regulators' Association of Southern Africa (CRASA), 2 September 2026
 
-First ordinary in-person meeting of the financial year, convened to advance the CSPC Workplan 2026/27.
+The Communications Regulators' Association of Southern Africa held the first in-person meeting of a committee for its 2026/27 financial year in Gaborone, Botswana, from 2 to 4 September 2026. The meeting was convened to advance the committee's 2026/27 workplan; no agenda items or outcomes are given.
 
 </div>
 
@@ -95,7 +95,7 @@ First ordinary in-person meeting of the financial year, convened to advance the 
 
 **[46th Ordinary Meeting of the CRASA Executive Committee (EXCO)](https://events.crasa.org/event/46th-ordinary-meeting-of-the-crasa-executive-committee-exco/)** — CRASA, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
 
-CRASA's own listing dates the 46th ExCo 14-16 September 2026 at Makokola Club, Mangochi; rescheduled on venue.
+The Communications Regulators' Association of Southern Africa held the 46th ordinary meeting of its Executive Committee on 14–16 September 2026 at Makokola Club, Mangochi, hosted by the Malawi Communications Regulatory Authority. The meeting had been rescheduled because of venue availability. The listing gives no outcomes.
 
 </div>
 
@@ -109,7 +109,7 @@ CRASA's own listing dates the 46th ExCo 14-16 September 2026 at Makokola Club, M
 
 **[SADC positions Southern Africa as an Integrated Investment destination at AIM Congress 2026](https://sadc.int/latest-news/sadc-positions-southern-africa-integrated-investment-destination-aim-congress-2026)** — Southern African Development Community (SADC), 9 September 2026
 
-SADC and CoSSE at AIM Congress Dubai, 7-9 September 2026, promoting regional capital-market integration.
+The Southern African Development Community and the Committee of SADC Stock Exchanges attended AIM Congress 2026 in Dubai from 7 to 9 September, promoting Southern Africa as an integrated investment destination. A joint investment forum presented regional capital-market integration as a way to finance infrastructure, industrialisation and energy. No deals or sums are reported.
 
 </div>
 
@@ -123,7 +123,7 @@ SADC and CoSSE at AIM Congress Dubai, 7-9 September 2026, promoting regional cap
 
 **[SADC PACs sub committees examine 3 dimensions of future public accountability](https://eswatinipositivenews.online/sadc-pacs-sub-committees-examine-3-dimensions-of-future-public-accountability/)** — Eswatini Positive News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
 
-SADCOPAC: executives see spending in real time, PACs 12-24 months later; AI screening urged for audit.
+A commission of the SADC public accounts committees' 18th annual conference in Eswatini reported that governments may see spending data almost in real time while parliamentary oversight can come 12 to 24 months later. It considered using data analytics and AI to screen transactions for auditors, with secure oversight access to financial systems, and warned against treating technology as a substitute for human judgement.
 
 </div>
 
@@ -145,7 +145,7 @@ Public accounts committees across SADC adopted 32 resolutions in Eswatini on 16 
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -189,7 +189,7 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 
 **[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
 
-Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
 </div>
 
@@ -217,7 +217,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
 
-Online sales piloted in Zambia; phone verification in 8 countries; 340,000 cards and US$27m premiums in 2025.
+COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
 
 </div>
 

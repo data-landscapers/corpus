@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NER
 ledger_rows: 18
 not_held: 1
-record: 80154e83d38b
+record: ca5596c0cf72
 ---
 
 # Niger: monthly update, September – October 2026
@@ -81,7 +81,7 @@ record: 80154e83d38b
 
 **[Conclusions du Conseil des ministres du jeudi 10 septembre 2026](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1303-conclusions-du-conseil-des-ministres-du-jeudi-10-septembre-2026)** — Gouvernement du Niger, 10 September 2026
 
-Council of Ministers 2026-09-10: draft ordinance on electronic press, decree on foreign-press accreditation.
+Niger's Council of Ministers adopted on 10 September 2026 a draft ordinance creating a legal regime for the electronic press and a draft decree on press correspondents and accreditation of foreign media. The government said online media had lacked a legal framework, preventing the communication observatory ONC from regulating them. The decree gives the ONC an opinion on foreign-correspondent accreditation.
 
 </div>
 
@@ -103,7 +103,7 @@ The council of ministers approved an overhaul of the media regulatory framework 
 
 **[Le CFAIC plaide pour une réglementation adaptée aux réalités des Wifi Zones au Niger - Agence Nigérienne de Presse](https://anp.ne/le-cfaic-plaide-pour-une-reglementation-adaptee-aux-realites-des-wifi-zones-au-niger/)** — Agence Nigérienne de Presse, 20 September 2026
 
-Collective calls arrêté 000034 its "birth certificate" but wants fees, equipment caps and a six-month grace revisited.
+Niger's collective of community internet access providers (CFAIC-Niger) called on 20 September 2026 for Wi-Fi Zone rules that operators can realistically meet. It welcomed the order placing Wi-Fi Zones under a declaration regime but contested provisions on equipment, file-review fees, annual royalties and technical limits, and asked for six months to comply.
 
 </div>
 
@@ -119,7 +119,7 @@ Collective calls arrêté 000034 its "birth certificate" but wants fees, equipme
 
 **[AES : Création à Niamey d'une plateforme des régulateurs des médias et communication de l'espace communautaire](https://anp.ne/aes-creation-a-niamey-dune-plateforme-des-regulateurs-des-medias-et-communication-de-lespace-communautaire/)** — Agence Nigérienne de Presse, 17 September 2026
 
-AES media regulators constitutive conference, Niamey 17-18 September 2026, on informational sovereignty.
+Media and communication regulators from the Alliance of Sahel States met in Niamey on 17–18 September 2026 for the constitutive conference of a joint regulators' platform, on the theme of informational sovereignty and countering disinformation. Niger's communication ministry said the platform should share expertise and set up a common monitoring and alert mechanism on information threats.
 
 </div>
 
@@ -127,7 +127,7 @@ AES media regulators constitutive conference, Niamey 17-18 September 2026, on in
 
 **[Fin des travaux de l’assemblée générale constitutive des régulateurs de la communication AES: Le Malien Coulibaly Gaoussou devient le 1er président de la plateforme - Agence Nigérienne de Presse](https://anp.ne/fin-des-travaux-de-lassemblee-generale-constitutive-des-regulateurs-de-la-communication-aes-le-malien-coulibaly-gaoussou-devient-le-1er-president-de-la-plateforme/)** — Agence Nigérienne de Presse, 18 September 2026
 
-Mali's HAC head Coulibaly Gaoussou first president; charter signed, rules and action plan adopted, seat in Niamey.
+Media and communication regulators of the Alliance of Sahel States founded a joint platform, PAREMEC, at a constitutive assembly in Niamey that closed on 18 September 2026, with its seat in Niamey and Mali's communication authority head Coulibaly Gaoussou as first president. Recommendations to governments included laws regulating traditional and digital media, tools to monitor digital content, and a common approach to digital platforms.
 
 </div>
 
@@ -149,7 +149,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 **[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
 
-Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, border spectrum, coordinated 5G.
+The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
 </div>
 
@@ -165,7 +165,7 @@ Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, 
 
 **[Medias : Ameliorer l''ecosysteme de l''information et de la communication en temps de crise au centre d''une rencontre a Niamey](https://anp.ne/medias-ameliorer-lecosysteme-de-linformation-et-de-la-communication-en-temps-de-crise-au-centre-dune-rencontre-a-niamey/)** — Agence Nigerienne de Presse (ANP), 2 September 2026
 
-ONC monitored broadcast, online and platform content 28 August-1 September after the Niamey incident.
+Niger's communications minister Adji Ali Salatou and the national communication observatory (ONC) met media chiefs in Niamey on 2 September 2026 after the events of 28-29 August at the capital's air base. The ONC presented its monitoring of broadcast, online and platform content from 28 August to 1 September, citing an information vacuum, conflicting descriptions of the events and disinformation on social networks.
 
 </div>
 
@@ -173,7 +173,7 @@ ONC monitored broadcast, online and platform content 28 August-1 September after
 
 **[Rencontre entre le ministre charge de la Communication, le president de l''ONC et les promoteurs de medias : l''ONC devoile les conclusions d''un monitoring](https://www.lesahel.org/rencontre-entre-le-ministre-charge-de-la-communication-le-president-de-lonc-et-les-promoteurs-de-medias-lonc-devoile-les-conclusions-dun-monitoring-realise-a-la-suit/)** — Le Sahel (ONEP), 3 September 2026
 
-Monitoring of 28 August to 1 September coverage after the Niamey incidents, with old images recirculated.
+Niger's national communication observatory (ONC) presented its monitoring of coverage of the 28-29 August 2026 events in Niamey to media owners on 2 September, alongside the communications minister. It found intense information demand, an information vacuum, official and international media describing the events differently, and old images and out-of-context video circulating on social networks.
 
 </div>
 
@@ -191,7 +191,7 @@ Monitoring of 28 August to 1 September coverage after the Niamey incidents, with
 
 **[Cooperation : Algerie Telecom signe deux conventions de partenariat avec Niger Telecom et ESCEP-Niger](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/)** — Agence Nigerienne de Presse, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a>
 
-Skills Centre at ESCEP-Niger plus donated kit for a 100 Gbps Ngezam-Agadez fibre link.
+Algérie Télécom signed agreements in Niamey on 8 September 2026 with Niger Télécom and Niger's telecoms and postal school ESCEP-Niger. They cover a skills centre at the school, training for Niger Télécom staff, and donated transmission equipment for a fibre link between Ngezam and Agadez with an initial 100 Gbps capacity on Niger Télécom's national backbone. No value is given.
 
 </div>
 
@@ -209,7 +209,7 @@ Skills Centre at ESCEP-Niger plus donated kit for a 100 Gbps Ngezam-Agadez fibre
 
 **[Avec 500F bénéficiez de 3.5Go de 23H à 06H pour naviguer en toute sérénité](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf)** — Moov Africa Niger, 1 September 2026
 
-Moov Africa Niger offers a 3.5GB night bundle at roughly 143 FCFA per GB.
+Moov Africa Niger advertised a night-time mobile data bundle of 3.5GB for 500 CFA francs, usable from 23:00 to 06:00 and activated by dialling *157*7#, in a LinkedIn post on 1 September 2026. That is about 143 CFA francs per gigabyte.
 
 </div>
 
@@ -271,7 +271,7 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 
 **[Diffa : lancement de la tournee nationale de sensibilisation sur la modernisation de l''etat civil et l''identification](https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/)** — Agence Nigerienne de Presse (ANP), 3 September 2026
 
-National sensitisation tour on civil-registration and identification reform opens at Diffa under WURI-Niger.
+Niger opened a national awareness tour on civil registration, identification and the modernisation of the national identification system at Diffa on 3 September 2026. The opening workshop, chaired by the regional secretary-general, briefed institutional and community actors on reforms carried out under the World Bank-supported WURI-Niger unique identification project.
 
 </div>
 
@@ -285,7 +285,7 @@ National sensitisation tour on civil-registration and identification reform open
 
 **[Niger : l'enrôlement pour le passeport biométrique AES débute le 15 septembre 2026](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026)** — NigerDiaspora, 9 September 2026
 
-Mass AES passport enrolment from 15 September 2026; 45,000 FCFA, ECOWAS enrolment closes 10 September.
+Niger's interior ministry said mass enrolment for the Alliance of Sahel States biometric passport opens on 15 September 2026, at the territorial surveillance directorate in Niamey and regional police offices elsewhere. The passport costs 45,000 FCFA, or 29,750 FCFA for minors and students. Passports bearing the ECOWAS logo stay valid until they expire.
 
 </div>
 
@@ -293,7 +293,7 @@ Mass AES passport enrolment from 15 September 2026; 45,000 FCFA, ECOWAS enrolmen
 
 **[From ECOWAS to AES: Niger Completes Its Passport Break with the Regional Bloc](https://www.modernghana.com/news/1526691/from-ecowas-to-aes-niger-completes-its-passport.html)** — ModernGhana, 11 September 2026
 
-Tiani enrols first; five passport categories; Libyan firm Al Itissan Al-Jadeed producing; ECOWAS down to twelve.
+Niger launched its own biometric passport, with President Abdourahamane Tiani enrolled first, making it the last of the three Alliance of Sahel States members to replace the ECOWAS passport. The system has five categories, including a hajj passport, and the Libyan firm Al Itissan Al-Jadeed is involved in production. Existing ECOWAS passports remain valid.
 
 </div>
 
@@ -361,7 +361,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[Ministère de la Communication et des NTI : le nouveau ministre Hamani Kargné officiellement installé](https://www.actuniger.com/politique/22383-ministere-de-la-communication-et-des-nti-le-nouveau-ministre-hamani-kargne-officiellement-installe.html)** — ActuNiger, 24 September 2026
 
-Handover on 22 Sep; priorities: secure government intranet, rural-urban divide, start-ups, cybersecurity, post.
+Hamani Kargné took office as Niger's Minister of Communication and New Information Technologies at a handover ceremony on 22 September 2026, succeeding Adji Ali Salatou. His stated priorities include digitising public services through a secure government intranet, narrowing the digital divide between rural areas and towns, supporting start-ups and cybersecurity.
 
 </div>
 
@@ -379,7 +379,7 @@ Handover on 22 Sep; priorities: secure government intranet, rural-urban divide, 
 
 **[Citoyenneté numérique et paix : Lancement à Tillabéry de la 1ère Campagne nationale de lutte contre la désinformation](https://mcnti.gouv.ne/citoyennete-numerique-et-paix-lancement-a-tillabery-de-la-1ere-campagne-nationale-de-lutte-contre-la-desinformation/)** — MCNTI (Niger), 22 September 2026
 
-Launched 19 September at Tillabéry by NGO Jeunesse Plus with ministry backing; media-literacy workshops for youth.
+Niger's first national campaign against disinformation, under the slogan 'Check before you share', was launched in Tillabéry on 19 September 2026. It was organised by the NGO Jeunesse Plus with the support of the communication ministry, whose secretary-general presided. The campaign combines online awareness with media and information literacy workshops for local communities.
 
 </div>
 
@@ -395,7 +395,7 @@ Launched 19 September at Tillabéry by NGO Jeunesse Plus with ministry backing; 
 
 **[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a>
 
-Convention signed 8 September 2026 between ESCEP and Algerie Telecom's Skills Centers network.
+Niger's telecoms and post college ESCEP signed a convention with Algérie Télécom's Skills Centers network in Niamey on 8 September 2026, at a meeting chaired by the communication ministry's secretary-general. The agreement provides for a Skills Center at ESCEP with Algérie Télécom's support, aimed at training and the capacity of Niger's telecoms infrastructure. No cost is given.
 
 </div>
 
@@ -421,7 +421,7 @@ Niger's telecommunications and post college received an Algerian mission led by 
 
 **[Diffa : Le Niger Digital Day renforce les competences numeriques des jeunes](https://anp.ne/diffa-le-niger-digital-day-renforce-les-competences-numeriques-des-jeunes/)** — Agence Nigerienne de Presse (ANP), 3 September 2026
 
-Sixty participants at the Diffa leg of a digital-skills caravan touring all eight regions.
+Niger Digital Day, a digital-skills caravan touring Niger's eight regions, ran a two-day training for about sixty young people at the University of Diffa from 3 September 2026. The university's rector opened the session, which covered digital tools, jobs and opportunities, including AI-based tools.
 
 </div>
 

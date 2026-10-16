@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MOZ
 ledger_rows: 43
 not_held: 19
-record: 1426951fedbc
+record: 87e3e811353f
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -127,7 +127,7 @@ Mozambique is drafting a three-year operational plan to speed up the digitisatio
 
 **[Digital Inclusion in Africa: Mapping the Ecosystem Gap](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/)** — Paradigm Initiative, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NAM/" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Six-country baseline: ETH, DZA, NAM, CIV, MOZ, DRC compared on policy ambition, funding, governance, private sector.
+Paradigm Initiative published a baseline study on 22 September 2026 of digital inclusion in Ethiopia, Algeria, Namibia, Côte d'Ivoire, Mozambique and DR Congo. It compares the six countries' policy commitments, funding, governance and private-sector involvement, and notes that access remains uneven for young people, women and rural populations.
 
 </div>
 
@@ -169,7 +169,7 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 
 **[Mozambique Plans to Integrate AI into Public Finance Management Systems](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/)** — Consulting.co.mz, 12 October 2026
 
-Digital transformation plan 2026-2030 within 2026-2035 strategy; all core processes on e-SISTAFE by 2035; chatbot.
+Mozambique's government approved a Public Finance Management Strategy for 2026–2035 that includes a digital transformation plan for 2026–2030. It names AI, machine learning, data mining and the Internet of Things for treasury, debt and state-asset management, and puts all major processes on the e-SISTAFE system by 2035. The approval date is not stated.
 
 </div>
 
@@ -185,7 +185,7 @@ Digital transformation plan 2026-2030 within 2026-2035 strategy; all core proces
 
 **[Relatório de Defesa do Consumidor dos Serviços de Comunicações 2025](https://www.incm.gov.mz/wp-content/uploads/2026/08/Relatorio-de-Defesa-do-Consumidor-dos-Servicos-de-Comunicacoes-2025.pdf)** — Autoridade Reguladora das Comunicações (INCM), Moçambique, 9 September 2026
 
-Operator table behind the 391,723 complaints of 2025; a 61-case appeals docket; two postal operators filed nothing.
+Mozambique's communications regulator, INCM, reported 391,723 telecoms complaints in 2025, up about 44% from 271,993 in 2024, with 95.2% of closed complaints resolved; postal complaints fell from 276 to 258. Vodacom logged 115,100 complaints and Movitel 87,428. INCM named Tmcel, Teledata, TMT and StarTimes for closer follow-up, and two postal operators filed no returns.
 
 </div>
 
@@ -251,7 +251,7 @@ Mozambique's education ministry says its law regulating the use of artificial in
 
 **[FACIM 2026: INTIC Acelera Regulamentacao Para Proteger Cidadaos no Espaco Digital](https://www.diarioeconomico.co.mz/2026/09/01/trends/tech/facim-2026-intic-acelera-regulamentacao-para-proteger-cidadaos-no-espaco-digital/)** — Diario Economico, 1 September 2026
 
-Foreign digital-service providers must register with INTIC and declare where data are stored.
+Mozambique's ICT institute INTIC told a panel at the 61st FACIM fair in Maputo that digital platforms and intermediaries, including foreign operators serving Mozambicans, must register and declare where their data are stored. Its legal head Edson Psico said enforcing the ICT legal framework needs money, technology, staff and inspection capacity.
 
 </div>
 
@@ -259,7 +259,7 @@ Foreign digital-service providers must register with INTIC and declare where dat
 
 **[FACIM 2026: INTIC Accelerates ICT Regulation to Protect Citizens Online](https://360mozambique.com/innovation/tech/facim-2026-intic-accelerates-ict-regulation-to-protect-citizens-online/)** — 360 Mozambique, 2 September 2026
 
-INTIC's legal chief on enforcement gaps, supervisory capacity and dependence on external technology.
+Officials of Mozambique's National Institute of Information and Communication Technologies (INTIC) said at a panel during the 61st Maputo International Trade Fair that applying the country's ICT laws needs money, technology, staff and cooperation across sectors. Legal head Edson Psico named enforcement of data-protection rules, incident response and supervisory capacity as the main challenges, and said Mozambique depends on external technology.
 
 </div>
 
@@ -273,7 +273,7 @@ INTIC's legal chief on enforcement gaps, supervisory capacity and dependence on 
 
 **[Proteccao de dados nao pode travar liberdade de imprensa, alerta MISA](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/)** — Ikweli, 3 September 2026
 
-MISA warns the coming data-protection law must not become a press-freedom barrier.
+Press-freedom group MISA Mozambique said at a round table in Maputo that the forthcoming personal data protection law must not restrict freedom of expression, the press or access to information. The head of the national ICT institute INTIC, Lourino Chemane, said passing the law would only be a start, and institutions, enforcement and public awareness would need strengthening.
 
 </div>
 
@@ -281,7 +281,7 @@ MISA warns the coming data-protection law must not become a press-freedom barrie
 
 **[Mozambique | Parliament convenes extraordinary and ordinary sessions for October](https://clubofmozambique.com/news/mozambique-parliament-convenes-extraordinary-and-ordinary-sessions-for-october/)** — Club of Mozambique, 2 October 2026
 
-Personal Data Protection bill on agenda of 4th Ordinary Session opening 28 Oct 2026, among 35 initial items.
+Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Personal Data Protection draft law among 35 initial agenda items for the Assembly of the Republic's fourth ordinary session, opening on 28 October. The agenda also includes a framework law on public administration and revisions to the customs and tax procedure codes.
 
 </div>
 
@@ -297,7 +297,7 @@ Personal Data Protection bill on agenda of 4th Ordinary Session opening 28 Oct 2
 
 **[Moçambique integra projecto para avaliar maturidade digital das instituições públicas](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/)** — MZNews, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNB/" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/STP/" title="STP">São Tomé</a>
 
-PALOP project with UNU and Argentine, Portuguese partners; €124,030 from Sept 2026 to Jan 2028; 80 trainees.
+Mozambique's ICT institute, INTIC, has joined TriDigital, a project to build a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, with the United Nations University and Argentine and Portuguese partners. It runs from September 2026 to January 2028 with a budget of €124,030.
 
 </div>
 
@@ -353,7 +353,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Moçambique e Brasil aprofundam cooperação para modernizar gestão pública](https://aimnews.org/2026/09/14/mocambique-e-brasil-aprofundam-cooperacao-para-modernizar-gestao-publica/)** — Agência de Informação de Moçambique (AIM), 14 September 2026
 
-MoU signed in Maputo on 2026-09-14 covers procurement, payroll, digital transformation and admin reform.
+Mozambique's finance ministry and Brazil's Ministry of Management and Innovation in Public Services signed a memorandum of understanding in Maputo on 14 September 2026. It covers exchange of experience and staff training on public procurement, payroll management, digital transformation and administrative modernisation, with training starting immediately, finance minister Carla Loveira said.
 
 </div>
 
@@ -361,7 +361,7 @@ MoU signed in Maputo on 2026-09-14 covers procurement, payroll, digital transfor
 
 **[Cidadãos moçambicanos poderão contar com tecnologias de reconhecimento facial e dados integrados na administração pública](https://mznews.co.mz/cidadaos-mocambicanos-poderao-contar-com-tecnologias-de-reconhecimento-facial-e-dados-integrados-na-administracao-publica/)** — MZNews, 16 September 2026
 
-INTIC and Brazil's public-management ministry meet in Maputo on data governance, facial recognition, interoperability.
+Mozambique's ICT institute INTIC, led by board chairman Lourino Chemane, met Cilair Rodrigues de Abreu of Brazil's public management ministry in Maputo to discuss cooperation on data governance and protection, digital certification, interoperability and staff training. Brazil's Pix payments system, its QR-code biometric identity card and facial recognition against fraud were cited as references.
 
 </div>
 
@@ -385,7 +385,7 @@ Mozambique and Brazil signed a memorandum in Maputo on 14 September to accelerat
 
 **[KOICA - INGD Mozambique, ICT equipment for disaster risk management, 2026](https://www.undp.org/sites/g/files/zskgke326/files/2026-09/comunicado_de_imprensa-pnud_entrega_de_equipamentos.pdf)** — Programa das Nacoes Unidas para o Desenvolvimento, 9 September 2026
 
-Over US$300,000 of ICT equipment delivered in kind to Mozambique's INGD, handed over 9 September 2026.
+The UN Development Programme, with funding from the Korea International Cooperation Agency, handed over ICT equipment worth more than US$300,000 to Mozambique's National Institute for Disaster Risk Management and Reduction in Maputo on 9 September 2026. The equipment is meant to improve information management, communication and coordination in disaster risk management at national, provincial and district level.
 
 </div>
 
@@ -403,7 +403,7 @@ Over US$300,000 of ICT equipment delivered in kind to Mozambique's INGD, handed 
 
 **[Pedido de Manifestacao de Interesse: Contratacao de 10 operadores para instalacao de infraestruturas de rede de dados para digitalizacao de 15 CS (CR58A000141/PS/No0025/FG/2026)](https://360mozambique.com/wp-content/uploads/2026/09/concurso-ministerio-da-saude-tender-notice-an-nci-mo-ambique-2026-5.pdf)** — Ministerio da Saude (MISAU), 2 September 2026
 
-Ten operators sought to wire 15 Maputo health centres under Global Fund RSSH line 74; bids close 18 September 2026.
+Mozambique's health ministry is seeking ten operators to help its ICT staff install data networks at 15 health centres in Maputo city and province, under a Global Fund grant for 2024–2026. The work lasts three months at a daily rate of 600 meticais per operator, and expressions of interest close on 18 September 2026.
 
 </div>
 
@@ -417,7 +417,7 @@ Ten operators sought to wire 15 Maputo health centres under Global Fund RSSH lin
 
 **[Manifestação de Interesse — Selecção de Parceiro Estratégico para a Moçambique Telecom, S.A. (Tmcel)](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/)** — Ministério das Finanças; Ministério das Comunicações e Transformação Digital (Mozambique), 12 September 2026
 
-Resolution 67/2026 of 21 August authorises partial sale of State shares; 15-day EOI window, submissions via IGEPE.
+Mozambique's finance ministry and communications ministry invited national and foreign bidders to express interest, within 15 days, in becoming strategic partner of the state telecoms operator Tmcel, possibly including a partial sale of the state's shares. The process was authorised by Government Resolution 67/2026 of 21 August; no amount is stated.
 
 </div>
 
@@ -431,7 +431,7 @@ Resolution 67/2026 of 21 August authorises partial sale of State shares; 15-day 
 
 **[Comunicado: INCM desenvolve sistema para maior transparência nas tarifas e pacotes de dados](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/)** — Instituto Nacional das Comunicações de Moçambique (INCM), 17 September 2026
 
-Regulator's own text, dated Maputo 17 September 2026: Tariff Management System operational from November 2026.
+Mozambique's communications regulator, INCM, said on 17 September 2026 that it is developing a Tariff Management System, due to operate from November 2026, to monitor and compare operators' tariffs and data packages. The move follows consumer complaints that mobile data runs out too fast; the regulator is also restructuring telecoms packages.
 
 </div>
 
@@ -491,7 +491,7 @@ Mozambique's regulator validated its Internet for All strategy, which targets 95
 
 **[Governo reforça medidas de segurança cibernética em Moçambique](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/)** — Agencia de Informacao de Mocambique, 8 October 2026
 
-Laws 13/2026 and 14/2026 in force; CSIRT network across government, MoRENet, INCM, four provinces; strategy to 2030.
+Mozambique's communications and digital transformation minister, Américo Muchanga, said on 7 October 2026 that the Cybersecurity Law (Law 13/2026) and Cybercrimes Law (Law 14/2026) of 1 July are in force. A national network of incident response teams now covers government, the regulator INCM, the telecoms sector and four provinces, and the national cybersecurity strategy is being updated for 2026-2030.
 
 </div>
 
@@ -523,7 +523,7 @@ Mozambique's communications minister said the national cybersecurity strategy fo
 
 **[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
 </div>
 
@@ -559,7 +559,7 @@ Mozambique's digital transformation agency trained 25 technicians from nine publ
 
 **[CSM Tech bags TMA mandate to build digital trade observatory for Mozambique’s Beira Corridor](https://techdisruptormedia.com/featured/csm-tech-bags-tma-mandate-to-build-digital-trade-observatory-for-mozambiques-beira-corridor/)** — Tech Disruptor Media, 10 October 2026
 
-US$174,000 TradeMark Africa contract; port, rail, road and customs data, hosted in Mozambique, 18 months.
+TradeMark Africa awarded India's CSM Tech a US$174,000 contract to build a Transport and Trade Observatory for Mozambique's Beira Corridor. The platform will combine port, road, rail and customs data into dashboards showing cargo movement and delays, be hosted in Mozambican data centres and run for about 18 months, starting with the Beira–Machipanda route.
 
 </div>
 
@@ -591,7 +591,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[FACIM 2026: Absa e M-Pesa Reforcam Parceria Para Facilitar Pagamentos Digitais e Gestao Financeira Dos Negocios](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/)** — Diario Economico, 2 September 2026
 
-Paga Facil merchant receipts to settle into Absa accounts in minutes, at no cost; no sum stated.
+Absa Bank Mozambique and M-Pesa signed a memorandum of understanding at the FACIM 2026 trade fair in Maputo, reported on 2 September 2026. It links M-Pesa's Paga Fácil merchant service to Absa accounts so merchants can move receipts into the bank at no cost, usually within minutes. No value is given.
 
 </div>
 
@@ -605,7 +605,7 @@ Paga Facil merchant receipts to settle into Absa accounts in minutes, at no cost
 
 **[M-Pesa, Máximo Microbanco and CEDSIF open formal credit access to 380,000 Mozambican civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants)** — TechReviewAfrica, 4 September 2026
 
-MoU at FACIM 61 puts Maximo's Adianta-La salary advance on M-Pesa *150# for 380,000 civil servants.
+M-Pesa, Máximo Microbanco and Mozambique's public finance information systems centre, CEDSIF, signed a memorandum at the 61st Maputo International Fair to offer salary-advance credit to more than 380,000 civil servants through the M-Pesa *150# menu. CEDSIF will verify eligibility and handle salary deductions for repayment. No value or loan limit is given.
 
 </div>
 
@@ -641,7 +641,7 @@ Electronic money accounts reached 130.9 per 100 adults in the second quarter of 
 
 **[Mozambique to Join SADC Real-Time Payments System in Q1 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/)** — 360 Mozambique, 1 October 2026
 
-Central bank governor Navalha: metical to settle South African invoices via SARB-hosted SADC RTGS from Q1 2027.
+Mozambique plans to join the SADC RTGS regional payment system, hosted by the South African Reserve Bank, in the first quarter of 2027, Banco de Moçambique governor Felisberto Navalha said after the Monetary Policy Committee meeting. Customers would settle South African invoices directly from metical accounts; the system already carries the rand and, since July, Angola's kwanza.
 
 </div>
 
@@ -679,7 +679,7 @@ The Bank of Mozambique licensed payments aggregator PawaPay as a payment service
 
 **[Registo civil chega a mais 100 maternidades](https://jornalnoticias.co.mz/destaque/registo-civil-chega-a-mais-100-maternidades/)** — Jornal Notícias, 24 September 2026
 
-Newborns registered before discharge; ~250 posts already cover about 25% of some 1,000 health units.
+Mozambique's justice ministry is installing 100 civil registration posts in health units with maternity wards so that newborns are registered before leaving hospital, with partners supplying computer equipment. About 250 birth registration posts already operate in health units, covering roughly 25% of the country's approximately 1,000 health units. No completion date is given.
 
 </div>
 
@@ -695,7 +695,7 @@ Newborns registered before discharge; ~250 posts already cover about 25% of some
 
 **[INATRO lança sistema de licenciamento digital](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/)** — Jornal Notícias, 1 September 2026
 
-Mozambique's INATRO digitises special transport permits and emergency-vehicle certificates.
+Mozambique's road transport institute, INATRO, launched a digital licensing system at the Maputo International Fair on 1 September 2026. Applications for special transit licences for oversize and overweight vehicles, and certificates for emergency lights and sirens, can now be made and issued fully online.
 
 </div>
 
@@ -709,7 +709,7 @@ Mozambique's INATRO digitises special transport permits and emergency-vehicle ce
 
 **[ATDI apresenta Portal do Cidadão e coloca serviços públicos à distância de um clique](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp)** — Agência de Transformação Digital e Inovação, IP (ATDI), 3 September 2026
 
-ATDI's own account, naming GovNET, CloudGov, state e-payments and digital identity as supporting projects.
+Mozambique's digital transformation agency ATDI presented its Citizen Portal at the Maputo International Fair on 3 September 2026, a single site for checking requirements, submitting and tracking requests and receiving documents. ATDI listed supporting projects including interoperability, digital identity, the GovNET state network, a state e-payments system and the CloudGov government cloud. No launch date or cost is given.
 
 </div>
 
@@ -733,7 +733,7 @@ Mozambique's digital transformation agency unveiled the Portal do Cidadao at the
 
 **[Moçambique acelera modernização do Estado para colocar serviços básicos na palma do cidadão](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/)** — Brasil 247, 8 September 2026
 
-23m Mozambicans (66%) unidentified, 200k of 2m births registered a year; Portal Unico already offers 21 services.
+An official of Mozambique's Agency for Digital Transformation and Innovation (ATDI), set up in March 2026, said 23 million of the country's 35 million people are unidentified and only about 200,000 of some 2 million annual births are registered. He said the single public services portal already offers 21 services, including identity cards, driving licences and passports.
 
 </div>
 
@@ -755,7 +755,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Mozambique PM urges INTIC to expand digital certification across state institutions](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions)** — TechReviewAfrica, 11 September 2026
 
-Directive given at the FACIM 2026 closing on 2026-09-05, after INTIC briefed the PM on certification and licensing.
+Mozambique's prime minister, Benvinda Levi, told the national ICT institute INTIC on 5 September 2026, at the Maputo International Fair (FACIM 2026), to speed up and extend its digital certification system to all state institutions. She was briefed on INTIC's work on cybersecurity, certification and licensing. No timetable or budget is given.
 
 </div>
 
@@ -769,7 +769,7 @@ Directive given at the FACIM 2026 closing on 2026-09-05, after INTIC briefed the
 
 **[Governo restabelece Serviço de Correio Electrónico após intervenção técnica](https://mznews.co.mz/governo-restabelece-servico-de-correio-electronico-apos-intervencao-tecnica/)** — MZNews, 14 September 2026
 
-ATDI restored CorreioGOV after a technical intervention, with some services still partly restricted.
+Mozambique's Digital Transformation and Innovation Agency said the government email service, CorreioGOV, had been fully restored after a technical intervention. Some services that had been unavailable remained partly restricted, with a return to normal expected during 14 September. No cause or duration of the outage is given.
 
 </div>
 
@@ -791,7 +791,7 @@ Mozambique's digital transformation agency said the government email service Cor
 
 **[ATDI Reforça Coordenação Institucional para Melhorar Qualidade dos Serviços Públicos ao Cidadão](https://camaramen.co.mz/16211/atdi-reforca-coordenacao-institucional-para-melhorar-qualidade-dos-servicos-publicos-ao-cidadao/)** — CAMARAMEN, 5 October 2026
 
-World Bank and Tony Blair Institute partners; EDGE-funded; INATRO, DNIC, Justice and BAU map four citizen life events.
+Mozambique's digital transformation agency ATDI held its first Design Lab for digital public service delivery at Macaneta, Maputo province, with the World Bank and the Tony Blair Institute for Global Change. Representatives of the transport institute INATRO, the civil identification directorate, the justice ministry and the one-stop service counters mapped the citizen's route through state services. It falls under the World Bank-funded EDGE project.
 
 </div>
 
@@ -813,7 +813,7 @@ Mozambique's digital transformation agency held the country's first Digital Serv
 
 **[Mozambique: Industrial licences to be automatically approved if state misses statutory deadlines; digital licences to carry QR codes](https://clubofmozambique.com/news/mozambique-industrial-licences-to-be-automatically-approved-if-state-misses-statutory-deadlines-digital-licences-to-carry-qr-codes/)** — Club of Mozambique, 13 October 2026
 
-Tacit approval from 8 Nov 2026 if deadlines missed; filing via e-BAU; QR-coded electronic licences; 5-day assessment.
+Mozambique's new Regulation on Industrial Activity Licensing, replacing the 2014 rules, moves applications onto the e-BAU citizen-services platform and issues licences electronically with QR codes. From 8 November 2026, applications are deemed approved if the authority misses its statutory deadlines, including five working days to assess applications.
 
 </div>
 
@@ -845,7 +845,7 @@ President Daniel Chapo opened Centro Pronto in Maputo on 14 October, a centre th
 
 **[Governo procura novo investidor para recuperar Tmcel](https://profile.co.mz/governo-procura-novo-investidor-para-recuperar-tmcel/)** — Profile, 14 September 2026
 
-Finance ministry opens selection of a strategic partner and partial sale of state shares in Tmcel.
+Mozambique's finance ministry has begun selecting a strategic investor to buy part of the state's shares in the state operator Tmcel, reported on 14 September 2026, with a technical team set up to run the negotiations. Tmcel's latest accounts show negative equity of about MZN 14.5 billion, and its auditor EY flagged material uncertainty over its ability to keep operating.
 
 </div>
 
@@ -889,7 +889,7 @@ Mozambique's ICT institute INTIC signed a memorandum with Kamaleon, a rural mobi
 
 **[Mozambique: New barometer to monitor media, combat disinformation and fake news](https://clubofmozambique.com/news/mozambique-new-barometer-to-monitor-media-combat-disinformation-and-fake-news/)** — Club of Mozambique, 5 September 2026
 
-ESJ-designed Media Barometer to track audience trust, disinformation and deepfakes, announced 4 Sep 2026.
+Mozambique is to introduce a Media Barometer to measure audience trust and track disinformation and deepfakes, announced on 4 September 2026 at the Government Information Office's coordinating council in Maputo. The Higher School of Journalism designed it. A 2025 survey counted 1,207 active media outlets, including 275 radio stations and 147 television channels.
 
 </div>
 

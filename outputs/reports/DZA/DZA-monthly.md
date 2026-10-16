@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: DZA
 ledger_rows: 36
 not_held: 6
-record: 8fea35346c2f
+record: 3541cb62a9c9
 ---
 
 # Algeria: monthly update, September – October 2026
@@ -91,7 +91,7 @@ record: 8fea35346c2f
 
 **[À l'ère du tout numérique](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195)** — El Moudjahid, 8 September 2026
 
-Editorial on Algerie Numerique 2030: data protection and cybersecurity law plus national data centres as sovereignty.
+An El Moudjahid editorial on Algeria's Algérie Numérique 2030 strategy cites the opening of the national digital services centre at Mohammadia, with Tier III data centres, and ministries joining the Dzair Digital Services portal. It lists a product-traceability system in commerce, electronic medical records in hospitals, a national agricultural information system and the Takwin vocational training platform.
 
 </div>
 
@@ -105,7 +105,7 @@ Editorial on Algerie Numerique 2030: data protection and cybersecurity law plus 
 
 **[Portail national des services numériques : Le HCN va assurer des formations](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)** — El Moudjahid, 19 September 2026
 
-HCN trains sector IS managers to verify electronic documents issued through the Dzair Digital Services portal.
+Algeria's High Commission for Digitisation trained information system managers from several sectors to use a mechanism it built for verifying electronic documents issued through the Dzair Digital Services portal. Administrative bodies can then accept these documents without asking citizens to obtain them again from the issuing office. The training follows presidential instructions of 12 July 2026 to widen the portal's use.
 
 </div>
 
@@ -121,7 +121,7 @@ HCN trains sector IS managers to verify electronic documents issued through the 
 
 **[الرقمنة في الجزائر.. شفافية وعصرنة (Digitalisation in Algeria: transparency and modernisation)](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/)** — الشعب أونلاين (Echaab Online), 20 September 2026
 
-Dossier with two named analysts: Blida data centre Tier III Design Sept 2026, IRIES linking 100+ state bodies.
+A dossier in Algeria's Echaab newspaper on 20 September 2026 reviews the High Commission for Digitalisation's work since April 2024: a national digital transformation strategy published in May 2025, a national cloud and certified data centres, the IRIES secure network linking ministries, cybersecurity and network operations centres, and the national digital services centre opened in July 2026. It says a digitalisation law is in the final stages of study.
 
 </div>
 
@@ -135,7 +135,7 @@ Dossier with two named analysts: Blida data centre Tier III Design Sept 2026, IR
 
 **[Projet de loi de finances 2027: Des avantages fiscaux pour booster le E-paiement](https://lechodalgerie.dz/projet-de-loi-de-finances-2027-des-avantages-fiscaux-pour-booster-le-e-paiement/)** — L'Echo d'Algérie, 11 October 2026
 
-10% tax cut for traders taking half their receipts electronically; platforms to declare sales; DA 1m fine.
+Algeria's draft 2027 finance law proposes a 10% tax reduction until the end of 2028 for flat-rate and professional taxpayers who take at least half their receipts electronically. It would also require resident and non-resident e-commerce platforms to register with the tax authority and declare transactions yearly, on pain of a DA 1 million fine. The bill is not yet adopted.
 
 </div>
 
@@ -143,7 +143,7 @@ Dossier with two named analysts: Blida data centre Tier III Design Sept 2026, IR
 
 **[L’Algérie prévoit de soumettre les plateformes numériques étrangères à de nouvelles obligations de TVA en 2027](https://algerian-business.com/tva-plateformes-numeriques-algerie-plf-2027/)** — Algerian Business, 12 October 2026
 
-Draft articles 106 bis and 106 ter; quarterly VAT returns, ten-year records, DA 5m fine; OECD 2019 model.
+Algeria's draft 2027 finance law proposes that foreign digital platforms selling services to customers in Algeria register with the tax authority, keep records for ten years and declare and pay VAT quarterly. Non-compliance would carry a fine of 5 million dinars after 30 days' notice and possible suspension of access to the platform. The provision is a draft, not yet adopted.
 
 </div>
 
@@ -159,7 +159,7 @@ Draft articles 106 bis and 106 ter; quarterly VAT returns, ten-year records, DA 
 
 **[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
 
-Convention signed 8 September 2026 between ESCEP and Algerie Telecom's Skills Centers network.
+Niger's telecoms and post college ESCEP signed a convention with Algérie Télécom's Skills Centers network in Niamey on 8 September 2026, at a meeting chaired by the communication ministry's secretary-general. The agreement provides for a Skills Center at ESCEP with Algérie Télécom's support, aimed at training and the capacity of Niger's telecoms infrastructure. No cost is given.
 
 </div>
 
@@ -201,7 +201,7 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 
 **[سرعة إنترنت الهاتف النقال: مدينة جزائرية جديدة في قائمة الـ 50 الأفضل عالميا](https://www.echoroukonline.com/%D8%B3%D8%B1%D8%B9%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1)** — Echorouk El Yawmi, 6 September 2026
 
-Oran joins Algiers in Ookla's global top 50 cities for mobile internet speed, latest monthly update.
+Oran entered Ookla's monthly global top 50 of cities by mobile internet speed for the first time, at 41st with 197.09 Mbps, joining Algiers at 42nd, reported on 6 September 2026. Algeria's telecoms ministry said national average mobile download speed rose from 40.86 Mbps in July 2025 to 78.36 Mbps in July 2026, and fixed from 50.85 to 90.45 Mbps.
 
 </div>
 
@@ -215,7 +215,7 @@ Oran joins Algiers in Ookla's global top 50 cities for mobile internet speed, la
 
 **[Sans fritures](https://www.elmoudjahid.dz/fr/editorials/sans-fritures-4194)** — El Moudjahid, 7 September 2026
 
-Editorial on an 18-month plan to end Algeria's off-network zones across 3,000 remote rural areas.
+An editorial in Algeria's El Moudjahid on 7 September 2026 states that areas without telecoms coverage are to be connected within 18 months, in an operation covering about 3,000 remote rural zones and funded entirely from the state budget. It gives no operator, cost or start date.
 
 </div>
 
@@ -229,7 +229,7 @@ Editorial on an 18-month plan to end Algeria's off-network zones across 3,000 re
 
 **[Gigacity 2026 : Alger, première ville africaine du très haut débit](https://lasentinelle.dz/index.php/2026/10/01/gigacity-2026-alger-premiere-ville-africaine-du-tres-haut-debit/)** — La Sentinelle, 1 October 2026
 
-Ministry communiqué: Silver tier, 36 points, ahead of Cape Town; FTTH near 100%, 90% of subscribers above 100 Mbps.
+Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that Algiers ranked first in Africa and 34th of 50 cities worldwide in Omdia's Gigacity Index 2026, with 36 points, 11 places ahead of Cape Town. The ministry cited fibre-to-the-home coverage of nearly 100% in the capital and 90% of subscribers on speeds above 100 Mbps.
 
 </div>
 
@@ -259,7 +259,7 @@ Algeria's fibre-to-the-home subscriptions passed 4 million in early October, fro
 
 **[AAPI : quatre projets d'investissement bénéficient de foncier économique, plus de 1300 emplois à la clé](https://algerie-eco.com/2026/09/02/aapi-quatre-projets-dinvestissement-beneficient-de-foncier-economique-plus-de-1300-emplois-a-la-cle/)** — Algerie Eco, 2 September 2026
 
-Land concession at El Affroun for a Diar Dzair data centre, 340 jobs projected; no investment sum stated.
+Algeria's investment promotion agency (AAPI) handed over land concessions on 2 September 2026 for four projects, including a site at El Affroun in Blida wilaya for a data centre by the company Diar Dzair, expected to create 340 jobs. The other three are food-industry projects in Bordj Bou Arreridj. No investment sum is given.
 
 </div>
 
@@ -273,7 +273,7 @@ Land concession at El Affroun for a Diar Dzair data centre, 340 jobs projected; 
 
 **[Le deuxième Centre national de données à Blida obtient la certification internationale Tier III Design](https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/)** — Algerie Eco (reprenant un communiqué du Haut-Commissariat à la numérisation, via APS), 2 September 2026
 
-Blida becomes Algeria's second data centre to pass Uptime Institute's Tier III design review.
+Algeria's High Commission for Digitalisation said on 2 September 2026 that the second national data centre, at Blida, has received Uptime Institute Tier III Design certification, after the first centre at El Mohammadia in February 2026. The certificate covers the design, not the built facility; the commission says it is still seeking Tier III certification of the constructed centres.
 
 </div>
 
@@ -335,7 +335,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[نحو وضع منظومة وطنية رقمية لمتابعة مسار المواد الاستراتيجية](https://www.echoroukonline.com/نحو-وضع-منظومة-وطنية-رقمية-لمتابعة-مسار-المواد-الاستراتيجية)** — Echorouk El Yawmi, 4 September 2026
 
-Digitisation commission and internal trade ministry meet 3 Sept 2026 on one data path for staple goods.
+Algeria's High Commission for Digitalisation and the Ministry of Internal Trade met on 3 September 2026, on the prime minister's instructions, to set up a single national digital system tracking the supply and distribution of strategic consumer goods. Officials from the interior, transport and agriculture ministries attended. No timetable, cost or supplier is given.
 
 </div>
 
@@ -379,7 +379,7 @@ Algeria's Council of Ministers, meeting under President Tebboune on 20 September
 
 **[Permis et passeports biométriques : les délais de délivrance pénalisent les citoyens](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/)** — Maghreb Émergent, 1 October 2026
 
-Algiers and Béjaïa accounts: licences three to six months, passports six to eight weeks; no official explanation.
+Applicants in Algiers and Béjaïa reported waiting at least three months, and in some cases five to six, for biometric driving licences, and six to eight weeks for biometric passports. The interior ministry says applicants are notified by SMS when a licence is ready and can track requests online. No official explanation for the delays has been published.
 
 </div>
 
@@ -409,7 +409,7 @@ Algeria's digitalisation commission set out how the national digital identity is
 
 **[Banque d'Algérie : Djezzy Payment Services autorisée à se constituer en PSP](https://algerie-eco.com/2026/09/23/banque-dalgerie-djezzy-payment-services-autorisee-a-se-constituer-en-psp/)** — Algerie Eco, 23 September 2026
 
-Constitution authorised under règlement 25-02; agrément application due within 12 months; Djezzy welcomes decision.
+The Bank of Algeria's Monetary and Banking Council authorised Djezzy Payment Services, a subsidiary of Optimum Telecom Algérie, to be set up as a payment service provider under regulation 25-02. The company must apply for a full licence within 12 months of notification.
 
 </div>
 
@@ -417,7 +417,7 @@ Constitution authorised under règlement 25-02; agrément application due within
 
 **[Communiqué du Conseil Monétaire et Bancaire (23 septembre 2026) — autorisation de constitution de Djezzy Payment Services en Prestataire de Services de Paiement](https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf)** — Banque d'Algérie, 23 September 2026
 
-Optimum Telecom Algérie subsidiary authorised under loi 23-09 and règlement 25-02; agrément request due within 12 months.
+The Bank of Algeria's Monetary and Banking Council authorised Djezzy Payment Services, a subsidiary of the mobile operator Optimum Telecom Algérie, to be set up as a payment service provider, its communiqué of 23 September 2026 states. The firm must apply for the bank's approval to operate within twelve months.
 
 </div>
 
@@ -425,7 +425,7 @@ Optimum Telecom Algérie subsidiary authorised under loi 23-09 and règlement 25
 
 **[Djezzy Payment Services autorisée à devenir PSP : la Banque d'Algérie accélère la bataille contre le cash](https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/)** — Eco Times, 24 September 2026
 
-PSP rulebook lineage from loi 23-09 to instruction 06-2025; DZD 100k/500k/1m account ceilings; cashless goal for 2028.
+The Bank of Algeria's Monetary and Banking Council authorised Djezzy Payment Services, a subsidiary of the mobile operator, to form a payment service provider, announced on 23 September 2026. It has twelve months to apply for the licence it needs to operate. Payment accounts under the rules are capped at 100,000, 500,000 or 1,000,000 dinars depending on the level of identity verification.
 
 </div>
 
@@ -433,7 +433,7 @@ PSP rulebook lineage from loi 23-09 to instruction 06-2025; DZD 100k/500k/1m acc
 
 **[Paiement électronique : Djezzy décroche le ok de la B.A](https://leprovincial.dz/paiement-electronique-djezzy-decroche-le-ok-de-la-b-a/)** — Le Provincial, 24 September 2026
 
-Monetary and Banking Council authorises Optimum's payments arm; licence application due within 12 months.
+Algeria's Monetary and Banking Council authorised Djezzy Payment Services, a subsidiary of Optimum Telecom Algérie, to be set up as a payment services provider under monetary law 23-09, the Bank of Algeria announced on 23 September 2026. The firm must apply for a full licence within 12 months.
 
 </div>
 
@@ -447,7 +447,7 @@ Monetary and Banking Council authorises Optimum's payments arm; licence applicat
 
 **[Paiement électronique en Algérie : 23 millions de cartes et 126 000 TPE jusqu’en août 2026](https://algerie-eco.com/2026/10/01/paiement-electronique-en-algerie-23-millions-de-cartes-et-126-000-tpe-a-aout-2026/)** — Algérie Eco, 1 October 2026
 
-19m Edahabia and 4m CIB cards, 62% active; terminals 78,000 to 126,000 since Dec 2025; trust and traceability barriers.
+Algeria's interbank card body, GIE Monétique, said on 1 October 2026 that about 23 million payment cards were in circulation at the end of August 2026, including 19 million Algérie Poste Edahabia cards, with over 62% active. Payment terminals rose from 78,000 in December 2025 to 126,000, and active online merchants from 644 to 1,034.
 
 </div>
 
@@ -477,7 +477,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Le President Tebboune ordonne l'acceleration de la numerisation : mise en service du guichet unique fin septembre](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/)** — El Watan, 10 September 2026
 
-Single window ordered live by end-September 2026, plus a national industrial land census.
+Algeria's President Abdelmadjid Tebboune ordered the investment single window to be operational by the end of September 2026 and a national census of industrial land to start immediately, at a meeting on 9 September. He required all investment procedures to be digitised in coordination with the tax, state property and customs administrations. Customs launched an electronic single window for foreign-trade authorisations in August.
 
 </div>
 
@@ -485,7 +485,7 @@ Single window ordered live by end-September 2026, plus a national industrial lan
 
 **[Foncier economique : Sifi Ghrieb ordonne un recensement immediat](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/)** — Le Jour d'Algerie, 11 September 2026
 
-Walis to report on a unified template; consolidated land map due at AAPI’s one-stop window by end-September 2026.
+Algeria's prime minister, Sifi Ghrieb, ordered an immediate national census of industrial, agricultural and tourism land on 10 September 2026. Provincial governors are to collect the data on a unified template, and a map of available land is due at the investment promotion agency's one-stop window before the end of September, supported by the High Commission for Digitalisation.
 
 </div>
 
@@ -509,7 +509,7 @@ Algeria's digitalisation high commission and the domestic trade ministry held a 
 
 **[Penal code, fire damage compensation, digitization on agenda](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda)** — Algerie Presse Service (APS), 9 September 2026
 
-Cabinet takes up a unified digital system for regulating and supplying the national market.
+Algeria's prime minister, Sifi Ghrieb, chaired a government meeting on 9 September 2026 that took up the Penal Code, damage from recent fires and a unified digital system for regulating and supplying the national market, his office said. No detail of the digital system is given.
 
 </div>
 
@@ -523,7 +523,7 @@ Cabinet takes up a unified digital system for regulating and supplying the natio
 
 **[Algeria extends the national e-justice portal to administrative courts of appeal and the Council of State](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)** — Le Jour d'Algérie, 22 September 2026
 
-Case tracking, operative parts of judgments and copies of rulings from any administrative court; announced in Oran.
+Algeria's justice minister, Lotfi Boudjemaa, announced in Oran on 22 September 2026 that the national electronic window for administrative courts now covers the administrative courts of appeal and the Council of State. Litigants and lawyers can track cases, read the operative parts of judgments and obtain ordinary copies of rulings online.
 
 </div>
 
@@ -537,7 +537,7 @@ Case tracking, operative parts of judgments and copies of rulings from any admin
 
 **[Ministry of Solidarity launches 'Morafikokoum' digital platform for parents of special-needs students](https://news.radioalgerie.dz/en/node/95028)** — Algerian Radio, 23 September 2026
 
-Grades, attendance, certificates and transfer requests online for parents of deaf and blind pupils.
+Algeria's Ministry of National Solidarity launched Morafikokoum, a digital platform for parents of deaf and blind pupils in specialised schools, reported on 23 September 2026. Registered parents can download enrolment certificates, view grades and attendance, and submit transfer, readmission and appeal requests online.
 
 </div>
 
@@ -551,7 +551,7 @@ Grades, attendance, certificates and transfer requests online for parents of dea
 
 **[12 required fields to update industrial establishments' data on the PRODNAT national-production platform](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7)** — Echorouk Online, 23 September 2026
 
-12 required fields incl. geolocation and H1 2026 stocks and sales; registration kept open past mid-Sept 2026 deadline.
+Algeria's provincial industry directorates kept registration open on the PRODNAT national-production platform after its mid-September 2026 deadline. Goods-producing firms must supply 12 items, including tax and statistical identifiers, the manager's biometric ID card, the geolocation of each production unit, and purchases, stocks and sales for the first half of 2026. Second-half declarations are due between 1 January and 28 February 2027.
 
 </div>
 
@@ -567,7 +567,7 @@ Grades, attendance, certificates and transfer requests online for parents of dea
 
 **[بوابة وزارة الأشغال العمومية تطلق خدمة جديدة لصالح مهنيي القطاع ومكاتب الدراسات الخاصة](https://www.echoroukonline.com/بوابة-وزارة-الأشغال-العمومية-تطلق-خدم)** — Echorouk El Yawmi, 1 September 2026
 
-Algeria's public works ministry now takes firm qualification and design-office filings online.
+Algeria's Ministry of Public Works began taking online filings on 1 September 2026 through its sector portal, for firms' professional qualification and classification and for the accreditation of private design offices. Applicants can submit and track files remotely instead of visiting the central administration or wilaya directorates. Minister Abdelkader Djellaoui announced the step after a meeting on the sector's digitalisation.
 
 </div>
 
@@ -581,7 +581,7 @@ Algeria's public works ministry now takes firm qualification and design-office f
 
 **[Portail national des services numériques : trois nouveaux services dédiés au secteur des ressources en eau](https://algerie-eco.com/2026/09/03/portail-national-des-services-numeriques-trois-nouveaux-services-dedies-au-secteur-des-ressources-en-eau/)** — Algerie Eco, 3 September 2026
 
-Drinking-water and sanitation connection requests, plus firm qualification certificates, added 3 Sep 2026.
+Algeria's High Commission for Digitalisation added three water-sector services to the national government digital services portal, announced on 3 September 2026 with the water ministry. Citizens can apply for drinking-water and sanitation connections and track them online, and firms can file and track requests for professional qualification certificates.
 
 </div>
 
@@ -589,7 +589,7 @@ Drinking-water and sanitation connection requests, plus firm qualification certi
 
 **[Dzair Digital Services / impots : Integration de cinq nouveaux services numeriques](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/)** — El Watan, 10 September 2026
 
-Tax roll extract, non-taxation and C20 certificates and NIF attestations join the DZDS portal at Tipasa.
+Algeria's High Commission for Digitisation added five tax services to the national Dzair Digital Services portal on 9 September 2026, launched with the tax directorate at Tipasa. They are the tax roll extract, the non-taxation certificate, the C20 certificate of existence and tax registration attestations for individuals and companies.
 
 </div>
 
@@ -597,7 +597,7 @@ Tax roll extract, non-taxation and C20 certificates and NIF attestations join th
 
 **[Hydraulique : lancement de trois nouveaux services via le portail national des services numeriques](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques)** — Algerie 54, 10 September 2026
 
-Water, sanitation and Hydro-Qualif services added; DZDS portal now carries 150 services, up from 21.
+Algeria's water ministry and the digitisation high commission launched three services on the national digital services portal on 9 September 2026: remote applications for drinking-water and sewerage connections, and Hydro-Qualif, a qualification certificate for contractors bidding for public works. The portal now offers 150 services, up from 21 at launch, and runs on state data centres and a sovereign cloud.
 
 </div>
 
@@ -605,7 +605,7 @@ Water, sanitation and Hydro-Qualif services added; DZDS portal now carries 150 s
 
 **[La jeunesse algérienne dispose enfin de son portail numérique dédié](https://www.algerie360.com/la-jeunesse-algerienne-dispose-enfin-de-son-portail-numerique-dedie/)** — Algérie360, 14 September 2026
 
-Inkhirati, Charaka, Moukhayami, Mahrajani, Takwine, Qouwad Chabab and Harakiya join the national portal.
+Algeria's High Commission for Digitalisation and the Ministry of Youth added seven youth services to the national government services portal, announced on 14 September 2026. They include Inkhirati for registering at youth centres, Charaka for youth associations to register and apply for project funding, and Moukhayami for holiday camp enrolment.
 
 </div>
 
@@ -613,7 +613,7 @@ Inkhirati, Charaka, Moukhayami, Mahrajani, Takwine, Qouwad Chabab and Harakiya j
 
 **[Dzair Digital Services : intégration du service «WADHIFATI» relevant du secteur des Sports](https://algeriebrevesnews.dz/dzair-digital-services-integration-du-service-wadhifati-relevant-du-secteur-des-sports/)** — ABNews, 17 September 2026
 
-Sports ministry job offers and training competitions move onto Algeria's national digital services portal.
+Algeria's national digital services portal, Dzair Digital Services, added the Ministry of Sports' WADIFATI employment service, the High Commission for Digitalisation said, as reported on 17 September 2026. Candidates can view job offers and entrance competitions for the sector's training schools, apply online, track applications and see results.
 
 </div>
 
@@ -621,7 +621,7 @@ Sports ministry job offers and training competitions move onto Algeria's nationa
 
 **[Dzair Digital Services: one million registered users, five million visitors, two and a half months after launch](https://www.jeune-independant.net/dzair-digital-services-un-million-dutilisateurs-inscrits-sur-la-plateforme/)** — Le Jeune Indépendant, 22 September 2026
 
-HCN figures: 1m registered users, 5m+ visitors since 5 July 2026 launch; administrations told to accept its documents.
+Algeria's national portal for government digital services, Dzair Digital Services, passed one million registered users and five million visitors two and a half months after its launch on 5 July 2026, the High Commission for Digitalisation said, reported on 22 September. The figures are the commission's own.
 
 </div>
 
@@ -635,7 +635,7 @@ HCN figures: 1m registered users, 5m+ visitors since 5 July 2026 launch; adminis
 
 **[La CNR lance un nouveau service numérique](https://algerie-eco.com/2026/09/24/la-cnr-lance-un-nouveau-service-numerique/)** — Algerie Eco, 24 September 2026
 
-Rule-based chatbot on cnr.dz answers pension questions 24/7 from pre-set replies; APS carrying the CNR communiqué.
+Algeria's national pension fund, the Caisse nationale des retraites, launched a virtual assistant chatbot on its website cnr.dz, announced on 24 September 2026. It answers questions about the pension system around the clock from a database of pre-set replies, to reduce visits to local offices.
 
 </div>
 
@@ -643,7 +643,7 @@ Rule-based chatbot on cnr.dz answers pension questions 24/7 from pre-set replies
 
 **[La CNR lance un nouveau service pour les retraités algériens](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/)** — ObservAlgérie, 24 September 2026
 
-24/7 online assistant for pensioners; ministry target to halve visits to CNR offices by end-2026.
+Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assistant on its website on 24 September 2026 to answer pensioners' routine questions. In July 2026 the labour ministry set a target of cutting visits to CNR offices by at least 50% by the end of 2026. Some pensioners can already confirm they are alive through the R-FACE facial recognition system in the RetraiteDz app.
 
 </div>
 
@@ -661,7 +661,7 @@ Rule-based chatbot on cnr.dz answers pension questions 24/7 from pre-set replies
 
 **[Le ministre de l'Enseignement superieur et de la Recherche scientifique preside la premiere reunion de coordination consacree a la mise en oeuvre de la strategie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/)** — Ministere de l'Enseignement superieur et de la Recherche scientifique (Algerie), 8 September 2026
 
-Five thematic commissions, a national AI and data research centre, 50,000 AI specialists targeted by 2030.
+Algeria's higher education minister, Kamel Baddari, chaired an inter-ministerial meeting on 8 September 2026 on implementing the national artificial intelligence strategy, following a first session on 5 August. It created five thematic commissions, approved a national research centre for AI and data, planned an AI-based tax administration system and set a target of 50,000 AI specialists trained by 2030.
 
 </div>
 
@@ -669,7 +669,7 @@ Five thematic commissions, a national AI and data research centre, 50,000 AI spe
 
 **[AI Strategy Moves to Implementation Phase](https://dzwatch.dz/?p=79285)** — DZWatch, 22 September 2026
 
-17 infrastructure and 14 data operations for 2026; 85 training operations; AI and data research-centre decree approved.
+A follow-up meeting on Algeria's national AI strategy approved an updated draft decree creating a National Research Centre for Artificial Intelligence and Data, which now goes through legal procedures. Committees set 17 infrastructure and 14 data operations for 2026 and 85 training operations. The meeting date and chair are not stated.
 
 </div>
 
@@ -685,7 +685,7 @@ Five thematic commissions, a national AI and data research centre, 50,000 AI spe
 
 **[Algerian Company INATEL Signs Strategic Agreement for New Kinshasa City Project](https://africanews.dz/eng/index.php/2026/09/03/algerian-company-inatel-signs-strategic-agreement-for-new-kinshasa-city-project/)** — Africa News (DZ), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
 
-Kinshasa Kia Mona MOU covers payment systems and a technology excellence centre; no value disclosed.
+Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DABYAN, signed a memorandum with the committee overseeing the Kinshasa city expansion project in the DR Congo to deploy payment systems, digital equipment and a technology centre covering cybersecurity and applied AI. The signing date is given only as recent, and no value or timetable is disclosed.
 
 </div>
 
@@ -729,7 +729,7 @@ The higher education minister has directed the five higher schools specialising 
 
 **[Vers une base de données unifiée : La carte sociale nationale prend forme](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/)** — Eco Times DZ, 6 September 2026
 
-Fifth working-group session; Tebboune's June 2026 three-month deadline puts delivery before end-September.
+Algeria's High Commission for Digitalisation held the fifth meeting of the working group defining the data and indicators for a national social card on 3 September 2026. President Abdelmadjid Tebboune ordered the card on 21 June with a three-month deadline. It is to combine sectoral data on assistance schemes and individuals to target benefits.
 
 </div>
 
@@ -751,7 +751,7 @@ Algeria's Postal and Electronic Communications Regulatory Authority launched a c
 
 **[Arrêté du 21 Rabie El Aouel 1448 correspondant au 3 septembre 2026 fixant le calendrier d'exécution de la procédure d'adjudication par appel à la concurrence relatif à la fourniture du service universel des communications électroniques pour la couverture, par un réseau public de télécommunications mobiles, des localités à faible densité de population](https://www.arpce.dz/fr/pub/d3m9m8)** — Ministère de la Poste et des Télécommunications (Journal officiel n° 66, via ARPCE), 13 September 2026
 
-Signed 3 Sept 2026: tender launch 6 Sept, notice 7 Sept, 45 days to bid, results 30 days after opening.
+Algeria's post and telecommunications minister signed an order on 3 September 2026, published in the Official Journal on 13 September, setting the timetable for the tender to provide mobile coverage to sparsely populated localities under the universal service scheme. The tender was to be launched on 6 September and advertised on 7 September, with 45 days to bid and results due 30 days after bids are opened.
 
 </div>
 
@@ -765,7 +765,7 @@ Signed 3 Sept 2026: tender launch 6 Sept, notice 7 Sept, 45 days to bid, results
 
 **[Arrêté du 4 août 2026 portant approbation du cahier des charges relatif à la fourniture du service universel des communications électroniques pour la couverture par un réseau public de télécommunications mobiles de deux cent un (201) sites, confiée à l'opérateur « ATM Mobilis S.P.A »](https://www.joradp.dz/FTP/jo-francais/2026/F2026068.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 23 September 2026
 
-Signed 4 Aug 2026: fixed per-site funding; 4G data, voice and national roaming; 10% late penalty; repayment on lapse.
+Algeria's Ministry of Post and Telecommunications approved, by order of 4 August 2026 published in the Official Journal on 23 September 2026, a universal-service specification giving ATM Mobilis the task of providing 4G mobile coverage at 201 sites, funded site by site from the universal-service fund. The regulator ARPCE pays a fixed amount per site on acceptance; late delivery draws a penalty of up to 10%. Per-site amounts are in annexed tables.
 
 </div>
 

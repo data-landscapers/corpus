@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SLE
 ledger_rows: 29
 not_held: 5
-record: aec81d9497b3
+record: 8db42e94d0da
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -105,7 +105,7 @@ record: aec81d9497b3
 
 **[Ministry of Communication strengthens partnership with UN on digital transformation](https://sierraloaded.sl/news/communication-strengthens-partnership/)** — Sierra Loaded, 5 September 2026
 
-Data Governance Framework in development; Government Data Centre at NatCA Tower, redundancy site at State House.
+Sierra Leone's communications minister Salima Bah met the UN Resident Coordinator, UNDP and UNFPA on data governance and digital infrastructure, reported on 5 September 2026, and showed them the Government Data Centre at NatCA Tower and plans for a backup site at State House. The ministry says it is drafting a Data Governance Framework on how government data is classified, shared and used.
 
 </div>
 
@@ -143,7 +143,7 @@ Sierra Leone's communications ministry presented a new open source policy at a U
 
 **[Government Reviews Security of Children s Vaccination Data](https://sierraloaded.sl/local/reviews-security-childrens-vaccination-data/)** — Sierra Loaded, 11 September 2026
 
-16 ministries work four child-data use cases; National Data Protection Policy approved, Digital Government Bill with AG.
+Sierra Leone's communications and technology ministry, with UNICEF and the Centre for Digital Public Infrastructure, held a three-day workshop on safeguards for children's data in connected government systems, reported on 11 September 2026. Officials from 16 ministries worked on birth registration, vaccination records, education data and social protection, including who may access vaccination records and where breaches could occur.
 
 </div>
 
@@ -177,7 +177,7 @@ Sierra Leone is strengthening safeguards for children's personal data as governm
 
 **[Procurement Review Panel Probes Alleged Irregularities in Digital Transformation Project](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/)** — Truth Media Sierra Leone, 21 September 2026
 
-Tiwai Memory Masters complaint over GWAN/GLANS contract SL-MOF-526879-NC-RFP; outcome to be made public.
+Sierra Leone's Independent Procurement Review Panel opened an investigation into alleged irregularities in the Digital Transformation Project's contract for government network systems (GWAN and GLANS), after a complaint by Tiwai Memory Masters Ltd against the communications ministry. The panel said the outcome will be published once the review is complete. No contract value is given.
 
 </div>
 
@@ -201,7 +201,7 @@ Sierra Leone's procurement review panel dismissed a bidder's complaint over the 
 
 **[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Compute as mini-grid anchor customer; Kenya, DRC, Sierra Leone pilots for about 85,000 people; community load first.
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
 
 </div>
 
@@ -217,7 +217,7 @@ Compute as mini-grid anchor customer; Kenya, DRC, Sierra Leone pilots for about 
 
 **[SLRSA Alerts Public On Fake Vehicle Licences After Cyber Attack, 5 Arrested](https://www.sierraleonemonitor.com/slrsa-alerts-public-fake-vehicle-licences/)** — Sierra Leone Monitor, 5 October 2026
 
-Public notice of 2 October 2026; five non-staff arrested; fake-licence count undisclosed; verification at SLRSA offices.
+The Sierra Leone Road Safety Authority said in a public notice dated 2 October 2026 that an intrusion into its IT systems was used to produce fake vehicle licences. Police arrested five people who are not SLRSA staff. The number of fake licences in circulation was not disclosed, and owners are asked to verify licences at SLRSA offices.
 
 </div>
 
@@ -249,7 +249,7 @@ Sierra Leone's communications ministry confirmed that 44 website addresses, one 
 
 **[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code.
 
 </div>
 
@@ -295,7 +295,7 @@ Sierra Leone's revenue authority has begun consultations with security agencies 
 
 **[NRA Begins Nationwide Distribution of Smart GST Machines to 10,000 Businesses](https://thecalabashnewspaper.com/archives/63975)** — The Calabash Newspaper, 2 September 2026
 
-10,000 GST-registered businesses targeted; rollout announced 31 August 2026.
+Sierra Leone's National Revenue Authority began distributing Smart GST machines to 10,000 GST-registered businesses nationwide, announced on 31 August 2026. Commissioner-General Abu Martin Kanneh said the machines complement the existing electronic cash register system and will let businesses issue valid receipts. No cost or supplier is given.
 
 </div>
 
@@ -325,7 +325,7 @@ Sierra Leone's social security trust is to launch a self-service application for
 
 **[Land Title Certificate: A Blow To The Vulnerable?](https://apexnewssl.com/?p=8094)** — Apex News Sierra Leone, 14 September 2026
 
-Cabinet approved a nationwide land title certificate system, still needing parliamentary approval.
+Sierra Leone's lands minister, Turad Senesi, announced that Cabinet has approved a nationwide land title certificate system, which still needs parliamentary approval before it is implemented. The opinion piece asks how costs for registration and surveying will affect low-income and rural landholders and how customary land will be handled. No costs, procedures or timetable are given.
 
 </div>
 
@@ -349,7 +349,7 @@ The lands minister said the government plans free nationwide land registration a
 
 **[NMSA MIS Manager Participates in Health Digital Infrastructure Workshop](https://sierraloaded.sl/local/nmsa-health-digital-infrastructure-workshop/)** — Sierraloaded, 19 September 2026
 
-DPI-H convergence workshop, 17-18 Sept 2026: ecosystem mapping, costing; technical working group to validate the plan.
+Sierra Leone held a two-day workshop on 17 and 18 September 2026 on a shared digital public infrastructure for health, attended by the National Medical Supplies Agency among others. It mapped existing digital health systems, gaps and duplication, and discussed costing and funding. Participants planned a technical working group to validate the implementation plan. No decision is reported.
 
 </div>
 
@@ -365,7 +365,7 @@ DPI-H convergence workshop, 17-18 Sept 2026: ecosystem mapping, costing; technic
 
 **[Audit Service Sierra Leone Advances Digital Transformation with SierraSeat Post-Configuration Training](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/)** — AFROSAI-E, 3 September 2026
 
-World Bank-funded audit MIS clears user acceptance testing; 25 ASSL staff trained 3-5 August 2026.
+Audit Service Sierra Leone trained 25 staff on SierraSeat, its audit management information system, from 3 to 5 August 2026, completing the final stage of user acceptance testing. The system is a localised version of AFROSAI-E's A-SEAT, funded by the World Bank. The service intends to declare it operational subject to testing and management approval.
 
 </div>
 
@@ -379,7 +379,7 @@ World Bank-funded audit MIS clears user acceptance testing; 25 ASSL staff traine
 
 **[Chief Minister digitises Ministerial performance to strengthen accountability](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/)** — Concord Times, 12 October 2026
 
-VISION-SL platform for performance contracts, targets and quarterly reports, shown to MDAs ahead of validation.
+Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which ministries and agencies were shown VISION-SL, a digital platform to hold ministerial performance contracts, targets, indicators and quarterly progress reports in one system, reported on 12 October 2026. It is meant to track the national development plan and still awaits validation and testing. No cost or launch date is given.
 
 </div>
 
@@ -397,7 +397,7 @@ VISION-SL platform for performance contracts, targets and quarterly reports, sho
 
 **[ONS Warns AI Deepfakes Could Threaten Trust and Election Security Ahead of 2028](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/)** — Sierra Leone Monitor, 16 September 2026
 
-ONS warns AI deepfakes threaten public trust and the integrity of the 2028 general elections.
+Sierra Leone's Office of National Security warned that AI-generated deepfakes and synthetic media threaten public trust and the security of the 2028 general elections. Its chief of staff, Francis Languba Keillie, called for systems to detect and respond to information threats, and for public institutions to set procedures for verifying suspicious content and protecting official accounts.
 
 </div>
 
@@ -441,7 +441,7 @@ Sierra Leone's judiciary and the attorney-general's office are to draft a nation
 
 **[First Lady Fatima Bio Leads Official Launch of 'Flot' Digital Financial Platform](https://sierraloaded.sl/news/fatima-bio-launch-flot-financial-platform/)** — Sierraloaded, 12 September 2026
 
-Launched 12 Sep 2026; minister flags a Startup Act for Q1 2027 and an Innovation Investment Fund.
+Sierra Leone's First Lady Fatima Bio launched Flot, a fintech platform built with Zenith Bank Sierra Leone and Visa, in Freetown on 12 September 2026; it offers a Visa card for international payments. Communications Minister Salima Mormorna Bah said the government plans a Startup Act, expected in the first quarter of 2027, and an Innovation Investment Fund.
 
 </div>
 
@@ -481,7 +481,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Information Minister Launches National AI, Deepfake Sensitization Campaign](https://nationalistsl.com/2026/09/information-minister-launches-national-ai-deepfake-sensitization-campaign/)** — The Nationalist, 17 September 2026
 
-info.gov.sl QR-code verification one-stop shop planned; national AI policy under development.
+Sierra Leone launched a national AI and deepfake awareness campaign at a stakeholder meeting organised with the ministries of information and of communication, technology and innovation. Information minister Bah said the government is building info.gov.sl, a site for verifying official content by QR code, and is developing a national AI policy.
 
 </div>
 
@@ -497,7 +497,7 @@ info.gov.sl QR-code verification one-stop shop planned; national AI policy under
 
 **[Sierra Leone expands digital skills training for civil servants](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants)** — TechReviewAfrica, 20 September 2026
 
-Cohort 1 in week two: admin staff trained on AI drafting and Google Workspace registers; cohort ends 25 Sept 2026.
+Sierra Leone's Ministry of Communication, Technology and Innovation is training civil servants in digital skills with the public administration ministry, the Human Resource Management Office and the Public Service Academy. In its second week, reported on 20 September 2026, the first cohort of administrative staff learned to draft letters and reports with AI tools and keep registers in Google Workspace; the cohort ends on 25 September.
 
 </div>
 
@@ -513,7 +513,7 @@ Cohort 1 in week two: admin staff trained on AI drafting and Google Workspace re
 
 **[CIPHER Launched to Promote Data Protection, Cybersecurity and Digital Privacy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/)** — Truth Media, 9 October 2026
 
-Freetown research centre on data mishandling; training for controllers; aims to steer policy into law.
+The Center for Information Privacy, Human-Centered Technology and Ethics Research (CIPHER), an independent research body, launched in Freetown, Sierra Leone, on 6 October 2026. Its chief executive, Cyril Foday-Kallie, said it will research mishandling of personal data, train people on data-subject rights and controllers' duties, and supply evidence for data-protection law and policy.
 
 </div>
 
@@ -545,7 +545,7 @@ The Global Development Network has begun fieldwork on a five-country DPI Inclusi
 
 **[NCRA Marks International Identity Day with Registration Drive for 100 Inmates](https://thecalabashnewspaper.com/archives/64446)** — The Calabash Newspaper, 18 September 2026
 
-100 inmates from three Freetown centres enrolled for NINs on 17 Sept 2026; ID cards free, cost met by Government.
+Sierra Leone's National Civil Registration Authority registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026, International Identity Day. The inmates will receive ID cards free, with the government meeting the cost. The Correctional Service said the exercise builds on inmate biometric registration pilots in 2018 and 2020.
 
 </div>
 
@@ -563,7 +563,7 @@ The Global Development Network has begun fieldwork on a five-country DPI Inclusi
 
 **[NCRA Begins Validation of Sierra Leone's 2025 Vital Statistics Report](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/)** — Sierra Loaded, 11 September 2026
 
-Two-day validation of the draft 2025 report, 10-11 September 2026; fertility and mortality the focus.
+Sierra Leone's National Civil Registration Authority held a two-day meeting on 10 and 11 September 2026 to validate the draft 2025 Vital Statistics Report, focusing on fertility and mortality data. Director General Mohamed Mubashir Massaquoi called for greater national ownership of civil registration data and said figures from multiple external sources produce inconsistencies.
 
 </div>
 
@@ -577,7 +577,7 @@ Two-day validation of the draft 2025 report, 10-11 September 2026; fertility and
 
 **[Sierra Leone's President Bio Calls For Faster Development Delivery, Stronger Coordination At DEPAC Meeting](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/)** — Office of the President of Sierra Leone, 11 September 2026
 
-US$37m census financing gap; US$24m committed by government, US$15m disbursed, Census Night 1 Dec 2026.
+Sierra Leone's President Julius Maada Bio told the Presidential Development Partners Committee in Freetown on 10 September 2026 that the 2026 Population and Housing Census faces a US$37 million financing gap. Government has committed US$24 million, about US$15 million of it disbursed, and partners about US$1.5 million; Census Night is set for 1 December 2026.
 
 </div>
 
@@ -593,7 +593,7 @@ Statistics Sierra Leone completed nationwide mapping for the December 2026 censu
 
 **[Stats SL Completes Mapping, Deploys Digital Systems Ahead of 2026 Census](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/)** — SierraLoaded, 7 October 2026
 
-500 tablets, ArcGIS Pro and satellite imagery; over US$20m in preparations; CAPI enumeration 2-16 Dec 2026.
+Statistics Sierra Leone announced on 7 October 2026 that it has deployed the technology for the December census, including 500 tablets for mapping, ArcGIS Pro and satellite imagery. It said the government has spent more than US$20 million on census preparations. Enumerators will collect data on tablets from 2 to 16 December 2026.
 
 </div>
 
@@ -601,7 +601,7 @@ Statistics Sierra Leone completed nationwide mapping for the December 2026 censu
 
 **[2026 Census Budget Rises From $7 Million to Nearly $60 Million – Stats SL Boss Andrew Johnny](https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/)** — SierraLoaded, 12 October 2026
 
-Revised after cartographic mapping; covers enumeration to dissemination; government, donors and private sector to fund.
+The budget for Sierra Leone's 2026 Population and Housing Census has risen from an initial US$7 million to nearly US$60 million, Statistics Sierra Leone's Andrew Bob Johnny said at the 50-day countdown event in Freetown. The estimate was revised after nationwide mapping and covers enumeration through dissemination; funding is expected from government, donors and the private sector.
 
 </div>
 
@@ -627,7 +627,7 @@ Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Cens
 
 **[Karnataka Hosts African Union, Five African Nations For Digital Public Infrastructure Exposure Visit](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/)** — The Bengaluru Live, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; UNDP-supported.
+The Indian state of Karnataka hosted officials from the African Union, Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on 1 September 2026, on a UNDP-supported visit to study digital public infrastructure. State officials and the Centre for e-Governance briefed the delegation on digitising public services and interoperability between government systems.
 
 </div>
 
@@ -635,7 +635,7 @@ AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; U
 
 **[African Delegations Explore India's Digital Public Infrastructure During UNDP Learning Mission](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/)** — Youth Village Zambia, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Five African delegations tour Aadhaar, UPI and DigiLocker on a UNDP South-South mission.
+The UN Development Programme in India hosted delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on a learning mission on digital public infrastructure in New Delhi, Pune and Bangalore in early September 2026. The visits covered Aadhaar digital identity, the Unified Payments Interface and DigiLocker, with meetings at India's identity authority, its national payments corporation and the health and agriculture ministries.
 
 </div>
 

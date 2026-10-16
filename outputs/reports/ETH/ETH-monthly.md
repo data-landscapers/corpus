@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ETH
 ledger_rows: 30
 not_held: 5
-record: a425405bf3a8
+record: bd7ab8261959
 ---
 
 # Ethiopia: monthly update, September – October 2026
@@ -125,7 +125,7 @@ Ethiopia's Council of Ministers unanimously sent a draft national data proclamat
 
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
 
-Addis Ababa meeting pitches the Djibouti-Ethiopia-Sudan corridor to Google, Meta, Microsoft, Amazon and carriers.
+Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
 
 </div>
 
@@ -141,7 +141,7 @@ Addis Ababa meeting pitches the Djibouti-Ethiopia-Sudan corridor to Google, Meta
 
 **[When Digital Ambition Becomes a Tripping Stone](https://capitalethiopia.com/2026/09/06/when-digital-ambition-becomes-a-tripping-stone/)** — Capital (Ethiopia), 6 September 2026
 
-Practitioner case that NBE Directive MFI/33/2022 already defines the readiness MFIs skip when they buy wallets first.
+In an opinion piece, microfinance practitioner Surafel Teshome argues that some Ethiopian microfinance institutions are buying mobile wallets and agent channels before they have the strategy, systems and governance to run them. He points to the National Bank of Ethiopia's Directive MFI/33/2022, which requires an IT strategy, board oversight, risk assessment, disaster recovery and IT audit.
 
 </div>
 
@@ -157,7 +157,7 @@ Practitioner case that NBE Directive MFI/33/2022 already defines the readiness M
 
 **[Tigray Cut Off Again as Communications Blackout Deepens Civilian Misery](https://wardheernews.com/tigray-cut-off-again-as-communications-blackout-deepens-civilian-misery/)** — WardheerNews, 26 September 2026
 
-Ethio Telecom down, Safaricom partly up as fighting resumes; cash-short region loses mobile money; blame contested.
+Internet and phone services were severely disrupted across Ethiopia's Tigray region as fighting resumed between Tigrayan forces and the federal army, reported on 26 September 2026. Ethio Telecom services were fully down and Safaricom partly working, and NetBlocks confirmed the disruption. Residents already short of cash lost access to mobile money. Responsibility for the shutdown is disputed.
 
 </div>
 
@@ -175,7 +175,7 @@ Ethio Telecom down, Safaricom partly up as fighting resumes; cash-short region l
 
 **[Ethio Telecom Announces Successful Completion of First Year of Next Horizon Strategy](https://www.ena.et/web/eng/w/eng_9497253)** — Ethiopian News Agency (ENA), 3 September 2026
 
-Year one of Next Horizon: about 90m customers, telebirr near 61m, 4G population coverage 82.23%.
+Ethio Telecom's chief executive, Frehiwot Tamiru, said on 3 September 2026 that the first year of its three-year Next Horizon strategy left about 90 million customers and close to 61 million telebirr users. Second-year targets include 96.2 million customers and 4G population coverage of 95%, up from 82.23%.
 
 </div>
 
@@ -183,7 +183,7 @@ Year one of Next Horizon: about 90m customers, telebirr near 61m, 4G population 
 
 **[Ethio telecom Next Horizon - Digital & Beyond Strategy 2028 Year II 2019 EFY (2026/27) Annual Business Plan](https://www.ethiotelecom.et/ethio-telecom-next-horizon-digital-beyond-strategy-2028-year-ii-2019-efy-2026-27-annual-business-plan/)** — Ethio telecom, 3 September 2026
 
-ETB 295bn revenue target, 96.2m customers, 4G to 11,014 sites; the operator's own Year II plan in full.
+Ethio telecom published the Year II business plan of its Next Horizon 2028 strategy on 3 September 2026, targeting ETB 295 billion in revenue for 2026/27, ETB 77.45 billion of it from digital businesses. It plans 96.2 million customers, 67.69 million telebirr users, 4G on 11,014 sites, 5G in 73 towns and 268 AI servers.
 
 </div>
 
@@ -235,7 +235,7 @@ Safaricom Ethiopia put itself at 15 million 90-day active customers and more tha
 
 **[Safaricom Ethiopia passes 15 million subscribers five years after getting its licence](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/)** — Tech-ish, 14 September 2026
 
-15 million 90-day active subscribers announced 2026-09-03, five years after the 2021 licence.
+Safaricom Ethiopia announced on 3 September 2026 that it has passed 15 million 90-day active subscribers, five years after receiving its licence in July 2021. It had 14.7 million on 30 June 2026. The company reports more than 3,500 network sites covering about 60% of the population; no exact subscriber figure was given.
 
 </div>
 
@@ -285,7 +285,7 @@ Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired 
 
 **[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code.
 
 </div>
 
@@ -317,7 +317,7 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 
 **[Ethiopia Announces Document Requirements for Foreign Nationals Applying for Fayda Digital ID](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/)** — Ethio Affairs, 4 September 2026
 
-Passport plus residence permit, refugee ID or investment licence: what non-Ethiopians must show to enrol.
+Ethiopia has set out the documents foreign nationals must show to register for the Fayda digital ID: a passport with an Ethiopian Origin ID, residence or work permit, or investment licence, a refugee ID for refugees, and a foreign ministry ID for diplomats and international organisation staff. The requirements' issue date is not stated.
 
 </div>
 
@@ -347,7 +347,7 @@ Ethiopia opened a public sandbox where developers and startups can test the Fayd
 
 **[Banks Baulk at a Bill from Public ID That Turns Commercial](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)** — Addis Fortune, 3 October 2026
 
-Per-check KYC fees of 10-40 Br, no pass-through to customers, failed attempts billed; banks seek NBE-joint consultation.
+FaydaVerse, the new state enterprise running Ethiopia's Fayda digital ID, has begun charging banks for identity checks they once got free: 10 to 20 birr per KYC record retrieval and 20 to 40 birr per biometric authentication, by volume. Its contract bars banks from passing the cost to customers and bills failed attempts; the Ethiopian Bankers Association has asked for a joint consultation with the central bank.
 
 </div>
 
@@ -377,7 +377,7 @@ M-PESA Ethiopia has extended cardless ATM withdrawals to Awash Bank's machines, 
 
 **[Mobile Money in Ethiopia - A Diagnostic Report](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report)** — DFS Ethiopia Hub (Team Shega), 9 September 2026
 
-135m wallets opened, yet under 1 in 10 adults holds a mobile money account and 0.4% rely on one alone.
+A diagnostic report by Ethiopia's Team Shega, published on 9 September 2026, finds that more than 135 million mobile wallets have been opened, yet fewer than one adult in ten holds a mobile money account and 0.4% rely on one alone. Drawing on Global Findex 2025, UNCDF and central bank data, it finds most inclusion gains were bank-led and makes eight recommendations.
 
 </div>
 
@@ -399,7 +399,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[EthSwitch takes Ethiopia's digital payments push to global fintech stage](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage)** — TechReviewAfrica, 10 September 2026
 
-EthioPay's one-million-transaction day and ISO 20022 rails set against India's UPI expansion.
+Ethiopia's national payment switch EthSwitch presented its interoperable payments work at the Global Fintech Fest in Mumbai on 8–11 September 2026, where its chief portfolio officer Abeneazer Lakew joined a digital public infrastructure panel. EthSwitch said in May that its EthioPay instant-payment service handled over one million transactions worth 5.1 billion birr in a single day.
 
 </div>
 
@@ -413,7 +413,7 @@ EthioPay's one-million-transaction day and ISO 20022 rails set against India's U
 
 **[CBE Gives Customers Until November 9 to Link Bank Accounts with Fayda ID](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/)** — Birr Metrics, 16 September 2026
 
-Branches outside Addis, Dire Dawa, Harari and 24 cities: link by 9 November or face debit restrictions.
+The Commercial Bank of Ethiopia has given customers outside Addis Ababa, Dire Dawa, Harari and 24 other cities until 9 November 2026 to link their accounts to the Fayda national digital ID, under a National Bank of Ethiopia directive. Unlinked accounts in areas already covered face debit restrictions blocking withdrawals and transfers. Linking can be done at branches or online.
 
 </div>
 
@@ -427,7 +427,7 @@ Branches outside Addis, Dire Dawa, Harari and 24 cities: link by 9 November or f
 
 **[Ethiopia Joins PAPSS in Major Step Towards Pan-African Payments](https://www.fsxbusiness.com/ethiopia-joins-papss)** — FSX Business, 30 September 2026
 
-31st member country; four banks await NBE no-objection; PAPSS targets half of Ethiopia's banks by March 2027.
+Ethiopia has joined the Pan-African Payment and Settlement System as its 31st member country, having signed its bylaws about a month earlier after delays over concern that financial data would be exposed to other members. Four Ethiopian banks await no-objection letters from the National Bank of Ethiopia, and PAPSS aims to connect half the country's banks by March 2027.
 
 </div>
 
@@ -463,7 +463,7 @@ Ethiopia's national payment switch presented a unified government payment platfo
 
 **[Digital Finance Surge Marks Turning Point for Ethiopian Banking Sector: NBE](https://www.ena.et/web/eng/w/eng_9654453)** — Ethiopian News Agency, 1 October 2026
 
-33 trillion birr in digital transactions in FY2025/26; NBE pairs growth with cybersecurity and data-protection demands.
+Ethiopia recorded digital financial transactions worth 33 trillion birr in the 2025/26 fiscal year, Gemechis Dugasa, regulation and licensing director at the National Bank of Ethiopia, told the Ethiopia Finance Forum on 30 September 2026. He linked the growth to mobile money and digital banking and called for stronger cybersecurity, data protection and governance.
 
 </div>
 
@@ -485,7 +485,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Ethiopia’s commerce goes contactless with new Visa and ETTA infrastructure agreement](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)** — Capital Newspaper (Ethiopia), 7 October 2026
 
-148,000 tap-to-pay devices, tax-certified for e-receipts; merchant data feeds Optasia credit profiles; no sum stated.
+ETTA Solutions and Visa signed a framework agreement to roll out 148,000 contactless payment devices to Ethiopian merchants, jointly financed by both companies. The devices connect to ETTA's ZooryaPay platform, licensed by the National Bank of Ethiopia, and are certified by the tax authority as cash registers and e-receipt terminals. Merchant transaction data feed credit profiles built by Optasia. No sum is stated.
 
 </div>
 
@@ -499,7 +499,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Banks Race to Launch International Payment Cards as Forex Reforms Open New Market](https://birrmetrics.com/banks-race-to-launch-international-payment-cards-as-forex-reforms-open-new-market/)** — Birr Metrics, 9 October 2026
 
-Awash-Mastercard five cards, Oromia-Visa three, 8 Oct 2026; NBE's Feb 2026 easing; card use still capped by forex.
+Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eight internationally accepted payment cards between them on 8 October 2026. The launches follow the National Bank of Ethiopia's February 2026 rule change allowing banks to issue such cards to foreign-currency account holders. Awash said it processed over US$60 million in card foreign exchange last fiscal year.
 
 </div>
 
@@ -515,7 +515,7 @@ Awash-Mastercard five cards, Oromia-Visa three, 8 Oct 2026; NBE's Feb 2026 easin
 
 **[Re-advertisement: Request for Expressions of Interest - Selection of Technical Lead/Chief Architect for the Integrated Tax Administration System (ITAS)](https://www.getchereta.com/tender/85995)** — Ministry of Revenue (Ethiopia), via Get Chereta, 8 October 2026
 
-World Bank-funded architect to govern ITAS design, vendors and e-invoicing integration; EOIs due 29 Oct 2026.
+Ethiopia's Ministry of Revenue re-advertised on 8 October 2026 for an individual consultant to serve as Technical Lead and Chief Architect for its Integrated Tax Administration System, funded by the World Bank's Governance Modernization project (Credit 7619 ET). The role covers system architecture, vendor oversight and integration with the ministry's data warehouse and e-invoicing systems. Expressions of interest are due on 29 October 2026.
 
 </div>
 
@@ -531,7 +531,7 @@ World Bank-funded architect to govern ITAS design, vendors and e-invoicing integ
 
 **[ECX Launches Digital Portal to Cut Red Tape for Traders](https://capitalethiopia.com/2026/09/06/ecx-launches-digital-portal-to-cut-red-tape-for-traders)** — Capital (Ethiopia), 6 September 2026
 
-Built in-house; a 30-minute SLA replaces trips to offices that drew 150+ visitors a day in peak season.
+The Ethiopia Commodity Exchange launched a digital portal, built by its own IT staff, so traders no longer have to visit its offices to open accounts, renew licences or obtain reference prices and market data. Each request gets a tracking PIN and a 30-minute service commitment. An official launch is due within a month.
 
 </div>
 
@@ -545,7 +545,7 @@ Built in-house; a 30-minute SLA replaces trips to offices that drew 150+ visitor
 
 **[Digital logistics overhaul aims to boost regional trade competitiveness](https://capitalethiopia.com/2026/09/13/digital-logistics-overhaul-aims-to-boost-regional-trade-competitiveness/)** — Capital Newspaper, 13 September 2026
 
-ESL launched an all-in-one self-service platform on 2026-09-04; EDR added its own cargo portal.
+Ethiopian Shipping and Logistics launched a web and mobile self-service platform on 4 September 2026 for shipment orders, cargo tracking, freight payment and documents. The Ethio-Djibouti Railway has introduced its own customer portal for booking, tracking and payment.
 
 </div>
 
@@ -563,7 +563,7 @@ ESL launched an all-in-one self-service platform on 2026-09-04; EDR added its ow
 
 **[Safaricom Ethiopia Foundation and FEAPD Sign Three-Year Pact to Advance Disability Inclusion](https://techafricanews.com/2026/09/01/safaricom-ethiopia-foundation-feapd-three-year-disability-inclusion-pact/)** — Tech Africa News, 1 September 2026
 
-Three-year MoU covers accessible tech, education and healthcare for Ethiopians with disabilities.
+Safaricom Ethiopia Foundation and the Federation of Ethiopian Associations of Persons with Disabilities signed a three-year memorandum of understanding, reported on 1 September 2026, covering digital inclusion, accessible technology, education, economic empowerment, healthcare and disability-rights advocacy. No funding amount is given.
 
 </div>
 
@@ -577,7 +577,7 @@ Three-year MoU covers accessible tech, education and healthcare for Ethiopians w
 
 **[Ethio Telecom Secures 15bln Birr Siinqee Bank Deal To Fund Smartphone Access Drive](https://birrmetrics.com/ethio-telecom-secures-15bln-birr-siinqee-bank-deal-to-fund-smartphone-access-drive/)** — Birr Metrics, 3 September 2026
 
-15bn birr Siinqee Bank facility, 4bn earmarked for low-income smartphone buyers; penetration about 36%.
+Ethio Telecom secured a 15 billion birr financing agreement with Siinqee Bank, with 4 billion birr earmarked to help low-income customers buy smartphones. The state operator puts smartphone penetration at about 36% and aims to distribute 2.6 million devices in the next fiscal year. The article does not say when the agreement was signed.
 
 </div>
 
@@ -591,7 +591,7 @@ Three-year MoU covers accessible tech, education and healthcare for Ethiopians w
 
 **[From export readiness to market access: EU-backed support strengthens women's participation in trade along the Djibouti-Ethiopia Corridor](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/)** — Horn Economic Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a>
 
-40 women traders at Bishoftu, 30-31 Jul 2026, under the EUR 32m EU/AFD Djibouti Corridor programme; 94% unlicensed.
+Forty Ethiopian women traders and exporters attended an export-readiness workshop in Bishoftu on 30-31 July 2026 under the €32 million Djibouti Corridor programme, financed by the EU through Global Gateway, delegated to the Agence Française de Développement and run by TradeMark Africa. The programme also funds digital trade systems such as electronic phytosanitary certification.
 
 </div>
 
@@ -605,7 +605,7 @@ Three-year MoU covers accessible tech, education and healthcare for Ethiopians w
 
 **[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-GSMA's own account: refugee women in Ethiopia twice as likely to hold SIMs in others' names; Mbera fieldwork.
+The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
 
 </div>
 
@@ -623,7 +623,7 @@ GSMA's own account: refugee women in Ethiopia twice as likely to hold SIMs in ot
 
 **[Karnataka Hosts African Union, Five African Nations For Digital Public Infrastructure Exposure Visit](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/)** — The Bengaluru Live, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; UNDP-supported.
+The Indian state of Karnataka hosted officials from the African Union, Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on 1 September 2026, on a UNDP-supported visit to study digital public infrastructure. State officials and the Centre for e-Governance briefed the delegation on digitising public services and interoperability between government systems.
 
 </div>
 
@@ -631,7 +631,7 @@ AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; U
 
 **[African Delegations Explore India's Digital Public Infrastructure During UNDP Learning Mission](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/)** — Youth Village Zambia, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-Five African delegations tour Aadhaar, UPI and DigiLocker on a UNDP South-South mission.
+The UN Development Programme in India hosted delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on a learning mission on digital public infrastructure in New Delhi, Pune and Bangalore in early September 2026. The visits covered Aadhaar digital identity, the Unified Payments Interface and DigiLocker, with meetings at India's identity authority, its national payments corporation and the health and agriculture ministries.
 
 </div>
 

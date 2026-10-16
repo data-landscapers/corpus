@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BFA
 ledger_rows: 35
 not_held: 8
-record: 7f9a0296c351
+record: af296bad87eb
 ---
 
 # Burkina Faso: monthly update, September – October 2026
@@ -121,7 +121,7 @@ Burkina Faso is revising its digital territorial development plan to a 2030 hori
 
 **[Conseil des ministres n26 du 10 septembre 2026](https://www.rtb.bf/2026/09/10/conseil-des-ministres-n26-du-10-septembre-2026/)** — Radiodiffusion Television du Burkina, 10 September 2026
 
-Council of 10 September 2026 replaces the 1963 consular civil-status decree; mobile consular missions introduced.
+Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2026, adopted a decree on the civil-status powers of diplomatic and consular agents, replacing a 1963 decree. It adds deputy heads of mission as civil-status officers, allows delegation, including exceptionally to honorary consuls, and introduces mobile consular missions for citizens living far from a consulate.
 
 </div>
 
@@ -145,7 +145,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 **[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
 
-Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, border spectrum, coordinated 5G.
+The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
 </div>
 
@@ -163,7 +163,7 @@ Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, 
 
 **[Burkina Faso confirms in 2026 its resolve to make digital technology a pillar of sovereignty](https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/)** — Africa Liberty News, 17 September 2026
 
-2026 work plan of CFA 61bn, double 2025's 30.4bn; 750 of about 1,700 white-zone localities to be connected.
+Burkina Faso's digital transition ministry approved a 2026 work plan of CFA 61 billion, about double the 2025 budget of CFA 30.4 billion, reported on 17 September 2026. It aims to connect 750 of some 1,700 localities without mobile coverage, co-financed by the state and operators Onatel, Orange and Telecel, and to digitise 100 administrative procedures. The board session's date is not given.
 
 </div>
 
@@ -181,7 +181,7 @@ Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, 
 
 **[« Zéro zone blanche» : Plus de 25 milliards FCFA mobilisés pour accompagner la couverture de 1 500 localités](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/)** — Mousso News, 8 October 2026
 
-Minister: 750 villages connected by end-2026, FCFA 25bn for 1,500 localities, zero white zones by 2030.
+Burkina Faso's digital transition minister, Aminata Zerbo/Sabané, said on 8 October 2026 that more than FCFA 25 billion has been mobilised to bring mobile coverage to 1,500 localities without a network, with 750 villages to be connected by the end of 2026 and no uncovered areas by 2030. She presented the figures at a government exhibition in Ouagadougou.
 
 </div>
 
@@ -189,7 +189,7 @@ Minister: 750 villages connected by end-2026, FCFA 25bn for 1,500 localities, ze
 
 **[Télécommunications : 750 villages burkinabè sortiront bientôt des zones blanches](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/)** — Reflet Info, 9 October 2026
 
-FCFA 25bn for coverage; 750 more villages by 2028; zero white zones by 2030; 3,140 public buildings online.
+Burkina Faso's digital transition minister, Aminata Zerbo, said on 8 October 2026 that 750 villages without network coverage will get calls, internet and mobile money by the end of 2026, and 750 more by 2028, with 25 billion FCFA mobilised by the state. She said 3,140 government buildings are now connected and the administration's bandwidth has risen from 9 to 20 Gbps.
 
 </div>
 
@@ -235,7 +235,7 @@ Burkina Faso's digital-transition minister said 80 citizen service houses have b
 
 **[Lutte contre les fake news : La BCLCC se dote d’un studio pour renforcer la sensibilisation des internautes](https://lefaso.net/spip.php?article149120)** — leFaso.net, 8 September 2026
 
-BCLCC opens an audiovisual studio to produce fake-news debunking and information-verification content.
+Burkina Faso's central anti-cybercrime brigade, the BCLCC, has set up an audiovisual studio to produce public awareness content on online risks. Short videos will debunk false information and explain how to verify it, and other content will cover protecting personal data and accounts. No cost or launch date is given.
 
 </div>
 
@@ -249,7 +249,7 @@ BCLCC opens an audiovisual studio to produce fake-news debunking and information
 
 **[\[Interview\] cybercriminalité au Burkina, un préjudice de 1,7 milliards de FCFA enregistré en 2025, (Lieutenant Napougba Julien Legma)](https://libreinfo.net/cybercriminalite-au-burkina-2/)** — Libreinfo.net, 14 September 2026
 
-FCFA 1.7bn lost to cybercrime in 2025 and FCFA 906m in H1 2026 on 1,000-plus complaints.
+Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of 2026, against FCFA 1.7 billion for the whole of 2025, Lieutenant Napougba Julien Legma of the central anti-cybercrime brigade said in an interview published on 14 September 2026. More than 1,000 complaints have been lodged so far this year.
 
 </div>
 
@@ -267,7 +267,7 @@ FCFA 1.7bn lost to cybercrime in 2025 and FCFA 906m in H1 2026 on 1,000-plus com
 
 **[Ghana, Burkina Faso flood management, what's AV-STEC Project role?](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/)** — Ghana News Agency, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
 
-A Bagre-Kompienga release protocol proposed; SONABEL's October 2025 letters to Ghana's VRA unanswered.
+At an AV-STEC project meeting in Bolgatanga, Ghanaian and Burkinabe officials proposed a Bagre-Kompienga release protocol based on real-time data sharing and agreed spill thresholds. Burkina Faso's power utility SONABEL said letters to Ghana's Volta River Authority since October 2025 had gone unanswered. Participants cited slow warnings, weak data sharing between forecasters and responders, and false alarms; the project is funded through Canada's IDRC.
 
 </div>
 
@@ -283,7 +283,7 @@ A Bagre-Kompienga release protocol proposed; SONABEL's October 2025 letters to G
 
 **[Carte d’identité biométrique AES : les opérations d’établissement lancées à Koudougou](https://www.sidwaya.info/carte-didentite-biometrique-aes-les-operations-detablissement-lancees-a-koudougou/)** — Sidwaya, 9 September 2026
 
-ONI opens special CIB-AES enrolment at Koudougou on 9 September 2026, before the 16 September identity day.
+Burkina Faso's national identification office ONI began special operations to issue the Alliance of Sahel States biometric identity card, CIB-AES, at Koudougou on 9 September 2026, ahead of International Identity Day on 16 September. No enrolment figures or costs are given.
 
 </div>
 
@@ -305,7 +305,7 @@ Burkina Faso's national identification office opened nine extra enrolment sites 
 
 **[Journée internationale de l'identité : la sécurisation des diplômes au cœur de la VIIe édition](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/)** — Sidwaya, 16 September 2026
 
-Ouagadougou, 2026-09-16: biometric securing of diplomas; AES card; 70+ border agents facing sanction.
+Burkina Faso's Ministry of Security and the National Identification Office marked International Identity Day in Ouagadougou on 16 September 2026, on the use of biometrics and basic identification to secure academic and professional diplomas. Security Minister Mahamoudou Sana said the aim is a national framework for verifying qualifications, and that more than 70 police and gendarmerie files are being examined for sanction over roadblock harassment.
 
 </div>
 
@@ -407,7 +407,7 @@ Orange Burkina Faso relaunched its Max It app on 18 September 2026 with a promot
 
 **[Sanguié/Pouni : Des agents de l’état civil outillés à l’utilisation de la plateforme VENEEM](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/)** — Agence d'Information du Burkina, 3 September 2026
 
-72-hour DGMEC session on real-time smartphone entry of births, marriages and deaths; PREGOLS-funded.
+Burkina Faso's directorate for the modernisation of civil registration trained registry officers and transcribing agents in Pouni commune on the VENEEM civil-registration platform from 31 August to 2 September 2026. The session covered smartphone set-up and real-time entry of births, marriages and deaths, and was funded by the regional local governance project PREGOLS under the 2026 budget.
 
 </div>
 
@@ -423,7 +423,7 @@ Orange Burkina Faso relaunched its Max It app on 18 September 2026 with a promot
 
 **[Ministère de la Santé : la carte sanitaire digitalisée au cœur du premier CASEM de 2026](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/)** — Sidwaya, 22 September 2026
 
-CASEM of 21 Sep 2026: geolocated health map under SNTS 2026-2030; 67.8% of 8,759 H1 activities done or started.
+Burkina Faso's health ministry made its digitised health map the theme of its first 2026 sector council in Ouagadougou on 21 September. The map is a geolocated tool for planning facilities, staff, medicines and equipment. The minister, Robert Kargougou, said 67.8% of 8,759 activities planned for the first half of the year were completed or under way.
 
 </div>
 
@@ -437,7 +437,7 @@ CASEM of 21 Sep 2026: geolocated health map under SNTS 2026-2030; 67.8% of 8,759
 
 **[JEPPC 2026 : Le ministre Sana présente les acquis dans la modernisation de son département](https://www.minute.bf/jeppc-2026-le-ministre-sana-presente-les-acquis-dans-la-modernisation-de-son-departement/)** — Minute.bf, 3 October 2026
 
-Security ministry's 2022-26 record: occurrence book and SYGESS dematerialised, BCLCC regional antennas, e-contravention.
+Burkina Faso's security minister, Mahamadou Sana, presented his ministry's record for 2022–2026 at a government exhibition on 2 October 2026. Alongside recruitment and new specialised units, he cited digitised police occurrence records, regional offices of the anti-cybercrime unit and electronic traffic fines. He put the ratio of officers to population at one per 537 people in June 2026.
 
 </div>
 
@@ -453,7 +453,7 @@ Security ministry's 2022-26 record: occurrence book and SYGESS dematerialised, B
 
 **[Sécurité routière à Ouagadougou : Naissance de la BRICIR pour en finir avec l'incivisme sur les routes](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/)** — Burkina24, 3 September 2026
 
-New motorised police brigade to trace drivers ducking e-verbalisation fines; video enforcement live since 1 Aug 2026.
+Burkina Faso's security minister, Mahamadou Sana, launched a motorised police brigade, the BRICIR, in Ouagadougou on 2 September 2026. It is to identify and intercept drivers recorded by the city's video-ticketing cameras who evade their fines, a system in service since 1 August, and to enforce rules on red lights, speeding and helmets.
 
 </div>
 
@@ -475,7 +475,7 @@ Burkina Faso's video-verbalisation cameras recorded 19,910 road offences over Au
 
 **[Incidents dans les résultats de certains concours de la session 2026: « Il s’agit d’une erreur humaine », rassure le SG, Rodrigue Oboulbiga](https://www.sidwaya.info/incidents-dans-les-resultats-de-certains-concours-de-la-session-2026-il-sagit-dune-erreur-humaine-rassure-le-sg-rodrigue-oboulbiga/)** — Sidwaya, 3 September 2026
 
-Koudougou scripts lost between grouping and the marking machines; 74 candidates added to two 2026 lists.
+Burkina Faso's civil service ministry said on 3 September 2026 that some exam scripts from the Koudougou centre were left out of automated marking in two 2026 recruitment competitions whose results were published on 25 August. Secretary general Rodrigue Oboulbiga called it human error; after re-marking, 35 and 39 candidates were added to the two lists, and disciplinary measures were announced.
 
 </div>
 
@@ -489,7 +489,7 @@ Koudougou scripts lost between grouping and the marking machines; 74 candidates 
 
 **[Burkina Faso : Lancement d’une plateforme pour le recensement du passif de trois sociétés immobilières](https://burkina24.com/2026/09/03/burkina-faso-lancement-dune-plateforme-pour-le-recensement-du-passif-de-trois-societes-immobilieres/)** — Burkina24, 3 September 2026
 
-passif-immobilier.anagrasc.gov.bf opens online claims for SOCOGIB, AZIMO and SATMO buyers; built with ANPTIC.
+Burkina Faso's seized-asset agency ANAGRASC launched passif-immobilier.anagrasc.gov.bf on 3 September 2026, built with the ICT agency ANPTIC. Buyers of plots or buildings from three seized property companies, SOCOGIB SA, AZIMO SA and SATMO, can register claims remotely and upload identity and title documents.
 
 </div>
 
@@ -511,7 +511,7 @@ Burkina Faso's digital transition ministry set the official launch of electronic
 
 **[Administration publique : « Faso Sign » pour accélérer la dématérialisation des procédures](https://lefaso.net/spip.php?article149243)** — leFaso.net, 15 September 2026
 
-Launched 15 September 2026 in Ouagadougou; e-signature live on the CIMEXT, SIGEG and SYCAD platforms.
+Burkina Faso's digital transition ministry launched Faso Sign, a national electronic signature platform for the public administration, in Ouagadougou on 15 September 2026. It is built into three existing platforms: CIMEXT for mission orders, SIGEG for administrative mail and SYCAD for land and property records. The prime minister told ministries to set a timetable for adopting it, calling its use an obligation.
 
 </div>
 
@@ -631,7 +631,7 @@ Burkina Faso's national digital event returns for a second edition from 17 to 24
 
 **[Formation en informatique : 70 élèves et étudiants en situation de handicap visuel outillés](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/)** — Sidwaya, 13 September 2026
 
-Fifth ANEAM edition, Ouagadougou 7-11 Sept 2026; three levels from Word to email and AI; no machines to practise after.
+Burkina Faso's national association of blind and visually impaired students, ANEAM, trained 70 pupils and students in adapted computing in Ouagadougou from 7 to 11 September 2026, its fifth such course. Three levels ran from Word and Excel basics to internet search, email and artificial intelligence. The association's president said participants lack computers to practise on afterwards.
 
 </div>
 
@@ -645,7 +645,7 @@ Fifth ANEAM edition, Ouagadougou 7-11 Sept 2026; three levels from Word to email
 
 **[Utilisation de l'intelligence artificielle : des secrétaires généraux à l'école des bonnes pratiques](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/)** — Sidwaya, 24 September 2026
 
-Two-day course, 24-25 Sep 2026, for ministries' secretaries general: generative AI use and administrative data security.
+Burkina Faso's digital transition ministry trained the secretaries general of ministries and institutions in the use of artificial intelligence in Ouagadougou on 24–25 September 2026. The course covered generative AI tools and which administrative data can be entered into them without disclosing confidential information.
 
 </div>
 
@@ -663,7 +663,7 @@ Two-day course, 24-25 Sep 2026, for ministries' secretaries general: generative 
 
 **[Burkina : Le Conseil national de la statistique tient sa première session ordinaire de l’année 2026](https://lefaso.net/spip.php?article149178)** — leFaso.net, 11 September 2026
 
-2027 programme costed CFA10.6bn, 52.7% state-funded; 2025 execution 67.8%; AI and big-data commune observatory planned.
+Burkina Faso's National Statistics Council held its first 2026 session on 11 September, reviewing a draft 2027 statistical programme costed at CFA 10.6 billion, 52.7% funded by the state. The statistics institute INSD reported 67.8% execution of the 2025 programme. It plans an observatory using satellite, mobile-phone and web data and AI to produce indicators for all 351 communes.
 
 </div>
 

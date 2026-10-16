@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ZWE
 ledger_rows: 39
 not_held: 7
-record: febb906c6391
+record: ea94b4419d22
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -107,7 +107,7 @@ record: febb906c6391
 
 **[Mavetera sets 2030 deadline for Smart Post Offices](https://spikedmedia.co.zw/mavetera-sets-2030-deadline-for-smart-post-offices/)** — Spiked Media, 19 September 2026
 
-250-plus post offices to become smart service centres by 2030; AI parcel tracking, drones, USO funding fix.
+Zimbabwe's ICT, Postal and Courier Services ministry set 2030 as the deadline to turn the country's more than 250 post offices into Smart Post Offices, announced at a postal conference in Harare on 18 September 2026. The plan includes a ring-fenced fund for Zimpost's universal service obligation, AI parcel tracking and drone delivery. A postal policy and an e-commerce bill are being drafted.
 
 </div>
 
@@ -115,7 +115,7 @@ record: febb906c6391
 
 **[Zimbabwe sets out plan to modernise postal and courier services for digital economy](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy)** — TechReviewAfrica, 20 September 2026
 
-Stabilise, commercialise, capitalise; postal amendment bill before Parliament; e-commerce bill in drafting.
+Zimbabwe's ICT minister Tatenda Mavetera set out a three-phase plan for the postal and courier sector at its annual conference: ring-fencing the Universal Service Fund, then Smart Post Offices by 2030 with AI, drones and e-commerce, then strategic equity partnerships. A Postal and Telecommunications Amendment Bill is before Parliament and an E-Commerce and E-Transactions Bill is being drafted.
 
 </div>
 
@@ -159,7 +159,7 @@ Zimbabwe's ICT minister gave her ministry, the regulator and the postal operator
 
 **[InDrive, Bolt providing affordable, dignified services – says government, as e-hailing services get five-month reprieve](https://www.newzimbabwe.com/indrive-bolt-providing-affordable-dignified-services-says-government-as-e-hailing-services-get-five-month-reprieve/)** — NewZimbabwe, 9 September 2026
 
-Cabinet gives e-hailing platforms a five-month moratorium pending a self-regulating framework and a tax arrangement.
+Zimbabwe's Cabinet granted e-hailing platforms including Bolt, InDrive and Tap & Go a five-month moratorium, Information Minister Soda Zhemu announced on 9 September 2026. During it the government will develop a self-regulating framework for drivers and passenger safety and register the businesses, with a view to bringing platforms and drivers into the tax net.
 
 </div>
 
@@ -197,7 +197,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Zim rolling out gateways, teacher and parents training in line with the Child Online Protection Policy](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/)** — New Ziana, 10 September 2026
 
-Content gateways on public free Wi-Fi and in schools; Mavetera to the National Assembly, 2026-09-09.
+Zimbabwe's ICT minister, Tatenda Mavetera, told the National Assembly on 9 September 2026 that the National Child Online Protection Policy is moving to implementation. A committee with the education and social welfare ministries is installing content gateways on public free Wi-Fi and school networks so children reach only age-appropriate material; a social media ban would need further consultation.
 
 </div>
 
@@ -211,7 +211,7 @@ Content gateways on public free Wi-Fi and in schools; Mavetera to the National A
 
 **[The inaugural Africa Data Protection Day](https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/)** — Scientific and Industrial Research and Development Centre (SIRDC), Zimbabwe, 23 September 2026
 
-Day marked at POTRAZ consultative workshop on CDPA guidelines and SI 155 of 2024 amendments on administrative fines.
+Zimbabwe's telecoms regulator POTRAZ held a national workshop on guidelines under the Cyber and Data Protection Act and on amendments to Statutory Instrument 155 of 2024 on administrative fines, marking the first Africa Data Protection Day on 21 September 2026, according to the research centre SIRDC. The text and status of the amendments are not given.
 
 </div>
 
@@ -243,7 +243,7 @@ Zimbabwe's regulator POTRAZ, which acts as the country's data protection authori
 
 **[DR. B. Chirume Appointed To Parliamentary Committee Of The Future As Zimbabwe Eyes 30-Year Digital Roadmap](https://technomag.co.zw/dr-b-chirume-appointed-to-parliamentary-committee-of-the-future-as-zimbabwe-eyes-30-year-digital-roadmap/)** — TechnoMag, 4 September 2026
 
-ICT permanent secretary Chirume joins the body planning Zimbabwe's Vision 2056 digital roadmap.
+Zimbabwe's ICT ministry said its permanent secretary, Beaullah Chirume, has been appointed to Parliament's Committee of the Future, which plans a 30-year outlook tied to Vision 2056. TechnoMag reports the committee is expected to plan for AI, cybersecurity and rural connectivity, and notes ZIMPOST's 300-plus offices are being repurposed for digital inclusion.
 
 </div>
 
@@ -275,7 +275,7 @@ Zimbabwe's largest operator will shut down its 3G network by the end of December
 
 **[Econet InfraCo - Unaudited Abridged Interim Financial Statements for the Half Year Ended 31 August 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf)** — Econet Infrastructure Company Limited, 1 October 2026
 
-Issuer's own statements: US$13.7m half-year profit, no interim dividend; not comparable after USD switch 1 Mar 2026.
+Econet InfraCo, the tower, power and property arm of Econet Wireless Zimbabwe listed on the Victoria Falls Stock Exchange, reported unaudited revenue of US$70.1 million and profit of US$13.7 million for the six months to 31 August 2026, with no interim dividend. It said solar power and AI-based fuel management cut fuel use by 30%, and construction began on a planned 100MW solar farm.
 
 </div>
 
@@ -315,7 +315,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Rockwell secures Mimosa Mine control networks in Zimbabwe](https://tech.africa/rockwell-mimosa-mine-ot-security/)** — Tech Africa, 2 September 2026
 
-OT segmentation retrofit at a platinum mine; no value, no timeline, no incident cited.
+Rockwell Automation said on 1 September 2026 that it had completed a cybersecurity and modernisation project at Zimbabwe's Mimosa platinum mine with local distributor Mine Elect. The work covered network architecture, segmentation of control systems, and controls on system access, data transfer, monitoring and recovery. No contract value, timeline or prompting incident is given.
 
 </div>
 
@@ -361,7 +361,7 @@ Zimbabwe's telecoms regulator is developing a Cybersecurity Framework for Critic
 
 **[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
 </div>
 
@@ -375,7 +375,7 @@ Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-
 
 **[RBZ shuts down ghost wallets](https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/)** — Business Times, 10 September 2026
 
-Civil Registry national database linked to mobile-money subscriber records to close duplicate wallets.
+The Reserve Bank of Zimbabwe has closed ghost, fictitious and duplicate mobile money wallets after linking the Civil Registry's national database to mobile-money subscriber records, Business Times reported on 10 September 2026. The number of wallets closed, the operators affected and when the linkage began are not given.
 
 </div>
 
@@ -383,7 +383,7 @@ Civil Registry national database linked to mobile-money subscriber records to cl
 
 **[RBZ closes loopholes on mobile money illicit financial flows, fraud](https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/)** — The Herald, 14 September 2026
 
-RBZ completed Civil Registry integration with mobile money subscriber records for biometric verification.
+The Reserve Bank of Zimbabwe says all mobile money providers are now linked to the national Civil Registry, allowing identity checks at sign-up and in ongoing KYC reviews. Governor John Mushayavanhu said operators completed a customer verification exercise by the 30 June 2026 deadline set in his February monetary policy statement, and all wallets were rescreened against the registry.
 
 </div>
 
@@ -399,7 +399,7 @@ RBZ completed Civil Registry integration with mobile money subscriber records fo
 
 **[Zimbabwe: Country Growth and Jobs Report (P512930)](https://documents.worldbank.org/curated/en/099090226030010924/pdf/P512930-4ebf2401-e24e-459b-9b56-b00c30f983fc.pdf)** — World Bank Group, 2 September 2026
 
-World Bank urges Zimbabwe to consider phasing out the 2% IMTT, ZiG first; mobile money used by 63%.
+The World Bank's Country Growth and Jobs Report for Zimbabwe recommends considering phasing out the 2% Intermediate Money Transfer Tax, beginning with ZiG transactions. It records mobile money use by 63% of the population and digital retail transactions of USD 5.9 billion in the second quarter of 2025, and notes the January 2026 cut of the ZiG rate to 1.5%.
 
 </div>
 
@@ -407,7 +407,7 @@ World Bank urges Zimbabwe to consider phasing out the 2% IMTT, ZiG first; mobile
 
 **[World Bank warns Zim](https://businesstimes.co.zw/world-bank-warns-zim-5/)** — Business Times (Zimbabwe), 17 September 2026
 
-Free lede only: the Bank says the transaction tax pushes activity back to cash.
+The World Bank has urged Zimbabwe to reform its Intermediated Money Transfer Tax, saying the levy on electronic transactions discourages digital payments, weakens financial intermediation and pushes activity towards cash, Business Times reported on 17 September 2026. Banks and businesses are calling for the tax to be abolished or cut. Only the article's opening paragraph is available.
 
 </div>
 
@@ -421,7 +421,7 @@ Free lede only: the Bank says the transaction tax pushes activity back to cash.
 
 **[Checking Your ZINARA Frequent Traveller Express Pass (FTEP) Balance](https://technomag.co.zw/checking-your-zinara-frequent-traveller-express-pass-ftep-balance/)** — TechnoMag, 3 September 2026
 
-FTEP balance by WhatsApp: text Zinara plus the vehicle registration number to +263 771 288 940.
+The Zimbabwe National Roads Administration lets holders of its Frequent Traveller Express Pass, a prepaid toll facility, check their remaining trips on WhatsApp by sending 'Zinara' and the vehicle registration number to +263 771 288 940. The pass is for drivers using toll plazas at least 15 times a month, who buy bundles of 15 to 25 trips.
 
 </div>
 
@@ -435,7 +435,7 @@ FTEP balance by WhatsApp: text Zinara plus the vehicle registration number to +2
 
 **[Zimbabwe says single-currency switch hinges on market conditions](https://www.newzimbabwe.com/zimbabwe-says-single-currency-switch-hinges-on-market-conditions/)** — NewZimbabwe (Bloomberg), 16 September 2026
 
-RBZ to launch a digital FX trading system in Q4 2026, World Bank peer-reviewed; import cover at 1.8 months.
+The Reserve Bank of Zimbabwe will introduce a digital foreign exchange trading system in the fourth quarter of 2026 after World Bank peer review, governor John Mushayavanhu told bankers in Harare. He said the move to the ZiG as sole currency will depend on single-digit inflation and three to six months of import cover; cover currently stands at about 1.8 months.
 
 </div>
 
@@ -493,7 +493,7 @@ Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-A
 
 **[Unvalidated Title Deeds To Lose Formal Recognition in 11 Months](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/)** — Open Parly ZW, 11 September 2026
 
-DLAP to be sole title register after July 2027 deadline; US$215 all-in validation fee; unvalidated deeds keep title.
+Zimbabwe's justice minister Ziyambi Ziyambi told Parliament that the Digital Land Administrative Platform becomes the sole authoritative property register when the title-deed validation period ends in July 2027. Unvalidated paper deeds will then not be usable to sell or transfer land, though ownership is not lost. Validation costs US$215 including fees and VAT.
 
 </div>
 
@@ -523,7 +523,7 @@ Zimbabwe's small-enterprise development corporation said a national database of 
 
 **[GP4382002 ZWE Laboratory Information Management System (LIMS)](https://www.ungm.org/Public/Notice/314282)** — UNGM, 14 September 2026
 
-UNGM notice GP4382002 seeks a supplier to implement a Laboratory Information Management System in Zimbabwe.
+The UN Development Programme posted tender GP4382002 on the UN Global Marketplace for a company to implement a laboratory information management system in Zimbabwe. A pre-bid conference was held online on 10 September 2026. No budget, scope or closing date is given in the notice.
 
 </div>
 
@@ -531,7 +531,7 @@ UNGM notice GP4382002 seeks a supplier to implement a Laboratory Information Man
 
 **[Govt takes diagnostics closer to rural communities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/)** — Zimbabwe Situation (source: The Herald), 23 September 2026
 
-LIMS live at 117 main laboratories, 80% facility target by 2030, results by SMS; feeds the Impilo e-health platform.
+Zimbabwe's health ministry said on 23 September 2026 that its Laboratory Information Management System is running at 117 main laboratories and linked to lower-level ones, allowing results to be sent electronically, including by SMS. The national laboratory plan for 2025–2030 aims to extend it to 80% of health facilities, and it is to connect with the Impilo electronic health records platform.
 
 </div>
 
@@ -545,7 +545,7 @@ LIMS live at 117 main laboratories, 80% facility target by 2030, results by SMS;
 
 **[Electronic Case Management System (IECMS) brings justice closer to Gweru residents](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)** — The Chronicle (via Herald), 26 September 2026
 
-Phase 4.4 e-court rollout to Midlands and Mashonaland West magistrates from 1 Oct 2026; Harare, Bulawayo by year-end.
+Zimbabwe's Judicial Service Commission is extending its Integrated Electronic Case Management System to magistrates' courts in Midlands and Mashonaland West on 1 October 2026, ahead of Harare and Bulawayo by year-end. The system, begun in 2022, already covers the Constitutional, Supreme and Labour Courts and the High Court; a public awareness event was held in Gweru.
 
 </div>
 
@@ -623,7 +623,7 @@ Zimbabwe's police said logistics for an Electronic Traffic Management System wer
 
 **[ZimSmart converts ZimPost offices into digital health clinics](https://www.heraldonline.co.zw/zimsmart-converts-zimpost-offices-into-digital-health-clinics/)** — The Herald, 9 October 2026
 
-28 nurse-staffed sites in post offices and containers; Starlink and NetOne links; 118,000 reached.
+ZimSmart Villages is converting parts of Zimbabwe Postal Services offices into nurse-staffed digital health clinics with point-of-care diagnostics and small dispensaries, and uses container clinics where there is no post office. The company told a conference in Bulawayo it has 28 sites connected through Starlink and NetOne and has reached 118,000 people.
 
 </div>
 
@@ -641,7 +641,7 @@ Zimbabwe's police said logistics for an Electronic Traffic Management System wer
 
 **[Econet Ai nears completion of Ndebele-speaking chatbot](https://cite.org.zw/econet-ai-nears-completion-of-ndebele-speaking-chatbot/)** — CITE Zimbabwe, 6 September 2026
 
-Ndebele bot phased in from September 2026; Shona-language Yamurai already resolves over 70% of enquiries.
+Econet Ai, a subsidiary of Econet Wireless Zimbabwe, said its Ndebele-speaking customer-support chatbot will be phased in from September 2026 and be fully conversational by the end of the year. Its Shona chatbot Yamurai already handles more than 70% of enquiries alongside about 600 contact-centre staff; Tonga, Swahili, Mandarin and French are planned.
 
 </div>
 
@@ -655,7 +655,7 @@ Ndebele bot phased in from September 2026; Shona-language Yamurai already resolv
 
 **[Govt pursues traffic violators as 4m offences caught on camera](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)** — Zimbabwe Situation (source: Herald), 27 September 2026
 
-Over 4m violations on Harare's AI cameras by end-Sept 2026; fines now pursued, 20 cameras up, 300+ planned.
+Harare's AI-powered traffic cameras had recorded more than four million violations by the end of September 2026, up from 2.3 million in mid-August, and Zimbabwe's police have begun calling offenders in to pay fines after verification, reported on 27 September. Twenty cameras are installed under the first phase of a home affairs programme with TelOne, and more than 300 are planned for the capital.
 
 </div>
 
@@ -671,7 +671,7 @@ Over 4m violations on Harare's AI cameras by end-Sept 2026; fines now pursued, 2
 
 **[Zimbabwe clears drones to deliver vaccines, blood and medicines](https://www.newzimbabwe.com/zimbabwe-clears-drones-to-deliver-vaccines-blood-and-medicines/)** — NewZimbabwe, 22 September 2026
 
-CAAZ BVLOS approval for Drone Solutions; vaccines, blood and samples in about 30 minutes after August 2026 trials.
+The Civil Aviation Authority of Zimbabwe approved Drone Solutions Zimbabwe to fly beyond-visual-line-of-sight medical deliveries using Kite Aero's KITE aircraft, moving from demonstration flights completed in August 2026 to daily operations. The service carries vaccines, blood, pathology samples and medicines, with deliveries taking about 30 minutes. The date of the approval is not given.
 
 </div>
 
@@ -689,7 +689,7 @@ CAAZ BVLOS approval for Drone Solutions; vaccines, blood and samples in about 30
 
 **[UNDP Partners Gvt To Launch First Rural AI, Digital and Innovation Hub at Nyamuroro VTC in Gokwe](https://technomag.co.zw/undp-partners-gvt-to-launch-first-rural-ai-digital-and-innovation-hub-at-nyamuroro-vtc-in-gokwe/)** — TechnoMag, 29 September 2026
 
-Solar-powered, Starlink-linked hub in Gokwe; 50 youths in free bootcamp, 3,000 learners and 300 teachers targeted.
+UNDP, Zimbabwe's youth ministry and Uncommon launched the country's first rural AI, digital and innovation hub at Nyamuroro Vocational Training Centre in Gokwe. The solar-powered hub uses Starlink and is enrolling 50 young people in a free one-year bootcamp from September 2026, targeting 3,000 learners and 300 teachers. No cost is given.
 
 </div>
 
@@ -705,7 +705,7 @@ Solar-powered, Starlink-linked hub in Gokwe; 50 youths in free bootcamp, 3,000 l
 
 **[Call for policy research proposals: National Digital Technologies Policy Research Programme (DTPRP)](https://yuthaxis.com/wp-content/uploads/2026/09/Call-for-Policy-Proposal-joint.pdf)** — Postal and Telecommunications Regulatory Authority of Zimbabwe, Research Council of Zimbabwe and Scientific and Industrial Research and Development Centre, 7 September 2026
 
-Five priority areas, from AI governance to data sovereignty; proposals to POTRAZ by 3 October 2026.
+Zimbabwe's telecommunications regulator, POTRAZ, with the Research Council of Zimbabwe and the Scientific and Industrial Research and Development Centre, invited policy research proposals under a National Digital Technologies Policy Research Programme. Priority areas include AI governance, data governance and sovereignty, platform regulation, connectivity and innovation policy; proposals close on 3 October 2026 and applicants are notified by 23 October.
 
 </div>
 
@@ -713,7 +713,7 @@ Five priority areas, from AI governance to data sovereignty; proposals to POTRAZ
 
 **[POTRAZ National Digital Technologies Policy Research Programme 2026: Call for Policy Research Proposals](https://applynow.co.zw/2026/09/09/potraz-4/)** — ApplyNOW (POTRAZ, RCZ and SIRDC call), 9 September 2026
 
-Proposals close 3 October 2026; AI governance, data sovereignty and platform regulation among five priority areas.
+Zimbabwe's Postal and Telecommunications Regulatory Authority, with the Research Council of Zimbabwe and the Scientific and Industrial Research and Development Centre, called for policy research proposals under a National Digital Technologies Policy Research Programme, closing on 3 October 2026. The five priority areas include AI governance, data governance and cybersecurity, platform regulation and connectivity policy. No funding amount is given.
 
 </div>
 
@@ -731,7 +731,7 @@ Proposals close 3 October 2026; AI governance, data sovereignty and platform reg
 
 **[Zimbabwe expands ICT skills support for teachers with visual impairments](https://dig.watch/updates/zimbabwe-ict-skills-teachers-visual-impairments)** — Digital Watch Observatory, 3 September 2026
 
-37 blind and low-vision teachers, assistants and aides from all 10 provinces at a POTRAZ workshop in Chiredzi.
+Zimbabwe's telecoms regulator, POTRAZ, held a five-day ICT skills workshop in Chiredzi for 37 teachers with visual impairments, their assistants and aides from all ten provinces. The Internet Society Zimbabwe Chapter ran the training, which covered assistive technologies and accessible digital platforms.
 
 </div>
 
@@ -763,7 +763,7 @@ Zimbabwe's internet and data traffic rose 57.28% in the first quarter of 2026, t
 
 **[A data-sharing clause derailed US-Zimbabwe health talks. Now all funding ends this month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html)** — The Independent (AP wire, by Farai Mutsaka), 25 September 2026
 
-US Embassy: all US health funding ends September 2026; Harare refused an MoU tied to sensitive health data access.
+The US Embassy in Harare said on 25 September 2026 that US funding for Zimbabwe's health programmes ends at the end of September, after Zimbabwe declined a bilateral health memorandum. Zimbabwe objected in part to a requirement to share sensitive health data, including virus samples. Ambassador Pamela Tremont said relations would shift to trade and investment.
 
 </div>
 

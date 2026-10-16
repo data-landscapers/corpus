@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MAR
 ledger_rows: 29
 not_held: 14
-record: 6757d51a310e
+record: 239d4c1817cf
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -93,7 +93,7 @@ record: 6757d51a310e
 
 **[غياب البريد الإلكتروني يعرقل مساطر تحصيل الديون أمام المحاكم التجارية](https://www.hespress.com/%d8%ba%d9%8a%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b7%d8%b1-%d8%aa%d8%ad-1820848.html)** — Hespress, 13 October 2026
 
-Casablanca court refuses MAD 376,552 claim under Civil Procedure Code Article 234; email now mandatory for companies.
+Casablanca's commercial court of first instance rejected a payment-order application for MAD 376,552 because it omitted the debtor company's email address, applying Article 234 of Morocco's Civil Procedure Code, which requires an email for any legal-person party, Hespress reported on 13 October 2026. Creditors without debtors' email addresses face similar refusals. The order's date is not given.
 
 </div>
 
@@ -141,7 +141,7 @@ The UN Economic and Social Commission for Western Asia and Morocco's minister fo
 
 **[La petite révolution administrative cachée dans le programme de l'Istiqlal](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html)** — L'ODJ, 4 September 2026
 
-Istiqlal manifesto's tacit-approval rule, fewer prior authorisations, AI in public-policy governance.
+Morocco's Istiqlal party proposes in its election programme that, for some procedures, an administration's silence after a set deadline should count as approval, columnist Mamoune Acharki wrote in L'ODJ on 4 September 2026. The programme also proposes fewer prior authorisations, more use of specifications, and faster digitisation of procedures. No list of procedures or deadlines is given.
 
 </div>
 
@@ -197,7 +197,7 @@ The digital transition ministry and a critical digital-infrastructure supplier s
 
 **[InsurTech in Morocco: AfDB backs a programme to modernise insurance](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/)** — Canal212, 27 September 2026
 
-US$680,000 package: AfDB ADFI grant US$510,000, ACAPS US$170,000; sandbox mooted, roadshow Q1 2027.
+Morocco's insurance supervisor (ACAPS) launched an InsurTech programme with the African Development Bank, a US$680,000 technical assistance package of which the bank gives US$510,000 as a grant and ACAPS US$170,000. Running to early 2027, it begins with a tendered study of regulatory barriers to digital insurance.
 
 </div>
 
@@ -211,7 +211,7 @@ US$680,000 package: AfDB ADFI grant US$510,000, ACAPS US$170,000; sandbox mooted
 
 **[Numérique et climat : le Maroc consolide deux chantiers de long terme avec 567,3 M€](https://www.laverite.ma/maroc-567-millions-numerique-risques-climatiques-banque-mondiale/)** — La Vérité, 4 October 2026
 
-BO n°7548 decrees approve EUR 218.2m digital loan signed 25 June and EUR 349.1m climate-risk loan.
+Morocco's Bulletin officiel of 1 October 2026 published decrees approving two World Bank loans: €218.2 million, signed on 25 June, for the Digital Transformation Acceleration Program, and €349.1 million, signed on 30 June, for climate and risk finance. The digital programme plans a single public services portal and a digital wallet linked to the electronic ID card, with results expected by 2031.
 
 </div>
 
@@ -229,7 +229,7 @@ BO n°7548 decrees approve EUR 218.2m digital loan signed 25 June and EUR 349.1m
 
 **[Maroc IA 2030 : le Royaume passe de l'ambition a l'action](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html)** — LesEco.ma, 10 September 2026
 
-Dakhla 100ha/500MW green data-centre campus, ~1GW national target, darija and amazigh sovereign LLM.
+Morocco's digital transition minister, Amal El Fallah Seghrouchni, presented the operational phase of the Maroc IA 2030 roadmap in Rabat on 8 September 2026. It includes green data centres at Dakhla, a network of regional JAZARI institutes and language models in Darija and Amazigh. Targets for 2030 are MAD 100 billion added to GDP, 50,000 jobs and 200,000 trained people.
 
 </div>
 
@@ -243,7 +243,7 @@ Dakhla 100ha/500MW green data-centre campus, ~1GW national target, darija and am
 
 **[FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco)** — EIN Presswire (FiveNines Group announcement), 7 October 2026
 
-UK firm to design 20MW high-density AI facility on Nvidia Vera Rubin reference; platform target put at 180MW.
+The UK firm FiveNines Group was appointed to lead design management and procurement strategy for a 20MW AI data centre that Nexus Core Systems plans near Casablanca, Morocco, using Nvidia's Vera Rubin reference architecture. The announcement puts the wider Nexus AI Factory platform's target at 180MW on renewable power. No cost, permit or construction start is given.
 
 </div>
 
@@ -275,7 +275,7 @@ Bank Al-Maghrib and the Central Bank of the UAE signed two memoranda in Abu Dhab
 
 **[A DSGE Model for a Small Open Economy with a CBDC Option (Bank Al-Maghrib Working Paper)](https://www.bkam.ma/content/download/852056/9193626/file/DSGE_FV_Oct2026.pdf)** — Bank Al-Maghrib, 7 October 2026
 
-Bank Al-Maghrib DSGE model calibrated on Morocco finds a retail CBDC brings modest output and shock-resilience gains.
+A Bank Al-Maghrib working paper dated 7 October 2026, by Michael Kumhof, Mohammed Mikou and Yassine Slaoui, builds an economic model calibrated on Morocco with banked and unbanked households, which can be run with or without a retail central bank digital currency. Under its baseline assumptions, introducing the currency brings modest output gains and modestly better resilience to financial shocks.
 
 </div>
 
@@ -283,7 +283,7 @@ Bank Al-Maghrib DSGE model calibrated on Morocco finds a retail CBDC brings mode
 
 **[Monnaie Digitale de Banque Centrale : Enjeux et enseignements pour le Maroc (Document de travail)](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf)** — Bank Al-Maghrib, 7 October 2026
 
-Bank Al-Maghrib working paper on central bank digital currency designs, impacts and lessons for Morocco.
+A Bank Al-Maghrib working paper on central bank digital currency says a proof of concept built with the IMF and World Bank confirmed that a retail CBDC is technically feasible in Morocco. It reports a cross-border CBDC experiment under way with the Central Bank of Egypt and treats any issuance as long-term and gradual. The views are the authors', not the bank's.
 
 </div>
 
@@ -305,7 +305,7 @@ Morocco's central bank published two research working papers on a central bank d
 
 **[زحف "الكاش" يمتحن نجاعة خطط "بنك المغرب" لتوسيع الأداء الرقمي](https://www.hespress.com/%d8%b2%d8%ad%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d8%ac%d8%a7%d8%b9%d8%a9-%d8%ae%d8%b7%d8%b7-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1821861.html)** — Hespress, 13 October 2026
 
-Cash in circulation MAD 550.3bn at end-August 2026, up 12.1% in eight months; withdrawals 85% of card value in 2025.
+Cash in circulation in Morocco reached 550.3 billion dirhams at the end of August 2026, up 12.1% since the end of 2025, according to Bank Al-Maghrib data. Cash withdrawals made up 85% of the value of card transactions in 2025, even as bank cards rose 7.7% to 23.5 million. The central bank is expanding merchant acceptance, a unified QR payment platform and digital public payments.
 
 </div>
 
@@ -321,7 +321,7 @@ Cash in circulation MAD 550.3bn at end-August 2026, up 12.1% in eight months; wi
 
 **[انتخاب أعضاء مجلس النواب.. إيداع التصريحات بالترشيح إلى غاية 9 شتنبر (بلاغ للداخلية)](https://assabah.ma/947667.html)** — Assabah, 4 September 2026
 
-Interior Ministry makes elections.ma e-filing mandatory for 23 Sep 2026 legislative candidacies; portal shuts 8 Sep noon.
+Morocco's interior ministry said candidacies for the 23 September 2026 House of Representatives election must first be filed online on elections.ma, open from 31 August until noon on 8 September, before original files are lodged with the authorities by noon on 9 September. Equipped rooms are provided at prefectures and provinces, and campaigning runs from 10 to 22 September.
 
 </div>
 
@@ -361,7 +361,7 @@ Morocco's digital transition ministry launched a new version of the Idarati port
 
 **[Madame Amal El Fallah Seghrouchni a preside, le 8 septembre 2026 a Rabat, une presentation consacree a l'etat actuel de la feuille de route 'Maroc pour l'intelligence artificielle 2030'](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB)** — Ministere de la Transition Numerique et de la Reforme de l'Administration, 8 September 2026
 
-MAD 100bn GDP value-add, 50,000 jobs, 200,000 certified talents by 2030; Data Factory and sovereign cloud.
+Morocco's minister for digital transition, Amal El Fallah Seghrouchni, chaired a review in Rabat on 8 September 2026 of the Maroc pour l'intelligence artificielle 2030 roadmap. Its targets are 100 billion dirhams added to GDP, 50,000 jobs and 200,000 certified people by 2030; progress was reported on sovereign cloud and data centres, a Data Factory, a Software Factory and a shared AI platform.
 
 </div>
 
@@ -369,7 +369,7 @@ MAD 100bn GDP value-add, 50,000 jobs, 200,000 certified talents by 2030; Data Fa
 
 **[IA : le Maroc engage une nouvelle phase de sa strategie nationale a l'horizon 2030](https://panorapost.ma/post.php?id=57071)** — PanoraPost, 9 September 2026
 
-Sovereign AI marketplace, Idarati AI assistant, a national e-wallet POC, and a Livre Rose on digital sovereignty.
+Morocco's Ministry of Digital Transition and Administrative Reform presented progress on its "Maroc IA 2030" roadmap in Rabat, including a sovereign AI marketplace, an AI assistant for the Idarati portal and a national e-wallet proof of concept. The roadmap targets 100 billion dirhams of added GDP, 50,000 jobs and 200,000 trained people by 2030.
 
 </div>
 
@@ -391,7 +391,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Les assemblees generales de quatre Instituts 'JAZARI' se sont tenues le 8 septembre 2026 a Rabat, sous la presidence de Madame la Ministre Amal El Fallah Seghrouchni](https://www.mmsp.gov.ma/fr/actualites/les-assembl%C3%A9es-g%C3%A9n%C3%A9rales-de-quatre-instituts-%C2%AB-jazari-%C2%BB-se-sont-tenues-le-8-septembre-2026-%C3%A0-rabat-sous-la-pr%C3%A9sidence-de-madame-la-ministre-amal-el-fallah-seghrouchni)** — Ministere de la Transition Numerique et de la Reforme de l'Administration, 8 September 2026
 
-Four JAZARI institutes move to operations after August 2026 Bulletin officiel approval of their conventions.
+Morocco's four JAZARI artificial intelligence institutes held their general assemblies in Rabat on 8 September 2026, chaired by the digital transition minister, Amal El Fallah Seghrouchni. Their founding conventions were approved in the Bulletin officiel in August 2026. JAZARI ROOT covers digital infrastructure, data centres, computing and national AI capability; the others cover education, industry and smart cities.
 
 </div>
 
@@ -419,7 +419,7 @@ Morocco's digital transition ministry presented the main advances of the Maroc I
 
 **[ONCF prépare un dispositif national de vidéosurveillance dopé à l’IA pour 2030](https://www.journalducanada.com/oncf-prepare-un-dispositif-national-de-videosurveillance-dope-a-lia-pour-2030-10360-2026/)** — Journal Du Canada, 10 September 2026
 
-MAD 1.08m design study for AI video surveillance across the rail network; no deployment budget set yet.
+Morocco's national rail operator, ONCF, issued a 1.08 million dirham tender for a study to design a national video-surveillance system with AI analytics and central supervision by 2030, reported on 10 September 2026. The study will size cameras, data storage, transmission networks and supervision centres for later procurement. No budget for the full system has been announced.
 
 </div>
 
@@ -457,7 +457,7 @@ Morocco's digital transition ministry and Mistral released the first open-source
 
 **[Feu vert a Tamwilcom pour investir 347 MDH dans les startups](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/)** — Entreprises du Maroc, 10 September 2026
 
-Decret 2.26.576 caps Tamwilcom's Fonds Catalytique Startups stakes at MAD 347m over three years.
+Morocco's government authorised Tamwilcom, by decree 2.26.576 of 3 August 2026, to invest up to 347 million dirhams over three years in venture capital funds on behalf of the Fonds Catalytique Startups, under the Digital Morocco 2030 strategy. Nine fund managers were pre-selected, covering fintech, agritech, edtech, healthtech and climate tech. The funds are expected to raise close to 2.5 billion dirhams for startups.
 
 </div>
 
@@ -465,7 +465,7 @@ Decret 2.26.576 caps Tamwilcom's Fonds Catalytique Startups stakes at MAD 347m o
 
 **[Digital : 347 millions de dirhams en appui au financement des startups au Maroc (ministere)](https://h24info.ma/economie/digital-347-millions-de-dirhams-en-appui-au-financement-des-startups-au-maroc-ministere/)** — H24Info, 11 September 2026
 
-Ministry communique adds the Economy and Finance Ministry to the 21 November 2025 convention behind the 347 MDH fund.
+Morocco's startup catalytic fund, run by the digital transition ministry and managed by Tamwilcom, can invest 347 million dirhams over three years in venture capital funds backing digital startups, following decree 2.26.576 of 3 August 2026. Nine management companies have been shortlisted, and the funds are expected to raise about 2.5 billion dirhams.
 
 </div>
 
@@ -473,7 +473,7 @@ Ministry communique adds the Economy and Finance Ministry to the 21 November 202
 
 **[Morocco targets $258 million in startup financing through new venture capital mechanism](https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/)** — The Morocco Post, 14 September 2026
 
-Decree 2.26.576 of 2026-08-03 opens a Startup Catalytic Fund targeting about US$258m, US$36m public over three years.
+Morocco's Startup Catalytic Fund, set up by the digital transition ministry and managed by Tamwilcom, will invest US$36m of public money over three years in venture capital funds expected to mobilise about US$258m for startups. Decree 2.26.576 of 3 August 2026 strengthened its framework, and nine fund managers were shortlisted from 47 applications.
 
 </div>
 
@@ -505,7 +505,7 @@ Morocco's Génération AIoT programme opened seven cohorts in Casablanca, Fès a
 
 **[ENA and ADD join forces to make Morocco's government more digital](https://en.7news.ma/ena-add-digital-skills-partnership/)** — 7News Morocco, 23 September 2026
 
-Signed 22 Sep 2026: civil-servant training in digital transformation, AI, data management, change management.
+Morocco's National School of Administration and its Digital Development Agency signed a partnership on 22 September 2026 to train civil servants in digital transformation, AI, data management and change management. The number of officials to be trained and the programmes have not been announced.
 
 </div>
 
@@ -519,7 +519,7 @@ Signed 22 Sep 2026: civil-servant training in digital transformation, AI, data m
 
 **["Cyber Academy" Cybersecurity Training Program for African Leaders Kicks off in Rabat](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0)** — Maroc.ma (MAP), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-DGSSI and World Bank course with Smart Africa Digital Academy, 5-8 Oct 2026; AI threats, crisis simulations.
+Morocco's General Directorate of Information Systems Security and the World Bank, with the Smart Africa Digital Academy, opened the Cyber Academy executive training programme in Rabat on 5 October 2026 for leaders of African cybersecurity authorities. It covers strategic leadership, AI-driven threats and cyber crisis response. No participant numbers are given.
 
 </div>
 
@@ -535,7 +535,7 @@ DGSSI and World Bank course with Smart Africa Digital Academy, 5-8 Oct 2026; AI 
 
 **[تجربة مغربية للتصويت الرقمي تجمع التعرف على الوجه و"البلوك تشين"](https://www.hespress.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b9-1802990.html)** — Hespress, 7 September 2026
 
-AdaptVote: 300-person Moroccan field trial of biometric plus blockchain e-voting that keeps working on weak connectivity.
+Researchers at Mohammed I University in Oujda and Abdelmalek Essaâdi University in Tétouan tested AdaptVote, an e-voting model combining facial recognition and blockchain, with 300 people in Nador over 12 hours. The network was available for only 35% of the trial; 95.7% passed identity checks first time and voting took 2.1 minutes against 4.5 on paper. It is a research platform, not an official system.
 
 </div>
 
@@ -567,7 +567,7 @@ A scientific review available from 1 September records an expansion of Moroccan 
 
 **[Morocco disability rate rises to 8.7% as access gaps persist](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html)** — Hespress English, 3 September 2026
 
-8.7% prevalence in 2026 against 6.8% in 2014, and only 20% of disabled Moroccans report internet access.
+Morocco's third national disability survey puts disability prevalence at 8.7% of the population, up from 6.8% in 2014, according to preliminary results presented in Rabat on 3 September 2026. The survey covered 20,412 households; only 20% of disabled people reported internet access, and their employment rate was 12.7%. Officials said broader detection tools account for part of the increase.
 
 </div>
 
@@ -581,7 +581,7 @@ A scientific review available from 1 September records an expansion of Moroccan 
 
 **[86% من المغاربة يستخدمون منصات التواصل و'واتساب' في الصدارة](https://assabah.ma/947716.html)** — Assabah, 4 September 2026
 
-Sonergia barometer 2026: platform use at 86% of Moroccans, WhatsApp 83%, TikTok 32%; 61% distrust platform news.
+Sonergia's seventh annual social media barometer for Morocco found 86% of the population using social platforms in 2026, five points above 2025. WhatsApp leads at 83%, followed by Facebook at 64%, while TikTok rose eight points to 32%. Only 39% of Moroccans trust news circulating on the platforms outside official media, against 61% who express some distrust.
 
 </div>
 

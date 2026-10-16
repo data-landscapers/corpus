@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GNQ
 ledger_rows: 16
 not_held: 6
-record: a9993250137a
+record: 21fc35ab8c57
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
@@ -81,7 +81,7 @@ record: a9993250137a
 
 **[El Ministerio de Telecomunicaciones acelera la transformación digital con el respaldo del Grupo Banco Mundial](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial)** — Oficina de Información y Prensa de Guinea Ecuatorial, 2 September 2026
 
-World Bank team opens 4-day Malabo session to finalise national digital-economy strategy.
+Equatorial Guinea's Ministry of Transport, Telecommunications and Civil Aviation opened a four-day working session in Malabo on 2 September 2026 with eight World Bank Group specialists. Its aims are to finish and validate the national digital economy strategy, complete the sector's legal framework and prepare a World Bank-financed project, which would be the Bank's first operation in the country in 35 years.
 
 </div>
 
@@ -97,7 +97,7 @@ World Bank team opens 4-day Malabo session to finalise national digital-economy 
 
 **[El Gobierno exige a Meta tributar en Guinea Ecuatorial y ordena centralizar la comercialización de Starlink en ORTEL](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/)** — AHORAEG, 9 September 2026
 
-ORTEL given sole legal authority to sell Starlink under the AI state secretariat, and a commission to open Meta talks.
+Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, gave the state operator ORTEL sole legal authority to sell Starlink satellite internet, under the state secretariat for artificial intelligence, and ordered contracts made outside official channels cancelled. He also tasked a commission with discussing payments to the state with Meta, which he said has done business in the country without paying.
 
 </div>
 
@@ -119,7 +119,7 @@ Equatorial Guinea intends a mechanism letting the state capture part of the reve
 
 **[La Camara de los Diputados ha aprobado tres proyectos de leyes presentados por el Gobierno](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno)** — Pagina Oficial del Gobierno de la Republica de Guinea Ecuatorial, 11 September 2026
 
-Mining reform creates Registro Minero, Catastro Minero, Registro Digital Geologico; press bill covers digital journalism.
+Equatorial Guinea's Chamber of Deputies unanimously approved three government bills on 11 September 2026: reforms of the Mining and Hydrocarbons laws and a new press freedom law. The mining reform creates a national geological service, a mining registry and cadastre, a national mining management platform and a digital geological registry, with licences awarded by international tender as the general rule. The press law replaces a 1997 law that does not cover digital journalism.
 
 </div>
 
@@ -127,7 +127,7 @@ Mining reform creates Registro Minero, Catastro Minero, Registro Digital Geologi
 
 **[La nueva Ley de Libertad de Prensa avanza al Pleno del Senado tras el consenso alcanzado por la comisión](https://ahoraeg.com/politica/2026/10/08/la-nueva-ley-de-libertad-de-prensa-avanza-al-pleno-del-senado-tras-el-consenso-alcanzado-por-la-comision/)** — AHORAEG, 8 October 2026
 
-Senate committee consensus; digital journalists covered, access-to-information right, ORTEL split, press college.
+An Equatorial Guinea Senate committee approved by consensus its report on a new Press Freedom and Journalism Bill and sent it to the full Senate. The bill gives digital and audiovisual journalists the same protections and duties, sets a right of access to public information with deadlines and appeals, separates editorial oversight from spectrum management by ORTEL and creates a college of journalists.
 
 </div>
 
@@ -155,7 +155,7 @@ All satellite internet sales are to run through the telecommunications regulator
 
 **[El despacho que representa a S.E. Nguema Obiang Mangue explica las acciones contra Diario Rombe y otras tres personas](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)** — Oficina de Informacion y Prensa de Guinea Ecuatorial, 17 September 2026
 
-Four criminal complaints lodged 2026-09-16 in Malabo under articles 2 and 60 of Ley 7/2024, reaching conduct abroad.
+Lawyers for Equatorial Guinea's vice-president Teodoro Nguema Obiang Mangue said they lodged four criminal complaints at a Malabo court on 16 September 2026 against four people, including Mocache Massoko of the online paper Diario Rombe. The complaints rest on articles 2 and 60 of Law 7/2024 on social media and cybercrime; article 2 is invoked to reach conduct outside the country.
 
 </div>
 
@@ -171,7 +171,7 @@ Four criminal complaints lodged 2026-09-16 in Malabo under articles 2 and 60 of 
 
 **[Fiscalía y Comisión Anticorrupción pactan coordinación permanente para luchar contra la corrupción en Guinea Ecuatorial](https://realequatorialguinea.com/sociedad/fiscalia-y-comision-anticorrupcion-pactan-coordinacion-permanente-para-luchar-contra-la-corrupcion-en-guinea-ecuatorial/)** — Revista Real Equatorial Guinea, 4 September 2026
 
-Liaison points, an information-exchange protocol and periodic reviews agreed at a first institutional meeting.
+Equatorial Guinea's Attorney General Anatolio Nzang Nguema Mangue and the new head of the anti-corruption commission, Santiago Casto Nvono Bibang, agreed on 3 September 2026 to set up permanent coordination against corruption. The plan includes liaison points, a protocol for exchanging information, periodic review meetings and joint training for officials.
 
 </div>
 
@@ -197,7 +197,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Guinée équatoriale / Internet satellitaire : Starlink officiellement lancé](https://agpgabon.ga/guinee-equatoriale-internet-satellitaire-starlink-officiellement-lance/)** — Agence Gabonaise de Presse, 9 September 2026
 
-Vice-president announces the launch on X; sales and distribution to be centralised and prior connections deactivated.
+Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, announced on 9 September 2026 the official launch of SpaceX's Starlink satellite internet service. Sales will be centralised, requests handled by the telecoms regulator Ortel, and earlier connections made with foreign details deactivated. The government also plans talks with Meta on charging fees for use of its applications in the country.
 
 </div>
 
@@ -225,7 +225,7 @@ Facebook and TikTok have been unreachable in Equatorial Guinea without a VPN sin
 
 **[GETESA ahorrará 262 millones de francos CFA al mes para reinvertirlos en la mejora de la red nacional](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/)** — AhoraEG, 8 October 2026
 
-Huawei network deal slowed by Treasury arrears; Vice-President orders finance file expedited, 7 Oct 2026.
+Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance ministry on 7 October 2026 to investigate and urgently release financing for state operator GETESA's network expansion agreement with Huawei, which Treasury payment arrears have slowed. GETESA will cancel non-essential maintenance contracts until December, saving over 262 million CFA francs a month for reinvestment in the network.
 
 </div>
 
@@ -241,7 +241,7 @@ Huawei network deal slowed by Treasury arrears; Vice-President orders finance fi
 
 **[El vicepresidente revela nombres vinculados a una presunta masiva filtración de documentos oficiales de Guinea Ecuatorial](https://realequatorialguinea.com/destacado/politica/el-vicepresidente-revela-nombres-vinculados-a-una-presunta-masiva-filtracion-de-documentos-oficiales-de-guinea-ecuatorial/)** — Revista Real Equatorial Guinea, 9 October 2026
 
-Registry official alleged to have handed archive hard drive to outsider under digitisation pretext; government's account.
+Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, named on X the alleged members of a network leaking official documents from the Presidency of the Government. He alleged that a registry official extracted several years of administrative files and handed a hard drive to a third party under the pretext of a project to digitise the Presidency's archives. The account is the government's; no court finding is reported.
 
 </div>
 
@@ -309,7 +309,7 @@ Equatorial Guinea's government announced a digital edition of its official gazet
 
 **[Equatorial Guinea | Rights Mapping and Analysis Platform](https://rimap.unhcr.org/countries/equatorial-guinea)** — United Nations High Commissioner for Refugees (UNHCR), Rights Mapping and Analysis Platform, 2 September 2026
 
-UNHCR platform: Equatorial Guinea has no domestic refugee-status law despite treaty accession.
+UNHCR's rights-mapping platform records that Equatorial Guinea is party to the 1951 Refugee Convention, its 1967 Protocol and the 1969 OAU Convention but has no domestic law for refugee status determination, so asylum seekers have no formal procedure to apply. It acceded to the Kampala Convention on displaced persons in 2019 and lists five asylum seekers.
 
 </div>
 
@@ -327,7 +327,7 @@ UNHCR platform: Equatorial Guinea has no domestic refugee-status law despite tre
 
 **[INEGE inicia una gira por los servicios estadísticos de los ministerios para consolidar el Sistema Estadístico Nacional](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/)** — Revista Real Equatorial Guinea, 3 September 2026
 
-Ministry-by-ministry audit of statistical units to 9 Sept, ordered by the CNE's eighth session of 27 Aug 2026.
+Equatorial Guinea's statistics institute, INEGE, began a tour of ministries' statistical services on 2 September 2026, starting with the interior and education ministries, to assess their capacity and needs. Both were found short of working materials. The tour runs to 9 September under resolutions of the National Statistics Council's session of 27 August 2026.
 
 </div>
 
@@ -353,7 +353,7 @@ Equatorial Guinea's statistics institute INEGE presented the ninth edition of th
 
 **[Guinea Ecuatorial - Asociaciones Internacionales - Comisión Europea](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es)** — Comisión Europea, Dirección General de Asociaciones Internacionales (DG INTPA), 2 September 2026
 
-EU has no delegation and no NDICI programme for Equatorial Guinea; ties run via Yaoundé.
+The European Commission's country page states that the EU has no delegation in Equatorial Guinea; cooperation is supervised from its delegation in Yaoundé, Cameroon. Equatorial Guinea received no bilateral allocation under the 11th EDF and has no multiannual indicative programme for 2021-2027, but takes part in thematic civil-society and human-rights programmes and in regional programmes through ECCAS.
 
 </div>
 

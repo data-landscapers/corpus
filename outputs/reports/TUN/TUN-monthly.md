@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TUN
 ledger_rows: 58
 not_held: 5
-record: 0359e62b4d09
+record: 4be34190a613
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -103,7 +103,7 @@ record: 0359e62b4d09
 
 **["الأونكتاد" يدعم تونس في إعداد إستراتيجية للتجارة الإلكترونية](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9)** — Al Chourouk, 21 September 2026
 
-UNCTAD backs Tunisia's trade ministry on a national e-commerce strategy; planning met 31 Mar-2 Apr 2026.
+UNCTAD is helping Tunisia's trade and export development ministry draft a national e-commerce strategy, with initial planning meetings held from 31 March to 2 April 2026, according to Ramzi Louati of Tunisia's mission in Geneva. No adoption date or drafting timetable is given.
 
 </div>
 
@@ -131,7 +131,7 @@ Tunisia's health and communication technologies ministers signed a National Heal
 
 **[Poste tunisienne : l’IA et le numérique au cœur de la stratégie 2026-2030 - Tunisie Numerique](https://www.tunisienumerique.com/poste-tunisienne-lia-et-le-numerique-au-coeur-de-la-strategie-2026-2030/)** — Tunisie Numerique, 9 October 2026
 
-Five axes: inclusion, AI, e-commerce, green post, skills; digital ID in postal system; ERP rollout; PAPU framework deal.
+Tunisia's communications minister, Sofiene Hemissi, said on 9 October 2026 that La Poste tunisienne's 2026-2030 strategy will integrate artificial intelligence and digital identity into postal services. Its chief executive listed five priorities, including financial inclusion and e-commerce logistics, and an enterprise resource planning rollout under way. The minister ruled out turning the Post into a bank.
 
 </div>
 
@@ -147,7 +147,7 @@ Five axes: inclusion, AI, e-commerce, green post, skills; digital ID in postal s
 
 **[Tunisie: Fiscalité - Le conseiller Anis Ben Saïd détaille l’obligation de la facturation électronique pour 380 000 professions libérales](https://fr.allafrica.com/stories/202609200069.html)** — allAfrica, 20 September 2026
 
-About 380,000 liberal-profession providers obliged; sign-up open since 15 Sept 2026; validation via mobile digital ID.
+Tunisian tax adviser Anis Ben Saïd told Diwan FM on 19 September 2026 that electronic invoicing is now mandatory for about 380,000 liberal-profession providers, including doctors, lawyers, engineers and accountants, with registration on the platform open since 15 September. Invoices are validated through the mobile digital identity and cannot be changed once signed; errors require a credit note.
 
 </div>
 
@@ -155,7 +155,7 @@ About 380,000 liberal-profession providers obliged; sign-up open since 15 Sept 2
 
 **[جريدة الصباح نيوز - عمادة الأطباء تعلن تمسكها بالتحفظ على تطبيق منظومة الفوترة الإلكترونية على القطاع الطبي بصيغتها الحالية](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155208-%D8%B9%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%85%D8%B3%D9%83%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A8%D8%B5%D9%8A%D8%BA%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9)** — Assabah News, 3 October 2026
 
-Physicians' order says general note 02/2026 overreached Finance Law art. 53; cites medical secrecy and patient data.
+Tunisia's National Council of the Order of Physicians said on 3 October 2026 that it maintains its objection to applying electronic invoicing to doctors in its current form. It argues that a 2026 tax note extended Article 53 of the Finance Law to non-commercial professions without legal basis, and cites medical secrecy and patient data protection. A proposed amendment it helped draft is still awaited.
 
 </div>
 
@@ -169,7 +169,7 @@ Physicians' order says general note 02/2026 overreached Finance Law art. 53; cit
 
 **[Circulaire n°2026-10 relative aux établissements de paiement](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf)** — Banque Centrale de Tunisie, 25 September 2026
 
-51 articles: three client-account tiers, remote onboarding, 3,000-dinar cash cap, annual cyber audit; replaces 2018-16.
+Tunisia's central bank issued Circular 2026-10 on payment institutions on 25 September 2026, replacing Circular 2018-16 with effect three months after publication. It sets three tiers of client payment accounts, allows remote account opening with reliable identity checks, caps cash transfers at 3,000 dinars per operation and requires an annual IT security audit by a firm certified by the national cybersecurity agency.
 
 </div>
 
@@ -183,7 +183,7 @@ Physicians' order says general note 02/2026 overreached Finance Law art. 53; cit
 
 **[وزير الشؤون الاجتماعية.. مشروع قانون العمل عن بعد جاهز وفي طور استكمال مراحله الإدارية الأخيرة](https://www.alchourouk.com/index.php/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AC%D8%A7%D9%87%D8%B2-%D9%88%D9%81%D9%8A-%D8%B7%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9)** — Al Chourouk, 8 October 2026
 
-Social affairs minister Issam Lahmar: remote-work bill in final administrative stages; platform-economy text drafted.
+Tunisia's social affairs minister Issam Lahmar said on 8 October 2026 that the remote-work bill is ready and completing its final administrative stages. He said the ministry has also studied the platform economy and prepared a legal text on it, and is working on core labour-law principles and mediation in labour disputes. No date for submission to parliament is given.
 
 </div>
 
@@ -229,7 +229,7 @@ Tunisia's communications ministry announced child-protection measures resting on
 
 **[3rd African Preparatory Meeting for WRC-27 (APM27-3) and the 11th African Spectrum Management Conference](https://atuuat.africa/event/apm27-3-for-wrc-27/)** — African Telecommunications Union (ATU), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Draft agenda and GT1A-GT5 working-group schedule for the Tunis WRC-27 preparatory meeting, 7-11 September 2026.
+The African Telecommunications Union published the draft agenda and working-group schedule for the third African Preparatory Meeting for the 2027 World Radiocommunication Conference, held in Tunis on 7–11 September 2026 alongside the 11th African Spectrum Management Conference. The agenda covers the ITU's preparatory work plan, other regions' positions and the WRC-27 agenda items.
 
 </div>
 
@@ -237,7 +237,7 @@ Draft agenda and GT1A-GT5 working-group schedule for the Tunis WRC-27 preparator
 
 **[African Delegations Seek Common Ground in Tunis Ahead of 2027 World Radiocommunication Conference](https://atuuat.africa/african-delegations-seek-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — African Telecommunications Union (ATU), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Four days of African regulator talks from 8 September 2026 on broadband, rural connectivity and spectrum before WRC-27.
+African governments and telecoms regulators opened four days of talks in Tunis on 8 September 2026 to build common spectrum positions ahead of the 2027 World Radiocommunication Conference. Hosted by Tunisia's National Frequency Agency and coordinated by the African Telecommunications Union, it is the third such preparatory meeting, after Maseru in 2024 and Nairobi in 2025.
 
 </div>
 
@@ -259,7 +259,7 @@ The African telecommunications union's secretary-general called for stronger ali
 
 **[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XNA/" title="XNA">North Africa</a>
 
-Secretary of State Mohamed Ben Ayed opens the summit as a forum for Arab states on AI for development and cooperation.
+The AI Forward Summit 2026, organised by the Arab Information and Communication Technologies Organisation and Tunisia's communication technologies ministry, opened in Tunisia on 9 September 2026. Secretary of State Mohamed Ben Ayed told the opening session that Tunisia wants international cooperation on capacity-building, technology transfer and finance so developing countries produce AI rather than only consume it.
 
 </div>
 
@@ -267,7 +267,7 @@ Secretary of State Mohamed Ben Ayed opens the summit as a forum for Arab states 
 
 **[ياسمين الحمامات.. افتتاح قمة "الذكاء الاصطناعي نحو المستقبل 2026"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D9%87%D8%A7%D8%AA/153691-%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-2026)** — Assabah News, 9 September 2026
 
-AICTO and the communication technologies ministry open the summit under 'Shaping the future of AI: from vision to value'.
+The Arab ICT Organisation and Tunisia's communication technologies ministry opened the 'AI towards the Future 2026' summit in Yasmine Hammamet on 9 September 2026. Participants include the ITU, UNESCO, the Council of Europe, Smart Africa, ESCWA and the GSMA; sessions cover turning AI's technical potential into economic and social value.
 
 </div>
 
@@ -281,7 +281,7 @@ AICTO and the communication technologies ministry open the summit under 'Shaping
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -295,7 +295,7 @@ AICTO and the communication technologies ministry open the summit under 'Shaping
 
 **[TeleHealth Connect Tunisia 2026 : la Tunisie veut faire du numérique un levier d’équité en santé](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/)** — La Presse de Tunisie, 29 September 2026
 
-Goal: health ID and digital record for every citizen by end-2026 on sovereign cloud; 120,000+ digital-hospital scans.
+Tunisia's health minister Mustapha Ferjani said on 29 September 2026, opening the TeleHealth Connect Tunisia conference, that the ministry aims to give every citizen a unique health identifier and digital medical record before the end of 2026, hosted on a Tunisian sovereign cloud. He said more than 32 hospitals were equipped for remote imaging this year and the digital hospital has run over 120,000 radiology exams.
 
 </div>
 
@@ -303,7 +303,7 @@ Goal: health ID and digital record for every citizen by end-2026 on sovereign cl
 
 **["إعلان تونس" للتحول الرقمي في قطاع الصحة.. التفاصيل:](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155020-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D9%88%D9%86%D8%B3-%D9%84%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84)** — Assabah News, 30 September 2026
 
-Commits to health-data protection, digital sovereignty, cybersecurity, responsible AI, open-standard interoperability.
+Tunisia's health ministry unveiled a 'Tunis Declaration' on digital health at the TeleHealth Connect 2026 conference, attended by experts from about 35 countries, reported on 30 September 2026. It commits to protecting health data and digital sovereignty under national law, treating cybersecurity as part of patient safety, responsible human-centred AI, and interoperable systems on open standards.
 
 </div>
 
@@ -333,7 +333,7 @@ African governments and regulators opened four days of talks in Tunis to build c
 
 **[Cybersécurité et entreprises : ce qui va changer pour les entreprises publiques et leurs fournisseurs privés](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)** — Webmanagercenter (WMC), 22 September 2026
 
-Six N-Cloud entries on ANCS list of 17 Sep 2026; CNI private cloud TND 24.94m; PCA/PRA rules from 1 Jan 2027.
+An analysis of Tunisia's circular of 2 September 2026 on public-sector cybersecurity says it obliges public enterprises to adopt multi-factor authentication, DDoS protection, regular audits, backups and business continuity measures, creating recurring costs. The national cybersecurity agency's list of 17 September names only six qualified N-Cloud providers. New continuity and recovery requirements are announced from 1 January 2027.
 
 </div>
 
@@ -357,7 +357,7 @@ Parliament's own case file for the bill amending Tunisia's 2022 cyber-offences d
 
 **[من بينها المرسوم 54.. مجلس الوزراء ينظر في تنقيح 3 مراسيم](https://www.alchourouk.com/article/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-54-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D9%86%D8%B8%D8%B1-%D9%81%D9%8A-%D8%AA%D9%86%D9%82%D9%8A%D8%AD-3-%D9%85%D8%B1%D8%A7%D8%B3%D9%8A%D9%85)** — Al Chourouk, 30 September 2026
 
-Cabinet under Kais Saied deliberates draft amendment to Decree 54 of 2022 on 29 September; text not published.
+Tunisia's Council of Ministers, chaired by President Kais Saied, discussed a draft decree amending Decree 54 of 2022 on crimes involving information and communication systems on 29 September 2026. The content of the amendment was not published.
 
 </div>
 
@@ -375,7 +375,7 @@ Cabinet under Kais Saied deliberates draft amendment to Decree 54 of 2022 on 29 
 
 **[À propos – ATI Tunisie Internet](https://www.ati.tn/a-propos/)** — Agence Tunisienne d'Internet (ATI / Tunisie Internet), 3 September 2026
 
-ATI has run Tunisia's national IXP, .tn/.تونس registry and IP addressing since 1996.
+The Tunisian Internet Agency (ATI) describes itself as Tunisia's incumbent internet operator since 1996, now an access provider and national host. Its own page says it runs the national internet exchange point (TUNIXP), the .tn and .تونس domain registry and national IP addressing. The page carries no date.
 
 </div>
 
@@ -405,7 +405,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[منشور حكومي لتعزيز تأمين المنظومات الرقمية للهياكل العمومية من التهديدات السيبرنية](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9)** — Al Chourouk, 4 September 2026
 
-PM circular of 2 Sep 2026: public sites hosted only at the national computing centre; admin files off mobile apps.
+Tunisia's prime minister issued a circular on 2 September 2026 requiring public bodies' websites and service platforms to be hosted only at the National Computing Centre, sectoral public centres or licensed operators. It also mandates HTTPS, multi-factor authentication and an annual security audit by auditors accredited by the National Cyber Security Agency.
 
 </div>
 
@@ -463,7 +463,7 @@ Orange Tunisie and Focus Tunisie announced a partnership to offer companies clou
 
 **[Cybersécurité : la Cheffe du gouvernement tunisienne appelle les organismes publics à appliquer les bonnes pratiques](https://www.thd.tn/cybersecurite-la-cheffe-du-gouvernement-tunisienne-appelle-les-organismes-publics-a-appliquer-les-bonnes-pratiques/)** — Tunisie Haut Débit, 3 September 2026
 
-Circulaire n°5 of 2 Sept 2026: .tn domains, MFA, HTTPS and ANSI-accredited audits for public bodies.
+Tunisia's head of government Sarra Zaafrani Zenzri issued circular no. 5 on 2 September 2026, setting security rules for public bodies' digital systems based on a technical note by the cybersecurity agency ANSI. It requires approved hosting, HTTPS on all pages, multi-factor authentication, an ANSI-accredited audit before launch and yearly after, DDoS protection and .tn domains.
 
 </div>
 
@@ -489,7 +489,7 @@ An analysis of the head of government's circular of 2 September sets out what it
 
 **[Tunisia bets on telehealth as it prepares to host Telehealth Connect 2026](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/)** — DH Arab, 25 September 2026
 
-Tunis, 29 Sept-1 Oct; ministry figures: teleradiology in 30 facilities, 99 on EMRs, 800,000 health IDs.
+Tunisia is hosting Telehealth Connect 2026 in Tunis from 29 September to 1 October, with more than 500 participants from 30 countries expected. The health ministry reports teleradiology in 30 facilities, 99 facilities implementing electronic medical records and 800,000 active registrations for the national health identifier. It is preparing Sahetna, a platform for patients to view appointments and health records.
 
 </div>
 
@@ -549,7 +549,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[Avec 180 000 Identifiants uniques, le CHU de Sahloul leader national en transition numérique - La Presse de Tunisie](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/)** — La Presse de Tunisie, 7 October 2026
 
-180,000 identifiers unified by 6 Oct 2026; Sousse hospital ranked first in the unique health ID roll-out.
+Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient records under the unique health identifier by 6 October 2026, ranking it first among public hospitals in the roll-out, it said in a statement. A meeting chaired by its director general agreed a common method for handling outstanding technical cases.
 
 </div>
 
@@ -565,7 +565,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[Systèmes de paiement — Banque Centrale de Tunisie (Système de la Télécompensation, compensation manuelle, système de la Monétique, SGMT)](https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96)** — Banque Centrale de Tunisie, 3 September 2026
 
-BCT's own account of SIBTEL clearing, SMT cards and the SGMT RTGS moving 3.26bn TND daily.
+Tunisia's central bank describes the country's payment systems on its website: SIBTEL clearing for transfers, direct debits, cheques and bills of exchange with 24-hour settlement; the SMT card system and its secure online payment service; and the SGMT real-time gross settlement system. The SGMT, in service since November 2006, handles about 722 payments a day worth 3.255 billion dinars. The page carries no publication date.
 
 </div>
 
@@ -579,7 +579,7 @@ BCT's own account of SIBTEL clearing, SMT cards and the SGMT RTGS moving 3.26bn 
 
 **[Numérisation : La Poste Tunisienne valide plus de 1,8 million d’inscriptions scolaires et universitaires en ligne - La Presse de Tunisie](https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/)** — La Presse de Tunisie, 9 October 2026
 
-75% of pupils and 76% of students paid 2026-27 registration via e-Dinar; new ERP; Ecom@africa hub at Tunis-Carthage.
+La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 university students, some 76%, paid their 2026–2027 registration fees online using its free e-Dinar wallets. The post office also brought a new integrated ERP system into operation and launched the Universal Postal Union's Ecom@africa e-commerce exchange platform at Tunis-Carthage airport.
 
 </div>
 
@@ -595,7 +595,7 @@ BCT's own account of SIBTEL clearing, SMT cards and the SGMT RTGS moving 3.26bn 
 
 **[Immatriculation foncière obligatoire (Cadastre)](https://www.otc.nat.tn/if/obligatory)** — Office de la Topographie et du Cadastre (OTC), Ministère de l'équipement et de l'habitat, 3 September 2026
 
-OTC's own account of compulsory land cadastre under a 1964 decree-law.
+Tunisia's Office of Topography and Cadastre describes the compulsory land registration procedure under a 1964 decree-law. The land court opens and rules on cases, the office surveys boundaries and draws plans, and the National Land Property Office enters each property in the land register with a title number. The page carries no date.
 
 </div>
 
@@ -609,7 +609,7 @@ OTC's own account of compulsory land cadastre under a 1964 decree-law.
 
 **[Octroi d'un identifiant fiscal](https://www.finances.gov.tn/fr/octroi-dun-identifiant-fiscal)** — Ministère des Finances, Tunisie, 3 September 2026
 
-Finance Ministry's own procedure for granting a tax identifier under a 2008 decree.
+Tunisia's Ministry of Finance sets out how a tax identifier is granted: the applicant files a declaration of existence at the competent tax-control office, which may inspect the premises before its head issues the identifier immediately. The page lists the documents required and cites Article 56 of the income and corporate tax code and Decree 2008-201 of 29 January 2008.
 
 </div>
 
@@ -617,7 +617,7 @@ Finance Ministry's own procedure for granting a tax identifier under a 2008 decr
 
 **[Direction générale des impôts : de nouvelles fonctionnalités ajoutées à la plateforme d'échange fiscal « Tej »](https://www.tunisienumerique.com/direction-generale-des-impots-de-nouvelles-fonctionnalites-ajoutees-a-la-plateforme-dechange-fiscal-tej/)** — Tunisie Numérique, 8 September 2026
 
-Real-time filing status, delegated access and supplier tax checks for public bodies, from September 2026.
+Tunisia's tax directorate announced on 8 September 2026 new functions on its Tej tax-exchange platform from September. Taxpayers can check their filing status in real time, subscribers can delegate functions to other users, and public bodies can check their suppliers' tax position. Tej now also carries all withholding-tax certificates, and public bodies still on the older e-sit-fisc system were told to register.
 
 </div>
 
@@ -625,7 +625,7 @@ Real-time filing status, delegated access and supplier tax checks for public bod
 
 **[Fiscalité numérique : la DGI enrichit la plateforme « TEJ »](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/)** — L'Economiste Maghrébin, 8 September 2026
 
-Real-time filing status, delegated access, supplier tax lookups and all withholding certificates on TEJ.
+Tunisia's tax directorate added functions to its TEJ tax data exchange platform from September 2026, announced on 8 September. Taxpayers can check their filing status in real time and delegate tasks to other users, public enterprises can check suppliers' tax standing, and all withholding-tax certificates now go through TEJ.
 
 </div>
 
@@ -639,7 +639,7 @@ Real-time filing status, delegated access, supplier tax lookups and all withhold
 
 **[Le RNE tunisien rejoint l'EBRA, une première pour un pays africain](https://www.nessma.tv/fr/economie/actu/le-rne-tunisien-rejoint-l-ebra-une-premiere-pour-un-pays-africain/588376)** — Nessma, 26 September 2026
 
-Full member from 21 Sept 2026, first African registry; interoperability and beneficial-ownership work.
+Tunisia's national business register, the RNE, became a full member of the European Business Registry Association on 21 September 2026, the first African registry to join. Membership lets it take part in the association's work on digitalisation, information-system interoperability and identifying beneficial owners. The association has 42 members.
 
 </div>
 
@@ -655,7 +655,7 @@ Full member from 21 Sept 2026, first African registry; interoperability and bene
 
 **[ديوان التجارة يستعدّ لإطلاق تطبيقة معلوماتيّة جديدة للتّصرف في المخزونات والبيوعات](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/153220-%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%91-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A9-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D9%91%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D9%91%D8%B5%D8%B1%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%B9%D8%A7%D8%AA)** — Assabah News, 1 September 2026
 
-In-house stock, sales and KPI system for the state trade office; purchasing and logistics to follow.
+Tunisia's state trade office, the Office du Commerce, is preparing to launch an application built by its own IT department to manage stocks and sales, track performance indicators and check sale procedures at its storage and distribution centres. Purchasing and logistics are to be added later, followed by a user guide. No cost, supplier or launch date is given.
 
 </div>
 
@@ -669,7 +669,7 @@ In-house stock, sales and KPI system for the state trade office; purchasing and 
 
 **[Rentrée scolaire 2026-2027 en Tunisie : plus de 1,69 million d'élèves inscrits à distance](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/)** — Directinfo (Webmanagercenter), 3 September 2026
 
-1.691m pupils enrolled online by 3 Sept 2026 - 81% of those eligible, 76% having also paid the fees.
+Tunisia's education ministry said about 1.691 million pupils, 81% of those eligible, had enrolled online for the 2026-2027 school year by 3 September 2026. Of these, 1.587 million had paid their enrolment fees, and enrolment continued ahead of the start of school on 15 September.
 
 </div>
 
@@ -683,7 +683,7 @@ In-house stock, sales and KPI system for the state trade office; purchasing and 
 
 **[Santé : vers une plateforme numérique dédiée à la santé de la mère et de l'enfant](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/)** — Le Temps News, 8 September 2026
 
-Tunis workshop lays the base for PSIM, a maternal, newborn and child care platform, with UNICEF.
+Tunisia's health ministry and UNICEF held a national workshop in Tunis, reported on 8 September 2026, to prepare PSIM, a digital platform for maternal, newborn and child care. The workshop reviewed a benchmarking study of existing practice and identified priority needs. No launch date, cost or funding source is stated.
 
 </div>
 
@@ -697,7 +697,7 @@ Tunis workshop lays the base for PSIM, a maternal, newborn and child care platfo
 
 **[انطلاق العمل بالمنظومة المعلوماتية الجديدة لمندوبي حماية الطفولة](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9)** — Al Chourouk, 11 September 2026
 
-Child protection delegates' case system live from 11 September 2026, built with national capabilities.
+Tunisia's Ministry of Family, Women, Children and the Elderly brought into service a new information system for child protection delegates on 11 September 2026, built by national teams. It digitises and analyses case data on children at risk and children in conflict with the law. The ministry plans two training sessions for delegates in regional offices during September.
 
 </div>
 
@@ -711,7 +711,7 @@ Child protection delegates' case system live from 11 September 2026, built with 
 
 **[Minister of Social Affairs: new digital labour-administration platform enters service in September 2026](https://tunisiatv.tn/ar/article/6aa7a50845a6ce3fa8410a77/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%88%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%AF%D8%AE%D9%84-%D8%AD%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%AE%D9%84%D8%A7%D9%84-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026)** — Tunisia TV, 14 September 2026
 
-Minister Issam Lahmar says the labour-administration platform enters service during September 2026.
+Tunisia's social affairs minister, Issam Lahmar, told the Arab Labour Conference in Cairo on 13 September 2026 that his ministry has prepared a digital labour-administration platform to launch during September. He said it will support labour inspectors and provide up-to-date data on the social situation.
 
 </div>
 
@@ -719,7 +719,7 @@ Minister Issam Lahmar says the labour-administration platform enters service dur
 
 **[Tunisie : l'inspection du travail passe au numérique](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/)** — Tunisie Numérique, 23 September 2026
 
-ILO-backed; pilot to end-Dec 2026, full operation early 2027; enterprise data exchanged with RNE and CNSS.
+Tunisia's Ministry of Social Affairs launched the Gestion du travail digital platform for labour inspectors on 23 September 2026, developed under an International Labour Organization project. Its modules cover enterprises, inspection visits, workplace accidents, conciliation and social dialogue, and enterprise data is to be exchanged with the national business register and the social security fund. A pilot runs to the end of December 2026.
 
 </div>
 
@@ -747,7 +747,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Médicaments : comment la Tunisie veut prévenir les ruptures avant qu’elles ne surviennent](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/)** — Tunisie Numerique, 29 September 2026
 
-15m dinars a year extra for stocks; digitalisation 80% done (SPOT); three months' notice before withdrawals.
+Tunisia's health ministry announced an extra 15 million dinars a year for regional health facilities to buy and stock medicines, alongside a national platform to track medicine stocks, reported on 29 September 2026. Licence holders must report stocks and give three months' notice before withdrawing a product. The pharmacists' union put digitisation of orders with the central pharmacy at about 80% complete.
 
 </div>
 
@@ -777,7 +777,7 @@ Tunisia's religious affairs ministry has launched a platform to manage mosque st
 
 **[Khadamet : l'administration en un clic ?](https://www.leconomistemaghrebin.com/2026/09/02/khadamet-ladministration-en-un-clic/)** — L'Économiste Maghrébin, 2 September 2026
 
-Critique: the app only moves the counter to a screen unless back offices interconnect.
+L'Économiste Maghrébin reviews Khadamet, the Tunisian communication technologies ministry's single app for public services, presented on Express FM on 2 September 2026. The app uses digital identity and covers health-insurance refunds, vehicle tax, traffic fines, bill payment and children's birth certificates; the outlet argues its value depends on government back offices being interconnected. A web version is planned for people without smartphones.
 
 </div>
 
@@ -785,7 +785,7 @@ Critique: the app only moves the counter to a screen unless back offices interco
 
 **[«خدمات»: تطبيقة جديدة لتبسيط الإجراءات الإدارية ورقمنتها في تونس](https://radioexpressfm.com/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/)** — Radio Express FM, 2 September 2026
 
-Ministry puts mobile at about 70% of service access; wallet holds carte grise and passport.
+Tunisia's communications technology ministry has released Khadamet, a mobile app giving access to administrative services through digital identity, including bill and fee payments, health and social security claims, and civil-status documents. Its wallet holds documents such as the vehicle registration card and passport and warns before they expire. An official said about 70% of Tunisians use mobile phones to reach services; a second version is expected in the coming months.
 
 </div>
 
@@ -793,7 +793,7 @@ Ministry puts mobile at about 70% of service access; wallet holds carte grise an
 
 **[Application « Khadamet » : 50.000 utilisateurs en dix jours](https://www.lapresse.tn/2026/09/13/application-khadamet-50-000-utilisateurs-en-dix-jours/)** — La Presse de Tunisie, 13 September 2026
 
-Khadamet passed 50,000 users in its first ten days, DGTI's Ahmed Megdich says.
+Tunisia's Khadamet app for online public services registered 50,000 users in its first ten days, Ahmed Megdich of the Directorate-General for Information Technology said, reported on 13 September 2026. Social security, civil status, education, bill payment and road-traffic services were among the most used.
 
 </div>
 
@@ -807,7 +807,7 @@ Khadamet passed 50,000 users in its first ten days, DGTI's Ahmed Megdich says.
 
 **[Tunisie : lancement de la plateforme numérique « Taamir »](https://www.webmanagercenter.com/2026/09/14/572745/tunisie-lancement-de-la-plateforme-numerique-taamir/)** — Webmanagercenter, 14 September 2026
 
-Tunis municipality launched Taamir for filing and tracking building-permit applications.
+The municipality of Tunis launched Taamir, a digital platform for filing and tracking building-permit applications, announced on 14 September 2026. The municipality said the existing paper procedure stays in force for now. The national platform was announced on 24 June for 16 municipalities.
 
 </div>
 
@@ -835,7 +835,7 @@ The trade network opened a web portal for electronic invoicing from 15 September
 
 **[السنة التكوينية الجديدة: حوالي 112 ألف ترشح عبر المنصة الجديدة للتسجيل عن بعد](https://www.radiosfax.tn/article/6aad029387879074d59b0799/%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-112-%D8%A3%D9%84%D9%81-%D8%AA%D8%B1%D8%B4%D8%AD-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF)** — Radio Sfax, 18 September 2026
 
-About 112,000 applications by 17 Sept 2026 against 70,000 in 2025; 136 centres open; second platform for hostel places.
+Tunisia's new online registration platform for vocational training received about 112,000 applications by 17 September 2026, the start of the training year, against 70,000 in 2025, the Tunisian Vocational Training Agency said. A second platform handles hostel and canteen applications and fee payments.
 
 </div>
 
@@ -849,7 +849,7 @@ About 112,000 applications by 17 Sept 2026 against 70,000 in 2025; 136 centres o
 
 **[(Tunisie) Enjeux juridiques du nouveau système digitalisé de l'INNORPI. Par Montaha Ben Taieb, Juriste.](https://www.village-justice.com/articles/tunisie-enjeux-juridiques-nouveau-systeme-digitalise-innorpi,59414.html)** — Village de la Justice, 7 October 2026
 
-Jurist on e-filing launched June 2026: legal value of electronic acts, filing dates, data protection, cyber risk.
+A Tunisian jurist, Montaha Ben Taieb, examines the legal questions raised by the digital industrial-property system that Tunisia's standards and industrial property institute, INNORPI, launched in June 2026 for trademarks, patents and designs. She covers the legal value of electronic filings, how filing dates are fixed, data protection and cybersecurity risk.
 
 </div>
 
@@ -897,7 +897,7 @@ The Municipality of Tunis began adopting the Taamir platform for filing and trac
 
 **[Ecoles Numériques](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b)** — Fondation Orange Tunisie (en partenariat avec le Ministère de l'Éducation et le Centre National des Technologies en Education), 3 September 2026
 
-Orange Foundation's offline digital-education kits reach 185 Tunisian primary schools since 2014.
+The Orange Foundation in Tunisia says its Digital Schools programme, run with the Ministry of Education since 2014, has equipped 185 public primary schools with offline digital-education kits. Each kit includes two Raspberry Pi servers, 25 tablets, a laptop and a projector, giving pupils educational content without an internet connection. The page carries no date.
 
 </div>
 
@@ -911,7 +911,7 @@ Orange Foundation's offline digital-education kits reach 185 Tunisian primary sc
 
 **[Digitalisation](https://www.essaha-aziza.tn/resultat-5-digitalisation)** — Programme Essaha Aziza (Ministère de la Santé / Union Européenne), 3 September 2026
 
-EU/Health Ministry programme's own record of the SI-SSPL rollout and a national electronic health record.
+The Essaha Aziza programme, run by Tunisia's health ministry with the European Union, documents its work to digitise primary-care facilities: a diagnosis of the existing information system, governance recommendations, a national electronic medical record, and deployment on pilot sites in Nabeul. Training of field teams and developers was carried out by the firm Elligy. No dates or costs are given.
 
 </div>
 
@@ -929,7 +929,7 @@ EU/Health Ministry programme's own record of the SI-SSPL rollout and a national 
 
 **[Tunisia’s Finance Ministry Moves to Integrate AI into Taxation, Customs and Accounting](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/)** — News Tunisia, 29 September 2026
 
-Tax-directorate chatbot and customs risk-targeting system Sanad 2 among projects due; data security stressed.
+Tunisia's Ministry of Finance said it is integrating artificial intelligence into its taxation, customs and accounting systems, at a conference held by its national finance and customs schools. Projects to be announced include a chatbot for the tax directorate and Sanad 2, a customs system for risk targeting and certificates of origin. No cost or timetable is given.
 
 </div>
 
@@ -937,7 +937,7 @@ Tax-directorate chatbot and customs risk-targeting system Sanad 2 among projects
 
 **[Tunisie: L'IA bientôt intégrée au ciblage des déclarations douanières à risque](https://fr.allafrica.com/stories/202610090629.html)** — La Presse de Tunisie via allAfrica, 9 October 2026
 
-AI risk targeting due end-November 2026; 9-10 services digitised; 1.5m declarations examined in 2025.
+Tunisian Customs official Kais Ben Zayed said on 9 October 2026 that AI built by in-house staff will be added to the customs risk-management and selectivity system at the end of November 2026, to target high-risk declarations. He said nine or ten customs services have been digitised and more than 1.5 million declarations were examined in 2025.
 
 </div>
 
@@ -959,7 +959,7 @@ Tunisia's customs and tax services plan to use machine learning to target high-r
 
 **[مشروع ميزانية 2027: استراتيجية لتعبئة الموارد ترتكز على التعويل على الذات ومكافحة التهرب الجبائي بالذكاء الاصطناعي](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A)** — Assabah News, 6 October 2026
 
-Tunisia's 2027 budget orientations: AI, data analytics and linked databases against tax evasion.
+A Tunisian finance ministry document on the 2027 draft budget plans to fight tax evasion using artificial intelligence, data analysis and linked databases across public bodies, reported on 6 October 2026. It also aims to reduce external borrowing, widen the tax base and expand digital tax services. The document itself is undated and not published.
 
 </div>
 
@@ -973,7 +973,7 @@ Tunisia's 2027 budget orientations: AI, data analytics and linked databases agai
 
 **[Douane tunisienne : le circuit rouge recule fortement en 2026 - La Presse de Tunisie](https://www.lapresse.tn/2026/10/06/douane-tunisienne-le-circuit-rouge-recule-fortement-en-2026/)** — La Presse de Tunisie, 6 October 2026
 
-AI risk targeting since May 2026; red channel 4.7% to 2.6%; paperless customs projected in 12-18 months.
+Tunisian Customs said on 6 October 2026 that it has used AI in its risk analysis of declarations since May 2026. The share of declarations sent to the red channel for full inspection fell from 4.7% in 2025 to 2.6% in 2026. An official said customs could be paperless within 12 to 18 months.
 
 </div>
 
@@ -987,7 +987,7 @@ AI risk targeting since May 2026; red channel 4.7% to 2.6%; paperless customs pr
 
 **[Douane : l’intelligence artificielle bientôt utilisée pour détecter les fraudes et contrôler les marchandises](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/)** — Business News (Tunisia), 12 October 2026
 
-Mosaique FM interview; AI trials lift targeting 20-25%; scanner-image AI; SINDA 2 due end-2027; 2026 seizure figures.
+Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 that first trials of artificial intelligence for targeting high-risk shipments improved targeting by 20-25%. AI will also be used to analyse container scanner images remotely, and the SINDA 2 customs IT system is due for completion by the end of 2027 as declarations move to paperless processing.
 
 </div>
 
@@ -1013,7 +1013,7 @@ Tunisia’s employment minister said artificial intelligence is being added to v
 
 **[Formation professionnelle : Le Kef accueille son premier laboratoire d’IA en partenariat avec Tunisie Telecom](https://www.webdo.tn/fr/actualite/national/formation-professionnelle-le-kef-accueille-son-premier-laboratoire-dia-en-partenariat-avec-tunisie-telecom/404244/)** — Webdo, 18 September 2026
 
-First of 12 promised AI labs opens at Le Kef training centre, announced 17 Sept 2026, with Tunisie Telecom as partner.
+Tunisia's employment and vocational training minister, Riadh Chaoued, announced on 17 September 2026 the creation of an artificial intelligence laboratory at the vocational training centre in Le Kef, in partnership with Tunisie Telecom. It is the first of 12 AI labs the ministry announced on 7 September for vocational training centres in 2026-2027. No cost is given.
 
 </div>
 
@@ -1027,7 +1027,7 @@ First of 12 promised AI labs opens at Le Kef training centre, announced 17 Sept 
 
 **[Executive Capacity Building Programme on AI Governance, Trust and Digital Sovereignty, Yasmine Hammamet](https://www.linkedin.com/posts/smart-africa-digital-academy-sada_aigovernance-activity-7503059303755542528-PF0G)** — Smart Africa Digital Academy (SADA), 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-40+ senior policymakers and regulators at a two-day SADA programme with RealTyme and Universite Laval.
+The Smart Africa Digital Academy held a two-day executive programme on AI governance, trust and digital sovereignty in Yasmine Hammamet, Tunisia, for more than 40 senior policymakers and regulators, with RealTyme and Université Laval. Sessions covered risk-based regulation, AI standards, sovereign infrastructure and adding AI to existing digital public infrastructure.
 
 </div>
 
@@ -1087,7 +1087,7 @@ Tunisia's National Statistics Council reviewed the statistics institute's develo
 
 **[Usages des TIC en Tunisie : Un taux d’accès de 85,9 %, une consommation nocturne et la primauté du Sud](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/)** — L'Echo Tunisien, 1 October 2026
 
-18-24s 99.2%, 60-70s 54.1%; low-income households 69.1%; men 86.5%, women 85.2%; the South leads at 94.3%.
+Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, puts the national internet access rate at 85.9% in its latest ICT use barometer, reported on 1 October 2026. Use is 99.2% among 18–24 year-olds and 54.1% among 60–70 year-olds, and ranges from 69.1% in the lowest-income households to 95.9% in the highest. The barometer's fieldwork date is not given.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BDI
 ledger_rows: 10
 not_held: 11
-record: 8ba19081bc36
+record: d8b143e22370
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -67,7 +67,7 @@ record: 8ba19081bc36
 
 **[Burundi adopts Right-to-Information Law, with broad exceptions](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/)** — Burundi Times, 30 September 2026
 
-Senate vote 29 Sept 2026; oversight commission, 30-day proactive disclosure, no fee ceiling or public-interest override.
+Burundi's Senate unanimously adopted a bill on 29 September 2026 creating a legal right of access to public information. It sets up a National Commission on Access to Public Information to hear appeals and requires covered bodies to publish some information proactively, with exceptions for national security, private life and ongoing judicial investigations. The bill sets no ceiling on access fees.
 
 </div>
 
@@ -149,7 +149,7 @@ The East African Legislative Assembly's accounts committee reported that Burundi
 
 **[2027 presidential election : more than one million new voters, CENI accelerates preparations - SOS Médias Burundi](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/)** — SOS Medias Burundi, 3 September 2026
 
-Partial registration planned for October 2026 in 4,000+ centres; CENI promises an electoral register audit.
+Burundi's electoral commission CENI expects more than one million new voters on the register for the 2027 presidential election, its president Prosper Ntahorwamiye said on 28 August 2026. Partial registration is planned for October 2026 in more than 4,000 centres, aimed at those under 18 in 2025 and returnees. Exact dates have not been set.
 
 </div>
 
@@ -163,7 +163,7 @@ Partial registration planned for October 2026 in 4,000+ centres; CENI promises a
 
 **[La CAM, une avancée vers une protection sociale plus inclusive ?](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/)** — Iwacu, 14 March 2025
 
-Iwacu's own account of Burundi's compulsory CAM ordinance, its 1984 origins and 2012 reform.
+A joint ministerial ordinance of 7 February 2025 requires every Burundian household outside a health mutual, and every adult aged 18 or over, to buy a Carte d'Assurance Maladie (CAM). Burundi's revenue office set the card's price at 3,000 Burundian francs. The CAM dates from 1984 and became voluntary in 2012; the public-service mutual covers about 10% of the population.
 
 </div>
 

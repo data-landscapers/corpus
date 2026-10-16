@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SWZ
 ledger_rows: 37
 not_held: 3
-record: b0c83b3d7bc6
+record: 75ddf6bd039a
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -103,7 +103,7 @@ record: b0c83b3d7bc6
 
 **[New proposed law to screen foreigners entering country](https://times.co.sz/43339/news/new-proposed-law-to-screen-foreigners-entering-country/)** — Times of Eswatini, 10 September 2026
 
-Eswatini's Immigration Bill would block entry by system-generated communication; about E6 million to implement.
+Eswatini's Immigration Bill would set up an information system to vet foreign nationals before entry and block those who fail requirements or are judged a risk. It was discussed at a consultation between Parliament and stakeholders in Ezulwini. The workshop heard that implementation would cost about E6 million.
 
 </div>
 
@@ -135,7 +135,7 @@ Eswatini's Data Protection Authority is setting up information desks in major to
 
 **[Eswatini and DCO explore cooperation to accelerate digital transformation](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation)** — TechReview Africa, 3 September 2026
 
-DCO secretary-general meets Eswatini's ICT minister; 1.76m mobile connections against a 1.3m population, 95% 4G.
+The Digital Cooperation Organization's secretary-general, Deemah AlYahya, met Eswatini's ICT minister Savannah Maziya to discuss cooperation on digital transformation through knowledge exchange and capacity building. The report cites about 1.76 million mobile connections for a population of 1.3 million and 4G coverage of nearly 95 per cent. No agreement was announced.
 
 </div>
 
@@ -149,7 +149,7 @@ DCO secretary-general meets Eswatini's ICT minister; 1.76m mobile connections ag
 
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LSO/" title="LSO">Lesotho</a>
 
-Regulators' MoU of 3 Oct 2026: coordinated incident response, audits, training, joint research and information exchange.
+The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
 
 </div>
 
@@ -191,7 +191,7 @@ Eswatini MPs spoke in support of the three World Bank facilities, together worth
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -217,7 +217,7 @@ Eswatini senators asked on 5 October whether anyone had been held to account for
 
 **[Govt seeks to cancel E182m data recovery site loan](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/)** — Times of Eswatini, 22 September 2026
 
-Undrawn US$10.4m Exim Bank of India loan for Lubombo backup data site; project stalled, fees accruing, no reply yet.
+Eswatini's Finance Minister Neal Rijkenberg told Parliament that the Treasury has asked Exim Bank of India to cancel an undrawn US$10.4 million loan, about E182 million, for a government data recovery site in the Lubombo Region. The project stalled and no work has taken place, while commitment fees continue to accrue. The bank has not yet confirmed the cancellation.
 
 </div>
 
@@ -255,7 +255,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[National Data Centre hit by 'incident'](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/)** — Times of Eswatini, 24 September 2026
 
-RSTP confirms incident but not hack or ransom; at least 12 services down; outage first acknowledged 18 Sep 2026.
+Eswatini's Royal Science and Technology Park confirmed that an incident at the National Data Centre disrupted at least 12 government digital services, including e-Visa, company registration, the government website and the financial management system. It did not confirm social-media claims of a hack or ransom demand, and said outside experts were helping restore services.
 
 </div>
 
@@ -353,7 +353,7 @@ A network outage on 16 September 2026 halted all identity card and passport proc
 
 **['Cat' Matlala wife arrest reignites Eswatini ID saga](https://independentnews.co.sz/48682/southafrica/cat-matlala-wife-arrest-reignites-eswatini-id-saga/)** — Independent News Eswatini, 23 September 2026
 
-Civil Service Commission finds registrar unlawfully issued birth certificate and ID to a foreign national in Feb 2024.
+Eswatini's Civil Service Commission found in September 2026 that suspended Home Affairs assistant registrar Nonhlanhla Malambe unlawfully issued a birth certificate and national ID card to a foreign national registered as 'Vusimuzi Dlamini', using an innocent citizen's details. The documents were issued in February 2024 and are allegedly used by South African businessman Vusimuzi 'Cat' Matlala; criminal proceedings continue.
 
 </div>
 
@@ -369,7 +369,7 @@ Civil Service Commission finds registrar unlawfully issued birth certificate and
 
 **[Standard Bank eyes integrated banking as Unayo phased out](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/)** — Eswatini Observer, 9 September 2026
 
-Unayo closes 31 December 2026; 200,000 retail and 5,000 business clients, only about 30% transacting.
+Standard Bank Eswatini will close its Unayo wallet platform on 31 December 2026, the Eswatini Observer reported on 9 September 2026. Unayo has more than 200,000 registered retail customers and about 5,000 business clients, of whom about 30% transact regularly; the bank says the Eswatini Payment Switch now provides the real-time transfers between banks and wallets that Unayo was built to offer.
 
 </div>
 
@@ -377,7 +377,7 @@ Unayo closes 31 December 2026; 200,000 retail and 5,000 business clients, only a
 
 **[STANDARD BANK REVIVES INSTANT MONEY AS UNAYO EXITS](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/)** — Eswatini Positive News, 4 October 2026
 
-SMS notice of Instant Money's return; no date, fees or limits yet; Unayo users told to withdraw before 31 Dec 2026.
+Standard Bank Eswatini has told customers by SMS that its Instant Money service will return as it prepares to close the Unayo digital platform on 31 December 2026. No relaunch date, fees or limits had been announced as of 4 October. Unayo users were advised to withdraw stored funds before the closure.
 
 </div>
 
@@ -399,7 +399,7 @@ The Central Bank of Eswatini says the fast-payments service of the Eswatini Paym
 
 **[DELTAPAY BRINGS INSTANT PAYMENTS CLOSER TO HOME](https://eswatinipositivenews.online/deltapay-brings-instant-payments-closer-to-home/)** — Eswatini Positive News, 12 October 2026
 
-Wallet transfers in seconds, 24/7, to participating banks and wallets; follows full licence; go-live date not given.
+DeltaPay has gone live on the Eswatini Payment Switch, the Central Bank of Eswatini's national switch, letting its wallet users send money within seconds at any time, including weekends, to customers of participating banks and wallets. No go-live date or fees are given.
 
 </div>
 
@@ -413,7 +413,7 @@ Wallet transfers in seconds, 24/7, to participating banks and wallets; follows f
 
 **[ENPF cuts claims processing from days to three hours](https://times.co.sz/45780/news/enpf-cuts-claims-processing-from-days-to-three-hours/)** — Times of Eswatini, 7 October 2026
 
-Three-hour payout pilot to E5,000 for KYC'd members; debit-card contributions via portal; 180,000 active members.
+The Eswatini National Provident Fund launched Express Claims on 6 October 2026, promising payment within three hours for claims of up to E5,000 from members who have completed identity checks, as a pilot. It also launched a debit-card payment gateway for contributions on its portal. Government reporting had put average claim processing at about 1.6 days.
 
 </div>
 
@@ -427,7 +427,7 @@ Three-hour payout pilot to E5,000 for KYC'd members; debit-card contributions vi
 
 **[GOVT TO USE POST OFFICES AS COMMUNITY DIGITAL CENTRES – PS PRINCE MASHISHIMBA](https://eswatinipositivenews.online/govt-to-use-post-offices-as-community-digital-centres-ps-prince-mashishimba/)** — Eswatini Positive News, 9 October 2026
 
-Eswatini Post to join e-government for citizen authentication, document checks and payments; World Post Day 2026.
+Eswatini's ICT principal secretary, Prince Mashishimba Andreas Dlamini, said on 9 October 2026, World Post Day, that the government plans to use post offices as community digital centres for public services. Eswatini Post would be brought into e-government work, supporting citizen authentication, document verification and digital payments in rural and underserved areas. No timetable or cost is given.
 
 </div>
 
@@ -443,7 +443,7 @@ Eswatini Post to join e-government for citizen authentication, document checks a
 
 **[Matsapha first to roll out addressing system in eight weeks](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/)** — Eswatini Positive News, 11 September 2026
 
-First municipality on the National Postcode and Addressing Project; street signs due inside eight weeks.
+Matsapha became the first municipality in Eswatini to roll out the National Postcode and Addressing Project, with street signs due within eight weeks of 11 September 2026. The scheme, run by the regulator ESCCOM, gives every property a unique address linked to Google Maps. Phase one covers only properties inside the municipal boundary.
 
 </div>
 
@@ -457,7 +457,7 @@ First municipality on the National Postcode and Addressing Project; street signs
 
 **[Biometric technology set to strengthen voter registration](https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/)** — Eswatini Positive News, 11 September 2026
 
-Continuous Voter Registration with biometric capture, aimed at duplicate registration, ahead of 2028 polls.
+Eswatini's Elections and Boundaries Commission is rolling out continuous voter registration with computers and biometric capture ahead of the 2028 national elections, its deputy chairperson Sipho Tembe said. The system targets people newly turned 18 and those who have changed constituency, and is meant to prevent duplicate registration. No cost or supplier is given.
 
 </div>
 
@@ -471,7 +471,7 @@ Continuous Voter Registration with biometric capture, aimed at duplicate registr
 
 **[IMBALI REGISTER TO VOTE AHEAD OF ELECTIONS AT MBANGWENI](https://eswatinipositivenews.online/imbali-register-to-vote-ahead-of-elections-at-mbangweni/)** — Eswatini Positive News, 12 September 2026
 
-EBC used Umhlanga 2026 to register young women to vote, ID card in hand, ahead of elections.
+Eswatini's Elections and Boundaries Commission registered young women to vote at the Umhlanga reed dance at Mbangweni Royal Residence, reported on 12 September 2026. Registration requires a personal identification card and uses biometric capture, and the commission paired it with civic education ahead of the coming elections.
 
 </div>
 
@@ -485,7 +485,7 @@ EBC used Umhlanga 2026 to register young women to vote, ID card in hand, ahead o
 
 **[LUBOMBO MPs JOIN DPM TO MAKE EVERY VULNERABLE HOUSEHOLD COUNT - Eswatini Positive News](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/)** — Eswatini Positive News, 16 September 2026
 
-216 collectors and 22 supervisors recruited; Lubombo household collection 2026-10-12 to 2026-11-27.
+Eswatini's deputy prime minister, Thulisile Dladla, asked Lubombo MPs on 16 September 2026 to build community trust in Imbeleko, the national social registry, before household data collection runs from 12 October to 27 November 2026. 216 data collectors and 22 supervisors have been recruited from the region. The exercise follows enumeration in Shiselweni in 2025.
 
 </div>
 
@@ -517,7 +517,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[System glitch stalls civil servants’ loans](https://www.eswatiniobserver.com/system-glitch-stalls-civil-servants-loans/)** — Eswatini Observer, 5 October 2026
 
-Lenders locked out of IFMIS cannot check the 33% deduction threshold; new loans stalled, instalments still flowing.
+An outage of Eswatini government digital services has stopped new loans to civil servants because lenders cannot reach the Integrated Financial Management Information System to check applicants against the 33% salary-deduction limit, reported on 5 October 2026. Instalments on existing loans are still being received. Other platforms affected include e-Visa, the deeds registry and the government website.
 
 </div>
 
@@ -547,7 +547,7 @@ Eswatini's audit office hosted a week-long peer programme at which supreme audit
 
 **[PM CALLS FOR DISRUPTION TO FIX TOURISM BOTTLENECKS - Eswatini Positive News](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/)** — Eswatini Positive News, 17 September 2026
 
-PM Dlamini concedes e-Visa delays and payment failures; Payment Switch to add open banking and card switching.
+Eswatini's prime minister, Russell Mmiso Dlamini, told a tourism conference in Mbabane on 17 September 2026 that the e-Visa platform suffers delays and payment failures, worst at peak periods, with no manual fallback. He said the Eswatini Payment Switch already handles fast payments and will add open banking and card switching.
 
 </div>
 
@@ -617,7 +617,7 @@ Eswatini’s national business body backed the revenue service’s move to elect
 
 **[Retail, wholesale sector steps up for e-invoicing pilot](https://times.co.sz/43257/business/retail-wholesale-sector-steps-up-for-e-invoicing-pilot/)** — Times of Eswatini, 9 September 2026
 
-Business Eswatini convenes retail and wholesale members with ERS on the fiscalisation project ahead of implementation.
+Business Eswatini brought its retail and wholesale members together with the Eswatini Revenue Service to explain the revenue service's Electronic Invoicing Solution and prepare for its introduction. A number of businesses volunteered for the pilot phase, in which invoices are to be generated, sent and validated electronically in real time or near real time.
 
 </div>
 
@@ -625,7 +625,7 @@ Business Eswatini convenes retail and wholesale members with ERS on the fiscalis
 
 **[Three tech firms connect to ERS e-invoicing system](https://independentnews.co.sz/48807/business/three-tech-firms-connect-to-ers-e-invoicing-system/)** — Independent News Eswatini, 24 September 2026
 
-Three providers, one a young local firm; accounting and POS systems must link to TaxCore to strengthen VAT.
+The Eswatini Revenue Service said at the opening of the 2026 filing season, reported on 24 September, that three technology providers, one a young local entrepreneur, are being integrated into its TaxCore e-invoicing system. Businesses' accounting and point-of-sale systems will have to connect to TaxCore to strengthen VAT collection. No start date is given.
 
 </div>
 
@@ -655,7 +655,7 @@ Eswatini has hired a consultant to draft a national AI strategy, the ICT ministe
 
 **[Taiwan Opens Global Markets for Eswatini Through Buy Eswatini](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/)** — Eswatini Positive News, 5 September 2026
 
-Taiwan-funded platform handed to EIPA at EITF, 3 Sep 2026; Phase 3 scale-up funding still sought.
+The Taiwan-funded Buy Eswatini digital commerce platform was handed to the Eswatini Investment Promotion Authority at the 58th Eswatini International Trade Fair on 3 September 2026. Eswatini's commerce minister asked Taiwan to fund a third phase covering platform infrastructure, data protection, digital payments, logistics and training for small businesses. No value is given for Taiwan's support or the request.
 
 </div>
 
@@ -671,7 +671,7 @@ Taiwan-funded platform handed to EIPA at EITF, 3 Sep 2026; Phase 3 scale-up fund
 
 **[Work Smarter: Embrace Technology, Cut Costs, Grow](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow)** — United Nations Development Programme (UNDP) Eswatini, 3 September 2026
 
-~150 delegates at the UNDP CREATE symposium, Manzini, 2 Sept 2026, on cutting MSME costs with digital tools.
+About 150 delegates attended a symposium in Manzini, Eswatini, on 2 September 2026 on how small businesses can use technology to cut costs, held under CREATE, a four-year EU-funded government programme. The programme is run by the Ministry of Natural Resources and Energy with the UN Development Programme and Catalyze Eswatini.
 
 </div>
 
@@ -685,7 +685,7 @@ Taiwan-funded platform handed to EIPA at EITF, 3 Sep 2026; Phase 3 scale-up fund
 
 **[FINTECH WORKING GROUP BECOMES FINTECH FORUM ESWATINI](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/)** — Eswatini Positive News, 23 September 2026
 
-CBE governor widens the group to academia, industry, innovators and students; MoU to formalise the forum to follow.
+The Central Bank of Eswatini's FinTech Working Group became the FinTech Forum Eswatini on 23 September 2026, Governor Phil Mnisi announced at Indaba X Eswatini, opening it to government, academia, industry, innovators and students. A memorandum of understanding to formalise the forum is the next step.
 
 </div>
 
@@ -703,7 +703,7 @@ CBE governor widens the group to academia, industry, innovators and students; Mo
 
 **[DIGITAL SKILLS OPEN NEW OPPORTUNITIES FOR ESWATINI’S FUTURE - Eswatini Positive News](https://eswatinipositivenews.online/digital-skills-open-new-opportunities-for-eswatinis-future/)** — Eswatini Positive News - News Website, 2 September 2026
 
-Ministry of ICT runs a digital-skills workshop series at the 58th Eswatini International Trade Fair.
+Eswatini's Ministry of Information, Communications and Technology ran a digital skills workshop series at the 58th Eswatini International Trade Fair in Manzini, held from 28 August to 6 September 2026. Speakers from the University of Eswatini, the Royal Science and Technology Park and the private sector covered digital careers, coding and digital marketing.
 
 </div>
 
@@ -717,7 +717,7 @@ Ministry of ICT runs a digital-skills workshop series at the 58th Eswatini Inter
 
 **[Technology devices take schools into digital era – Handsome](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/)** — Independent News Eswatini, 15 September 2026
 
-Taiwan donates 1,140 computers to 49 Eswatini schools; 40 interactive screens; US$4.75m education grant.
+Eswatini's education minister, Owen Nxumalo, said on 15 September 2026 that Taiwan has donated more than 1,140 computers and 60 printers to 49 schools, and that the cabinet has bought 40 interactive screens, installed in five schools per region, with 106 more schools to follow. He said the ministry has secured a US$4.75m Global Partnership for Education grant for technology in education, without giving its timing.
 
 </div>
 
@@ -749,7 +749,7 @@ About 40 change agents from five ministries and parastatals held a change-readin
 
 **[SMART AFRICA TO TEST GENDER IMPACT TOOLS IN ESWATINI](https://eswatinipositivenews.online/smart-africa-to-test-gender-impact-tools-in-eswatini/)** — Eswatini Positive News, 5 October 2026
 
-Three tools validated at the ICT ministry ahead of a 6-8 Oct 2026 Mbabane co-creation and piloting workshop.
+Eswatini's ICT ministry is validating three gender impact assessment tools ahead of a Smart Africa workshop in Mbabane from 6 to 8 October 2026, where participants will adapt and pilot them for local digital development programmes. The article does not describe what the tools measure.
 
 </div>
 
@@ -791,7 +791,7 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 
 **[Eswatini targets 100% financial inclusion through FinScope survey](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/)** — Eswatini Positive News, 10 September 2026
 
-3,200 households in 320 enumeration areas; first inclusion read since 2018's 87%.
+Eswatini's Central Statistical Office has begun fieldwork for the FinScope 2026 Consumer Survey, covering 3,200 households in all four regions until the end of October 2026. It is the first such survey since 2018, when financial inclusion stood at 87%, and will look at use of banking, mobile money and digital financial services as well as access.
 
 </div>
 

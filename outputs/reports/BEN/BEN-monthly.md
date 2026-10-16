@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BEN
 ledger_rows: 34
 not_held: 4
-record: 74c98d4e9ab8
+record: 8d81a3c801a8
 ---
 
 # Benin: monthly update, September – October 2026
@@ -87,7 +87,7 @@ record: 74c98d4e9ab8
 
 **[Société : Votre patron peut-il lire vos messages WhatsApp professionnels ?](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels)** — La Nation, 5 September 2026
 
-Article 379 of Benin's Code du numérique read against employer monitoring of work WhatsApp on company devices.
+Benin's La Nation explains how the country's Digital Code limits employers' access to staff WhatsApp messages. Owning a work phone or computer does not give an employer the right to read personal conversations; monitoring of accounts used only for work must serve a work purpose and follow the code's personal data rules, including article 379.
 
 </div>
 
@@ -101,7 +101,7 @@ Article 379 of Benin's Code du numérique read against employer monitoring of wo
 
 **[Régulation des médias en ligne: 89 organes autorisés par la Haac](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac)** — La Nation, 2 October 2026
 
-Conventions signed 1 October 2026 in Cotonou; outlets now bound by the information code and the Code du numérique.
+Benin's media regulator HAAC signed conventions with 89 online media outlets in Cotonou on 1 October 2026, completing its authorisation process for websites offering online audiovisual and written-press services. The outlets now operate under the information and communication code and the digital code.
 
 </div>
 
@@ -117,7 +117,7 @@ Conventions signed 1 October 2026 in Cotonou; outlets now bound by the informati
 
 **[IA et flux transfrontaliers en Afrique : L'appel de l'Apdp-Bénin à une gouvernance fiable des données](https://www.lanation.bj/numerique/ia-et-flux-transfrontaliers-en-afrique-lappel-de-lapdp-benin-a-une-gouvernance-fiable-des-donnees)** — La Nation (Bénin), 3 September 2026
 
-APDP-Bénin president's four levers for cross-border data trust, at MTN's Johannesburg fintech regulators forum.
+The president of Benin's personal data protection authority (APDP), Luciano Hounkponou, set out four measures for trusted cross-border data flows at a regulators' forum held with MTN Group's fintech summit in Johannesburg on 1–3 September 2026: stronger legal frameworks, secure and interoperable systems, shared governance and user education. He also called for closer cooperation between data protection and financial supervisors.
 
 </div>
 
@@ -147,7 +147,7 @@ Seventeen officers of the data protection authority were sworn in before the Cot
 
 **[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-NCS offers Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts.
+The Nigeria Customs Service offered Benin's customs a real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts at the Sèmè–Kraké one-stop border post on 11 September 2026. Comptroller-General Adewale Adeniyi said the two services work under one roof but not on one system; Benin's customs chief endorsed the proposal. No timetable is given.
 
 </div>
 
@@ -177,7 +177,7 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 
 **[Transformation numérique : Le Bénin veut accélérer avec l’IA et miser sur ses propres talents](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents)** — CADRECO, 9 October 2026
 
-AI cybersecurity référentiel with four risk tiers, AI officer and ethics committee; minister bets on local talent.
+Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a conference now covering digital transformation and innovation, where an AI cybersecurity framework with four risk tiers, an AI officer and an ethics committee was presented. Officials cited shortages of staff, equipment, servers and funding in administrations, and the minister stressed developing local solutions and talent.
 
 </div>
 
@@ -195,7 +195,7 @@ AI cybersecurity référentiel with four risk tiers, AI officer and ethics commi
 
 **[Cybersécurité au Bénin: Le club des Rssi porté sur les fonts baptismaux](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux)** — La Nation Bénin, 29 September 2026
 
-Constituent assembly of 26 September; 11-member board under Athanase Atchome; training, standards, incident sharing.
+Benin's information security officers founded a professional club at a constituent general assembly on 26 September 2026, adopting statutes and electing an 11-member board chaired by Athanase Atchome. The club plans training, workshops, experience sharing and promotion of international security standards across public and private institutions.
 
 </div>
 
@@ -209,7 +209,7 @@ Constituent assembly of 26 September; 11-member board under Athanase Atchome; tr
 
 **[Bénin : le CNIN ouvre trois points de plainte à Porto-Novo, Abomey et Parakou](https://beninwebtv.com/benin-le-cnin-ouvre-trois-points-de-plainte-a-porto-novo-abomey-et-parakou/)** — Bénin Web TV, 3 October 2026
 
-Complaint desks at police premises in Porto-Novo, Abomey and Parakou; Cotonou office and email route remain.
+Benin's National Centre for Digital Investigations, CNIN, which reports to the Presidency, opened three complaint desks outside Cotonou, in police premises at Porto-Novo, Abomey and Parakou. They take complaints about personal data breaches and digital offences, alongside the Cotonou office and the existing email route.
 
 </div>
 
@@ -227,7 +227,7 @@ Complaint desks at police premises in Porto-Novo, Abomey and Parakou; Cotonou of
 
 **[Infractions routières : Le Trésor invite au règlement des pénalités avant le 1er octobre](https://cadreco.media/regulation/2026/infractions-routieres-le-tresor-invite-au-reglement-des-penalites-avant-le-1er-octobre)** — CADRECO, 11 September 2026
 
-Settle by 1 October 2026 after checking arrears on securoute.anatt.bj; forced recovery on the roads after that.
+Benin's Directorate-General of the Treasury and Public Accounting told road users in a communiqué dated 2 September 2026 to check for unpaid traffic penalties on the securoute.anatt.bj portal and pay them by 1 October 2026. After that date, unpaid penalties will be recovered by force during road journeys.
 
 </div>
 
@@ -285,7 +285,7 @@ Benin's identification agency opened online renewal of the biometric identity ca
 
 **[Digitalisation de la preuve de vie : Le Ministère de l’Économie et des Finances simplifie la démarche](https://www.gouv.bj/article/3686/digitalisation-preuve-ministere-economie-finances-simplifie-demarche/)** — Gouvernement de la République du Bénin, 3 October 2026
 
-Pensioners verify by fingerprint in a smartphone app after NPI and booklet login; biometric kiosks too; manual attached.
+Benin's Ministry of Economy and Finance announced on 3 October 2026 that pensioners can complete their annual proof of life from a smartphone. After identifying with their personal identification number (NPI) and pension booklet number, they verify their fingerprints in an app and receive confirmation by SMS or email. Biometric kiosks in some public places offer an alternative.
 
 </div>
 
@@ -315,7 +315,7 @@ Benin's tax directorate is opening its online declaration and payment platform t
 
 **[Finances publiques : Une nouvelle étape franchie dans la digitalisation du paiement des frais de mission](https://www.gouv.bj/article/3677/finances-publiques-nouvelle-etape-franchie-dans-digitalisation-paiement-frais-mission/)** — Gouvernement de la République du Bénin, 25 September 2026
 
-SEMO 2 circular of 25 Sep 2026: mission expenses paid electronically in all administrations; geolocation next.
+Benin's finance ministry made electronic payment of official mission expenses mandatory across public administrations by a circular of 25 September 2026. This is the second phase, SEMO 2, of the mission-management platform run by the national control directorate, whose first phase was used to detect overlapping missions and fictitious staff. Geolocated proof of mission is to follow.
 
 </div>
 
@@ -323,7 +323,7 @@ SEMO 2 circular of 25 Sep 2026: mission expenses paid electronically in all admi
 
 **[SEMO+ : La preuve de mission entre dans l’ère du numérique !](https://www.gouv.bj/article/3685/semo-preuve-mission-entre-dans-numerique-/)** — Gouvernement de la République du Bénin, 3 October 2026
 
-Officials prove mission presence by NPI login, geolocation and fingerprint; fixed kiosks as alternative; manual attached.
+Benin's government announced on 3 October 2026 that public servants on official missions now prove their presence through the SEMO+ mobile app. They log in with their personal identification number, select the mission, share their location and confirm by fingerprint; biometric kiosks in some public places offer an alternative.
 
 </div>
 
@@ -353,7 +353,7 @@ Parakou became the first Benin commune with complete cadastral coverage, 196,474
 
 **[Bénin : acte de naissance gratuit, voici la procédure pour les moins de 14 ans](https://lanouvelletribune.info/2026/09/benin-acte-de-naissance-gratuit-voici-la-procedure-pour-les-moins-de-14-ans/)** — La Nouvelle Tribune, 19 September 2026
 
-Claim routes: ANIP BJ app, e-services portal or *151# USSD offline; RAVIP enrolees eligible; guichet unique 22% to 76%.
+Benin's national identification agency (ANIP), with UNICEF, is issuing birth certificates free to children under 14 until 30 September 2026, for births registered without a certificate being collected. Parents can retrieve the identification number and certificate through the ANIP BJ app or online portal, or by USSD code *151# without internet access.
 
 </div>
 
@@ -383,7 +383,7 @@ Benin's identification agency said 50,109 children received a first birth certif
 
 **[Compte rendu du Conseil des Ministres du 02 sept. 2026 | Secrétariat général du Gouvernement du Bénin](https://sgg.gouv.bj/cm/2026-09-02/)** — Secretariat general du Gouvernement du Benin, 2 September 2026
 
-35 integrated economic, social and digital centres for 26 communes; AI advisers named across ministries.
+Benin's Council of Ministers approved on 2 September 2026 the construction of 35 integrated economic, social and digital centres in 26 communes, each combining a social protection one-stop shop, a post office and a community digital point. The same session approved a digital platform to identify and geolocate farmers and plots, and appointed technical advisers on artificial intelligence in several ministries.
 
 </div>
 
@@ -397,7 +397,7 @@ Benin's identification agency said 50,109 children received a first birth certif
 
 **[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
 
-Benin among eight West African states piloting a demographic dividend monitoring platform, Abidjan 7-9 September 2026.
+Benin and seven other West African states (Burkina Faso, Côte d'Ivoire, Guinea, Mali, Niger, Senegal and Togo) are testing a platform to monitor progress on the demographic dividend at a meeting in Abidjan from 7 to 9 September 2026. The tool aims to harmonise indicators against African Union commitments on health, education, jobs and governance before wider rollout.
 
 </div>
 
@@ -411,7 +411,7 @@ Benin among eight West African states piloting a demographic dividend monitoring
 
 **[Économie numérique au niveau de la douane : La dématérialisation des laisser-passer](https://beninespoir.com/economie-numerique-au-niveau-de-la-douane-la-dematerialisation-des-laisser-passer/)** — Bénin Espoir, 10 September 2026
 
-Benin customs moves foreign-vehicle pass issuance fully online, announced 9 September 2026.
+Benin's customs directorate announced on 9 September 2026 that passes for foreign vehicles are now issued entirely online through the national platforms, replacing paper forms. No platform name, cost or usage figures are given.
 
 </div>
 
@@ -455,7 +455,7 @@ Benin launched UnivServices.bj, a national portal for students at four public un
 
 **[Bénin : les certificats de perte désormais délivrés en ligne](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne)** — La Nation, 2 October 2026
 
-Paper issuance at police stations ends 1 October 2026; CDSP platform, electronic payment only, stations assist users.
+Benin's Republican Police moved loss certificates fully online from 1 October 2026, under a service note signed that day by Director General Kokou Brice Allowanou. Certificates are now issued only through the CDSP platform at certificatdeperte.bj, with electronic payment, and police stations no longer issue them on paper.
 
 </div>
 
@@ -469,7 +469,7 @@ Paper issuance at police stations ends 1 October 2026; CDSP platform, electronic
 
 **[Communiqué officiel | Prix national de la simplification administrative](https://prix-simplification.gouv.bj/communique)** — Gouvernement du Bénin, 12 October 2026
 
-Open call to agents, citizens and firms; submissions 29 Oct-12 Nov 2026; 100% of procedures online by 2030.
+Benin's government launched a presidential National Administrative Simplification Prize on 12 October 2026, inviting public servants, citizens and businesses to propose simpler procedures, including digitisation and data sharing between administrations. Submissions are open from 29 October to 12 November 2026. The prize supports Benin's target of having all procedures online by 2030.
 
 </div>
 
@@ -487,7 +487,7 @@ Open call to agents, citizens and firms; submissions 29 Oct-12 Nov 2026; 100% of
 
 **[Billet juridique sur la conformité juridique, une condition de réussite du déploiement des systèmes d'intelligence artificielle](https://asin.bj/doc/150/download)** — Agence des systèmes d'information et du numérique (ASIN), République du Bénin, 1 September 2026
 
-Advisory note proposes a national AI risk-classification doctrine on EU AI Act tiers; no vehicle or timetable.
+Benin's digital agency ASIN argued in its September 2026 quarterly bulletin that AI systems need rules on governance, liability and compliance beyond the digital code and data-protection law. It proposes risk-based regulation on the EU AI Act's four tiers and a national classification of AI systems as prohibited, subject to reinforced assessment, or deployable under transparency duties. No legal vehicle, authority or timetable is named.
 
 </div>
 
@@ -557,7 +557,7 @@ Benin's health ministry has contracted the South Korean firm Noul to put twenty 
 
 **[NUMÉRIQUE/LANGUES BÉNINOISES : 700 heures de fongbé pour l’IA : après les voix, la question des données](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees)** — La Nation, 8 September 2026
 
-700 hours of Fongbe audio from 2,400 contributors across 20+ localities - and the unsettled question of who owns it.
+Benin's 'J'aime Ma Langue' project, run by the state digital agency ASIN with the Institute for Inclusive Digital Africa, collected 700 hours of Fongbe speech from 2,400 contributors in more than 20 localities to train AI in Beninese languages, reported on 8 September 2026. ASIN paid contributors more than 5.8m CFA francs. The article asks how consent, reuse and access to the data will be governed.
 
 </div>
 
@@ -575,7 +575,7 @@ Benin's health ministry has contracted the South Korean firm Noul to put twenty 
 
 **[Bénin : Enseignement secondaire : Le Gouvernement accélère la transformation numérique avec 628 équipements informatiques](https://www.africa-newsroom.com/press/benin--enseignement-secondaire--le-gouvernement-accelere-la-transformation-numerique-avec-628-equipements-informatiques?lang=fr)** — Gouvernement de la République du Bénin (APO Group), 12 September 2026
 
-UNICEF hands over 628 IT items for 43 secondary schools; 12 new digital classrooms added to 55 already deployed.
+UNICEF handed Benin's Ministry of Secondary Education 628 items of computer equipment on 11 September 2026, including desktops, laptops, projectors and printers, for 43 secondary schools in nine departments and eight departmental education offices. The equipment will set up 12 new digital classrooms, adding to 55 already in place in UNICEF's areas. No value is given.
 
 </div>
 
@@ -593,7 +593,7 @@ UNICEF hands over 628 IT items for 43 secondary schools; 12 new digital classroo
 
 **[Politique d'identification et d'inclusion: 1 422 cartes d'égalité des chances aux personnes handicapées](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees)** — La Nation (Bénin), 23 September 2026
 
-1,422 cards handed over 18 Sep 2026; 4,718 issued 2024-25, c. 4,000 applications for 2026; SDG 16.9 target 2028.
+Benin's identification agency ANIP handed 1,422 equal-opportunity cards for persons with disabilities to the Ministry of Family and Social Action in Cotonou on 18 September 2026. The cards, provided for under a 2017 law, give access to rights in health, education, employment and transport. ANIP issued 4,718 cards in 2024 and 2025 and has about 4,000 applications for 2026.
 
 </div>
 

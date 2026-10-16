@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ZAF
 ledger_rows: 140
 not_held: 21
-record: bf9709e33af5
+record: 68058ab9c7d8
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -129,7 +129,7 @@ record: bf9709e33af5
 
 **[Notice of intention to conduct market inquiry into the impact of over-the-top (OTT) services on licensees and regulatory framework in South Africa - Notice 4129 of 2026](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf)** — Independent Communications Authority of South Africa (Government Gazette No. 55299), 4 September 2026
 
-Section 4B inquiry into OTT impact on telecoms, broadcasting and postal licensees; four phases, gazetted 4 Sept 2026.
+South Africa's communications regulator, ICASA, gazetted notice of a market inquiry into the impact of over-the-top services on telecoms, broadcasting and postal licensees on 4 September 2026. The inquiry has four phases: a questionnaire with 45 working days for responses, a discussion document for comment, possible public hearings, and findings gazetted within 90 days of its conclusion.
 
 </div>
 
@@ -145,7 +145,7 @@ South Africa’s communications regulator said it will inquire into the effect o
 
 **[South Africa's industry regulator launches market inquiries into OTT services and telecom affordability](https://news.broadcastmediaafrica.com/2026/09/09/south-africas-industry-regulator-launches-market-inquiries-into-ott-services-and-telecom-affordability/)** — Broadcast Media Africa, 9 September 2026
 
-Two inquiries, four phases each: OTT impact on licensees, and telecom affordability; findings to be gazetted.
+South Africa's communications regulator ICASA launched two market inquiries, one into the effect of over-the-top services such as Netflix and WhatsApp on its telecoms, broadcasting and postal licensees, the other into telecoms affordability. Each runs in four phases, with 45 working days for written responses; findings will be published in the Government Gazette. No new charge on platforms has been announced.
 
 </div>
 
@@ -159,7 +159,7 @@ Two inquiries, four phases each: OTT impact on licensees, and telecom affordabil
 
 **[AI governance cannot wait for policy](https://itweb.africa/article/ai-governance-cannot-wait-for-policy/raYAyMorD1P7J38N)** — ITWeb Africa, 18 September 2026
 
-Only 4% of Eastern Cape schools surveyed have an AI policy, while 48% of SA teachers already use AI.
+An opinion piece by the lead of Lefa AI argues that South African schools need AI safeguards now. It cites the 2024 TALIS survey, in which 48% of South African lower-secondary teachers had used AI against an OECD average of 36%, and a January 2026 FEDSAS survey of 99 Eastern Cape educators in which only 4% said their school had an AI policy.
 
 </div>
 
@@ -167,7 +167,7 @@ Only 4% of Eastern Cape schools surveyed have an AI policy, while 48% of SA teac
 
 **[AI policy gets a second chance](https://www.businessday.co.za/business-times/2026-10-03-ai-policy-gets-a-second-chance/)** — Business Times (BusinessDay), 3 October 2026
 
-Deputy minister Gungubele: final draft to minister before end-November 2026, cabinet by end of 2026/27 financial year.
+South Africa's deputy communications minister, Mondli Gungubele, said the redrafted national AI policy goes to the minister before the end of November 2026 and to cabinet by the end of the 2026/27 financial year. The earlier draft, released this year, was withdrawn after it was found to contain AI-generated, invented citations.
 
 </div>
 
@@ -189,7 +189,7 @@ One of the two South African officials suspended over the draft national AI poli
 
 **[Discussion Document on Categories of Needy Persons and Subsidy Application and Payment Modalities (with General Notice inviting comments)](https://usaasa.org.za/wp-content/uploads/2026/09/USAASA-Discussion-Document-Needy-Persons_Subsidy-Modalities_20260930_FINAL.pdf)** — Universal Service and Access Agency of South Africa (USAASA), 30 September 2026
 
-Six provisional propositions under ECA s.88(4) and s.88(1A); no income threshold chosen; BDM R3,500 as comparator only.
+South Africa's Universal Service and Access Agency published a discussion document on 30 September 2026 on which needy persons should receive electronic communications subsidies, who must apply and who may be paid. It sets six provisional propositions with financial inability as the central test, but proposes no income threshold, benefit amount or payment platform. Comments close on 30 October 2026.
 
 </div>
 
@@ -197,7 +197,7 @@ Six provisional propositions under ECA s.88(4) and s.88(1A); no income threshold
 
 **[Who qualifies as a ‘needy person’? — Usaasa weighs new digital subsidy rules](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-who-qualifies-as-a-needy-person-usaasa-weighs-new-digital-subsidy-rules/)** — TimesLIVE (Sunday Times), 10 October 2026
 
-s. 88 consultation; three eligibility models, no income threshold set; digital, assisted and in-person channels.
+The Universal Service and Access Agency of South Africa has invited public comment on a discussion document on who should qualify as a 'needy person' for subsidised access to communications services, who should apply and how subsidies should be paid, reported on 10 October 2026. The consultation, under section 88 of the Electronic Communications Act, sets no income threshold. No comment deadline is given.
 
 </div>
 
@@ -211,7 +211,7 @@ s. 88 consultation; three eligibility models, no income threshold set; digital, 
 
 **[Government Gazette No. 55476 (30 September 2026): ICASA General Notice 4180 of 2026, withdrawal of Notice 4130 (affordability inquiry), and withdrawal of Notices 4129 and 4148 (OTT inquiry)](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf)** — Independent Communications Authority of South Africa (ICASA), Government Gazette No. 55476, 30 September 2026
 
-GN 4180 withdraws Notice 4130; OTT Notices 4129 and 4148 withdrawn; draft affordability notice reprinted.
+South Africa's communications regulator ICASA withdrew its notice of an inquiry into the affordability of telecommunications services (Notice 4130 of 2026) in Government Gazette No. 55476 of 30 September 2026. The same gazette withdrew Notices 4129 and 4148 on an inquiry into over-the-top services, and reprinted a draft notice of intention to hold the affordability inquiry in four phases.
 
 </div>
 
@@ -219,7 +219,7 @@ GN 4180 withdraws Notice 4130; OTT Notices 4129 and 4148 withdrawn; draft afford
 
 **[ICASA withdraws notices on OTT services and telecommunications affordability inquiries](https://www.icasa.org.za/news/2026/icasa-withdraws-notices-on-ott-services-and-telecommunications-affordability-inquiries)** — Independent Communications Authority of South Africa (ICASA), 1 October 2026
 
-Withdrawn over administrative and procedural matters; affordability notice to return with draft questionnaire.
+South Africa's communications regulator, ICASA, withdrew on 1 October 2026 its notices launching inquiries into telecommunications affordability and the impact of over-the-top services, citing administrative and procedural matters. The affordability notice will be republished with a draft questionnaire and the OTT notice later; earlier submissions can be resubmitted.
 
 </div>
 
@@ -233,7 +233,7 @@ Withdrawn over administrative and procedural matters; affordability notice to re
 
 **[Government Notice 7985 (Gazette 55494): Invitation to comment on the Discussion Document on Universal Access and Universal Service](https://pmg.org.za/files/2601001discussionusaasa.pdf)** — Universal Service and Access Agency of South Africa (USAASA), Government Gazette No. 55494, 1 October 2026
 
-Review of the 2010 determination; three options, USAASA leans to targeted revision; comments close 30 October 2026.
+The Universal Service and Access Agency of South Africa published a discussion document on universal access and universal service in the Government Gazette on 1 October 2026, reviewing the 2010 determination. It sets out three options and favours a targeted revision; comments close on 30 October 2026.
 
 </div>
 
@@ -299,7 +299,7 @@ ICASA has asked the Constitutional Court to settle whether it may condone a late
 
 **[SA telco giants seek competition waiver in rural broadband rollout](https://www.sundaytimes.timeslive.co.za/business/2026-09-05-sa-telco-giants-seek-competition-waiver-in-rural-broadband-rollout/)** — Sunday Times (TimesLIVE), 5 September 2026
 
-Operators seek a competition exemption to share rural network build costs; regulator weighs alternatives.
+South Africa's main telecoms operators, through the Association of Communications and Technology, have asked the competition authorities for an exemption to share limited planning information on passive infrastructure such as towers and ducts in rural and underserved areas. Coordination would run through an independent third party to split build costs. The association represents Vodacom, MTN, Telkom, Cell C, Liquid and Rain.
 
 </div>
 
@@ -343,7 +343,7 @@ South Africa's communications minister told parliament the government is not pur
 
 **[South Africa has no plan to ban under-16s from social media](https://iol.co.za/news/south-africa/2026-09-16-south-africa-has-no-plan-to-ban-under-16s-from-social-media2/)** — IOL, 16 September 2026
 
-DCDT: no SA legislation planned, no irrefutable evidence blanket bans keep minors off platforms.
+South Africa's Department of Communications and Digital Technologies said on 16 September 2026 that it has no legislation planned to bar under-16s from social media. Minister Solly Malatsi said there is no clear evidence such bans keep children offline, and the department will instead strengthen the Film and Publication Board and NEMISA and build digital literacy. Parliament's portfolio committee is considering summoning the platforms over online harms.
 
 </div>
 
@@ -371,7 +371,7 @@ South Africa's Film and Publication Board imposed R16.175 million in fines on di
 
 **[Media Statement: Justice Committee Approves Publication of Proposed Amended PAIA Court Rules to Enhance Transparency and Access to Justice](https://www.parliament.gov.za/press-releases/media-statement-justice-committee-approves-publication-proposed-amended-paia-court-rules-enhance-transparency-and-access-justice)** — Parliament of South Africa, 23 September 2026
 
-Committee lets DoJ publish draft rules: standard s78 applications, sworn s80 representations, old PAIA Rules repealed.
+South Africa's parliamentary justice committee agreed on 23 September 2026 that the Department of Justice may publish proposed amended court rules for applications under the Promotion of Access to Information Act. The draft rules standardise section 78 applications across all courts, require sworn section 80 representations five days before hearings, and repeal the previous PAIA rules. They are not yet in force.
 
 </div>
 
@@ -437,7 +437,7 @@ South African Police Service body-worn cameras must be able to conduct facial re
 
 **[Commission seeks tech partners to block spam calls](https://www.sundaytimes.timeslive.co.za/business/news/2026-09-12-commission-seeks-tech-partners-to-block-spam-calls/)** — Sunday Times, 12 September 2026
 
-NCC request for proposals to run the opt-out registry, live in 2026; fines up to R1m or 10% of turnover.
+South Africa's National Consumer Commission issued a request for proposals for service providers to support its national opt-out registry for direct marketing, which it wants live in 2026, reported on 12 September 2026. Under amended consumer protection rules, marketers must register and check their lists against the registry, and face fines of up to R1 million or 10 per cent of turnover.
 
 </div>
 
@@ -445,7 +445,7 @@ NCC request for proposals to run the opt-out registry, live in 2026; fines up to
 
 **[Guidelines for Compliance with Opt-Out Registry Regulations \[Draft\] (GN 7981)](https://businesstech.co.za/news/wp-content/uploads/2026/10/Opt-out-guidelines.pdf)** — National Consumer Commission (South Africa), 2 October 2026
 
-Mandatory marketer registration, monthly list cleansing at 12 cents per blocked entry; 15-day comment window.
+South Africa's National Consumer Commission published draft guidelines on compliance with the opt-out registry regulations on 2 October 2026 (GN 7981), inviting comment within 15 days. Every direct marketer must register on the registry, renew annually and check its contact list against it each month it markets, at 12 cents per blocked entry.
 
 </div>
 
@@ -453,7 +453,7 @@ Mandatory marketer registration, monthly list cleansing at 12 cents per blocked 
 
 **[National Consumer Commission launches National Opt-Out Registry](https://www.gov.za/news/media-statements/national-consumer-commission-launches-national-opt-out-registry-07-oct-2026)** — South African Government, 7 October 2026
 
-Marketer registration 15 Sep to Dec 2026; free list cleansing to April 2027; consumer blocks from May 2027.
+South Africa's National Consumer Commission launched the National Opt-Out Registry on 7 October 2026, letting consumers block unwanted direct-marketing calls, SMSes and other messages free of charge. Direct marketers must register by December 2026 and may cleanse their lists free until April 2027; consumers can register blocks from May 2027.
 
 </div>
 
@@ -469,7 +469,7 @@ Marketer registration 15 Sep to Dec 2026; free list cleansing to April 2027; con
 
 **[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Manamela sets five priorities for SADC universities, among them a regional higher education data system.
+South Africa's higher education minister, Buti Manamela, told a meeting of SADC university vice-chancellors in Johannesburg on 31 August 2026 that the region must build its own computing capacity, datasets, African-language technologies and cybersecurity. He set five priorities, including agreement on a regional higher education data system, to show results by the SADC ministers' meeting in June 2027.
 
 </div>
 
@@ -477,7 +477,7 @@ Manamela sets five priorities for SADC universities, among them a regional highe
 
 **[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-SADC vice-chancellors meet at Wits, 31 Aug to 1 Sep 2026, on a regional higher education data system.
+University leaders, government representatives, the SADC Secretariat and the Southern African Regional Universities Association met at Wits University on 31 August–1 September 2026. They discussed the SADC higher education strategy, a proposed SADC University of Transformation, a regional higher education data system and micro-credentials. No design, cost or timetable for the data system is given.
 
 </div>
 
@@ -493,7 +493,7 @@ SADC vice-chancellors meet at Wits, 31 Aug to 1 Sep 2026, on a regional higher e
 
 **[When harm goes viral: Multistakeholder forum launches timely report on South Africa's social media problem](https://researchictafrica.net/2026/09/18/when-harm-goes-viral-multistakeholder-forum-launches-timely-report-on-south-africas-social-media-problem/)** — Research ICT Africa, 18 September 2026
 
-RIA, CABC and Moxii find SA law adequate but governance fragmented; moderation in English leaves out 10 languages.
+Research ICT Africa, the Centre for Analytics and Behavioural Change and Moxii Africa launched a study in Johannesburg on 17 September 2026 finding that South Africa's laws on harmful online content are adequate but enforcement is fragmented. It found platform moderation in English alone leaves out 10 of 11 official languages, and that cases of harassment, doxxing and deepfakes can take up to seven years to resolve. The study was EU-funded.
 
 </div>
 
@@ -511,7 +511,7 @@ RIA, CABC and Moxii find SA law adequate but governance fragmented; moderation i
 
 **[Minister of Communications and Digital Technologies - reply to National Assembly oral question 763 (Hlazo-Webster): USAF collections and unspent funds](https://pmg.org.za/committee-question/41023/)** — Department of Communications and Digital Technologies (via Parliamentary Monitoring Group), 30 September 2026
 
-R1.29bn USAF collections 2021/22-2025/26; about R652m unspent end-2025/26; R567m BDM write-off.
+South Africa's communications minister told the National Assembly, in an oral reply approved on 30 September 2026, that ICASA collected R1,287,583,749 for the Universal Service and Access Fund over the five years to 2025/26, with about R652 million left unspent at the end of 2025/26. He cited delays in set-top-box installation and broadband projects; 2025/26 spending included a R567 million write-off of digital-migration stock.
 
 </div>
 
@@ -535,7 +535,7 @@ South Africa's communications minister told Parliament that about R1.29 billion 
 
 **[SA's global business services presents opportunities for economic growth](https://www.sanews.gov.za/south-africa/sas-global-business-services-presents-opportunities-economic-growth)** — SAnews.gov.za, 1 September 2026
 
-R70 million expansion takes Atain's Cape Town workforce from about 1,500 to 2,100 people.
+Atain, a company selling AI-driven customer experience and business process services, opened a R70 million global business services centre in Cape Town that will take its South African workforce from about 1,500 to 2,100. South Africa's deputy trade minister John Steenhuisen spoke at the opening. No date for the investment decision is given.
 
 </div>
 
@@ -571,7 +571,7 @@ South African investment firm DNI announced more than R2.1 billion across Frogfo
 
 **[Proparco invests US$20 million in Frogfoot, Vox and Hypa to expand affordable fibre connectivity in South Africa](https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south)** — Proparco, 5 October 2026
 
-Proparco US$20m in Metier-led consortium with BII, BIO, DEG; up to 360,000 homes a year, about 5,000 jobs.
+Proparco, the French development finance institution, said on 5 October 2026 that it is investing US$20 million in South African fibre and connectivity companies Frogfoot, Vox and Hypa, in a consortium led by Metier with BII, BIO, DEG, Ke Nako Capital, Nedbank and Standard Bank. The funds are for extending fibre into lower-income and township areas. No signing date is given.
 
 </div>
 
@@ -649,7 +649,7 @@ Free, through Telco OI, joined the EUR93 million ReuNION consortium led by La Re
 
 **[South Africa's Digital Connectivity Investment Roadmap to 2035 (Digital Infrastructure Investment Study)](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf)** — Development Bank of Southern Africa (DBSA) / National Planning Commission (NPC), 30 March 2026
 
-DBSA/NPC roadmap — R108-142bn needed to connect all SA households; Annex H covers the data-centre market.
+South Africa's Development Bank of Southern Africa and the National Planning Commission published a roadmap costing universal high-speed household broadband by 2035 at between R108 billion and R142 billion in 2025 real terms. An annex on data centres puts potential IT load at nearly 500MW, and finds over half of households could not afford R300 a month in an economic-decline scenario.
 
 </div>
 
@@ -691,7 +691,7 @@ South Africa's state signal distributor cut its net loss after tax to R60 millio
 
 **[Activists appeal Cape Town data centre approval](https://groundup.org.za/article/activists-lodge-appeal-against-massive-cape-town-data-centre/)** — GroundUp, 14 September 2026
 
-Civil society appeals the King Air Industria rezoning, citing missing water, power and emissions data.
+The Housing Assembly and Foxglove, represented by the Legal Resources Centre, appealed the City of Cape Town's 14 July rezoning approval for an Equinix hyperscale data centre at King Air Industria, GroundUp reported on 14 September 2026. They say nearby communities were not consulted and that the application lacked information on water, electricity, emissions and noise for the proposed 174 MVA facility. Equinix has not yet submitted a site plan.
 
 </div>
 
@@ -735,7 +735,7 @@ A R7m UK-funded programme in KwaZulu-Natal, run with South Africa's communicatio
 
 **[Gauteng Legislature visits facilities on SMART Schools Programme](https://www.gov.za/news/media-statements/gauteng-legislature-visits-facilities-smart-schools-programme-16-sep-2026)** — Gauteng Provincial Legislature (gov.za), 16 September 2026
 
-Committee to probe school network reliability, connectivity gaps and temporary-connection dependence.
+The Gauteng Provincial Legislature's e-Government and Research Development committee, chaired by Mbali Hlophe, announced oversight visits to schools under the province's SMART Schools Programme from 17 September 2026, starting at Moshate Secondary in Sedibeng and Johannesburg School. It will examine network reliability, delays in ICT infrastructure, incomplete connectivity, underfunding and reliance on temporary connections.
 
 </div>
 
@@ -869,7 +869,7 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 
 **[Media Statement: Committee Concerned as Public Service Institution Connectivity Reaches Only 49.1% of Spectrum Obligation Target](https://www.parliament.gov.za/press-releases/media-statement-committee-concerned-public-service-institution-connectivity-reaches-only-491-spectrum-obligation-target)** — Parliament of South Africa, 14 October 2026
 
-10,851 of 21,878 sites connected by March 2026; MTN and Rain below 65% threshold; zero-rating from January 2027.
+South Africa's mobile operators had connected 10,851 of the 21,878 public service institutions required under their 2022 spectrum licence obligations, 49.1%, by March 2026, the regulator ICASA told Parliament's communications committee on 14 October 2026. Vodacom, Telkom and Liquid met the 65% minimum threshold; MTN and Rain did not.
 
 </div>
 
@@ -885,7 +885,7 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 
 **[Equinix points to data centres' economic role amid resource concerns](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/)** — Business Day, 3 September 2026
 
-R7.5bn programme and about 160MW planned after JN1; Eskom courts a 2-3GW surplus as the SAHRC probes resource use.
+Equinix said its South African build-out runs to about 160MW of added capacity under a R7.5bn investment programme, including two proposed Cape Town facilities approved for land-use changes in July 2026. The South African Human Rights Commission called for submissions in May on data centres' resource use, and Eskom expects a 2-3GW generation surplus. No date is given for the R7.5bn programme.
 
 </div>
 
@@ -899,7 +899,7 @@ R7.5bn programme and about 160MW planned after JN1; Eskom courts a 2-3GW surplus
 
 **[Civil society groups in South Africa call for temporary halt to new data centres](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/)** — Africanews (AP), 4 September 2026
 
-SAHRC holds 250+ submissions since May 2026; Equinix's 160MW Cape Town approval is the flashpoint.
+South African civil society groups called on 4 September 2026 for a halt to new data centres until their use of water, land and electricity has been investigated. The South African Human Rights Commission has received over 250 submissions since May 2026. The main point of contention is a municipal approval for an Equinix hyperscale facility in Cape Town estimated to need 160 megawatts.
 
 </div>
 
@@ -955,7 +955,7 @@ A large cloud provider says it has invested more than US$819 million in African 
 
 **[Merger Alert: Competition Tribunal approves acquisition of JNB11 data centre; and renewable energy merger with HDP ownership conditions](https://www.comptrib.co.za/info-library/press-room/Merger-Alert:-Competition-Tribunal-approves-acquisition-of-JNB11-data-centre;-and-renewable-energy-merger-with-HDP-ownership-conditions)** — Competition Tribunal of South Africa, 16 September 2026
 
-Tribunal clears Main Street 2156 to take sole control of Vantage's JNB11 data centre; no value disclosed.
+South Africa's Competition Tribunal approved the acquisition of the JNB11 data centre by Main Street 2156, a newly formed South African company, from Vantage Data Centers South Africa. The deal transfers the companies that operate the facility and own its building and lease rights. The notice gives no transaction value, conditions or ultimate buyer.
 
 </div>
 
@@ -963,7 +963,7 @@ Tribunal clears Main Street 2156 to take sole control of Vantage's JNB11 data ce
 
 **[South Africa could soon get a new fibre giant as rivals plot major merger](https://www.africaninsider.com/business/south-africa-could-soon-get-a-new-fibre-giant-as-rivals-plot-major-merger/)** — African Insider, 18 September 2026
 
-AIIM owns all of Octotel and 37% of MetroFibre; a combined network would rank third behind Vumatel and Openserve.
+South African fibre operators Octotel and MetroFibre confirmed they are assessing a possible merger, reported on 18 September 2026. Old Mutual's African Infrastructure Investment Managers owns all of Octotel and 37% of MetroFibre; a combined network would rank third behind Vumatel and Telkom's Openserve. No deal has been finalised.
 
 </div>
 
@@ -1021,7 +1021,7 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 
 **[A Strategic Framework for Offshore Wind Development in South Africa](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099091026151019349)** — World Bank / ESMAP, 10 September 2026
 
-95GW technical potential off a 2,800km coast; site-exclusivity and seabed-leasing rules not enacted.
+The World Bank published a strategic framework for offshore wind in South Africa, prepared by the Carbon Trust with the Department of Electricity and Energy and funded by ESMAP, posted on 10 September 2026. It estimates about 95 GW of technical potential along the 2,800 km coastline and notes that rules on site exclusivity and seabed leasing have not been enacted.
 
 </div>
 
@@ -1169,7 +1169,7 @@ South Africa's road traffic infringement agency is considering an investigation 
 
 **[Gauteng panic app exposed crime reports and your locations](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/)** — GroundUp, 23 September 2026
 
-Unsecured database exposed crime reporters' names, photos, GPS histories and login PINs; contractor fixed it.
+GroundUp reported on 23 September 2026 that the database behind the Gauteng Department of e-Government's e-Panic Button app was unsecured, exposing users' names, crime reports with images, GPS location histories and login PINs. Contractor Evolve VAS, which holds a R10 million contract, fixed the flaws after GroundUp's alert on 21 September; the provincial government did not respond.
 
 </div>
 
@@ -1177,7 +1177,7 @@ Unsecured database exposed crime reporters' names, photos, GPS histories and log
 
 **[Gauteng spending R269 million for app downloaded 15,000 times in 10 months](https://mybroadband.co.za/news/gadgets/668550-gauteng-spending-r269-million-for-app-downloaded-15000-times-in-10-months.html)** — MyBroadband, 25 September 2026
 
-R269m contract total to March 2027; R131.3m paid to Evolve in three years; 15,000 new downloads in ten months.
+Gauteng's Department of e-Government said in replies to DA questions, reported on 25 September 2026, that its e-Panic Button contract with Evolve Value Added Services is worth R269 million in total and runs to 10 March 2027. It has paid R131.3 million over three years, and the app gained only 15,000 new downloads between October 2025 and August 2026, out of more than 180,000 overall.
 
 </div>
 
@@ -1193,7 +1193,7 @@ South Africa's opposition DA in Gauteng will ask the Information Regulator to in
 
 **[DA to report e-Panic data breach to Information Regulator](https://groundup.news/article/people-exposed-by-gauteng-panic-app-data-breach-still-not-informed/)** — GroundUp, 28 September 2026
 
-A week on, Gauteng silent and users unnotified; app now runs on Trigger Systems; R269m figure unconfirmed.
+South Africa's Democratic Alliance said it will report a data breach in the Gauteng government's e-Panic Button app to the Information Regulator, reported on 28 September 2026. An unsecured database exposed crime reports with the names, phone numbers and locations of those who filed them. Nearly a week after the disclosure, the province had not commented or told affected users; the contract is reported at R269m.
 
 </div>
 
@@ -1233,7 +1233,7 @@ The Gauteng legislature's e-government committee rejected the provincial departm
 
 **[ACCOUNTABILITY OVER ALLEGED E-PANIC BUTTON SECURITY BREACH - Yo School Mag](https://nyakaza.org.za/accountability-over-alleged-e-panic-button-security-breach/)** — Yo School Mag, 8 October 2026
 
-Regulator told only on 5 Oct, two weeks after 21 Sept alert; committees demand probe independent of the provider.
+Gauteng legislature committees said after a joint meeting on 5 October 2026 that the provincial Department of e-Government notified the Information Regulator of the e-Panic Button data exposure only that morning, about two weeks after being alerted on 21 September. The department could not say how many records were exposed, and the committees demanded an investigation independent of the app's service provider.
 
 </div>
 
@@ -1265,7 +1265,7 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 
 **[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
 </div>
 
@@ -1279,7 +1279,7 @@ Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-
 
 **[VAT Connect Issue 21 (September 2026)](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/)** — South African Revenue Service, 8 September 2026
 
-E-invoice, e-reporting and interoperability-framework definitions in the VAT Act from 1 April 2026.
+The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 September 2026 that the VAT Act now defines e-invoice, e-credit note, e-debit note, interoperability framework and e-reporting, in force from 1 April 2026 under the Tax Administration Laws Amendment Act 4 of 2026. The finance minister may prescribe a voluntary e-reporting system by regulation. No commencement date for those regulations is given.
 
 </div>
 
@@ -1293,7 +1293,7 @@ E-invoice, e-reporting and interoperability-framework definitions in the VAT Act
 
 **[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LSO/" title="LSO">Lesotho</a>
 
-Smart One-Stop Border Posts at Maseru and Ficksburg among the mid-term review's agreed outcomes.
+Lesotho and South Africa concluded a mid-term review of their Bi-National Commission in Pretoria on 9 September 2026 after three days of talks. Outcomes included faster work on Smart One-Stop Border Posts at Maseru and Ficksburg, progress on a new migration model for labour mobility, and Phase II of the Lesotho Highlands Water Project. The next full session is set for South Africa in 2027.
 
 </div>
 
@@ -1307,7 +1307,7 @@ Smart One-Stop Border Posts at Maseru and Ficksburg among the mid-term review's 
 
 **[Home affairs investigating 21 cases of identity theft and fraudulent IDs](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/)** — TimesLIVE (Sunday Times), 23 September 2026
 
-Parliamentary reply: 21 cases under investigation; Hanis and Abis checks, IEC electronic interface verifies voters.
+South Africa's home affairs minister Leon Schreiber said in a parliamentary reply that the department is investigating 21 cases of identity theft and fraudulently obtained identity documents. Suspect documents are flagged through the HANIS and ABIS biometric systems and checks against the National Population Register, and officials found to have helped will face disciplinary action.
 
 </div>
 
@@ -1337,7 +1337,7 @@ South Africa's Special Investigating Unit found Home Affairs adjudicators took k
 
 **[South Africa is behind its neighbours on the plumbing of digital IDs](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/)** — TechCentral, 11 September 2026
 
-SA has no deployed state PKI while Zambia and Namibia stand up root CAs; three private providers hold the trust layer.
+Zambia's ICT regulator ZICTA completed a key ceremony establishing a national root certification authority, eight days after Namibia's regulator CRAN launched its DigiNam public key infrastructure on 31 August 2026. South Africa has no state system deployed; three private providers are accredited, and Home Affairs plans infrastructure hosted at SARS by 31 March 2027 and roll-out in 2027/28.
 
 </div>
 
@@ -1373,7 +1373,7 @@ South Africa's home affairs minister said production of the green ID book will e
 
 **[SA: Dr Leon Schreiber: Address by Minister of Home Affairs, at the Home Affairs Quantum Leap: A Vision for the Future of Government at Constitution Hill (01/10/2026)](https://www.polity.org.za/article/sa-dr-leon-schreiber-address-by-minister-of-home-affairs-at-the-home-affairs-quantum-leap-a-vision-for-the-future-of-government-at-constitution-hill-01102026-2026-10-02)** — Polity, 2 October 2026
 
-Minister's own text: Digital ID rules being finalised, green ID invalid from 31 Mar 2028, 2028/29 documentation drive.
+South Africa's Home Affairs Minister Leon Schreiber announced at Constitution Hill on 1 October 2026 that the department will stop producing the green ID book by 31 March 2027, and that it will cease to be valid identification on 31 March 2028. The 14.7 million people who hold only a green ID book will have 12 months after production ends to switch to the Smart ID card.
 
 </div>
 
@@ -1409,7 +1409,7 @@ South Africa's home affairs department said its Electronic Travel Authorisation 
 
 **[Media Statement: Select Committee Briefed on Proposed Amendments to Regulations Governing Driving Licences](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences)** — Parliament of South Africa, 6 October 2026
 
-Light-vehicle cards to run ten years after printer failures; Presidency-led group weighs digital licences on digital ID.
+South Africa's Department of Transport told Parliament's Select Committee on Public Infrastructure on 6 October 2026 that draft regulations would extend light-vehicle driving licence cards from five to ten years, because of card-production delays and printer breakdowns. A Presidency-led working group with the Road Traffic Management Corporation and Home Affairs is exploring digital licences linked to the government's digital identity framework.
 
 </div>
 
@@ -1437,7 +1437,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Proposed changes to Traffic Regulations to affect South Africans and foreigners](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/)** — The Citizen (South Africa), 10 October 2026
 
-TRNs and licences struck from acceptable ID; 2023 audit matched 2.7% of 1,072,258 TRNs; 30-day comment to follow.
+South Africa's Department of Transport plans to amend the National Road Traffic Regulations so that Traffic Register Number certificates and learner's and driving licences can no longer be used as general identification. A 2023 check with Home Affairs of 1,072,258 TRNs found only 29,653 (2.7%) matched the national immigration identification system. The draft is to be published for 30 days' comment.
 
 </div>
 
@@ -1533,7 +1533,7 @@ A South African payments group reported a net profit of R47.3 million for the ye
 
 **[Cape Town pilots 'cashless' driving licence centres](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj)** — ITWeb South Africa, 11 September 2026
 
-Brackenfell, Fish Hoek and Strand pilot from 1 October 2026; the city runs 18 licence testing centres.
+The City of Cape Town will pilot cashless payments at three of its 18 driving licence testing centres, in Brackenfell, Fish Hoek and Strand, from 1 October 2026. Mayoral committee member JP Smith said the pilot will test feasibility across all centres. The city began cashless payments at its customer interaction centres and vehicle licensing offices in July.
 
 </div>
 
@@ -1611,7 +1611,7 @@ Paystack introduced an onsite card checkout for Shopify merchants in South Afric
 
 **[Payment challengers move from consultation to action with proposals for SA’s payments future](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/)** — Business & Retail Spread, 28 September 2026
 
-PayShap acceptance proposal to SARB; interchange papers feed determination project; PASA functions moved 2 Sep.
+The Association of South African Payment Providers said at a Sandton briefing that it has submitted a proposal to the Reserve Bank's National Payment System Department on merchant acceptance and interoperability for the PayShap instant payment system. It said the Reserve Bank has confirmed the association's interchange papers are being considered in its Interchange Determination Project.
 
 </div>
 
@@ -1655,7 +1655,7 @@ Absa launched institutional digital-asset custody for South African clients on 2
 
 **[New tools from CIPC to strengthen SA's fight against money laundering, terrorist financing](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/)** — Eyewitness News, 29 September 2026
 
-Real-time ownership searches for SAPS, IDAC, SIU and NPA; upgrade of module first launched April 2023.
+South Africa's Companies and Intellectual Property Commission launched an upgraded beneficial ownership module on 29 September 2026 that gives law enforcement agencies, including the police, the Investigating Directorate Against Corruption, the SIU and the NPA, real-time access to company ownership data. It adds search and connection-mapping tools against money laundering and terrorist financing. The first version launched in April 2023.
 
 </div>
 
@@ -1683,7 +1683,7 @@ KwaZulu-Natal is launching a portal listing its public works properties, after a
 
 **[DSD introduces new NPO system: here’s what you need to know](https://www.citizen.co.za/news/south-africa/dsd-introduces-new-npo-system-heres-what-you-need-to-know/)** — The Citizen (South Africa), 13 October 2026
 
-Legacy system off 15 Oct 2026; new platform linked to CIPC, SARS and Home Affairs; no more manual submissions.
+South Africa's Department of Social Development switches off its old NPO registration and reporting system on 15 October 2026, moving all non-profits to the online system introduced on 1 September 2025. The department says the platform links with CIPC, SARS and Home Affairs; manual submissions are no longer accepted.
 
 </div>
 
@@ -1713,7 +1713,7 @@ The Western Cape's Social Work Integrated Management System now accepts secure e
 
 **[Funding restored for TUT students after qualification code corrections](https://www.sanews.gov.za/south-africa/funding-restored-tut-students-after-qualification-code-corrections)** — SAnews, 13 September 2026
 
-182 TUT students refunded after the university corrected qualification codes behind N+ defunding.
+South Africa's student aid scheme NSFAS restored funding to 182 Tshwane University of Technology students after the university corrected wrong qualification codes that had triggered defunding under the N+ rule. The corrections followed more than 300 helpdesk cases raised by Deputy Minister Yusuf Cassim's office. A further 1,212 students placed in accredited housing after the NSFAS portal closed have not had accommodation costs paid.
 
 </div>
 
@@ -1751,7 +1751,7 @@ South Africa's Electoral Commission rejected claims that a system failure blocke
 
 **[Inaccurate and unverified ID numbers found on ANC election candidate lists](https://www.citizen.co.za/news/south-africa/elections/inaccurate-and-unverified-id-numbers-found-on-anc-election-candidate-lists/)** — The Citizen, 8 September 2026
 
-Mbalula admits branch-submitted local-election candidate lists carried inaccurate and unverified identity numbers.
+South Africa's ANC secretary-general Fikile Mbalula said on 8 September 2026 that some branch-submitted candidate lists for the local government elections carried inaccurate and unverified identity numbers. The party has opened an internal review of its nomination process, and has gone to the Electoral Court over the Electoral Commission's refusal to reopen list submissions.
 
 </div>
 
@@ -1759,7 +1759,7 @@ Mbalula admits branch-submitted local-election candidate lists carried inaccurat
 
 **[IEC says ANC had zero system activity in two councils during alleged final-hour 'glitches'](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/)** — Daily Maverick, 11 September 2026
 
-IEC affidavit: no system activity in two councils in the final two hours; 2,274 candidates from 45 parties hit.
+South Africa's Electoral Commission told the Electoral Court on 11 September 2026 that its audit trail shows no ANC activity on the online candidate nomination system in two of the six municipalities where the party blames glitches for missing the 28 August deadline. The commission says its servers had no downtime, and that 2,274 candidates from 45 parties were captured but never submitted.
 
 </div>
 
@@ -1767,7 +1767,7 @@ IEC affidavit: no system activity in two councils in the final two hours; 2,274 
 
 **[IEC promises glitch-free elections with faster queues](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/)** — The Citizen, 23 September 2026
 
-IEC pledges tested results systems and party-verifiable platforms after 2024's poll-night screen failures.
+South Africa's Electoral Commission said on 23 September 2026 it has completed end-to-end testing of its results system for the 4 November elections, and parties may test it with their own experts from 5 to 12 October. Chairperson Mosotho Moepya cited reworked voter management devices after results-centre screens failed in 2024. More than 60,000 staff have been trained.
 
 </div>
 
@@ -1845,7 +1845,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Local Government Election Results System audit gets underway](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway)** — SAnews.gov.za, 6 October 2026
 
-ACDP, ANC, DA and MKP experts audit results system 5-12 Oct 2026; independent external audit concluded.
+South Africa's Electoral Commission opened its Election Results System, which captures and collates results and assigns seats, to audit by ICT experts from the ACDP, ANC, DA and MK Party from 5 to 12 October 2026. The commission said it had already completed an independent external audit of the system ahead of the 2026 local government elections.
 
 </div>
 
@@ -1859,7 +1859,7 @@ ACDP, ANC, DA and MKP experts audit results system 5-12 Oct 2026; independent ex
 
 **[Good news for South Africans who want to get a smart ID from their bank](https://mybroadband.co.za/news/government/669076-good-news-for-south-africans-who-want-to-get-a-smart-id-from-their-bank.html)** — MyBroadband, 27 September 2026
 
-Branch counts by bank - Capitec 247, Standard Bank 144, FNB 96, Absa 15; green ID book to go within two years.
+South Africa's Home Affairs smart ID service is available at more than 500 bank branches: Capitec 247, Standard Bank 144, FNB 96 and Absa 15. Minister Leon Schreiber has said it will reach 750 branches, add first-time ID and passport applications and offer home delivery by the end of 2026. A deputy director-general said the green ID book will be phased out within two years; no invalidation date is set.
 
 </div>
 
@@ -1903,7 +1903,7 @@ South Africa's communications department has formally begun a structural review 
 
 **[Question to the Minister of Communications and Digital Technologies - NW5099](https://pmg.org.za/committee-question/41100/)** — Parliamentary Monitoring Group, 5 October 2026
 
-SITA unqualified audit 2025/26 after qualified 2024/25; 117 e-services; 80.66% procurement on time; new board May 2026.
+South Africa's communications minister told Parliament in a written reply that the State Information Technology Agency (SITA) moved from a qualified audit opinion in 2024/25 to an unqualified one for 2025/26, after Cabinet approved an interim board in February 2025 and a permanent board on 6 May 2026. SITA delivered 117 e-services through 35 digital products to more than 30 public bodies and met 80.66% of procurement requests on time.
 
 </div>
 
@@ -1931,7 +1931,7 @@ Gauteng's transport department launched a digital system to clear its backlog of
 
 **[R4.9bn justice system programme sinking amid governance failures](https://www.citizen.co.za/news/r4-9bn-justice-system-programme-sinking-amid-governance-failures/)** — The Citizen (South Africa), 7 October 2026
 
-Auditor-General: vision unmet after a decade; only 63 of 506 planned WAN upgrades done by 31 August 2026.
+South Africa's Auditor-General told Parliament's justice committee on 6 October 2026 that the integrated justice system programme has not achieved its aims after about R4.9bn spent over a decade, citing unclear accountability and fragmented oversight. It found cybersecurity and access control weaknesses, and only 63 of 506 planned network upgrades completed by 31 August 2026.
 
 </div>
 
@@ -1999,7 +1999,7 @@ Gauteng's e-government department offered its camera networks to the police inve
 
 **[Joburg's Wi-Fi plan falters amid litany of woes](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/)** — TimesLIVE (Sunday Times), 20 September 2026
 
-26 network staff for 1,200km of fibre; R20.7m capex in 2026/27; Wi-Fi target cut to 200,000 connections.
+Johannesburg's city-owned Metropolitan Tech Company says in its 2026/27 business plan that it is under-capacitated, with 26 network staff maintaining 1,200km of fibre. The plan budgets about R570m for operations but R20.7m for capital spending, and says more than 60% of its city subsidy services a shareholder loan. Its free Wi-Fi target for 2026/27 is 200,000 connections, against 1,574,979 recorded in 2024/25.
 
 </div>
 
@@ -2013,7 +2013,7 @@ Gauteng's e-government department offered its camera networks to the police inve
 
 **[Tshwane promises faster service delivery responses, but keeps war room dashboard internal](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/)** — Gauteng News, 29 September 2026
 
-CSIR-built platform replaces static slides with live data; no public or ward-level view until data fully tested.
+The City of Tshwane and the CSIR launched an Enterprise Data and Analytics Platform on 29 September 2026, bringing municipal departments' service-delivery data into one system after a six-month test. The city's live Service Delivery War Room dashboard will stay internal; a public dashboard will be considered only once the data is fully tested.
 
 </div>
 
@@ -2021,7 +2021,7 @@ CSIR-built platform replaces static slides with live data; no public or ward-lev
 
 **[Tshwane launches data platform with CSIR to boost service delivery](https://www.citizen.co.za/rekord/news-headlines/2026/10/02/tshwane-launches-data-platform-with-csir-to-boost-service-delivery/)** — The Citizen, 2 October 2026
 
-MoU of June 2023; collaboration agreement Aug 2026; two-year rollout to June 2028 across all seven regions.
+South Africa's City of Tshwane launched an Enterprise Data and Analytics Platform with the Council for Scientific and Industrial Research (CSIR) to support its Service Delivery War Room. It follows a memorandum of understanding signed in June 2023 and a collaboration agreement of August 2026 covering July 2026 to June 2028, during which the platform is to extend to all seven regions. No cost is given.
 
 </div>
 
@@ -2081,7 +2081,7 @@ South Africa's largest mobile operator is using artificial intelligence for reve
 
 **[SARS sets out Vision for the next Era of Tax Administration at Tax Indaba 2026](https://www.sars.gov.za/latest-news/media-release-sars-sets-out-vision-for-the-next-era-of-tax-administration-at-tax-indaba-2026/)** — South African Revenue Service, 14 September 2026
 
-Commissioner Johnstone Makhubu set out Modernisation 3.0 at the 13th Tax Indaba in Sandton.
+South African Revenue Service Commissioner Johnstone Makhubu set out the agency's strategy at the 13th Tax Indaba in Sandton on 14 September 2026, putting trust, institutional capability, modernisation and partnership at its centre. He said consultations with taxpayers, practitioners and staff had produced four expectations: fairness, professionalism, responsiveness and partnership. No budget or timetable is given.
 
 </div>
 
@@ -2109,7 +2109,7 @@ Airports Company South Africa's annual report sets a plan to 2031 to bring AI, c
 
 **[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
 </div>
 
@@ -2195,7 +2195,7 @@ Half of 903 South Africans surveyed had got round their employer's restrictions 
 
 **[SA online retail to reach R159-billion in 2026](https://www.worldwideworx.com/onlineretailsa2026/)** — World Wide Worx, 2 September 2026
 
-Publisher's own report: R159bn online-retail forecast, platform and payment detail.
+World Wide Worx's Online Retail in South Africa 2026 study, produced with Mastercard, Peach Payments and Ask Africa, forecasts online retail sales of about R159 billion in 2026, up 22.5%, and its first full year at 10% of national retail turnover. Takealot is used by 35.3% of online shoppers and Checkers Sixty60 by 15%.
 
 </div>
 
@@ -2231,7 +2231,7 @@ South Africa's crackdown on low-value imports has significantly slowed cross-bor
 
 **[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-KSh204.3bn for the 15% stake, KSh40.2bn dividend advance, KSh244.5bn total, KSh340bn now in the fund.
+Kenya's High Court on 15 September 2026 declared the government's sale of a 15 per cent Safaricom stake to Vodacom's Vodafone Kenya unconstitutional and ordered the shares returned to the state. The three-judge bench found public participation inadequate and the buyer's identity concealed. The June sale raised KSh204.3 billion; Vodacom said it will appeal and seek a stay.
 
 </div>
 
@@ -2245,7 +2245,7 @@ KSh204.3bn for the 15% stake, KSh40.2bn dividend advance, KSh244.5bn total, KSh3
 
 **[The banker helping FNB Connect turn cellphones into gateways to everyday life](https://techcabal.com/2026/09/18/sashin-sookroo-fnb-connect-vision/)** — TechCabal, 18 September 2026
 
-FNB Connect latest FY: R28.6bn customer value and sales, R3bn gross revenue, ~50 PB MVNO data, 1.02m SIMs.
+FNB Connect, the connectivity business of South Africa's First National Bank, recorded R28.6 billion in customer value and sales in its latest financial year, up 18%, and gross revenue of more than R3 billion, its chief executive Sashin Sookroo told TechCabal. Its mobile network data use reached about 50 petabytes, and it has about 1.02 million active SIMs.
 
 </div>
 
@@ -2273,7 +2273,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Standard Bank Group announces strategic investment in OPay and a partnership to advance financial services access in Africa](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa)** — Standard Bank Group, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Subscription agreement tied to OPay NYSE IPO; partnership spans merchant acquiring, payments, lending, remittances.
+Standard Bank Group signed a subscription agreement to invest in Nigerian fintech OPay, to close with or shortly after OPay's proposed New York Stock Exchange listing, for which OPay filed with the US SEC on 9 October 2026. The two also plan to explore digital banking, merchant acquiring, lending and remittances. The release states no amount.
 
 </div>
 
@@ -2331,7 +2331,7 @@ A South African entrepreneur has launched Alpha Ticker, a vehicle combining capi
 
 **[Introducing Our 2026 Cohort for the Google for Startups Accelerator: South Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/)** — Google, 5 October 2026
 
-15 startups from 1,057 applicants; up to R1m equity-free each; three months to a December Demo Day.
+Google named 15 South African-led, revenue-generating AI startups to its 2026 Google for Startups Accelerator: South Africa on 5 October 2026, chosen from 1,057 applications. Each gets up to R1 million in equity-free funding, access to Google's AI models and cloud, and mentorship over three months ending in a December Demo Day.
 
 </div>
 
@@ -2381,7 +2381,7 @@ An industry argument that South Africa is not positioning itself as future-ready
 
 **[Cost of Living Report — August 2026](https://www.compcom.co.za/wp-content/uploads/2026/09/CC_Cost-of-Living-Report_Aug-2026.pdf)** — Competition Commission of South Africa, 1 September 2026
 
-Internet, water, electricity and food prices for decile-1 households; deep dive on water price formation.
+South Africa's Competition Commission published its August 2026 cost-of-living report, tracking prices of food, water, electricity, transport, internet and other essentials for the lowest-income households. Between January and July 2026, wired internet prices rose 3.5% and wireless 4.1%, against headline inflation of 3.8%; the internet figures cover fixed services only, not mobile data.
 
 </div>
 
@@ -2417,7 +2417,7 @@ South Africa ran Money Smart Week from 24 to 30 August, an initiative of the com
 
 **[Notice of intention to conduct market inquiry into the affordability of telecommunications services in South Africa - Notice 4130 of 2026](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf)** — Independent Communications Authority of South Africa (Government Gazette No. 55299), 4 September 2026
 
-Section 4B inquiry into voice and broadband affordability for low-income, rural and informal users; gazetted 4 Sept 2026.
+South Africa's communications regulator ICASA gazetted Notice 4130 of 2026 on 4 September, announcing a market inquiry under section 4B of the ICASA Act into the affordability of voice and broadband for low-income households, rural communities, youth and informal workers. It will assess cost drivers and possible interventions, with a summary of findings due within 90 days of the inquiry's end.
 
 </div>
 
@@ -2463,7 +2463,7 @@ Open Secrets published the final part of an investigation into South Africa's di
 
 **[Weaknesses in Sassa payment system triggers portfolio committee concern after qualified audit | Alex News](https://www.citizen.co.za/alex-news/news-headlines/local-news/2026/10/08/weaknesses-in-sassa-payment-system-triggers-portfolio-committee-concern-after-qualified-audit/)** — Alex News, 8 October 2026
 
-DSD qualified audit for 2025/26; grants paid to deceased people and state employees; committee demands tighter checks.
+South Africa's Department of Social Development received a qualified audit opinion for 2025/26 because of weaknesses in the South African Social Security Agency's payment system, including grants paid to deceased people and government employees, Parliament's social development committee heard from the Auditor-General on 6 October 2026. Committee chair Bridget Masango called for tighter verification and controls.
 
 </div>
 
@@ -2471,7 +2471,7 @@ DSD qualified audit for 2025/26; grants paid to deceased people and state employ
 
 **[SASSA steps up grant controls](https://www.sanews.gov.za/south-africa/sassa-steps-grant-controls)** — SAnews, 9 October 2026
 
-eLife proof-of-life and biometric enrolment defended as fraud controls; reviews not arbitrary terminations, agency says.
+The South African Social Security Agency defended its intensified grant reviews, eLife proof-of-life certification and beneficiary biometric enrolment as fraud controls on 9 October 2026. It rejected claims that they exclude eligible people, after media reports of 2025/26 payments to ineligible recipients and a parliamentary committee hearing on 7 October.
 
 </div>
 
@@ -2485,7 +2485,7 @@ eLife proof-of-life and biometric enrolment defended as fraud controls; reviews 
 
 **[ParliMeter enters its next chapter](https://myza.co.za/parlimeter-enters-its-next-chapter/)** — MyZA, 9 September 2026
 
-EU co-funded phase closes; Parliamentary Monitoring Group takes custodianship of the parliamentary-data platform.
+South Africa's Parliamentary Monitoring Group took over ParliMeter, a platform tracking MP attendance, bills, committee meetings and questions to ministers, as its EU co-funded phase closed on 9 September 2026. The platform was built by the Organisation Undoing Tax Abuse, the Parliamentary Monitoring Group and OpenUp; a Cape Town event marked the handover.
 
 </div>
 
@@ -2499,7 +2499,7 @@ EU co-funded phase closes; Parliamentary Monitoring Group takes custodianship of
 
 **[Mohai conducts oversight visit to Presidential Hotline Call Centre](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre)** — SAnews, 9 September 2026
 
-Deputy minister Seiso Mohai reviews SITA case management behind the Presidential Hotline, running since September 2009.
+South Africa's deputy minister for planning, monitoring and evaluation, Seiso Mohai, made an oversight visit on 9 September 2026 to the Presidential Hotline call centre run by the State Information Technology Agency (SITA) in Centurion. The visit reviewed the case-management technology, escalation and resolution tracking, and scope for automation. The hotline has operated since September 2009.
 
 </div>
 
@@ -2577,7 +2577,7 @@ The Online Retail in South Africa 2026 report finds 79.1% of adults online but o
 
 **[Individual consultancy to develop the National Strategy for Development of Statistics (NSDS) of South Africa - BW-SADC-563161-CS-INDV](https://www.sadc.int/procurement-opportunities/individual-consultancy-develop-national-strategy-development-statistics-0)** — SADC Secretariat, 9 September 2026
 
-SADC Regional Statistics Project seeks a consultant to write South Africa's strategy for developing national statistics.
+The SADC Secretariat issued a call on 9 September 2026 for an individual consultant to draft South Africa's National Strategy for the Development of Statistics over 180 days. The work is funded by a World Bank IDA grant to the Regional Statistics Project (P175731).
 
 </div>
 
@@ -2591,7 +2591,7 @@ SADC Regional Statistics Project seeks a consultant to write South Africa's stra
 
 **[Keynotes address by Deputy Minister in The Presidency, Nonceba Mhlauli, on the occasion of celebrating the Stats SA Census 30th Anniversary in South Africa, Isibalo House, Pretoria](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census)** — The Presidency of the Republic of South Africa, 9 October 2026
 
-Census 2031 in development; statistical independence a constitutional safeguard; SA chairs SADC Statistics Council.
+South Africa's deputy minister in the Presidency, Nonceba Mhlauli, marked 30 years of censuses by Statistics South Africa in Pretoria, in a speech published on 9 October 2026. She said Census 2031 is already in development, called statistical independence a constitutional safeguard, and said South Africa, as chair of the SADC Statistics Council, seeks to share experience with the region.
 
 </div>
 

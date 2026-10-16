@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: RWA
 ledger_rows: 40
 not_held: 7
-record: 47b6ee1f2c68
+record: 2248adbdab02
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -121,7 +121,7 @@ record: 47b6ee1f2c68
 
 **[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GIN/" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
 
-Eight delegations from seven countries in one week; IremboGov at 248 services, certificates near tripled.
+Rwanda Cooperation said it hosted eight government delegations from seven countries in one week in late August 2026: Liberia, Kenya, Nigeria, Benin, Gambia, Gabon and Guinea. A delegation from Gabon's interior ministry spent nearly two weeks studying e-government, AI policy, digital civil registration and identification, cybersecurity, data protection and system interconnection.
 
 </div>
 
@@ -135,7 +135,7 @@ Eight delegations from seven countries in one week; IremboGov at 248 services, c
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -163,7 +163,7 @@ Rwanda's president warned at the first International Space Summit in Paris that 
 
 **[Rwanda Has Been Selected as Africa's Second UN World Data Forum Host](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/)** — RADIOTV10, 22 September 2026
 
-Chosen 21 Sept 2026 by UN High-level Group; seventh edition, Q4 2028, first in Africa since Cape Town 2017.
+Rwanda was chosen on 21 September 2026 to host the seventh UN World Data Forum, expected in the fourth quarter of 2028. It is the second African host after South Africa, which held the first forum in Cape Town in 2017. The National Institute of Statistics of Rwanda welcomed the selection.
 
 </div>
 
@@ -179,7 +179,7 @@ Chosen 21 Sept 2026 by UN High-level Group; seventh edition, Q4 2028, first in A
 
 **[Zambia, Rwanda sign technical cooperation agreement to harmonise standards](https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/)** — Zambia Monitor, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-ZABS-RSB deal signed at the 32nd ARSO Assembly covers mutual recognition of conformity results.
+The Zambia Bureau of Standards and the Rwanda Standards Board signed a technical cooperation agreement at the 32nd African Organisation for Standardisation General Assembly in Mombasa. It covers information exchange, joint technical committees, mutual recognition of standards and conformity assessment results, and support in standards development.
 
 </div>
 
@@ -211,7 +211,7 @@ Rwanda's Ministry of ICT and Innovation signed a memorandum of understanding wit
 
 **[Rwanda, Jordan sign agreement on cooperation in digital transformation](https://www.newtimes.co.rw/article/39202/news/technology/rwanda-jordan-sign-agreement-on-cooperation-in-digital-transformation)** — The New Times, 24 September 2026
 
-MoU signed 23 Sept 2026 at UNGA 81; Jordan's Super App and digital public services the model; no sum stated.
+Rwanda's ICT minister, Paula Ingabire, and Jordan's digital economy minister, Sami Smeirat, signed a memorandum of understanding on digital transformation on 23 September 2026 at the UN General Assembly in New York. It covers sharing experience on digital public services, including Jordan's government Super App, and reciprocal visits. No sum or timetable is given.
 
 </div>
 
@@ -235,7 +235,7 @@ Rwanda and Jordan signed a memorandum of understanding on ICT cooperation on the
 
 **[Cabinet Meeting: Rwanda appoints new officials at Rwanda FDA, Justice Ministry and other institutions - AE News](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/)** — AE News, 19 September 2026
 
-Cabinet clears a bill to ratify IDA additional financing for digital adoption, loan signed 11 July 2026.
+Rwanda's Cabinet, chaired by President Paul Kagame on 18 September 2026, approved a bill to ratify an International Development Association loan of additional financing for a project to accelerate digital adoption, signed in Kigali on 11 July 2026. It also approved the Rwanda Development Cooperation Policy 2026–2050. No loan amount is stated.
 
 </div>
 
@@ -277,7 +277,7 @@ Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and car
 
 **[Africa needs to take charge of its digital health systems, says minister](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister)** — The New Times, 2 October 2026
 
-Iradukunda on donor-funded health systems; NISR, MINICT, RISA data roles; Shared Government Data Hub into implementation.
+Rwanda's Minister of State for ICT and Innovation Yves Iradukunda told the Africa HealthTech Summit in Kigali on 1 October 2026 that reliance on external funding and procurement leaves health systems vulnerable, and called for aligned data-exchange policies across Africa. He set out Rwanda's data governance roles: the statistics institute as custodian, the ICT ministry for policy and the Rwanda Information Society Authority for platforms.
 
 </div>
 
@@ -293,7 +293,7 @@ Iradukunda on donor-funded health systems; NISR, MINICT, RISA data roles; Shared
 
 **[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
 </div>
 
@@ -317,7 +317,7 @@ Rwanda's prime minister said reported financial fraud complaints fell by about 3
 
 **[Rwanda cyber fraud falls 30%, but fund recovery remains low](https://en.igihe.com/business/article/rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low)** — IGIHE, 8 October 2026
 
-Only 3.6% of Q2 2026 fraud losses recovered; cases down to 2,879, value Rwf471m.
+The National Bank of Rwanda said on 8 October 2026 that financial-sector fraud cases fell to 2,879 in the second quarter of 2026 from 4,128 a year earlier, and the sums involved to Rwf471 million, but only 3.6% had been recovered. Governor Soraya Hakuziyaremye said electronic payments reached 341% of GDP in the first half of 2026.
 
 </div>
 
@@ -335,7 +335,7 @@ Only 3.6% of Q2 2026 fraud losses recovered; cases down to 2,879, value Rwf471m.
 
 **[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code.
 
 </div>
 
@@ -365,7 +365,7 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 
 **[Kenyan President Ruto names Ghana among first countries for portable skills programme](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html)** — Graphic Online, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
 
-Verifiable skills-and-work wallet; Ghana, Rwanda, Kenya in phase one, 150,000 placements; Kenya's wallet via eCitizen.
+Kenya's President William Ruto announced Masterkey, a digital wallet holding verifiable records of qualifications and work experience that individuals control and can share across African borders, at an Accra Reset event during the UN General Assembly. Ghana, Rwanda and Kenya are in the first phase, which targets 150,000 placements; Kenya's wallet runs through eCitizen.
 
 </div>
 
@@ -381,7 +381,7 @@ Verifiable skills-and-work wallet; Ghana, Rwanda, Kenya in phase one, 150,000 pl
 
 **[Over 10 million Rwandans registered for digital ID](https://umunota.com/en/over-10-million-rwandans-registered-for-digital-id/)** — Umunota, 16 September 2026
 
-NIDA puts biometric capture past 10m people in 27 of 30 districts as Rusizi registration opens.
+Rwanda's National Identification Agency said on 16 September 2026 that it has captured photographs and biometrics, including fingerprints and iris scans, for more than 10 million people in 27 of the country's 30 districts, as registration opened in Rusizi District. The digital ID, launched in 2023 with the World Bank at a cost of about Rwf200 billion, offers a physical card, a QR-code version and a separate token.
 
 </div>
 
@@ -405,7 +405,7 @@ Rwanda's identification agency suspended the photography exercise for the digita
 
 **[Rwanda’s New eKash Payment System Wins Praise, But Users Report Lingering Transfer Glitches](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/)** — RADIOTV10, 2 September 2026
 
-10.5m transactions and RWF 960bn since the 14 July 2026 launch, at a 98.6% success rate.
+The National Bank of Rwanda reported that its eKash payment and transfer system has carried more than 10.5 million transactions worth over 960 billion Rwandan francs since its national launch on 14 July 2026, with 98.6% completed. Users of interoperable payments rose from 740,787 to 1,971,522 by end-July; some users report failed or delayed transfers, which the central bank says it is tracking daily.
 
 </div>
 
@@ -427,7 +427,7 @@ Rwanda's central bank said it is working with financial institutions on delayed 
 
 **[Central Bank Takes Aim at Cash as 92% Still Rely on It](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/)** — KT Press, 10 September 2026
 
-85.3% hold a digital account but 92% still pay cash; #TwagiyeKashiresi tours the districts.
+The National Bank of Rwanda launched a national cashless campaign, #TwagiyeKashiresi, in Rubavu District on 7-9 September 2026. Its data show 85.3% of Rwandans hold a digital account but 92% still mainly use cash for everyday spending. The campaign promotes eKash, the national interoperable payment system, and moves to Huye and Rusizi later in September.
 
 </div>
 
@@ -441,7 +441,7 @@ Rwanda's central bank said it is working with financial institutions on delayed 
 
 **[Rwanda's online VAT regime raises compliance questions early](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early)** — The New Times, 15 September 2026
 
-Order 004/26/10/TC: no portal yet, bank withholding by default, no reverse charge, texts diverge.
+A New Times commentary on Rwanda's ministerial order on VAT for online services, in force since 29 April 2026, notes that the revenue authority's registration portal was due by 29 July but is not yet running. Under the order, banks must withhold VAT on payments to unregistered suppliers, and the author says the order sets no turnover threshold for non-residents and no reverse charge for business customers.
 
 </div>
 
@@ -455,7 +455,7 @@ Order 004/26/10/TC: no portal yet, bank withholding by default, no reverse charg
 
 **[Bank of Kigali Joins China's Cross-Border Payments System, First in This Region](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/)** — KT Press, 22 September 2026
 
-Direct CIPS participant; agreement signed in Xiamen 2026-09-08; RMB settlement with Rwanda's largest trading partner.
+Bank of Kigali has joined China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda and the first headquartered in East and Central Africa to do so, under an agreement signed in Xiamen on 8 September 2026. It gives the bank direct renminbi clearing and settlement without intermediary banks.
 
 </div>
 
@@ -483,7 +483,7 @@ Rwanda's central bank is piloting a digital agricultural lending platform meant 
 
 **[Bank of Ghana pilots digital cross-border payments with Rwanda, Nigeria](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)** — Ghana News Agency, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-CBDC, stablecoin and wallet pilots with Rwanda and Nigeria; PAPSS opened to wallets; passporting offered to 10+ states.
+The Bank of Ghana is testing cross-border payments using central bank digital currencies, stablecoins, bank accounts and mobile wallets in its corridors with Rwanda and Nigeria, Governor Johnson Asiama said at the IMF and World Bank annual meetings in Bangkok on 13 October 2026. It has also opened the Pan-African Payment and Settlement System to mobile wallets in the Ghana-Nigeria corridor.
 
 </div>
 
@@ -523,7 +523,7 @@ A former head of the US disease-control agency describes Rwanda's phone-based de
 
 **[Emerging crimes, digital justice: What's ahead in new judicial year](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year)** — The New Times, 5 September 2026
 
-2026/27 judicial year to push digital justice services, alternative dispute resolution and emerging-crime capacity.
+Rwanda's Chief Justice Domitille Mukantaganzwa launched the 2026/27 judicial year on 4 September 2026, naming technology, pre-filing mediation, emerging crimes and offender rehabilitation as priorities. The Rwanda Bar Association announced measures for lawyers' wellbeing and to retain women in the profession.
 
 </div>
 
@@ -537,7 +537,7 @@ A former head of the US disease-control agency describes Rwanda's phone-based de
 
 **[Five Years On, Rwanda Is Leading the Edge of Digital Health in Africa](https://www.ktpress.rw/2026/09/five-years-on-rwanda-is-leading-the-edge-of-digital-health-in-africa/)** — KT Press, 30 September 2026
 
-Irembo Medi brings patients onto the national service platform; NHIC wants health data to flow back to care workers.
+Rwanda's national digital services platform Irembo has extended into healthcare with Irembo Medi, which aims to let patients see their records across facilities, book appointments and check prescriptions, its chief executive Israel Bimpe told the Africa HealthTech Summit in Kigali. The National Health Intelligence Centre said it wants health data to flow back to care workers. No launch date is given.
 
 </div>
 
@@ -601,7 +601,7 @@ Summarised under [Digitalisation of sub-national government](#digitalisation-of-
 
 **[Inside a new infrastructure layer boosting Rwanda’s digital health expansion](https://en.igihe.com/health/article/inside-a-new-infrastructure-layer-boosting-rwandas-digital-health-expansion)** — IGIHE, 8 October 2026
 
-Solar Wi-Fi and power units at 65 health posts in 21 districts with MoH and Gavi; target 150.
+Signalytic, a health technology company, has installed solar-powered units supplying Wi-Fi and electricity at 65 health posts in 21 Rwandan districts, working with the Ministry of Health and Gavi. Another 85 facilities are planned, for a target of 150. The units support digital immunisation records, insurance checks and vaccine refrigerators.
 
 </div>
 
@@ -619,7 +619,7 @@ Solar Wi-Fi and power units at 65 health posts in 21 districts with MoH and Gavi
 
 **[Here Is Our AI Plan to Reach 2.5 Million Rwandan Farmers - KT PRESS](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/)** — KT PRESS, 2 September 2026
 
-Ingabire's Kigali roundtable text: e-Soko, Smart Nkunganire's 1.5m farmers, and the Tunga voice assistant.
+Rwanda's ICT minister Paula Ingabire set out a plan to bring AI-based farming advice to 2.5 million farmers, speaking at the Africa Food Systems Forum in Kigali on 1 September 2026. She cited the e-Soko price platform, Smart Nkunganire's 1.5 million farmers registered for subsidised inputs, and Tunga, a Kinyarwanda voice assistant on trial at the agriculture ministry's call centre.
 
 </div>
 
@@ -633,7 +633,7 @@ Ingabire's Kigali roundtable text: e-Soko, Smart Nkunganire's 1.5m farmers, and 
 
 **[EA Universities Rethink Quality as AI Puts Degrees to a New Test](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/)** — KT Press, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
 
-Rwanda's education minister opens the 15th East African Higher Education Quality Assurance Network forum on AI.
+Rwanda's Education Minister Joseph Nsengimana opened the 15th East African Higher Education Quality Assurance Network forum in Kigali on 7 September 2026, saying the region must rethink how it defines and assures quality in higher education as artificial intelligence changes teaching and work. The Inter-University Council for East Africa said a regional AI network has been launched.
 
 </div>
 
@@ -661,7 +661,7 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
-NISR model auto-coded 96% of test records across ISIC, ISCO, ISCED; ITU Innovate for Impact award; field app pending.
+The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
 
 </div>
 
@@ -679,7 +679,7 @@ NISR model auto-coded 96% of test records across ISIC, ISCO, ISCED; ITU Innovate
 
 **[Empowering Parents in Rwanda Through Digital Literacy Training](https://www.internetsociety.org/blog/2026/09/empowering-parents-in-rwanda-through-digital-literacy-training/)** — Internet Society, 4 September 2026
 
-ISOC Rwanda Chapter trained 50 parents and teachers in Karongi on online safety and Irembo e-services.
+The Internet Society's Rwanda Chapter ran a two-day training in English and Kinyarwanda in Karongi District for 50 parents, teachers and local leaders, funded by the Internet Society Foundation. Sessions covered online scams, privacy settings and using the Irembo e-government platform by phone. No date for the training is given.
 
 </div>
 
@@ -695,7 +695,7 @@ ISOC Rwanda Chapter trained 50 parents and teachers in Karongi on online safety 
 
 **[Rwanda takes cybersecurity to TVET schools as first 24 teachers complete training](https://www.newtimes.co.rw/article/38825/news/featured/rwanda-takes-cybersecurity-to-tvet-schools-as-first-24-teachers-complete-training)** — The New Times, 9 September 2026
 
-First cohort of 24 TVET teachers completes a 10-day training-of-trainers programme to roll out cybersecurity courses.
+Rwanda is introducing cybersecurity courses in technical and vocational education and training schools. The first cohort of 24 TVET teachers has completed a ten-day training-of-trainers programme to support the rollout. No cost, number of schools or start date for the courses is given.
 
 </div>
 
@@ -713,7 +713,7 @@ First cohort of 24 TVET teachers completes a 10-day training-of-trainers program
 
 **[RDB mulls new platform for businesses to report service delivery obstacles](https://www.newtimes.co.rw/article/39536/news/business/rdb-mulls-new-platform-for-businesses-to-report-service-delivery-obstacles)** — The New Times, 8 October 2026
 
-Planned digital channel to report post-registration obstacles; 95% of 250,000+ services on time since January.
+The Rwanda Development Board said on 8 October 2026 it is preparing a Business Obstacles Alert platform for businesses to report and track obstacles in accessing public services after registration. It said 95% of more than 250,000 services processed since January 2026 met their standard timelines. No launch date is given.
 
 </div>
 
@@ -743,7 +743,7 @@ A GSMA report projects that more than a million additional people in Rwanda coul
 
 **[Abagore barenga 600,000 batangiye gukoresha serivisi z’imari kuri telefoni nyuma yo kumenya ibanga ryayo - Gate of Wise](https://kiny.gateofwise.com/ikoranabuhanga/abagore-barenga-600000-batangiye-gukoresha-serivisi-zimari-kuri-telefoni-nyuma-yo-kumenya-ibanga-ryayo/)** — Gate of Wise, 27 September 2026
 
-BNR Gendana Konti campaign: 615,000 women onboarded to mobile finance against 150,000 target; 72% vs 81% gap.
+The National Bank of Rwanda's governor, Soraya Hakuziyaremye, said 615,000 women had been brought into mobile financial services under the Gendana Konti campaign, against a target of 150,000, as the campaign closed. More than 200,000 of them opened mobile money accounts for the first time. Begun in 2023 in Nyaruguru and Nyamasheke districts, the campaign later expanded to other districts.
 
 </div>
 
@@ -761,7 +761,7 @@ BNR Gendana Konti campaign: 615,000 women onboarded to mobile finance against 15
 
 **[Rwanda Building Data-Driven Framework to Measure Quality of Higher Education](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/)** — Taarifa Rwanda, 16 September 2026
 
-HEC builds a national framework to capture and publish standardised data on universities and graduates.
+Rwanda's Higher Education Council is developing a national framework to measure the performance of universities and other higher learning institutions. Director general Kadozi Edward said data on students, lecturers, research and graduate outcomes will be collected, digitised and published, and shared with bodies such as UNESCO and the World Bank. No adoption date is given.
 
 </div>
 
@@ -793,7 +793,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[Karnataka Hosts African Union, Five African Nations For Digital Public Infrastructure Exposure Visit](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/)** — The Bengaluru Live, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; UNDP-supported.
+The Indian state of Karnataka hosted officials from the African Union, Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on 1 September 2026, on a UNDP-supported visit to study digital public infrastructure. State officials and the Centre for e-Governance briefed the delegation on digitising public services and interoperability between government systems.
 
 </div>
 
@@ -801,7 +801,7 @@ AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; U
 
 **[African Delegations Explore India's Digital Public Infrastructure During UNDP Learning Mission](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/)** — Youth Village Zambia, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-Five African delegations tour Aadhaar, UPI and DigiLocker on a UNDP South-South mission.
+The UN Development Programme in India hosted delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on a learning mission on digital public infrastructure in New Delhi, Pune and Bangalore in early September 2026. The visits covered Aadhaar digital identity, the Unified Payments Interface and DigiLocker, with meetings at India's identity authority, its national payments corporation and the health and agriculture ministries.
 
 </div>
 

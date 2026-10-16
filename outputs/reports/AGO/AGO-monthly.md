@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: AGO
 ledger_rows: 44
 not_held: 6
-record: 5e9bee6b7ca4
+record: 40a6ea99e279
 ---
 
 # Angola: monthly update, September – October 2026
@@ -153,7 +153,7 @@ Angola's Law 12/26 of 2 October authorises the President to legislate the regime
 
 **[MINTTICS apresenta Estratégia Nacional de Cibersegurança no CyberSecur Summit 2026](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/)** — PTI, 12 October 2026
 
-Six strategic objectives; 180-day commission to prepare the National Cybersecurity Centre; CyberSecur Summit, Luanda.
+Angola's telecommunications ministry presented the National Cybersecurity Strategy, approved by Presidential Decree 256/25 of 3 December 2025, at the CyberSecur Summit in Luanda on 12 October 2026. Policy director Hecdiantro Mena said a national commission will be formed to prepare, within 180 days, the conditions for setting up the National Cybersecurity Centre. No budget is given.
 
 </div>
 
@@ -185,7 +185,7 @@ Angola's data protection agency publishes its register of fines: 15 sanctions be
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -203,7 +203,7 @@ Angola's data protection agency publishes its register of fines: 15 sanctions be
 
 **[Sete instituições do ensino superior recebem mais 20 milhões de dólares](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/)** — ANGOP — Agência Angola Press, 6 September 2026
 
-US$20,470,284 split across seven Angolan higher-education institutions under TEST's second results-based funding round.
+Angola's higher education ministry signed results-based agreements on 4 September 2026 with seven universities and institutes, sharing US$20,470,284 in the second funding round of the Tertiary Education, Science and Technology Project (TEST). Recipients include the Agostinho Neto, Katyavala Bwila and Mandume ya Ndemufayo universities. TEST is financed by a US$150m World Bank loan and a US$50m Global Partnership for Education grant.
 
 </div>
 
@@ -211,7 +211,7 @@ US$20,470,284 split across seven Angolan higher-education institutions under TES
 
 **[Angola Tertiary Education, Science, and Technology Project (TEST) — Project Appraisal Document](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)** — World Bank (mirrored by Angola's public consultation portal), 15 November 2023
 
-World Bank PAD for Angola's $550m TEST higher-education programme — NREN, EMIS and digital competency.
+The World Bank board approved on 8 December 2023 a US$150m loan and a US$50m Global Partnership for Education grant for Angola's Tertiary Education, Science and Technology Project, the first phase of a US$550m programme run by the higher education ministry. It includes US$10m to digitise university services and build digital skills and US$15m for a national research and education network; the project closes on 31 December 2028.
 
 </div>
 
@@ -225,7 +225,7 @@ World Bank PAD for Angola's $550m TEST higher-education programme — NREN, EMIS
 
 **[EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões de dólares à Africell para investimento em tecnologia em Angola](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html)** — Novo Jornal, 11 September 2026
 
-US$99.6m EXIM loan for Africell network technology in Angola, framed as diversifying Angola's technology sources.
+The Export-Import Bank of the United States announced a US$99.6m loan to the mobile operator Africell for network technology in Angola. Its statement says the loan will pay for American and European equipment and help Angola diversify its technology sources and keep national control of its infrastructure. No approval date or terms are given.
 
 </div>
 
@@ -239,7 +239,7 @@ US$99.6m EXIM loan for Africell network technology in Angola, framed as diversif
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -257,7 +257,7 @@ COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, E
 
 **[Governo pretende estender fibra óptica a todo o país](https://angop.ao/noticias/tecnologia/governo-pretende-estender-fibra-optica-a-todo-o-pais/)** — ANGOP, 2 September 2026
 
-Minister Mario Oliveira announces a domestic submarine cable linking coastal city networks, Sept 2026.
+Angola's telecommunications minister Mário Oliveira said on 2 September 2026 in Lobito that the government is preparing a domestic submarine cable linking the networks of coastal cities, as part of extending fibre-optic services nationwide. He spoke at the launch of ZAP Fibra in Benguela province and said links to neighbouring countries and an earth-observation satellite are also planned. No cost or timetable is given.
 
 </div>
 
@@ -285,7 +285,7 @@ Angola's telecommunications ministry inaugurated an operator's fibre network in 
 
 **[Mário Oliveira testemunha lançamento do primeiro link de banda larga na Restinga](https://pti.ao/mario-oliveira-testemunha-lancamento-do-primeiro-link-de-banda-larga-na-restinga/)** — PTI (Portal das Tecnologias de Informação, Angola), 15 September 2026
 
-Ministry agenda dating the Restinga launch to Wednesday 16 September; names MSTelcom as partner.
+Angola's telecommunications minister, Mário Oliveira, was due in Benguela province on 16 September 2026 to launch Angola Telecom's TudoNossoFibra internet service at Baía Farta and the first Angola Telecom and MSTelcom broadband link in Restinga, Lobito. He was also to hand over a primary school rehabilitated under the Ngola Digital project.
 
 </div>
 
@@ -293,7 +293,7 @@ Ministry agenda dating the Restinga launch to Wednesday 16 September; names MSTe
 
 **[Mercury e Angola Telecom reforçam conectividade em Bengula com novo link de Banda Larga](https://pocnoticias.ao/mercury-e-angola-telecom-reforcam-conectividade-em-bengula-com-novo-link-de-banda-larga/)** — Poc Notícias (Angola), 16 September 2026
 
-Operators' own joint release: 100 Gbps first phase at Restinga, Lobito, 16 September 2026.
+Mercury and Angola Telecom brought into service a new broadband backbone link at Restinga, Lobito, in Benguela province on 16 September 2026, under Angola's National Broadband Programme. The first phase provides 100 Gbps of capacity, and the operators describe it as the first of several provincial backbone links. No cost is given.
 
 </div>
 
@@ -301,7 +301,7 @@ Operators' own joint release: 100 Gbps first phase at Restinga, Lobito, 16 Septe
 
 **[ANGOLA TELECOM e MERCURY reforçam conectividade com ligação banda larga em BENGUELA](https://revistaexecutivo.com/angola-telecom-e-mercury-reforcam-conectividade-com-ligacao-banda-larga-em-benguela/)** — Revista Executivo (Angola), 18 September 2026
 
-100 Gbps in the first phase, marked at Lobito on 16 September 2026; first of several planned backbone links.
+Angola Telecom and Mercury marked the start of a new broadband backbone link at Restinga, Lobito, in Benguela province, during a visit by telecoms minister Mário Oliveira, reported on 18 September 2026. The link is part of the National Broadband Programme, with 100 Gbps of capacity in its first phase, and is the first of several planned provincial backbone links.
 
 </div>
 
@@ -315,7 +315,7 @@ Operators' own joint release: 100 Gbps first phase at Restinga, Lobito, 16 Septe
 
 **[Ministro destaca processo de modernização da RNA](https://angop.ao/noticias/sociedade/ministro-destaca-processo-de-modernizacao-da-rna/)** — Angop (Angola Press Agency), 15 September 2026
 
-Minister's figures: ~29m mobile subscribers, 18.7-19m mobile internet users, 183 Angola Online free access points.
+Angola's telecoms minister, Mário Oliveira, said on 15 September 2026, at the launch of a podcast by Rádio Nacional de Angola, that the station's modernisation will improve signal and extend coverage in phases. He put Angola's mobile subscribers at about 29 million and mobile internet users at 18.7 to 19 million, and said Angola Online has about 183 free access points.
 
 </div>
 
@@ -323,7 +323,7 @@ Minister's figures: ~29m mobile subscribers, 18.7-19m mobile internet users, 183
 
 **[RNA ganha centro de monitorização de emissores](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/)** — Angop (Angola Press Agency), 15 September 2026
 
-Emitter monitoring centre inaugurated in Luanda; RNA goes digital, PEMIX targets 63% to 76% population coverage.
+Angola's telecommunications minister, Mário Oliveira, inaugurated a centre in Luanda on 15 September 2026 that monitors Rádio Nacional de Angola's national transmitter network in real time, and the station switched from analogue to digital at the same event. He said this completes the Luanda phase of the station's modernisation project, with Namibe and Huíla next.
 
 </div>
 
@@ -353,7 +353,7 @@ Angola inaugurated the first link of its national fibre broadband network at Lob
 
 **[Fibra óptica de 400 Gb chega ao Lobito e "Tudo Nosso" da Angola Telecom avança na Baía Farta](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/)** — PTI — Portal de Tecnologias de Informação, 21 September 2026
 
-400 Gb national fibre trunk reaches Lobito; Angola Telecom launches Tudo Nosso at Baia Farta.
+Angola Telecom launched its Tudo Nosso fibre network at the Baía Farta housing development in Benguela province, and the national fibre trunk of about 400 Gb was completed to Lobito, PTI reported on 21 September 2026. Telecoms minister Mário Oliveira also opened a free Angola Online internet point at a primary school there. No cost is given.
 
 </div>
 
@@ -395,7 +395,7 @@ Traffic from Conecta Angola's satellite terminals is now routed from its hub ont
 
 **[Angola Cables Boosts Capacity Across MONET and SACS Submarine Cable Systems with Ciena Technology](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology)** — Ciena, 29 September 2026
 
-800G on MONET; 12,780 km US-Brazil-Angola route at 130 ms round trip; WaveLogic 6e, 6500, Navigator.
+Angola Cables is deploying Ciena's WaveLogic 6 Extreme optical equipment and network software across its MONET and SACS submarine cables, Ciena announced on 29 September 2026. The upgrade adds 800G services on a 12,780 km route linking the United States, Brazil and Angola, with 130 ms round-trip delay, for cloud and AI traffic. No cost is given.
 
 </div>
 
@@ -439,7 +439,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Imprensa Nacional inaugura Data Center](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/)** — ANGOP, 11 September 2026
 
-Over 170 TB storage, more than 1 TB processing memory, full redundancy; investment value not disclosed.
+Angola's state printing house, Imprensa Nacional, opened its own data centre in Luanda on 11 September 2026 to support official and security documents and document authentication systems. It has more than 170 terabytes of storage and over one terabyte of processing memory. The institution produces about 600 million fiscal stamps a year. The investment was not disclosed.
 
 </div>
 
@@ -447,7 +447,7 @@ Over 170 TB storage, more than 1 TB processing memory, full redundancy; investme
 
 **[Imprensa Nacional deixa de depender do exterior para documentos de alta segurança](https://correiokianda.info/imprensa-nacional-deixa-de-depender-do-exterior-para-documentos-de-alta-seguranca/)** — Correio da Kianda, 12 September 2026
 
-New Imprensa Nacional data centre in Luanda ends reliance on foreign high-security document supply.
+Angola's state printer, Imprensa Nacional, inaugurated its own data centre in Luanda on 11 September 2026. Board chair Lando Teta said it will let the printer produce and certify high-security state documents in-house rather than buying them abroad, and offer authentication and traceability services to private companies.
 
 </div>
 
@@ -479,7 +479,7 @@ Angola's cadastral institute trained Huambo province's 17 municipalities on the 
 
 **[Angola: Governo lança plataforma para monitorizar a cadeia logística nacional](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt)** — Governo de Angola (via Africa Newsroom), 29 September 2026
 
-Air, sea, road and rail tracked on one platform; built with Finance/AGT, Industry and Interior; still being completed.
+Angola's transport minister Ricardo de Abreu said on 28 September 2026 that a logistics single window is being completed to track freight by air, sea, road and rail on one platform. It is being built with the finance ministry's tax administration AGT, the industry and commerce ministry and the interior ministry. No launch date is given.
 
 </div>
 
@@ -523,7 +523,7 @@ Summarised under [New investments](#new-investments).
 
 **[Tech By Tech disponibiliza versão de testes do AngolaID](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/)** — PTI, 9 October 2026
 
-Private wallet, not a state ID; video liveness and face match, API and SDK for banks, schools and clinics.
+Angolan company Tech By Tech released a test version of AngolaID, a private digital identity wallet and verification service, on Google Play and the App Store, announced on 7 October 2026. Users create a credential by video liveness check and facial recognition, and institutions can integrate it by API and SDK. The company says it does not issue or replace the state identity card.
 
 </div>
 
@@ -539,7 +539,7 @@ Private wallet, not a state ID; video liveness and face match, API and SDK for b
 
 **[BAI e Bank of China assinam acordo para pagamentos transfronteiricos](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/)** — ANGOP, 8 September 2026
 
-BAI and Bank of China sign an RMB clearing MoU in Xiamen, opening indirect CIPS access for Angolan trade.
+Angola's Banco Angolano de Investimentos (BAI) signed a memorandum of understanding with Bank of China in Xiamen on 8 September 2026 on renminbi clearing. It provides for an RMB clearing account and for BAI's indirect membership of China's Cross-Border Interbank Payment System (CIPS) through Bank of China. No sum is stated.
 
 </div>
 
@@ -547,7 +547,7 @@ BAI and Bank of China sign an RMB clearing MoU in Xiamen, opening indirect CIPS 
 
 **[BAI reforca pagamentos em renminbi e cooperacao com a China](https://mercado.co.ao/bai-reforca-pagamentos-em-renminbi-e-cooperacao-com-a-china/)** — Mercado, 8 September 2026
 
-Renminbi clearing account and indirect CIPS access for Angola's largest private bank; no sum published.
+Angola's Banco Angolano de Investimentos signed a memorandum with Bank of China's Luanda branch on 8 September 2026 to open a renminbi clearing account and develop renminbi settlement services. Bank of China will support BAI's indirect access to China's Cross-Border Interbank Payment System, aimed at Angolan firms trading with China. No value, start date or expected volume is given.
 
 </div>
 
@@ -561,7 +561,7 @@ Renminbi clearing account and indirect CIPS access for Angola's largest private 
 
 **[Operadora de telefonia quer combater enchentes em ATM com “Afrimoney”](https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/)** — OPAÍS, 10 September 2026
 
-3 million wallet users of 8 million Africell subscribers (30%); BNA-licensed, pitched against payday ATM queues.
+Africell's Afrimoney wallet in Angola, licensed by the national bank as a payment service provider, has 3 million users among the operator's 8 million subscribers, its commercial manager Rodrigo Conceição said at the Benguela International Fair. The wallet now allows transfers to any bank account, and Africell presents agent cash-out as a way to cut ATM queues on civil-service paydays.
 
 </div>
 
@@ -583,7 +583,7 @@ Transfers between digital wallets were only 0.6% (Kz 3.1 billion) of the Kz 557.
 
 **[África já tem 36 sistemas de pagamentos instantâneos, o próximo desafio é fazê-los conversar](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/)** — FinTechs, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-KWiK at 4.48m transfers, Kz 123.85bn in August 2026; 36 IPS in 31 countries; Kenya Vision 2028.
+Africa has 36 active instant payment systems in 31 countries, which processed more than 64 billion transactions worth nearly US$2 trillion in 2024, according to an AfricaNenda, World Bank and UN Economic Commission for Africa report cited by FinTechs. Angola's KWiK service processed 4.48 million transfers worth 123.85 billion kwanzas in August 2026, up 53.3% in a year.
 
 </div>
 
@@ -599,7 +599,7 @@ KWiK at 4.48m transfers, Kz 123.85bn in August 2026; 36 IPS in 31 countries; Ken
 
 **[Brigadas móveis entram em funcionamento para acelerar processo de registo eleitoral oficioso no País](https://www.novojornal.co.ao/politica/detalhe/brigadas-moveis-entram-em-funcionamento-para-acelerar-processo-de-registo-eleitoral-oficioso-no-pais-74487.html)** — Novo Jornal, 8 September 2026
 
-Mobile brigades from late August 2026: over 1.6 million citizens updated, 362 one-stop desks installed and 272 operating.
+Angola's territorial administration ministry put mobile brigades into service from late August 2026 to speed up updating of the electoral register, and more than 1.6 million citizens have updated their data, reported on 8 September 2026. Of 634 planned one-stop service desks, 362 are installed and 272 operating; the update runs from 15 June 2026 to 31 March 2027.
 
 </div>
 
@@ -615,7 +615,7 @@ Citizens over 18 in the municipality of Caianda, in Moxico Leste province, began
 
 **["Ninguém está a fiscalizar": MUDEI questiona transparência do registo eleitoral em Angola](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola)** — Angola 24 Horas, 13 September 2026
 
-MUDEI lawyer Chipilica Eduardo says nobody is scrutinising the electoral register's proof-of-life step.
+Chipilica Eduardo, a lawyer and member of Angola's civic movement MUDEI, told DW that political parties and civil society are not scrutinising the in-person electoral registration run by the Ministry of Territorial Administration. He questioned who checks the 'proof of life' step and the documents voters present, and how double registration could be detected without observers. The ministry's response is not reported.
 
 </div>
 
@@ -631,7 +631,7 @@ The main opposition leader accused the government of using state means to regist
 
 **[Constitucional abre concurso de 21 milhões USD para actualização e modernização da plataforma técnologica, de modo a preparar processo eleitoral](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html)** — Novo Jornal, 23 September 2026
 
-Kz 20bn (c. USD 21m, outlet's Sept 2026 conversion) limited tender for 2027 polls; voter-data update passes 2m.
+Angola's Constitutional Court opened a limited tender on 22 September 2026, valued at Kz 20 billion (about US$21 million), to upgrade its technology platform for registering candidates ahead of the 2027 general elections, including migrating records from earlier electoral cycles. The Ministry of Territorial Administration said more than two million adults have updated their voter data since June.
 
 </div>
 
@@ -661,7 +661,7 @@ Summarised under [New investments](#new-investments).
 
 **[João Lourenço aprova ajuste directo de quase 100 milhões USD para projecto de controlo aduaneiro](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/)** — Polígrafo África, 16 September 2026
 
-Despacho 361/26 clears Kz 90.5bn (US$98m, 2026-09-16) sole-source buy for Angola's customs supervision project.
+Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, about $98 million, on goods and services for a customs supervision project, by Presidential Order 361/26 of 14 September 2026, Polígrafo África reported. The purchase, in two lots, is a direct award on grounds of technical aptitude, covering centralised supervision, automated inspection and data analysis; Finance Minister Vera Daves was delegated to sign the contract. No supplier is named.
 
 </div>
 
@@ -677,7 +677,7 @@ Despacho 361/26 clears Kz 90.5bn (US$98m, 2026-09-16) sole-source buy for Angola
 
 **[INFOSI disponibiliza site para candidaturas a estágios](https://pti.ao/infosi-disponibiliza-site-para-candidaturas-a-estagios/)** — Portal de T.I, 3 September 2026
 
-Internship applications for telecoms, IT and cybersecurity move online, with QR-code tracking.
+Angola's information society institute, INFOSI, launched an online platform for applications to its internship programme on 3 September 2026 at the FITITEL forum in Luanda. Applicants no longer submit in person and receive a tracking code and QR code. Placements cover telecommunications, information technology and cybersecurity, under a partnership with the communications development fund FADCOM.
 
 </div>
 
@@ -691,7 +691,7 @@ Internship applications for telecoms, IT and cybersecurity move online, with QR-
 
 **[Angola: Governante anuncia a construção de mais oito subunidades do SIAC até 2027](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt)** — Ministério da Administração Pública, Trabalho e Segurança Social (Angola), via Africa Newsroom/APO Group, 4 September 2026
 
-Eight more SIAC one-stop shops by 2027; 1.49m visits in H1 2026 and Kz2.47bn paid to the treasury.
+Angola will build eight more units of its SIAC citizen one-stop-shop network by 2027, with Kilamba in Luanda and Cuito in Bié due to open this year, the secretary of state for public administration said on 4 September 2026. The network has 16 units in 12 provinces, recorded 1,490,921 visits in the first half of 2026 and has paid about 2.47 billion kwanzas to the treasury this year.
 
 </div>
 
@@ -719,7 +719,7 @@ Summarised under [Registries](#registries).
 
 **[SEPE mantém serviços online e acessíveis ao público](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/)** — Portal de T.I., 1 October 2026
 
-Registration, catalogue and e-services still available after Kazu ransomware claim; intrusion unconfirmed.
+Angola's public e-services portal SEPE remained online after the Kazu ransomware group claimed an attack on it, Portal de T.I. reported on 1 October 2026. Registration, the service catalogue and services in employment, education, health, transport and business were still available; the intrusion and data theft claimed by the group are unconfirmed.
 
 </div>
 
@@ -737,7 +737,7 @@ Registration, catalogue and e-services still available after Kazu ransomware cla
 
 **[Executivo desembolsa USD 6 milhões para plataforma de inteligência artificial na administração pública](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/)** — Portal de T.I, 1 September 2026
 
-Despacho Presidencial 342/26 of 27 Aug 2026: US$6m public tender for a public-administration AI platform.
+Angola's President João Lourenço authorised US$6m for an AI platform for public administration, by Despacho Presidencial 342/26 of 27 August, with a public tender to buy and implement it. The platform is to run on national computing infrastructure and comes with an AI governance framework and staff training. It falls under the World Bank-financed Angola Digital Acceleration Project, alongside a US$13m interoperability platform authorised the same day.
 
 </div>
 
@@ -761,7 +761,7 @@ Angola authorised US$6 million of World Bank money for an artificial-intelligenc
 
 **[Secretário de Estado reconhece contributo das telecomunicações na economia](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/)** — Angop (Angola Press Agency), 5 September 2026
 
-Telecoms, ICT and media grew 14.3% in GDP contribution in Q2 2026, says secretary of state Angelo Buta Joao.
+Angola's secretary of state for telecommunications, Ângelo Buta João, said on 5 September 2026 that the telecoms, ICT and media sector's contribution to GDP grew 14.3% in the second quarter of 2026. He spoke at the close of the FITITEL technology fair in Luanda, which drew 7,000 visitors and was themed on cybersecurity and digital trust.
 
 </div>
 
@@ -795,7 +795,7 @@ The founders of an Angolan payments startup accuse a commercial bank of using in
 
 **[ITEL e TV Cabo assinam acordo de cooperação para capacitar jovens](https://angop.ao/noticias/economia/itel-e-tv-cabo-assinam-acordo-de-cooperacao-para-capacitar-jovens/)** — Angop (Angola Press Agency), 4 September 2026
 
-Institutional cooperation protocol signed at FITITEL 2026: internships plus internet provision to the telecoms institute.
+Angola's Telecommunications Institute (ITEL) and the pay-TV operator TV Cabo signed a cooperation agreement in Luanda on 3 September 2026 at the institute's FITITEL 2026 technology fair. TV Cabo will offer internships to students and supply internet services to the institute, including access for students' coursework.
 
 </div>
 
@@ -813,7 +813,7 @@ Institutional cooperation protocol signed at FITITEL 2026: internships plus inte
 
 **[Projecto Angola Digital ja dispoe de 180 pontos de acesso livre a Internet](https://angop.ao/en/noticias/tecnologia/projecto-angola-digital-ja-dispoe-de-180-pontos-de-acesso-livre-a-internet/)** — ANGOP, 16 September 2026
 
-180 free access points across 18 of 21 provinces under FADCOM's Angola Digital project.
+Angola's telecoms minister, Mário Oliveira, said in Benguela on 16 September 2026 that the Angola Digital project, promoted by the communications development fund FADCOM, now has about 180 free public internet access points in 18 of the country's 21 provinces. He said the satellite-based Conecta project is also present in 18 provinces.
 
 </div>
 
@@ -827,7 +827,7 @@ Institutional cooperation protocol signed at FITITEL 2026: internships plus inte
 
 **[Angolan Government issues more than 17 million citizen's identity cards](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/)** — Angola Newswire (reporting Angola Press Agency), 24 September 2026
 
-17,166,000 BI cards issued by Sep 2026; daily output up from 12,000 to 60,000; all adults targeted by Dec 2026.
+Angola has issued 17,166,000 national identity cards at home and abroad, the national director of registries, Aristides Marques, said in Luanda on 24 September 2026. Daily production capacity has risen from 12,000 to 60,000 cards, cards are now printed in all 21 provinces, and the target is a card for every registered adult by December 2026. A draft law would make the card the only valid identity document.
 
 </div>
 
@@ -843,7 +843,7 @@ Institutional cooperation protocol signed at FITITEL 2026: internships plus inte
 
 **[Sistema de Internet em Madimba e Serra da Kanda volta a funcionar](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/)** — Angop (Angola Press Agency), 6 September 2026
 
-Two Conecta Angola Angosat-2 points in Zaire restored after battery and software faults; 1,400 users served free.
+Two Conecta Angola satellite internet points at Madimba and Serra da Kanda in Zaire province, installed in 2024 and linked through Angosat-2, were restored after battery and software faults, Angola's national space programme office said. About 1,400 residents use them free of charge, and further points and school routers are planned in the province.
 
 </div>
 

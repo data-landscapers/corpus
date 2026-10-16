@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MDG
 ledger_rows: 28
 not_held: 5
-record: effbf3108616
+record: c61d9861ee98
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -117,7 +117,7 @@ Madagascar is overhauling its 2014 cybercrime law, with judicial cooperation acr
 
 **[Cybercriminalite : l''etau se resserre autour des faux comptes](https://www.lexpress.mg/2026/09/cybercriminalite-letau-se-resserre.html)** — L'Express de Madagascar, 2 September 2026
 
-Article 17 sets two to five years and Ar 5m-50m fines for coordinated fake-account networks.
+Madagascar's National Assembly was due to vote on a bill reforming the 2014 cybercrime law. Article 17 sets two to five years' prison and fines of Ar5m to Ar50m for running fake-account networks or deceiving people with fake identities, doubled for organised groups. Article 52 makes group administrators and resharers liable for manifestly illegal content they knowingly leave online.
 
 </div>
 
@@ -125,7 +125,7 @@ Article 17 sets two to five years and Ar 5m-50m fines for coordinated fake-accou
 
 **[Loi sur la cybercriminalite : l''Etat renforce les controles alors que l''acces a l''information reste en suspens](https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html)** — Madagascar-Tribune, 3 September 2026
 
-Upin's article-75 permanent access set against an access-to-information bill adjourned sine die.
+Madagascar's cybercrime bill 042/2026 was due before the National Assembly for adoption. It creates a digital investigation unit, Upin, whose article 75 grants round-the-clock direct technical access to operators' and internet providers' systems, with traceability and judicial safeguards. The paper notes that the access-to-information bill 017/2025 remains adjourned in committee, its plenary debate postponed indefinitely.
 
 </div>
 
@@ -133,7 +133,7 @@ Upin's article-75 permanent access set against an access-to-information bill adj
 
 **[Loi sur la cybercriminalite : une police numerique au coeur du dispositif](https://www.lexpress.mg/2026/09/loi-sur-la-cybercriminalite-une-police.html)** — L'Express de Madagascar, 3 September 2026
 
-Upin created as a public establishment; the companion bill defines digital and data sovereignty.
+Madagascar's cybercrime bill, due before the National Assembly on 4 September 2026, creates a Digital Protection and Investigation Unit (Upin) as a public body. Article 75 gives it permanent technical access to the systems of operators and service providers holding data needed for investigations. A companion electronic communications bill places all data processed in Madagascar under the state's exclusive jurisdiction.
 
 </div>
 
@@ -141,7 +141,7 @@ Upin created as a public establishment; the companion bill defines digital and d
 
 **[Madagascar strengthens trust architecture for national digital ID](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id)** — Biometric Update, 4 September 2026
 
-Over 6m enrolled as of June 2026 against a 12m target and a 100,000-cards-a-day production goal.
+Madagascar's government presented two cybercrime bills to parliament on 28 August 2026, one updating the national cybercrime framework and creating a digital investigation unit (UPIN), the other authorising ratification of the UN Convention against Cybercrime. More than six million people had enrolled in the biometric national ID by June, against a target of 12 million and a production goal of 100,000 cards a day.
 
 </div>
 
@@ -247,7 +247,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -265,7 +265,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Fifandraisan-davitra sy ny nomerika : tolotra maimaimpoana i Madagasikara](https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php)** — Tia Tanindrazana, 8 September 2026
 
-300 Starlink kits with free internet, after free connectivity at the main public universities.
+Madagascar's digital development and telecoms ministry obtained 300 Starlink kits with free internet service under a cooperation with Starlink, reported on 8 September 2026, to connect remote areas. It follows free internet installed at the main public universities. No duration or cost of the free service is given.
 
 </div>
 
@@ -283,7 +283,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Enregistrement biométrique – « Izaho tokana 2.0 » entre dans sa deuxième phase](https://www.moov.mg/article/121321-enregistrement-biometrique-izaho-tokana-20-entre-dans-sa-deuxieme-phase)** — Moov Madagascar, 17 September 2026
 
-Phase II mass biometric enrolment launched at Anosy on 16 September, with a new operational command centre.
+Madagascar's interior minister launched the second phase of the Izaho tokana 2.0 identity programme, mass biometric enrolment with a unique identification number for each person, at Anosy on 16 September 2026, National Identity Day. The World Bank funds the operation through the DECIM project, and an operational command centre for enrolment was opened. No enrolment targets or costs are given.
 
 </div>
 
@@ -291,7 +291,7 @@ Phase II mass biometric enrolment launched at Anosy on 16 September, with a new 
 
 **[IDENTITÉ NUMÉRIQUE – « Izaho tokana 2.0 » cible plus de 10 millions de citoyens pour sa deuxième phase](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/)** — 2424.mg, 17 September 2026
 
-Phase II targets 10m adults enrolled by July 2027 after about 5m in phase I; 1,000 extra kits added.
+Madagascar's interior ministry launched the second phase of its biometric enrolment operation, Izaho tokana 2.0, on national identity day, aiming to register more than 10 million adults by July 2027. Nearly 5 million people were enrolled in the first phase from April to June 2026, against a target of 2 million, and 1,000 more enrolment kits have been added.
 
 </div>
 
@@ -321,7 +321,7 @@ Madagascar's National Identity Day, institutionalised by a 2024 decree, carried 
 
 **[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across a $49bn financing gap.
+The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
 </div>
 
@@ -329,7 +329,7 @@ AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across
 
 **[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
 
-Names the money behind the launch: a US$160m 2025 AfDB loan to AXIAN Telecom, a US$2.5m grant and US$10m+ via MVola.
+The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 
 </div>
 
@@ -365,7 +365,7 @@ BGFIBank Madagascar launched Gasy Money, a mobile banking app open to people wit
 
 **[Mobile banking : Gasy Money entre dans la course de la finance digitale](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/)** — Midi Madagasikara, 22 September 2026
 
-BGFIBank app presented Friday at Carlton Anosy; national transfers via mobile operators; Karatro prepaid card abroad.
+BGFIBank Madagasikara presented its Gasy Money mobile banking app at the Carlton Anosy hotel in Antananarivo, open to the bank's customers, users of other banks and people without bank accounts. The app currently allows national money transfers through partnerships with mobile operators, and manages the bank's Karatro prepaid card for international use. No fees or user targets are given.
 
 </div>
 
@@ -409,7 +409,7 @@ Antananarivo's urban commune began digitalising its markets: traders are registe
 
 **[Protection sociale : le RSU élargit son filet](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/)** — Newsmada, 10 September 2026
 
-RSU covers 2.7m households, near 12m people; eight districts added to the 20 already surveyed.
+Madagascar's single social registry, which covers about 2.7 million households or close to 12 million people, is being extended to eight more districts beyond the 20 already covered, the population ministry's director general said on 9 September 2026. A new survey is updating the data and extending coverage to urban areas, under the national social protection strategy for 2024–2030.
 
 </div>
 
@@ -459,7 +459,7 @@ Madagascar's industrialisation ministry handed biometric cards to the first 124 
 
 **[TRANSPARENCE – Le RCBE entre dans sa phase d’exploitation avec le croisement des données | 2424.mg - L'actualité à Madagascar en temps réel](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees)** — 2424.mg, 22 September 2026
 
-DGI signs four MoUs, Friday 18 Sept 2026, with RNCS, Bianco, EDBM and notaries to cross-match beneficial-owner data.
+Madagascar's tax directorate signed four agreements on 18 September 2026 to cross-check its central register of beneficial owners against data held by the companies register, the Bianco anti-corruption bureau, the Economic Development Board and the chamber of notaries. The finance ministry said the register, launched on 16 June 2026, now moves from build to operation.
 
 </div>
 
@@ -475,7 +475,7 @@ DGI signs four MoUs, Friday 18 Sept 2026, with RNCS, Bianco, EDBM and notaries t
 
 **[Projet « Créer des frontières plus intelligentes à Madagascar](https://moov.mg/article/121374-migration-madagascar-mieux-prepare-grace-au-projet-creer-des-frontieres-plus-intelligentes)** — Moov Madagascar, 18 September 2026
 
-IOM project closes after two years: mobile MIDAS kits at Mahajanga, 13-agency maritime drill, US$3m regional envelope.
+The International Organization for Migration's Japan-funded Smarter Borders project closed in Madagascar on 18 September 2026 after two years. It installed mobile MIDAS migration-data kits at the port of Mahajanga, trained national instructors and ran a maritime simulation with 13 institutions; Madagascar was one of four beneficiaries of the US$3 million regional programme.
 
 </div>
 
@@ -491,7 +491,7 @@ IOM project closes after two years: mobile MIDAS kits at Mahajanga, 13-agency ma
 
 **[COMMERCE - Les démarches d'exportation simplifiées](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html)** — L'Express de Madagascar, 22 September 2026
 
-Two-day training for regional directorates from 2026-09-21; vanilla and clove export authorisations covered.
+Madagascar's Ministry of Commerce and Consumption began two days of training for its regional directorates on Alalana, a platform for handling export authorisation requests, at Mahamasina on 21 September 2026. Minister Andriamadison Haingotiana said it speeds up processing and makes it more transparent; vanilla and cloves are among the products covered. No launch date, cost or supplier is given.
 
 </div>
 
@@ -537,7 +537,7 @@ Madagascar's digital ministry said its online passport application portal is bei
 
 **[99 young people certified in BPO trades after seven-week Asanai training (Madagascar)](https://www.2424.mg/formation-professionnelle-99-jeunes-certifies-aux-metiers-du-bpo-apres-sept-semaines-de-formation/)** — 2424.mg, 24 September 2026
 
-99 of 111 candidates certified in second Asanai BPO-skills cohort; World Bank-backed via PIC project.
+Madagascar's Asanai programme certified 99 of the 111 trainees in its second seven-week cohort in business process outsourcing skills on 24 September 2026. The programme is run by the digital development ministry with World Bank support through the Integrated Growth Poles (PIC) project and delivered with ArkeUp Academy.
 
 </div>
 
@@ -555,7 +555,7 @@ Madagascar's digital ministry said its online passport application portal is bei
 
 **[Partenariat METFP et GIP Pix](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes)** — Moov.mg, 11 September 2026
 
-Agreement signed 11 September 2026; eight axes from exam centres to Pix in CAP, BEP and baccalaureate curricula.
+Madagascar's Ministry of Technical Education and Vocational Training and France's GIP Pix signed a partnership on 11 September 2026 to develop and certify young people's digital skills. Its eight areas include preparing learners for certification, setting up exam centres, training trainers and tracking candidates. The two will study adding Pix to the CAP, BEP and vocational and technological baccalaureate curricula.
 
 </div>
 
@@ -589,7 +589,7 @@ Madagascar's Ministry of Technical Education and Vocational Training signed a pa
 
 **[Projet « Pilote Laptop » : facilitation de l'accès aux outils numériques](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/)** — Newsmada, 8 September 2026
 
-1,400 master's students on 12-month laptop credit, funded from the World Bank-financed DECIM envelope.
+Madagascar's microfinance institution Paositra Finances launched a scheme at Ankatso letting 1,400 master's students at the universities of Antananarivo and Fianarantsoa buy laptops on 12-month credit. Students pay a 20% deposit of about 210,000 ariary, then 75,000 ariary a month. The scheme draws on part of the World Bank-financed DECIM digital and energy connectivity project.
 
 </div>
 
@@ -605,7 +605,7 @@ Madagascar's Ministry of Technical Education and Vocational Training signed a pa
 
 **[Madagascar — Fonds de Développement des Télécommunications et des TIC (FDTIC) — états financiers, période du 1er janvier au 31 décembre 2024](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2024-Rapport-EF-fin.pdf)** — Autorité de Régulation des Technologies de Communication (ARTEC), for the FDTIC (Ministère du Développement Numérique, des Postes et des Télécommunications), 1 September 2026
 
-Universal-service fund took Ar 62.9bn in contributions, granted Ar 91.3bn; Ar 27.95bn deficit for 2024.
+Madagascar's telecoms regulator ARTEC published the 2024 financial statements of the Telecommunications and ICT Development Fund, the universal-service fund it manages. The four-page statements show Ar 62.9bn in contributions received, Ar 91.3bn granted and a deficit of Ar 27.95bn for the year. Whether an auditor's opinion accompanies them is not stated.
 
 </div>
 
@@ -613,7 +613,7 @@ Universal-service fund took Ar 62.9bn in contributions, granted Ar 91.3bn; Ar 27
 
 **[Madagascar — Fonds de Développement des Télécommunications et des TIC (FDTIC) — états financiers, période du 1er janvier au 31 décembre 2025](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf)** — Autorité de Régulation des Technologies de Communication (ARTEC), for the FDTIC (Ministère du Développement Numérique, des Postes et des Télécommunications), 1 September 2026
 
-Ar 100.1bn in contributions, Ar 100.4bn granted in 2025; near break-even after the 2024 deficit.
+Madagascar's telecoms and ICT development fund (FDTIC), the universal-service fund managed by the regulator ARTEC, published its financial statements for 1 January to 31 December 2025. The fund took in Ar 100.1 billion in contributions and granted Ar 100.4 billion, close to break-even after a 2024 deficit. The file does not show whether an auditor's opinion accompanies the four pages of statements.
 
 </div>
 
@@ -631,7 +631,7 @@ Ar 100.1bn in contributions, Ar 100.4bn granted in 2025; near break-even after t
 
 **[FINANCES PUBLIQUES - Les informations budgétaires accessibles au public](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html)** — L'Express de Madagascar, 8 October 2026
 
-IBP 2024-25 scores under 61/100; Cour des comptes to resume loi de règlement document in 2027, halted since 2020.
+Madagascar's economy and finance ministry plans to publish more budget information and widen citizen participation after an International Budget Partnership assessment of 2024-2025 scored the country below 61 out of 100. The Court of Audit says it will resume publishing the budget settlement law document in 2027, interrupted since 2020. The exact score is not given.
 
 </div>
 

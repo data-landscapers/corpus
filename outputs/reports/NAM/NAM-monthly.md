@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NAM
 ledger_rows: 32
 not_held: 9
-record: b2cf54256b19
+record: 3fd3fba0b667
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -97,7 +97,7 @@ record: b2cf54256b19
 
 **[Regulations regarding Accreditation of Security Products and Services and Providers of such Products and Services (Electronic Transactions Act 4 of 2019)](https://www.lac.org.na/laws/annoREG/Electronic%20Transactions%20Act%204%20of%202019-Regulations%202025-953.pdf)** — Legal Assistance Centre (LAC) Namibia, reproducing General Notice 953 of 2025 (Communications Regulatory Authority of Namibia), 17 December 2025
 
-Namibia's CRAN accreditation regime for certification service providers, in force from 15 June 2026.
+Namibia's Communications Regulatory Authority issued regulations under the Electronic Transactions Act 2019 setting out how security products, services and certification service providers are accredited, in General Notice 953 of 17 December 2025. They came into force on 15 June 2026; an accredited certification service provider may issue subscriber certificates and public keys for five years.
 
 </div>
 
@@ -111,7 +111,7 @@ Namibia's CRAN accreditation regime for certification service providers, in forc
 
 **[NAMFISA launches FinTech Square 2026 event to accelerate local innovation](https://economist.com.na/namfisa-launches-fintech-square-2026-event-to-accelerate-local-innovation/)** — Namibia Economist, 18 September 2026
 
-FinTech Square 14 Oct 2026 in Windhoek to launch sandbox cohort 2 on crowdfunding and P2P lending.
+The Namibia Financial Supervisory Authority announced its FinTech Square 2026 event for 14 October in Windhoek, with the Bank of Namibia and other partners. The event will launch the second cohort of NAMFISA's regulatory sandbox, covering crowdfunding and peer-to-peer lending, after a first cohort on microlending. Twelve exhibitors from the non-banking financial sector are to be selected.
 
 </div>
 
@@ -135,7 +135,7 @@ The head of Namibia's financial regulator, Kenneth Matomola, said fintech could 
 
 **[US To Phase Out HIV Support For Namibia After Data-Sharing Impasse](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/)** — Health Policy Watch, 8 September 2026
 
-$45m for fiscal 2027 then nothing, after Namibia refused US health-data and pathogen-sharing terms.
+The United States will stop funding Namibia's HIV programme after 2027, providing $45m for fiscal 2027 for transition, after Namibia rejected US terms for sharing health data and pathogen information. Namibia has received about $1.1bn from PEPFAR over 22 years and already funds most treatment for around 220,000 people. It said the US terms conflict with constitutional privacy rights and its sovereignty over biological resources.
 
 </div>
 
@@ -167,7 +167,7 @@ Namibia's assessment of its laws and institutions against the African free-trade
 
 **[Namibia's economic armoury: How new government communication strategy could unlock multibillion-dollar investment](https://nambusinessexpress.com/?p=15515)** — Business Express, 13 September 2026
 
-Harmonised Government Communication Strategy 2026-2030 launched at NIPAM, Cabinet-approved in March 2026.
+Namibia's ICT minister Emma Theofelus launched the Harmonised Government Communication Strategy 2026–2030 and the Government Corporate Brand Identity Manual at the public administration institute NIPAM on 9 September 2026. Cabinet approved both in March 2026; they set a single voice and brand for ministries, agencies, regional and local authorities and public enterprises.
 
 </div>
 
@@ -185,7 +185,7 @@ Harmonised Government Communication Strategy 2026-2030 launched at NIPAM, Cabine
 
 **[Namibia — Universal Service Fund Integrated Annual Report 2025](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf)** — Communications Regulatory Authority of Namibia (CRAN), for the Universal Service Fund, 1 September 2026
 
-Namibia's Universal Service Fund annual report: first statements, 18 months to 31 December 2025.
+The Communications Regulatory Authority of Namibia published the Universal Service Fund's 2025 integrated annual report, which carries the Fund's first financial statements, covering the 18 months to 31 December 2025. It also reports the Fund's Phase 1 (2024/25) and Phase 2 (2025/26) mobile radio access network deployments.
 
 </div>
 
@@ -199,7 +199,7 @@ Namibia's Universal Service Fund annual report: first statements, 18 months to 3
 
 **[Namibia accelerates network modernization to meet growing connectivity needs - Namibia Daily News](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/)** — Namibia Daily News (Xinhua), 28 September 2026
 
-5G reaches five more towns; 19 new sites in nine regions; N$32.3m USF Phase 2 award for 10 towers in underserved areas.
+Namibia's Mobile Telecommunications Company said on 28 September 2026 it has extended 5G to Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb and is building 19 new sites in nine regions. It was awarded N$32.3 million from phase 2 of the regulator CRAN's Universal Service Fund for 10 towers in underserved areas; ICT minister Emma Theofelus put 4G coverage at about 89%.
 
 </div>
 
@@ -245,7 +245,7 @@ Summarised under [New investments](#new-investments).
 
 **[Paratus Namibia launches Eutelsat’s OneWeb LEO connectivity](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8)** — ITWeb Africa, 7 October 2026
 
-Capped and uncapped packages; follows November 2025 Eutelsat deal covering five southern African markets.
+Paratus Namibia launched Eutelsat's OneWeb low-earth-orbit satellite internet service across Namibia on 7 October 2026, with capped and uncapped packages for homes and businesses. It follows a November 2025 agreement between Paratus and Eutelsat covering South Africa, Angola, Namibia, Botswana and Zambia. No prices are given.
 
 </div>
 
@@ -261,7 +261,7 @@ Capped and uncapped packages; follows November 2025 Eutelsat deal covering five 
 
 **[AI to boost digital services: Theofelus](https://neweralive.na/ai-to-boost-digital-services-theofelus/)** — New Era, 25 September 2026
 
-Minister cites ~89% 4G coverage; National Data Centre build begun at Kenya House; seat on ITU AI for Good Commission.
+Namibia's ICT minister, Emma Theofelus, said at the launch of the National AI Institute in Windhoek on 23 September 2026 that 4G covers about 89% of the country and internet use is about 62%. She said construction of the National Data Centre at Kenya House has begun. No measurement date for the coverage figures is given.
 
 </div>
 
@@ -269,7 +269,7 @@ Minister cites ~89% 4G coverage; National Data Centre build begun at Kenya House
 
 **[NCRST opens National AI Institute](https://neweralive.na/ncrst-opens-national-ai-institute/)** — New Era, 25 September 2026
 
-CEO Peters: not 'merely a consumer' of foreign AI; NCRST-funded GPU computing at NUST and UNAM; 2,000 students.
+Namibia's National Commission on Research, Science and Technology launched the National Artificial Intelligence Institute in Windhoek, with centres for research, software, datasets and AI innovation. The commission said 2,000 students have received AI training and it has funded two GPU-enabled high-performance computing centres at the Namibia University of Science and Technology and the University of Namibia. No cost is given.
 
 </div>
 
@@ -293,7 +293,7 @@ Namibia's National Root Certification Authority, operated by the communications 
 
 **[Home Affairs becomes Namibia's first certification service provider](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/)** — New Era, 3 September 2026
 
-Four-year CRAN accreditation under the Electronic Transactions Act, after the 28 August key signing.
+Namibia's communications regulator, CRAN, accredited the Ministry of Home Affairs, Immigration, Safety and Security as the country's first certification service provider under the Electronic Transactions Act of 2019, announced in Windhoek in the week of 3 September 2026. The four-year accreditation lets the ministry issue digital certificates and encryption keys for government services, following a key signing ceremony on 28 August.
 
 </div>
 
@@ -307,7 +307,7 @@ Four-year CRAN accreditation under the Electronic Transactions Act, after the 28
 
 **[Global Cybersecurity Initiative: Unifying Africa via Cybersecurity](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/)** — The Villager Newspaper, 4 September 2026
 
-Launched by DS Tech Namibia across seven markets, targeting 52 African countries by 2029.
+DS Tech Namibia launched the Global Cybersecurity Initiative, a private pan-African platform to connect businesses, governments and innovators on cybersecurity, in Windhoek on 3 September 2026. Chaired by Paulinus Sheehama, it starts in Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa and aims to cover 52 African countries by 2029.
 
 </div>
 
@@ -329,7 +329,7 @@ A ransomware group listed the Namibian Defence Force among its victims and publi
 
 **[Namibia’s Defence Ministry hit by double-extortion ransomware attack](https://technews.com.na/2026/09/20/namibias-defence-ministry-hit-by-double-extortion-ransomware-attack/)** — Tech News Namibia, 20 September 2026
 
-NAM-CSIRT confirms intrusion and attributes it to RansomHouse; data accessed not disclosed.
+Namibia's national cyber incident response team, NAM-CSIRT, confirmed unauthorised activity on the Ministry of Defence and Veterans Affairs network and attributed it to the RansomHouse ransomware group, reported on 20 September 2026. It is coordinating investigation and recovery. It did not say what data was accessed, stolen or encrypted.
 
 </div>
 
@@ -343,7 +343,7 @@ NAM-CSIRT confirms intrusion and attributes it to RansomHouse; data accessed not
 
 **[CRAN appoints Cornelia Shipindo to lead Namibia's cyber incident response](https://technews.com.na/2026/10/03/cran-appoints-cornelia-shipindo-to-lead-namibias-cyber-incident-response/)** — TechNews Namibia, 3 October 2026
 
-Cornelia Shipindo takes over as NAM-CSIRT Executive from 1 October 2026, CRAN announces.
+Cornelia Shipindo became Executive of the Namibia Cyber Security Incident Response Team on 1 October 2026, the Communications Regulatory Authority of Namibia, which houses the team, announced. She will lead national incident response, threat preparedness and protection of critical information infrastructure.
 
 </div>
 
@@ -375,7 +375,7 @@ Namibia's communications regulator launched DigiNam in Windhoek on 31 August as 
 
 **[Government briefs lawmakers on new digital e-ID card](https://economist.com.na/government-briefs-lawmakers-on-new-digital-e-id-card/)** — Namibia Economist, 6 October 2026
 
-MPs pressed on cyber risk, backups, private-provider control and a proposed Resident Identity Card.
+Namibia's home affairs and ICT ministries briefed members of parliament on the rollout of a new electronic identity card. MPs asked about system security, cyberattacks, backups and who owns and controls the technology where private providers are involved, and about a proposed Resident Identity Card for long-term foreign residents. The briefing date is not given.
 
 </div>
 
@@ -399,7 +399,7 @@ Namibian MPs questioned the planned digital ID on rural reach, cost, data owners
 
 **[Explainer: What is WayaMe?](https://www.namibian.com.na/explainer-what-is-wayame/)** — The Namibian, 3 September 2026
 
-WayaMe is the public brand for Namibia's instant payment system, not a bank or a wallet of its own.
+WayaMe is the public name for Namibia's new instant payment system, operated by Instant Payments Namibia under the Bank of Namibia. It routes payments between participating banks and e-money wallets, which customers reach through their existing apps or USSD. The system is expected over time to carry government grants and pensions. No launch date is given.
 
 </div>
 
@@ -413,7 +413,7 @@ WayaMe is the public brand for Namibia's instant payment system, not a bank or a
 
 **[NamPost grant system faces scrutiny, elderly left stranded](https://www.namibian.com.na/nampost-grant-system-faces-scrutiny-elderly-left-stranded/)** — The Namibian, 7 September 2026
 
-Retired MP Elifas Dingara on beneficiaries travelling far and queueing only to find their names missing from the system.
+Retired Namibian MP Elifas Dingara called on the government and Namibia Post Limited, which pays social cash grants, to address failures in the grant payment system. He said elderly beneficiaries had travelled long distances and queued only to find their names missing at payment points. He asked for answers on missing beneficiaries, delayed and unpaid grants, and complaint timeframes.
 
 </div>
 
@@ -437,7 +437,7 @@ More than 5,700 Namibian pensioners and other social-grant beneficiaries remain 
 
 **[Home affairs minister Iipumbu urges married couples to ensure they are registered](https://www.namibian.com.na/home-affairs-minister-iipumbu-urges-married-couples-to-ensure-they-are-registered/)** — The Namibian, 10 October 2026
 
-Registers held by churches and courts; no delivery tracking; some records still in South Africa; digitised since 2021.
+Namibia's home affairs minister, Lucia Iipumbu, told the National Assembly that some marriages remain unregistered because registers held by churches and magistrates' courts reach the ministry late or never. The gap came to light during records digitisation begun in 2021; the system relies on paper submission and does not track delivery, and some historical records are still in South Africa. Couples are urged to check their registration.
 
 </div>
 
@@ -451,7 +451,7 @@ Registers held by churches and courts; no delivery tracking; some records still 
 
 **[Audit finds N$28.8m in duplicate child grant payments](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/)** — The Namibian, 13 October 2026
 
-FY2024/25 audit: N$250m to over-age recipients, 3,350 duplicate records, N$43m to the dead; recoveries unestablished.
+Namibia's Auditor-General found that the ministry responsible for child grants kept paying 32,890 beneficiaries aged 19 to 21, at N$250m a year, in 2024/25, reported on 13 October 2026. The audit also found 3,350 duplicate child records, with N$28.8m paid twice, and more than N$43m paid to deceased recipients, nearly 4,000 of them over two months after their deaths were registered.
 
 </div>
 
@@ -467,7 +467,7 @@ FY2024/25 audit: N$250m to over-age recipients, 3,350 duplicate records, N$43m t
 
 **[NSA launches first labour market information system](https://www.nampa.org/text/23024267)** — NAMPA, 25 September 2026
 
-Launched 24 Sep 2026 with the Justice and Labour ministry; one platform for government and private-sector labour data.
+The Namibia Statistics Agency and the Ministry of Justice and Labour Relations launched the country's first National Labour Market Information System on 24 September 2026, to bring labour data from government institutions and the private sector onto one platform.
 
 </div>
 
@@ -483,7 +483,7 @@ Launched 24 Sep 2026 with the Justice and Labour ministry; one platform for gove
 
 **[Digital disability system faces rural roadblocks](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/)** — The Namibian, 8 September 2026
 
-Advocates warn rural connectivity, equipment and digital skills gaps could turn the new assessment system into a barrier.
+Namibia's health ministry has launched a digital disability assessment system. On 8 September 2026 the Namibian Organisation of Youth with Disabilities welcomed the change but warned that poor rural connectivity, inadequate equipment and limited digital skills could make the system a new barrier outside the main towns.
 
 </div>
 
@@ -497,7 +497,7 @@ Advocates warn rural connectivity, equipment and digital skills gaps could turn 
 
 **[GIPF to invest N$40m in new pension administration system](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/)** — The Brief (Namibia), 23 September 2026
 
-N$40m system by Kenya's Cystech, under N$5m spent, 16-month build; data-sharing MoUs with NamRA, MoF, Home Affairs.
+Namibia's Government Institutions Pension Fund plans to spend about N$40m on a new pension administration system built by Kenyan firm Cystech, its chief operating officer, Elvis Nashilongo, said, reported on 23 September 2026. Less than N$5m has been spent and the build should take about 16 months. The fund has signed data-sharing agreements with the revenue agency, the finance and home affairs ministries and financial institutions.
 
 </div>
 
@@ -529,7 +529,7 @@ Namibia's Cabinet directed the ICT ministry to develop a standard template for r
 
 **[Namibia project uses household data, smart meters to rethink water](https://sgciafrica.org/namibia-project-uses-household-data-smart-meters-to-rethink-water/)** — Science Granting Councils Initiative Africa, 21 September 2026
 
-Innovate4Water: 69 pulse readers in Ongwediva, AI on 1,375 Windhoek households; no verified loss reduction yet.
+Innovate4Water, a research project led by the Namibia University of Science and Technology, surveyed 692 households in Windhoek, Rundu and Ongwediva and found only 25% reported uninterrupted water supply. In Ongwediva the team fitted 69 pulse readers to household meters to produce time-stamped consumption data, with AI to flag possible leaks and unauthorised use. No verified reduction in water losses is reported.
 
 </div>
 
@@ -547,7 +547,7 @@ Innovate4Water: 69 pulse readers in Ongwediva, AI on 1,375 Windhoek households; 
 
 **[US firm 6th Grain demands N$13m for cancelled crop tender](https://www.namibian.com.na/us-firm-6th-grain-demands-n13m-for-cancelled-crop-tender/)** — The Namibian, 14 September 2026
 
-6th Grain demands N$13m after Cabinet ordered its crop-monitoring contract cancelled.
+US firm 6th Grain Corporation is demanding N$13 million from Namibia's government after Cabinet ordered its crop-monitoring contract cancelled for failing legal and procedural requirements. A demand letter dated 9 September 2026 claims payment for completed work, commercial loss and reputational damage.
 
 </div>
 
@@ -561,7 +561,7 @@ Innovate4Water: 69 pulse readers in Ongwediva, AI on 1,375 Windhoek households; 
 
 **[Namibia to launch AI institute to strengthen national capacity](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/)** — Namibia Business Review, 22 September 2026
 
-NCRST-run institute with four centres incl. a Namibian datasets centre; youth AI fellowship at ~2,000 students.
+Namibia's National Commission on Research, Science and Technology said on 22 September 2026 that it would launch the National Artificial Intelligence Institute of Namibia the next day. The institute will run four centres, including one to curate Namibian datasets, and its youth AI fellowship is training about 2,000 tertiary students. No budget is given.
 
 </div>
 

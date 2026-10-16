@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BWA
 ledger_rows: 17
 not_held: 8
-record: 59758d1c08b2
+record: 4e5facd02808
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -79,7 +79,7 @@ record: 59758d1c08b2
 
 **[Botswana concludes capacity building and stakeholder engagement for national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement)** — Digital Watch Observatory, 14 September 2026
 
-Five-day data governance training of 7-11 September 2026 feeds Botswana's National Data Strategy drafting.
+Botswana's Ministry of Communications and Innovation held a five-day data governance training and stakeholder workshop from 7 to 11 September 2026 to develop a National Data Strategy from its earlier National Data Policy. The work is backed by the African Union Commission and the European Union under the Data Governance in Africa Initiative, with AUDA-NEPAD and GIZ providing implementation support. No budget is given.
 
 </div>
 
@@ -93,7 +93,7 @@ Five-day data governance training of 7-11 September 2026 feeds Botswana's Nation
 
 **[Govt targets UNEP to build smart economy](https://dailynews.gov.bw/news-detail/93397)** — DailyNews (Botswana Press Agency), 23 September 2026
 
-Formal SmartBots launch set for November 2026; Boko asks UNECA's Gatete to stay on as flagship partner.
+Botswana's President Duma Boko told UN Economic Commission for Africa head Claver Gatete in New York that the SmartBots digital transformation strategy will be formally launched in November 2026. Boko asked the commission to remain a partner in it as a flagship project. The meeting date is not stated.
 
 </div>
 
@@ -171,7 +171,7 @@ Tlou Energy's annual report says Botswana's gas-powered Kala Data Centre ran wel
 
 **[BPC 2026-27 Electricity Tariff Application — Consultation Paper](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf)** — Botswana Energy Regulatory Authority (BERA), 15 December 2025
 
-BPC's own case for a 46% tariff rise — P9.585bn revenue requirement, P3.477bn funding gap.
+Botswana Power Corporation's tariff application for 2026/27, published by the Botswana Energy Regulatory Authority on 15 December 2025, sets a revenue requirement of P9.585 billion against current revenues of P6.108 billion excluding government subsidy, a gap of P3.477 billion. The utility proposes a tariff increase from 1 April 2026 and still projects a P397 million net loss.
 
 </div>
 
@@ -203,7 +203,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Botswana launches national eKYC project to make bank verification easier](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier)** — Business Tech Africa, 11 September 2026
 
-Banks to verify identities against the national citizen database; the source states no launch date.
+The Bankers' Association of Botswana has launched a national electronic know-your-customer project letting banks check customer identities against the national citizen database instead of certified photocopies of identity cards. The report notes the association launched a similar eKYC system in 2021. No launch date is given.
 
 </div>
 
@@ -219,7 +219,7 @@ Banks to verify identities against the national citizen database; the source sta
 
 **[FNBB muscles into mobile money race](https://www.mmegi.bw/business/fnbb-muscles-into-mobile-money-race/news)** — Mmegi, 14 September 2026
 
-eWallet to open transfers into Orange Money, MyZaka and Smega; FY2026 pre-tax profit P2.12bn, up 12%.
+First National Bank Botswana will let customers receiving money through its eWallet service transfer it directly to Orange Money, Mascom's MyZaka and BTC's Smega. The bank announced the plan with results for the year to June 2026, showing profit before tax up 12 per cent to P2.12 billion. No launch date is given.
 
 </div>
 
@@ -249,7 +249,7 @@ Absa Bank Botswana has made Google Pay available on Android for its Visa debit, 
 
 **[The system is down, not the road traffic act](https://www.sundaystandard.info/the-system-is-down-not-the-road-traffic-act/)** — Sunday Standard, 5 October 2026
 
-Ministry press release of 29 Sept 2026: permits stamped by hand, manual roadworthiness receipts until systems return.
+Botswana's Ministry of Transport and Infrastructure announced interim manual measures on 29 September 2026 after a government systems outage at the Department of Road Transport and Safety. Expired transport permits are extended by hand with an official stamp, and vehicles with expired roadworthiness certificates are tested and given manual receipts, which police will accept until systems are restored.
 
 </div>
 
@@ -267,7 +267,7 @@ Ministry press release of 29 Sept 2026: permits stamped by hand, manual roadwort
 
 **[OpenEvidence and Penn Medicine partner to extend AI clinical decision support to Botswana](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/)** — YourBotswana, 18 September 2026
 
-Announced 15 Sep 2026; tools to be co-built with Botswana-UPenn Partnership clinicians; no Botswana timetable.
+OpenEvidence and Penn Medicine announced on 15 September 2026 a partnership to deploy OpenEvidence's AI clinical decision-support platform to Penn's clinicians and to extend it to Botswana through the Botswana-UPenn Partnership. A customised set of tools is to be built with the partnership's clinicians. No timetable, site count or cost for Botswana is given.
 
 </div>
 
@@ -285,7 +285,7 @@ Announced 15 Sep 2026; tools to be co-built with Botswana-UPenn Partnership clin
 
 **[Weaving the Slip](https://www.thegazette.news/news/weaving-the-slip/)** — Botswana Gazette, 2 September 2026
 
-Betting influencers, family mobile wallets, and a country that keeps no gambling statistics.
+A Botswana Gazette investigation published on 2 September 2026 reports that Botswana keeps no gambling statistics as it moves to lower the legal betting age. Unregistered betting influencers draw 4,000 to 15,000 responses to a single slip and refer followers to bookmakers, while parents in Mathethe and Digawana describe children funding bets from household mobile-money and bank accounts.
 
 </div>
 
@@ -317,7 +317,7 @@ China and Botswana raised relations to a comprehensive strategic partnership in 
 
 **[Huawei critical partner in digital transformation](https://dailynews.gov.bw/news-detail/93668)** — Botswana Daily News (BOPA), 14 October 2026
 
-Signed 13 Oct 2026 in Beijing on Boko state visit: cloud, smart education, telemedicine, AI public security; no sum.
+Botswana signed a cooperation agreement on digital transformation with Huawei at the company's Beijing Research Institute on 13 October 2026, during President Duma Boko's state visit to China. It covers cloud hosting of government data, smart education, telemedicine and AI-powered public security for the police. No value is stated.
 
 </div>
 

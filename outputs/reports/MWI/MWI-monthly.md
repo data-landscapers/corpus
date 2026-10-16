@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MWI
 ledger_rows: 43
 not_held: 35
-record: 4ce3a74d28be
+record: 62e9b4a39997
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -111,7 +111,7 @@ record: 4ce3a74d28be
 
 **[US insists specimen data won't be shared](https://mwnation.com/us-insists-specimen-data-wont-be-shared/)** — Nation Online, 1 September 2026
 
-Specimen pact signed 11 February 2026 inside a US$936m five-year health package; US-first clause.
+The US Embassy in Lilongwe said Malawian biological specimens will go to the United States only during public health emergencies and outbreaks, and that no personally identifiable information is shared. The agreement, signed on 11 February 2026 within a five-year US$936 million health package, requires Malawi to supply requested specimens within seven days. Malawian health advocates criticised the clause giving Malawi access to resulting products only after US domestic needs are met.
 
 </div>
 
@@ -143,7 +143,7 @@ Japan's ambassador to Malawi met the communications regulator's director general
 
 **[Malawi Action Plan Review 2026-2029 - Open Government Partnership](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/)** — Open Government Partnership, 14 October 2026
 
-IRM: 11 commitments incl. digital governance, beneficial-ownership register; Malawi missed co-creation minimum standards.
+The Open Government Partnership's Independent Reporting Mechanism reviewed Malawi's 2026–2029 action plan, which has 11 commitments covering anti-corruption, natural resources, fiscal openness, digital governance and climate. They include a public beneficial ownership register and public party-finance information. The review finds Malawi did not meet the minimum co-creation standards.
 
 </div>
 
@@ -201,7 +201,7 @@ The World Bank-financed programme carries US$150 million across digital connecti
 
 **[World Bank turns heat on Malawi's digital transformation project](https://www.nyasatimes.com/world-bank-turns-heat-on-malawis-digital-transformation-project/)** — Nyasa Times, 3 September 2026
 
-100 towers reach procurement, a consultancy to build the Data Protection Authority's framework and cost model.
+A World Bank mission reviewed the Digital Malawi Acceleration Project with the communications regulator MACRA. The project manager said a plan for 100 mobile towers in underserved areas has reached procurement preparation, and a consultancy is building the Data Protection Authority's framework and five-year cost model. The mission stressed the quality of MACRA statistics. No funding amounts are stated.
 
 </div>
 
@@ -217,7 +217,7 @@ A World Bank mission team on the Digital Malawi Acceleration Project called on t
 
 **[Malawi Advances Next Phase Of Digital Connectivity](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/)** — Broadcast Media Africa, 4 September 2026
 
-Phase two of the US$150m DMAP sized at US$35-75m; 500 public institutions and 2,000 schools targeted.
+Malawi plans to spend US$35m to US$75m on the second phase of the Digital Malawi Acceleration Project, part of a six-year programme with US$150m of World Bank financing. The phase aims to connect more than 500 public institutions, including the National Registration Bureau, and over 2,000 schools; the Public Private Partnership Commission discussed it with ICT providers in Blantyre.
 
 </div>
 
@@ -225,7 +225,7 @@ Phase two of the US$150m DMAP sized at US$35-75m; 500 public institutions and 2,
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -239,7 +239,7 @@ COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, E
 
 **[Msukuma calls for digitalization as Malawi schools struggle with connectivity](https://www.247malawi.com/msukuma-calls-for-digitalization-as-malawi-schools-struggle-with-connectivity/)** — 247MALAWI NEWS, 14 September 2026
 
-85.8% of Malawian secondary schools still lack internet access, 2026 connectivity analysis finds.
+Education expert Zizwa Msukuma told 247 Malawi News that digitalisation should be a pillar of Malawi's education reform. He cited a 2026 school connectivity analysis finding that 85.8% of secondary schools lack internet access, 47% have no electricity, one computer serves 356 students on average, and 43% of school computers are in five urban districts.
 
 </div>
 
@@ -267,7 +267,7 @@ Helios Towers Malawi said it had built 233 tower sites in 2026, 40% in remote ru
 
 **[Helios Towers partners with UNICEF to accelerate digital inclusion and expand learning opportunities for children across Africa](https://www.unicef.org.uk/press-releases/helios-towers-partners-with-unicef-to-accelerate-digital-inclusion-and-expand-learning-opportunities-for-children-across-africa/)** — UNICEF UK, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-Multi-year Giga and Learning Passport support, starting in DRC, Malawi and Tanzania; a West African country to follow.
+Helios Towers and UNICEF announced a multi-year partnership on 28 September 2026 supporting UNICEF's Giga school-connectivity initiative and its Learning Passport digital-learning programme, starting in the Democratic Republic of Congo, Malawi and Tanzania. Helios Towers will support school connectivity mapping and infrastructure. No funding figure is given.
 
 </div>
 
@@ -303,7 +303,7 @@ Malawi's regulator MACRA is investigating complaints of rapid data-bundle deplet
 
 **[Macra launches mobile data bundle consumption probe](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/)** — Nation Online, 1 October 2026
 
-Notice dated 29 September 2026; controlled tests of billing against usage; deadline mid-November.
+The Malawi Communications Regulatory Authority opened an investigation, by notice dated 29 September 2026, into complaints that mobile data bundles on TNM and Airtel Malawi run out too fast. It will examine billing systems and usage records and run controlled tests of data used against data deducted, with a deadline of mid-November.
 
 </div>
 
@@ -319,7 +319,7 @@ Notice dated 29 September 2026; controlled tests of billing against usage; deadl
 
 **[Is Smaller, Better? CTN's bet on AI-enabled edge data centers](https://www.linkedin.com/pulse/smaller-better-ctns-bet-ai-enabled-edge-data-centers-longwe-00lbf/)** — LinkedIn (Brian Munyao Longwe, CEO, Converged Technology Networks), 9 September 2026
 
-Lilongwe edge site live since Feb 2026; EU D4D-backed retrofit; Blantyre, Mzuzu, Zomba next; 150 LTE sites.
+Converged Technology Networks' chief executive, Brian Munyao Longwe, wrote on 9 September 2026 that the company is upgrading its Lilongwe edge data centre, live since February 2026, for AI workloads with support from the EU D4D Hub, and plans further sites in Blantyre, Mzuzu and Zomba alongside 150 new 4G sites. He puts Malawi's fixed broadband connections at about 15,000.
 
 </div>
 
@@ -333,7 +333,7 @@ Lilongwe edge site live since Feb 2026; EU D4D-backed retrofit; Blantyre, Mzuzu,
 
 **[TNM expands Malawi data infrastructure](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8)** — ITWeb Africa, 11 September 2026
 
-K12bn, about $6.9m at the 10 September 2026 rate, for OCL Tier 3 Kanengo site, merged with Limbe.
+Telekom Networks Malawi bought OpenConnect Limited's Tier 3 data centre at Kanengo, Lilongwe, for K12 billion, about US$6.9 million, unveiling it on 11 September 2026. TNM will link it with its Limbe data centre into one cloud platform to offer data centre as a service and host local AI platforms.
 
 </div>
 
@@ -363,7 +363,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[MACRA sounds alarm over rising digital scams](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/)** — Malawi24, 4 September 2026
 
-Regulator names mobile money fraud, WhatsApp account takeovers and fake social cash transfer messages.
+The Malawi Communications Regulatory Authority issued a public warning about rising fraud against mobile money users, reported on 4 September 2026. It listed fake social cash transfer messages, spoofed transaction alerts, fake prizes and hijacked WhatsApp accounts. It said government bodies and charities running cash transfers do not ask beneficiaries for money by SMS or WhatsApp.
 
 </div>
 
@@ -377,7 +377,7 @@ Regulator names mobile money fraud, WhatsApp account takeovers and fake social c
 
 **[Questions grow over Malawi's social media monitoring system amid oversight concerns](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/)** — Nyasa Times, 8 September 2026
 
-$1.5m Hashcom contract, awarded 15 days before installation and 8 months before the 2025 election, still unaudited.
+The Malawi Communications Regulatory Authority installed a social media monitoring system in January 2025 under a $1.5 million contract awarded to Hashcom Ghana Limited 15 days earlier. More than a year on, no published document shows whether it ran during the September 2025 election, what data it collected or who had access. MACRA declined to comment pending an audit.
 
 </div>
 
@@ -385,7 +385,7 @@ $1.5m Hashcom contract, awarded 15 days before installation and 8 months before 
 
 **[PART 2: A Ghanaian contractor, a $1.5 million contract, and a surveillance system that remains unexplained](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/)** — Moz24h, 10 September 2026
 
-Civil society letters, a Presidency appeal and an abandoned MHRC inspection, none of which halted the system.
+Malawi's communications regulator MACRA bought a $1.5 million social-media monitoring system from Ghana's Hashcom, and more than a year on no institution has said publicly what it collects or who can access it. Civil society letters to MACRA's board, Parliament and the President in early 2025 did not halt it. The human rights commission abandoned a planned inspection, citing a lack of technical expertise.
 
 </div>
 
@@ -399,7 +399,7 @@ Civil society letters, a Presidency appeal and an abandoned MHRC inspection, non
 
 **[90% of scams linked to prisons](https://malawi24.com/2026/09/15/90-of-scams-linked-to-prisons/)** — Malawi24, 15 September 2026
 
-MACRA blames inmates, Zomba prison a major source; SIM swaps, fake border fees, WhatsApp takeovers.
+Malawi's communications regulator, MACRA, said prisoners are behind up to 90% of reported mobile money scams, with Zomba Maximum Security Prison a major source. Methods include SIM swaps, fake promotions, calls demanding border clearance fees for non-existent parcels, and WhatsApp account takeovers. No measures by the prison service or network operators are reported.
 
 </div>
 
@@ -417,7 +417,7 @@ MACRA blames inmates, Zomba prison a major source; SIM swaps, fake border fees, 
 
 **[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
 </div>
 
@@ -431,7 +431,7 @@ Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-
 
 **[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code.
 
 </div>
 
@@ -461,7 +461,7 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 
 **[Malawi advances data harmonization, interoperability agenda | Biometric Update](https://www.biometricupdate.com/202609/malawi-advances-data-harmonization-interoperability-agenda)** — Biometric Update, 23 September 2026
 
-MACRA chief urges MDAs to link systems to NRIS; HR, agriculture and health already connected, officials say.
+The head of Malawi's communications regulator MACRA, Mayamiko Nkoloma, urged public bodies at an accountants' conference to connect their systems to the National Registration and Identification System. Officials say the human resources department and the agriculture and health ministries are already connected. The speech date is not given.
 
 </div>
 
@@ -477,7 +477,7 @@ MACRA chief urges MDAs to link systems to NRIS; HR, agriculture and health alrea
 
 **[Public Statement: Launch of Nzika Digital ID Wallet](https://www.nrb.gov.mw/wp-content/uploads/file-listing/NRB_Public_Statement_Launch-of-Nzika-Digital-ID-Wallet_English.pdf)** — National Registration Bureau (Malawi), 8 September 2026
 
-NRB sets 16 September 2026 launch at BICC Lilongwe; theme My Digital ID, My Shadow, Never Apart.
+Malawi's National Registration Bureau announced that it would launch the Nzika Digital ID Wallet on 16 September 2026 at the Bingu International Convention Centre in Lilongwe, with Homeland Security Minister Peter Mukhito presiding. The bureau says the wallet adds a digital ID to the physical card and will cut printing costs and the time taken to obtain an ID.
 
 </div>
 
@@ -493,7 +493,7 @@ Malawi's national registration bureau is to introduce a digital identity wallet,
 
 **[Malawi takes national IDs digital with Nzika wallet](https://www.channelafrica.co.za/channelafrica/news/malawi-takes-national-ids-digital-with-nzika-wallet/)** — Channel Africa, 11 September 2026
 
-Launch 16 September 2026; 9m registered since 2017; liveness checks; physical card stays valid.
+Malawi's National Registration Bureau is launching the Nzika wallet on 16 September, an app holding a digital national ID, birth certificate and marriage certificate, downloadable from Google Play and the App Store. Its spokesman, Norman Fulatira, said physical ID cards, held by more than 9 million registered citizens, stay valid because smartphone and internet access remain limited.
 
 </div>
 
@@ -501,7 +501,7 @@ Launch 16 September 2026; 9m registered since 2017; liveness checks; physical ca
 
 **[Malawi to launch digital ID wallet as national ID coverage reaches 99%](https://www.biometricupdate.com/202609/malawi-to-launch-digital-id-wallet-as-national-id-coverage-reaches-99)** — Biometric Update, 11 September 2026
 
-Nzika wallet launches 16 September on International Identity Day; 99% ID coverage, 13.5 million enrolled.
+Malawi's National Registration Bureau announced the Nzika Digital ID Wallet, to launch on 16 September 2026, which will hold a digital copy of the national ID card with the same validity as the physical card. The bureau says 99% of citizens hold a national ID and more than 13.5 million people are enrolled; it expects the wallet to cut card-printing costs.
 
 </div>
 
@@ -517,7 +517,7 @@ Malawi's homeland security minister ordered on 16 September 2026 that national i
 
 **[Malawi launches Nzika Digital ID Wallet and removes expiry date from National ID](https://www.undp.org/malawi/news/malawi-launches-nzika-digital-id-wallet-and-removes-expiry-date-national-id)** — UNDP Malawi, 16 September 2026
 
-Nzika wallet live 2026-09-16; national ID expiry removed; Malawi fifth in Africa to run an ID wallet.
+Malawi launched the Nzika Digital ID Wallet in Lilongwe on 16 September 2026 and from the same day removed the expiry date from national identity cards. The wallet, built by the National Registration Bureau with UNDP and funded by the EU, Ireland and Norway, holds national IDs and birth, marriage and death certificates. Homeland Security minister Peter Mukhito said it complements the physical card.
 
 </div>
 
@@ -533,7 +533,7 @@ Malawi's ICT minister put smartphone ownership at 33 per cent and basic internet
 
 **[National IDs to last a lifetime](https://mwnation.com/national-ids-to-last-a-lifetime/)** — Nation Online, 17 September 2026
 
-6.6m children in civil registration, 3.4m more targeted by year-end; a cybersecurity founder's biometric warnings.
+Malawi's homeland security minister Peter Mukhito announced at the launch of the Nzika Digital ID wallet in Lilongwe that national identity cards will no longer expire, with verification by real-time biometrics against the registration bureau's database. He said 6.6 million children are in the civil registration system, with 3.4 million more targeted by year-end; a cybersecurity expert urged strict limits on data shared with providers.
 
 </div>
 
@@ -603,7 +603,7 @@ A Malawi24 investigation reports that a Hong Kong-registered company won a US$5.
 
 **[India, UN agencies review e-KYC and Digital Identity Project in Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238)** — IANS, 29 September 2026
 
-India-UN fund project with Reserve Bank of Malawi reviewed with UNDP and UNCDF; achievements and transition discussed.
+India's High Commissioner to Malawi, Amararam Gujar, met a UNDP and UNCDF delegation on 29 September 2026 to review the e-KYC and Digital Identity Project in Malawi, funded through the India-UN Development Partnership Fund and implemented with partners including the Reserve Bank of Malawi. They discussed its achievements, findings and transition. No funding figure for the project is given.
 
 </div>
 
@@ -671,7 +671,7 @@ A cash-transfer organisation working in Malawi since 2019 expanded after a US$15
 
 **[Malawi tobacco farmers face days in the cold amid registration chaos | Nyasa Times](https://www.nyasatimes.com/malawi-tobacco-farmers-face-days-in-the-cold-amid-registration-chaos/)** — Nyasa Times, 29 September 2026
 
-Biometric Know Your Grower rollout fails; scanners, sync and network down; farmers camped for days.
+Registration of Malawi's tobacco growers under the new biometric Know Your Grower system, run by the Tobacco Commission with TAMA Farmers Trust, broke down at centres in Lilongwe, Ntcheu and Rumphi, reported on 29 September 2026. Devices failed to sync with the central server and scanners failed to read elderly farmers' fingerprints, leaving farmers camped for days. Unregistered growers get no quota, inputs or auction access.
 
 </div>
 
@@ -745,7 +745,7 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 
 **[WORLD BANK COMMENDS MANePS PROGRESS](https://www.ppda.mw/newsdetail/89)** — Public Procurement and Disposal of Assets Authority (Malawi), 7 October 2026
 
-As of 5 October: 7,417 suppliers, 216 of 250 procurement plans, 562 tenders; all entities due on by December 2026.
+A World Bank team reviewed progress on Malawi's electronic procurement system MANePS with the procurement authority PPDA in early October 2026 and urged more training so that all public bodies use it by December 2026. As of 5 October the system had 7,417 registered suppliers, 216 of 250 targeted annual procurement plans published and 562 tenders. MANePS is World Bank-funded.
 
 </div>
 
@@ -763,7 +763,7 @@ As of 5 October: 7,417 suppliers, 216 of 250 procurement plans, 562 tenders; all
 
 **[Three district councils win Youth in Leadership Innovation Challenge](https://www.undp.org/malawi/news/three-district-councils-win-youth-leadership-innovation-challenge)** — UNDP Malawi, 14 September 2026
 
-Zomba, Likoma and Mangochi councils win US$20,000 to test youth-led digital service solutions.
+Malawi's Zomba, Likoma and Mangochi district councils won US$20,000 under the Youth in Leadership Innovation Challenge, announced by the youth ministry and UNDP in Lilongwe on 11 September 2026. The councils will develop and test youth-led digital solutions to local service-delivery problems within their existing systems.
 
 </div>
 
@@ -805,7 +805,7 @@ Malawi Police officers were trained to identify, preserve and analyse digital ev
 
 **[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
 </div>
 
@@ -887,7 +887,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[When information requests go nowhere](https://malawi24.com/2026/09/16/when-information-requests-go-nowhere/)** — Malawi24, 16 September 2026
 
-65% of surveyed requesters got no reply in the statutory 15 days; of 10 institutions tested, none complied.
+A Malawi24 investigation published on 16 September 2026 found that 65 per cent of 30 surveyed requesters received no reply within the 15 days set by Malawi's Access to Information Act. The outlet filed requests with ten public bodies, including the Anti-Corruption Bureau, the health ministry and the revenue authority, and none supplied the information. The Human Rights Commission said it can only make recommendations, as the Act carries no penalties.
 
 </div>
 
@@ -905,7 +905,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Karnataka Hosts African Union, Five African Nations For Digital Public Infrastructure Exposure Visit](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/)** — The Bengaluru Live, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
-AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; UNDP-supported.
+The Indian state of Karnataka hosted officials from the African Union, Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on 1 September 2026, on a UNDP-supported visit to study digital public infrastructure. State officials and the Centre for e-Governance briefed the delegation on digitising public services and interoperability between government systems.
 
 </div>
 
@@ -913,7 +913,7 @@ AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; U
 
 **[African Delegations Explore India's Digital Public Infrastructure During UNDP Learning Mission](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/)** — Youth Village Zambia, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-Five African delegations tour Aadhaar, UPI and DigiLocker on a UNDP South-South mission.
+The UN Development Programme in India hosted delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia on a learning mission on digital public infrastructure in New Delhi, Pune and Bangalore in early September 2026. The visits covered Aadhaar digital identity, the Unified Payments Interface and DigiLocker, with meetings at India's identity authority, its national payments corporation and the health and agriculture ministries.
 
 </div>
 

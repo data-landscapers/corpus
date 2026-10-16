@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: COD
 ledger_rows: 57
 not_held: 7
-record: 107bdb83dec9
+record: e45e322c9408
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -101,7 +101,7 @@ record: 107bdb83dec9
 
 **[PACT et telecoms en RDC : baisse des couts en vue](https://numerico.cd/2026/09/09/pact-et-telecoms-en-rdc-baisse-des-couts-en-vue/)** — Numerico.cd, 9 September 2026
 
-PACT studies on telecom taxation and infrastructure sharing land in Kinshasa; central infra database urged.
+A workshop in Kinshasa on 9 September 2026, under the World Bank-supported connectivity and transport project PACT, presented two studies on the Democratic Republic of Congo's telecoms sector: one on infrastructure sharing, roaming and the .cd domain, the other on taxation. Recommendations include requiring operators to give the regulator current infrastructure data and a central infrastructure database updated twice a year.
 
 </div>
 
@@ -117,7 +117,7 @@ PACT studies on telecom taxation and infrastructure sharing land in Kinshasa; ce
 
 **[Le Président Tshisekedi fixe les conditions d'organisation de l'activité statistique en RDC - ACP](https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/)** — Agence Congolaise de Presse (ACP), 12 September 2026
 
-Signed text names INS principal statistical authority; secrecy rules bind ongoing operations at once.
+The Democratic Republic of the Congo's President Félix Tshisekedi signed an ordinance-law organising statistical activity, the 98th Council of Ministers reported on 11 September 2026. It governs the production, dissemination and archiving of official statistics and national censuses, names the Institut national de la statistique as principal statistical authority, and applies its confidentiality rules at once to operations under way.
 
 </div>
 
@@ -125,7 +125,7 @@ Signed text names INS principal statistical authority; secrecy rules bind ongoin
 
 **[RDC : le gouvernement adopte le projet de loi autorisant la ratification du nouveau cadre de l'activité statistique](https://www.opinion-info.cd/politique/2026/09/12/rdc-le-gouvernement-adopte-le-projet-de-loi-autorisant-la-ratification-du)** — Opinion Info, 12 September 2026
 
-Council of 11 Sept 2026; independence and confidentiality principles; statistical data barred from enforcement use.
+The Democratic Republic of Congo's Council of Ministers on 11 September 2026 adopted a bill to ratify the ordinance-law organising official statistics, submitted by the planning minister. The law sets principles of professional independence and statistical confidentiality, and bars use of data collected for statistics for control, prosecution or sanctions outside cases the law provides.
 
 </div>
 
@@ -139,7 +139,7 @@ Council of 11 Sept 2026; independence and confidentiality principles; statistica
 
 **[Violence numérique : une proposition de loi de protection des victimes annoncée à Kinshasa - ACP](https://acp.cd/genre/violence-numerique-une-proposition-de-loi-de-protection-des-victimes-annoncee-a-kinshasa/)** — Agence Congolaise de Presse (ACP), 12 September 2026
 
-Deputy Christelle Vuanga to table bill amending penal and digital codes: 5-10 years for non-consensual intimate images.
+Christelle Vuanga, a member of the Democratic Republic of Congo's National Assembly, announced she will table a bill this parliamentary session amending the penal code and the 2023 digital code to protect victims of non-consensual sharing of intimate images. She proposes prison terms of five to ten years with fines, and heavier penalties where blackmail or minors are involved.
 
 </div>
 
@@ -167,7 +167,7 @@ A joint press investigation calls DR Congo's telecoms regulator ARPTC unlawful a
 
 **[Assemblée nationale: le député Alfred Dibandi initie une proposition de loi relative à la protection des mineurs dans l'environnement numérique](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la)** — Actualite.cd, 21 September 2026
 
-Private member's bill filed 21 Sept 2026; tiered rules for under-6s, -11s and -15s; complements the Code du numérique.
+Alfred Dibandi Nzondomyo, a national deputy in the Democratic Republic of Congo, filed a private member's bill on protecting minors in the digital environment on 21 September 2026. He said it complements the Digital Code and child-protection law, with rules by age band for under-6s, under-11s and under-15s. The bill's text has not been published.
 
 </div>
 
@@ -181,7 +181,7 @@ Private member's bill filed 21 Sept 2026; tiered rules for under-6s, -11s and -1
 
 **[DRC Senate Considers Social Media Ban for Children Under 13](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13)** — We Are Tech, 1 October 2026
 
-Admitted 28 Sept 2026: under-13 ban, parental consent 13-15, mandatory age verification; now in committee.
+The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Yvan Kazadi Kankonde amending the 2023 Digital Code to bar children under 13 from opening social media accounts. Those aged 13 to 15 would need verifiable parental consent, and platforms would have to verify age. The bill has gone to committee and is not law.
 
 </div>
 
@@ -197,7 +197,7 @@ Admitted 28 Sept 2026: under-13 ban, parental consent 13-15, mandatory age verif
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -215,7 +215,7 @@ Admitted 28 Sept 2026: under-13 ban, parental consent 13-15, mandatory age verif
 
 **[Algerian Company INATEL Signs Strategic Agreement for New Kinshasa City Project](https://africanews.dz/eng/index.php/2026/09/03/algerian-company-inatel-signs-strategic-agreement-for-new-kinshasa-city-project/)** — Africa News (DZ), 3 September 2026
 
-Kinshasa Kia Mona MOU covers payment systems and a technology excellence centre; no value disclosed.
+Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DABYAN, signed a memorandum with the committee overseeing the Kinshasa city expansion project in the DR Congo to deploy payment systems, digital equipment and a technology centre covering cybersecurity and applied AI. The signing date is given only as recent, and no value or timetable is disclosed.
 
 </div>
 
@@ -239,7 +239,7 @@ The Algerian state electronics firm INATEL, with PGS Africa and DABYAN, signed a
 
 **[RDC : Vodacom veut porter à 670 millions USD ses investissements réseau pour accélérer la transformation numérique](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/)** — Zoom Eco, 9 October 2026
 
-4G at 46.1%, 26.4m subscribers, 10m M-Pesa clients; PM wants state data hosted in the DRC.
+Vodacom Congo said at a Kinshasa forum on 8 October 2026 that it plans a long-term US$670 million network investment programme, against an average of US$140 million a year. It reported 26.4 million subscribers, 4G coverage of 46.1 per cent and 10 million M-Pesa customers. Prime Minister Judith Suminwa said state and citizens' data must be hosted in the country.
 
 </div>
 
@@ -257,7 +257,7 @@ The Algerian state electronics firm INATEL, with PGS Africa and DABYAN, signed a
 
 **[RDC : plus de 40 millions de Congolais connectés grâce aux infrastructures de Helios Towers](https://actualite.cd/2026/09/04/rdc-plus-de-40-millions-de-congolais-connectes-grace-aux-infrastructures-de-helios)** — ACTUALITE.CD, 4 September 2026
 
-Helios Towers RDC hits 3,000 sites (3 Sep 2026), 673 rural; claims mobile coverage for 40m+.
+Helios Towers RDC said on 3 September 2026 that it now operates 3,000 telecoms sites in the Democratic Republic of Congo, 673 of them in rural areas, and that its infrastructure supports mobile coverage for more than 40 million people. The milestone marks the company's fifteenth year in the country. The figures come from a company release carried by the paper.
 
 </div>
 
@@ -313,7 +313,7 @@ Internet subscribers in Kinshasa report slow speeds, frequent interruptions and 
 
 **[DR Congo plans four 20-year PPPs for 11,600km fibre network](https://theppppost.com/congo-fibre-concession-programme-11600km-ppp/)** — The PPP Post, 26 September 2026
 
-Four 20-year concession lots with gap financing; supervision EOI closes 14 Oct 2026, work from June 2027.
+The Democratic Republic of Congo plans to extend its fibre-optic backbone by 11,600 km through four 20-year concessions tendered internationally, with gap financing for routes whose revenues cannot cover the cost, reported on 26 September 2026. Expressions of interest for the supervision consultancy close on 14 October 2026, for work from June 2027.
 
 </div>
 
@@ -327,7 +327,7 @@ Four 20-year concession lots with gap financing; supervision EOI closes 14 Oct 2
 
 **[Helios Towers partners with UNICEF to accelerate digital inclusion and expand learning opportunities for children across Africa](https://www.unicef.org.uk/press-releases/helios-towers-partners-with-unicef-to-accelerate-digital-inclusion-and-expand-learning-opportunities-for-children-across-africa/)** — UNICEF UK, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-Multi-year Giga and Learning Passport support, starting in DRC, Malawi and Tanzania; a West African country to follow.
+Helios Towers and UNICEF announced a multi-year partnership on 28 September 2026 supporting UNICEF's Giga school-connectivity initiative and its Learning Passport digital-learning programme, starting in the Democratic Republic of Congo, Malawi and Tanzania. Helios Towers will support school connectivity mapping and infrastructure. No funding figure is given.
 
 </div>
 
@@ -393,7 +393,7 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 
 **[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Compute as mini-grid anchor customer; Kenya, DRC, Sierra Leone pilots for about 85,000 people; community load first.
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
 
 </div>
 
@@ -409,7 +409,7 @@ Compute as mini-grid anchor customer; Kenya, DRC, Sierra Leone pilots for about 
 
 **[Kinshasa Kia Mona Plans Digital Equipment Assembly Facility](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility)** — BANKABLE, 3 September 2026
 
-MoU of 30 August 2026 for a Maluku assembly plant for POS terminals, ATMs and computers; no sum, no timetable.
+The DR Congo office coordinating the Kinshasa Kia Mona city expansion signed a memorandum on 30 August 2026 with the PGS Africa-INATEL-DABYAN consortium for a plant at Maluku to assemble payment terminals, ATMs and computers. An innovation centre and vocational training are included. The memorandum states no investment figure, production capacity or construction timetable.
 
 </div>
 
@@ -423,7 +423,7 @@ MoU of 30 August 2026 for a Maluku assembly plant for POS terminals, ATMs and co
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -449,7 +449,7 @@ The steering committee of the DRC's digital transformation project met for the f
 
 **[RDC : les recettes mensuelles de la TVA passent de 123,7 à plus de 141,4 millions $ grâce aux réformes fiscales (Doudou Fwamba)](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux)** — 7sur7.cd, 3 September 2026
 
-Monthly VAT above FC320bn from FC280bn; three revenue agencies interconnecting; E-Finance with Huawei over $150m.
+The DRC's finance minister, Doudou Fwamba, said on 3 September 2026 that monthly VAT receipts rose from an average of FC280bn to above FC320bn after VAT e-filing and standardised invoices were introduced. A data warehouse linking the three revenue agencies holds data from two of them, and he put funding for the Huawei-backed E-Finance programme at over US$150m.
 
 </div>
 
@@ -477,7 +477,7 @@ The DRC's digital economy minister said the prime minister had signed decrees cr
 
 **[Africa CDC Deploys Digital Tools, CHEWs To Strengthen Ebola Response In DRC](https://sciencenigeria.com/africa-cdc-deploys-digital-tools-chews-to-strengthen-ebola-response-in-drc/)** — Science Nigeria, 2 October 2026
 
-150+ devices incl. Starlink deployed, 742 more coming; DHIS2 for outbreak data; 71,000 community workers planned.
+Africa CDC said more than 150 internet devices, including Starlink systems, have been deployed to Ebola-affected health zones in the Democratic Republic of Congo to replace paper-based reporting, with 142 more due within two weeks and 600 being procured. Outbreak data run on DHIS2, and a second response plan mobilises 71,000 community health workers.
 
 </div>
 
@@ -493,7 +493,7 @@ The DRC's digital economy minister said the prime minister had signed decrees cr
 
 **[Semlex to face criminal trial in Belgium over Congo passport scandal](https://www.biometricupdate.com/202609/semlex-to-face-criminal-trial-in-belgium-over-congo-passport-scandal)** — Biometric Update, 1 September 2026
 
-14 face trial in Belgium over $60 diverted from every $185 Congo passport, near $60m total.
+Fourteen defendants in the case of Semlex, the Belgian firm that made the Democratic Republic of Congo's biometric passports from 2015 to 2025, have been sent to a Brussels criminal court on bribery, money laundering and tax fraud charges. Investigators allege about $60 of each $185 passport went to a Dubai firm, nearly $60 million in all; 51 Congolese citizens are civil parties.
 
 </div>
 
@@ -501,7 +501,7 @@ The DRC's digital economy minister said the prime minister had signed decrees cr
 
 **[RDC: Jean-Claude Mputu dénonce la continuité Semlex-RAM](https://www.congoquotidien.com/2026/09/02/mputu-denonce-continuite-semlex-ram/)** — CongoQuotidien, 2 September 2026
 
-CNPAV on the never-published 2020 renewal, the USD 185 to USD 100 passport price, and the RAM parallel.
+Jean-Claude Mputu, spokesman for the Congo Is Not For Sale coalition (CNPAV), said the Democratic Republic of Congo's passport contract with Semlex, renewed in 2020 when the original five-year deal expired, has never been published. The renewal, meant to last a year, ran until 2025; the only concession won was a passport price cut from $185 to $100.
 
 </div>
 
@@ -515,7 +515,7 @@ CNPAV on the never-published 2020 renewal, the USD 185 to USD 100 passport price
 
 **[RDC : Haut Conseil, carte Okapi et identification numérique…Crispin Mbadu détaille les réformes en faveur de la diaspora](https://7sur7.cd/2026/09/12/rdc-haut-conseil-carte-okapi-et-identification-numeriquecrispin-mbadu-detaille-les)** — 7sur7.cd, 12 September 2026
 
-OKAPI card for Congolese by origin holding foreign nationality; diaspora digital ID system in development.
+The Democratic Republic of Congo's minister delegate for the diaspora, Crispin Mbadu Phanzu, said in a first-year review reported on 12 September 2026 that his ministry has introduced the OKAPI card for Congolese by origin who took another nationality, and is developing a digital identification system for the diaspora. No launch date, issuing body or enrolment figure is given.
 
 </div>
 
@@ -523,7 +523,7 @@ OKAPI card for Congolese by origin holding foreign nationality; diaspora digital
 
 **[Diaspora congolaise : lancement à Paris et Bruxelles de la phase pilote de l’identification numérique](https://b-onetv.cd/diaspora-congolaise-lancement-a-paris-et-bruxelles-de-la-phase-pilote-de-lidentification-numerique/)** — B-one télévision, 30 September 2026
 
-Pilot opened Paris 27 Sept, Brussels 29 Sept 2026; diaspora.gouv.cd skills register; Carte Okapi for dual nationals.
+The Democratic Republic of Congo's minister delegate for the diaspora, Crispin Mbadu Phanzu, launched a pilot of digital identification for Congolese abroad at the embassy in Paris on 27 September 2026, and presented the registration platform diaspora.gouv.cd in Brussels two days later. Registrants record their education, specialisms and intended contributions. Extension to other missions is planned, with no dates given.
 
 </div>
 
@@ -537,7 +537,7 @@ Pilot opened Paris 27 Sept, Brussels 29 Sept 2026; diaspora.gouv.cd skills regis
 
 **[RDC : l'identification de la population annoncée pour la mi-décembre 2026](https://www.opinion-info.cd/politique/2026/09/12/rdc-lidentification-de-la-population-annoncee-pour-la-mi-decembre-2026)** — Opinion Info, 12 September 2026
 
-98th Council of Ministers set mid-December 2026 for the start of ONIP population identification.
+The Democratic Republic of the Congo plans to start national population identification in mid-December 2026, the 98th Council of Ministers heard from interior minister Jacquemain Shabani. The national population identification office, ONIP, will run the operation. The government said funding expected from partners and ONIP's own capacity could affect the timetable. No cost is given.
 
 </div>
 
@@ -545,7 +545,7 @@ Pilot opened Paris 27 Sept, Brussels 29 Sept 2026; diaspora.gouv.cd skills regis
 
 **[RDC : ce qu'il faut retenir de l'identification de la population et du recensement général de la population](https://beto.cd/onip-rgph2-deux-comptages-population-autorite-protection-donnees/)** — Beto.cd, 13 September 2026
 
-Two administrations will count Congolese in parallel while the data protection authority is not installed.
+The Democratic Republic of Congo's Council of Ministers, in a report read on 11 September 2026, set mass identification by the identity office ONIP to begin in December 2026 and the second general census to be enumerated in 2027. The two exercises fall under different ministries and budgets. The data protection authority has not yet been installed.
 
 </div>
 
@@ -603,7 +603,7 @@ The Democratic Republic of Congo's RDC-Pass digital identity project entered its
 
 **[RDC : l'ONIP réaffirme son engagement en faveur d'un système national sécurisé d'identification](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/)** — Agence Congolaise de Presse (ACP), 17 September 2026
 
-ONIP says collection for the national population identification system starts December 2026.
+DR Congo's national population identification office (ONIP) said on International Identity Day, 16 September 2026, that preparations for the national identification system are complete and data collection will start in December 2026, as a step towards a general population register. It said data security, privacy and transparency must be guaranteed as identification systems become interconnected.
 
 </div>
 
@@ -633,7 +633,7 @@ The Central Bank of Congo instructed its technical services to draw up a roadmap
 
 **[Presumee cyber-maffia a la Banque Centrale sur les recettes de la DGI : versions croisees](https://congoguardian.com/2026/09/10/presumee-cyber-maffia-a-la-banque-centrale-sur-les-recettes-de-la-dgi-versions-croisees/)** — Congo Guardian, 10 September 2026
 
-DGI letter of 3 September alleges revenue siphoning via ISYS-REGIES; BCC's 10 September reply denies any tampering.
+The Democratic Republic of Congo's tax directorate wrote to the finance minister on 3 September 2026 alleging that central bank staff siphoned tax revenue by manipulating the ISYS-REGIES revenue platform, and sought their suspension and a judicial inquiry. On 10 September the Banque Centrale du Congo denied it, saying every action on the platform is logged and cannot be altered after validation.
 
 </div>
 
@@ -641,7 +641,7 @@ DGI letter of 3 September alleges revenue siphoning via ISYS-REGIES; BCC's 10 Se
 
 **[RDC : la BCC dement toute manipulation des recettes de l'Etat et clarifie les ecarts entre Isys-regies et Navision](https://actualite.cd/2026/09/11/rdc-la-bcc-dement-toute-manipulation-des-recettes-de-letat-et-clarifie-les-ecarts-entre)** — Actualite.cd, 11 September 2026
 
-Dates ISYS-REGIES to a 2021 AFD-backed build and a 12.5m euro 2021 convention behind the revenue chain.
+The Central Bank of Congo denied on 10 September 2026 that state revenue had been deleted or altered in ISYS-RÉGIES, its revenue-collection platform built since 2021 with the French development agency AFD. It said gaps against its NAVISION accounting system mostly involve the savings bank CADECO, which is outside its clearing house, and are settled in a monthly reconciliation. AFD and the finance ministry signed a €12.5 million convention in 2021 to digitise and link the revenue agencies.
 
 </div>
 
@@ -655,7 +655,7 @@ Dates ISYS-REGIES to a 2021 AFD-backed build and a 12.5m euro 2021 convention be
 
 **[DRC Microfinance Institutions Seek Digital Support Ahead of Dollar Cash Ban](https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban)** — BANKABLE, 14 September 2026
 
-Microfinance bodies seek support before the central bank's 2027-04-09 ban on US dollar cash transactions.
+Microfinance institutions in the Democratic Republic of Congo are seeking financial and technical support to move to digital payments before the central bank's ban on US dollar cash transactions takes effect on 9 April 2027. An August 2026 report by the microfinance and savings cooperative associations, ANIMF and APROCEC, with Innogence Consulting, names the deadline as a main constraint for smaller institutions.
 
 </div>
 
@@ -683,7 +683,7 @@ DR Congo joined the Pan-African Payment and Settlement System on 18 September 20
 
 **[Communiqué de presse N°163/2026 : le Ministère de l'Économie Nationale lance « LOBA », une plateforme numérique dédiée à la protection des consommateurs](https://economie.gouv.cd/communique/95)** — Ministère de l'Économie Nationale (RDC), Cellule de communication, 5 October 2026
 
-National launch 6 October 2026; COMCO with sector regulators; WhatsApp chatbot and mobile app; complaint tracking.
+The Democratic Republic of the Congo's Ministry of National Economy launched LOBA, a national consumer-protection platform, from 6 October 2026. Run through the Competition Commission (COMCO) with sector regulators covering telecoms, banking, insurance, electricity and health, it lets consumers report abuses, learn their rights and track complaints via a WhatsApp chatbot and a mobile app.
 
 </div>
 
@@ -713,7 +713,7 @@ The Democratic Republic of the Congo's standards control office plans a national
 
 **[RDC : Félix Tshisekedi veut instaurer un identifiant numérique unique pour les entreprises](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/)** — numerico.cd, 29 September 2026
 
-99th Council of Ministers, 25 Sep: three-month deadline; interoperable systems, harmonised texts, report due.
+The Democratic Republic of Congo's President Félix Tshisekedi gave the government three months, at the Council of Ministers on 25 September 2026, to set up a single identifier for businesses recognised by all public administrations. The plan relies on interoperable public information systems and harmonised legal texts, and a report on the mechanism and timetable is due within the three months.
 
 </div>
 
@@ -743,7 +743,7 @@ The DRC's land affairs minister said implementation of the December 2025 land la
 
 **[Health officials turn to mobile-phone data to track Ebola spread in Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/health-officials-turn-mobile-phone-data-track-ebola-spread-congo-2026-09-03/)** — Reuters, 3 September 2026
 
-First use of anonymised call records in an Ebola response; the data flagged Kisangani before cases appeared.
+The World Health Organization and the non-profit Flowminder are using anonymised Vodacom mobile-phone records to map population movement and predict where the Democratic Republic of Congo's Ebola outbreak will spread, the first such use in an Ebola response, Reuters reported on 3 September 2026. The data flagged Kisangani as at risk before cases appeared there. The outbreak has infected more than 6,250 people and killed 3,039.
 
 </div>
 
@@ -781,7 +781,7 @@ The DRC's tax directorate began nationwide checks of the standardised invoice on
 
 **[Lancement officiel de la plateforme SYGREM par le VPM Jean Pierre Bemba fruit du partenariat entre l’OGEFREM et PADS Corporation](https://transports.gouv.cd/lancement-officiel-de-la-plateforme-sygrem-par-le-vpm-jean-pierre-bemba-fruit-du-partenariat-entre-logefrem-et-pads-corporation/)** — Ministere des Transports RDC, 2 September 2026
 
-Ogefrem and PADS digitise the FERI, AD and FERE freight documents with geolocation and online payment.
+DR Congo's transport minister Jean-Pierre Bemba launched SYGREM, a freight-charge management platform built by the freight office Ogefrem with PADS Corporation, in Kinshasa on 1 September 2026. It digitises the FERI, AD and FERE freight-tracking documents and adds geolocation and online payment, with receipts paid into dedicated Ogefrem bank accounts.
 
 </div>
 
@@ -809,7 +809,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[RDC : Julien Paluku vante la dématérialisation des procédures commerciales pour lutter contre la corruption](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/)** — DeskNews, 17 September 2026
 
-93 of 98 foreign-trade documents dematerialised; the single window is now wired to customs' SYDONIA World.
+DR Congo's foreign trade minister Julien Paluku Kahongya told the WTO Public Forum in Geneva on 17 September 2026 that 93 of the 98 documents needed for foreign trade have been digitised, with the rest due by end-2026. He said the foreign-trade single window is now linked to the customs authority's SYDONIA World system.
 
 </div>
 
@@ -845,7 +845,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[CENI : Denis Kadima lance la numérisation des archives et la formation de 762 cadres et agents](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/)** — Dépêche.cd, 1 October 2026
 
-Archives since 2005 into one secure repository; 762 staff trained in four phases, AI in the syllabus.
+The Democratic Republic of Congo's electoral commission, CENI, launched a programme in Kinshasa on 28 September 2026 to digitise electoral archives produced since 2005 into a single secure document repository. Its president, Denis Kadima, also launched training in four phases for 762 staff, including AI applied to elections. No cost or funder is stated.
 
 </div>
 
@@ -859,7 +859,7 @@ Archives since 2005 into one secure repository; 762 staff trained in four phases
 
 **[RDC : Kinshasa accélère la mise en œuvre du visa électronique afin de moderniser le traitement des demandes via un système numérique](https://ecomine.cd/web/index.php/actualite/2026/10/14/rdc-kinshasa-accelere-la-mise-en-oeuvre-du-visa-electronique-afin-de)** — Ecomine, 14 October 2026
 
-Foreign and digital economy ministers meet 14 Oct 2026; centralised visa processing, no timetable or technical detail.
+DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy minister, Augustin Kibassa Maliba, met on 14 October 2026 to advance an integrated platform for processing electronic visa applications. No technical details, rollout timetable or access conditions were given.
 
 </div>
 
@@ -877,7 +877,7 @@ Foreign and digital economy ministers meet 14 Oct 2026; centralised visa process
 
 **[André Wameso à Nairobi : Quand la BCC plaide pour une intelligence artificielle au service des Banques centrales africaines](https://rdc-monde.com/andre-wameso-a-nairobi-quand-la-bcc-plaide-pour-une-intelligence-artificielle-au-service-des-banques-centrales-africaines/)** — Magazine RD Congo-Monde, 18 September 2026
 
-Four AI workstreams for the BCC, and an internal audit of the financial ecosystem before any major deployment.
+The governor of DR Congo's central bank, André Wameso, told the Central Bank of Kenya's AI conference in Nairobi on 16 September 2026 that the bank plans to use AI in macroeconomic forecasting, banking supervision, payment-system oversight and decision support. He said an internal audit of the national financial system and a consultation of local experts will come before any major deployment.
 
 </div>
 
@@ -905,7 +905,7 @@ DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic'
 
 **[Intelligence artificielle en RDC : la notoriété progresse, les usages s’accélèrent \[Target\]](https://globalnewsrdc.net/societe/intelligence-artificielle-en-rdc-la-notoriete-progresse-les-usages-saccelerent-target/)** — globalnewsrdc, 6 October 2026
 
-AI awareness 54% to 61%, use 24% to 47% (2025-26); 2,280 respondents; gender and regional gaps; ChatGPT leads.
+A survey by the DR Congo consultancy Target Sarl of 2,280 adults in the 26 provincial capitals, conducted from 16 to 22 March 2026, found awareness of artificial intelligence rose from 54% in 2025 to 61%, and use from 24% to 47%. Use stands at 54% among men and 41% among women, and ChatGPT is the most used tool.
 
 </div>
 
@@ -921,7 +921,7 @@ AI awareness 54% to 61%, use 24% to 47% (2025-26); 2,280 respondents; gender and
 
 **[Entrepreneuriat numérique en RDC : TRANSFORME et le PTN préparent le COPA Digital avec l’appui de la Banque mondiale](https://www.transforme.cd/activities/entrepreneuriat-numerique-en-rdc-transforme-et-le-ptn-preparent-le-copa-digital-avec-l-appui-de-la-banque-mondiale)** — TRANSFORME (UCP), 18 September 2026
 
-PTN and TRANSFORME sign 2026-09-18 protocol; 16-month pilot, grant sizes and eligibility not yet published.
+DR Congo's World Bank-financed Digital Transformation Project (PTN) and the TRANSFORME project signed an agreement in Kinshasa on 18 September 2026 to run COPA Digital, a grant competition for digital startups, small firms and incubators, using TRANSFORME's competition platform and procedures. The first cycle is a pilot of about 16 months. Eligibility rules, grant amounts and the opening date have not been published.
 
 </div>
 
@@ -953,7 +953,7 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 **[Année scolaire 2026-2027 : Une reprise effective des cours sur toute l'étendue du territoire national malgré les défis sécuritaires et sanitaires](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires)** — MINEDU-NC RDC, 3 September 2026
 
-Light distance learning by worksheet and radio for 18 Ebola high-risk sub-divisions, no internet needed.
+The Democratic Republic of the Congo's education ministry reported that classes resumed on 1 September 2026 in all 60 educational provinces. In 18 sub-divisions classed as high risk for Ebola, the education and health ministries are providing distance learning through worksheets and radio or television broadcasts, designed so families need no internet access or digital equipment.
 
 </div>
 
@@ -993,7 +993,7 @@ The cartography phase of the DRC's second population census is being operational
 
 **[Recensement, identification et enrôlement en RDC : ce qu’il faut savoir](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)** — 7sur7.cd, 1 October 2026
 
-Census counts, identification issues ID cards; RGPH-2 costed USD 192m, enumeration July 2027, ends late 2027.
+Two DRC ministers, Patrick Muyaya and Guylain Nyembo, said on 30 September 2026 that the second population and housing census counts people but does not identify them, unlike the separate identification process that is to issue national identity cards. Census mapping began on 28 September; enumeration starts in July 2027, and the operation is costed at US$192m.
 
 </div>
 
@@ -1009,7 +1009,7 @@ Census counts, identification issues ID cards; RGPH-2 costed USD 192m, enumerati
 
 **[RDC : alerte sur l'urgence d'élaborer une politique de gestion des données environnementales](https://acp.cd/science-sante-environnement/rdc-alerte-sur-lurgence-delaborer-une-politique-de-gestion-des-donnees-environnementales/)** — Agence Congolaise de Presse (ACP), 6 September 2026
 
-ACCOS study: over 125 synoptic weather stations and 400 hydrometric stations in the 1960s, few still working.
+The Congolese Academy of Sciences published a study urging the Democratic Republic of the Congo to adopt a national policy on managing and securing environmental data. It notes that the country had over 125 synoptic weather stations and 400 hydrometric stations in the 1960s, of which few still work, and recommends a national integrated environmental data system modelled on a University of Kinshasa platform.
 
 </div>
 
@@ -1037,7 +1037,7 @@ The Democratic Republic of Congo is vesting its geological data in the state and
 
 **[Regulation of the mineral and raw materials sector in the DRC: measures to expand state control and ensure the preservation of geological data](https://the-port-brief.co.tz/article/regulation-of-the-mineral-and-raw-materials-sector-in-the-drc-measures-to-expand-state-control-and-ensure-the-preservation-of-geological-data)** — The Port Brief, 13 September 2026
 
-Kinshasa is digitising geological archives into a national mineral data bank to expand state control.
+DR Congo is building a national bank of geological data on critical minerals through its geological service SGNC, which signed a US$180 million mapping contract with Spain's Xcalibur in January 2026, its director Raoul Wazenga Vitima told Reuters. The bank is due to be fully operational by the end of 2026. Basic data will be free and more sensitive datasets charged for; the fee structure is not given.
 
 </div>
 

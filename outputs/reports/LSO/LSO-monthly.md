@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: LSO
 ledger_rows: 16
 not_held: 4
-record: c896c39ab51e
+record: 68a2ff9a7bee
 ---
 
 # Lesotho: monthly update, September – October 2026
@@ -83,7 +83,7 @@ record: c896c39ab51e
 
 **[Stakeholders Engage on Cybersecurity Bill 2026](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/)** — Government of Lesotho — Department of Information, 23 September 2026
 
-Second consultation after the Aug 2026 draft; two-tier regime, registration of practitioners; LCA the interim CSIRT.
+Lesotho's information and communications ministry, with the Lesotho Communications Authority and UNDP, held a two-day consultation on the Cybersecurity Bill 2026 in Maseru, reported on 23 September 2026. Cabinet split the 2024 Computer Crime and Cybersecurity Bill into separate cybercrime and cybersecurity bills; the new bill proposes a two-tier regulatory regime and registration of cybersecurity professionals.
 
 </div>
 
@@ -97,7 +97,7 @@ Second consultation after the Aug 2026 draft; two-tier regime, registration of p
 
 **[MICSTI ON ELECTRONIC TRANSACTIONS, COMMUNICATIONS BILL](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/)** — Government of Lesotho, 29 September 2026
 
-Validation workshop from 28 Sept 2026; e-contracts, signatures and records, SADC-aligned, UNDP-supported.
+Lesotho's information and communications ministry held a two-day validation workshop in Maseru from 28 September 2026 on the Electronic Transactions and Communications Bill, 2026, supported by UNDP. The bill would give legal recognition to electronic contracts, signatures and records and is aligned with the revised SADC framework; the ministry says Lesotho has no law on electronic transactions.
 
 </div>
 
@@ -121,7 +121,7 @@ Lesotho's ICT ministry held a two-day validation workshop with UNDP on the Elect
 
 **[Ramashamole Champions Safe Digital Public Infrastructure at UNGA81](https://www.gov.ls/development/ramashamole-champions-safe-digital-public-infrastructure-at-unga81/)** — Government of Lesotho — Department of Information / Lesotho News Agency, 23 September 2026
 
-DPI Safeguards for Children built with UNICEF Lesotho, piloted with NUL across five ministries; UNGA81 remarks.
+Lesotho's ICT ministry has developed safeguards for children in digital public infrastructure with UNICEF Lesotho and is piloting them with the National University of Lesotho across five ministries, Principal Secretary Kanono Ramashamole told side meetings at the 81st UN General Assembly. He also spoke on financing, total cost of ownership and procurement of digital public infrastructure.
 
 </div>
 
@@ -137,7 +137,7 @@ DPI Safeguards for Children built with UNICEF Lesotho, piloted with NUL across f
 
 **[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Smart One-Stop Border Posts at Maseru and Ficksburg among the mid-term review's agreed outcomes.
+Lesotho and South Africa concluded a mid-term review of their Bi-National Commission in Pretoria on 9 September 2026 after three days of talks. Outcomes included faster work on Smart One-Stop Border Posts at Maseru and Ficksburg, progress on a new migration model for labour mobility, and Phase II of the Lesotho Highlands Water Project. The next full session is set for South Africa in 2027.
 
 </div>
 
@@ -151,7 +151,7 @@ Smart One-Stop Border Posts at Maseru and Ficksburg among the mid-term review's 
 
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
 
-Regulators' MoU of 3 Oct 2026: coordinated incident response, audits, training, joint research and information exchange.
+The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
 
 </div>
 
@@ -169,7 +169,7 @@ Regulators' MoU of 3 Oct 2026: coordinated incident response, audits, training, 
 
 **[Vodacom Lesotho Launches Enterprise Satellite Connectivity Solution Powered by Starlink](https://spaceinafrica.com/2026/10/09/vodacom-lesotho-launches-enterprise-satellite-connectivity-solution-powered-by-starlink/)** — Space in Africa, 9 October 2026
 
-Primary, backup and hybrid modes; Starlink licensed April 2025, at 25 police stations by June 2026.
+Vodacom Lesotho launched a managed satellite internet service for businesses and institutions built on Starlink, at an event in Maseru reported on 9 October 2026. It offers primary connectivity where there are no terrestrial networks, a backup option, and a combined satellite and terrestrial mode. Target sectors include financial services, health, education and public administration; no prices are given.
 
 </div>
 
@@ -211,7 +211,7 @@ The public works minister holds shares in a firm the energy minister named among
 
 **[Public-Private Dialogue reforms stalled in nine areas, Matekane says](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/)** — Lesotho Tribune, 27 September 2026
 
-Nine reforms stalled; single window cost M50m, runs without its own Act; CBL e-payment gateway still in build.
+Lesotho's prime minister, Sam Matekane, told a public-private dialogue forum in May 2026 that nine agreed reforms had not started or were awaiting Cabinet, according to a World Bank-funded project newsletter reported on 27 September. The same newsletter says the National Single Window operates without its own law and the central bank is still building a government e-payment gateway.
 
 </div>
 
@@ -227,7 +227,7 @@ Nine reforms stalled; single window cost M50m, runs without its own Act; CBL e-p
 
 **[Vodacom launches voucher-free airtime service](https://lestimes.com/?p=91407)** — Lesotho Times, 4 September 2026
 
-Vodacom Lesotho Dynamic Airtime drops physical vouchers; electronic top-ups from M1.50, launched week of 4 Sep 2026.
+Vodacom Lesotho launched Dynamic Airtime in the week of 4 September 2026, letting customers buy airtime electronically in any amount from M1.50 instead of using fixed-value physical vouchers. Vendors enter the customer's number and amount and confirm the name registered to the SIM before the airtime is credited.
 
 </div>
 
@@ -281,7 +281,7 @@ A World Bank urban and land team told Lesotho's communications ministry it is in
 
 **[The Government of Lesotho tabled a National Data Value Creation Blueprint draft to position Lesotho competitively on the international digital landscape](https://www.gov.ls/ict/the-government-of-lesotho-tabled-a-national-data-value-creation-blueprint-draft-to-position-lesotho-competitively-on-the-international-digital-landscape/)** — Government of Lesotho (sourced from Lesotho News Agency, LENA), 16 September 2026
 
-MICSTI tables the draft blueprint for validation across four areas, with Smart Africa Digital Academy guiding.
+Lesotho's Ministry of Information, Communications, Science, Technology and Innovation presented a draft National Data Value Creation Blueprint for validation at a workshop in Maseru, reported on 16 September 2026. Participants reviewed its strategic framework, priority use cases and required infrastructure, with three to five flagship use cases to be selected. The Smart Africa Digital Academy is guiding the work; the draft itself is not published.
 
 </div>
 
@@ -289,7 +289,7 @@ MICSTI tables the draft blueprint for validation across four areas, with Smart A
 
 **[Lesotho makes history](https://lestimes.com/?p=91596)** — Lesotho Times, 17 September 2026
 
-Ecosystem diagnostic rates Lesotho's data ecosystem emerging but fragmented, with 11 priority gaps.
+Lesotho became the first country to validate a Smart Africa Data Value Creation Blueprint, at a workshop in Maseru convened by its ICT ministry with Smart Africa and GIZ. An accompanying diagnostic calls the country's data ecosystem emerging but fragmented, rates data quality, access and interoperability weakest of five dimensions, and lists 11 priority gaps.
 
 </div>
 
@@ -307,7 +307,7 @@ Ecosystem diagnostic rates Lesotho's data ecosystem emerging but fragmented, wit
 
 **[Lesotho First Country to Implement UN AI Blueprint](https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/)** — Government of Lesotho — Department of Information, 23 September 2026
 
-PM Matekane at UN Digital Cooperation Day, UNGA81; Phase One of National Compute Roadmap 2026-2029 begun.
+Lesotho's prime minister, Samuel Matekane, told the second UN Digital Cooperation Day in New York that Lesotho is the first country to implement the UN AI Blueprint. He said planning is complete and Phase One of a National Compute Roadmap for 2026 to 2029 has begun, after more than a year of assessing compute, data-centre, connectivity, skills and financing needs. No cost is given.
 
 </div>
 

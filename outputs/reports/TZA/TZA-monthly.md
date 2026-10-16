@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TZA
 ledger_rows: 72
 not_held: 5
-record: 7a98b5e2a9b9
+record: e2727376cb7c
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -135,7 +135,7 @@ Tanzania's journalists accreditation board said content creators doing journalis
 
 **[The Citizen Budget 2026/27](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf)** — Ministry of Finance, United Republic of Tanzania, 22 September 2026
 
-Plain-language 2026/27 budget: TZS 54.50trn spending, revenue measures incl. digital service tax raised from 2% to 3%.
+Tanzania's finance ministry published its Citizen Budget for 2026/27, a 34-page plain-language account of spending of TZS 54.50 trillion, revenue sources, deficit and financing. Its revenue measures include raising the digital service tax on foreign digital service providers from 2% to 3%. The document carries no issue date.
 
 </div>
 
@@ -149,7 +149,7 @@ Plain-language 2026/27 budget: TZS 54.50trn spending, revenue measures incl. dig
 
 **[Digital Payments Now a Business Licensing Requirement](https://fbattorneys.co.tz/digital-payments-now-a-business-licensing-requirement/)** — FB Attorneys, 9 October 2026
 
-Law-firm reading of GN 158N: Lipa Namba or TANQR proof for licences from 1 July 2026; bank account for five sectors.
+Law firm FB Attorneys notes that Tanzania's Business Licensing (Amendment) Regulations, 2026, published as Government Notice 158N on 30 June and in force from 1 July 2026, require applicants for new or renewed business licences to show they can take digital payments, such as Lipa Namba or TANQR. Businesses in minerals, livestock, agricultural produce, timber and fisheries must also show a bank account.
 
 </div>
 
@@ -165,7 +165,7 @@ Law-firm reading of GN 158N: Lipa Namba or TANQR proof for licences from 1 July 
 
 **[Tanzania: Over 1.8 Million Children Reached in Online Safety Push](https://allafrica.com/stories/202609010237.html)** — Tanzania Daily News via AllAfrica, 1 September 2026
 
-1,811,212 children reached across all 26 mainland regions; a national advisory committee established.
+Tanzania has set up a National Advisory Committee on Online Child Protection and Safety and reached 1,811,212 children with online-safety education across all 26 mainland regions, Deputy Minister Maryprisca Mahundi told the National Assembly on 31 August 2026. The committee includes the ministry responsible for ICT and will advise on strategies against online risks to children.
 
 </div>
 
@@ -179,7 +179,7 @@ Law-firm reading of GN 158N: Lipa Namba or TANQR proof for licences from 1 July 
 
 **[PDPC bolsters safeguards as personal data use expands](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html)** — The Respondents Online, 7 October 2026
 
-15,146 institutions registered, 445 complaints by Aug 2026; 300+ DPOs trained in Morogoro, eighth phase.
+Tanzania's Personal Data Protection Commission had registered 15,146 institutions and received 445 personal-data complaints by August 2026, according to its published figures. It trained more than 300 data protection officers from public and private institutions in Morogoro on 7-8 October 2026, the eighth phase of its programme under the Personal Data Protection Act.
 
 </div>
 
@@ -195,7 +195,7 @@ Law-firm reading of GN 158N: Lipa Namba or TANQR proof for licences from 1 July 
 
 **[Serikali yaandaa mwongozo kudhibiti utitiri wa nguzo za fiber mitaani](https://www.mwananchi.co.tz/mw/zanzibar/habari/serikali-yaandaa-mwongozo-kudhibiti-utitiri-wa-nguzo-za-fiber-mitaani-5589092)** — Mwananchi, 9 September 2026
 
-Single-contractor or shared-pole rule proposed against ISP fibre-to-the-home pole clutter in Unguja streets.
+Zanzibar's deputy minister for communications, Mohamed Sijamin Mohamed, told the House of Representatives on 9 September 2026 that the government is drafting a guideline on installing and sharing communications infrastructure. It responds to the spread of street poles erected by each internet provider for fibre-to-the-home. The guideline would promote a single fibre contractor or shared poles. No date for adoption is given.
 
 </div>
 
@@ -245,7 +245,7 @@ Tanzania's Prime Minister told the registration authority to put a legally backe
 
 **[Tanzania na Korea zatafuta Ushirikiano Imara wa Kiuchumi](https://www.jamhurimedia.co.tz/tanzania-na-korea-zatafuta-ushirikiano-imara-wa-kiuchumi/)** — Jamhuri Media, 12 September 2026
 
-Tanzania and Korea agreed to speed delivery of a US$2.5bn pledge covering technology among five sectors.
+Tanzania and South Korea agreed to speed up delivery of a US$2.5 billion Korean pledge for projects in transport, technology, culture, industry and health, Tanzania's finance minister Khamis Mussa Omar said in Seoul on the margins of the Korea-Africa economic cooperation meeting, reported on 12 September 2026. Korea Eximbank implements the funds. He cited years-long delays in some projects.
 
 </div>
 
@@ -261,7 +261,7 @@ Tanzania and Korea agreed to speed delivery of a US$2.5bn pledge covering techno
 
 **[Tanzania Yapiga Hatua Kubwa Katika Ujenzi wa Miundombinu ya Digital](https://www.jamhurimedia.co.tz/tanzania-yapiga-hatua-kubwa-katika-ujenzi-wa-miundombinu-ya-digital/)** — Jamhuri Media, 14 September 2026
 
-Digital Tanzania Project due to complete 2026-10-31, ICT director Priscus Kiwango says.
+Tanzania's Digital Tanzania Project, funded since 2021 by a US$150 million World Bank loan, is due to close on 31 October 2026, an ICT director in the President's Office said on 14 September 2026. Officials said it has built 758 new towers, upgraded 304 to 3G and 4G, added 60 Gbps of government internet capacity, and opened 32 one-stop service centres in post office buildings.
 
 </div>
 
@@ -413,7 +413,7 @@ The Tanzania Internet eXchange in Dar es Salaam upgraded its core switching to 1
 
 **[Helios Towers partners with UNICEF to accelerate digital inclusion and expand learning opportunities for children across Africa](https://www.unicef.org.uk/press-releases/helios-towers-partners-with-unicef-to-accelerate-digital-inclusion-and-expand-learning-opportunities-for-children-across-africa/)** — UNICEF UK, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
 
-Multi-year Giga and Learning Passport support, starting in DRC, Malawi and Tanzania; a West African country to follow.
+Helios Towers and UNICEF announced a multi-year partnership on 28 September 2026 supporting UNICEF's Giga school-connectivity initiative and its Learning Passport digital-learning programme, starting in the Democratic Republic of Congo, Malawi and Tanzania. Helios Towers will support school connectivity mapping and infrastructure. No funding figure is given.
 
 </div>
 
@@ -457,7 +457,7 @@ Tanzania's TCRA gave telecoms providers 30 days to correct faults found in inspe
 
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
-Data centre and public internet funded; startups bill with grant-and-loan fund due for first reading Nov or Dec 2026.
+Zanzibar's government has set aside more than TZS 53 billion for three ICT infrastructure projects, chiefly a data centre and public internet, communication minister Mudrik Ramadhan Soraga said on 2 October 2026. He said a draft startups bill creating a fund of grants and low-cost loans is due for first reading in November or December 2026.
 
 </div>
 
@@ -513,7 +513,7 @@ Communications stakeholders in Rukwa have proposed tighter SIM card registration
 
 **[Sekta binafsi kuendelea kushirikishwa kuboresha huduma za afya nchini](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini)** — Wizara ya Afya (Ministry of Health, Tanzania), 9 September 2026
 
-Permanent secretary Grace Magembe: health systems consolidated, national Health Data Centre in preparation.
+Tanzania's health ministry permanent secretary, Dr Grace Magembe, said on 9 September 2026 that the government is cutting the number of separate digital health systems so the rest can exchange data, and linking private and public systems. Speaking at a primary health care conference in Arusha, she said a national Health Data Centre is being prepared to bring health information into one point of access.
 
 </div>
 
@@ -527,7 +527,7 @@ Permanent secretary Grace Magembe: health systems consolidated, national Health 
 
 **[IFC and BOT Sign Agreement to Expand SME Credit Access](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing)** — TanzaniaInvest, 5 October 2026
 
-IFC technical help on credit information systems and alternative data; MSME loans TZS 10,409.1bn (BoT, 2025).
+The International Finance Corporation and the Bank of Tanzania signed an agreement to strengthen Tanzania's credit reporting system, reported on 5 October 2026. IFC will give technical help on credit information systems and the use of alternative data in credit assessment, to widen lending to small businesses. No signing date or value is given.
 
 </div>
 
@@ -541,7 +541,7 @@ IFC technical help on credit information systems and alternative data; MSME loan
 
 **[Serikali yawataka wasafirishaji kuunganisha mifumo ya ufuatiliaji wa vifurushi](https://www.mawasiliano.go.tz/news/serikali-yawataka-wasafirishaji-kuunganisha-mifumo-ya-ufuatiliaji-wa-vifurushi-2)** — Ministry of Communications and Information Technology (Tanzania), 10 October 2026
 
-Couriers told to link parcel tracking to national systems and TCRA's Communication Monitoring System; World Post Day.
+Tanzania's Deputy Minister for Communication and IT, Switbert Mkama, called on parcel and express courier companies on 10 October 2026, World Post Day, to register and connect their tracking systems to national tracking and information-exchange systems. He commended couriers already linking to the Communication Monitoring System overseen by the regulator TCRA.
 
 </div>
 
@@ -629,7 +629,7 @@ Tanzania's home affairs minister said 6,308 national identity cards printed for 
 
 **[NIDA yako kuwa 'JAMII NAMBA', huduma 9 kuunganishwa](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)** — Nipashe (IPP Media), 17 September 2026
 
-NIDA to raise the national ID from four data fields to nine, and is in talks with BoT on ID-based payments.
+The director-general of Tanzania's National Identification Authority (NIDA), James Kaji, said in Dar es Salaam on 16 September 2026 that the national ID will be linked to nine services instead of the current four. Planned links include birth certificates, health insurance, taxpayer numbers, driving licences and blood group. No timetable or cost is given.
 
 </div>
 
@@ -659,7 +659,7 @@ Active mobile money subscriptions in Tanzania reached 87.05 million in June 2026
 
 **[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across a $49bn financing gap.
+The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
 </div>
 
@@ -667,7 +667,7 @@ AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across
 
 **[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
 
-Names the money behind the launch: a US$160m 2025 AfDB loan to AXIAN Telecom, a US$2.5m grant and US$10m+ via MVola.
+The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 
 </div>
 
@@ -695,7 +695,7 @@ A foundation, a mobile money service and a business operator signed a partnershi
 
 **[KCB rolls out digital school-fees platform nationwide](https://www.thecitizen.co.tz/tanzania/news/national/kcb-rolls-out-digital-school-fees-platform-nationwide-5599424)** — The Citizen, 18 September 2026
 
-18 schools live after a Marian Schools pilot; control-number billing, Mixx agents collect, Zanzibar next.
+KCB Bank Tanzania began a nationwide rollout of Zed360, a school-fees platform acquired with its purchase of fintech RiverBank, with 18 schools using it, The Citizen reported on 18 September 2026. Each student gets an invoice or control number linked to school records, and Mixx by Yas agents also collect payments. Managing director Cosmas Kimario said Zanzibar is included in the plan.
 
 </div>
 
@@ -709,7 +709,7 @@ A foundation, a mobile money service and a business operator signed a partnershi
 
 **[Tanzania: Cash Still King in Public Transport Despite Four-Year Digital Push](https://allafrica.com/stories/202609250125.html)** — Tanzania Daily News (via allAfrica), 25 September 2026
 
-LATRA: 4.7% of 62.18m ticketed passengers paid digitally over four years; e-payments 6.8% of TSh 2.13tn.
+Of 62.18 million passengers recorded through online ticketing in Tanzania's public transport over four years, 95.3 per cent paid cash and 4.7 per cent paid digitally, the Land Transport Regulatory Authority's director general Habibu Suluo said. Electronic payments made up TSh144.28 billion of TSh2.13 trillion collected, or 6.8 per cent, although the law requires electronic payment for several services.
 
 </div>
 
@@ -723,7 +723,7 @@ LATRA: 4.7% of 62.18m ticketed passengers paid digitally over four years; e-paym
 
 **[KCB, Zanzibar health fund expand healthcare access](https://ippmedia.co.tz/the-guardian/news/local-news/read/kcb-zanzibar-health-fund-expand-healthcare-access-2026-10-05-145433)** — The Guardian (Tanzania), 5 October 2026
 
-MoU: bank to handle ZHSF member registration, payment collection, settlement and technology integration.
+KCB Bank Tanzania and the Zanzibar Health Service Fund signed a memorandum of understanding on 5 October 2026. It covers member registration and enrolment, payment collection, banking and settlement services, and technology integration for the fund. No financial terms are given.
 
 </div>
 
@@ -739,7 +739,7 @@ MoU: bank to handle ZHSF member registration, payment collection, settlement and
 
 **[Tanzania Builds National Land Database Under NLDI Project](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services)** — TanzaniaInvest, 11 September 2026
 
-NLDI to centralise land records and geographic data; e-Ardhi and ILMIS named as the platforms it builds on.
+Tanzania's Ministry of Lands is building the National Land Data Infrastructure, a central store of official land records and geographic data, deputy minister Kaspar Mmuya said on a visit to the project offices in Dodoma. It will supply new aerial imagery and a platform for stakeholders to obtain data. On 8 September 2026 he told the valuers' and town planners' registration boards to speed up digital adoption.
 
 </div>
 
@@ -753,7 +753,7 @@ NLDI to centralise land records and geographic data; e-Ardhi and ILMIS named as 
 
 **[Mfumo wa e-Ardhi watua Kigoma: huduma za ardhi Kigoma kufanyika kidijitali](https://fullshangweblog.co.tz/2026/09/12/mfumo-wa-e-ardhi-watua-kigomahuduma-za-ardhi-kigoma-kufanyika-kidijitali/)** — Full Shangwe Blog, 12 September 2026
 
-e-Ardhi land system reached Kigoma, with officials from four councils trained on it.
+Tanzania's e-Ardhi land information system has been extended to Kigoma region, where land officers from the Kasulu Town, Kigoma-Ujiji, Uvinza and Kibondo councils are being trained on it. Officials said residents will be able to start or follow some land services online instead of travelling to land offices. No date for full operation is given.
 
 </div>
 
@@ -761,7 +761,7 @@ e-Ardhi land system reached Kigoma, with officials from four councils trained on
 
 **[e-Ardhi System Lets Tanzanians Sign Land Titles From Any Region](https://www.tanzaniainvest.com/construction/e-ardhi-digital-land-system)** — TanzaniaInvest, 20 September 2026
 
-Title deeds signable from any region; in use in Dodoma, Arusha, Tanga, Mbeya and Mwanza (Sept 2026).
+Tanzania's e-Ardhi land system now lets people sign title deeds from any region instead of travelling to where the service started, a Ruvuma lands official said in a Ministry of Lands broadcast reported on 20 September 2026. The system covers planning, surveying, allocation, registration and valuation, and is in use in Dodoma, Arusha, Tanga, Mbeya and Mwanza.
 
 </div>
 
@@ -789,7 +789,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Govt launches business law reforms to drive investment, tech innovation](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/govt-launches-business-law-reforms-to-drive-investment-tech-innovation-2026-10-12-115945)** — The Guardian (Tanzania), 12 October 2026
 
-BRELA Online Services: 5 of 7 modules live; Group B licences to move onto BOS with local government.
+Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October 2026 that five of the seven modules of the Business Registrations and Licensing Agency's upgraded online services system (BOS) are working, and ordered the rest completed on schedule. He welcomed plans to issue Group B business licences through BOS with local government authorities and called for stakeholder reviews of business laws.
 
 </div>
 
@@ -827,7 +827,7 @@ Tanzania and South Korea discussed using artificial intelligence, hospital infor
 
 **[Tanzania moves to integrate primary healthcare's digital systems to boost its services delivery](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/)** — Daily News, 10 September 2026
 
-Blueprint for community health worker technology, with a joint dashboard tracking services and payments.
+Tanzania is integrating the digital systems used in primary healthcare, including digital payments to community health workers, the ICT director at the Prime Minister's Office for regional and local government, Erick Kitali, said in Arusha on 10 September 2026. He said the government has prepared a blueprint including a joint dashboard to track services and payments from community to national level.
 
 </div>
 
@@ -855,7 +855,7 @@ Zanzibar's government is introducing a monitoring framework to curb delays in de
 
 **[Tanzania banks on e-Delivery digital system to monitor projects, improve coordination and financing](https://dailynews.co.tz/tanzania-banks-on-e-delivery-digital-system-to-monitor-projects-improve-coordination-and-financing/)** — Daily News, 16 September 2026
 
-e-Delivery to carry projects from planning through funding, tying fund releases to implementation stages.
+Tanzania is extending its e-Delivery system to track development projects from planning through funding and implementation, so that fund releases match each stage, Dr Tausi Kida of the President's Office for Planning and Investment told the National Planners' Conference 2026. The National Planning Commission will monitor implementation, and new guidelines require approved projects to align with Vision 2050.
 
 </div>
 
@@ -863,7 +863,7 @@ e-Delivery to carry projects from planning through funding, tying fund releases 
 
 **[Govt unveils digital system to track projects](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/)** — Daily News, 17 September 2026
 
-PS Tausi Kida ties development-fund releases to e-Delivery's real-time record at the 2026 planners' conference.
+Tanzania's planning permanent secretary Dr Tausi Kida presented e-Delivery, a real-time system for tracking state development projects from planning and funding to execution, at the National Planners' Conference in Arusha on 16 September 2026. She said fund releases will be matched to the progress it records, with the National Planning Commission monitoring each stage, and projects aligned with Vision 2050.
 
 </div>
 
@@ -877,7 +877,7 @@ PS Tausi Kida ties development-fund releases to e-Delivery's real-time record at
 
 **[Inclusive hiring gains pace as youth jobs drive grows](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560)** — The Citizen, 1 October 2026
 
-Disability register linked to 11 government systems; to match employer reports against the 3% hiring quota.
+Tanzania's Prime Minister's Office said its Persons with Disabilities Management Information System is linked to 11 government systems, including student, health and loan systems. Officials said it will match employer reports against the national disability register to check the 3% hiring quota for employers with 20 or more staff.
 
 </div>
 
@@ -935,7 +935,7 @@ Zanzibar's automated road cameras, which catch speeding, phone use and red-light
 
 **[Tanzania's Digital Procurement System Cuts Processing Time and Costs](https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/)** — The Business Wiz, 25 September 2026
 
-World Bank figures: processing cut from 234 to 79 days, 21 systems linked, US$12.5m saved in two years.
+Tanzania's National e-Procurement System (NeST), launched by the Public Procurement Regulatory Authority in 2023, has cut procurement processing time from 234 to 79 days and links 21 government systems, according to World Bank figures reported on 25 September 2026. Savings on printing and transport are put at US$12.5m over two years. The World Bank is providing US$15m over four years for the wider reform.
 
 </div>
 
@@ -967,7 +967,7 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 
 **[Tanzania Registers 150 Projects on e-Delivery System to Implement Vision 2050](https://www.tanzaniainvest.com/economy/e-delivery-150-projects-vision-2050)** — Tanzania Invest, 6 September 2026
 
-150 of a targeted 500+ projects registered on Tanzania's mandatory e-Delivery system since its 1 July 2026 launch.
+Tanzania's National Planning Commission has registered 150 development projects on its e-Delivery system since the platform launched on 1 July 2026, against a target of more than 500. Deputy Executive Secretary Sosthenes Kewe urged ministries in Dodoma to speed up registration, saying the system will help rank projects for the Vision 2050 plan.
 
 </div>
 
@@ -985,7 +985,7 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 
 **[What it takes to turn Tanzania’s startup ideas into global ventures](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972)** — The Citizen, 29 September 2026
 
-ICTC: National AI Strategic Framework 2026-2031 awaiting approval; AI readiness programme and observatory proposed.
+Tanzanian ICT ministry and ICT Commission officials visited Helsinki under the Digital for Tanzania twinning project with Finland, Estonia and Germany. A Commission official said the National AI Strategic Framework 2026–2031 is awaiting approval, and that the Commission proposes an AI readiness and compute demand assessment feeding a planned AI observatory.
 
 </div>
 
@@ -1045,7 +1045,7 @@ The UN Capital Development Fund counted 171 active fintech companies in Tanzania
 
 **[UNDP FUNGUO — fifth investee cohort, Tanzania, 2026](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future)** — United Nations Development Programme (UNDP), 1 September 2026
 
-TZS 1.3bn disbursed to 14 Tanzanian investees as FUNGUO's fifth cohort, September 2026.
+The UN Development Programme's FUNGUO innovation programme gave TZS 1.3bn to a fifth cohort of 14 Tanzanian businesses at the closing ceremony of Innovation Week Tanzania 2026. UNDP says FUNGUO has supported more than 100 businesses and channelled over US$3m to innovators since 2021. The 14 recipients are not named.
 
 </div>
 
@@ -1053,7 +1053,7 @@ TZS 1.3bn disbursed to 14 Tanzanian investees as FUNGUO's fifth cohort, Septembe
 
 **[9,000 sparks, one flame: inside the week that ignited Tanzania's trillion-dollar future](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future)** — United Nations Development Programme (UNDP), 10 September 2026
 
-FUNGUO at five: over US$3m to innovators since 2021; TZS 1.3bn to a 14-firm fifth cohort.
+More than 9,000 people attended the 12th Innovation Week Tanzania in Dar es Salaam, where the UN Development Programme's FUNGUO programme marked five years by giving TZS 1.3bn to a fifth cohort of 14 businesses, reported on 10 September 2026. The week also saw the launch of the Tanzania Innovation Nexus, a platform matching innovators with investors and mentors. FUNGUO says it has channelled over US$3m to innovators since 2021.
 
 </div>
 
@@ -1095,7 +1095,7 @@ Tanzanian innovators have built a second prototype of AI glasses for visually im
 
 **[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
 
-AEDIB 2.0 (2026-28) in Tanzania, Uganda, Senegal: WiT platform plus 12 EU-Africa ventures; bids close 23 Oct 2026.
+Enabel, the Belgian development agency, issued tender specifications for a consultancy to build a Women in Tech community platform and source 12 EU-Africa ventures under its AEDIB 2.0 programme in Tanzania, Uganda and Senegal for 2026 to 2028. The procedure is negotiated without prior publication; bids close on 23 October 2026. No contract value is stated.
 
 </div>
 
@@ -1109,7 +1109,7 @@ AEDIB 2.0 (2026-28) in Tanzania, Uganda, Senegal: WiT platform plus 12 EU-Africa
 
 **[Serikali yatenga Sh5 bilioni kwa ajili ya kampuni changa za Tehama](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578)** — Mwananchi, 2 October 2026
 
-Three loan tiers TZS 1m-100m via Azania Bank; Jamii Hunt registration; ICT Commission to draft procurement guide.
+Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for youth-owned ICT start-ups in Dodoma on 2 October 2026, run with Azania Bank. Loans come in three tiers from TZS 1m to TZS 100m, and applicants register on the Jamii Hunt system.
 
 </div>
 
@@ -1141,7 +1141,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[JKT puts digital patriotism at the heart of youth training](https://www.thecitizen.co.tz/tanzania/news/national/jkt-puts-digital-patriotism-at-the-heart-of-youth-training-5600324)** — The Citizen (Tanzania), 18 September 2026
 
-Digital patriotism enters the National Service curriculum; the 2026 intake began 8 September across all camps.
+Tanzania's National Service (JKT) has added digital patriotism, covering responsible use of social media, to its training curriculum, its commander Major General Rajabu Mabele said on 18 September 2026 at Kanembwa camp in Kigoma Region. This year's training, which began on 8 September across all camps, for the first time combined compulsory national-service recruits and volunteers.
 
 </div>
 
@@ -1157,7 +1157,7 @@ Digital patriotism enters the National Service curriculum; the 2026 intake began
 
 **[Tanzania's digital education transformation begins with the teacher](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/)** — Daily News (Tanzania), 5 September 2026
 
-Arusha, 1-4 Sep 2026: 10 of 15 ICT-CSTT modules delivered under UNESCO/Korean Funds-in-Trust Phase III.
+Government secondary school teachers in Arusha, Tanzania, took a four-day ICT course from 1 to 4 September 2026 under UNESCO's ICT Transforming Education in Africa Phase III project, funded by the Korean Funds-in-Trust. It covered beginner and intermediate modules of the national ICT Competency Standards for Teachers, including school data management and digital assessment. No project cost is given.
 
 </div>
 
@@ -1165,7 +1165,7 @@ Arusha, 1-4 Sep 2026: 10 of 15 ICT-CSTT modules delivered under UNESCO/Korean Fu
 
 **[ICT Competency Standards for Teachers in Tanzania](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf)** — Ministry of Education and Vocational Training, Tanzania / UNESCO Dar es Salaam, 2015
 
-Tanzania's 2015 ICT-CST framework — six UNESCO modules, two knowledge stages; a 2025 revision is not itself published.
+Tanzania's Ministry of Education and Vocational Training and UNESCO's Dar es Salaam office set ICT competency standards for teachers in 2015, adapting UNESCO's framework across six modules and two knowledge stages. A first version dating from 2011 was revised between May and July 2015. A 2025 revision referenced by the Tanzania Institute of Education is not published as a standalone document.
 
 </div>
 
@@ -1179,7 +1179,7 @@ Tanzania's 2015 ICT-CST framework — six UNESCO modules, two knowledge stages; 
 
 **[Serikali yaandaa vijana kwa uchumi kidigitali](https://timesmajira.co.tz/serikali-yaandaa-vijana-kwa-uchumi-kidigitali/)** — Timesmajira, 25 September 2026
 
-50 beneficiaries in 10-month data science and AI camp at NM-AIST, Arusha; deputy minister's visit 23 Sept.
+Tanzania's deputy education minister Wanu Hafidh Ameir met the 50 beneficiaries of the Samia Scholarship Extended DS/AI+ programme on 23 September 2026 at the Nelson Mandela African Institution of Science and Technology in Arusha. They are in a 10-month training camp in data science and artificial intelligence.
 
 </div>
 
@@ -1197,7 +1197,7 @@ Tanzania's 2015 ICT-CST framework — six UNESCO modules, two knowledge stages; 
 
 **[From Access to Impact: What Tanzania's NFIF3 Mid-Term Evaluation Really Shows](https://ticgl.com/from-access-to-impact-what-tanzanias-nfif3-mid-term-evaluation-really-shows/)** — TICGL / Tanzania Economic Research Institute, 1 September 2026
 
-TERI reads the NFIF3 mid-term scorecard: access points up 60.7% to 2,266,706, quality and welfare lagging.
+The Tanzania Economic Research Institute, TICGL's research arm, analysed the Bank of Tanzania's mid-term evaluation of the Third National Financial Inclusion Framework (2023–2028), covering December 2023 to December 2025. Access points grew 60.7% to 2,266,706 and active account use rose from 60% to 72.5% of adults. The institute finds service quality and household financial health improving more slowly.
 
 </div>
 
@@ -1211,7 +1211,7 @@ TERI reads the NFIF3 mid-term scorecard: access points up 60.7% to 2,266,706, qu
 
 **[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-GSMA's own account: refugee women in Ethiopia twice as likely to hold SIMs in others' names; Mbera fieldwork.
+The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
 
 </div>
 
@@ -1233,7 +1233,7 @@ GSMA research finds identity rules for SIM registration push refugee women in Et
 
 **[TCRA advances digital inclusion for PwDs through assistive technologies - Daily News](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)** — Daily News (Tanzania), 9 October 2026
 
-Change Initiative 80% complete; TBS recognises TCRA website under new ICT accessibility standard; 11.2% disabled (2022).
+Tanzania's communications regulator (TCRA) said its project to adopt assistive technologies for people with disabilities is 80% complete, at a peer exchange of African regulators in Nairobi from 5 to 9 October 2026 under the iPRIS programme. TCRA's website accessibility work was recognised by the Tanzania Bureau of Standards under a new ICT accessibility standard.
 
 </div>
 
@@ -1249,7 +1249,7 @@ Change Initiative 80% complete; TBS recognises TCRA website under new ICT access
 
 **[UCSAF to construct 250 ICT laboratories in public schools](https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools)** — Universal Communications Service Access Fund (UCSAF), 6 October 2026
 
-20 computers per lab this fiscal year; 1,121 schools equipped and 2,166 subsidised towers to date.
+Tanzania's Universal Communications Service Access Fund said on 5 October 2026 it will build 250 ICT laboratories of 20 computers each in public schools this financial year, instead of its earlier provision of about five computers per school. It reports more than 1,121 schools equipped so far and 2,166 subsidised towers completed in 2,306 wards.
 
 </div>
 

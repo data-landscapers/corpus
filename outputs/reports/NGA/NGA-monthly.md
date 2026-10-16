@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NGA
 ledger_rows: 151
 not_held: 9
-record: 816398458c5c
+record: 08485daa6561
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -125,7 +125,7 @@ record: 816398458c5c
 
 **[Nigeria harnesses $1bn public IT demand to power data cloud ecosystem](https://consumerconnectng.com/?p=4058)** — ConsumerConnect, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
 
-Kashifu Inuwa Abdullahi at ITW Data Cloud Africa 2026: US$1bn public IT demand as anchor for a domestic cloud ecosystem.
+The director-general of Nigeria's National Information Technology Development Agency, Kashifu Inuwa Abdullahi, told ITW Data Cloud Africa 2026 in Nairobi that federal bodies generate nearly US$1 billion a year in IT demand, which a Cloud-First Policy will direct to cloud and shared infrastructure. He said 326 ministries and agencies spent N3.89 trillion on technology between 2023 and mid-2026, and local data capacity runs at nearly 90% utilisation.
 
 </div>
 
@@ -149,7 +149,7 @@ Nigeria's technology development agency is shifting from a traditional regulator
 
 **[NITDA Unveils Cloud Policy Package to Drive Nigeria's Digital Infrastructure Growth - TechAfrica News](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/)** — TechAfrica News, 14 September 2026
 
-Four instruments, one NDIAF certification; domestic cloud market $1.03bn (2025) to a projected $3.28bn (2030).
+Nigeria's IT development agency NITDA released four cloud policy instruments, reported on 14 September 2026, under a Cloud First mandate for government: a cloud computing guideline, a technical guideline, a single national certification for data centres and cloud services, and an investment strategy with the government as anchor customer. It puts Nigeria's cloud market at US$1.03bn in 2025, rising to a projected US$3.28bn in 2030.
 
 </div>
 
@@ -163,7 +163,7 @@ Four instruments, one NDIAF certification; domestic cloud market $1.03bn (2025) 
 
 **[CBN begins work on new financial inclusion strategy, targets deeper access](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html)** — Premium Times, 16 September 2026
 
-NFIS 3.0 review complete and NFIS 4.0 begun; BVN at 67.8m end-2025, agent network past 2 million.
+The Central Bank of Nigeria said on 16 September 2026 it has completed its review of the third National Financial Inclusion Strategy and begun a fourth, focused on usage, affordability and safety. It put Bank Verification Number enrolment at 67.8 million at end-2025 and its shared agent network above 2 million, and plans a geospatial register of financial access points.
 
 </div>
 
@@ -191,7 +191,7 @@ The president declared Nigeria's Digital Free Zones initiative moved to its impl
 
 **[President Tinubu Approves National Strategy on Public Service Reforms](https://www.thisdaylive.com/2026/10/01/president-tinubu-approves-national-strategy-on-public-service-reforms/)** — ThisDay, 1 October 2026
 
-Three-yearly revision to add AI and blockchain policy; announced by BPSR's DG at the COSPRA child online safety summit.
+President Bola Tinubu has approved a renewed National Strategy on Public Service Reforms, the director general of Nigeria's Bureau of Public Service Reforms, Dasuki Arabi, said in Abuja on 30 September 2026. The three-yearly revision will add government policies on AI and blockchain in the public service. No approval date or text was given.
 
 </div>
 
@@ -207,7 +207,7 @@ Three-yearly revision to add AI and blockchain policy; announced by BPSR's DG at
 
 **[How NIMC emerges Nigeria's National Trust Authority under new Act 2026](https://businessandtransport.com/how-nimc-emerges-nigerias-national-trust-authority-under-new-act-2026/)** — Business and Transport, 3 September 2026
 
-NIN at about 140 million and enrolment cut from seven days to one hour, disclosed at a GOCOP roundtable.
+Nigeria's National Identity Management Commission presented its new Act, signed by President Tinubu on 26 June 2026 to replace the 2007 Act, at a roundtable with online publishers in Lagos on 28 August. The Act makes the commission a foundational identity and data exchange agency; about 140 million people hold a NIN, and enrolment now takes one hour rather than seven days.
 
 </div>
 
@@ -265,7 +265,7 @@ Nigerian banks and large fintechs face the central bank's 1 January 2027 deadlin
 
 **[One Regulator or Many? Inside the Bill That Could Rewrite How Nigeria Licenses Its 430 Fintechs](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/)** — BusinessTech Nigeria, 9 October 2026
 
-HB.2389 past second reading Oct 2025, heard 2 March 2026, still pending; single fintech licensing gateway vs CBN and SEC.
+BusinessTech Nigeria explains the Nigerian Fintech Regulatory Commission Bill 2025 (HB.2389), which would create a single regulator to license and supervise fintech services now split between the central bank, the SEC and other agencies. The bill passed second reading in the House of Representatives on 28 October 2025 and had a public hearing on 2 March 2026; it remains pending.
 
 </div>
 
@@ -279,7 +279,7 @@ HB.2389 past second reading Oct 2025, heard 2 March 2026, still pending; single 
 
 **[Lagos Backs AI Builders Over AI Buyers at the Nigeria Innovation Summit 11.0](https://techtrends.africa/lagos-backs-ai-builders-over-ai-buyers-at-the-nigeria-innovation-summit-11-0/)** — TechTrends Africa, 10 October 2026
 
-Governor's address, 6 Oct: $3.9bn VC in five years; Metro Fibre 1m+ connected; 200-400 MW power target; innovation bill.
+Lagos State's special adviser on technology, Ganiyu Oseni, delivered Governor Babajide Sanwo-Olu's address to the 11th Nigeria Innovation Summit in Lagos on 6 October 2026, saying Nigeria should build AI rather than depend on computing done in Europe. The address cited US$3.9 billion of venture capital in five years, more than one million connections on the state's fibre network and a planned innovation bill.
 
 </div>
 
@@ -295,7 +295,7 @@ Governor's address, 6 Oct: $3.9bn VC in five years; Metro Fibre 1m+ connected; 2
 
 **[Nigeria moves to enhance data privacy framework for e-commerce](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce)** — TechReview Africa, 3 September 2026
 
-Abuja validation with GIZ follows a Lagos private-sector session; framework under the 2023 Act.
+The Nigeria Data Protection Commission began validating a Data Privacy Framework for e-commerce at an Abuja workshop run with Germany's GIZ, reported on 3 September 2026. The session, for ministries and agencies, followed a Lagos session with private firms and covered profiling and penalties under the Nigeria Data Protection Act, 2023.
 
 </div>
 
@@ -309,7 +309,7 @@ Abuja validation with GIZ follows a Lagos private-sector session; framework unde
 
 **[Nigeria To Regulate Internet Access For Children Below 16, Education Minister Announces](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces)** — Sahara Reporters, 11 September 2026
 
-Education minister Tunji Alausa trails under-16 internet rules, to be announced by security agencies within weeks.
+Nigeria's education minister, Tunji Alausa, said on 10 September 2026 that the government will regulate internet access for children under 16, with details to be announced by security officials within days or weeks. He also said zero-rated access should not extend to every platform calling itself educational. No rules have yet been published.
 
 </div>
 
@@ -323,7 +323,7 @@ Education minister Tunji Alausa trails under-16 internet rules, to be announced 
 
 **[NHRC, Accountability Lab push for coordinated framework to tackle digital ecosystem complaints](https://nannews.ng/nhrc-accountability-lab-push-coordinated-framework-digital-ecosystem-complaints/)** — News Agency of Nigeria, 16 September 2026
 
-NHRC and Accountability Lab press for a coordinated route for digital-ecosystem complaints, Abuja.
+Nigeria's National Human Rights Commission and Accountability Lab called on 16 September 2026, at a stakeholders' meeting in Abuja, for a coordinated framework to handle complaints of rights violations online. The commission's executive secretary, Tony Ojukwu, said referral routes are unclear and there are no standard procedures for preserving digital evidence. No framework or timetable was adopted.
 
 </div>
 
@@ -337,7 +337,7 @@ NHRC and Accountability Lab press for a coordinated route for digital-ecosystem 
 
 **[NDPC and NIDCOM Partner to Strengthen Data Protection Awareness for Nigerians at Home and Abroad](https://www.prestigenewsonline.com/ndpc-nidcom-partner-to-strengthen-data-protection-awareness/)** — Prestige News, 16 September 2026
 
-NDPC and NiDCOM to run joint data-protection awareness for Nigerians at home and in the diaspora.
+Nigeria's Data Protection Commission and the Nigerians in Diaspora Commission agreed to work together on data-protection awareness for Nigerians at home and abroad, during a visit by national commissioner Vincent Olatunji to the diaspora commission's chair, Abike Dabiri-Erewa. No instrument, budget or timetable is named.
 
 </div>
 
@@ -351,7 +351,7 @@ NDPC and NiDCOM to run joint data-protection awareness for Nigerians at home and
 
 **[Données/Nigeria : L'Etat reprend la NDPC après plus de $9 millions de recettes générées en 3 ans](https://www.digitalbusiness.africa/donnees-nigeria-letat-reprend-la-ndpc-apres-plus-de-9-millions-de-recettes-generees-en-3-ans/)** — Digital Business Africa, 16 September 2026
 
-NDPC's new Abuja HQ is an EFCC-recovered building; N12bn (about $9m) revenue over three years.
+Nigeria's Data Protection Commission moved into a new Abuja headquarters in a building recovered by the Economic and Financial Crimes Commission, opened by communications minister Bosun Tijani on 14 September 2026. National commissioner Vincent Olatunji said the commission has generated more than N12bn (about $9m) in revenue over three years despite funding constraints.
 
 </div>
 
@@ -365,7 +365,7 @@ NDPC's new Abuja HQ is an EFCC-recovered building; N12bn (about $9m) revenue ove
 
 **[Truecaller's Business Model and the Lagos State High Court's Rejection of the Implied Consent Argument](https://dnllegalandstyle.com/dnl/truecallers-business-model-and-the-lagos-state-high-courts-rejection-of-the-implied-consent-argument/)** — DNL Legal and Style, 19 September 2026
 
-Lagos High Court, 14 Sept 2026, rejects implied consent for non-users' contacts; reliefs still refused.
+The High Court of Lagos State ruled on 14 September 2026, in Data Privacy Lawyers Association v Truecaller International LLP, that a Truecaller user's consent to upload contacts does not amount to consent from the non-users whose numbers are uploaded, declining to follow a 2023 Federal High Court decision. The court nonetheless refused the reliefs sought because damages were not established, applicants' counsel Olumide Babalola wrote.
 
 </div>
 
@@ -387,7 +387,7 @@ Truecaller says it will not suspend or redesign its Nigerian service after the L
 
 **[Court dismisses $25 million privacy suit against Meta in Imo](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html)** — Premium Times, 28 September 2026
 
-Claim fell with the set-aside NDPC order; court held personal data protected by constitutional privacy right.
+Nigeria's Imo State High Court on 21 July 2026 dismissed a $25 million privacy suit against Meta, finding the applicant had not proved unlawful processing of her data, reported on 28 September 2026. Her case rested on a Nigeria Data Protection Commission order that was set aside under Meta's settlement with the commission. The court held that personal data falls under the constitutional right to privacy.
 
 </div>
 
@@ -429,7 +429,7 @@ Nigeria's data protection commission and the National Orientation Agency signed 
 
 **[Federal High Court Upholds Mandatory Data Protection Registration for PoS Operators](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/)** — Andersen Nigeria, 9 October 2026
 
-Haruna v NDPC judgment of 17 July 2026; PoS agents over 200 data subjects must register, fines up to 2% of revenue.
+Nigeria's Federal High Court in Lagos ruled on 17 July 2026 that the Nigeria Data Protection Commission acted within its powers in designating point-of-sale operators as data controllers of major importance. Such operators must therefore register with the commission and pay its fees. A PoS agent had argued the requirement breached his constitutional right to privacy.
 
 </div>
 
@@ -443,7 +443,7 @@ Haruna v NDPC judgment of 17 July 2026; PoS agents over 200 data subjects must r
 
 **[Nigeria-US health deal under scrutiny](https://trustradio.com.ng/en/nigeria-us-health-deal-under-scrutiny)** — Trust Radio, 12 October 2026
 
-Atiku demands full text; experts fault US use of shared specimens after termination; ministry silent.
+Nigeria's five-year health memorandum with the United States, signed on 19 December 2025 and reported as worth about $5bn, came under scrutiny after Ghana's president said Ghana rejected a similar deal over data concerns. The deal requires Nigeria to share health data and specimens; Atiku Abubakar's campaign demanded the full text, doctors faulted a clause letting the US keep using shared data after termination, and the health ministry did not respond.
 
 </div>
 
@@ -459,7 +459,7 @@ Atiku demands full text; experts fault US use of shared specimens after terminat
 
 **[Nigerian churches drive rising cross-border payments across Africa, PAPSS says](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/)** — Nairametrics, 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-30 countries live, 38 targeted by end-2026; stablecoins explored; Nigeria-Rwanda flows nearing Nigeria-Ghana.
+The Pan-African Payment and Settlement System (PAPSS) operates in 30 African countries and aims for about 38 by the end of 2026, its chief executive Mike Ogbalu said on 5 September 2026. He said PAPSS is exploring support for stablecoins, that Nigeria–Rwanda volumes are nearing Nigeria–Ghana volumes, and that church tithes sent to Nigeria from across Africa are a notable share of payments.
 
 </div>
 
@@ -467,7 +467,7 @@ Atiku demands full text; experts fault US use of shared specimens after terminat
 
 **[PAPSS: Notes from a briefing with CEO Mike Ogbalu III](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)** — Nigeriaworks (Tolu Ogunlesi), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Named-analyst notes from Ogbalu's Lagos briefing: phase one was spread, phase two from 2027 is deepening.
+Mike Ogbalu, chief executive of the Pan-African Payment and Settlement System launched by Afreximbank in 2022, briefed journalists in Lagos on its move to a second strategic plan from 2027. He said Afreximbank's settlement guarantee has grown from $500 million to $3 billion, that 15 central bank governors sit on its governing council, and that PAPSS has launched a currency marketplace and a card scheme.
 
 </div>
 
@@ -475,7 +475,7 @@ Named-analyst notes from Ogbalu's Lagos briefing: phase one was spread, phase tw
 
 **[Nigeria, fintechs critical to Africa's payment integration](https://thesun.ng/nigeria-fintechs-critical-to-africas-payment-integration/)** — The Sun Nigeria, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Ogbalu Q&A on local-currency settlement, fraud controls, FX and formalising informal cross-border trade.
+The chief executive of the Pan-African Payment and Settlement System, Mike Ogbalu III, told journalists in Lagos that the system lets businesses settle cross-border trade in local currencies and is drawing informal trade into the formal economy. He described its fraud controls, currency exchange arrangements and aim of covering the whole continent, and placed Nigeria's fintech sector at the centre of that effort.
 
 </div>
 
@@ -489,7 +489,7 @@ Ogbalu Q&A on local-currency settlement, fraud controls, FX and formalising info
 
 **[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
 
-Joint Ekok-Mfum border-post assessment of 2026-09-08 ties trade modernisation to real-time data sharing.
+The Nigeria Customs Service and Cameroon's customs administration began a joint assessment of the Ekok-Mfum one-stop border post on 8 September 2026 and launched a border modernisation initiative to digitise customs workflows. Cameroon's customs director general Fongod Nuvaga called for real-time data sharing and joint risk management; a joint operational agreement is being drafted. No cost or completion date is given.
 
 </div>
 
@@ -511,7 +511,7 @@ The two countries' customs administrations launched a pilot interconnection of t
 
 **[Le ministre nigerian de l'Innovation en visite de travail au Tchad](https://tchadinfos.com/2026/09/16/le-ministre-nigerian-de-linnovation-en-visite-de-travail-au-tchad/)** — Tchadinfos, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
 
-Chad and Nigeria sign a joint communique in N'Djamena; BRIDGE fibre and Lagos international capacity.
+Chad and Nigeria signed a joint communiqué in N'Djamena on 16 September 2026 during a working visit by Nigeria's digital economy minister, Bosun Tijani. Chad's telecoms minister, Haliki Choua Mahamat, cited interest in Nigeria's 90,000km BRIDGE fibre project, which provides for a Chad–Nigeria fibre link and international capacity from Lagos. Technical teams are to work out the details.
 
 </div>
 
@@ -563,7 +563,7 @@ At a Lagos media workshop the migration organisation, Nigeria's immigration serv
 
 **[Nigeria, UK Customs Target Faster Trade With New Data-Sharing Deal](https://nigeriaupdates.com/nigeria-uk-customs-target-faster-trade-with-new-data-sharing-deal/)** — Nigeria Updates, 27 September 2026
 
-NCS and HMRC finalise CMAA terms in Abuja after six months of virtual talks; signing aimed at December WCO meeting.
+The Nigeria Customs Service and the UK's HM Revenue and Customs met in Abuja to finalise a Customs Mutual Administrative Assistance Agreement on information sharing and compliance, after about six months of virtual talks, reported on 27 September 2026. Nigerian customs said it hopes the agreement will be signed in the first week of December at the World Customs Organization Policy Commission.
 
 </div>
 
@@ -579,7 +579,7 @@ NCS and HMRC finalise CMAA terms in Abuja after six months of virtual talks; sig
 
 **[Device Mgt System won't expose users' data - NCC](https://www.vanguardngr.com/2026/09/device-mgt-system-wont-expose-users-data-ncc/)** — Vanguard, 9 September 2026
 
-NCC denies the Device Management System can reach personal data or communications; it is for device identification only.
+The Nigerian Communications Commission said on 9 September 2026 that its new Device Management System will not give it access to users' personal data or communications. The system records IMEI numbers to check that SIM-enabled devices have type approval, and unregistered devices will be barred from networks. The first phase, with the customs service and importers, covers devices already in stock and new imports.
 
 </div>
 
@@ -587,7 +587,7 @@ NCC denies the Device Management System can reach personal data or communication
 
 **[Stakeholders Push for Extension of DMS Implementation Timeline, Seek Clarification on Grey Areas](https://www.thisdaylive.com/2026/09/09/stakeholders-push-for-extension-of-dms-implementation-timeline-seek-clarification-on-grey-areas/)** — ThisDay, 9 September 2026
 
-OEMs seek more time on Nigeria's Device Management System; about N670 per IMEI, over N3,700 for high-end devices.
+Mobile device manufacturers asked the Nigerian Communications Commission to extend the timetable for its Device Management System, which checks each device's IMEI against registers of stolen or counterfeit handsets before activation. The commission plans to charge about N670 per IMEI and over N3,700 for high-end devices, with free onboarding of existing stock closing on 7 September. Manufacturers said the window was too short and the appeal procedure unclear.
 
 </div>
 
@@ -603,7 +603,7 @@ Nigeria's communications regulator is strengthening enforcement of type approval
 
 **[TYPE APPROVAL ENFORCEMENT: Why your phone may stop working soon](https://www.vanguardngr.com/2026/09/type-approval-enforcement-why-your-phone-may-stop-working-soon/)** — Vanguard, 11 September 2026
 
-How Nigeria's Device Management System and its Central Equipment Identity Register will gate non-compliant phones.
+The Nigerian Communications Commission has begun implementing a Device Management System that checks whether SIM-enabled devices meet its type-approval rules, using a central register of IMEI numbers, Vanguard reported on 11 September 2026. The first phase registers devices in stock and new imports with the Nigeria Customs Service; non-compliant and stolen devices can be blocked from networks. The commission says the system gives it no access to device contents.
 
 </div>
 
@@ -629,7 +629,7 @@ Nigeria's mobile operators have built 8,526 of 12,179 committed coverage and cap
 
 **[NITDA–NACCIMA sign historic digital economy pact in bold new drive towards a $1 trillion economy](https://www.linkedin.com/posts/naccima3_naccima-nitda-digitaleconomy-activity-7502089018411769856-7rGB)** — Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA), 5 September 2026
 
-NACCIMA's own statement dates the NITDA memorandum to 3 September 2026 at GITEX Nigeria, not 8 or 15 September.
+Nigeria's National Information Technology Development Agency and the Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture signed a memorandum of understanding at GITEX Nigeria in Lagos on 3 September 2026, according to NACCIMA's statement. It is meant to link the agency's digital programmes with business demand. No funding, targets or timetable are given.
 
 </div>
 
@@ -637,7 +637,7 @@ NACCIMA's own statement dates the NITDA memorandum to 3 September 2026 at GITEX 
 
 **[NITDA, NACCIMA deepen push for MSMEs' digital adoption](https://punchng.com/nitda-naccima-deepen-push-for-msmes-digital-adoption/)** — Punch, 8 September 2026
 
-MoU covers an MSME digital ecosystem platform and institutionalising the DNICE conference; no sum attached.
+Nigeria's IT agency NITDA and the chambers of commerce body NACCIMA signed a memorandum of understanding on the sidelines of GITEX Nigeria to support digital adoption by small and medium enterprises. It covers a shared digital platform for businesses, capacity building and the institutionalising of the Digital Nigeria International Conference. No funding is attached.
 
 </div>
 
@@ -645,7 +645,7 @@ MoU covers an MSME digital ecosystem platform and institutionalising the DNICE c
 
 **[NITDA, NACCIMA seal strategic partnership to accelerate Nigeria's digital economy, MSME digital transformation](https://nitda.gov.ng/nitda-naccima-seal-strategic-partnership-to-accelerate-nigerias-digital-economy-msme-digital-transformation/9803/)** — National Information Technology Development Agency (NITDA), 15 September 2026
 
-MoU at GITEX Nigeria; ecosystem platform, MSME transformation, DNICE 2026 — no sum or term stated.
+Nigeria's IT development agency, NITDA, and the national chambers of commerce body, NACCIMA, signed a memorandum of understanding at GITEX Nigeria in Lagos on 3 September 2026, published by NITDA on 15 September. It covers a shared digital platform, digital transformation for small businesses, technology adoption and training. No sum, term or funding source is stated.
 
 </div>
 
@@ -659,7 +659,7 @@ MoU at GITEX Nigeria; ecosystem platform, MSME transformation, DNICE 2026 — no
 
 **[CBN, Singapore's GFTN sign MoU to boost financial innovation](https://www.thestar.ng/cbn-singapores-gftn-sign-mou-to-boost-financial-innovation/)** — The Star Nigeria, 9 October 2026
 
-Signed in Singapore alongside MAS talks and a Nigeria-Asia connectivity dialogue; signing date not stated.
+The Central Bank of Nigeria signed a memorandum of understanding with the Global Finance & Technology Network in Singapore to set a framework for cooperation between the two countries' financial-innovation sectors. It was signed during Governor Olayemi Cardoso's talks with the Monetary Authority of Singapore. The signing date is not stated.
 
 </div>
 
@@ -675,7 +675,7 @@ Signed in Singapore alongside MAS talks and a Nigeria-Asia connectivity dialogue
 
 **[Nigeria Digital Identification for Development Project (P167183) — Implementation Status & Results Report, August 2026](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf)** — World Bank, 11 August 2026
 
-World Bank's August 2026 ISR — 117.5m NINs issued of 134.6m enrolled, NIMS 2.0 contract awarded.
+The World Bank's August 2026 status report on Nigeria's Digital Identification for Development Project records 117,493,554 national identification numbers issued from 134,553,120 enrolments as at 30 June, against a target of 180 million by December 2026. The NIMS 2.0 system integrator contract has been awarded, and the amended NIMC Act received presidential assent on 26 June.
 
 </div>
 
@@ -735,7 +735,7 @@ MTN Nigeria launched FlyX, a 5G fixed-wireless home broadband service for locati
 
 **[$80bn digital economy: Sanwo-Olu eyes Africa's innovation capital](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/)** — Vanguard, 2 September 2026
 
-$80bn in tech commitments claimed; 3,000km of a 6,000km Lagos fibre target laid 2019-2025.
+Lagos State Governor Babajide Sanwo-Olu, represented by his deputy Obafemi Hamzat, told the GITEX Nigeria Official Tour on 2 September 2026 that the state has more than $80 billion in technology commitments. About 3,000km of a planned 6,000km fibre network was laid between 2019 and 2025, and the state plans to secure 200–400MW of state-procured electricity.
 
 </div>
 
@@ -807,7 +807,7 @@ Nigeria's telecoms regulator published three consecutive months of unchanged sub
 
 **[Industry Statistics — Internet Subscriber Data and Internet Usage Statistics in Terabytes (monthly series to July 2026)](https://www.ncc.gov.ng/market-data-reports/industry-statistics)** — Nigerian Communications Commission, 9 September 2026
 
-Regulator's own monthly series to July 2026: 157,706,496 active data subscriptions, 1,662,021.45 TB of usage.
+The Nigerian Communications Commission's monthly statistics, updated 9 September 2026, show 157,706,496 active internet subscriptions in July 2026, almost all on mobile, up from 138,749,365 a year earlier. Data usage in July 2026 was 1,662,021.45 terabytes, against 1,131,255.90 terabytes in July 2025.
 
 </div>
 
@@ -867,7 +867,7 @@ Nigeria's fibre-to-the-home subscriptions rose to 319,735 in the second quarter 
 
 **[154 Million Consumers in Digital Dark Age as Infrastructure, Regulation Fail](https://www.mytimeng.com/154-million-consumers-in-digital-dark-age-as-infrastructure-regulation-fail/)** — MyTimeNG, 13 September 2026
 
-192m telephone subscribers against 319,735 fibre-to-the-home connections at end-Q2 2026.
+Nigeria had 319,735 fibre-to-the-home connections at the end of June 2026 against more than 192 million active telephone subscribers, according to Nigerian Communications Commission figures. Operators added 12.8 million SIM cards and Nigerians used 10.2 million terabytes of data in the first seven months of 2026.
 
 </div>
 
@@ -923,7 +923,7 @@ Summarised under [Standards](#standards).
 
 **[Telcos deploy 8,526 network sites despite fibre cuts — NCC](https://punchng.com/telcos-deploy-8526-network-sites-despite-fibre-cuts-ncc/)** — The Punch, 13 September 2026
 
-8,526 of 12,179 committed coverage and capacity sites deployed, about 70%, up from roughly 5,000.
+Nigeria's mobile operators have deployed 8,526 of the 12,179 coverage and capacity sites they committed to, about 70%, up from about 5,000 at the previous count, the Nigerian Communications Commission said after its board meeting of 9 September 2026. The regulator said fibre cuts caused a sharp rise in network disruptions in June.
 
 </div>
 
@@ -959,7 +959,7 @@ Thales Alenia Space signed a contract with Nigeria's NIGCOMSAT to build the NigC
 
 **[NIGCOMSAT Selects Hughes JUPITER Scalable Gateway to Support Nigeria's Next-Generation Satellite Program](https://www.hughes.com/resources/press-releases/nigcomsat-selects-hughes-jupiter-scalable-gateway-to-support-nigerias-next-generation-satellite-program)** — Hughes Network Systems, 16 September 2026
 
-Hughes JUPITER scalable gateway picked for the ground segment of NIGCOMSAT-2A and 2B.
+Nigeria's state satellite operator NIGCOMSAT has chosen Hughes Network Systems' JUPITER gateway for the ground segment of its NIGCOMSAT-2A and 2B satellites, Hughes announced on 16 September 2026. Preparation begins in 2026 ahead of launches targeted for 2028 and 2029, and Hughes expects to advise on local assembly of satellite terminals. No contract value is given.
 
 </div>
 
@@ -1001,7 +1001,7 @@ A Nigerian licensee is seeking to transfer its 2x20 MHz at 2.1 GHz and its 100 M
 
 **[Nigeria's data boom drives fresh wave of telecom infrastructure investment](https://businessday.ng/bd-weekender/article/nigerias-data-boom-drives-fresh-wave-of-telecom-infrastructure-investment/)** — BusinessDay NG, 19 September 2026
 
-NCC logs 1.66m TB of mobile data in July 2026, up 43.6% year to date; 5,000+ fibre cuts in H1.
+Nigeria's communications commission recorded mobile data use of 1.66 million terabytes in July 2026, the highest in its published series, and about 10.18 million terabytes from January to July, up roughly 43.6% on 2025. The commission logged more than 5,000 fibre cable cuts in the first half of 2026. MTN Nigeria has committed over $240 million to a Lagos data centre.
 
 </div>
 
@@ -1065,7 +1065,7 @@ NuRAN Wireless will pilot Starlink low-Earth-orbit satellite backhaul at a rural
 
 **[FG targets $1.2bn private funding for fibre project](https://punchng.com/fg-targets-1-2bn-private-funding-for-fibre-project/)** — Punch Newspapers, 25 September 2026
 
-$800m of $2bn cost from WB, AfDB, EBRD loans; investors to hold 51-75% of Bridge OA; rollout from October.
+Nigeria's federal government is seeking about US$1.2bn in private capital for its planned 90,000km national fibre network, with physical rollout due from October 2026. Of the estimated US$2bn cost, US$800m is covered by World Bank, African Development Bank and EBRD loans, and a newly incorporated company is to carry out the project.
 
 </div>
 
@@ -1073,7 +1073,7 @@ $800m of $2bn cost from WB, AfDB, EBRD loans; investors to hold 51-75% of Bridge
 
 **[Nigeria Fast-Tracks Project BRIDGE to Connect 40 Million People](https://techsoma.africa/nigeria-project-bridge-fibre-network-2028/)** — TechSoma Africa, 25 September 2026
 
-Tijani, 22 Sept 2026: 90,000km fibre build cut to three years, cable laying from Q4 2026, finish 2028-early 2029.
+Nigeria's communications minister Bosun Tijani said in New York on 22 September 2026 that Project BRIDGE, a 90,000 km national fibre build, will be delivered in three years rather than five, with cable laying from the fourth quarter of 2026 and completion by 2028 or early 2029. Development lenders have committed $845 million, including $500 million from the World Bank; the government will hold at most 49% of the project company.
 
 </div>
 
@@ -1095,7 +1095,7 @@ Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the p
 
 **[NCC Seeks Greater Digital Infrastructure Investment at Nigeria Digital Connectivity Investment Forum](https://ncc.gov.ng/media-centre/press-releases/ncc-seeks-greater-digital-infrastructure-investment-nigeria-digital)** — Nigerian Communications Commission, 29 September 2026
 
-NCC's own release: data use up ~47% to 1.66m TB; Gates-funded Consumer Data Lab merges Ookla data and complaints.
+Nigeria's communications commission held its first Digital Connectivity Investment Forum in Abuja with Swedfund and Ookla, opening on 29 September 2026. Chief executive Aminu Maida called for more public and private investment in telecoms infrastructure to expand broadband and improve service quality. No investment commitments are reported.
 
 </div>
 
@@ -1131,7 +1131,7 @@ At the Nigerian Communications Commission's Digital Connectivity Investment Foru
 
 **[IXPN at 20: How Nigeria’s Internet Exchange Point Has Transformed Local Internet Connectivity](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)** — TechTV Network, 3 October 2026
 
-Exchange founded 2006 now counts 130+ networks; Lagos, Abuja, Enugu presence; IPv6 drive with AFRINIC.
+The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th anniversary with a month-long programme; it says more than 130 networks use it, with points of presence in Lagos data centres, Abuja and Enugu. The programme includes a visit scheme for about 100 students, an IPv6 training programme with AFRINIC and the Nigeria IPv6 Council, and an awards dinner in Lagos on 30 October 2026.
 
 </div>
 
@@ -1145,7 +1145,7 @@ Exchange founded 2006 now counts 130+ networks; Lagos, Abuja, Enugu presence; IP
 
 **[Dolphin Telecoms Signs 10-Year Solar Deal with Grid Crux to Power ACE Cable Landing Station in Lagos](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos)** — IDCNOVA, 13 October 2026
 
-10-year energy-as-a-service solar system at Dolphin's Lagos ACE landing station; 144 MWh a year, cutting diesel use.
+UAE-based Dolphin Telecoms signed a ten-year energy-as-a-service deal with Nigerian developer Grid Crux Energy Solutions for a solar system at its Lagos landing station for the ACE submarine cable. Grid Crux will design, finance, install and run the system, expected to produce more than 144MWh a year and cut diesel use. No signing date or cost is given.
 
 </div>
 
@@ -1189,7 +1189,7 @@ Vertiv, the power and cooling vendor named in October 2025 for Airtel Africa's N
 
 **[Nigeria's 197-Megawatt Data-Center Market Needs Power Reform to Scale](https://moneycentral.com.ng/markets/article/nigerias-197-megawatt-data-center-market-needs-power-reform-to-scale/)** — MoneyCentral, 4 September 2026
 
-S&P puts Nigeria at 197 MW against Saudi Arabia's 435 MW and rates its power availability very low.
+S&P Global Ratings puts Nigeria's data-centre capacity at about 197 megawatts, against 435 MW in Saudi Arabia and roughly 40 GW in China, in a report of 4 September 2026. S&P rates Nigeria's power availability for data centres as very low, citing reliance on self-generation and grid instability, while noting the Central Bank of Nigeria's data-localisation rules and tax incentives as support for local investment.
 
 </div>
 
@@ -1225,7 +1225,7 @@ Digital Parks Africa announced Nigeria Data Centre 1, a carrier-neutral facility
 
 **[AFRIDATA Nigeria Data Center Feasibility Study (USTDA business opportunity, request for proposals)](https://ustda.gov/business_opp_oversea/afridata-nigeria-data-center-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 15 September 2026
 
-USTDA grants US$1.87m to Infragora for a feasibility study of 60-70MW of data centres in Lagos and Delta.
+The US Trade and Development Agency has granted US$1,870,000 to Infragora Global Capital for a feasibility study of two data centres in Nigeria's Lagos and Delta states, with 60–70 MW of combined capacity expandable to 100 MW. US firms are invited to bid by 13 October 2026. The centres would be owned by AFRIDATA Datacenter Nigeria Ltd, a company formed for the project.
 
 </div>
 
@@ -1255,7 +1255,7 @@ The police fraud-reporting app launched on 1 September is the fourth police repo
 
 **[First Bank spends N6bn annually to fight Cyber threats - Alebiosu](https://www.vanguardngr.com/2026/09/first-bank-spends-n6bn-annually-to-fight-cyber-threats-alebiosu/)** — Vanguard, 9 September 2026
 
-Olusegun Alebiosu puts First Bank's annual cybersecurity spend above N6bn, with 24-hour surveillance and command centre.
+First Bank of Nigeria spends more than N6 billion a year on cybersecurity, its chief executive Olusegun Alebiosu said at the Chartered Institute of Bankers of Nigeria's annual conference. He said the bank monitors its systems around the clock, has set up a command centre and blocks millions of threats each month.
 
 </div>
 
@@ -1309,7 +1309,7 @@ Nigeria's national CERT warned of rising Phobos ransomware attacks on cloud serv
 
 **[FG gives MDAs November deadline to remove export barriers](https://punchng.com/fg-gives-mdas-november-deadline-to-remove-export-barriers/)** — Punch Newspapers, 3 September 2026
 
-Phase 2 due end-November 2026; 124,614 permits and N12.59bn in regulatory payments since March go-live.
+Nigeria's trade minister Jumoke Oduwole gave ministries, departments and agencies until the end of November 2026 to complete phase two of the National Single Window trade platform. Since going live on 27 March, the platform has processed more than 124,614 licences and permits, registered 11,096 importers and agents, and handled about N12.59 billion in regulatory payments.
 
 </div>
 
@@ -1337,7 +1337,7 @@ Nigeria’s education repository passed 400,000 theses and dissertations and 115
 
 **[FG, NYSC plan digital link to curb certificate fraud](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/)** — TheStar Nigeria, 9 September 2026
 
-Education ministry and NYSC plan a verification API and a national Learner Identification Number.
+Nigeria's education minister Tunji Alausa said on 8 September 2026 that his ministry and the National Youth Service Corps are discussing an API to exchange education records and verify certificates. He also proposed a national Learner Identification Number and standard name-recording across education and identity databases, to be developed with JAMB, the identity commission and others.
 
 </div>
 
@@ -1365,7 +1365,7 @@ Nigeria and Cameroon launched a border modernisation initiative for the Mfum-Eko
 
 **[NFIU mobilises private sector to combat illicit financial flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/)** — Voice of Nigeria, 11 September 2026
 
-NFIU, the British High Commission and CBI convene banks and fintechs to co-design the JFIC platform.
+The Nigerian Financial Intelligence Unit is working with banks, fintechs and insurers to design a Joint Financial Intelligence Collaboration platform for sharing intelligence on illicit financial flows, Voice of Nigeria reported on 11 September 2026. The Abuja meeting was backed by the British High Commission and the Convention for Business Integrity. No launch date or cost is given.
 
 </div>
 
@@ -1379,7 +1379,7 @@ NFIU, the British High Commission and CBI convene banks and fintechs to co-desig
 
 **[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a>
 
-NCS offers Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts.
+The Nigeria Customs Service offered Benin's customs a real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts at the Sèmè–Kraké one-stop border post on 11 September 2026. Comptroller-General Adewale Adeniyi said the two services work under one roof but not on one system; Benin's customs chief endorsed the proposal. No timetable is given.
 
 </div>
 
@@ -1393,7 +1393,7 @@ NCS offers Benin real-time exchange of declarations, manifests, transit data, ri
 
 **[HCPAN Connect targets Nigeria's fragmented health data crisis](https://www.vanguardngr.com/2026/09/hcpan-connect-targets-nigerias-fragmented-health-data-crisis/)** — Vanguard, 25 September 2026
 
-Private providers' association launches a Lagos-first exchange linking providers, HMOs, regulators and patients.
+The Health Care Providers Association of Nigeria launched HCPAN Connect, a platform linking private providers, health maintenance organisations, regulators, government and patients and pooling their data in a central repository, reported on 25 September 2026. Its president, Dr Austin Aipoh, said it will issue health-insurance authorisation codes and support telemedicine, starting in Lagos. The launch date is not stated.
 
 </div>
 
@@ -1407,7 +1407,7 @@ Private providers' association launches a Lagos-first exchange linking providers
 
 **[NCDC, HFN, PharmAccess sign MoC to strengthen private-sector disease surveillance](https://thesun.ng/ncdc-hfn-pharmaccess-sign-moc-to-strengthen-private-sector-disease-surveillance/)** — The Sun Nigeria, 30 September 2026
 
-Pilot of automated IDSR reporting from private facilities into SORMAS; data-sharing under data protection law.
+Nigeria's Centre for Disease Control signed a memorandum of cooperation in Abuja with the Healthcare Federation of Nigeria and PharmAccess Foundation to pilot automated disease reporting from private health facilities into its SORMAS surveillance system. The pilot will test interoperable reporting to improve the completeness and timeliness of data, with data sharing subject to data protection law.
 
 </div>
 
@@ -1437,7 +1437,7 @@ Nigeria's identity agency NIMC said the national identity database is hosted who
 
 **[2026/27 Session: Lagos makes LASRRA number compulsory for school admission](https://www.vanguardngr.com/2026/09/2026-27-session-lagos-makes-lasrra-number-compulsory-for-school-admission/)** — Vanguard, 4 September 2026
 
-LASRRA registration number made mandatory for admission and enrolment in Lagos public schools, 2026/27 session.
+Lagos State made the Lagos State Residents Registration Agency (LASRRA) number mandatory for admission and enrolment in all public and private schools from the 2026/27 session, with schools required to record it from 14 September 2026. The education commissioner, Tolani Alli-Balogun, said the aim is a verifiable database of learners.
 
 </div>
 
@@ -1451,7 +1451,7 @@ LASRRA registration number made mandatory for admission and enrolment in Lagos p
 
 **[JAMB, INEC Seek Collaboration on Use of Biometric Technology](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/)** — Voice of Nigeria, 5 September 2026
 
-JAMB asks INEC for idle biometric verification machines; INEC orders a proof-of-concept on their fitness.
+The registrar of Nigeria's Joint Admissions and Matriculation Board, Segun Aina, asked the electoral commission (INEC) during a visit to its Abuja headquarters to lend some of its biometric verification machines for use in JAMB examinations, reported on 5 September 2026. INEC chairman Joash Amupitan told his ICT director to assess the availability, condition and suitability of the equipment.
 
 </div>
 
@@ -1517,7 +1517,7 @@ Nigeria's National Identity Management Commission denied claims in a social-medi
 
 **[NIMC's NINAuth Mandate and Nigeria's 180M NIN Push](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/)** — Techmoonshot, 5 October 2026
 
-Presidential order makes NINAuth default for every MDA; 136m enrolled vs 180m target; date-of-birth fix now N28,574.
+Nigeria's President Bola Tinubu has ordered every ministry, department and agency to use the identity commission's NINAuth service as its default identity check. NIMC says enrolment has passed 136 million against a year-end target of 180 million, while its fee for correcting a date of birth rose from ₦16,340 to ₦28,574.
 
 </div>
 
@@ -1531,7 +1531,7 @@ Presidential order makes NINAuth default for every MDA; 136m enrolled vs 180m ta
 
 **[Cooperative Digitalisation: FG Reaffirms Commitment Towards National Cooperative Identity Reform Under RH – CRRP 2030, Tasks States On Implementation - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/)** — Federal Ministry of Information and National Orientation, 7 October 2026
 
-Rollout under way at no cost to government; register, CVN and CoopID for 370,000+ cooperatives; ₦5tn asset target.
+Nigeria's supervising minister of cooperative affairs, Aliyu Sabi Abdullahi, told the National Cooperative Summit in Abuja on 7 October 2026 that the National Cooperative Identity Reform has begun at no cost to federal or state governments. It is to provide a national register, a verifiable number and a CoopID for more than 370,000 cooperatives with over 30 million members, under an August 2026 agreement with the Cooperative Federation of Nigeria and Seamfix.
 
 </div>
 
@@ -1561,7 +1561,7 @@ Katsina State and Nigeria's identity commission agreed a working group to link t
 
 **[La banque numérique FairMoney dépasse les 30 millions d'usagers au Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-banque-numerique-fairmoney-depasse-les-30-millions-dusagers-au-nigeria)** — wearetech.africa, 4 September 2026
 
-Mobile-only savings, transfers and credit for individuals and small firms, framed as formal-banking access.
+The digital bank FairMoney has passed 30 million registered users in Nigeria, reported on 4 September 2026. Its mobile app offers savings, transfers and credit to individuals and small businesses. No further figures are given.
 
 </div>
 
@@ -1575,7 +1575,7 @@ Mobile-only savings, transfers and credit for individuals and small firms, frame
 
 **[Tinubu's Invisible Beneficiaries of Cash Transfers](https://www.thisdaylive.com/2026/09/06/tinubus-invisible-beneficiaries-of-cash-transfers/)** — ThisDay, 6 September 2026
 
-Auditor-General finds N33.75bn paid to 3.29m households the register could not evidence.
+A ThisDay column by Weneso Orogun discusses Nigeria's Auditor-General's 2024 report, which found the National Cash Transfer Office paid N33.75 billion to 3,295,207 households in 35 states in 2023 without records reconciling recipients against the National Social Register. The report says office staff obstructed auditors' requests for the Remita statements.
 
 </div>
 
@@ -1597,7 +1597,7 @@ The Auditor-General's 2024 report states that the government could not provide a
 
 **[How Remittance Startups Are Undercutting Western Union Across Africa](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/)** — TechTrends Africa, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Sending $200 to Sub-Saharan Africa cost 8.46% in Q3 2025; app rivals run London-Lagos at 2-3%.
+Sending US$200 to sub-Saharan Africa cost an average of 8.46% in the third quarter of 2025, against a global average of 6.36%, according to World Bank figures cited by TechTrends Africa. Apps such as LemFi and Sendwave now run the London to Lagos corridor at about 2-3%, against around 7.8% in 2023.
 
 </div>
 
@@ -1611,7 +1611,7 @@ Sending $200 to Sub-Saharan Africa cost 8.46% in Q3 2025; app rivals run London-
 
 **[Nigeria's Digital Economy Is Surging, But Its Fibre Backbone Is Under Threat](https://highstreet.ng/nigerias-digital-economy-is-surging-but-its-fibre-backbone-is-under-threat/)** — HighStreet.ng, 13 September 2026
 
-CBN records N1.053 quadrillion in Q1 2026 e-payments, its highest quarter since the series began in 2019.
+The Central Bank of Nigeria's quarterly bulletin records N1.053 quadrillion in electronic payments in the first quarter of 2026, up 2.85% on a year earlier and the highest quarter since its series began in 2019. Point-of-sale volume fell 19.9%. Nigerian Communications Commission data show 5,934 fibre-optic cable cuts in the first half of 2026, about 65 a day.
 
 </div>
 
@@ -1639,7 +1639,7 @@ Nigeria inaugurated the steering committee of a National Digital Invoicing and F
 
 **[Remita moves beyond payments with new consumer super app](https://thecondia.com/remita-launches-super-app/)** — The Condia, 23 September 2026
 
-Lagos launch 22 Sep 2026: multi-bank account view, PAPSS transfers to other African countries, NIN/BVN loan matching.
+Nigerian payments company Remita launched a consumer app at Nigeria Fintech Week in Lagos on 22 September 2026. It shows accounts across several banks, sends money to other African countries over PAPSS, and offers loans assessed using NIN and BVN checks. Managing director 'DeRemi Atanda put Remita's enterprise and government throughput above N100 trillion a year.
 
 </div>
 
@@ -1675,7 +1675,7 @@ Moniepoint is selling shares in the Dangote Petroleum Refinery's ₦2.15 trillio
 
 **[Guaranty Trust Holding Company Plc - Audited Consolidated and Separate Financial Statements for the period ended 30 June 2026](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943)** — Guaranty Trust Holding Company Plc, 28 September 2026
 
-HabariPay PAT ₦7.81bn; e-business income ₦42.16bn; tech and service expense down to ₦31.10bn.
+Guaranty Trust Holding Company's audited financial statements for the half-year to 30 June 2026, with an auditor's report dated 28 September, show its payments subsidiary HabariPay earning ₦7.81 billion profit after tax on ₦9.44 billion operating income. Group e-business income rose to ₦42.16 billion from ₦28.61 billion a year earlier, while technology and service expenses fell to ₦31.10 billion from ₦37.76 billion.
 
 </div>
 
@@ -1683,7 +1683,7 @@ HabariPay PAT ₦7.81bn; e-business income ₦42.16bn; tech and service expense 
 
 **[Guaranty Trust Holding Company Plc - June 2026 Half Year Investor Presentation](https://gtco-plc.files.svdcdn.com/production/financial-information/June-2026-Half-Year-Investor-Presentation_2026-10-02-130719_ixpt.pdf?dm=1790946439)** — Guaranty Trust Holding Company Plc, 2 October 2026
 
-HabariPay switching ₦74.7tn; Pay-with-Transfer ₦1.11tn from ₦70.05bn; GTWorld ₦26.70tn.
+Guaranty Trust Holding Company's investor presentation for the half-year to June 2026 reports transactions through its GTWorld mobile app of ₦26.70 trillion, up from ₦21.87 trillion a year earlier. Pay-with-Transfer value rose to ₦1.11 trillion from ₦70.05 billion. The deck carries no date of its own.
 
 </div>
 
@@ -1757,7 +1757,7 @@ Nigeria’s voter register is approaching 100 million ahead of the 2027 election
 
 **[INEC Integrates NIN To Clean National Voter Register Ahead 2027 Polls](https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/)** — The Cabal, 15 September 2026
 
-AU pre-election mission told: ~100m voters, 176,846 polling units, NIMC link, 94% Osun opening rate.
+Nigeria's electoral commission (INEC) said on 15 September 2026 that it has used National Identification Numbers to audit and clean the voter register ahead of the 2027 elections, working with the identity commission. Acting chairman Rhoda Gumus told an African Union mission that close to 100 million voters will be served across 176,846 polling units.
 
 </div>
 
@@ -1815,7 +1815,7 @@ The corporate registry's registrar-general called for the country's three separa
 
 **[Federal Government Launches National Digital Alphanumeric Postcode System](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/)** — Federal Ministry of Communications, Innovation and Digital Economy (Nigeria), 1 October 2026
 
-11-character GIS postcodes for every addressable building; lookup at postcode.gov.ng; NIPOST GIS lab manages the map.
+Nigeria's communications ministry announced on 1 October 2026 that the postal service, NIPOST, has launched a National Digital Alphanumeric Postcode System giving every addressable building an 11-character GIS-based postcode. Postcodes can be looked up at postcode.gov.ng, and a NIPOST GIS lab manages the map.
 
 </div>
 
@@ -1823,7 +1823,7 @@ The corporate registry's registrar-general called for the country's three separa
 
 **[Nigeria Launches Digital Postcode System to Boost Connectivity, Economy](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/)** — Voice of Nigeria, 1 October 2026
 
-NIPOST launches the National Digital Alphanumeric Postcode System; Tijani pitches it for delivery and services.
+The Nigeria Postal Service launched a National Digital Alphanumeric Postcode System to improve location identification and access to services, communications minister Bosun Tijani said. He said accurate postcodes would help businesses reach customers, speed emergency assistance and support government service delivery. No cost or coverage figures are given.
 
 </div>
 
@@ -1839,7 +1839,7 @@ Nigeria's communications ministry asked businesses and developers to build servi
 
 **[Nigerians report mixed results as new digital postcodes go live](https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/)** — Nairametrics, 2 October 2026
 
-Duplicate codes, missing houses, no cover in an Oyo town; NIPOST promises corrections within 48 hours.
+Nigeria's National Digital Alphanumeric Postcode System, launched through the Nigerian Postal Service on 1 October 2026, gives buildings an 11-character code. Early users reported accurate locations but also duplicate codes, missing houses and no coverage in one Oyo State town, reported on 2 October. NIPOST said corrections would be made within 48 hours.
 
 </div>
 
@@ -1847,7 +1847,7 @@ Duplicate codes, missing houses, no cover in an Oyo town; NIPOST promises correc
 
 **[SPOTTED: NIPOST digital postcode website exposes names of homeowners](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)** — TheCable, 2 October 2026
 
-Building codes return owners' names, building type and use; app also finds an address from a person's name.
+The Nigerian Postal Service launched a national digital postcode system on 1 October 2026, assigning an 11-character code to each addressable building. TheCable reported the next day that the system's app shows homeowners' names against building postcodes and lets users search for an address by a person's name. The report carries no response from NIPOST or the data protection regulator.
 
 </div>
 
@@ -1855,7 +1855,7 @@ Building codes return owners' names, building type and use; app also finds an ad
 
 **[Inside Nigeria’s Digital Postcode: The GIS and Satellite Data Behind 11 Characters](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)** — Space in Africa, 3 October 2026
 
-Six-stage build with Milsat and 25,000 field agents; lookup on AWS us-east-1, API gateway in AWS Ireland.
+The Nigerian Postal Service switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured building an 11-character code from state down to building. Space in Africa describes how it was built from satellite imagery, a field campaign with Milsat and 25,000 agents, and GIS processing. The outlet's own trace found the lookup hosted on Amazon Web Services in the US.
 
 </div>
 
@@ -1871,7 +1871,7 @@ Six-stage build with Milsat and 25,000 field agents; lookup on AWS us-east-1, AP
 
 **[FG moves to accelerate digital health transformation with National Health Technology and Data Analytics Office](https://health.gov.ng/fg-moves-to-accelerate-digital-health-transformation-with-national-health-technology-and-data-analytics-office/)** — Federal Ministry of Health and Social Welfare (Nigeria), 16 September 2026
 
-Steering committee inaugurated for the office coordinating Nigeria’s approved digital health architecture.
+Nigeria's Federal Ministry of Health and Social Welfare inaugurated the steering committee of a new National Health Technology and Data Analytics Office in Abuja on 16 September 2026. The office, approved by President Bola Tinubu, is to coordinate the national digital health architecture. The minister of state named fragmented, unconnected electronic medical record systems as the problem it must address, through enforced minimum standards.
 
 </div>
 
@@ -1885,7 +1885,7 @@ Steering committee inaugurated for the office coordinating Nigeria’s approved 
 
 **[NBS, ILO, UNICEF move to unify Nigeria's social protection data](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/)** — Tribune Online, 22 September 2026
 
-EU-funded SUSI dialogue, Abuja 22-24 Sept: 160 stakeholders, SP-MIS rollout, bulletin committee for SDG 1.3.1.
+Nigeria's National Bureau of Statistics, the ILO and UNICEF convened about 160 stakeholders in Abuja from 22 to 24 September 2026 to harmonise fragmented social protection data, under the EU-funded SUSI programme. The meeting was to introduce a Social Protection Management Information System and inaugurate a committee to produce an annual social protection statistics bulletin.
 
 </div>
 
@@ -1913,7 +1913,7 @@ MTN Group Foundation and the Gates Foundation launched the Nigeria Maternal Heal
 
 **[At AGROW Dialogue In Abuja, Kyari Calls For National Digital Farmers Register To End Duplication, Target Support To Real Farmers - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/)** — Federal Ministry of Information and National Orientation, 29 September 2026
 
-States to enumerate, FDADA to set one standard, NIN link via NIMC; AGROW state funds tied to verified registrations.
+Nigeria's agriculture minister Abubakar Kyari called for a national digital farmers register on 29 September 2026, opening a dialogue in Abuja on the AGROW programme's digital agriculture architecture. States would enumerate and verify farmers, a federal agricultural data department would set one standard, farmers would be linked to their NIN through NIMC, and state AGROW funds would depend on verified registrations.
 
 </div>
 
@@ -1927,7 +1927,7 @@ States to enumerate, FDADA to set one standard, NIN link via NIMC; AGROW state f
 
 **[Kwara Governor Approves Digital Medical Records for Public Hospitals](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/)** — Voice of Nigeria, 12 October 2026
 
-Rollout via Hospitals Management Board under HOPE-PHC; staff training from November 2026 after six-hospital pilot.
+Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medical records across state-owned hospitals, to be implemented by the state Hospitals Management Board under the HOPE-PHC project. Health workers begin training in November 2026, following a digitisation pilot in six hospitals. No cost or supplier is named.
 
 </div>
 
@@ -1965,7 +1965,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Aiyedatiwa Ushers in New Era of Digital Governance with Ondo Pay](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/)** — ThisDay, 4 September 2026
 
-AI-enabled state payroll and HR platform tying employee records to Bank Verification Number data.
+Nigeria's Ondo State government launched Ondo Pay, an AI-enabled human resources and payroll platform for its civil service, combining employee records, salary computation, approvals and pension migration. A mobile app gives staff access to payslips and deductions. The state says linking records to Bank Verification Number data will remove duplicate and non-genuine records and unauthorised payments.
 
 </div>
 
@@ -1979,7 +1979,7 @@ AI-enabled state payroll and HR platform tying employee records to Bank Verifica
 
 **[Shettima urges swift action as Nigeria prepares for nationwide rollout of 112 emergency line](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line)** — NALTF (Federal Government of Nigeria), 9 September 2026
 
-Committee of NPF, NCC, NEMA and FRSC to write the 112 rollout roadmap for NEC endorsement.
+Nigeria's Vice-President Kashim Shettima directed a committee of the police, the Nigerian Communications Commission, the National Emergency Management Agency and the Federal Road Safety Corps to finalise a roadmap and operating procedures for the nationwide 112 emergency number, at a meeting in Abuja on 8 September 2026. The plan goes to the National Economic Council, which has approved 112 as the single emergency number. No budget is given.
 
 </div>
 
@@ -1993,7 +1993,7 @@ Committee of NPF, NCC, NEMA and FRSC to write the 112 rollout roadmap for NEC en
 
 **[As Nigeria's procurement goes digital, why can't citizens see the contracts?](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/)** — Development Diaries, 9 September 2026
 
-BPP portal now mandatory, contract awards still unpublished - the statutory duties that require it.
+Nigeria's Bureau of Public Procurement has made its Digital Submission Portal mandatory for procurement requests from federal ministries, departments and agencies, Development Diaries reports. The outlet notes that the government has not said it will publish contract awards, amounts or delivery records, and cites duties under the Public Procurement Act 2007 to maintain a contractor database and keep procurement records.
 
 </div>
 
@@ -2007,7 +2007,7 @@ BPP portal now mandatory, contract awards still unpublished - the statutory duti
 
 **[Nigeria's digital government adoption now 50%, weekly usage hits 91%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91)** — Techeconomy, 9 September 2026
 
-BCG's 8th biennial citizen survey: Nigeria 50% digital-government adoption, 91% weekly AI use.
+Boston Consulting Group's eighth biennial Digital Government Citizen Survey, covering 44 countries, found 91% of Nigerian respondents use AI weekly, the highest of any market surveyed. Nigeria's adoption of digital government services stands at 50%, and net satisfaction with them fell five points since 2024 to 64%.
 
 </div>
 
@@ -2063,7 +2063,7 @@ Ondo State launched Ondo AI, a platform built by SmartApps IT Limited that autom
 
 **[NASS to digitise records, translate laws into local languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html)** — Premium Times, 29 September 2026
 
-Library Trust Fund plans e-repositories, app and Bills Tracker; Clerk warns of altered copies of Acts circulating online.
+Nigeria's National Assembly Library Trust Fund said on 28 September 2026 that it is building electronic repositories, a legislative mobile app and a Bills Tracker, and plans to translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages. Executive secretary Henry Nwawuba announced the plans at the opening of the 2026 National Assembly Library Week. No cost or timetable is given.
 
 </div>
 
@@ -2109,7 +2109,7 @@ INEC chairman Joash Amupitan told a Yiaga Africa forum on AI and democracy in Ab
 
 **[Anambra Assesses 25 MDAs for Digital Compliance](https://von.gov.ng/anambra-assesses-25-mdas-for-digital-compliance/)** — Voice of Nigeria, 6 September 2026
 
-Preliminary findings: NDPA 2023 compliance uncertain in some state MDAs, records management uneven.
+Anambra State's ICT agency in Nigeria has assessed about 25 state ministries, departments and agencies on websites, email, digital records and payments, cybersecurity and compliance with the Nigeria Data Protection Act 2023. Preliminary findings, released on 6 September 2026, show uncertain data-protection compliance in some bodies and uneven records management; a digital maturity scorecard is being developed.
 
 </div>
 
@@ -2123,7 +2123,7 @@ Preliminary findings: NDPA 2023 compliance uncertain in some state MDAs, records
 
 **[UK inaugurates SPRIRET initiative in Abia to accelerate digital transformation - Prime Post](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/)** — Prime Post, 17 September 2026
 
-UK Digital Access Programme reaches Abia; 450 civil servants trained, hubs at Okporoenyi and Arochukwu.
+The UK launched SPRIRET, a programme of policy and institutional reforms for digital transformation, in Nigeria's Abia State on 17 September 2026, funded under its Digital Access Programme and run by the Initiative for Digital Inclusion. Deputy high commissioner Jonny Baxter said 450 civil servants have been trained and one community connectivity hub is running, at Okporoenyi.
 
 </div>
 
@@ -2165,7 +2165,7 @@ Nigeria's Anambra State launched a redesigned website as a single entry point to
 
 **[Amadun Alu 2.0: Project Beyond 2027](https://sokotostate.gov.ng/amadun-alu-2-0-project-beyond-2027-by-dr-nasir-daniya-mni/)** — Sokoto State Government, 1 October 2026
 
-Sokoto ministry's account: SICTDA law April 2025, 10,000-person skills drive, NDPA rollout to 23 LGAs, 2027 asks.
+The permanent secretary of Nigeria's Sokoto State Ministry of Innovation and Digital Economy describes the state's digital programme in a signed essay. It records the law creating a state ICT development agency, passed in April 2025, and a 10,000-person digital skills programme launched in November 2024. The ministry's 2027 budget proposals seek investment in connectivity, power and skills; no amounts are given.
 
 </div>
 
@@ -2179,7 +2179,7 @@ Sokoto ministry's account: SICTDA law April 2025, 10,000-person skills drive, ND
 
 **[Adamawa Launches Civil Service Digitisation, ERP Reform](https://dailytrust.com/adamawa-launches-civil-service-digitisation-erp-reform/)** — Daily Trust, 12 October 2026
 
-State ERP kick-off 9 Oct 2026; one record across three offices for payroll integrity; state-hosted, NDPA-compliant.
+Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Building Project at a kick-off meeting on 9 October 2026. The enterprise resource planning system will hold one set of personnel and payroll records for the Civil Service Commission, the Head of Service and the Accountant-General, hosted on state infrastructure. No supplier or cost is given.
 
 </div>
 
@@ -2195,7 +2195,7 @@ State ERP kick-off 9 Oct 2026; one record across three offices for payroll integ
 
 **[FG turns to blended funding for community-owned rural telecom networks](https://businessday.ng/technology/article/fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks/)** — BusinessDay, 5 October 2026
 
-USPF funds towers and backhaul, REA solar power, states land and right of way; community cooperatives own the sites.
+Nigeria plans to finance community-owned telecom towers in unconnected areas through the Universal Service Provision Fund for telecom equipment, the Rural Electrification Agency for solar power and state governments for land and rights of way, a resolution of the communications regulator's investment forum. Community cooperatives would own the sites. A rollout of about 3,700 towers is due to start in October, with 200 by December 2026.
 
 </div>
 
@@ -2235,7 +2235,7 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 
 **[NITDA warns organisations, staff against sharing sensitive data with public AI tools](https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/)** — Nairametrics, 4 October 2026
 
-CERRT.NG advisory on X: no PII, classified or confidential data in ChatGPT, Gemini, Claude, Copilot; approved tools only.
+Nigeria's IT development agency NITDA warned organisations and staff, in an advisory posted on X through its emergency response team CERRT.NG, not to enter personal, classified or confidential information into public AI tools such as ChatGPT, Gemini, Claude and Copilot. It said such data may be retained or used for training, and that exposing personal data could breach data protection law.
 
 </div>
 
@@ -2243,7 +2243,7 @@ CERRT.NG advisory on X: no PII, classified or confidential data in ChatGPT, Gemi
 
 **[NITDA warns Nigerians against sharing NIN, BVN, others with AI platforms](https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/)** — The Punch, 5 October 2026
 
-Safe Use of AI Platforms advisory: keep NIN, BVN, bank and medical data out of chatbots; organisations need AI policies.
+Nigeria's IT development agency, NITDA, published an advisory on 5 October 2026 warning people not to enter identity numbers, bank verification numbers, bank details, photographs or medical results into public AI tools such as ChatGPT, Gemini and Claude. It tells organisations to adopt AI governance policies naming approved tools and data-handling rules.
 
 </div>
 
@@ -2273,7 +2273,7 @@ Nigeria's institute of software practitioners says it will launch a national sof
 
 **[ICT Contribution to GDP Rises to 21% - Minister](https://von.gov.ng/ict-contribution-to-gdp-rises-to-21-minister/)** — Voice of Nigeria, 14 September 2026
 
-Minister Bosun Tijani puts ICT at 21% of GDP, up from about 16% in three years, at the NDPC HQ opening.
+Nigeria's communications and digital economy minister Bosun Tijani said on 14 September 2026 that the ICT sector's share of GDP has risen from about 16 to 21 per cent in three years. He spoke at the opening of the Nigeria Data Protection Commission's Abuja headquarters, in a property recovered by the EFCC. The commission said it has licensed 356 compliance organisations and earned more than N12 billion in three years.
 
 </div>
 
@@ -2309,7 +2309,7 @@ The terms of reference, dated 21 September 2026, for the iDICE consultancy to bu
 
 **[OPay Limited — Form F-1 Registration Statement under the Securities Act of 1933 (filed 9 October 2026)](https://www.sec.gov/Archives/edgar/data/2103076/000119312526418812/d56487df1.htm)** — OPay Limited, filed with the U.S. Securities and Exchange Commission (EDGAR), 9 October 2026
 
-NYSE listing as OPAY; Cayman holding, Singapore offices; 50.1m monthly users (July 2026); Standard Bank placement.
+OPay Limited, the Nigerian-operated payments company registered in the Cayman Islands with offices in Singapore, filed for an initial public offering with the US Securities and Exchange Commission on 9 October 2026, seeking to list American depositary shares on the New York Stock Exchange as OPAY. It reports 50.1 million monthly active users at 31 July 2026. A Standard Bank Group company has agreed to buy shares in a concurrent private placement of up to US$200 million.
 
 </div>
 
@@ -2317,7 +2317,7 @@ NYSE listing as OPAY; Cayman holding, Singapore offices; 50.1m monthly users (Ju
 
 **[Standard Bank to take up to $200-million stake in OPay](https://techcentral.co.za/standard-bank-opay-stake-ipo/287154/)** — TechCentral, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Registration statement caps Stanbic stake at US$200m or 4.99%; 12-month lock-up; Fuzile to join OPay board.
+OPay, the Nigeria-focused fintech, filed on 9 October 2026 to list in New York; its registration statement shows Standard Bank's Stanbic Africa Holdings will buy up to $200 million of shares in a private placement alongside the IPO, with a 12-month lock-up. OPay reported 50.1 million monthly active users and $339.1 billion of transactions in the first half of 2026.
 
 </div>
 
@@ -2377,7 +2377,7 @@ The EU used the Boost Africa Impact Forum in Abuja to argue that access to finan
 
 **[EU, EIB Invest EUR108m to Drive African Entrepreneurship, Create 15,000 Jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/)** — THISDAYLIVE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-EUR 108m committed under Boost Africa, EUR 400m leveraged and 15,000 jobs claimed.
+The European Union and the European Investment Bank have invested €108 million through the Boost Africa initiative for African entrepreneurs, attracting a further €400 million and creating up to 15,000 jobs, the EU ambassador to Nigeria, Gautier Mignot, said in Abuja on 9 September 2026. He spoke ahead of the Boost Africa Impact Forum.
 
 </div>
 
@@ -2385,7 +2385,7 @@ EUR 108m committed under Boost Africa, EUR 400m leveraged and 15,000 jobs claime
 
 **[EU, EIB Highlight Boost Africa's Impact On Entrepreneurs](https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/)** — Voice of Nigeria, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-EUR108m placed through Boost Africa in a decade, leveraging about EUR400m more; EUR1 attracts EUR3.
+The EU and the European Investment Bank said at a forum in Abuja that their Boost Africa programme invested €108 million through venture capital funds over its first decade, attracting about €400 million more from other investors. EU ambassador Gautier Mignot named Nigeria a key beneficiary, and the EIB said it had launched new operations there.
 
 </div>
 
@@ -2407,7 +2407,7 @@ Nigeria's small-business agency broke ground in Abuja on a US$12 million entrepr
 
 **[Tinubu welcomes $12 million Abuja Entrepreneurship Centre to strengthen Nigeria's MSME ecosystem](https://statehouse.gov.ng/tinubu-welcomes-12-million-abuja-entrepreneurship-centre-to-strengthen-nigerias-msme-ecosystem/)** — The State House, Abuja, 23 September 2026
 
-Presidency statement: US$5.9m construction, US$6.1m equipment and programmes; targets 1,500 MSMEs.
+Nigeria's President Bola Tinubu welcomed construction of the $12 million Abuja Centre for Entrepreneurship, funded by the Korea International Cooperation Agency with SMEDAN and the UN Development Programme at Idu, Abuja, the State House said on 23 September 2026. About $5.9 million goes to construction and $6.1 million to equipment and programmes; the initial target is 500 entrepreneurs, 400 start-ups and 1,500 small businesses.
 
 </div>
 
@@ -2467,7 +2467,7 @@ NITDA and the University of Port Harcourt's Centre for Information and Telecommu
 
 **[FG Enrols 16,000 Nigerians in Maiden Digital Training Academy Cohort](https://www.thisdaylive.com/2026/09/09/fg-enrols-16000-nigerians-in-maiden-digital-training-academy-cohort/)** — ThisDay, 9 September 2026
 
-72,850 applications across 36 states and the FCT, 17 August to 1 September; national launch set for 14 September 2026.
+Nigeria's education ministry admitted 16,000 people to the first cohort of its free Digital Training Academy, from 72,850 applications received between 17 August and 1 September 2026, of which 19,699 met entry requirements. Training is delivered through Coursera and Pluralsight under the Nigeria Education Digital Infrastructure programme, with a national launch on 14 September.
 
 </div>
 
@@ -2489,7 +2489,7 @@ Nigeria launched a Digital Training Academy in Abuja with more than N10.5 billio
 
 **[FG commits N6bn to boost ICT infrastructure, digital skills in 6 zones](https://theabujainquirer.com/2026/09/10/fg-commits-n6bn-to-boost-ict-infrastructure-digital-skills-in-6-zones/)** — The Abuja Inquirer, 10 September 2026
 
-N1bn per geopolitical zone; South-East centre commissioned at Federal Polytechnic, Oko, on 10 September 2026.
+Nigeria's Tertiary Education Trust Fund (TETFund) has approved N1bn for an ICT Experience Centre in each of the six geopolitical zones, N6bn in all, and the South-East centre at the Federal Polytechnic, Oko, was commissioned by the First Lady on 10 September 2026. The centres are to train students and lecturers in AI, cybersecurity, robotics and software. The approval date is not given.
 
 </div>
 
@@ -2503,7 +2503,7 @@ N1bn per geopolitical zone; South-East centre commissioned at Federal Polytechni
 
 **[Call For Applications: Mastercard/CcHUB Digital Skills GATEWAY Program 2026 for Nigerians](https://msmeafricaonline.com/call-for-applications-mastercard-cchub-digital-skills-gateway-program-2026-for-nigerians/)** — MSME Africa, 14 September 2026
 
-Five-year GATEWAY programme targets 400,000 young Nigerians for gig-economy digital skills.
+The Mastercard Foundation and Co-Creation Hub opened applications for their GATEWAY programme, which aims to train 400,000 young Nigerians over five years for gig-economy work. Participants choose digital marketing, graphic design, UI/UX design or video production, on a beginner or an advanced pathway, with mentoring and career support.
 
 </div>
 
@@ -2531,7 +2531,7 @@ The eighth phase of an operator foundation's skills programme narrowed its intak
 
 **[iDICE: FG to offer digital, employability training for 50,000 North-Central youths - Prime Post](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/)** — Prime Post (NAN), 30 September 2026
 
-Tech4Dev consortium to train 50,000 youths in seven North-Central states and FCT; part of 300,000 target.
+Nigeria's iDICE Skills-to-Jobs programme opened free digital and business-process-outsourcing training for 50,000 young people in North-Central Nigeria, announced on 30 September 2026. Tech4Dev, with TeleSoftas and Taltrix, will deliver it in Benue, Kogi, Kwara, Nasarawa, Niger, Plateau and the FCT, towards a national target of 300,000.
 
 </div>
 
@@ -2563,7 +2563,7 @@ Nigeria's Digital Bridge Institute has been designated an ITU Digital Transforma
 
 **[Nigeria Smartphone Study: A Nationwide Analysis of Smartphone Ownership and Digital Application Usage](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf)** — KPMG Nigeria; Orange Group, 1 September 2026
 
-13,251 respondents in 12 cities: ownership 75% (2025, from 64%); OPay on 69% of phones; a third still on 2G.
+KPMG Nigeria and Orange Group's smartphone study, published in September 2026 from 13,251 respondents in 12 cities, puts smartphone ownership at 75% in 2025, up from 64% in 2023. Android runs on 96% of smartphones and WhatsApp on 95%; OPay is installed on 69% and PalmPay on 29%, and over a third of mobile subscribers were still on 2G in May 2026.
 
 </div>
 
@@ -2577,7 +2577,7 @@ Nigeria's Digital Bridge Institute has been designated an ITU Digital Transforma
 
 **[How Nigeria can bring 29m adults into financial system — NIMASA director Ani](https://thesun.ng/how-nigeria-can-bring-29m-adults-into-financial-system-nimasa-director-ani/)** — The Sun Nigeria, 4 September 2026
 
-EFInA 2023: 28.9m Nigerian adults (26%) outside formal finance; financially healthy down 28% to 16%.
+Odunayo Ani, finance director at Nigeria's maritime agency NIMASA, told a Lagos conference that about 28.9 million adults, 26 per cent, remain outside formal finance, citing EFInA's 2023 survey. She named distance, documentation demands, high charges and the digital divide as barriers, and said banking agents rose from 83,560 in 2019 to about 1.92 million in 2024.
 
 </div>
 
@@ -2585,7 +2585,7 @@ EFInA 2023: 28.9m Nigerian adults (26%) outside formal finance; financially heal
 
 **[Access to Financial Services in Nigeria (A2F) 2023 Survey Report](https://a2f.ng/wp-content/uploads/2024/07/A2F-2023-SURVEY-REPORT-1.pdf)** — EFInA (Enhancing Financial Innovation & Access), 18 July 2024
 
-Full text; formal inclusion 64% (57% in 2020); about 45% of adults use digital financial services; 26,930 interviews.
+Nigeria's financial-inclusion body EFInA published its 2023 Access to Financial Services in Nigeria survey, the eighth since 2008, drawn from 26,930 nationally representative interviews. It puts formal financial inclusion at 64%, up from 57% in 2020, and finds about 45% of adults using digital financial services.
 
 </div>
 
@@ -2593,7 +2593,7 @@ Full text; formal inclusion 64% (57% in 2020); about 45% of adults use digital f
 
 **[Report: digital finance usage hits 64%](https://thenationonlineng.net/report-digital-finance-usage-hits-64/)** — The Nation, 17 September 2026
 
-EFInA A2F 2026: digital finance use 45 (2023) to 64 per cent, mobile money 12 to 38, exclusion down to 21.
+EFInA's 2026 Access to Financial Services in Nigeria survey, released in Abuja and reported on 17 September 2026, puts use of digital financial services at 64 per cent and financial exclusion at 21 per cent. Mobile money use rose from 12 per cent in 2023 to 38 per cent, while 53 per cent of adults in the poorest wealth quintile remain excluded and 92 per cent of agricultural workers are paid in cash.
 
 </div>
 
@@ -2601,7 +2601,7 @@ EFInA A2F 2026: digital finance use 45 (2023) to 64 per cent, mobile money 12 to
 
 **[Nigeria's Financial Inclusion Reaches 79% As EFInA's A2F 2026 Survey Points To Next Challenge](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/)** — Independent Newspaper Nigeria, 22 September 2026
 
-79% of adults use financial services, 73% formally, past the 70% NFIS target; CBN turns to usage and health.
+EFInA's ninth Access to Financial Services in Nigeria survey, released on 16 September 2026, found that 79% of adults, about 94.2 million people, use a financial product or service. Formal inclusion reached 73%, above the 70% target of the National Financial Inclusion Strategy. The Central Bank of Nigeria said the focus now shifts to usage, affordability, trust and financial health.
 
 </div>
 
@@ -2609,7 +2609,7 @@ EFInA A2F 2026: digital finance use 45 (2023) to 64 per cent, mobile money 12 to
 
 **[Nigeria hits 73% financial inclusion target, but 60.4 million adults remain vulnerable](https://nairametrics.com/2026/10/05/nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable/)** — Nairametrics, 5 October 2026
 
-A2F 2026: only 30.7% of formally included adults financially healthy; coping loans now 40.8% of formal borrowing.
+The 2026 Access to Financial Services survey by EFInA and Nigeria's statistics bureau found formal financial inclusion at 73% of adults, above the 70% national target, and use of digital financial services at 64.4%, up from 45% in 2023. Only 30.7% of formally included adults are financially healthy, leaving about 60.4 million adults vulnerable. The survey covered 18,679 adults between April and June 2026.
 
 </div>
 
@@ -2623,7 +2623,7 @@ A2F 2026: only 30.7% of formally included adults financially healthy; coping loa
 
 **[UK Backs Rural Digital Revolution With Community Hub in Ogun](https://www.thisdaylive.com/2026/09/09/uk-backs-rural-digital-revolution-with-community-hub-in-ogun/)** — ThisDay, 9 September 2026
 
-Siun Community Self-Built Connectivity Hub inaugurated 2 September 2026, one of ten under the FCDO Access Programme.
+A community-owned connectivity hub was inaugurated on 2 September 2026 at Siun in Obafemi Owode, Ogun State, Nigeria, under the UK Foreign, Commonwealth and Development Office's Digital Access Programme. It is one of ten community hubs the programme supports in Nigeria, built with local materials and residents' labour. No cost or connection capacity is given.
 
 </div>
 
@@ -2639,7 +2639,7 @@ The UK Digital Access Programme inaugurated the Siun Community Self-Built Connec
 
 **[Eze Eberechukwu Oji Commissions Amuvi Community Self-Built Connectivity Hub](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/)** — News Leverage, 27 September 2026
 
-FCDO-sponsored, IDI-implemented hub in Arochukwu, Abia: free internet and eight-week training for 100 people.
+A community connectivity hub sponsored by the UK Foreign, Commonwealth and Development Office and run by the Initiative for Digital Inclusion was commissioned at Amuvi, Arochukwu, in Nigeria's Abia State. It offers free internet access and free eight-week training for 100 people in digital marketing, online management and personal digital security. No cost or commissioning date is given.
 
 </div>
 
@@ -2675,7 +2675,7 @@ Nigeria's federal government unveiled an initiative for zero-rated access to edu
 
 **[NCC launches zero-rated access to educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/)** — NewsTimes Nigeria, 10 September 2026
 
-100MB a day for five million students from 1 October 2026; N180bn in annual data value.
+Nigeria's communications commission launched zero-rated data access to approved educational platforms in Abuja on 10 September 2026, starting on 1 October. Education minister Tunji Alausa said about five million students will get 100 MB of free data a day, worth about N180 billion a year; more than 240,000 schools are geomapped in the education management information system.
 
 </div>
 
@@ -2683,7 +2683,7 @@ Nigeria's federal government unveiled an initiative for zero-rated access to edu
 
 **[Reactions as FG plans daily free data for Nigerian students](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/)** — The Point, 11 September 2026
 
-The framework behind the 100MB: joint whitelisting, data-protection and net-neutrality safeguards, MNOs named.
+Nigeria's education minister, Tunji Alausa, said students in public senior secondary schools and tertiary institutions will receive 100MB of free daily data for approved educational platforms from 1 October 2026. The Nigerian Communications Commission runs the scheme with MTN, Airtel and Globacom; the ministry and the commission jointly approve platforms, which must meet data-protection and net-neutrality requirements.
 
 </div>
 
@@ -2727,7 +2727,7 @@ Nigeria's IT development agency said it will work with the Centre for Inclusive 
 
 **[UNICEF targets wider digital learning access as Oyo adopts Nigeria learning passport](https://www.vanguardngr.com/2026/09/unicef-targets-wider-digital-learning-access-as-oyo-adopts-nigeria-learning-passport/)** — Vanguard, 17 September 2026
 
-Oyo becomes the 26th state on the platform; 2.4 million users nationwide and Airtel covers the data cost.
+UNICEF launched the Nigeria Learning Passport in Oyo State on 16 September 2026, the 26th state to adopt the digital learning platform. About 2.4 million children and teachers use it nationwide for curriculum lessons in mathematics, English and science, online or offline, with Airtel covering data costs. UNICEF asked the state to train its 5,000 newly recruited teachers to use it.
 
 </div>
 
@@ -2741,7 +2741,7 @@ Oyo becomes the 26th state on the platform; 2.4 million users nationwide and Air
 
 **[Joint Statement on the Unexplained TikTok Disruption in Northern Nigeria by Civil Society Organisations](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/)** — Paradigm Initiative, 2 October 2026
 
-Signatories' own text: independent DNS/SNI testing, directive disclosure, a national disruption transparency protocol.
+Nigerian civil society groups including Paradigm Initiative, Media Rights Agenda, CJID and Accountability Lab said on 2 October 2026 that TikTok access in Kaduna, Kebbi, Kano and Sokoto had been disrupted since about 14 September, with no public explanation. They asked the Nigerian Communications Commission and other agencies to investigate and publish findings, to disclose any government directive and its legal basis, and to allow independent network testing.
 
 </div>
 
@@ -2773,7 +2773,7 @@ A second report of the suit over TikTok access in four northern Nigerian states,
 
 **[From strategy to action: Nigeria's communities push to bridge the digital divide](https://www.apc.org/en/news/strategy-action-nigerias-communities-push-bridge-digital-divide)** — Association for Progressive Communications (APC), 24 September 2026
 
-Six priorities, 100,000+ eligible communities, aggregator licensing study; Abuja bootcamp 28 Sep-2 Oct 2026.
+The Association for Progressive Communications reported on 24 September 2026 that Nigeria's National Strategy for Community-Centred Connectivity Initiatives, running to March 2027, is moving into implementation. Regulators estimate more than 100,000 communities may be eligible for support, and an aggregator licensing model is under study. A first community connectivity bootcamp was held in Abuja from 28 September to 2 October.
 
 </div>
 
@@ -2791,7 +2791,7 @@ Six priorities, 100,000+ eligible communities, aggregator licensing study; Abuja
 
 **[FG moves to enhance Nigeria's economic management planning, budgeting](https://tribuneonlineng.com/fg-moves-to-enhance-nigerias-economic-management-planning-budgeting/)** — Tribune Online, 2 September 2026
 
-Standing Committee on Macroeconomic Data created; central repository and unified reporting framework agreed.
+Nigeria's finance ministry and its budget and economic planning ministry set up a Standing Committee on Macroeconomic Data and Assumptions and agreed to build a central government data repository, according to a statement reported on 2 September 2026. A validation workshop found wide gaps between past budget assumptions and outcomes, especially for oil output and revenue. The workshop's date is not given.
 
 </div>
 
@@ -2821,7 +2821,7 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 
 **[PROMAD Unveils 5-year Strategy To Scale Up Civic Tech, Citizen Participation - News Agency Of Nigeria](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/)** — News Agency of Nigeria, 3 September 2026
 
-2026-2030 strategy targets participatory budgeting and project tracking in 10-15 Nigerian states.
+PROMAD Infotech Foundation, a Nigerian civic-technology non-profit, unveiled a 2026–2030 strategy on 3 September 2026 that aims to institutionalise participatory budgeting and public-project tracking in 10 to 15 states. Founder Daisi Omokungbe told the News Agency of Nigeria it builds on the foundation's FollowTheProjects and Isunawa AI platforms and plans expansion to other African countries by 2030. No funding figure is given.
 
 </div>
 
@@ -2837,7 +2837,7 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 
 **[Nigeria targets $1bn space investment as Africa pushes space sovereignty](https://businessday.ng/technology/article/nigeria-targets-1bn-space-investment-as-africa-pushes-space-sovereignty/)** — Businessday NG, 10 September 2026
 
-FEC-approved six-satellite programme and a rocket propulsion centre; minister seeks US$1bn+ from private partners.
+Nigeria's Federal Executive Council has approved six new satellites, two for communications and four for Earth observation, and a space transport and propulsion centre, innovation minister Kingsley Tochukwu Udeh said at the International Space Summit in Paris. He said the sector could absorb more than US$1 billion and sought private and foreign partners. Approval dates are not stated.
 
 </div>
 

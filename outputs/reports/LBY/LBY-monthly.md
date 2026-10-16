@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: LBY
 ledger_rows: 36
 not_held: 4
-record: f67e60975f9a
+record: 19fb80077510
 ---
 
 # Libya: monthly update, September – October 2026
@@ -109,7 +109,7 @@ record: f67e60975f9a
 
 **[بوشيحة يصدر قرارًا لتنظيم توريد السلع والبضائع عبر القنوات المصرفية اعتبارًا من 30 سبتمبر](https://lana.gov.ly/post.php?id=365055&lang=ar)** — Libyan News Agency (LANA), 7 September 2026
 
-Decision 449 of 2026 routes trade-goods supply through banking channels from 30 September 2026 — not the PTS decision.
+Libya's economy and trade minister Suhail Bushiha issued Decision No. 449 of 2026 on 7 September, banning the import of goods for trade outside banking channels from 30 September 2026. Customs may release commercial shipments only once banking, trade and customs requirements are met and the shipment's true value is documented; licensed individual traders get an annual import ceiling.
 
 </div>
 
@@ -133,7 +133,7 @@ The capital's chamber of commerce met on the economy minister's decision 449 of 
 
 **[UNDP, Ooredoo Group and Doha Institute for Graduate Studies convene Arab digital policy leaders to accelerate digital and AI policy implementation](https://www.undp.org/arab-states/press-releases/undp-ooredoo-group-and-doha-institute-graduate-studies-convene-arab-digital-policy-leaders-accelerate-digital-and-ai)** — United Nations Development Programme, 2 September 2026
 
-Arab States digital policy framework moves to country roadmaps; Libya's AI minister attends.
+UNDP, Ooredoo Group and the Doha Institute for Graduate Studies held a forum for Arab digital and AI policy leaders in Doha on 1–2 September 2026, with GSMA and Women in AI. It opened the country-level phase of the Digital Policy Framework for the Arab States, launched in November 2025. Libya's Minister of State for Digital Economy and AI, Ziad Abdelwaret Elhajjaji, took part.
 
 </div>
 
@@ -149,7 +149,7 @@ Arab States digital policy framework moves to country roadmaps; Libya's AI minis
 
 **[During its sixth regular meeting in Tripoli, the High Technical Committee for the National Information System reviewed financial indicators and established rules for membership and future work](https://www.gia.gov.ly/en/2026/09/06/during-its-sixth-regular-meeting-in-tripoli-the-high-technical-committee-for-the-national-information-system-reviewed-financial-indicators-and-established-rules-for-membership-and-future-work/)** — General Information Authority (Libya), 6 September 2026
 
-Permanent seats tied to the office of Director of Information and Documentation Centre; proxies need a letter.
+Libya's High Technical Committee for the National Information System met in Tripoli on 1 September 2026 and ruled that permanent membership belongs to the director of each ministry's information and documentation centre, with proxies accepted only by official letter in emergencies. The finance ministry's information centre presented national financial-sector indicators and how they are produced.
 
 </div>
 
@@ -167,7 +167,7 @@ Permanent seats tied to the office of Director of Information and Documentation 
 
 **[بيان مصرف ليبيا المركزي عن الإيراد والإنفاق من 01/01/2026 حتى 31/08/2026](https://cbl.gov.ly/micifaf/2026/05/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026-4.pdf)** — مصرف ليبيا المركزي (Central Bank of Libya), 10 September 2026
 
-Libya central bank, Jan-Aug 2026: spending 68.7bn LYD, oil revenue 80.8bn, telecoms 31.1m; first under unified deal.
+The Central Bank of Libya's statement of revenue and expenditure for January to August 2026, released on 10 September, records spending of about 68.7 billion dinars and oil revenue of 80.8 billion. Telecommunications revenue was 31.1 million dinars, and the General Authority for Communications and its affiliates spent 25.2 million dinars, almost all on salaries and running costs.
 
 </div>
 
@@ -175,7 +175,7 @@ Libya central bank, Jan-Aug 2026: spending 68.7bn LYD, oil revenue 80.8bn, telec
 
 **[بيان الإيراد والانفاق لشهر سبتمبر – 2026](https://cbl.gov.ly/micifaf/2026/10/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%B3%D9%8A%D8%AA%D9%85%D8%A8%D8%B1-2026.pdf)** — مصرف ليبيا المركزي (Central Bank of Libya), 8 October 2026
 
-Central Bank of Libya's statement of state revenue and expenditure, January-September 2026, with e-payment indicators.
+The Central Bank of Libya's statement of state revenue and spending for January to September 2026, issued on 8 October, puts revenue at LYD 114.5bn, mostly from oil, and spending at LYD 88.6bn, of which LYD 1.6bn was development spending. Telecommunications brought in LYD 31.1m, and the General Authority for Communications spent about LYD 31.7m. It also lists electronic payment indicators.
 
 </div>
 
@@ -207,7 +207,7 @@ A Libyan operator's live retail tariff card runs from 0.5 dinars for 50MB over o
 
 **[Starlink’s Libya Market Entry Remains on Hold as Negotiations Continue](https://spaceinafrica.com/2026/09/13/starlinks-libya-market-entry-remains-on-hold-as-negotiations-continue/)** — Space in Africa, 13 September 2026
 
-GACI sources say no agreement yet on licensing, spectrum or coverage two years into talks.
+Talks between Starlink and Libya's General Authority for Communications and Informatics, open since 2024, had produced no agreement on licensing, spectrum or coverage as of 13 September 2026, according to regulator sources cited by Space in Africa. The regulator wants a local gateway in Libya, which Starlink has not accepted, though the company has agreed to set up a locally registered subsidiary.
 
 </div>
 
@@ -235,7 +235,7 @@ Libya's telecoms authority and the ITU held a first two-day workshop in Tripoli 
 
 **[LPTIC Subsidiary Reviews Progress on 7,000 Telecom Towers Project](https://libyaherald.com/2026/10/lptics-al-bunyan-discusses-progress-of-developing-the-7000-telecommunications-towers-project)** — Libya Herald, 3 October 2026
 
-Al-Bunya general assembly, 2 Oct 2026; towers under LPTIC 2030 vision: lower costs, new revenue, group engineers.
+Al-Bunya Investment and Services Company, a subsidiary of Libya's state telecoms holding company LPTIC, discussed its project for 7,000 telecommunications towers at its general assembly, reported on 3 October 2026. The company says the project aims to cut infrastructure operating costs, diversify revenue and use engineers from LPTIC's own companies. No progress figures, cost or timetable are given.
 
 </div>
 
@@ -297,7 +297,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[وزارة التعليم التقني والفني تعلن قرب إطلاق النسخة المحدثة من منظومة الأرشفة الإلكترونية](https://lana.gov.ly/post.php?id=366096&lang=ar)** — وكالة الأنباء الليبية, 23 September 2026
 
-Upgraded system rebuilt on user feedback with access controls and backups; operator training from 28 Sep 2026.
+Libya's Ministry of Technical and Vocational Education said on 23 September 2026 that an upgraded version of its electronic archiving system is close to launch, with testing and approval under way and user training to follow. The ministry said the update adds stronger access controls, backups and security.
 
 </div>
 
@@ -313,7 +313,7 @@ Upgraded system rebuilt on user feedback with access controls and backups; opera
 
 **[مناقشة وضع خطة وطنية متكاملة للأمن السيبراني](https://lana.gov.ly/post.php?id=365878&lang=ar)** — وكالة الأنباء الليبية (وال), 20 September 2026
 
-Bin Ghalboun convenes four cyber and information bodies; emergency plans, early warning, joint monitoring.
+Libya's minister of state Mohammed bin Ghalboun chaired a meeting in Tripoli on 20 September 2026 on drawing up an integrated national cybersecurity plan, with the heads of the cybersecurity authority, the General Information Authority and the national information security authority. It covered cyber emergency plans, early warning, incident response and a joint mechanism to monitor compliance. No plan text or deadline was published.
 
 </div>
 
@@ -345,7 +345,7 @@ Libya's Attorney General's Office ordered two National Oil Corporation officials
 
 **[إيقاف 3090 رقما وطنيا مزورا وإحالة متهمين للتحقيق](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/)** — ليبيا الأحرار, 10 September 2026
 
-3,090 National Numbers issued on forged civil-status data at the Majdul registry office halted.
+Libya's Public Prosecutor halted 3,090 national identification numbers issued on forged civil-status data at the Majdul civil registry office, where investigators found failures in managing family records. The numbers had been used to obtain documents claiming citizenship rights. One suspect was remanded in custody and arrest orders were issued for others, within the jurisdiction of the Sebha Court of Appeal.
 
 </div>
 
@@ -361,7 +361,7 @@ Libya's public prosecutor announced another case of civil-status records falsifi
 
 **[النائب العام يكشف تزوير 315 ألف رقم وطني وتجميد رواتب ومعاشات مرتبطة بها](https://alwasat.ly/news/481422)** — Alwasat (Bawabat Al-Wasat), 13 October 2026
 
-Over 10,000 passports on forged data; LYD 84.5m in salaries frozen; civil registry and National Number databases clash.
+Libya's Attorney General, Al-Siddiq Al-Sour, said on 13 October 2026 that a data review found more than 315,000 National Numbers issued unlawfully and over 10,000 passports issued on forged data. Authorities suspended 8,662 National Numbers, recalled 1,855 passports and froze LYD 84.5m in salaries and pensions. He also reported mismatches between the civil registry, National Number and voter databases.
 
 </div>
 
@@ -377,7 +377,7 @@ Over 10,000 passports on forged data; LYD 84.5m in salaries frozen; civil regist
 
 **[عيسى يناقش مع المصارف التجارية توفير السيولة والنقد الأجنبي](https://lana.gov.ly/post.php?id=364857&lang=ar)** — Libyan News Agency (LANA), 3 September 2026
 
-LD 764.9bn of e-payments 1 January to 31 August 2026, alongside liquidity and foreign-currency measures.
+Central Bank of Libya governor Naji Issa met commercial banks and the payments company Moamalat in Tripoli on 3 September 2026 on cash liquidity, foreign-currency supply and the electronic payment system. The central bank put the gross value of electronic payments across all systems from 1 January to 31 August 2026 at about 764.9 billion Libyan dinars.
 
 </div>
 
@@ -455,7 +455,7 @@ A privately owned Libyan bank said it will launch a direct mobile payment servic
 
 **[مصرف ليبيا المركزي يضع ضوابط جديدة للمحافظ الإلكترونية ويرفع سقف التحويل اليومي إلى مليوني دينار للشركات - Bankawy](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/)** — Bankawy - أفهم .. قارن .. أختار .. سهلنا عليـك المشوار, 14 September 2026
 
-Circular 9/2026: e-wallets opened to legal foreign residents; daily ceilings 100k, 500k and 2m dinars.
+The Central Bank of Libya issued Circular 9/2026 on mobile payments and e-wallets, reported on 14 September 2026. It lets licensed payment companies issue wallets to legally resident foreigners with a valid passport or residence document. Daily limits for Libyan citizens are 100,000 dinars person to person, 500,000 person to company and 2 million company to company; foreigners' limits are lower.
 
 </div>
 
@@ -469,7 +469,7 @@ Circular 9/2026: e-wallets opened to legal foreign residents; daily ceilings 100
 
 **[The Central Bank of Libya announces the commencement of September salary payments through the "Your Salary Instantly" system](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/)** — Central Bank of Libya, 28 September 2026
 
-About 1.75m of 2.2m public employees on the system, 79% participation; complaints handling being automated.
+The Central Bank of Libya began paying September 2026 public-sector salaries through its "Your Salary Instantly" system on 28 September. About 1.75 million of 2.2 million public employees are registered, a 79% participation rate. The bank is working with the Ministry of Finance to automate complaints about unpaid salaries.
 
 </div>
 
@@ -485,7 +485,7 @@ About 1.75m of 2.2m public employees on the system, 79% participation; complaint
 
 **[بدء العمليات التجريبية لإصدار الرقم الاقتصادي الموحد إلكترونياً](https://alwasat.ly/news/477443)** — Alwasat (Bawabat Al-Wasat), 9 September 2026
 
-Pilot electronic issuance under Cabinet Decision No. 348 of 2026; National Number and linked phone required to obtain it.
+Libya's National Council for the Unified Economic Number began pilot electronic issuance of a single identifier for economic, commercial and investment entities on 9 September 2026, under Cabinet Decision No. 348 of 2026. Applicants' National Number must match the phone number registered to it. The number is issued free through the Dawlati government services platform.
 
 </div>
 
@@ -531,7 +531,7 @@ Decree 465 of 2026 makes registration on the unified digital trade system compul
 
 **[مركز خدمة المواطن يبحث دعم منظومة التأشيرة الإلكترونية](https://ar.libyaobserver.ly/article/38605)** — ليبيا أوبزيرفر (Libya Observer, Arabic), 5 September 2026
 
-Joint mechanism with the Passports Authority to take E-Visa enquiries and complaints and unify agency channels.
+Libya's Citizen Service Centre and the Passports, Nationality and Foreigners Affairs Authority agreed a joint technical and administrative support mechanism for the national E-Visa system, reported on 5 September 2026. It will receive and process enquiries and complaints from citizens and residents and unify communication between the agencies involved. No date or resources are given.
 
 </div>
 
@@ -573,7 +573,7 @@ Libya's central bank governor, Naji Issa, put forward an electronic system and a
 
 **[ديوان المحاسبة ينظم ندوة تعريفية لمنصة ( أثر) لإدارة ومتابعة المهام الرقابية .](https://lana.gov.ly/post.php?id=367159&lang=ar)** — Libyan News Agency (LANA), 8 October 2026
 
-Seminar for 140+ audited bodies; digital channel for audit tasks, follow-up and information exchange with the Bureau.
+Libya's Audit Bureau presented its Athar platform for managing and following up audit tasks to more than 140 audited bodies at a seminar in Tripoli on 7 October 2026. Bureau head Khaled Shakshak said it is the digital channel for communication and information exchange between the Bureau and the bodies it audits.
 
 </div>
 
@@ -591,7 +591,7 @@ Seminar for 140+ audited bodies; digital channel for audit tasks, follow-up and 
 
 **[بلدية أبوسليم تبدأ تطبيق منظومة الأرشفة الإلكترونية بإدارة الموارد البشرية](https://lana.gov.ly/post.php?id=365312&lang=ar)** — Libyan News Agency (LANA), 11 September 2026
 
-Tripoli municipality moves staff records and HR documents from paper to an electronic archive.
+Abu Salim municipality in Tripoli, Libya, began using an electronic archiving system in its human resources department on 11 September 2026, storing staff data, records and documents electronically. The municipality says it will speed retrieval and reduce reliance on paper. No supplier or cost is given.
 
 </div>
 
@@ -625,7 +625,7 @@ Summarised under [Energy](#energy).
 
 **[الإعلان في طرابلس عن إطلاق مبادرة (وَصْل) للتمكين الرقمي والذكاء الاصطناعي بقطاع الشؤون الاجتماعية](https://lana.gov.ly/post.php?id=367274&lang=ar)** — Libyan News Agency (WAL), 10 October 2026
 
-Social Affairs and Digital Economy ministries sign MoU; AI skills for staff, digital access for people with disabilities.
+Libya's Ministry of Social Affairs and the Minister of State for Digital Economy and Artificial Intelligence signed a memorandum launching the Wasl initiative at the Libya AI Forum in Tripoli on 10 October 2026. It has two tracks: digital and AI skills for social affairs staff, and digital access for persons with disabilities. No budget or timetable is given.
 
 </div>
 
@@ -657,7 +657,7 @@ Libya's administrative oversight authority has a live complaints and reporting p
 
 **[British Council signs MoU with Benghazi University allowing access to the Council's Digital Library to 70,000 students](https://libyaherald.com/2026/09/british-council-signs-mou-with-benghazi-university-allowing-access-to-the-councils-digital-library-to-70000-students)** — Libya Herald, 9 September 2026
 
-MoU opens 80,000+ digital resources to over 70,000 students after the university lost much of its library in the war.
+The British Council signed a memorandum with the University of Benghazi giving more than 70,000 students access to its Digital Library of over 80,000 resources, the British Embassy announced on 9 September 2026. The university lost much of its library collection during the war. No cost is stated.
 
 </div>
 
@@ -689,7 +689,7 @@ Libya's industry ministry has published an engineering report of industrial and 
 
 **[The General Authority for Information continues its technical meetings to follow up on the work of the Unified Directory for National Indicators with sectoral information centers - GIA](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/)** — GIA - General Authority for Information, 15 September 2026
 
-Ministry drafts due to GIA technical team; final unified directory goes to the High Technical Committee.
+Libya's General Authority for Information met information centres from the Prime Minister's Office and the ministries of oil and gas, marine wealth, economy and trade, and vocational education in Tripoli on 14 September 2026 to work on a Unified Directory for National Indicators. Each body is to send its draft to the authority, which will prepare a final version for approval by the High Technical Committee for the National Information System.
 
 </div>
 

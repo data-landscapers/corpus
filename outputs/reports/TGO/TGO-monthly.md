@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TGO
 ledger_rows: 54
 not_held: 20
-record: 86b658c8aa15
+record: 5e58d8975711
 ---
 
 # Togo: monthly update, September – October 2026
@@ -111,7 +111,7 @@ record: 86b658c8aa15
 
 **[Stratégie de Mobilisation des Recettes à Moyen Terme (SRMT) 2027-2031](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf)** — Ministère des Finances et du Budget (Togo), Comité SRMT, 1 September 2026
 
-FCFA 5,995m of FCFA 10.5bn to the digital axis: e-invoicing, interoperability, AI risk scoring, sovereign hosting.
+Togo's finance ministry published its medium-term revenue mobilisation strategy for 2027-2031 in September 2026. Of its FCFA 10.5 billion cost, FCFA 5,995 million goes to digital transformation, including e-invoicing, links between the revenue authority and treasury systems, AI-assisted risk analysis for tax and customs, and sovereign data hosting. The measures target FCFA 481 billion in extra revenue, with 80% of the cost expected from partners.
 
 </div>
 
@@ -119,7 +119,7 @@ FCFA 5,995m of FCFA 10.5bn to the digital axis: e-invoicing, interoperability, A
 
 **[Fisc : l'IA pour traquer les fraudeurs](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/fisc-l-ia-pour-traquer-les-fraudeurs)** — Republic of Togo, 3 October 2026
 
-Nearly FCFA 6bn of FCFA 10.5bn to e-invoicing, data interconnection, risk scoring, national hosting of tax data.
+Togo's medium-term revenue mobilisation strategy for 2027–2031 allocates nearly FCFA 6 billion of its FCFA 10.5 billion budget to digitising the tax administration. Plans include e-invoicing, linking government information systems, risk-scoring of taxpayers, national hosting of tax data and possible use of artificial intelligence. The strategy targets FCFA 481 billion in additional revenue over the period.
 
 </div>
 
@@ -133,7 +133,7 @@ Nearly FCFA 6bn of FCFA 10.5bn to e-invoicing, data interconnection, risk scorin
 
 **[Togo Reports 68.4% Reform Implementation Rate at Mid-2026](https://www.togofirst.com/en/economic-governance/0209-19927-togo-reports-68-4-reform-implementation-rate-at-mid-2026)** — Togo First, 2 September 2026
 
-68.4% of 2026 reforms implemented by end-June; budget execution at 63.3%.
+Togo's Ministry of Finance and Budget reported on 28 August 2026 that 68.4% of planned reforms had been implemented by end-June, with budget execution at 63.3%. Digital measures named include wider biometric identification and a broader mandate for Cyber Defense Africa. Allocations to local governments total CFAF 16 billion.
 
 </div>
 
@@ -147,7 +147,7 @@ Nearly FCFA 6bn of FCFA 10.5bn to e-invoicing, data interconnection, risk scorin
 
 **[Togo: When Prime Minister Faure Gnassingbé makes social protection the cornerstone of inclusion and resilience](https://sahellibertynews.com/2026/09/14/togo-when-prime-minister-faure-gnassingbe-makes-social-protection-the-cornerstone-of-inclusion-and-resilience/)** — Sahel Liberty News, 14 September 2026
 
-PNPS launched 2025-12-18 targets unconditional cash transfers to over 700,000 vulnerable people.
+Togo's National Social Protection Programme, launched on 18 December 2025, pays unconditional cash transfers to more than 700,000 vulnerable people, with XOF 25,000 per household sent by mobile money. Initial funding of XOF 3.5 billion came with support from the World Bank, AFD and the African Development Bank. The September 2026 article reports no new development.
 
 </div>
 
@@ -161,7 +161,7 @@ PNPS launched 2025-12-18 targets unconditional cash transfers to over 700,000 vu
 
 **[ETFP dual : le Togo mise sur l'entreprise, l'insertion et l'intelligence artificielle](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/)** — Ministère de l'Éducation Nationale (Togo), 22 September 2026
 
-Six-country Lome workshop 21-24 Sep 2026; AI-in-TVET policy drafted; InserJeune to track graduate employment.
+Togo's education minister, Mama Omorou, opened a regional workshop in Lomé on 21 September 2026 on dual technical and vocational training in the digital era, attended by six countries. Its planned outputs are a private-sector engagement guide, operating scenarios for the InserJeune graduate-tracking tool and an expanded national policy on AI in vocational training.
 
 </div>
 
@@ -177,7 +177,7 @@ Six-country Lome workshop 21-24 Sep 2026; AI-in-TVET policy drafted; InserJeune 
 
 **[Les grandes decisions du Conseil des ministres du 07 Septembre 2026](https://presidenceduconseil.gouv.tg/2026/09/08/les-grandes-decisions-du-conseil-des-ministres-du-07-septembre-2026/)** — Presidence du Conseil de la Republique togolaise, 8 September 2026
 
-Council of Ministers of 7 September 2026 adopts three of four bills, including the UMOA Banking Commission convention.
+Togo's Council of Ministers on 7 September 2026 adopted a bill to ratify the revised convention governing the West African Monetary Union's Banking Commission. The revision extends the Commission's supervision to all regulated institutions, not only credit institutions, and covers resolution and depositor protection. The Council also adopted a bill on banking regulation in Togo.
 
 </div>
 
@@ -205,7 +205,7 @@ The territorial administration ministry ran a three-day technical workshop from 
 
 **[Régulation du numérique : La HARC engage le dialogue avec les créateurs de contenus](https://togopresse.tg/regulation-du-numerique-la-harc-engage-le-dialogue-avec-les-createurs-de-contenus/)** — Togo-Presse, 22 September 2026
 
-First HARC session with influencers under Constitution art. 78; prior visa for social-media ads; press code revision.
+Togo's communication regulator HARC held its first official meeting with content creators, bloggers and influencers in Lomé on 22 September 2026, citing its remit over social-media content under article 78 of the 2024 Constitution. HARC's president said social-media advertising should in principle need its prior approval, and the communication ministry said the 2020 press and communication code will be revised to cover these actors.
 
 </div>
 
@@ -235,7 +235,7 @@ The data protection authority convened ministry chiefs of staff and secretaries-
 
 **[Togo : l’IPDCP lance la certification des correspondants à la protection des données](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/)** — Le Nouveau Reporter, 5 October 2026
 
-32 candidates from banks, insurers, telecoms and administration; two-day session; only those passing may hold the title.
+Togo's personal data protection authority, IPDCP, opened its first evaluation and certification session for data protection officers in Atakpamé on 30 September 2026. Thirty-two professionals from banking, insurance, telecoms, public administration and other sectors were assessed under Law 2019-014, and only those reaching the required level may hold the title.
 
 </div>
 
@@ -281,7 +281,7 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 
 **[ISO - ATN - Agence Togolaise de Normalisation](https://www.iso.org/member/2143.html)** — International Organization for Standardization (ISO), 4 September 2026
 
-Togo's ATN holds ISO Member body status, Observing Member on TC and PDC participation.
+The International Organization for Standardization lists Togo's standards agency, the Agence Togolaise de Normalisation, as a full member body. It takes part in ISO's technical and policy development committees as an observing member only. The entry is undated.
 
 </div>
 
@@ -295,7 +295,7 @@ Togo's ATN holds ISO Member body status, Observing Member on TC and PDC particip
 
 **[Eléments structurants de l’architecture nationale — Documentation Architecture d'Entreprise Gouvernementale du Togo](https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html)** — Agence Togo Digital / Ministère de l’Économie Numérique et de la Transformation Digitale, République Togolaise, 4 September 2026
 
-Togo's AEGT vision, 12 orientation statements, governance/business/functional principles.
+Agence Togo Digital's documentation sets out the Togo Government Enterprise Architecture, the standard the state's information systems are to be built against. It lists a vision, orientation statements and principles including single authoritative registers, no re-collection of data the state already holds, open standards and interoperability.
 
 </div>
 
@@ -333,7 +333,7 @@ Togo's telecoms regulator found neither mobile operator meeting its quality-of-s
 
 **[Togo - Civicus Monitor](https://monitor.civicus.org/country/togo/)** — CIVICUS Monitor, 4 September 2026
 
-Civic space rated 29/100, Repressed since 2020, up from Obstructed in 2018-19.
+The CIVICUS Monitor rates Togo's civic space as Repressed, with a current score of 29 out of 100. Togo has been rated Repressed every year from 2020 to 2024, after Obstructed in 2018 and 2019. The page carries no publication date.
 
 </div>
 
@@ -347,7 +347,7 @@ Civic space rated 29/100, Repressed since 2020, up from Obstructed in 2018-19.
 
 **[Forum National sur la Gouvernance de l’Internet au Togo 2026](https://intgovforum.tg/)** — Internet Society Togo / Forum National sur la Gouvernance de l’Internet au Togo (Togo IGF), 4 September 2026
 
-Togo's 12th national Internet Governance Forum, 19 June 2026, on AI and digital sovereignty.
+Togo's 12th national Internet Governance Forum was held in Lomé on 19 June 2026 on artificial intelligence, big data and digital sovereignty. The forum, run annually since 2010 under the Tunis Agenda, brings together government, civil society, the private sector, academia and the technical community; its programme listed the digital ministry, the regulator ARCEP and the cybersecurity and data-protection agencies.
 
 </div>
 
@@ -395,7 +395,7 @@ Summarised under [Standards](#standards).
 
 **[Togo Launches Tender for 5,200 Smart Meter Devices for State Power Utility](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility)** — Togo First, 21 September 2026
 
-1,200 MV modems and 4,000 LV data concentrators; IDA-funded IDEA project; bids due 28 Oct 2026; losses near 16%.
+Togo's energy ministry launched an international tender for 5,200 smart-metering devices for the state power utility CEET, reported on 21 September 2026: 1,200 modems for medium-voltage meters and 4,000 data concentrators for low-voltage meters. It is financed under the World Bank's US$200m IDA-backed IDEA project, and bids are due on 28 October 2026. CEET's losses are put at nearly 16%.
 
 </div>
 
@@ -411,7 +411,7 @@ Summarised under [Standards](#standards).
 
 **[5. Étape de gouvernance des services — Documentation Cadre de Digitalisation des Services Publics au Togo](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html)** — Agence Togo Digital / Ministère de l’Économie Numérique et de la Transformation Digitale, République Togolaise, 4 September 2026
 
-Digitalisation governance model: MENTD, ATD, public institutions, super-integrator, integrators.
+Togo's framework for digitising public services sets out who builds and maintains government systems: the digital economy ministry sets policy, Agence Togo Digital deploys solutions and standards, public institutions fund modernisation, and a super-integrator trains and supervises integrators on the agency's low-code platforms. Giving the framework the force of law is listed as a step still to be taken. The page carries no date.
 
 </div>
 
@@ -427,7 +427,7 @@ Digitalisation governance model: MENTD, ATD, public institutions, super-integrat
 
 **[Togo Builds Cybersecurity Talent Pool as Digital Threats Intensify](https://www.ecofinagency.com/news-digital/0309-58604-togo-builds-cybersecurity-talent-pool-as-digital-threats-intensify)** — Ecofin Agency, 3 September 2026
 
-ANCy expression-of-interest call, open to 30 October 2026, to reference national cyber expertise.
+Togo's National Cybersecurity Agency (ANCy) issued a call for expressions of interest, dated 27 August 2026 and published on 2 September, to build a national pool of cybersecurity professionals it can call on. Applications close on 30 October 2026. The pool covers fields from incident response and digital forensics to data protection, in support of the 2024–2028 National Cybersecurity Strategy.
 
 </div>
 
@@ -445,7 +445,7 @@ ANCy expression-of-interest call, open to 30 October 2026, to reference national
 
 **[Guide de l’Architecture d’Entreprise — 1. Comprendre et amorcer une démarche d’Architecture d’Entreprise](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/comprendre.html)** — Agence Togo Digital (ATD) / Architecture d’Entreprise Gouvernementale du Togo, 4 September 2026
 
-Togo's enterprise-architecture guide: AE fundamentals and the CCI interoperability framework.
+The Togo Digital Agency's enterprise architecture guide includes a chapter setting up a common interoperability framework, under which norms and standards for data exchange between government administrations are to be defined and maintained. The guide is marked version 1.0, draft status, and carries no publication date. No adopting decree is cited.
 
 </div>
 
@@ -467,7 +467,7 @@ Summarised under [Standards](#standards).
 
 **[Facturation électronique certifiée : le secteur privé se prépare aux nouvelles exigences](https://www.republiquetogolaise.tg/gouvernance-economique/1409-12275-facturation-electronique-certifiee-le-secteur-prive-se-prepare-aux-nouvelles-exigences)** — République Togolaise, 14 September 2026
 
-About 50 businesses briefed in Lome on certified e-invoicing obligations ahead of implementation.
+About 50 businesses were briefed in Lomé by Togo's employers' council and the revenue authority, OTR, on certified electronic invoicing, introduced by the 2026 finance law. Each invoice must carry a QR code, a unique number and a digital fingerprint, and be kept electronically for ten years. Firms may use the tax authority's platform or connect their own systems to it. No start date is given.
 
 </div>
 
@@ -483,7 +483,7 @@ About 50 businesses briefed in Lome on certified e-invoicing obligations ahead o
 
 **[Suggestions au Ministère de la Sécurité — Service public de l'administration Togolaise](https://service-public.gouv.tg/service/676b18a5e55165ff3908c676/securite-surete/suggestions-au-ministere-de-la-securite)** — République Togolaise — Service public de l'administration Togolaise, 4 September 2026
 
-Live citizen-suggestion channel to Togo's security ministry via the service-public portal.
+Togo's national public-service portal offers a free procedure for anyone aged 18 or over, in Togo or in the diaspora, to submit suggestions to the Ministry of Security on security services, administrative procedures and civil protection. Each suggestion goes through an examination and decision step. The page carries no publication date and covers one ministry only.
 
 </div>
 
@@ -497,7 +497,7 @@ Live citizen-suggestion channel to Togo's security ministry via the service-publ
 
 **[Citoyenneté : 4200 élèves filles bientôt dotées de certificats de nationalité](https://www.republiquetogolaise.tg/services-publics/1409-12277-citoyennete-4200-eleves-filles-bientot-dotees-de-certificats-de-nationalite)** — République Togolaise, 14 September 2026
 
-Free nationality certificates for 4,200 schoolgirls, 600 per education region; first 300 issued in Grand Lome.
+Togo began issuing free nationality certificates to 4,200 schoolgirls, 600 in each of seven education regions, with the first 300 final-year pupils served in Grand Lomé. The online nationality certificate platform launched in 2024 has received 241,617 applications and processed 179,690, or 74%; officials blame delays on documents from prefectures and intermediaries withholding SMS notices.
 
 </div>
 
@@ -541,7 +541,7 @@ About 50 businesses met Togo's revenue office on 10 September on the certified e
 
 **[After Student Pilot, Togo Plans Wider Rollout of Digital Bus Ticketing](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing)** — Togo First, 15 September 2026
 
-SOTRAL USSD bus ticketing with Yas Togo: student pilot to network-wide rollout targeted by end-2026.
+Togo's public bus operator SOTRAL plans to extend digital ticketing across its network by the end of 2026, after a pilot on routes serving University of Lomé students. The transport ministry is finalising the project with operator Yas Togo, including USSD ticket purchase by phone, while SOTRAL standardises fares. SOTRAL carries nearly 26,000 passengers a day.
 
 </div>
 
@@ -555,7 +555,7 @@ SOTRAL USSD bus ticketing with Yas Togo: student pilot to network-wide rollout t
 
 **[La plateforme de déclaration et de paiement en ligne de la Taxe professionnelle unique (e-TPU) officiellement lancée](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html)** — Office Togolais des Recettes, 17 September 2026
 
-OTR's own account of e-TPU: 24/7 filing, Flooz and Mixx by Yas payment, online tax history and deadlines.
+Togo's finance ministry and revenue office OTR launched e-TPU in Lomé on 17 September 2026, a platform for filing and paying the single business tax paid by small firms, artisans and traders. It is open around the clock, calculates the tax automatically and takes payment by mobile money, including Flooz and Mixx by Yas. Users can see their deadlines and tax history.
 
 </div>
 
@@ -563,7 +563,7 @@ OTR's own account of e-TPU: 24/7 filing, Flooz and Mixx by Yas payment, online t
 
 **[OTR : la plateforme e-TPU lancée pour les PME et PMI / Le secteur privé salue un gain de temps majeur](https://finances.gouv.tg/otr-la-plateforme-e-tpu-lancee-pour-les-pme-et-pmi-le-secteur-prive-salue-un-gain-de-temps-majeur/)** — Ministère des Finances et du Budget (Togo), 17 September 2026
 
-The finance ministry's own account of the e-TPU launch; employers' council and artisans' chambers on record backing it.
+Togo's revenue office OTR launched e-TPU, a platform for filing and paying the single business tax online from a mobile phone, at a ceremony chaired by finance minister Essowè Georges Barcola. The minister said it ends paper declarations and told OTR to run a change-management plan so that no one is excluded. The national employers' council and artisans' chambers backed the platform.
 
 </div>
 
@@ -593,7 +593,7 @@ Togo's revenue office opened online filing and payment of the single business ta
 
 **[Togo Shares Digital Agriculture Experience With Chad](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad)** — Togo First, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
 
-Chad delegation studies SIHAM, TG-ALERTE+ and e-Agri conseil; 122,000 reached in 2024.
+A four-member delegation from Chad's West Africa Food System Resilience Program visited Lomé on 28 August to study three digital agriculture tools built by its Togolese counterpart: SIHAM, TG-ALERTE+ and e-Agri conseil. Togo reported more than 80,000 agrometeorological bulletins in 2024, reaching over 122,000 people. The Togo programme has $96.37 million in World Bank financing.
 
 </div>
 
@@ -623,7 +623,7 @@ Togo handed its SIHAM agricultural information system and five regional kiosks t
 
 **[Togo Pilots Electronic Tracking for Petroleum Transit Cargo](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo)** — Togo First, 2 September 2026
 
-SESS tracking extended to petroleum trucks for Burkina Faso, Mali and Niger; 24/7 OTR command centre.
+Togo's Revenue Office began a pilot in Lomé on 1 September 2026 to track trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger. It extends the SESS transit-monitoring system, running since October 2022, using new devices watched from a round-the-clock command centre. Industry will help evaluate the pilot before any wider rollout.
 
 </div>
 
@@ -637,7 +637,7 @@ SESS tracking extended to petroleum trucks for Burkina Faso, Mali and Niger; 24/
 
 **[Digitalisation : le portail des services publics se modernise](https://www.republiquetogolaise.tg/services-publics/0309-12242-digitalisation-le-portail-des-services-publics-se-modernise)** — Site officiel du Togo (RTG), 3 September 2026
 
-new.service-public.gouv.tg replaces the old portal; logins and past requests carry over.
+Togo's public services portal moved to a new version at new.service-public.gouv.tg, the government's official site announced on 3 September 2026. Existing logins remain valid and users keep access to earlier requests without resubmitting them. The government says more than 400,000 requests were processed on the portal in 2024.
 
 </div>
 
@@ -645,7 +645,7 @@ new.service-public.gouv.tg replaces the old portal; logins and past requests car
 
 **[Modernisation du portail des services publics togolais](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/)** — Lomebougeinfo, 10 September 2026
 
-new.service-public.gouv.tg keeps old logins and past requests; portal handled over 400,000 requests in 2024.
+Togo launched a new version of its public-services portal at new.service-public.gouv.tg. Existing logins remain valid and users can see their earlier requests without re-filing; the portal handled more than 400,000 requests in 2024. No launch date or cost is given.
 
 </div>
 
@@ -661,7 +661,7 @@ Togo's national public services portal added building-permit applications and th
 
 **[Diplomatie : le Togo dématérialise 16 démarches administratives et consulaires](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/)** — Actu Togo, 1 October 2026
 
-Ten administrative and six consular services go online, with a diaspora register on a dedicated portal.
+Togo's foreign ministry put 10 administrative procedures and six consular services online from 1 October 2026, through the national digital procedures portal and a consular portal that holds a register of Togolese abroad. Consular services include document legalisation, consular cards, birth and marriage certificates and laissez-passer; the work began on 31 March 2026 under the public administration digitalisation programme.
 
 </div>
 
@@ -675,7 +675,7 @@ Ten administrative and six consular services go online, with a diaspora register
 
 **[Citoyenneté : 300 élèves filles reçoivent gratuitement leur certificat de nationalité](https://atop.tg/citoyennete-300-eleves-filles-recoivent-gratuitement-leur-certificat-de-nationalite/)** — Agence Togolaise de Presse (ATOP), 11 September 2026
 
-241,617 online applications, 179,690 processed (74%); about four months per file; free certificates for 4,200 girls.
+Togo's directorate for nationality and identity said on 11 September 2026 that its online nationality-certificate platform has received 241,617 applications and processed 179,690, or 74%, with average processing now about four months. The figures were given in Lomé as 300 final-year schoolgirls received free certificates under a programme for 4,200 girls nationwide.
 
 </div>
 
@@ -739,7 +739,7 @@ Togo put ten services of the state broadcasters TVT and Radio Lomé online, from
 
 **[Conseil des ministres du 06 octobre 2026](https://www.republiquetogolaise.tg/gestion-publique/0710-12350-conseil-des-ministres-du-06-octobre-2026)** — République Togolaise, 7 October 2026
 
-Online case-law repository authorised; visa decree adds business visa and data protection; power bill sets smart meters.
+Togo's Council of Ministers on 6 October 2026 authorised the justice minister to set up an online repository of Togolese case law. It adopted a visa decree adding new categories, including a faster business visa, with stronger personal data protection, and an electricity bill providing for smart meters and grid cybersecurity requirements.
 
 </div>
 
@@ -767,7 +767,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Togo launches digitalisation of plant import permits to facilitate agricultural trade - Global Alliance for Trade Facilitation](https://www.tradefacilitation.org/2026/10/togo-launches-digitalisation-of-plant-import-permits/)** — Global Alliance for Trade Facilitation, 9 October 2026
 
-Launch 9 Oct 2026; ePermit for the agriculture production directorate; follows ePhyto; EU and German funding.
+The Global Alliance for Trade Facilitation launched a project in Lomé on 9 October 2026 to replace Togo's paper plant import permit with an electronic permit system for the Directorate of Agricultural Production. It is the Alliance's second digitalisation project in Togo after ePhyto, implemented through GIZ and funded by the European Union and the German government. No timetable is given.
 
 </div>
 
@@ -803,7 +803,7 @@ A Chadian delegation from the West African food system resilience programme visi
 
 **[Procurement Notices - UNDP-TGO-00358 - Consultant(e) international(e) pour l'élaboration d'une note d'orientation régionale sur la gouvernance des infrastructures d'IA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349)** — UNDP Togo, 3 September 2026
 
-UNDP tender closing 14 September 2026 for a regional policy note on AI infrastructure governance.
+The UN Development Programme in Togo sought an international consultant to write a regional policy note on the governance of artificial intelligence infrastructure, with bids closing on 14 September 2026. The assignment runs from September 2026 to January 2027. No budget is given.
 
 </div>
 
@@ -831,7 +831,7 @@ Togo's AI laboratory is recruiting a technical lead for public-sector artificial
 
 **[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
 </div>
 
@@ -871,7 +871,7 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 
 **[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across a $49bn financing gap.
+The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
 </div>
 
@@ -879,7 +879,7 @@ AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across
 
 **[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
 
-Names the money behind the launch: a US$160m 2025 AfDB loan to AXIAN Telecom, a US$2.5m grant and US$10m+ via MVola.
+The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 
 </div>
 
@@ -895,7 +895,7 @@ Names the money behind the launch: a US$160m 2025 AfDB loan to AXIAN Telecom, a 
 
 **[Togo AI summer School : 100 jeunes talents formés à l'intelligence artificielle et au Big Data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data)** — Togo First, 4 September 2026
 
-One-week intensive in Lomé trains 100 students, researchers and professionals in AI and Big Data.
+One hundred students, researchers and professionals completed the first Togo AI Summer School, held from 24 to 29 August 2026 at the University of Lomé and run by Togo AI Lab. Participants were chosen from more than 300 applicants, including some from Benin and Niger, and trained in data science, data engineering, business intelligence and geographic information systems.
 
 </div>
 
@@ -909,7 +909,7 @@ One-week intensive in Lomé trains 100 students, researchers and professionals i
 
 **[Portail Inscription UL — Offre de formation](https://etu.univ-lome.tg/information/offre)** — Université de Lomé, 4 September 2026
 
-UL catalogue: software engineering, AI/big-data and IT degrees through doctorate level.
+Togo's Université de Lomé lists its degree programmes on its enrolment portal. At the École Polytechnique de Lomé these include bachelor's degrees in software engineering, systems and networks, and artificial intelligence and big data, matching master's degrees and a doctorate in computer science. No enrolment or graduate figures are given, and the page is undated.
 
 </div>
 
@@ -937,7 +937,7 @@ Togo's data-protection authority briefed the heads of 33 ministries and public i
 
 **[L'Instance de Protection des Données à Caractère Personnel (IPDCP) et l'Université de Kara signent une convention pour accompagner la transformation numérique et développer les compétences nationales](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/)** — Instance de Protection des Données à Caractère Personnel (IPDCP), Togo, 6 October 2026
 
-IPDCP-backed hybrid professional master's in digital law, cybersecurity and data protection; joint research.
+Togo's personal data protection authority (IPDCP) and the University of Kara signed a partnership agreement on 6 October 2026. It provides for a hybrid professional master's degree in digital law, cybersecurity, cyberdefence and data protection, developed with IPDCP technical and financial support, as well as joint research, workshops and internships. No cost is given.
 
 </div>
 
@@ -973,7 +973,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Togo Launches Household Living Conditions Survey, Running Through December](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december)** — Togo First, 4 September 2026
 
-Statistics institute INSEED surveys Togolese households on poverty, income and jobs through December 2026.
+Togo's statistics institute INSEED is running a national household living-conditions survey from 7 September to December 2026, the second wave of the third harmonised survey (EHCVM-3), with the WAEMU Commission and the World Bank. It covers income, spending and access to education, health and jobs. The previous survey, in 2021–22, put monetary poverty at 43.8%.
 
 </div>
 
@@ -989,7 +989,7 @@ Statistics institute INSEED surveys Togolese households on poverty, income and j
 
 **[Technologies spatiales : Le Togo et le Kirghizistan lancent une coopération](https://togopresse.tg/technologies-spatiales-le-togo-et-le-kirghizistan-lancent-une-cooperation/)** — Togo-Presse, 4 October 2026
 
-Announced 1 Oct 2026 by Cina Lawson: EO data for farming, minerals, green energy; training, tech transfer, joint craft.
+Togo's digital minister Cina Lawson announced on 1 October 2026 a space cooperation with Kyrgyzstan, which is to supply earth-observation data for agriculture, strategic-minerals exploration and green energy, train local staff and transfer the technology to use it. Joint development and launch of future spacecraft is under consideration. No cost or timetable is given.
 
 </div>
 

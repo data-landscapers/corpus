@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: b6cdede1a4a5
+record: f3e9bd8d5b40
 ---
 
 # Mali: monthly update, September – October 2026
@@ -77,7 +77,7 @@ record: b6cdede1a4a5
 
 **[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)** — Anthropic, 1 September 2026
 
-Claude built Lakana 360, a warrant-free platform surveilling ~25m Malian SIMs for state intelligence agency ANSE.
+Anthropic reported in September 2026 that a Claude user, likely a Bamako-based consultant working for Mali's state security agency ANSE, used the model to build Lakana 360, a platform monitoring about 25 million SIM cards on all three national mobile operators. It collects call records, texts and voice traffic, and the warrant requirement was removed from its dossier-writing component. Anthropic said it disrupted the activity.
 
 </div>
 
@@ -91,7 +91,7 @@ Claude built Lakana 360, a warrant-free platform surveilling ~25m Malian SIMs fo
 
 **[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a>
 
-Benin APDP's First Rapporteur visits Mali APDP, 4 Sept 2026; compliance tools and Mali's four regional offices.
+Mali's data protection authority hosted the First Rapporteur of Benin's data protection authority on 4 September 2026 to compare compliance tools, regulatory standards and institutional communication, TechGriot reported on 21 September. The Benin delegation looked at Mali's regional offices in Kayes, Sikasso, Ségou and Mopti, which take local complaints and run awareness campaigns.
 
 </div>
 
@@ -135,7 +135,7 @@ Togo's personal data protection authority (IPDCP) and Mali's APDP signed a coope
 
 **[Souverainete numerique : l''AES vers une regulation commune des reseaux sociaux](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/)** — Mali24, 3 September 2026
 
-Burkina Faso's referentiel put forward as the AES model, with trusted flaggers and timed takedowns.
+Mali's communication and digital economy ministry met online press, data protection, cybercrime and media regulation bodies in Bamako on 2 September 2026 to discuss common social media rules across the Alliance of Sahel States. A framework developed in Burkina Faso was proposed as the model, requiring platforms to offer reporting tools, set handling deadlines, give reasons for removals and keep removed content as evidence.
 
 </div>
 
@@ -149,7 +149,7 @@ Burkina Faso's referentiel put forward as the AES model, with trusted flaggers a
 
 **[Regional Fiber Infrastructure | Economic Community of West African States (ECOWAS)](https://sigtel.ecowas.int/regional-fiber-infrastructure/)** — Economic Community of West African States (ECOWAS) — SIGTEL, 3 September 2026
 
-ECOWAS inventory: Mali has one IXP in Bamako, no cable landing, data-centre status unconfirmed.
+ECOWAS's regional infrastructure inventory lists 14 internet exchange points and 15 data centres across West Africa, and 35 submarine cable landing points with a combined design capacity of 305.17 Tbps. Mali has one exchange point, Mali IX in Bamako, no cable landing, and its government data-centre status is recorded as unconfirmed. The page is undated.
 
 </div>
 
@@ -171,7 +171,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 **[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
 
-Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, border spectrum, coordinated 5G.
+The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
 </div>
 
@@ -187,7 +187,7 @@ Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, 
 
 **[ISO - AMANORM - Agence Malienne de Normalisation et de Promotion de la Qualité](https://www.iso.org/fr/member/1915.html)** — Organisation internationale de normalisation (ISO), 3 September 2026
 
-ISO's own record: AMANORM is Mali's standards body, also in ECOSHAM, ECOQUAL, UEMOA quality.
+The International Organization for Standardization's member record lists Mali's standards agency AMANORM as a full member body and the country's national standards body. AMANORM coordinates standardisation, quality promotion, certification and accreditation, and is also part of ECOWAS's standards harmonisation programme (ECOSHAM), ECOWAS quality policy (ECOQUAL) and the UEMOA quality policy. The page carries no date.
 
 </div>
 
@@ -239,7 +239,7 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 **[SNISI | À propos de ce système](https://snisi.sante.gov.ml/about)** — Agence Nationale de Télésanté et d'Informatique Médicale (ANTIM), Ministère de la Santé du Mali, 3 September 2026
 
-ANTIM's own account of Mali's unified health-data platform replacing siloed NGO systems.
+Mali's telehealth agency ANTIM describes its integrated national health information system, SNISI, as a single platform replacing separate NGO-run data systems for malaria and maternal and child mortality. It holds facility and community data in one database, receives data by SMS, and maps localities and health centres. The page is undated.
 
 </div>
 
@@ -253,7 +253,7 @@ ANTIM's own account of Mali's unified health-data platform replacing siloed NGO 
 
 **[Education : le Mali digitalise la gestion de la mobilité des enseignants](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html)** — Malijet, 17 September 2026
 
-29 July 2026 workshop validated the functional mock-up of an EU-funded teacher-mobility portal.
+Mali's Ministry of National Education held a workshop on 29 July 2026 that approved the functional design of a web portal for managing teacher postings and transfers and tracking teacher attendance. The work is supported by PADEM, a European Union-funded education programme run by Save the Children International and partners. No launch date or cost is given.
 
 </div>
 
@@ -289,7 +289,7 @@ Transition president Assimi Goïta opened Mali's artificial intelligence and rob
 
 **[Kabakoo académies et la DNEN lancent la première cohorte de leur partenariat pour renforcer les compétences numériques des jeunes au Mali](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html)** — Maliweb, 9 September 2026
 
-First cohort of 1,000 under a three-year convention signed 2026-01-31 to train 15,000 youth; four months, bursaried.
+Mali's digital economy directorate and Kabakoo Academies launched the first cohort of 1,000 young people under a three-year agreement signed on 31 January 2026 to train 15,000 in digital and entrepreneurial skills, announced at Mali's digital week of 28 July to 1 August 2026. The four-month course is open to 18- to 35-year-olds and fees are covered by bursaries.
 
 </div>
 
@@ -307,7 +307,7 @@ First cohort of 1,000 under a three-year convention signed 2026-01-31 to train 1
 
 **[Mali : Communiqué du conseil des ministres du vendredi 9 octobre 2026 - CM N°2026-40/SGG](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/)** — Icimali (communiqué du Secrétariat Général du Gouvernement), 10 October 2026
 
-Fourth statistics master plan and 2026-2030 action plan noted on four axes; digital minister's Cairo mission reported.
+Mali's Council of Ministers on 9 October 2026 took note of the country's fourth statistics master plan and its 2026-2030 action plan, presented by the economy and finance minister. It rests on four axes: managing the national statistical system, building its capacity, statistical production and analysis, and modernised dissemination. No cost is given.
 
 </div>
 

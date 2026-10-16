@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MRT
 ledger_rows: 22
 not_held: 3
-record: 73447d96f79f
+record: aa74efc01640
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -107,7 +107,7 @@ Mauritania's Council of Ministers took a statement on 16 September 2026 proposin
 
 **[وزير تمكين الشباب: نعمل على اتخاذ إجراءات جديدة لحماية القاصرين من مخاطر منصات التواصل الاجتماعي](https://www.ami.mr/archives/268323)** — Agence Mauritanienne d'Information (AMI), 16 September 2026
 
-Interministerial committee to propose a framework law limiting under-16s' and under-18s' access to platforms.
+Mauritania's youth minister said the government is preparing legal and technical measures to protect minors on social media. The Council of Ministers approved an interministerial committee, including the population registry agency and the data protection authority, to propose a framework law with technical mechanisms to limit children's access to harmful platforms. A draft law banning online gambling is also being prepared.
 
 </div>
 
@@ -123,7 +123,7 @@ Interministerial committee to propose a framework law limiting under-16s' and un
 
 **[Le ministre des Finances recoit une mission d'assistance technique du FMI](https://ami.mr/fr/archives/301765)** — Agence Mauritanienne d'Information (AMI), 3 September 2026
 
-AFRITAC West mission on GFSM 2014 compilation and state-owned enterprise debt statistics.
+Mauritania's finance minister, Codioro Moussa N'Guénore, received an IMF technical assistance mission from AFRITAC West in Nouakchott. The mission works on compiling public finance statistics and public enterprise debt in line with the IMF's 2014 Government Finance Statistics Manual, including the collection and consolidation of state enterprises' financial data.
 
 </div>
 
@@ -155,7 +155,7 @@ Mauritania's digital ministry opened a week-long training for its officials and 
 
 **[World Bank — WARDIP SOP1 additional financing, Mauritania, 2026](https://futureafrique.net/node/20052)** — Future Afrique (AMI communique), 16 September 2026
 
-EUR 25.8m IDA concessional loan to Mauritania, signed 2026-09-16; broadband, online services, e-payments.
+The World Bank's International Development Association signed a EUR 25.8 million loan with Mauritania on 16 September 2026 as additional financing for the first phase of the West Africa Regional Digital Integration Programme (WARDIP). The money is for broadband infrastructure, online services and electronic payments.
 
 </div>
 
@@ -163,7 +163,7 @@ EUR 25.8m IDA concessional loan to Mauritania, signed 2026-09-16; broadband, onl
 
 **[Conseil des Ministres : le Président de la République enjoint d’accélérer les composantes du programme du gouvernement](https://futureafrique.net/node/20052)** — Future Afrique, 14 October 2026
 
-IDA ratification bills: EUR 25.8m WARDIP additional loan for broadband, e-services, e-payments; social-registry credit.
+Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify World Bank IDA financing agreements, including a EUR 25.8m additional loan for the WARDIP regional digital programme covering broadband, e-services and e-payments. Another agreement, a EUR 19.7m credit and SDR 5.6m grant signed on 21 August, supports the social registry and the Takaful safety-net programme.
 
 </div>
 
@@ -195,7 +195,7 @@ Mauritania appears on a satellite operator's list of sixteen African markets tar
 
 **[Contrôle de la qualité de service des opérateurs de communications électroniques : MATTEL sa, MAURITEL sa et CHINGUITEL sa — Période : du 13 février au 22 mars 2026](https://www.are.mr/pdfs/rapport_qos_mars_vf_2026.pdf)** — Autorité de Régulation (ARE), Mauritanie — Direction Technique Télécoms et Poste, 7 October 2026
 
-Drive tests 13 Feb-22 Mar 2026: persistent voice and 3G/4G failings in dozens of towns and on major roads.
+Mauritania's regulator ARE published on 7 October 2026 its re-inspection of mobile service quality carried out from 13 February to 22 March 2026, finding that Mattel, Mauritel and Chinguitel still breach their licence obligations. Voice service failed in several towns and on major roads (Chinguitel on nine routes, Mattel on six), and mobile data fell below 3G thresholds in 14 localities for Mauritel and 12 for Chinguitel.
 
 </div>
 
@@ -203,7 +203,7 @@ Drive tests 13 Feb-22 Mar 2026: persistent voice and 3G/4G failings in dozens of
 
 **[Mauritania's Digital Economy Plans Face Persistent Telecom Network Quality Problems](https://www.ecofinagency.com/news-digital/0910-59612-mauritanias-digital-economy-plans-face-persistent-telecom-network-quality-problems)** — Ecofin Agency, 9 October 2026
 
-ARE results of 7 Oct 2026 on Feb-Mar inspection: voice and 3G/4G failings at Mattel, Mauritel, Chinguitel.
+Mauritania's regulator ARE released results on 7 October 2026 of a February–March inspection that found failings in voice and mobile data services at Mattel, Mauritel and Chinguitel, including call completion and drop rates in several towns and on main roads and weak 3G and 4G performance. Ecofin sets this against the government's plans for online public services, AI and e-commerce.
 
 </div>
 
@@ -233,7 +233,7 @@ The Internet Society rates Mauritania's internet resilience at 43%, with 3% of t
 
 **[Avis d'Appel d'Offres National : mise en place du CSIRT national et du SOC RIAD](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf)** — Ministere de la Transformation Numerique et de la Modernisation de l'Administration (WARDIP PMU), 9 October 2026
 
-WARDIP notice AON-05 under IDA-7445-MR; bids due 17 Nov 2026; 950,000 MRU guarantee; scored 30% technical, 70% price.
+Mauritania's WARDIP project unit at the digital transformation ministry issued a national tender on 9 October 2026 to set up a national CSIRT and a security operations centre for RIAD, the government's high-speed intranet, paid from World Bank credit IDA-7445-MR. Bids are due on 17 November 2026 with a 950,000 MRU bid guarantee. No contract value is stated.
 
 </div>
 
@@ -251,7 +251,7 @@ WARDIP notice AON-05 under IDA-7445-MR; bids due 17 Nov 2026; 950,000 MRU guaran
 
 **[وزيرة الإسكان: رقمنة تأهيل وتصنيف المؤسسات تعزز الشفافية وتحد من الغش](https://www.ami.mr/archives/268331)** — Agence Mauritanienne d'Information (AMI), 16 September 2026
 
-Qualification of firms runs only via a platform wired to tax, transport, procurement and social-security data.
+Mauritania's housing minister, Naha mint Hamdi ould Mouknass, said on 16 September 2026 that qualification and classification of construction firms now runs only through a government platform linked to tax, transport, procurement, social security and company registry databases, to reduce fraud. She was presenting a draft decree that would replace Decree 172-2022 and cut the classification commission from 22 members to 15.
 
 </div>
 
@@ -267,7 +267,7 @@ Qualification of firms runs only via a platform wired to tax, transport, procure
 
 **[بنكيلي.. التطبيق الذي صنع الدفع الرقمي في موريتانيا](https://lequotidien.mr/?p=40492)** — Le Quotidien de Nouakchott, 8 September 2026
 
-Defence of Bankily, launched by Banque Populaire de Mauritanie in 2020 as the country's first full mobile bank.
+A commentary in Le Quotidien de Nouakchott defends Bankily, the mobile banking app Banque Populaire de Mauritanie launched in 2020, after complaints about a faulty update that was temporarily rolled back. Citing the central bank's 2025 annual report, it says Bankily handles about 1.1 million transactions a day, nearly 80% of bank-wallet transactions by number and 73.5% by value.
 
 </div>
 
@@ -309,7 +309,7 @@ Mauritania's commitment under the WTO trade facilitation agreement to allow elec
 
 **[BCM : réforme bancaire, fintech et monnaie numérique au cœur de la modernisation](https://trustmag.net/article/FIKzFdXn)** — TRUST Magazine, 20 September 2026
 
-CBDC proof-of-concept sandbox week; data platform of 78m records; inclusion 55% end-2025; code due mid-2027.
+The Central Bank of Mauritania's newsletter for August 2026 reports a week of sandbox tests for its central bank digital currency proof of concept. It also reports a data platform holding over 78 million records since January 2024, two GIZ-backed fintech hackathons set for 19–22 October 2026, and a draft monetary and financial code due by mid-2027.
 
 </div>
 
@@ -325,7 +325,7 @@ CBDC proof-of-concept sandbox week; data platform of 78m records; inclusion 55% 
 
 **[Appel aux proprietaires fonciers ruraux de Nouakchott pour inscrire leurs dossiers](https://ami.mr/fr/archives/301729)** — Agence Mauritanienne d'Information (AMI), 2 September 2026
 
-Rural concession holders in Nouakchott must register on leegoud.digital by 18 September 2026.
+Mauritania's technical committee on rural land and developer plots in Nouakchott called on holders of rural land concessions inside the capital's urban zone to register on the Leegoud platform by 18 September 2026. Help desks are to open in Nouakchott's three moughataas. The exercise follows a declaration to the Council of Ministers on 28 April 2026.
 
 </div>
 
@@ -347,7 +347,7 @@ Mauritania's digital and land ministers opened a four-day workshop presenting th
 
 **[Mauritania Plans End-2026 Pilot of Digital Addressing System to Support E-Commerce](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce)** — Ecofin Agency, 1 October 2026
 
-Pilot promised by end-2026 under World Bank WARDIP; no timetable yet; UNCTAD names last-mile delivery as the barrier.
+Mauritania's Ministry of Digital Transformation presented a national digital addressing system in Nouakchott on 29 September 2026, financed by the World Bank under the WARDIP programme. It is to locate every plot and building, divide the country into postal code zones and include mapping and address management portals. A pilot is expected by the end of 2026, but no detailed timetable has been announced.
 
 </div>
 
@@ -363,7 +363,7 @@ Pilot promised by end-2026 under World Bank WARDIP; no timetable yet; UNCTAD nam
 
 **[انطلاق تسجيل وتحويل التلاميذ عبر منصة «سراج»](https://www.tefassil.mr/ar/node/8801)** — تفاصيل, 28 September 2026
 
-Pupil registration and transfers for 2026-27 run through Siraj from 28 September to 20 October 2026.
+Mauritania's education ministry opened pupil registration and transfers for the 2026-2027 school year on the Siraj platform on 28 September 2026. Registration and corrections run until 20 October, and the school year opens on 5 October.
 
 </div>
 
@@ -379,7 +379,7 @@ Pupil registration and transfers for 2026-27 run through Siraj from 28 September
 
 **[Mauritanie : les établissements publics passeront à la facturation et aux paiements électroniques dès novembre - TAWASSOUL](https://fr.tawassoul.net/mauritanie-les-etablissements-publics-passeront-a-la-facturation-et-aux-paiements-electroniques-des-novembre/)** — Tawassoul, 1 October 2026
 
-Mandatory from 1 November 2026; no invoice paid unless registered and validated on the DGI platform.
+Mauritania's tax directorate said public establishments must use an electronic platform for invoicing, tax declarations and tax payments from 1 November 2026, reported on 1 October. No invoice may be paid unless first registered and validated on the platform. Training and technical support run through October.
 
 </div>
 
@@ -411,7 +411,7 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 
 **[تنظيم ورشة تكوينية حول نظام الإنذار المبكر الزراعي والهيدرولوجي القائم على تقنيات الذكاء الاصطناعي](https://www.ami.mr/archives/267828)** — Agence Mauritanienne d'Information (AMI), 8 September 2026
 
-Two-day Nouakchott workshop on the AGRIFEMIA platform for AI-based agro-hydro-meteorological early warning.
+Mauritania's national meteorological office ran a two-day workshop in Nouakchott from 8 September 2026 for regional administrators and its own staff on an AI-based agricultural and hydrological early warning system using the AGRIFEMIA platform. The training aims to improve forecasting of climate risks to agriculture and water resources.
 
 </div>
 
@@ -445,7 +445,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[وزارة التربية تنظم دورة تكوينية لتعزيز قدرات المفتشين الرقمية](https://lequotidien.mr/?p=40495)** — Le Quotidien de Nouakchott, 8 September 2026
 
-Ten-day course for 20 secondary-school inspectors in documentation, archiving, librarianship and document management.
+Mauritania's Ministry of Education opened a ten-day training course on 8 September 2026 for 20 secondary-school inspectors in documentation, archiving, librarianship and electronic document management. Secretary-general Sedfi Sidi Mohamed called for a modern documentation centre in the secondary inspectorate to store, classify and digitise its records.
 
 </div>
 

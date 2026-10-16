@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: COM
 ledger_rows: 10
 not_held: 24
-record: 27cab63f26c2
+record: 1bf3fca74600
 ---
 
 # Comoros: monthly update, September – October 2026
@@ -87,7 +87,7 @@ The Comoros' digital development agency and UNDP signed a memorandum on 16 Septe
 
 **[iGA Holds the First Digital Government Knowledge Exchange Session with Comoros](https://www.iga.gov.bh/en/article/iga-holds-the-first-digital-government-knowledge-exchange-session-with-comoros)** — Information & eGovernment Authority (Bahrain), 7 October 2026
 
-MoU of June 2026 activated: Bahrain shares IT-project and procurement governance; aim is Comoros' UN EGDI score.
+Bahrain's Information and eGovernment Authority held its first knowledge-exchange session by video with the Comoros' National Digital Development Agency, ANADEN, reported on 7 October 2026, under a memorandum signed in June 2026. Bahrain shared how it governs and approves government IT projects and procurement. The stated aim is to raise the Comoros' score on the UN e-government index.
 
 </div>
 
@@ -123,7 +123,7 @@ A Russian embassy delegation visiting the Comoros took up with the telecommunica
 
 **[Comores : le réveil bancaire d'un archipel de la zone franc](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/)** — Financial Afrik, 3 September 2026
 
-BCC 2025 annual report: KMF 262.3bn balance sheet up 14 percent, NPLs at 9 percent, KomorPay rollout.
+The Central Bank of the Comoros published its 2025 annual report on 28 August 2026. The banking balance sheet rose to KMF 262.3 billion and the non-performing loan ratio fell from 14% to 9%, partly through one-off clean-up, the bank says. It records the deployment of KomorPay clearing and the Komor Switch interbank platform under a 2025–2030 inclusion strategy targeting 75% financial inclusion by 2030.
 
 </div>
 
@@ -153,7 +153,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Gouvernance et politiques publiques I Nour El Fath Azali repond aux questions des internautes via ses reseaux sociaux](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html)** — Al-Watwan, 16 September 2026
 
-Comoros SG answers citizens online to counter rumours; 2020-2025 jobs figures and the diaspora one-stop shop.
+The Comoros government's secretary-general, Nour El Fath Azali, has begun answering citizens' questions on public policy through his social media accounts to counter online rumours, his office said, reported on 16 September 2026. In one reply he gave 2020-2025 job figures and described a one-stop shop that lets diaspora and foreign investors register companies remotely.
 
 </div>
 
@@ -185,7 +185,7 @@ The second phase of Comoros's civil-registration modernisation project was repor
 
 **[Intelligence artificielle I Le diagnostic Ram 2.0 révèle les défis des Comores](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html)** — Al-watwan, 2 October 2026
 
-UNESCO RAM 2.0 rates Comoros emerging on AI: no strategy, no ethics body, 23 recommendations to 2030.
+Comoros presented its UNESCO AI readiness assessment, RAM 2.0, prepared with UNESCO and Japan, at the fourth forum on AI ethics in Riyadh on 14–17 September 2026. It places the country at an emerging stage, with no national AI strategy, no AI-specific law and no independent ethics body, and makes 23 recommendations to 2030.
 
 </div>
 
@@ -203,7 +203,7 @@ UNESCO RAM 2.0 rates Comoros emerging on AI: no strategy, no ethics body, 23 rec
 
 **[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across a $49bn financing gap.
+The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
 </div>
 
@@ -211,7 +211,7 @@ AfDB and AXIAN's Mixx/Mvola programme targets 34,000 women-led businesses across
 
 **[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
 
-Names the money behind the launch: a US$160m 2025 AfDB loan to AXIAN Telecom, a US$2.5m grant and US$10m+ via MVola.
+The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 
 </div>
 

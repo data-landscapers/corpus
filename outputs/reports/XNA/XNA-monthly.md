@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: 141d99b074aa
+record: 66aa9c0c0e5b
 ---
 
 # North Africa: monthly update, September – October 2026
@@ -49,7 +49,7 @@ record: 141d99b074aa
 
 **[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
-Secretary of State Mohamed Ben Ayed opens the summit as a forum for Arab states on AI for development and cooperation.
+The AI Forward Summit 2026, organised by the Arab Information and Communication Technologies Organisation and Tunisia's communication technologies ministry, opened in Tunisia on 9 September 2026. Secretary of State Mohamed Ben Ayed told the opening session that Tunisia wants international cooperation on capacity-building, technology transfer and finance so developing countries produce AI rather than only consume it.
 
 </div>
 
@@ -77,7 +77,7 @@ The Arab League's education, culture and science organisation ALECSO has publish
 
 **[General Secretariat hosts cybersecurity meeting at the Level of Permanent Representatives](http://www.lasportal.org/en/news/Pages/NewsDetails.aspx?RID=4051)** — League of Arab States - General Secretariat, 17 September 2026
 
-Cybersecurity Ministers Council briefs Arab permanent representatives in Cairo, 16 September 2026.
+The League of Arab States hosted a meeting in Cairo on 16 September 2026 between member states' permanent representatives and the secretariat of the Arab Cybersecurity Ministers Council. The Council briefed them on its structure, work to date and priorities, including a unified Arab position on cybersecurity in international bodies. No decision was announced.
 
 </div>
 
@@ -113,7 +113,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[Avis d'appel d'offres pour la selection d'un cabinet d'audit](https://maghrebarabe.org/6762/)** — Union du Maghreb Arabe, 14 September 2026
 
-Audit tender for the AMU-Statistics Sweden migration statistics consultancy; bids close 23 September 2026.
+The Arab Maghreb Union invited bids from audit firms to audit payments made from January to June 2026 to a migration statistics consultant hired under its 2023–2026 cooperation project with Statistics Sweden. The audit is to take 15 working days, and bids close on 23 September 2026. No contract value is given.
 
 </div>
 

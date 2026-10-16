@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: DJI
 ledger_rows: 14
 not_held: 11
-record: 2e69e274f933
+record: c61cfc1b0eae
 ---
 
 # Djibouti: monthly update, September – October 2026
@@ -93,7 +93,7 @@ record: 2e69e274f933
 
 **[Djibouti – 2026 Government work programme: Omar Guelleh sets out his key priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/)** — Africa24 TV, 6 September 2026
 
-Council of Ministers, 1 Sept 2026: paperless services and interoperability among the state-modernisation priorities.
+Djibouti's President Ismaïl Omar Guelleh set the government's 2026 priorities at the Council of Ministers on 1 September 2026, including action on cybersecurity and disinformation. He named digitalised procedures, paperless public services and interoperability between administrations as means of modernising the state, listed the digital economy for diversification and announced a national forum on artificial intelligence.
 
 </div>
 
@@ -109,7 +109,7 @@ Council of Ministers, 1 Sept 2026: paperless services and interoperability among
 
 **[Djibouti and DCO discuss cooperation on AI and digital transformation](https://www.techreviewafrica.com/news/7340/djibouti-and-dco-discuss-cooperation-on-ai-and-digital-transformation)** — TechReviewAfrica, 18 September 2026
 
-DCO chief AlYahya and minister Gadileh discuss AI, skills and capacity building; no instrument or figure.
+Digital Cooperation Organization secretary-general Deemah AlYahya and Djibouti's digital economy minister Safia Mohamed Ali Gadileh discussed cooperation on AI, digital skills, innovation and capacity building. Djibouti recently unveiled a National AI Strategy for 2026–2030. No agreement, funding or timetable is reported.
 
 </div>
 
@@ -127,7 +127,7 @@ DCO chief AlYahya and minister Gadileh discuss AI, skills and capacity building;
 
 **[Djibouti Country Private Sector Diagnostic](https://www.ifc.org/en/insights-reports/2026/djibouti-private-sector-diagnostic)** — International Finance Corporation, 13 September 2026
 
-CPSD names data centres one of three sectors for private investment, with energy reform the priority.
+The International Finance Corporation published a Country Private Sector Diagnostic for Djibouti in September 2026, prepared with the World Bank Group. It names off-grid solar energy, data centres and tourism as the three subsectors where private investment could grow, and identifies energy reform as a priority. It also notes state-owned enterprises' control of key sectors including telecommunications.
 
 </div>
 
@@ -135,7 +135,7 @@ CPSD names data centres one of three sectors for private investment, with energy
 
 **[World Bank Group Report Identifies Significant Private Investment Potential for Djibouti](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj)** — World Bank Group, 14 September 2026
 
-CPSD puts at least US$600m of private investment and about 12,000 jobs in reach over five years.
+The World Bank Group's private sector diagnostic for Djibouti, released on 13 September 2026, identifies reforms that could unlock at least $600 million of private investment and about 12,000 jobs over five years in off-grid solar, data centres and tourism. Data centres could draw $160 million to $240 million; existing capacity, served by eight submarine cables, is nearly full.
 
 </div>
 
@@ -153,7 +153,7 @@ CPSD puts at least US$600m of private investment and about 12,000 jobs in reach 
 
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
 
-Addis Ababa meeting pitches the Djibouti-Ethiopia-Sudan corridor to Google, Meta, Microsoft, Amazon and carriers.
+Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
 
 </div>
 
@@ -171,7 +171,7 @@ Addis Ababa meeting pitches the Djibouti-Ethiopia-Sudan corridor to Google, Meta
 
 **[Djibouti Plans Electronic Single-window to Streamline Trade](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade)** — Dawan Africa, 2 September 2026
 
-Customs to build a single window with the AfCFTA Secretariat and Korea's CUPIA, beyond SYDONIAWORLD.
+Djibouti's customs administration plans an electronic single window bringing customs and trade procedures onto one platform, discussed at a preparatory workshop at the People's Palace on 1 September 2026. It is working with the commerce ministry, the AfCFTA Secretariat and Korea's CUPIA, and says the system will go beyond the SYDONIAWORLD system now in use. No cost or timetable is given.
 
 </div>
 
@@ -197,7 +197,7 @@ Djibouti opened its first national forum on artificial intelligence at the Palai
 
 **[Somali must have a place in artificial intelligence, Djibouti minister tells first national forum](https://sonna.so/en/article/Somali-must-have-a-place-in-artificial-intelligence-Djibouti-minister-tells-first-national-forum)** — Somali National News Agency (SONNA), 3 September 2026
 
-Somali, Afar and Arabic must be in the models or their speakers are out; 12 subsea cables landed, three more in progress.
+Djibouti's Minister Delegate for the Digital Economy, Safiyo Mohamed Ali, told the country's first national forum on artificial intelligence, opened by President Ismail Omar Guelleh, that Somali, Afar and Arabic must be represented in AI systems or their speakers will be excluded. Finance Minister Ilyas Moussa Dawaleh said 12 submarine cables land in Djibouti, with three more in progress.
 
 </div>
 
@@ -213,7 +213,7 @@ Djibouti presented the main lines of its first national artificial-intelligence 
 
 **[Intelligence artificielle : Djibouti lance sa premiere strategie nationale](https://lobservateur.info/article/119465/covid-19/intelligence-artificielle-djibouti-lance-sa-premiere-strategie-nationale)** — L'Observateur, 8 September 2026
 
-Six-axis AI strategy to 2030; UNESCO rates readiness 'emerging', ~24.5/100 against an ICT index of 61.6.
+Djibouti presented its first national artificial intelligence strategy for 2026–2030, built on six areas: data and AI governance, cybersecurity, training, research, innovation and inclusion. A readiness assessment carried out with UNESCO rates the country 'emerging', at about 24.5 out of 100, against an ICT development index of 61.6. No budget is given.
 
 </div>
 
@@ -227,7 +227,7 @@ Six-axis AI strategy to 2030; UNESCO rates readiness 'emerging', ~24.5/100 again
 
 **[Intelligence artificielle : les acteurs d'un écosystème en construction](https://www.lanation.dj/intelligence-artificielle-les-acteurs-dun-ecosysteme-en-construction/)** — La Nation, 3 September 2026
 
-HOOM used by 4,500 terminale pupils, about 57% of the year group; Bouho AI answers in Somali, Afar and Arabic.
+Djibouti's daily La Nation profiled participants at the country's first national forum on artificial intelligence. They include HOOM, a Djiboutian learning app used by more than 4,500 final-year secondary pupils (about 57% of the cohort), the chatbot Bouho AI, which works in Somali, Afar and Arabic, the EU-funded École 42 Djibouti, and Djibouti Telecom, which sponsored the forum.
 
 </div>
 
@@ -243,7 +243,7 @@ Summarised under [AI](#ai).
 
 **[Premier Concours national de prototypage : Quand l’intelligence artificielle révèle les talents de la jeunesse djiboutienne](https://www.lanation.dj/premier-concours-national-de-prototypage-quand-lintelligence-artificielle-revele-les-talents-de-la-jeunesse-djiboutienne/)** — La Nation, 7 September 2026
 
-First national AI prototyping competition, held at Djibouti's first national AI forum.
+Djibouti's ministry for the digital economy ran the country's first national AI prototyping competition ahead of its first National Forum on Artificial Intelligence. Of 126 applications, 56 were eligible and 17 reached the pitch stage; the winner, Tech Genius, received 2,000,000 Djibouti francs, with 1,000,000 and 500,000 francs for second and third place.
 
 </div>
 
@@ -307,7 +307,7 @@ The Francophonie organisation and Djibouti's education and vocational training m
 
 **[From export readiness to market access: EU-backed support strengthens women's participation in trade along the Djibouti-Ethiopia Corridor](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/)** — Horn Economic Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
 
-40 women traders at Bishoftu, 30-31 Jul 2026, under the EUR 32m EU/AFD Djibouti Corridor programme; 94% unlicensed.
+Forty Ethiopian women traders and exporters attended an export-readiness workshop in Bishoftu on 30-31 July 2026 under the €32 million Djibouti Corridor programme, financed by the EU through Global Gateway, delegated to the Agence Française de Développement and run by TradeMark Africa. The programme also funds digital trade systems such as electronic phytosanitary certification.
 
 </div>
 
@@ -351,7 +351,7 @@ Djibouti's president took part in the second day of the first International Spac
 
 **[Djibouti–États-Unis : un nouvel élan pour la coopération numérique et médiatique](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/)** — La Nation, 1 September 2026
 
-Minister Moussa Helem meets US Ambassador Kierscht on tech investment, media training.
+Djibouti's communications minister, Mohamed Abdoulkader Moussa Helem, received the US ambassador, Cynthia Kierscht, on 31 August 2026. They discussed US investment in new technologies and telecommunications, and training for journalists and media staff. No agreement, figure or timetable was announced.
 
 </div>
 

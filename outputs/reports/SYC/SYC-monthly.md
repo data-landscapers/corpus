@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: a0e8bb31be79
+record: 5671b67b6fb2
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -73,7 +73,7 @@ record: a0e8bb31be79
 
 **[Commission of Inquiry opens into Travizory border agreement](https://www.nation.sc/articles/32150/commission-of-inquiry-opens-into-travizory-border-agreement)** — Seychelles Nation, 3 September 2026
 
-Presidential inquiry into the Seychelles-Travizory border agreement opens at the Palais de Justice.
+A presidential Commission of Inquiry into the border management agreement between Seychelles and Travizory Border Security SA opened at the Palais de Justice on Mahé on 2 September 2026. The immigration department uses Travizory's system for digital border control, including visitors' electronic travel authorisation. The commission's terms of reference are not given.
 
 </div>
 
@@ -95,7 +95,7 @@ Seychelles' Commission of Inquiry into the border management agreement with Trav
 
 **[Cabinet Business, Wednesday 09th September 2026](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026)** — State House Seychelles, 9 September 2026
 
-Cabinet clears a Digital Economic Transformation Forum to agree national digital architecture and pilots.
+Seychelles' Cabinet, chaired by President Patrick Herminie on 9 September 2026, approved a multi-stakeholder Digital Economic Transformation Forum to agree a national digital architecture, priority pilot projects and an implementation roadmap. The same meeting approved a Hydrographic Office within the Maritime Safety Authority to manage marine data.
 
 </div>
 
@@ -111,7 +111,7 @@ Cabinet clears a Digital Economic Transformation Forum to agree national digital
 
 **[Information Commission trains newly appointed IOs](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios)** — Seychelles Nation, 2 September 2026
 
-Second 2026 induction for public-body information officers, led by CEO Diana Benoit.
+Seychelles' Information Commission held its second 2026 induction session for information officers newly appointed by public bodies, led by chief executive Diana Benoit. The commission runs two such sessions a year.
 
 </div>
 
@@ -127,7 +127,7 @@ Second 2026 induction for public-body information officers, led by CEO Diana Ben
 
 **[Policy, Standards & Research Section](https://ict.gov.sc/Sections/PolicySection)** — Department of Information Communications Technology (DICT), Government of Seychelles, 1 September 2026
 
-DICT's own mandate statement: government-wide IS standards for e-government interoperability.
+Seychelles' Department of Information Communications Technology sets out the mandate of its Policy, Standards and Research Section: technical and coding standards for interoperable e-government services, integration of government applications and databases, and management of Gov Mail, the government intranet and the e-services portal. The page is undated.
 
 </div>
 
@@ -145,7 +145,7 @@ DICT's own mandate statement: government-wide IS standards for e-government inte
 
 **[African Development Bank Group — Seychelles, Economic Resilience and Green Recovery Support Programme phase III, 2026](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 22 September 2026
 
-US$34m loan to the Government of Seychelles, approved 22 Sept 2026; e-invoicing and e-procurement among the reforms.
+The African Development Bank's board approved a US$34 million loan to Seychelles on 22 September 2026 for the third and final phase of its Economic Resilience and Green Recovery Support Programme. Reforms include electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal; the bank's financing across the three phases totals US$84 million.
 
 </div>
 
@@ -153,7 +153,7 @@ US$34m loan to the Government of Seychelles, approved 22 Sept 2026; e-invoicing 
 
 **[Seychelles: African Development Bank approves $34 million loan to strengthen public services, private sector growth and climate resilience](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 23 September 2026
 
-Approved 22 Sept 2026; third and final phase, AfDB total US$84m; funds e-invoicing, e-procurement, investment portal.
+The African Development Bank approved a US$34 million loan to Seychelles on 22 September 2026 for the third and final phase of its Economic Resilience and Green Recovery Support Programme. The phase supports electronic invoicing for tax, a national e-procurement system and a one-stop investment portal, and brings the bank's financing across the three phases to US$84 million.
 
 </div>
 
@@ -205,7 +205,7 @@ Cabinet approved a hydrographic office inside the maritime safety authority, to 
 
 **[Seychelles signs cash transfer pact to boost climate preparedness](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness)** — Seychelles Nation, 9 September 2026
 
-ASP beneficiary registry and payment rails to carry post-disaster cash transfers; no value stated.
+Seychelles' finance ministry and the Agency for Social Protection signed a performance agreement under the regional REPAIR programme, reported on 9 September 2026, to make rapid cash transfers to households after floods, landslides or tsunamis. The agency will pay through its existing beneficiary registry and payment systems and add newly affected households. No value is stated.
 
 </div>
 
@@ -221,7 +221,7 @@ ASP beneficiary registry and payment rails to carry post-disaster cash transfers
 
 **[Government Targets Introduction of Digital Human Resource Management System in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027)** — State House Seychelles, 14 October 2026
 
-Vice-President briefs FreeBalance; 2027 transition target; aim to process more digital transactions inside Seychelles.
+Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a State House briefing with FreeBalance, that the government aims to begin introducing a digital human resource management system for the public service in 2027. He also said more digital transactions should be processed within Seychelles. FreeBalance's role and the cost are not stated.
 
 </div>
 
@@ -239,7 +239,7 @@ Vice-President briefs FreeBalance; 2027 transition target; aim to process more d
 
 **[Seychelles' tourism minister pushes for AI and data-driven approach to reshape tourism sector](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector)** — Seychelles News Agency, 2 October 2026
 
-Minister sets AI and forecasting direction; Lazio HRM workforce platform; Tourism Digital and AI Agenda to follow.
+Seychelles' tourism minister Amanda Bernstein told the Seychelles Tourism Forum on 1 October 2026 that the country plans to use AI and real-time data to forecast pressures from tourism, with attention to small locally owned businesses. The forum presented Lazio HRM, a tourism workforce platform built for the tourism department by Cloudbay Solutions.
 
 </div>
 

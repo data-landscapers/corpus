@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MUS
 ledger_rows: 25
 not_held: 7
-record: 6e5da31b466e
+record: a46c778495fe
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -97,7 +97,7 @@ record: 6e5da31b466e
 
 **[Conseil des ministres | «Mauritius Vision 2050» : l’objectif d’une économie à USD 50 milliards d’ici 2050](https://lexpress.mu/s/mauritius-vision-2050-lobjectif-dune-economie-a-usd-50-milliards-dici-2050-562497)** — L'Express (Maurice), 11 September 2026
 
-Cabinet approves Vision 2050 on 11 September 2026: USD 50bn economy by 2050, digital among seven strategic sectors.
+Mauritius's Cabinet approved the final report of Mauritius Vision 2050 on 11 September 2026, aiming for an economy of about USD 50 billion (about Rs 2,300 billion) by 2050. It rests on prosperity, sustainability and inclusivity, and names digital among seven strategic sectors alongside financial services, tourism, logistics, the ocean economy, high-value agriculture and life sciences.
 
 </div>
 
@@ -113,7 +113,7 @@ Cabinet approves Vision 2050 on 11 September 2026: USD 50bn economy by 2050, dig
 
 **[«Road Traffic (Amendment) Bill» : Avinash Ramtohul : «Bâtir un avenir où les services publics suivent l'évolution technologique»](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186)** — L'Express (Maurice), 3 September 2026
 
-Legal recognition for the digital licence and online fine payment, for 800,000-plus licence holders.
+Mauritius's ICT minister Avinash Ramtohul said on 3 September 2026 that the Road Traffic (Amendment) Bill gives the digital driving licence legal equivalence with the physical one and allows fixed penalties to be paid online or at any court. He said more than 800,000 licence holders are affected and that police will check licence data against a central database.
 
 </div>
 
@@ -121,7 +121,7 @@ Legal recognition for the digital licence and online fine payment, for 800,000-p
 
 **[Paiement en ligne des amendes : le système bientôt mis en place](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place)** — Le Defi Media Group, 29 September 2026
 
-Provisions in force 30 October; covers only fines not tied to penalty points; system being finalised.
+Mauritius's ICT minister Avinash Ramtohul said legal provisions allowing traffic fines to be paid online take effect on 30 October, covering only fines not linked to penalty points. The government is still finalising the system; fines can already be paid at any district court.
 
 </div>
 
@@ -129,7 +129,7 @@ Provisions in force 30 October; covers only fines not tied to penalty points; sy
 
 **[Permis de conduire numérique : une période de transition avant l’entrée en vigueur en 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027)** — Le Defi Media Group, 29 September 2026
 
-Licence live on the KOREK app; legal effect 1 January 2027; photocopies no longer accepted at checks.
+Mauritius soft-launched a digital driving licence on the KOREK app for Android and iOS on 29 September 2026, with legal effect from 1 January 2027. From then, drivers stopped at the roadside must show the original or the digital licence; photocopies will not be accepted. Holders are asked to check their data and photo in the app and report errors.
 
 </div>
 
@@ -137,7 +137,7 @@ Licence live on the KOREK app; legal effect 1 January 2027; photocopies no longe
 
 **[Highlights of Cabinet Meeting - Friday 02 October 2026](https://pmo.govmu.org/CabinetDecision/2026/FINAL_Highlights_of_Cabinet_Meeting-Friday_02_October_2026-1.pdf)** — Prime Minister's Office, Mauritius, 2 October 2026
 
-Online traffic-fine payment via MauPass and MauCAS from 30 October; Meta visit on platform rules; GDP rebased to 2023.
+Mauritius's Cabinet agreed on 2 October 2026 to regulations allowing traffic fines without penalty points to be paid online from 30 October, through the Supreme Court portal with MauPass login and MauCAS QR or card payment. It also noted a Meta visit on 6–7 October on platform representation, take-down requests and age assurance, and Statistics Mauritius's rebasing of GDP to 2023, which adds about Rs58 billion.
 
 </div>
 
@@ -151,7 +151,7 @@ Online traffic-fine payment via MauPass and MauCAS from 30 October; Meta visit o
 
 **[National Crime Agency Bill : ce que prévoit la future agence et jusqu’où iront ses pouvoirs](https://defimedia.info/national-crime-agency-bill-ce-que-prevoit-la-future-agence-et-jusquou-iront-ses-pouvoirs)** — Le Défi Media Group, 12 September 2026
 
-Would repeal the FCC Act 2023; interception and traffic-data powers via Judge in Chambers; Assembly resumes 20 October.
+Mauritius published the National Crime Agency Bill 2026 on the National Assembly website, creating a lead agency to investigate financial crime, cybercrime and serious organised crime. It would repeal the Financial Crimes Commission Act 2023 and allow interception and real-time collection of communications data on a judge's order. The Assembly resumes on 20 October and the powers are not yet in force.
 
 </div>
 
@@ -159,7 +159,7 @@ Would repeal the FCC Act 2023; interception and traffic-data powers via Judge in
 
 **[The National Crime Agency Bill (No. ..... of 2026) — bill text as published by the National Assembly of Mauritius](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/09/The-National-Crime-Agency-Bill-2026.pdf)** — National Assembly of Mauritius, 12 September 2026
 
-Bill text itself: 56 pages, nine Parts, Cybercrime Division, Digital Forensic Laboratory, repeal of the FCC Act.
+Mauritius's National Assembly published the National Crime Agency Bill around 12 September 2026, setting up a lead agency to investigate financial crime, cybercrime and serious organised crime. The bill creates divisions including a Cybercrime Division and a Digital Forensic Laboratory, and repeals the Financial Crimes Commission Act 2023. The bill text carries no date or number.
 
 </div>
 
@@ -167,7 +167,7 @@ Bill text itself: 56 pages, nine Parts, Cybercrime Division, Digital Forensic La
 
 **[Délibérations du Conseil des Ministres du 11 septembre 2026](https://maurice-info.mu/2026/09/13/deliberations-du-conseil-des-ministres-du-11-septembre-2026.html)** — Maurice Info, 13 September 2026
 
-Cabinet cleared nine Bills for the National Assembly, including the National Crime Agency Bill.
+Mauritius's Cabinet agreed on 11 September 2026 to introduce nine bills establishing a National Crime Agency as the lead investigator of financial crime, cybercrime and serious organised crime. The agency will gather and share intelligence and recover assets, and the Financial Crimes Commission Act will be repealed.
 
 </div>
 
@@ -175,7 +175,7 @@ Cabinet cleared nine Bills for the National Assembly, including the National Cri
 
 **[2 Senior Legal Experts Issue Warnings Over New Crime Agency Reform](https://newsmoris.com/2-senior-legal-experts-issue-warnings-over-new-crime-agency-reform/)** — News Moris, 14 September 2026
 
-DPP Rashid Ahmine warns the National Crime Agency risks being a dead letter without resources.
+Mauritius's Director of Public Prosecutions, Rashid Ahmine, welcomed most of the National Crime Agency Bill but warned the agency could remain a dead letter without government resources. Under the bill, intrusive surveillance needs a judge's authorisation. The Bar Association president, Antoine Domingue, noted the bill sets no terms of office or removal procedures for appointees.
 
 </div>
 
@@ -183,7 +183,7 @@ DPP Rashid Ahmine warns the National Crime Agency risks being a dead letter with
 
 **[National Crime Agency: How Independent Will It Really Be?](https://www.mauritiustimes.com/mt/national-crime-agency-how-independent-will-it-really-be/)** — Mauritius Times, 14 September 2026
 
-Argues constitutional status alone will not secure NCA independence against political interference.
+A Mauritius Times interview, published on 14 September 2026, examines the proposed National Crime Agency Bill. The commentator argues that constitutional status alone will not secure the agency's independence, and that appointment of its director-general by the President on the advice of a panel, after consulting the Prime Minister and opposition leader, leaves room for political influence.
 
 </div>
 
@@ -197,7 +197,7 @@ Argues constitutional status alone will not secure NCA independence against poli
 
 **[Africa's first electronic bill of exchange goes live under Mauritian law](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law)** — Trade Treasury Payments, 16 September 2026
 
-MCB and ETG issue five bills in under 30 minutes; first live use of Mauritius' MLETR reform.
+Mauritius Commercial Bank completed the first electronic bill of exchange under Mauritian law with Export Trading Group, which created five bills in under 30 minutes and transferred them to the bank in under an hour. It is the first live use of the electronic transferable records framework Mauritius adopted through the Finance Act 2025.
 
 </div>
 
@@ -219,7 +219,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Meta à Maurice : la sécurité en ligne au cœur des discussions](https://lexpress.mu/node/563208)** — L'Express (Maurice), 2 October 2026
 
-Meta in Mauritius 6-7 Oct: Creole moderation, child safety, takedowns, local presence; framework deal with ICT ministry.
+A Meta team is due in Mauritius on 6 and 7 October 2026 for meetings on moderating content in Mauritian Creole, child protection online, identity verification, faster takedowns and whether platforms should have a local presence. Mauritius' ICT ministry and Meta will also discuss a framework agreement on online safety.
 
 </div>
 
@@ -241,7 +241,7 @@ Mauritius's ICT ministry met Meta on faster removal of fake accounts, impersonat
 
 **[From E-Signatures to AI-Driven Contracts: How Mauritius is rewriting the Rules of Digital Transactions](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/)** — Appleby, 5 October 2026
 
-Law-firm reading: functional equivalence, electronic transferable records under control, automated contracts, s.15A.
+Law firm Appleby reviews Mauritius's Electronic Transactions (Amendment) Act 2026. The Act accepts any reliable electronic signature that identifies the signer and shows intent, gives legal effect to electronic transferable records, and recognises contracts formed by automated systems without human review of each action. Under section 15A, where a certificate or signature originates does not by itself decide its effectiveness.
 
 </div>
 
@@ -255,7 +255,7 @@ Law-firm reading: functional equivalence, electronic transferable records under 
 
 **[Atelier Maurice-Meta : Vers une riposte plus rapide face aux dérives du numérique](https://lexpress.mu/node/563366)** — L'Express (Maurice), 8 October 2026
 
-Security incidents 5,221 (2024) to 6,073 (2025); cyberbullying 491 to 702; ICT Act amendments planned.
+Mauritius's ICT ministry and Meta held a workshop at Ebene on 7 October 2026 on online abuse, disinformation and deepfakes. Figures presented show reported security incidents rising from 5,221 in 2024 to 6,073 in 2025 and cyberbullying cases from 491 to 702; the government is preparing bills and amendments to the ICT Act on cybersecurity and cybercrime, and wants faster takedown channels with Meta.
 
 </div>
 
@@ -263,7 +263,7 @@ Security incidents 5,221 (2024) to 6,073 (2025); cyberbullying 491 to 702; ICT A
 
 **[Avinash Ramtohul : «Il faut apporter un peu de discipline dans les réseaux sociaux»](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444)** — L'Express (Maurice), 10 October 2026
 
-Minister: about 20 abuse cases a day; CERT-MU takedown deal, MP identity checks, banned-word list; Meta office possible.
+Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 about a two-day working session with Meta on content moderation, reporting and takedown requests. He cited about 20 abuse cases reported a day, a takedown agreement involving the national computer emergency team CERT-MU and Meta verification of MPs' identities, and said Meta could open an office in Mauritius.
 
 </div>
 
@@ -295,7 +295,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
-49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
 </div>
 
@@ -329,7 +329,7 @@ Mauritius will develop a Digital Service Framework setting mandatory principles 
 
 **[Portabilité mobile : Garder son numéro en changeant d'opérateur](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369)** — L'Express (Maurice), 8 October 2026
 
-Three-day ICTA workshop in Balaclava; call opened for a new MNP licence; switching costs framed as the economic case.
+Mauritius' ICT Authority opened a call for applications for a new mobile number portability licence, announced at a three-day ICTA workshop in Balaclava reported on 8 October 2026. Chairman Tassarajen Pillay Chedumbrum said subscribers will be able to keep their number and SIM when changing operator. No launch date is given.
 
 </div>
 
@@ -411,7 +411,7 @@ Mauritius's digital driving licence takes legal effect on 1 January 2027, after 
 
 **[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-BoM governor, July 2026: SSA to miss 2027 G20 targets; REPSS, TCIB, PAPSS as building blocks; stablecoin risks.
+The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
 
 </div>
 
@@ -427,7 +427,7 @@ BoM governor, July 2026: SSA to miss 2027 G20 targets; REPSS, TCIB, PAPSS as bui
 
 **[Ile Maurice: Les demandes de «Waste Carrier Licence» en ligne à partir d'octobre](https://fr.allafrica.com/stories/202609220486.html)** — Le Mauricien (via allAfrica), 22 September 2026
 
-Mandatory online filing via the EDB platform from October 2026; ministry communiqué of 21 September.
+Mauritius's environment ministry announced on 21 September 2026 that applications for a Waste Carrier Licence must be made online through the Economic Development Board platform from October. The rule covers individuals, companies, parastatals, local authorities and ministries, who must upload scanned identity and vehicle documents.
 
 </div>
 
@@ -441,7 +441,7 @@ Mandatory online filing via the EDB platform from October 2026; ministry communi
 
 **[Highlights of Cabinet Meeting - Friday 09 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2009.10.2026.pdf)** — Office of the Prime Minister, Mauritius, 9 October 2026
 
-State Age Pension online from 7 Oct 2026 via KOREK! estimate app; open-source champion selection; water crisis.
+Mauritius opened online applications for the State Age Pension from 7 October 2026, the Cabinet noted on 9 October, with a pension estimate app on the KOREK! government super-app. People with limited digital access can apply with help at 38 social security offices.
 
 </div>
 
@@ -505,7 +505,7 @@ Summarised under [Rural digital data capture](#rural-digital-data-capture).
 
 **[Convention internationale GOPIO : Dhaneshwar Damry annonce la création d'une «AI City»](https://lexpress.mu/s/dhaneshwar-damry-annonce-la-creation-dune-ai-city-562539)** — L'express (Maurice), 13 September 2026
 
-Junior finance minister Dhaneshwar Damry announced an AI City at the 16th GOPIO convention.
+Mauritius' junior finance minister Dhaneshwar Damry told the 16th GOPIO international convention in Balaclava that the government will set up an "AI City" within the next two to three months. He presented Mauritius as an investment gateway and risk-reduction centre for Africa. No cost, location or operator is given.
 
 </div>
 
@@ -539,7 +539,7 @@ A pan-African investment fund took a minority stake in a Mauritian digital trans
 
 **[PM unveils BOMStats, a new gateway to trusted, timely economic and financial data](https://gis.govmu.org/gis/?page_id=4008)** — Government Information Service, Mauritius, 3 September 2026
 
-Central bank statistics portal launched on the BoM's 59th anniversary, after an IMF ROSC on data quality.
+Mauritius's prime minister, Navinchandra Ramgoolam, launched BOMStats, the Bank of Mauritius's central statistical database, in Port-Louis on 3 September 2026, the bank's 59th anniversary. It was developed with the IMF and the African Development Bank. Ramgoolam said the Statistics Act and the Bank of Mauritius Act are being reviewed after an IMF assessment of data standards.
 
 </div>
 
@@ -555,7 +555,7 @@ Central bank statistics portal launched on the BoM's 59th anniversary, after an 
 
 **[Bank of Mauritius expands access to official statistics with rollout of BOMStats platform](https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform)** — Bank of Mauritius, 3 September 2026
 
-First African central bank on Open Data Platform 2.0 with SDMX dissemination; built with IMF and AfDB support.
+The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 September 2026, with Prime Minister Navinchandra Ramgoolam presiding. The platform offers self-service analytics, an API and SDMX-format data sharing, and the bank says it is the first African central bank to use Open Data Platform 2.0. It was built with support from the African Development Bank and the IMF's Statistics Department.
 
 </div>
 

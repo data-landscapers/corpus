@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XEA
 ledger_rows: 20
 not_held: 0
-record: b3f83a1c201b
+record: c3c420eb9419
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -65,7 +65,7 @@ record: b3f83a1c201b
 
 **[ADEA pushes for measurable learning outcomes at the second EAC Regional Education Conference](https://adeanet.org/en/news/adea-pushes-measurable-learning-outcomes-second-eac-regional-education-conference)** — Association for the Development of Education in Africa (ADEA), 3 September 2026
 
-ADEA invites an EAC community of practice on data-led decisions; Somalia's teacher-attendance system cited.
+The second East African Community Regional Education Conference, held in Nairobi in August 2026, focused on measurable learning outcomes, according to the Association for the Development of Education in Africa. Somalia's education ministry described a public teacher attendance system that now feeds foundational learning data, with plans to extend it to national assessments.
 
 </div>
 
@@ -79,7 +79,7 @@ ADEA invites an EAC community of practice on data-led decisions; Somalia's teach
 
 **[Communique of the 74th Extraordinary Session of the IGAD Council of Ministers](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/)** — IGAD, 15 September 2026
 
-Djibouti, 15 Sept 2026: an IGAD AI Centre of Excellence endorsed in principle; the 2023 Treaty in force.
+The IGAD Council of Ministers, meeting in Djibouti on 15 September 2026, endorsed in principle an IGAD Artificial Intelligence Centre of Excellence and invited member states to bid to host it. The council also recorded that five of seven members — Djibouti, Ethiopia, Kenya, Somalia and South Sudan — have ratified the 2023 IGAD Treaty, meeting the threshold for its entry into force.
 
 </div>
 
@@ -93,7 +93,7 @@ Djibouti, 15 Sept 2026: an IGAD AI Centre of Excellence endorsed in principle; t
 
 **[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
 </div>
 
@@ -141,7 +141,7 @@ IGAD opened a two-day consultation in Addis Ababa to develop a common Horn of Af
 
 **[EA Universities Rethink Quality as AI Puts Degrees to a New Test](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/)** — KT Press, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Rwanda's education minister opens the 15th East African Higher Education Quality Assurance Network forum on AI.
+Rwanda's Education Minister Joseph Nsengimana opened the 15th East African Higher Education Quality Assurance Network forum in Kigali on 7 September 2026, saying the region must rethink how it defines and assures quality in higher education as artificial intelligence changes teaching and work. The Inter-University Council for East Africa said a regional AI network has been launched.
 
 </div>
 
@@ -191,7 +191,7 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 
 **[Chairperson of the EAC Heads of State Summit Lauds the Region's 6% Economic Growth, Calls on the Private Sector to Drive Shared Prosperity as East Africa CEO & Investment Forum Delivers US$3.95 Billion Investment Pipeline](https://eabc-online.com/chairperson-of-the-eac-heads-of-state-summit-lauds-the-regions-6-economic-growth-calls-on-the-private-sector-to-drive-shared-prosperity-as-east-africa-ceo-investment-forum-delivers-us3-95/)** — East African Business Council, 19 September 2026
 
-Forum closes with 95 pre-screened opportunities worth US$3.95bn; Regional AI and Productivity Study launched.
+The first East Africa CEO and Investment Forum closed in Nairobi on 18 September 2026 with 95 pre-screened investment opportunities valued at nearly US$3.95bn, including digital infrastructure. The East African Business Council, the EAC Secretariat and the East African Development Bank launched a regional AI and productivity study, and EASTECO's cooperation with Hessen under the EAC AI Alliance was presented.
 
 </div>
 
@@ -205,7 +205,7 @@ Forum closes with 95 pre-screened opportunities worth US$3.95bn; Regional AI and
 
 **[EAC Advances Regional AI Skills Initiative to Prepare East African Graduates for the Future of Work](https://iucea.org/eac-advances-regional-ai-skills-initiative-to-prepare-east-african-graduates-for-the-future-of-work/)** — Inter-University Council for East Africa (IUCEA), 6 October 2026
 
-Draft course validated in Dar es Salaam; GIZ, JICA and Alliance4AI input; EAC Regional AI Network institutions to pilot.
+The East African Community, the Inter-University Council for East Africa and the East African Science and Technology Commission, with Germany, validated a draft EAC AI Foundational Module at a two-day workshop in Dar es Salaam, announced on 6 October 2026. The course aims to teach AI literacy to university students in all disciplines, and institutions in the EAC Regional AI Network may pilot it.
 
 </div>
 
@@ -253,7 +253,7 @@ Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's 
 
 **[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
 
-Online sales piloted in Zambia; phone verification in 8 countries; 340,000 cards and US$27m premiums in 2025.
+COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
 
 </div>
 
@@ -269,7 +269,7 @@ Online sales piloted in Zambia; phone verification in 8 countries; 340,000 cards
 
 **[EAC Payment Systems Integration: Burundi Reaffirms Its Commitment to Regional Financial Integration](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/)** — Ministry of Foreign Affairs, Republic of Burundi, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BDI/" title="BDI">Burundi</a>
 
-Bujumbura leg of EALA oversight, 22 Sep 2026; Burundi backs PSSI, names legal, supervisory and cyber conditions.
+A ten-member East African Legislative Assembly delegation led by Saïd Kibeya held an oversight session in Bujumbura on 22 September 2026 on integrating East African Community payment and settlement systems. Burundi's EAC programme director general backed the regional Payment and Settlement Systems Initiative and named harmonised laws, supervision, cybersecurity and technical capacity as conditions for success.
 
 </div>
 
@@ -299,7 +299,7 @@ Afreximbank made the East African Business Council a trade corridor partner of i
 
 **[Afreximbank issues a $29 million guarantee to scale EAC Customs Bond, easing movement of goods across East Africa](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/)** — African Export-Import Bank (Afreximbank), 22 September 2026
 
-US$29m guarantee to BSMART Technology for the digital EAC Customs Bond; piloted in Uganda 2025, launched March 2026.
+Afreximbank issued a US$29m guarantee to BSMART Technology on 22 September 2026 to scale the EAC Customs Bond, a digital regional customs guarantee that removes the need to post paper bonds at each border. The bond was piloted from August 2025 and launched at the East African Community heads of state summit in March 2026.
 
 </div>
 
@@ -307,7 +307,7 @@ US$29m guarantee to BSMART Technology for the digital EAC Customs Bond; piloted 
 
 **[Afreximbank — BSMART Technology, EAC Customs Bond guarantee, 2026](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/)** — African Export-Import Bank (Afreximbank), 22 September 2026
 
-Afreximbank guarantee, US$29m, to the EAC Customs Bond's operator; issued September 2026, no tenor stated.
+Afreximbank issued a US$29 million guarantee to BSMART Technology Ltd, announced on 22 September 2026, to support the EAC Customs Bond, a digital platform that lets clearing agents obtain customs bonds online instead of lodging paper bonds at each border. Uganda, Rwanda and Burundi are named as onboarded. No tenor is stated.
 
 </div>
 
@@ -321,7 +321,7 @@ Afreximbank guarantee, US$29m, to the EAC Customs Bond's operator; issued Septem
 
 **[East African Community (EAC) Health Ministers Step Up Regional Action to Strengthen Health Security](https://www.africa-newsroom.com/press/east-african-community-eac-health-ministers-step-up-regional-action-to-strengthen-health-security?lang=en)** — Africa Newsroom (APO Group), 8 October 2026
 
-Pandemic-intelligence sharing platform advanced; all eight Partner States onboarded to pooled-procurement platform.
+East African Community health ministers, ending their 26th meeting in Arusha on 6 October 2026, advanced a regional platform for sharing pandemic and epidemic intelligence. They noted that all eight Partner States are onboarded and trained on the digital platform of the EAC pooled procurement mechanism, and called for a dashboard to track regional health decisions.
 
 </div>
 
@@ -337,7 +337,7 @@ Pandemic-intelligence sharing platform advanced; all eight Partner States onboar
 
 **[EAC Calls for Public Participation in Shaping Better Regional Statistics](https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics)** — East African Community, 3 September 2026
 
-EAC Secretariat opens a user-satisfaction survey on regional statistics under the EARSPforR programme.
+The East African Community Secretariat opened an online user satisfaction survey on EAC regional statistics on 3 September 2026, under the Eastern Africa Regional Statistics Program for Results. It asks statistics offices, central banks, businesses, researchers, media and others about the quality, timeliness and accessibility of the data. No closing date is given.
 
 </div>
 
@@ -351,7 +351,7 @@ EAC Secretariat opens a user-satisfaction survey on regional statistics under th
 
 **[IGAD Member States adopt regional statistics strategy for 2026–2030 - IGAD](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/)** — IGAD, 28 September 2026
 
-Adopted 2026-09-23 by seven member states; five pillars, 69 interventions, USD 13.005m indicative cost to 2030.
+The IGAD Statistics Committee adopted the second Regional Strategy for the Development of Statistics for 2026 to 2030 on 23 September 2026, endorsed by the statistics office heads of Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Sudan and Uganda. Its five pillars include modernisation and interoperability. The indicative cost is US$13.005 million across 69 interventions, and funding is not yet secured.
 
 </div>
 

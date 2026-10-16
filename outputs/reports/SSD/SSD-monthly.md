@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SSD
 ledger_rows: 17
 not_held: 10
-record: 3cc38b953b4f
+record: 4a43fc9760e3
 ---
 
 # South Sudan: monthly update, September – October 2026
@@ -115,7 +115,7 @@ The African Union Commission, AUDA-NEPAD, GIZ and KICTANet convened a three-day 
 
 **[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
 
-Juba MoU sets real-time epidemiological data sharing and joint surveillance on the South Sudan-Uganda border.
+South Sudan and Uganda's health ministers signed a memorandum of understanding in Juba on cross-border health security, reported on 8 September 2026. It provides for real-time sharing of epidemiological information, mutual outbreak notification, joint contact tracing and surveillance, biospecimen transfer and harmonised screening at points of entry.
 
 </div>
 
@@ -129,7 +129,7 @@ Juba MoU sets real-time epidemiological data sharing and joint surveillance on t
 
 **[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
 
-Third SSRA–URA MoU adds e-permit enforcement and customs digital interoperability; three-layer oversight.
+The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
 
 </div>
 
@@ -161,7 +161,7 @@ South Sudan's National Communication Authority took part in the third African pr
 
 **[Rights officials accuse government of treating civil society as ‘enemies’ - Radio Tamazuj](https://www.radiotamazuj.org/en/news/article/rights-officials-accuse-government-of-treating-civil-society-as-enemies)** — Radio Tamazuj, 2 September 2026
 
-Commission rates transparency and participation weak, accountability very weak; NRA data unpublished.
+South Sudan Human Rights Commission officials told a Juba panel on 2 September 2026 that the government treats civil society organisations as enemies or political opponents. Deputy chair Ezekia A. Gibson rated transparency and participation weak and accountability very weak; participants said the National Revenue Authority does not consistently publish the revenue data it is required to release.
 
 </div>
 
@@ -179,7 +179,7 @@ Commission rates transparency and participation weak, accountability very weak; 
 
 **[SPLM calls for expansion of telecommunication coverage in Lafon County](https://www.onecitizendaily.com/index.php/2026/09/03/splm-calls-for-expansion-of-telecommunication-coverage-in-lafon-county)** — One Citizen Daily Newspaper, 3 September 2026
 
-News of a 26 August attack took four days to reach Torit; messengers walked to find coverage.
+South Sudan's SPLM called on the National Communication Authority and mobile operators to extend coverage across Lafon County and other rural areas. A community delegation from Eastern Equatoria said news of an attack on 26 August took up to four days to reach state authorities because messengers had to walk to find a signal.
 
 </div>
 
@@ -193,7 +193,7 @@ News of a 26 August attack took four days to reach Torit; messengers walked to f
 
 **[Specific Procurement Notice — Request for Bids, Capex for Fibre Deployment for Route A-B (RFB No. SS-MICT&PS-544330-NC-RFB)](https://tenderportal.ppdaa.gov.ss/sites/default/files/2026-09/Stamped%20SPN%20for%20deployment.pdf)** — Ministry of Information, Communication Technology and Postal Services (South Sudan), Project Implementation Unit, 10 September 2026
 
-Primary for the 397km Juba–Nadapal backbone: grant E1780, min 17 POPs, direct-payment disbursement, issued 2026-09-10.
+South Sudan's ICT ministry invited bids on 10 September 2026 to design, supply and operate a fibre backbone on Route A-B, financed under the World Bank-funded Eastern Africa Regional Digital Integration Project (grant E1780). Payments will be made directly by the World Bank.
 
 </div>
 
@@ -201,7 +201,7 @@ Primary for the 397km Juba–Nadapal backbone: grant E1780, min 17 POPs, direct-
 
 **[South Sudan’s Fibre Push Is Moving From Promise to Procurement](https://southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html)** — South Sudan Press, 14 September 2026
 
-397km Juba–Nadapal fibre tendered under EARDIP; World Bank grant E1780, bids close 2026-10-26.
+South Sudan's ICT ministry has invited international bids for about 397km of terrestrial fibre on the Juba–Nadapal route towards the Kenyan border, financed by World Bank grant E1780 under the Eastern Africa Regional Digital Integration Project. Bids close on 26 October 2026. The backbone is to have at least 17 points of presence; no contract value is stated.
 
 </div>
 
@@ -235,7 +235,7 @@ MTN South Sudan says population broadband coverage rose from 76.6% to 85% and ne
 
 **[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-URA and KRA still enforce Crawford Capital's e-Permit collections at borders after the 12 May 2026 US sanctions.
+The Capital Times reports that Uganda's and Kenya's revenue authorities still enforce e-Permit collections at border points for Crawford Capital, a firm the United States sanctioned on 12 May 2026 over diverting South Sudanese public funds. The UK-registered company collects a dollar charge on imports bound for South Sudan; documents cited show the Uganda Revenue Authority shares customs data with South Sudan's revenue authority but do not show a direct contract.
 
 </div>
 
@@ -251,7 +251,7 @@ URA and KRA still enforce Crawford Capital's e-Permit collections at borders aft
 
 **[MTN, Government Discuss Reopening of MoMo Services](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/)** — Access Radio, 8 October 2026
 
-Caretaker trade minister meets MTN on restoring MoMo transactions, connectivity and digital banking.
+South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual meeting with MTN's senior management on reopening Mobile Money transactions, connectivity problems and digital banking, and said the government would urgently address the company's difficulties. The report does not say when or why Mobile Money transactions were halted.
 
 </div>
 
@@ -283,7 +283,7 @@ South Sudan's social insurance fund opened talks with a commercial bank on linki
 
 **[SSRA Launches Digital Tax Audit System to Strengthen Revenue Administration](https://jubaechotv.com.ss/ssra-launches-digital-tax-audit-system-to-strengthen-revenue-administration/)** — Juba Echo TV, 22 September 2026
 
-Commissioner General bans manual audits; Crawford Capital Pay-backed module centralises audit cases and taxpayer files.
+The South Sudan Revenue Authority launched an electronic tax audit module in Juba on 21 September 2026 to replace paper-based audits, backed by a directive from Commissioner General Moun Deng Ajuet banning manual audits. The platform, supported by the company Crawford Capital Pay, centralises audit cases, findings, correspondence and taxpayer records.
 
 </div>
 
@@ -301,7 +301,7 @@ Commissioner General bans manual audits; Crawford Capital Pay-backed module cent
 
 **[Juba City Council Discusses Digital Revenue Transition](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)** — Access Radio, 8 October 2026
 
-Caretaker council prioritises manual-to-digital revenue switch, after state e-services launch of September 2026.
+South Sudan's Juba City Council, at its first executive meeting under caretaker Mayor Christopher Sarafino Wani, made the move from manual to digital revenue collection a priority to reduce leakage and fund services. Central Equatoria State had launched a digital revenue collection system and e-services for the council in September 2026. No meeting date, cost or timetable is given.
 
 </div>
 
@@ -319,7 +319,7 @@ Caretaker council prioritises manual-to-digital revenue switch, after state e-se
 
 **[Over 20 Civil Society and security officials trained in Yei](https://www.onecitizendaily.com/index.php/2026/09/09/over-20-civil-society-and-security-officials-trained-in-yei/)** — One Citizen Daily, 9 September 2026
 
-Over 20 civil society, security and media stakeholders trained in Yei River County on the Computer Misuse Act 2026.
+The Central Equatoria branch of the Union of Journalists of South Sudan trained more than 20 people from civil society, security bodies and the media in Yei River County on cybercrime, the Cybercrime and Computer Misuse Act 2026 and election preparedness. The session also covered responsible use of digital platforms and protection of personal information.
 
 </div>
 
@@ -351,7 +351,7 @@ MTN South Sudan opened the Rumbek ICT Hub in Lakes State on 8 September 2026, a 
 
 **[Opinion| Internet tariffs: Has Ateny Wek failed, or joined in eating? - Radio Tamazuj](https://www.radiotamazuj.org/en/news/article/opinion-internet-tariffs-has-ateny-wek-failed-or-joined-in-eating)** — Radio Tamazuj, 2 September 2026
 
-SPLM-IO bureau member reports a roughly 15% subscription rise and asks what the minister changed.
+In an opinion column, a member of South Sudan's SPLM-IO political bureau says MTN and Zain raised internet tariffs by about 15%. He asks the information and communications minister, Ateny Wek Ateny, to explain who approved the increase and whether the ministry regulates tariffs.
 
 </div>
 

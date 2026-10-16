@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GMB
 ledger_rows: 46
 not_held: 2
-record: 361a97c000d7
+record: dad6e7c97990
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -85,7 +85,7 @@ record: 361a97c000d7
 
 **[MOHERST moves to strengthen science, technology and innovation](https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/)** — The Standard Newspaper (Gambia), 3 September 2026
 
-NSTIP 2027-2035 and the STI Bill 2026 validated; three phases and a National Research and Innovation Fund.
+The Gambia's Ministry of Higher Education, Research, Science and Technology held a validation workshop on the draft National Science, Technology and Innovation Policy 2027–2035 and the STI Bill 2026. Minister Pierre Gomez said none of the previous policy's 12 core objectives was fully met; the new one proposes an STI secretariat and a National Research and Innovation Fund.
 
 </div>
 
@@ -101,7 +101,7 @@ NSTIP 2027-2035 and the STI Bill 2026 validated; three phases and a National Res
 
 **[Parliament Commits Bill to Prohibit Anti-Competitive Practices - Mansa Banko Online](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/)** — Mansa Banko Online, 15 September 2026
 
-Second reading 15 September; repeals the 2007 and 2014 Acts and reaches digital content and distance selling.
+The Gambia's National Assembly took the Competition and Consumer Protection Commission Bill 2026 through second reading on 15 September and sent it to committee. Tabled by trade minister Mod K. Ceesay, it replaces the 2007 competition and 2014 consumer protection Acts, creates an independent commission with powers to investigate and impose penalties, and extends consumer protection to distance selling and digital content.
 
 </div>
 
@@ -135,7 +135,7 @@ The Gambia Standards Bureau holds Correspondent, non-voting status at the intern
 
 **[The Gambia National Numbering Plan Migration Governance and Go-Live Framework, 2026](https://pura.gm/wp-content/uploads/2026/09/The-Gambia-National-Numbering-Plan-Migration-Governance-and-Go-Live-framework-2026-1-1.pdf)** — Public Utilities Regulatory Authority (PURA), The Gambia, 3 September 2026
 
-PURA's operational rulebook for the seven-to-nine-digit switch: control centre, eight gates, rollback states.
+The Gambia's Public Utilities Regulatory Authority adopted on 3 September 2026 a framework governing the switch of phone numbers from seven to nine digits under the National Numbering Plan 2026. It sets up a migration control centre within the regulator, eight readiness checks that default to no-go, and decision stages from go to rollback, with the final decision left to the Director General.
 
 </div>
 
@@ -143,7 +143,7 @@ PURA's operational rulebook for the seven-to-nine-digit switch: control centre, 
 
 **[The Gambia National Numbering Plan, 2026](https://pura.gm/wp-content/uploads/2026/09/scan0001_compressed.pdf)** — Public Utilities Regulatory Authority (PURA), The Gambia, 3 September 2026
 
-Nine-digit E.164 plan for +220, adopted, published and effective 3 September 2026; version 1.0 under the 2009 Act.
+The Gambia's Public Utilities Regulatory Authority adopted the National Numbering Plan, 2026 on 3 September 2026, effective the same day under the Information and Communications Act, 2009. It sets a nine-digit structure for numbers under country code +220 and brings short codes, emergency numbers and USSD codes under the regulator. A separate framework governs migration from seven-digit numbers.
 
 </div>
 
@@ -151,7 +151,7 @@ Nine-digit E.164 plan for +220, adopted, published and effective 3 September 202
 
 **[Africell begins major numbering update](https://standard.gm/africell-begins-major-numbering-update/)** — The Standard, 4 September 2026
 
-CEO Hussein Diab Ghanem frames the 9-digit migration as growth, not disruption, at a 4 Sep press conference.
+Africell Gambia's chief executive Hussein Diab Ghanem said on 4 September 2026 that the country's move to a new numbering system will raise national capacity to about 100 million numbers, with Africell subscribers getting the prefix 87. Old and new numbers will run in parallel at first, and an app feature will update saved contacts.
 
 </div>
 
@@ -167,7 +167,7 @@ Three Gambian operators moved to nine-digit mobile numbers at midnight, with the
 
 **[Gambia opens new chapter in digital growth with nine-digit numbering system](https://thepoint.gm/africa/gambia/headlines/gambia-opens-new-chapter-in-digital-growth-with-nine-digit-numbering-system)** — The Point, 9 September 2026
 
-Seven-digit numbers retire permanently on 28 February 2027; PURA engaged Meta and the ITU on format recognition.
+The Gambia's regulator PURA has moved telephone numbers from seven to nine digits, with old and new numbers running in parallel until the seven-digit format is retired on 28 February 2027. PURA worked with Meta and the ITU so systems abroad recognise the new format, and monitored Africell, QCell and Comium networks during the switch.
 
 </div>
 
@@ -223,7 +223,7 @@ The Gambia Immigration Department denied losing access to national identity card
 
 **['Land Disputes Consume Major Share of Gambia's Judicial Resources,' reveals Minister Bah](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/)** — The Voice Gambia, 4 September 2026
 
-Land disputes 62% of court cases (2026); World Bank consultants' land-information-system draft due end-September.
+The Gambia's lands minister, Hamat N.K. Bah, said on 4 September 2026 that World Bank-supported consultants are building a Land Information System to hold digital records of all landholdings, with a draft due by the end of September. He said land disputes make up about 62% of court cases, and a dedicated land High Court is being set up.
 
 </div>
 
@@ -261,7 +261,7 @@ The Gambia's United Democratic Party asked the electoral commission to explain a
 
 **[GRCS launches digital system to professionalise volunteer, membership management](https://standard.gm/grcs-launches-digital-system-to-professionalise-volunteer-membership-management/)** — The Standard, 2 September 2026
 
-Paper branch registers replaced by one volunteer database; mobilisation cut from days to minutes.
+The Gambia Red Cross Society launched a digital Volunteer and Membership Management System at its Kanifing headquarters on 31 August 2026, replacing branch paper registers. It handles registration, profiling, branch assignment, validation and deployment of volunteers, which officials say cuts mobilisation from days to minutes. No cost, supplier or volunteer count is given.
 
 </div>
 
@@ -277,7 +277,7 @@ Paper branch registers replaced by one volunteer database; mobilisation cut from
 
 **[Gov't steps up to tackle ID card, passport delays](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays)** — The Point, 1 September 2026
 
-MyGov platform to let Gambians apply for ID and passports online; new cards valid 10 years.
+The Gambia's Ministry of Public Service said on 28 August it has cut steps from ID card and passport procedures and built their workflows into the MyGov platform, developed with JICA and partners in Bangladesh. MyGov has not launched because of contractual issues over passport issuance; rollout is hoped for before the end of 2026. A mass registration drive, including mobile teams in Spain and Italy, is issuing 10-year ID cards.
 
 </div>
 
@@ -291,7 +291,7 @@ MyGov platform to let Gambians apply for ID and passports online; new cards vali
 
 **[GAMBIA: IEC Revising Courts Open Voter Register Disputes as Election Credibility Comes Under Scrutiny](https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/)** — Askani Gambia, 3 September 2026
 
-Revising Courts sit in nine magistracies on about 1,600 objections; 14,334 double registrations deleted.
+Revising courts set up by The Gambia's Chief Justice began hearing objections to the 2026 supplementary voter registration, the Independent Electoral Commission said on 31 August 2026. Hearings in nine magistrates' courts are due to finish within 60 days. The Commission received about 1,600 objections and earlier deleted 14,334 duplicate registrations ahead of the 5 December presidential election.
 
 </div>
 
@@ -327,7 +327,7 @@ The Liberia Revenue Authority signed a memorandum of engagement to help the Gamb
 
 **[Gov’t promises duty waiver decision in 72 hrs with new digital system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system)** — The Point, 30 September 2026
 
-Replaces manual desk-to-desk process; 48 hours at the ministry desk, SMS alerts; part of GRA's 2025-2029 digitalisation.
+The Gambia's finance ministry, with the Gambia Revenue Authority and the Gambia National Single Window, introduced a digital Duty Waiver Application System that replaces a paper process. Applicants are promised a decision within 72 hours when all requirements are met, with SMS updates.
 
 </div>
 
@@ -341,7 +341,7 @@ Replaces manual desk-to-desk process; 48 hours at the ministry desk, SMS alerts;
 
 **[Gambia Begins Rollout of New Three-Year Driving Licence](https://foroyaa.net/gambia-begins-rollout-of-new-three-year-driving-licence/)** — Foroyaa, 7 October 2026
 
-Biometric licence from 7 Oct 2026, D2,550, ends annual renewal; seven centres phased in to 22 October.
+The Gambia began issuing a biometric driving licence valid for three years on 7 October 2026, at D2,550, replacing annual renewal under section 27(3) of the Motor Traffic Act. Centres open in Banjul and Kanifing first and in Basse and Janjanbureh last, on 22 October. The issuing agency is not named.
 
 </div>
 
@@ -355,7 +355,7 @@ Biometric licence from 7 Oct 2026, D2,550, ends annual renewal; seven centres ph
 
 **[GPPA trains procurement cadre on new act, regulations & standard documents](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents)** — The Point, 8 October 2026
 
-Second cohort, 8-10 Oct 2026; 2022 Act, 2024 Regulations, e-GP rollout; new instruments mandatory January 2027.
+The Gambia Public Procurement Authority held training from 8 to 10 October 2026 for procurement officers on the Public Procurement Act 2022, the 2024 Regulations, new standard documents and the rollout of the electronic government procurement system. Officials said use of the new instruments becomes mandatory from January 2027.
 
 </div>
 
@@ -387,7 +387,7 @@ The University of The Gambia's technology school offers three bachelor's degrees
 
 **[MoTIE Signs MoUs to Boost Digital Labour Skills](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/)** — New Global Media, 29 September 2026
 
-Three-year WARDIP digital skills training via USET, Civil Service University and IIHTG; youth, women, disabled.
+The Gambia's trade and employment ministry signed memoranda of understanding with the University of Applied Science, Engineering and Technology, the Civil Service University and the Indian Institute of Hardware Technology Gambia to deliver digital skills training under the World Bank-backed WARDIP programme. The three-year programme targets youth, women and persons with disabilities. No budget or participant figure is given.
 
 </div>
 
@@ -439,7 +439,7 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 
 **[Ambassador Kah delivers keynote address at China's Big Data Expo 2026, secures landmark cooperation with Guizhou University](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university)** — The Point, 4 September 2026
 
-Four initiatives announced 29 Aug 2026: a Gambian national data laboratory, a CSTD research centre, scholarships.
+The Gambia's ambassador in Geneva, Muhammadou Kah, vice-chair of the UN Commission on Science and Technology for Development, gave a keynote at China's Big Data Expo in Guiyang on 28 August 2026. The next day at Guizhou University he announced plans for a Gambian national data laboratory, a UN research centre in Guizhou, scholarships and a joint summer school. No funding is stated.
 
 </div>
 
