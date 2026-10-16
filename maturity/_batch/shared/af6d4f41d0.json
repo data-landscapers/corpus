@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says Mobile Money has become the standard for transactions and that the Xedo platform integrates Mobile Money settlement for Beninese merchants.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

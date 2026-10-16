@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-24-airtel-money-admarc-farmer-payments-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Money-Admarc payment platform",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "Airtel Money Malawi and Admarc",
+   "tiers": ""
+  }
+ ],
+ "note": "Admarc pays farmers for produce as a purchaser; not a government social transfer, salary or pension."
+}

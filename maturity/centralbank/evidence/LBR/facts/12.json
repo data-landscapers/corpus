@@ -1,0 +1,50 @@
+{
+ "slug": "2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Liberia deputy governor says the CBL's reforms include the RTGS, the ACH and a recently launched instant and interoperable payment system operating across banks and mobile network operators.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "instant interoperable payment system",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "Automated Clearing House",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "National Electronic Payment Switch",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "ModaLoop",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Interbank Payment and Settlement Systems",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

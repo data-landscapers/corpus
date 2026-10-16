@@ -1,0 +1,18 @@
+{"slug":"2025-08-10-mobile-money-drives-financial-inclusion-growth","studies":{
+"businesspayments":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No consumer-protection rules stated."}}},
+"crossborderpayments":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{"SWZ":{"facts":[
+{"sub_indicator":"uptake","aspect":"share","value":"quarter","fact":"The World Bank's Global Findex 2025 report puts 63 per cent of adults in Eswatini with an account at a financial institution or a mobile money provider.","as_of":"2025","date_precision":"year","system":"Global Findex 2025","class":"survey"},
+{"sub_indicator":"uptake","aspect":"share","value":"half","fact":"The World Bank's Global Findex 2025 report puts 63 per cent of adults in Eswatini with an account at a financial institution or a mobile money provider.","as_of":"2025","date_precision":"year","system":"Global Findex 2025","class":"survey"}
+],"systems":[],"note":""}}},
+"retailpayments":{"countries":{"SWZ":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Times of Eswatini says mobile money platforms MTN MoMo and Eswatini Mobile's e-Mali have expanded into rural areas, and mobile money account ownership rivals bank accounts.","as_of":"2025-08-10","date_precision":"day","system":"MTN MoMo; e-Mali","class":"retail"}
+],"systems":[
+{"system":"MTN MoMo","country_label":"Eswatini","class":"retail","platform":"mobile money","owner":"MTN Eswatini","tiers":""},
+{"system":"e-Mali","country_label":"Eswatini","class":"retail","platform":"mobile money","owner":"Eswatini Mobile","tiers":""}
+],"note":""}}},
+"revenuecollection":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

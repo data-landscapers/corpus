@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-27-rbz-cuts-bank-charges-expands-zipit-limits",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The RBZ raised mobile money and ZIPIT transaction limits to ZiG13,000 per transaction from ZiG8,000, person to person or business, with a ZiG50,000 monthly cap.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "ZIPIT and mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIPIT",
+   "country_label": "ZWE",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "mobile money",
+   "country_label": "ZWE",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

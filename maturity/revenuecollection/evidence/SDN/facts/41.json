@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-24-sudan-zakher-wallet-recurring-debit-api",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Zakher's Recurring Debit Order service is offered for collecting government fees and fines by automatic deduction from the customer's wallet, per Zakhir Wallet.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Zakher Recurring Debit Order",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

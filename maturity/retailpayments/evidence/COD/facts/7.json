@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-14-cod-bankable-microfinance-switch-mosolo-dollar-cash-ban",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Switch Mosolo",
+   "country_label": "DR Congo",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Congo (oversight)",
+   "tiers": ""
+  }
+ ],
+ "note": "The switch is described as intended to connect providers and only a pilot connection is reported, so no interoperability or national switch in service is recorded."
+}

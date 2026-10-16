@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-14-mixx-togo-pi-spi-uemoa",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "A user in Togo can transfer funds in real time to a bank account in Cote d'Ivoire or pay a supplier in Burkina Faso through PI-SPI.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Togo takes part in the BCEAO's PI-SPI regional instant payment platform, in service across the eight UEMOA states.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "Mixx",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "Yas Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

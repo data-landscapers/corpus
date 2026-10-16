@@ -1,0 +1,17 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "unplaced",
+   "system": "",
+   "endtoend": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service.",
+   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
+  }
+ ]
+}

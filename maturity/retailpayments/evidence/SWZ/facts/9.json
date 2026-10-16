@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-tan-ericsson-mtn-momo-cloud-migration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ericsson and MTN Group Fintech say they completed the migration of the MTN MoMo mobile money platform to a cloud-native architecture in Eswatini, among four markets.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "Ericsson Fintech Platform",
+   "owner": "MTN Group Fintech",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

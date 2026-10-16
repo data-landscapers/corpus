@@ -1,0 +1,17 @@
+iso3,n,aspect,value,action,why
+CAF,006,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+CMR,008,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+COG,007,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+GAB,006,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+GNQ,006,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+TCD,003,reported,reported,revalued: regional:regional,"First pass: the GIMACPAY figure is for the six CEMAC states together, not the country's"
+DZA,002,reported,reported,removed,"First pass: PAPSS's continent-wide cost saving, not Algeria's"
+COD,003,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+MAR,002,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+MAR,004,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+TUN,001,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+TUN,004,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+ZWE,003,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+DZA,001,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+DZA,003,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported
+TUN,002,regional,regional,removed,First pass: joined or signed PAPSS with no live participation reported

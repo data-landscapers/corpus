@@ -1,0 +1,42 @@
+{
+ "slug": "2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCEAO's register shows e-money offered by phone in Senegal at 30 September 2024 under Orange Money, Free Money, Wave and other bank-partnered products, 11 initiatives in all.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Orange Money, Free Money, Wave",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile",
+   "owner": "Orange Finances Mobiles Sénégal",
+   "tiers": ""
+  },
+  {
+   "system": "Free Money",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile",
+   "owner": "Mobile Cash S.A.",
+   "tiers": ""
+  },
+  {
+   "system": "Wave",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile",
+   "owner": "Wave Digital Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

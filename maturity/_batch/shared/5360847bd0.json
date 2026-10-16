@@ -1,0 +1,14 @@
+{"slug":"2026-07-30-sante-le-mali-accelere-la-digitalisation-de-ses-services-publics","studies":{
+"businesspayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No consumer rules stated."}}},
+"crossborderpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MLI":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"The Caisse malienne de sécurité sociale has paid pensions by mobile since 2019, and its application pays pensions below FCFA 50,000 by mobile; a bank-payment pilot with the Banque de Développement du Mali was judged conclusive in July 2026.","as_of":"2026-07-27","date_precision":"day","system":"CMSS pension payment","class":"g2p"}],
+"systems":[{"system":"CMSS digital pension payment","country_label":"Mali","class":"g2p","platform":"","owner":"CMSS","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No retail payment service described."}}},
+"revenuecollection":{"countries":{"MLI":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"At the Bamako dermatology hospital, payments for consultations, medical tests and medicines are electronic, which the health minister's 27 July 2026 visit said secures revenue.","as_of":"2026-07-27","date_precision":"day","system":"hospital electronic payment","class":"revenue"}],
+"systems":[],"note":""}}}
+}}

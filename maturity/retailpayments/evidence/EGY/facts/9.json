@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-14-youm7-egypt-ntra-mobile-wallets-h1-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Youm7 reports 57.01 million telecom-operated mobile wallets in H1 2026 (up 23%), with 2.22 billion transactions worth EGP 2.96 trillion, per the NTRA H1 2026 report.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "telecom mobile wallets",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Youm7, citing NTRA, says InstaPay bank-account-to-wallet transfers made up 78% of wallet deposits by count and 58% by value in H1 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "InstaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodafone Cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodafone",
+   "tiers": ""
+  },
+  {
+   "system": "e& cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "e&",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "WE Pay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "WE",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

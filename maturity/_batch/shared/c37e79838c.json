@@ -1,0 +1,97 @@
+{
+ "slug": "2026-05-07-wearetech-central-bank-tunpay-label",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Banks, payment institutions and the postal service operate electronic wallet services, and BCT data show 8.4 million mobile transactions worth 1.769 billion dinars in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "TUNPAY",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TUNPAY",
+       "country_label": "Tunisia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Tunisia with Societe Monetique Tunisie",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

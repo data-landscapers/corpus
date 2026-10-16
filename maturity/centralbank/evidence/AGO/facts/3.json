@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de Transferencias Instantaneas (STI)",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "KWiK",
+   "owner": "EMIS",
+   "tiers": ""
+  }
+ ],
+ "note": "EMIS operates the STI; no central bank role stated."
+}

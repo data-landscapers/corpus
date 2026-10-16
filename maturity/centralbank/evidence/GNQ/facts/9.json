@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-09-beac-rejoint-papss-cemac",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Afreximbank's release of 9 July 2026 says BEAC, which serves Equatorial Guinea among six CEMAC states, has officially joined PAPSS, to be operationalised with CEMAC institutions by end 2026.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

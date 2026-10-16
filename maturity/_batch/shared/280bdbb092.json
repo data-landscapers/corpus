@@ -1,0 +1,77 @@
+{
+ "slug": "2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

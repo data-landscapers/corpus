@@ -1,0 +1,119 @@
+{
+ "slug": "2026-04-10-fintechtimes-guinea-bissau-fintech-landscape",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No procurement system is mentioned."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Guinea-Bissau shares the BCEAO-managed UEMOA regional payments architecture, which the Fintech Times says is being modernised with RTGS and automated clearing.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "BCEAO regional payments architecture",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BCEAO regional payments architecture",
+       "country_label": "Guinea-Bissau",
+       "class": "oversight",
+       "platform": "RTGS and automated clearing",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer-protection rule is mentioned."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "As a UEMOA member Guinea-Bissau uses the BCEAO-managed regional payments architecture, with RTGS and automated clearing being modernised, per the Fintech Times.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "BCEAO regional payments architecture",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2024 blockchain wage-bill platform is wage management, not stated as a payment to people."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only historic banking penetration estimates below 10%, no survey named."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Fintech Times says an estimated 5-15 fintech firms operate in Guinea-Bissau in 2026, primarily in payments and mobile money.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No revenue payment is mentioned."
+    }
+   }
+  }
+ }
+}

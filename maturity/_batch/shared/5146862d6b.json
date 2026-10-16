@@ -1,0 +1,105 @@
+{
+ "slug": "2026-09-03-bct-systemes-de-paiement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "SGMT",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SGMT",
+       "country_label": "TUN",
+       "class": "oversight",
+       "platform": "RTGS",
+       "owner": "BCT",
+       "tiers": ""
+      },
+      {
+       "system": "SIBTEL",
+       "country_label": "TUN",
+       "class": "oversight",
+       "platform": "clearing",
+       "owner": "SIBTEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

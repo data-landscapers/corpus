@@ -1,0 +1,108 @@
+{
+ "slug": "2025-05-19-papss-list-of-live-commercial-banks-sierra-leone",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS's live-banks list of May 2025 shows eight commercial banks in Sierra Leone live on PAPSS.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Sierra Leone",
+       "class": "crossborder",
+       "platform": "continental payment rail",
+       "owner": "Pan-African Payment and Settlement System",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

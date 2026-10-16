@@ -1,0 +1,171 @@
+{
+ "slug": "2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "African Manager reports the Central Bank of Tunisia's Vice-Governor highlighted the bank's adoption of PAPSS and urged Tunisian banks to use it.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "African Manager reports the Central Bank of Tunisia has adopted PAPSS, described as infrastructure for instant cross-border transactions in local currencies.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

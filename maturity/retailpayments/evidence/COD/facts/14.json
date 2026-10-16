@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Visa's Godfrey Sullivan says M-Pesa mobile money wallet top-ups in DR Congo are settled in stablecoins in the background via Visa Pay with Onafriq.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "DR Congo",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-somalia-cbs-national-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Somalia says the ACH component of its National Payment System supports bulk salary processing, enhancing the government's ability to pay its public workforce on time, and that SIPS enables Government-to-Person transactions.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Automated Clearing House (ACH)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "g2p",
+   "platform": "instant payments",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

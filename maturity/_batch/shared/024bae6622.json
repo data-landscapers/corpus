@@ -1,0 +1,147 @@
+{
+ "slug": "2026-06-15-fact-sheet-namibias-instant-payment-solution-ips",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Bank of Namibia is the parent body of Instant Payment Namibia, which operates the Instant Payment Solution; pilot testing in live production is complete and phased rollout is underway.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "Instant Payment Solution (IPS)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment Solution (IPS)",
+       "country_label": "IPS",
+       "class": "oversight",
+       "platform": "Instant Payment Platform with NPCI International technology",
+       "owner": "Instant Payment Namibia, under Bank of Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Instant Payment Solution completed pilot testing in a live production environment and phased rollout is underway, with phase 1 for government-to-person payments.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "Instant Payment Solution (IPS)",
+       "class": "g2p"
+      },
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Phase 1 of the Instant Payment Solution has participating institutions receive and disburse government social grant payments through the platform.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "Instant Payment Solution (IPS)",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment Solution (IPS)",
+       "country_label": "IPS",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Instant Payment Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Banks, authorised fintechs and e-money issuers are to serve the public through the interoperable Instant Payment Solution, which has finished piloting and is in phased rollout.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "Instant Payment Solution (IPS)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment Solution (IPS)",
+       "country_label": "IPS",
+       "class": "retail",
+       "platform": "",
+       "owner": "Instant Payment Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

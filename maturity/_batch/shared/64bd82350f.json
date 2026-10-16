@@ -1,0 +1,148 @@
+{
+ "slug": "2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "ASAPP says it has engaged the SARB on its Banks Act Exemption and Authorisation Framework, covering future authorisation of payment activities for regulated fintech payment providers.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "SARB authorisation framework",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Payment System Act / proposed NPS Bill",
+       "country_label": "South Africa",
+       "class": "oversight",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "ASAPP, citing FinMark Trust FinScope surveys of 2024 and 2025, says 89% of South African adults have a bank account.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "ASAPP, citing FinMark Trust FinScope surveys of 2024 and 2025, says 89% of South African adults have a bank account.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "ASAPP, citing FinMark Trust FinScope surveys of 2024 and 2025, says 89% of South African adults have a bank account.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ASAPP says it has proposed to the SARB how existing acquiring infrastructure could extend PayShap merchant acceptance and support wider adoption of instant payments.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "PayShap",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "retail",
+       "platform": "instant payments",
+       "owner": "PayInc",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

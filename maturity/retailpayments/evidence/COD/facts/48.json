@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-03-vodacom-congo-integrated-financial-ecosystem-inclusion-techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vodacom Congo's CEO says the DRC has nearly 35 million mobile money users, about 10 million of them active on Vodacom's VodaCash (M-Pesa).",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "VodaCash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "About $88 million has been channelled into the formal banking sector through wallet-to-bank transfers over the past year, according to Vodacom Congo's CEO.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "wallet-to-bank transfers",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VodaCash",
+   "country_label": "DRC",
+   "class": "retail",
+   "platform": "M-Pesa",
+   "owner": "Vodacom Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

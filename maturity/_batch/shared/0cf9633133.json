@@ -1,0 +1,97 @@
+{
+ "slug": "2025-06-28-cnss-digitalisation-pensions-zero-especes",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Guinea's CNSS says that from July 2025 it ends cash payment of retirement, survivor and invalidity pensions, moving to bank transfer, mobile wallets and rechargeable cards, with a campaign to migrate pensioners.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "CNSS pension payment",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNSS pension payment",
+       "country_label": "Guinea",
+       "class": "g2p",
+       "platform": "bank transfer, mobile wallets, rechargeable cards",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers CNSS pension payment only; nothing on this study."
+    }
+   }
+  }
+ }
+}

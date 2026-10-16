@@ -1,0 +1,147 @@
+{
+ "slug": "2026-04-02-bceao-connexion-pi-spi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO launched PI-SPI on 30 September 2025, a 24/7 interoperable instant payment platform for the UEMOA, and reports 80 participants connected on 2 April 2026 (communique).",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Benin is a UEMOA member state on the regional PI-SPI platform that BCEAO runs, with its institutions required to connect by 30 June 2026.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "regional instant payment platform",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Benin is a UEMOA member state on PI-SPI, the regional instant payment platform operated by BCEAO, with 80 participants connected on 2 April 2026.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "regional instant payment platform",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "BCEAO reports 80 participants connected to PI-SPI on 2 April 2026: 59 banks, 9 e-money institutions, 11 microfinance institutions and 1 payment institution, on one interoperable platform.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "regional instant payment platform",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

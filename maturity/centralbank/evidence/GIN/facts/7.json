@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-07 Guinea Plans Mobile Payment System to Ease Cash Shortage",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Guinea has 11 licensed electronic-money institutions, up from six in 2024, per the central bank (BCRG).",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "electronic-money institutions",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

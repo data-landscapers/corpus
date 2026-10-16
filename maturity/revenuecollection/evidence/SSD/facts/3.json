@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-19 South Sudan introduces digital payment system for passports after supply crisis",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The National Revenue Authority chief said cash at immigration offices was abolished and passport and national ID fees are paid through a bank-linked digital system (Sudans Post).",
+   "as_of": "2026-01-19",
+   "date_precision": "day",
+   "system": "bank-linked digital payment system for passports and national ID",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bank-linked digital payment system for passports and national ID",
+   "country_label": "South Sudan",
+   "class": "revenue",
+   "platform": "commercial bank in the immigration compound",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

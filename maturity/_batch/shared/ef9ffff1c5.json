@@ -1,0 +1,77 @@
+{
+ "slug": "2025-10-01-gabon-global-findex-database-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gabon indicator values stated."
+    }
+   }
+  }
+ }
+}

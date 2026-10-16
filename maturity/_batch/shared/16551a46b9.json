@@ -1,0 +1,10 @@
+{"slug":"2025-08-18-cbe-first-digital-bank-onebank-itweb","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Central bank approves a digital bank, which is a bank licence, not a payment provider, switch or regional link."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No consumer-protection rules stated."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"A digital bank not yet in service; no wallet service stated."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

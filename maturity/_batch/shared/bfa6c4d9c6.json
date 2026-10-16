@@ -1,0 +1,17 @@
+{"slug": "2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The Central Bank of Libya regulates mobile and e-wallet payment by circular: Circular 9/2026 of 11 March 2026 sets e-wallet rules for banks, Moamalat and e-payment companies, with compliance checked by field inspection by its banking and currency supervision department.", "as_of": "2026-03-11", "date_precision": "day", "system": "Circular 9/2026", "class": "oversight"}
+], "systems": [
+{"system": "Circular 9/2026", "country_label": "Libya", "class": "oversight", "platform": "", "owner": "Central Bank of Libya", "tiers": ""},
+{"system": "Moamalat", "country_label": "Libya", "class": "other", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Circular sets transfer caps and onboarding requirements; no conduct rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Circular 9/2026 of the Central Bank of Libya lets licensed e-payment companies issue e-wallets, including to legally resident foreigners, with daily transfer caps of 100,000 dinars person to person, 500,000 person to company and 2 million company to company for citizens.", "as_of": "2026-03-11", "date_precision": "day", "system": "e-wallets of licensed e-payment companies", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

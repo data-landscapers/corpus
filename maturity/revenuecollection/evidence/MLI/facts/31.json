@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "A Bamako public dermatology hospital collects consultation and medicine fees electronically at each step of its digitised patient circuit.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Hopital dermatologie de Bamako electronic payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

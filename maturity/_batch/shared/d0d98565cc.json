@@ -1,0 +1,10 @@
+{"slug": "2026-07-03-namibia-psd-12-cybersecurity-standards-gazette-8968", "studies": {
+"businesspayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Cybersecurity standard; nothing on public procurement."}}},
+"centralbank": {"countries": {"NAM": {"facts": [], "systems": [{"system": "National Payment System (Payment System Management Act, 2023)", "country_label": "NAM", "class": "oversight", "platform": "", "owner": "Bank of Namibia", "tiers": ""}], "note": "The excerpt names no licensing, switch or regional link by the Bank."}}},
+"consumerprotection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Operational and cybersecurity standards for providers; no user protection or redress stated."}}},
+"crossborderpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on cross-border payments in the excerpt."}}},
+"g2ppayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No survey share of adults."}}},
+"retailpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "E-money and instant payment systems are named only as in scope of the standard; no service is stated in service."}}},
+"revenuecollection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,crossborder,corridor,coverage,inservice,2023-11,CAF-002,CAF-010=underway,
+CAF,crossborder,regional,coverage,regional,2026-07-29,CAF-001;CAF-003;CAF-005;CAF-007;CAF-008;CAF-009,,
+CAF,crossborder,reported,coverage,reported,2025,CAF-004;CAF-006,,

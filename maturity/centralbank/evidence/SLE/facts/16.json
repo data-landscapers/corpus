@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19-papss-list-of-live-commercial-banks-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

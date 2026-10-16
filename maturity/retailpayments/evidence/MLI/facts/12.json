@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics",
+ "facts": [],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Mobile money is named as a basis of the public-payment system but no retail service is stated in service."
+}

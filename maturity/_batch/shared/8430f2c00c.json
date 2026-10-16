@@ -1,0 +1,10 @@
+{"slug": "2024-09-22 Seychelles to phase out cheques for financial transactions from 2025", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document does not mention procurement."}}},
+"centralbank": {"countries": {"SYC": {"facts": [], "systems": [{"system": "SEFT", "country_label": "Seychelles", "class": "other", "platform": "Seychelles Electronic Funds Transfer", "owner": "", "tiers": ""}], "note": "The central bank's cheque phase-out is stated; no licensing, switch oversight or regional link is stated."}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document states no consumer-protection rule."}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No cross-border channel is stated."}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No survey share is stated."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [{"system": "SEFT", "country_label": "Seychelles", "class": "other", "platform": "Seychelles Electronic Funds Transfer", "owner": "", "tiers": ""}], "note": "Card and SEFT transaction counts are stated but no mobile money or wallet service."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

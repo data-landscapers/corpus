@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-18-gha-modernghana-access-bank-visa-accept-small-merchants",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a bank card-acceptance tool for merchants; it answers no question of this study."
+    }
+   }
+  }
+ }
+}

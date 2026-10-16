@@ -1,0 +1,86 @@
+{
+ "slug": "2026-04-10-e-poketra-decret-abroge-lexpress",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-poketra",
+       "country_label": "Madagascar",
+       "class": "g2p",
+       "platform": "Visa",
+       "owner": "Paositra Malagasy",
+       "tiers": ""
+      }
+     ],
+     "note": "The e-poketra card for student grants and pensions is reported abrogated by decree, so no in-service payment is stated; no cash payment is stated either."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-poketra card is a government payment card now abrogated; no retail service is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-08-03-papss-uba-uganda-joins","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"A commercial bank joins PAPSS; no central bank role stated."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about user protection."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"PAPSS announces that cross-border payments in local currencies are now available through United Bank for Africa Uganda.","as_of":"2026-08-03","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Uganda","class":"crossborder","platform":"Pan-African Payment and Settlement System","owner":"PAPSS","tiers":"participating bank: UBA Uganda"}],"note":""}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about government payments."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Cross-border bank rail only; no retail wallet stated."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about tax or fees."}}}
+}}

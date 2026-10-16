@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-21-cbg-monetary-policy-committee-press-release-may-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of The Gambia says fintech and mobile money services continue to expand, with cash-in transactions up 11.7 percent to D27.0 billion and cash-out up 15.2 percent to D30.5 billion between December 2025 and March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-30-rwanda-loda-vup-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "LODA launched 'My Phone, My Money' on 30 August 2025 so Vision Umurenge Programme recipients receive monthly support into Umurenge SACCO accounts linked to their own SIM cards and access it by phone (*541#) at MTN or Airtel agents; the campaign began 19 August in three districts.",
+   "as_of": "2025-08-30",
+   "date_precision": "day",
+   "system": "VUP Digital Payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VUP Digital Payment",
+   "country_label": "Rwanda",
+   "class": "g2p",
+   "platform": "Umurenge SACCO accounts, *541#",
+   "owner": "LODA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

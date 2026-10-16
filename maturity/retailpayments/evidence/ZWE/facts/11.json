@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-01-rbz-national-payment-systems-report-second-quarter-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "RBZ reports 11,246,479 active mobile money subscribers at 30 June 2026 and mobile money transactions of ZiG94.9 billion in Q2 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZETSS RTGS",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Zimswitch",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "mobile money",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

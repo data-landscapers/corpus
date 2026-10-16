@@ -1,0 +1,60 @@
+{
+ "slug": "2026-08-20-elmoudjahid-gie-monetique-benchabla-interview",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The GIE Monetique director says mobile payment based on QR codes appeared in 2025, with BaridiPay and the BNA app already offering interbank mobile payment.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "BaridiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The GIE Monetique director says bank mobile solutions integrated into the Switch mobile give interoperability between mobile payment solutions, and interbank mobile payment was officially launched a few months ago with seven pilot banks.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Switch mobile",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIB card",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "bank card",
+   "owner": "GIE Monetique",
+   "tiers": ""
+  },
+  {
+   "system": "Edahabia",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "card",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "BaridiPay",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "mobile payment app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Switch mobile",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "mobile payment switch",
+   "owner": "GIE Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

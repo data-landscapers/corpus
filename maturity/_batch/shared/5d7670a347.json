@@ -1,0 +1,145 @@
+{
+ "slug": "2026-09-07-libya-cbl-governor-financial-initiatives",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "CIPS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Buna",
+       "country_label": "",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Ratibak Lahzi",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ratibak Lahzi",
+       "country_label": "",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Central Bank of Libya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Governor Issa said digital-wallet transactions rose from 109 million dinars in October 2024 to 703 million dinars in August 2026.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "digital wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital wallets",
+       "country_label": "",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

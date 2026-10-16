@@ -1,0 +1,77 @@
+{
+ "slug": "2025-08-03-pi-spi-uemoa-phase-de-test-lancee",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  }
+ }
+}

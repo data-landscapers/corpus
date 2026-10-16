@@ -1,0 +1,97 @@
+{
+ "slug": "2025-04-30-econet-ecocash-upgrade-lestimes",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Sasai Econet Financial Services says its EcoCash mobile money platform in Lesotho was migrated to a new system in October 2024 and is now stable.",
+       "as_of": "2025-04-30",
+       "date_precision": "day",
+       "system": "EcoCash",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EcoCash",
+       "country_label": "Lesotho",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Sasai Econet Financial Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

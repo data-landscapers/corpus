@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile money has operated in Congo since 2012, through MTN's Mobile Money Congo and Airtel's Mobile Commerce Congo, with 3.431 million subscribers in 2023 according to the author.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Mobile Money Congo and Mobile Commerce Congo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The author says interoperability with conventional banks makes up 36% of mobile money transactions in Congo.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Mobile Money Congo and Mobile Commerce Congo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money Congo (MMC)",
+   "country_label": "Congo",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN with Ecobank",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile Commerce Congo (MCC)",
+   "country_label": "Congo",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel with BGFI Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

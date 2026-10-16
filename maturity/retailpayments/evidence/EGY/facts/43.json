@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-15-egy-enterprise-digital-egp-versus-instapay",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "An analyst says a mobile wallet transfer moves e-money within the service provider's ecosystem, and InstaPay moves value between existing bank accounts.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital EGP",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

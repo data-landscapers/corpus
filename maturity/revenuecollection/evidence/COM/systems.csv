@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,téléprocédures fiscales (télédéclaration and télépaiement),Comoros,revenue,,Direction Générale des Impôts,,2026-04-15-com-dgi-atelier-teleprocedures-fiscales-cadre-juridique
+COM,téléprocédures fiscales (télédéclaration and télépaiement),Comoros,revenue,,Direction Générale des Impôts,,2026-04-15-com-dgi-validation-cadre-juridique-teleprocedures-fiscales
+COM,Plateforme fiscale (télédéclaration and télépaiement),Comoros,revenue,official tax platform,Tax administration,"large, medium, other taxpayers",2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
+COM,KomorPay (ATS),Comoros,other,automated transfer system,Banque Centrale des Comores,,2026-05-04-com-bcc-lancement-komorpay-komor-switch-mali-ya-wakazi
+COM,Komor Switch,Comoros,other,interoperability switch,Banque Centrale des Comores,three phases,2026-05-04-com-bcc-lancement-komorpay-komor-switch-mali-ya-wakazi
+COM,Mali Ya Wakazi,Comoros,other,agent network,Banque Centrale des Comores,,2026-05-04-com-bcc-lancement-komorpay-komor-switch-mali-ya-wakazi
+COM,SIGIT,Comoros,revenue,,"Ministry of Finance, Budget and Banking Sector",,2025-10-07-com-mfbsb-ami-interfacage-sigit-mobile-banking-pagf-si

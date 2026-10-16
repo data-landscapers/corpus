@@ -1,0 +1,12 @@
+{"slug":"2026-06-24-airtel-money-admarc-farmer-payments-itweb","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No e-procurement system stated."}}},
+"centralbank":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MWI":{"facts":[],"systems":[{"system":"Airtel Money-Admarc payment platform","country_label":"Malawi","class":"other","platform":"mobile wallet","owner":"Airtel Money Malawi and Admarc","tiers":""}],"note":"Admarc pays farmers for produce as a purchaser; not a government social transfer, salary or pension."}}},
+"paymentsuptake":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No account-ownership survey share stated."}}},
+"retailpayments":{"countries":{"MWI":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Airtel Money Malawi and Admarc launched a digital payment platform in Blantyre letting customers pay instantly with Airtel Money accounts and farmers receive payments into mobile wallets, per ITWeb Africa.","as_of":"2026-06-24","date_precision":"day","system":"Airtel Money","class":"retail"}
+],"systems":[{"system":"Airtel Money","country_label":"Malawi","class":"retail","platform":"mobile money","owner":"Airtel Money Malawi","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No tax or fee payment channel stated."}}}
+}}

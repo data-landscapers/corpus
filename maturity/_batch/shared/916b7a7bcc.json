@@ -1,0 +1,10 @@
+{"slug": "2026-07-04-cbos-revokes-al-asjad-payment-switch-licence", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Central Bank of Sudan says it licenses electronic payment system services providers, and it revoked Al-Asjad's licence on review by a technical and legal committee.", "as_of": "2026-07-04", "date_precision": "day", "system": "electronic payment system licensing", "class": "oversight"}], "systems": [{"system": "Financial switch operators (Bright Technologies, Al-Asjad, Nahda, SudaPost)", "country_label": "SDN", "class": "oversight", "platform": "", "owner": "licensed by Central Bank of Sudan", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [{"sub_indicator": "protection", "aspect": "enforced", "value": "enforced", "fact": "The Central Bank of Sudan revoked the licence of Al-Asjad Digital and Smart Solutions after review against its published standards, and said it had taken measures to protect customers' rights.", "as_of": "2026-07-04", "date_precision": "day", "system": "electronic payment system licensing", "class": "protection"}], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Switch licences granted and then revoked; no switch or wallet stated in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Aim to connect fee-collecting bodies is stated only as a purpose of licences; no service in service."}}}
+}}

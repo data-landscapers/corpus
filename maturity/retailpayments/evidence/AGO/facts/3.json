@@ -1,0 +1,62 @@
+{
+ "slug": "2026-03-05-paypay-ultrapassa-16-milhoes-transferencias-no-kwik",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Angop reports Paypay's wallet processed 1,637,275 instant transfers in February 2026 through KWiK, with over 625 thousand active accounts, per EMIS's monthly report.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Paypay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "EMIS's report shows Paypay, BAI, Unitel Money's operator USPM and sixteen banks all transferring through the one KWiK instant-payment system in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "KWiK",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "KWiK, reported by EMIS, handled 3.14 million transfers worth 74.6 billion kwanzas in February 2026 across wallets and banks, with 12.3 million registered accounts.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "KWiK",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KWiK",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "EMIS",
+   "owner": "EMIS",
+   "tiers": ""
+  },
+  {
+   "system": "Paypay",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "Paypay app",
+   "owner": "Paypay Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Unitel Money",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "",
+   "owner": "USPM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

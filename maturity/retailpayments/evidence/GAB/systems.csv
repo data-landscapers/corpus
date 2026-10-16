@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
+GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
+GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
+GAB,MaDigiPaie,Gabon,retail,GIMACPAY QR,Government of Gabon with BEAC / GIMAC,,2025-12-11-gabon-madigipaie-digital-payments-launch
+GAB,MaDigiPaie,Gabon,retail,GIMACPAY QR,BEAC / GIMAC,,2025-12-09-gimac-madigipaie-lancement-libreville
+GAB,Systac,Gabon,other,,,,2026-07-30-ga-cartes-bancaires-paiements-tpe
+GAB,Sygma,Gabon,other,,,,2026-07-30-ga-cartes-bancaires-paiements-tpe
+GAB,Moov Gabon,Gabon,retail,,Maroc Telecom,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
+GAB,Airtel Gabon,Gabon,retail,,Airtel,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
+GAB,e-money wallets,GAB,retail,,payment institutions,,2026-05-14-beac-instruction-002-gr-2026-prefinancements-remittance-entrante
+GAB,CLIKPAY,Gabon,retail,smartphone and web platform,CLIKPAY Gabon,,2026-05-08-uncdf-clikpay-gabon-fintech-capital
+GAB,GIMACPay,CEMAC,retail,,,,2026-05-08-uncdf-clikpay-gabon-fintech-capital
+GAB,CNSS single-entitlement benefit payments,Gabon,other,"bank transfer, Mobile Money",CNSS,,2025-12-19-cnss-paiement-3010-droits-uniques-mobile-money
+GAB,Gimac QR code,Gabon,retail,Gimac,Gimac,,2025-06-17-gabon-payments-interoperability-gimac
+GAB,CEMAC interoperable QR code,CEMAC,retail,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac

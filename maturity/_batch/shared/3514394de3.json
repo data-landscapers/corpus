@@ -1,0 +1,9 @@
+{"slug":"2026-07-06-visa-mpesa-onafriq-stablecoin-pilot-drc-techafricanews","studies":{
+"businesspayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"COD":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"COD":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"COD":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"TechAfrica News says Visa, M-PESA Africa and Onafriq are set to pilot stablecoins for cross-border mobile money transactions, with DR Congo the initial testing ground.","as_of":"2026-07-06","date_precision":"day","system":"Visa, M-PESA Africa and Onafriq stablecoin pilot","class":"crossborder"}],"systems":[{"system":"Visa, M-PESA Africa and Onafriq stablecoin pilot","country_label":"DR Congo","class":"crossborder","platform":"stablecoin","owner":"Visa, M-PESA Africa, Onafriq","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COD":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Only a cross-border pilot is described; no domestic retail service stated."}}},
+"revenuecollection":{"countries":{"COD":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

@@ -1,0 +1,137 @@
+{
+ "slug": "2026-08-27-thecitizen-tz-zanzibar-digital-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Mixx by Yas carries payments to clove farmers through the Zanzibar State Trading Corporation, the firm says.",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "Mixx by Yas",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mixx by Yas",
+       "country_label": "Tanzania (Zanzibar)",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Yas",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Zanzibar's ZanBus electric buses, in commercial operation since 1 August 2026, take fares through smart cards integrated with the Mixx by Yas digital payment platform, at Sh700 a journey.",
+       "as_of": "2026-08-01",
+       "date_precision": "day",
+       "system": "Mixx by Yas",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mixx by Yas",
+       "country_label": "Tanzania (Zanzibar)",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Yas",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Mixx by Yas carries traffic fine payments and Stone Town Municipal Authority parking payments in Zanzibar, the firm says.",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "Mixx by Yas",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mixx by Yas",
+       "country_label": "Tanzania (Zanzibar)",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Yas",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

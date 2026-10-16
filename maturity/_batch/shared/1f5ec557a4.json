@@ -1,0 +1,105 @@
+{
+ "slug": "2026-09-15-egy-enterprise-digital-egp-versus-instapay",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "An analyst says a mobile wallet transfer moves e-money within the service provider's ecosystem, and InstaPay moves value between existing bank accounts.",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "mobile wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "InstaPay",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Digital EGP",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

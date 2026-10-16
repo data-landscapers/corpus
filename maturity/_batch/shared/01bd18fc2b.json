@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-04-xca-gep-beac-jornadas-banquero-bangui-balance",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional BEAC/CEMAC statement; Equatorial Guinea is not named in the body."
+    }
+   }
+  }
+ }
+}

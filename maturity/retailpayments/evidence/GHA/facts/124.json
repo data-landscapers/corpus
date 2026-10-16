@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-myjoyonline-bog-sme-financing-gap-digital-lending",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank of Ghana Second Deputy Governor Matilda Asante-Asiedu said mobile money platforms processed 954 million transactions worth about GH¢493 billion in June 2026, with 84.6 million registered accounts, 26.4 million active, and over one million agents.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

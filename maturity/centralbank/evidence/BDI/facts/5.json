@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-19-theeastafrican-burundi-eaps-december-2026",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of the Republic of Burundi reported that its national instant payment system, Burundi Pay, has been operational since March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Burundi Pay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Burundi Pay",
+   "country_label": "Burundi",
+   "class": "oversight",
+   "platform": "national instant payment system",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": ""
+  },
+  {
+   "system": "East African Payment System (EAPS)",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "regional payment system",
+   "owner": "EAC central banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

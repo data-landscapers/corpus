@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-29-burundi-digital-payments-growth-cash-dominates",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The central bank reported nearly 97.5 million mobile money and digital transactions worth over 4.4 trillion francs in April to June 2025, with three mobile money providers operating and 7.6 million registered wallets.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money",
+   "country_label": "BDI",
+   "class": "retail",
+   "platform": "",
+   "owner": "three providers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

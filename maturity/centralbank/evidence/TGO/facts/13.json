@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-18-togo-comptes-monnaie-electronique-progression",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO widened market access in Togo by licensing new fintech players, per Togo First.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "BCEAO licensing of fintechs",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Togo is part of the rollout of the interoperable instant payment platform PI-SPI, though adoption remains very gradual, per Togo First.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

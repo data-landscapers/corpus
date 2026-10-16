@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-29-botswana-bank-of-botswana-electronic-money-regulations",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The amended regulations let licensed e-money issuers in Botswana pay interest to customers on electronic money balances, which the Bank says supports product innovation.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Electronic Payment Services Regulations",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

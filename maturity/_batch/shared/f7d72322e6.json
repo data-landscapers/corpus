@@ -1,0 +1,10 @@
+{"slug":"2026-01-15-fg-7-5-vat-electronic-banking","studies":{
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Tax directive only; no conduct rules or redress."}}},
+"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Vanguard reports the federal government directed banks and fintechs to collect 7.5% VAT from 19 January 2026 on fees for services such as mobile money transfers and USSD transactions.","as_of":"2026-01-19","date_precision":"day","system":"mobile money transfers and USSD transactions","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"VAT collected by banks on fees and remitted to the Nigerian Revenue Service; no electronic payment channel for taxpayers stated."}}}
+}}

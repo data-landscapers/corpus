@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "Bank of Zambia figures from the 2025 FinScope survey show mobile money usage at 76.2% in Zambia, and financial inclusion at 80.1% up from 69.4% in 2020.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "FinScope 2025",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Bank of Zambia figures from the 2025 FinScope survey show mobile money usage at 76.2% in Zambia, and financial inclusion at 80.1% up from 69.4% in 2020.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "FinScope 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "The 80.1% is financial inclusion, not stated as an account share, so no fact for the four-in-five rung."
+}

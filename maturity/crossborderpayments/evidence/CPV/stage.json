@@ -1,0 +1,17 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "crossborder",
+   "stage": "no evidence",
+   "corridor": "",
+   "regional": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a cross-border digital payment channel, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+  }
+ ]
+}

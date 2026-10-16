@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-directive-1069-2025-mandatory-payment-acceptance",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Finance directive names mobile wallets, prepaid payment instruments and mobile and internet banking issued by NBE-licensed providers as instruments all federal public bodies must accept.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "Mobile wallets and prepaid payment instruments",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

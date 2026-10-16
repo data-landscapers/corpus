@@ -1,0 +1,10 @@
+{"slug":"2026-09-30-sen-seneplus-inclusion-financiere-facteur-exclusion-sociale","studies":{
+"businesspayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The op-ed calls for regulation; it states no rule in force."}}},
+"crossborderpayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Only a general remark on future ECOWAS/UEMOA payments; no corridor stated."}}},
+"g2ppayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"SEN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The op-ed's author says some shops in Dakar accept electronic payments only above minimum amounts, and refuse digital payment below them, so electronic payments are in everyday use there.","as_of":"2026-09-30","date_precision":"day","system":"electronic payments in Dakar shops","class":"retail"}],"systems":[{"system":"mobile money operators","country_label":"Senegal","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Taxes are discussed only as a possibility; no electronic payment stated."}}}
+}}

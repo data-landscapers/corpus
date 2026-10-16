@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Guinea-Bissau is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

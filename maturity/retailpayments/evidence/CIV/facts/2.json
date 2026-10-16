@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-29-avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "SimoCash, launched in May 2026, carries payments and money transfers over mobile money networks such as Orange Money in Cote d'Ivoire.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SimoCash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The article says SimoCash lets funds move directly from one mobile money operator to another, Orange Money being named as one.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "SimoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

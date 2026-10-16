@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-24-open-hub-flot-platform",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Owl Press reports mobile money operators Afrimoney and Orange Money among stakeholders at the Flot launch, and says mobile money adoption continues to grow in Sierra Leone.",
+       "as_of": "2026-04-24",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Flot",
+       "country_label": "Sierra Leone",
+       "class": "other",
+       "platform": "WhatsApp",
+       "owner": "Open Hub",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug": "2026-09-11-gnb-ang-educacao-digitalizacao-orcamento", "studies": {
+"businesspayments": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"GNB": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "The prime minister said the government will make every effort for each teacher to be paid at their workplace through bank branches or Orange Money, and the education minister listed dematerialised salary payment as a pillar of a strategy being implemented.", "as_of": "2026-09-11", "date_precision": "day", "system": "Orange Money", "class": "g2p"}
+], "systems": [{"system": "Orange Money", "country_label": "Guinea-Bissau", "class": "retail", "platform": "mobile money", "owner": "Orange", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"GNB": {"facts": [], "systems": [{"system": "Orange Money", "country_label": "Guinea-Bissau", "class": "retail", "platform": "mobile money", "owner": "Orange", "tiers": ""}], "note": "Orange Money is named only as a planned teacher salary channel; no service status is stated."}}},
+"revenuecollection": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

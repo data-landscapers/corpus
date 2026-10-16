@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-10-osiris-sen-pi-spi-orange-money-bocoum",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Wave is used to pay for transport tickets (BRT, TER) and at public health establishments, according to economist Seydou Bocoum.",
+   "as_of": "2026-10-10",
+   "date_precision": "day",
+   "system": "Wave",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

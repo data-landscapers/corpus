@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-cod-bankable-microfinance-switch-mosolo-dollar-cash-ban",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Switch Mosolo",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch Mosolo",
+   "country_label": "DR Congo",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Congo (oversight)",
+   "tiers": "banks, microfinance institutions, e-money institutions, fintechs"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Yonna Global Wallet",
+   "country_label": "Gambia",
+   "class": "crossborder",
+   "platform": "mobile wallet",
+   "owner": "Yonna Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Diaspora can pay government fees from abroad but no named corridor is stated."
+}

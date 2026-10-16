@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-29-worldbank-dfs-inclusion-growth-mali",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The World Bank says Mali is committed to supporting the vulnerable with social payments delivered through an account, and that the Jigisemeyiri Project gave cash transfers to 62,000 food-insecure households during the pandemic.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "Jigisemeyiri Project",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jigisemeyiri Project",
+   "country_label": "Mali",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Government of Mali with World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

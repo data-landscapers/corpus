@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-22-moz-e-money-agents-q2-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Mozambique recorded 494,955 e-money agents at the end of June 2026, up 27,333 on the quarter, with three e-money operators (M-Pesa, e-Mola and M-Kesh) providing payments, transfers and withdrawals.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "M-Pesa, e-Mola, M-Kesh",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "M-Kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

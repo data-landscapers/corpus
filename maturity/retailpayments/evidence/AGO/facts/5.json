@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EMIS, Angola's interbank services company, manages the MULTICAIXA Express app and KWiK instant transfers, per an EMIS executive director at the 2026-10-12 CyberSecur Summit.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "KWiK",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rede MULTICAIXA",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "EMIS",
+   "tiers": ""
+  },
+  {
+   "system": "MULTICAIXA Express",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "EMIS",
+   "tiers": ""
+  },
+  {
+   "system": "KWiK",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "instant transfers",
+   "owner": "EMIS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

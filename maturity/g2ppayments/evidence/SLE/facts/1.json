@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-sierra-leone-nacsa-economic-inclusion-grants-falaba-afrimoney",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "NaCSA says Economic Inclusion Grants under the PSSNYE social safety net project were disbursed through Afri-money mobile money to selected beneficiaries in Falaba District, marking the start of disbursements across the chiefdom.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "PSSNYE Economic Inclusion Grants",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PSSNYE Economic Inclusion Grants",
+   "country_label": "Sierra Leone",
+   "class": "g2p",
+   "platform": "Afri-money",
+   "owner": "NaCSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TCIB",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "SADC",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": "ZECHL is yet to go live on TCIB and PAPSS is only under discussion; no corridor in service or figures stated."
+}

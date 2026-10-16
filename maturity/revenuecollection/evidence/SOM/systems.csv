@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,Somalia Instant Payment System (SIPS),Somalia,other,ISO 20022,Somalia Payment Switch (Central Bank and 13 banks),,2026-07-26-sonna-central-bank-one-payments-network
+SOM,National Payment System (RTGS),Somalia,other,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,SOMQR,Somalia,other,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,PAPSS,Somalia,other,,,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-17-gabon-payments-interoperability-gimac",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gimac QR code",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "Gimac",
+   "owner": "Gimac",
+   "tiers": ""
+  }
+ ],
+ "note": "No central bank role stated."
+}

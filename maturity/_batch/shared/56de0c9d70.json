@@ -1,0 +1,77 @@
+{
+ "slug": "2025-04-14-cbs-sba-iso-20022-transition-notice",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

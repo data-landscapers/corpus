@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-10-rwa-ktpress-bnr-cashless-campaign-92-percent-cash",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The document says eKash, Rwanda's national interoperable payment system, lets users send and receive money between participating banks and mobile-money platforms using existing accounts, and the campaign involves mobile-money operators (KT Press, BNR).",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The document says eKash allows money to move between participating banks and mobile-money platforms using their existing accounts.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The document says Rwanda made eKash its national instant payment system in July 2026, connecting banks and mobile-money platforms through a common payment infrastructure.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "national instant payment system",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "RSwitch",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

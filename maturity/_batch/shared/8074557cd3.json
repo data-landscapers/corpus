@@ -1,0 +1,10 @@
+{"slug": "2025-05-29 Biometric payment card system pushing financial inclusion in Botswana", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No consumer-protection rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "More than 75,000 food-voucher beneficiaries completed digital purchases at local stores with SmartSwitch Botswana's biometrics-enabled smart card, described as government social-benefit payments.", "as_of": "2025-05-29", "date_precision": "day", "system": "SmartSwitch Botswana", "class": "g2p"}], "systems": [{"system": "SmartSwitch Botswana", "country_label": "Botswana", "class": "g2p", "platform": "biometric smart card on UEPS", "owner": "Lesaka Technologies", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Closed-loop government benefit card, not mobile money or wallets."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

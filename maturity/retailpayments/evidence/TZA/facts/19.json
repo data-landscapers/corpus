@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tanzania's mobile money has nearly 2 million agents, 75.8 million active accounts and 6.31 billion transactions in 2025, per the National Council for Financial Inclusion report.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Tanzania Instant Payment System connects 47 financial service providers, and bank-to-wallet transfer charges have been reduced, per the report.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "TIPS",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Tanzania Instant Payment System, a national system, connects 47 financial service providers including for bank-to-wallet transfers, per the report.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "TIPS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIPS",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile money",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

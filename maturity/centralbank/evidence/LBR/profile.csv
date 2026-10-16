@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,centralbank,mandate,coverage,licensing,2025-09-23,LBR-002,,
+LBR,centralbank,switch,coverage,overseen,2026-08,LBR-001;LBR-003;LBR-004;LBR-005;LBR-006;LBR-007;LBR-008,,
+LBR,centralbank,regional,coverage,linked,2025-03-27,LBR-009,,

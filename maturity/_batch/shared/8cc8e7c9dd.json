@@ -1,0 +1,157 @@
+{
+ "slug": "2025-10-10-comesa-digital-retail-payments-platform",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only in the COMESA member list; the pilot is Malawi-Zambia and nothing is stated for this country."
+    }
+   }
+  }
+ }
+}

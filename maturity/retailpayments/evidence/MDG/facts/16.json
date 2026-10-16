@@ -1,0 +1,42 @@
+{
+ "slug": "2025-05-09-sigrnf-lancement-mef-gov-mg",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry says mobile money institutions Mvola, Orange Money and Airtel Money take part in SIGRNF payments of non-tax revenues.",
+   "as_of": "2025-05-09",
+   "date_precision": "day",
+   "system": "Mvola, Orange Money, Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mvola",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

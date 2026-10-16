@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-14-leswitch-pos-financial-inclusion-lestimes",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Lesotho Times reports the Central Bank of Lesotho, with four commercial banks, launched local POS transactions on the National Payment Switch LeSwitch on 11 May 2025, after instant payments (2022) and ATM (piloted Oct 2024 to Feb 2025).",
+   "as_of": "2025-05-11",
+   "date_precision": "day",
+   "system": "LeSwitch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LeSwitch",
+   "country_label": "Lesotho",
+   "class": "oversight",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho and commercial banks",
+   "tiers": "instant payments and card streams"
+  }
+ ],
+ "note": ""
+}

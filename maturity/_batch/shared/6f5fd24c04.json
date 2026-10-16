@@ -1,0 +1,299 @@
+{
+ "slug": "2026-09-04-itwebafrica-malawi-police-digital-traffic-fines",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article names TNM Mpamba and Airtel Money mobile money services as channels for paying traffic fines, per the Malawi Police Service.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "TNM Mpamba / Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Malawi Police Service introduced an electronic payment system for traffic fines, scheduled to become operational at Police Headquarters and the six police regions from the week of 4 September 2026, payable through commercial banks.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Malawi Police Service electronic traffic fine payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi Police electronic traffic fine payment",
+       "country_label": "MWI",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "MWI",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

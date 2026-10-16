@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-ministere-wave-money-partenariat-inclusion-financiere",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechAfrica News reports Wave Money operates in five regions of Burkina Faso with over one million users, offering transfers, airtime and bill payments.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "Wave Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave Money",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "",
+   "owner": "Wave Money Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-gha-currentissues-access-bank-visa-accept",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Visa Accept",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "smartphone card acceptance in Access Bank app",
+   "owner": "Access Bank Ghana and Visa",
+   "tiers": ""
+  }
+ ],
+ "note": "Merchant card acceptance via a bank app, not mobile money or person-to-person payment."
+}

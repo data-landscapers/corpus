@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Bank of Mauritius Governor Thakoor says MauCAS is interlinked with India's UPI so Mauritian and Indian travellers can now use MauCAS QR payments settled in rupees in both countries.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "MauCAS-UPI link",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Bank of Mauritius Governor Thakoor says the bank is settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "REPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS-UPI link",
+   "country_label": "Mauritius",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "REPSS",
+   "country_label": "Mauritius",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "COMESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

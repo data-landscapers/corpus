@@ -1,0 +1,13 @@
+{"slug":"2026-09-10-namibiansun-5700-grant-beneficiaries-locked-out-payment-system","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"Minister Emma Kantema told the National Assembly on 2026-09-08 that 10,066 of 15,785 suspended old-age, child-welfare and other social-grant beneficiaries had been reinstated and paid through the government payment system.","as_of":"2026-09-08","date_precision":"day","system":"government payment system","class":"g2p"},
+{"sub_indicator":"g2p","aspect":"linked","value":"linked","fact":"The ministry's verification exercise checked grant beneficiaries' identities against the national population register administered by home affairs, and some records did not match.","as_of":"2026-09-08","date_precision":"day","system":"social grants beneficiary database","class":"g2p"}],
+"systems":[{"system":"government payment system","country_label":"Namibia","class":"g2p","platform":"","owner":"Ministry of Gender Equality, Poverty Eradication and Social Welfare with the finance ministry","tiers":"old-age, child-welfare and other social grants"}],"note":""}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

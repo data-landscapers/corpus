@@ -1,0 +1,16 @@
+{"slug": "2026-09-15-moz-sapo-moeda-eletronica-contas-banca", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Banco de Moçambique is cited only as source of inclusion statistics; no mandate, licensing, switch or regional role stated."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on consumer-protection rules or redress."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Figures are accounts per 100 adults from central bank provider data, not a survey share of adults."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mozambique has three electronic money operators, M-Pesa, e-Mola and M-Kesh, providing financial services by mobile phone, with 130.9 e-money accounts per 100 adults in Q2 2026, according to Banco de Moçambique data compiled by Lusa.", "as_of": "2026-06", "date_precision": "month", "system": "M-Pesa, e-Mola, M-Kesh", "class": "retail"}
+], "systems": [
+{"system": "M-Pesa", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+{"system": "e-Mola", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+{"system": "M-Kesh", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}
+], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

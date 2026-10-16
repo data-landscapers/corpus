@@ -1,0 +1,14 @@
+{"slug": "2026-09-10-rwa-ktpress-bnr-cashless-campaign-92-percent-cash", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [{"system": "eKash", "country_label": "Rwanda", "class": "oversight", "platform": "national instant payment system", "owner": "", "tiers": ""}], "note": "BNR runs a cashless campaign but the document does not state a licensing, switch oversight or regional role."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The 85.3% digital account figure is given as BNR data with no named survey, so no survey share is recorded."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The document says eKash, Rwanda's national interoperable payment system, lets users send and receive money between participating banks and mobile-money platforms using existing accounts, and the campaign involves mobile-money operators (KT Press, BNR).", "as_of": "2026-09-10", "date_precision": "day", "system": "eKash", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The document says eKash allows money to move between participating banks and mobile-money platforms using their existing accounts.", "as_of": "2026-09-10", "date_precision": "day", "system": "eKash", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The document says Rwanda made eKash its national instant payment system in July 2026, connecting banks and mobile-money platforms through a common payment infrastructure.", "as_of": "2026-07", "date_precision": "month", "system": "eKash", "class": "retail"}
+], "systems": [{"system": "eKash", "country_label": "Rwanda", "class": "retail", "platform": "national instant payment system", "owner": "", "tiers": ""}, {"system": "RSwitch", "country_label": "Rwanda", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Utility bills are noted as 33% paid digitally, but no tax or fee payment to the state is stated."}}}
+}}

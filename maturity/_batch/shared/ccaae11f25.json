@@ -1,0 +1,127 @@
+{
+ "slug": "2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The National Bank of Rwanda's Director of Payment Services reported on e-Kash's progress and said the bank is connecting SACCOs to the platform.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "e-Kash",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Kash",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "common payment platform",
+       "owner": "",
+       "tiers": "banks, SACCOs, other financial service providers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "e-Kash became operational on 14 July with banks, SACCOs and other financial service providers on a common payment platform, and had 3.25 million users by June 2026, according to the National Bank of Rwanda.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "e-Kash",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The National Bank of Rwanda said e-Kash lets customers transfer up to Rwf10 million for a flat Rwf20 between a bank and another institution, with SACCOs being connected to transfer to banks and other SACCOs.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "e-Kash",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Kash",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "common payment platform",
+       "owner": "",
+       "tiers": "banks, SACCOs, other financial service providers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

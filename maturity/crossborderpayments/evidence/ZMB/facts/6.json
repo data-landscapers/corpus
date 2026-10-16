@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-itweb-africa-momo-fnb-zambia-atm-cash-out",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MTN MoMo Zambia introduced direct wallet-to-bank transfers in January 2026, the first Zambian mobile money provider to let customers send funds to international bank accounts in the EU, UK and Canada, per ITWeb Africa.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "MTN MoMo",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "2026-05-27-kwanza-integra-sistema-de-pagamento-sadc-rtgs",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "BNA governor Manuel Tiago Dias announced that the Kwanza will join the SADC-RTGS real-time payment system from the second half of 2026.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Angola",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "SADC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BNA governor Manuel Tiago Dias said instant payments are expanding in Angola, notably Kwik, which allows real-time transfers, alongside QR code and contactless payments.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "Kwik",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kwik",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for Angola."
+    }
+   }
+  }
+ }
+}

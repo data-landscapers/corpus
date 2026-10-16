@@ -1,0 +1,88 @@
+{
+ "slug": "2026-09-25-ben-gouv-semo2-digitalisation-frais-mission",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Benin's Ministry of Economy and Finance circular of 25 September 2026 institutes electronic payment of official-mission expenses in all public administrations, with the SEMO 2 modules ready for domestic implementation.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "SEMO 2",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

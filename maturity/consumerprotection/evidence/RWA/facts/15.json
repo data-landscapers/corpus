@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-bnr-press-release-performance-of-ekash",
+ "facts": [
+  {
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "NBR says customers with unresolved eKash problems may complain to the National Bank of Rwanda through the Intumwa chatbot by SMS, WhatsApp, website and social media.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Intumwa",
+   "class": "protection",
+   "sub_indicator": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

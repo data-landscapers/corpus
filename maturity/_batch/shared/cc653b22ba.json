@@ -1,0 +1,88 @@
+{
+ "slug": "2026-09-11-uga-chimpreports-mobile-money-toll-kampala-entebbe",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Uganda's Ministry of Works and Transport said test runs of mobile money toll payment on the Kampala-Entebbe Expressway were complete and the service would launch soon, with no start date given.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "Kampala-Entebbe Expressway mobile money toll payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "slug": "2026-07-26-sonna-central-bank-one-payments-network",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing in service on this question; the PAPSS link and wallet integration are targets."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Somalia launched SIPS in January 2025, operated by the Somalia Payment Switch, a partnership of the Central Bank and 13 commercial banks, and SIPS is in service.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "SIPS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Somalia Payment Switch (Central Bank and 13 banks)",
+       "tiers": ""
+      },
+      {
+       "system": "National Payment System (RTGS)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing in service on this question; the PAPSS link and wallet integration are targets."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing in service on this question; the PAPSS link and wallet integration are targets."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "SONNA reports SIPS currently carries disbursements made by government to citizens.",
+       "as_of": "2026-07-26",
+       "date_precision": "day",
+       "system": "SIPS",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Somalia Payment Switch (Central Bank and 13 banks)",
+       "tiers": ""
+      },
+      {
+       "system": "National Payment System (RTGS)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing in service on this question; the PAPSS link and wallet integration are targets."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "SONNA reports SIPS currently carries transfers between individuals and payments to merchants, and that mobile wallets carry most day-to-day transactions in Somalia.",
+       "as_of": "2026-07-26",
+       "date_precision": "day",
+       "system": "SIPS",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Somalia Payment Switch (Central Bank and 13 banks)",
+       "tiers": ""
+      },
+      {
+       "system": "National Payment System (RTGS)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "SONNA reports SIPS currently carries payments made to government.",
+       "as_of": "2026-07-26",
+       "date_precision": "day",
+       "system": "SIPS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Somalia Payment Switch (Central Bank and 13 banks)",
+       "tiers": ""
+      },
+      {
+       "system": "National Payment System (RTGS)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

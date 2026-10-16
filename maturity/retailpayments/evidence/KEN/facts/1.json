@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Fintech Association of Kenya cites Safaricom reporting almost 299,000 M-PESA agents and roughly 676,000 active Lipa na M-PESA merchants in the year to March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Fintech Association of Kenya reports that in October 2024 the CBK said banks, mobile-money companies and payment providers had achieved substantial interoperability, though partly through bilateral connections.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PesaLink",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "instant bank-to-bank switch",
+   "owner": "Integrated Payment Systems Limited (Kenya Bankers Association)",
+   "tiers": "banks, microfinance banks and Saccos"
+  },
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

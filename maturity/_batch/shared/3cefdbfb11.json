@@ -1,0 +1,9 @@
+{"slug":"2026-02-05-burundi-upgrades-payment-system-iso-20022","studies":{
+"businesspayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"BDI":{"facts":[{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Bank of the Republic of Burundi says it upgraded its Automated Transfer System to ISO 20022, with banks and the Regie Nationale des Postes resuming interbank operations on it from 6 February 2026.","as_of":"2026-02-06","date_precision":"day","system":"Automated Transfer System (ATS)","class":"oversight"}],"systems":[{"system":"Automated Transfer System (ATS)","country_label":"Burundi","class":"oversight","platform":"ISO 20022","owner":"Bank of the Republic of Burundi","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Integration with regional networks is stated only as a possibility; no corridor or regional system in service."}}},
+"g2ppayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No survey stated."}}},
+"retailpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Mobile and digital platforms are mentioned only generally; no named service or interoperability stated."}}},
+"revenuecollection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

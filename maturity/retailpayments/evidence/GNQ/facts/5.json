@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-29-fintech-ecosystem-2026-thefintechtimes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Fintech Times says mobile money, for example Orange Money operating across Central Africa, is the primary entry point to digital finance in Equatorial Guinea.",
+   "as_of": "2026-03-29",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Equatorial Guinea",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

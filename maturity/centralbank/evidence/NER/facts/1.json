@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-02-bceao-connexion-pispi-communique",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO launched PI-SPI on 30 September 2025, a 24/7 interoperable instant payment platform for the UEMOA, and reports 80 participants connected on 2 April 2026 (communique).",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Niger is a UEMOA member state on the regional PI-SPI platform that BCEAO runs, with its institutions required to connect by 30 June 2026.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "regional instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

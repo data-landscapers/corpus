@@ -1,0 +1,10 @@
+{"slug": "2026-07-24-finance-4-all-senegal-education-financiere-numerique", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Cameroon is named only as a Finance 4 All project country; nothing on procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a central bank role over payments."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Names consumer protection only as a donor project objective, no rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A comparison platform for digital financial services is named, but no payment service is described."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

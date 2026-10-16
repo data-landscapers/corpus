@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16-pawapay-kerry-payments-vas-aggregator-licence-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Kerry Payments Brazzaville was authorised by ARPCE as a payment aggregator connecting businesses to mobile money operators, banks and microfinance institutions operating in Congo.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "Kerry Payments VAS Payment Aggregator",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

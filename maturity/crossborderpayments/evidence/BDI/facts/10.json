@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-08-brb-interoperabilite-paiements-papss",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Afreximbank and African Union",
+   "tiers": ""
+  }
+ ],
+ "note": "The document says Burundi has not yet joined PAPSS; the BRB is only invited to finalise integration."
+}

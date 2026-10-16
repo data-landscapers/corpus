@@ -1,0 +1,119 @@
+{
+ "slug": "2026-06-11-bfm-audits-eme-2424-mg",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "EME regime (CSBF)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission de supervision bancaire et financière (CSBF)",
+       "country_label": "CSBF",
+       "class": "oversight",
+       "platform": "",
+       "owner": "BFM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "E-money institutions are legally required to run a 24/7 customer service handling complaints on loss, theft, fraud and unauthorised transactions, with oral complaints confirmed in writing within five working days, per 2424.mg.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "EME consumer-protection obligations",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "E-money institutions operate mobile money services in Madagascar, with numerous user complaints about e-money transactions reported by the BFM governor.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "Electronic money institutions (EME)",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

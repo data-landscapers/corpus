@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25 Somalia taps BPC to launch first nationwide instant payment system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Somalia Instant Payment System, live since January 2025, lets consumers make instant transfers from a mobile or banking app and QR payments, with seven institutions connected and SOMQR (2023) routing contactless payments, per FinTech Futures.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Somalia Instant Payment System (SIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOMQR",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "BPC SmartVista",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

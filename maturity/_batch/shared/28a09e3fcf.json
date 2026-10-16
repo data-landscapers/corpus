@@ -1,0 +1,10 @@
+{"slug": "2026-08-05-parliament-raises-red-alert-over-orange-money-scams", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No central bank role stated; NaTCA is a telecoms regulator."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Consumer protection is an objective only; no rule in force or complaints body for digital finance stated."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Sierra Leone's Parliament was told of fraud on mobile-money services, mainly on the Orange network, including fraudulent mobile-money requests and unclaimed mobile-money balances, so mobile money is in service (Sierra Leone Monitor, reporting the 4 August 2026 sitting).", "as_of": "2026-08-04", "date_precision": "day", "system": "Orange Money", "class": "retail"}], "systems": [{"system": "Orange Money", "country_label": "Sierra Leone", "class": "retail", "platform": "Orange Sierra Leone", "owner": "Orange Sierra Leone", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+}}

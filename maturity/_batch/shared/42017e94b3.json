@@ -65,6 +65,89 @@
      "note": ""
     }
    }
+  },
+  "businesspayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention public procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no central bank role over payments."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no consumer-protection rule for digital finance."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no cross-border digital channel."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention government payments to people."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no survey share of adults with an account."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "none",
+       "fact": "The World Bank diagnostic says digital financial services are nascent, with no licensed e-money operator for mobile money.",
+       "as_of": "2024-06-25",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention electronic payment of taxes or fees."
+    }
+   }
   }
  }
 }

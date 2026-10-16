@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-08 GSMA maps the reforms required for Senegal's digital takeoff",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Senegal had 14.65m active mobile-money accounts in 2024 and 76% of adults held a mobile-money account, per BCEAO figures cited by Ecofin.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-19-papss-14th-governing-council-nairobi-dailynewsegypt",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The Central Bank of Egypt officially joined the PAPSS network in November 2024 and its Governor has sat on the PAPSS Governing Council since January 2025, per Daily News Egypt.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "PAPSS",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

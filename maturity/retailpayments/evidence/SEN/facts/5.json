@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-30-sen-seneplus-inclusion-financiere-facteur-exclusion-sociale",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The op-ed's author says some shops in Dakar accept electronic payments only above minimum amounts, and refuse digital payment below them, so electronic payments are in everyday use there.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "electronic payments in Dakar shops",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money operators",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

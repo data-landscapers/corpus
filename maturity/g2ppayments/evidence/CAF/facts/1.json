@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-car-batangafo-month-without-orange-network",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Residents of Batangafo say some civil servants could not collect the previous month's salary because transactions through mobile services were blocked by an Orange network outage lasting nearly a month.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "mobile salary payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

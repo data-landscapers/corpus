@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-bceao-six-acteurs-pi-spi-togo",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Togo First says PI-SPI gives instant 24/7 transfers between banks, microfinance institutions, e-money issuers and payment institutions, and six Togo institutions are authorised to offer it.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Fatourati",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fatourati",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "",
+   "owner": "CMI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

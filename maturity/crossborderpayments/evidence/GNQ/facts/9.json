@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-09-beac-rejoint-papss-cemac",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Afreximbank's release of 9 July 2026 says BEAC, serving Equatorial Guinea among six CEMAC states, has joined PAPSS, which links 28 countries and 16 payment switches, with onboarding of CEMAC institutions through end 2026.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

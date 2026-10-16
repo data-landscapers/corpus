@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-25-lesotho-basotho-can-now-invest-via-m-pesa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "M-Pesa mobile money in Lesotho has been used primarily for airtime purchases, bill payments and person-to-person transfers, through an agent network, according to Vodacom Lesotho.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodacom Lesotho",
+   "tiers": ""
+  },
+  {
+   "system": "Tsetela",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "USSD",
+   "owner": "Vodacom Financial Services with STANLIB Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

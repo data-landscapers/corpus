@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CIV-001,CIV,g2p,payment,inservice,"The BCEAO says the Treasury of Cote d'Ivoire, having met all PI-SPI requirements, regularly makes bulk payments through the platform, which lets Treasuries send salaries, grants and subsidies to any account.",2026-10-08,day,PI-SPI,g2p,2026-10-08-xwa-bceao-communique-connexion-tresors-publics-pi-spi,https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement

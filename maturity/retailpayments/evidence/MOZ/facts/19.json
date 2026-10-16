@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Notice 2/GBM/2026 requires institutions to connect to the National Single Network, which centralises card, terminal and digital-channel processing, as a condition for offering electronic payment services including mobile financial services.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "National Single Network (National Switch)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

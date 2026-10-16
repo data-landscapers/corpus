@@ -1,0 +1,97 @@
+{
+ "slug": "2026-09-28-lbr-bet-on-liberia-payment-switch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Finance Minister Ngafuan cited reforms involving e-procurement among Liberia's partnerships and reforms, in a speech reported 2026-09-28.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "e-procurement",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-procurement reform",
+       "country_label": "Liberia",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance and Development Planning",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "National Electronic Payment Switch is only planned for March 2027; Inclusive Instant Payment System status not stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Switch is planned, not in service; no mobile money service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

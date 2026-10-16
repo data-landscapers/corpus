@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Al-Watwan reports the Banque Centrale des Comores introduced and launched Komor Switch, a national platform connecting all banks and mobile money services for interoperability, and KomorPay, an automated interbank transfer system.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Komor Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Komor Switch",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "national switch",
+   "owner": "Banque Centrale des Comores",
+   "tiers": "banks and mobile money"
+  },
+  {
+   "system": "KomorPay",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "interbank transfer system",
+   "owner": "Banque Centrale des Comores",
+   "tiers": "banks"
+  },
+  {
+   "system": "Mali Ya Wakazi",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "bank agent network",
+   "owner": "Banque Centrale des Comores",
+   "tiers": "agents"
+  }
+ ],
+ "note": ""
+}

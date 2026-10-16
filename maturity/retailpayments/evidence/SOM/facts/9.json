@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-dawan-somalia-financial-inclusion-opinion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "An opinion writer says mobile money is in service in Somalia and used by the majority of people to send and receive money and make payments, reaching 87 percent of adults per the SOM-FAS2026 report.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

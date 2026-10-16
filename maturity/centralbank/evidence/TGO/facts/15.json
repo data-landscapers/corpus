@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-17-techcabal-semoa-bceao-licence",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "TechCabal reports the BCEAO granted Togolese fintech Semoa its Level 3 payment institution accreditation on 29 January 2026, the first of its kind for a Togolese company.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "BCEAO instruction n° 001-01-2024 payment institution licence",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "TechCabal says INTOUCH Togo obtained its BCEAO electronic money institution licence in June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "BCEAO electronic money institution licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCEAO instruction n° 001-01-2024",
+   "country_label": "Togo",
+   "class": "oversight",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "three licence levels by capital"
+  }
+ ],
+ "note": ""
+}

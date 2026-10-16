@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BCEAO says PI-SPI allows account-to-account transfers between different types of accounts in the UMOA, which had 81 e-money initiatives at the end of 2025.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

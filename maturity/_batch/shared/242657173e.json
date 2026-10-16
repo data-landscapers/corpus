@@ -1,0 +1,13 @@
+{"slug": "2026-03-27-yenga-application-burkinabe-kreezus", "studies": {
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "leFaso.net says mobile money is in service in Burkina Faso, with Orange Money, Moov Money, Sank Money, Coris Money and Telecel Money all accepted by the YENGA app.", "as_of": "2026-03-27", "date_precision": "day", "system": "Mobile Money", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "leFaso.net says the YENGA app, built by KREEZUS, sends money between different Mobile Money services in Burkina Faso, with over 400,000 downloads.", "as_of": "2026-03-27", "date_precision": "day", "system": "YENGA", "class": "retail"}],
+"systems": [{"system": "YENGA", "country_label": "Burkina Faso", "class": "retail", "platform": "smartphone app", "owner": "KREEZUS", "tiers": ""}, {"system": "Orange Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "Orange", "tiers": ""}, {"system": "Moov Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "Moov Africa", "tiers": ""}, {"system": "Telecel Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "Telecel Faso", "tiers": ""}, {"system": "Sank Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}, {"system": "Coris Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

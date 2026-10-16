@@ -1,0 +1,14 @@
+{"slug":"2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system","studies":{
+"businesspayments":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Supplier payments are only an expected benefit; no e-procurement system is named."}}},
+"centralbank":{"countries":{"GIN":{"facts":[
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Central Bank of the Republic of Guinea launched the NimbaPay project in December 2025, and NimbaPay, the national instant payment system, was officially launched on 22 July 2026 connecting banks, e-money operators and other institutions.","as_of":"2026-07-22","date_precision":"day","system":"NimbaPay","class":"oversight"}],"systems":[{"system":"NimbaPay","country_label":"Guinea","class":"oversight","platform":"Mojaloop","owner":"BCRG","tiers":""}],"note":"No licensing is stated; PAPSS and ECOWAS links are only prospective."}}},
+"consumerprotection":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"GIN":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Guinea","class":"other","platform":"","owner":"","tiers":"possible future link"}],"note":"NimbaPay could eventually connect to PAPSS; no link is in service or underway."}}},
+"g2ppayments":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Salaries and social assistance are only an expected use of NimbaPay."}}},
+"paymentsuptake":{"countries":{"GIN":{"facts":[],"systems":[],"note":"The governor's 36% access figure names no survey."}}},
+"retailpayments":{"countries":{"GIN":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"BCRG Governor Karamo Kaba said access to financial services rose from 4% in 2011 to nearly 36% in 2024, driven partly by the expansion of electronic money.","as_of":"2024","date_precision":"year","system":"electronic money","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"NimbaPay, launched on 22 July 2026, enables transfers between bank accounts, mobile wallets and other financial accounts across different providers.","as_of":"2026-07-22","date_precision":"day","system":"NimbaPay","class":"retail"},
+{"sub_indicator":"retail","aspect":"switch","value":"national","fact":"NimbaPay, the national instant payment system launched on 22 July 2026, connects banks, electronic money operators and other financial institutions.","as_of":"2026-07-22","date_precision":"day","system":"NimbaPay","class":"retail"}],"systems":[{"system":"NimbaPay","country_label":"Guinea","class":"retail","platform":"Mojaloop","owner":"BCRG","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

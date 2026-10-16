@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-cbg-monetary-policy-committee-press-release-february-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of The Gambia says fintech and mobile money services have 5.4 million registered users and 2.9 million active users, with cash-in up 16.4 percent to D23.9 billion and cash-out up 19.6 percent to D25.8 billion between September and December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Fintech and mobile money services",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fintech and mobile money services",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

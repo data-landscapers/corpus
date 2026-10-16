@@ -1,0 +1,168 @@
+{
+ "slug": "2026-07-15-wearetech-sonatel-maxit-brt",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Dakar Mobilité partnered with Orange Finances Mobiles in the BRT's first months of service to enable ticket purchases through Orange Money, per We Are Tech Africa.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Sonatel",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  }
+ }
+}

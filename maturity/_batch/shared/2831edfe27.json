@@ -63,6 +63,98 @@
      "note": "Report only recommends a biometric national digital ID and authentication system; none is stated in place."
     }
    }
+  },
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The World Bank update says Eswatini's National Payment Switch exists but is not fully used, with over 90% of people-to-business payments still cash.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "National Payment Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Payment Switch",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
   }
  }
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-pi-spi-banques-mobile-money-interconnectes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Transfers from banks can credit mobile money wallets in seconds and the reverse, in real time, via PI-SPI, which the article says now connects banks and mobile money 100% in UEMOA.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA (Benin)",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, microfinance, e-money issuers, payment institutions"
+  }
+ ],
+ "note": ""
+}

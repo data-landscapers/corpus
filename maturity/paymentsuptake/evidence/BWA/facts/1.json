@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-16-techcabal-botswana-mukuru-companion-card-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "FinScope 2024 found that 75% of Batswana use mobile money, per TechCabal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "FinScope 2024",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FinScope 2024 found that 75% of Batswana use mobile money, per TechCabal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "FinScope 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

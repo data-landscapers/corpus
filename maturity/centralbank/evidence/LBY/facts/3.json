@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-11-cbl-allows-foreigners-ewallets-circular-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Central Bank of Libya circular 9 of 2026 allows licensed electronic payment companies to issue e-wallets to legally resident foreigners, and its Banking and Monetary Control Department will inspect the companies for compliance.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "e-wallets",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

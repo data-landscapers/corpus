@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-somali-women-financial-inclusion-digital-divide-study",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The study says Somalia has one of the most active mobile money markets in Africa, with nomadic women relying heavily on mobile money (AOR 2.57 against urban women).",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

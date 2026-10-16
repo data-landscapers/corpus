@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The CBE says its InstaPay instant payments network had over 16 million users and 1.1 billion transactions by June 2025, alongside the national Meeza card system.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "InstaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "national card scheme",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "instant payments network",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza Digital",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "mobile wallets",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

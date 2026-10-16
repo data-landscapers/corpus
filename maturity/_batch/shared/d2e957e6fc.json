@@ -1,0 +1,97 @@
+{
+ "slug": "2026-09-27-african-development-bank-lbr-2026-digigov-completion-report",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The African Development Bank's DIGIGOV Liberia project aimed to implement an e-payment solution hosted by the Liberia Revenue Authority to facilitate customs tax collection; the completion-report abstract states no outcomes.",
+       "as_of": "2026-09-27",
+       "date_precision": "day",
+       "system": "DIGIGOV Liberia e-payment solution",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DIGIGOV Liberia e-payment solution",
+       "country_label": "Liberia",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

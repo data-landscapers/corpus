@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Caisse Malienne de Securite Sociale pays pensions by mobile payment, which the article calls a success, and is now digitalising bank payment of pensions.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "CMSS mobile pension payment",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The CMSS pilot of fully digital bank payment of pensions with the Banque de Developpement du Mali was conclusive and is to be rolled out progressively to other partner banks.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "CMSS digital bank pension payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CMSS digital pension payment",
+   "country_label": "Mali",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Caisse Malienne de Securite Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-gabon-lunion-madigipaie-libreville",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "L'Union says the city of Libreville already has its own operational system for digitalising municipal revenue, developed with the Treasury to secure and modernise collection.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Libreville municipal revenue digitalisation system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Libreville municipal revenue digitalisation system",
+   "country_label": "Gabon",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Libreville city, Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The World Bank update says Eswatini's National Payment Switch exists but is not fully used, with over 90% of people-to-business payments still cash.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "National Payment Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Switch",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

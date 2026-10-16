@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-08-comesa-cmi-big-data-macroeconomic-statistics",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

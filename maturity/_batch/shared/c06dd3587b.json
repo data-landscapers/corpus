@@ -1,0 +1,10 @@
+{"slug":"2025-08-25-irps-tax-mobile-money-agents-clubofmozambique","studies":{
+"businesspayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Bank of Mozambique is cited for statistics only; no licensing or oversight role stated."}}},
+"consumerprotection":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No payment to people stated."}}},
+"paymentsuptake":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Only account counts, no survey share of adults."}}},
+"retailpayments":{"countries":{"MOZ":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mozambique has three electronic money institutions run by the three mobile operators (M-Pesa, e-Mola, M-kesh) providing money transfers and payment for services by mobile phone, with 19,870,700 e-money customers, per Club of Mozambique citing the Bank of Mozambique.","as_of":"2024-12","date_precision":"month","system":"M-Pesa, e-Mola, M-kesh","class":"retail"}],"systems":[{"system":"M-Pesa","country_label":"Mozambique","class":"retail","platform":"","owner":"mobile operator","tiers":""},{"system":"e-Mola","country_label":"Mozambique","class":"retail","platform":"","owner":"mobile operator","tiers":""},{"system":"M-kesh","country_label":"Mozambique","class":"retail","platform":"","owner":"mobile operator","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document concerns taxing agent commissions, not electronic payment of tax."}}}
+}}

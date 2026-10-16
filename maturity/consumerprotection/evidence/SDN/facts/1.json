@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-04-sudan-cbos-al-asjad-license-revoked",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Central Bank of Sudan revoked Al-Asjad's licence after a technical and legal committee review, and said it had taken measures to protect customers' rights.",
+   "as_of": "2026-07-04",
+   "date_precision": "day",
+   "system": "electronic payment system licensing",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

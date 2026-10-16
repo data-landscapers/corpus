@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-28-belmoney-digipay-instant-transfer-app-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DigiTransfer",
+   "country_label": "Republic of Congo",
+   "class": "crossborder",
+   "platform": "Android and iOS app over Visa and Mastercard networks",
+   "owner": "DigiPay Group and Belmoney",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this for the country."
+}

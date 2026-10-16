@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-31-itweb-co-za-samsung-digital-wallet",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ITWeb reports that Samsung Wallet users in South Africa can now pay by scanning QR codes through EFT Corp's Scan to Pay, which is accepted at more than 600 000 locations.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "Scan to Pay (Samsung Wallet)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Scan to Pay",
+       "country_label": "ZAF",
+       "class": "retail",
+       "platform": "Samsung Wallet",
+       "owner": "EFT Corp",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,centralbank,mandate,coverage,licensing,2023-11,CMR-007,,
+CMR,centralbank,switch,coverage,overseen,2026-07-29,CMR-006;CMR-008;CMR-010,,
+CMR,centralbank,regional,coverage,linked,2026-07-29,CMR-001;CMR-002;CMR-003;CMR-004;CMR-005;CMR-009;CMR-011,,

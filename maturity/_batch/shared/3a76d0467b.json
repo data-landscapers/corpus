@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-08-rwa-igihe-rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The National Bank of Rwanda governor said retail payments rose 36% to Rwf27.8 trillion in the first half of 2026 and that mobile payments were among the key drivers of digital transaction growth.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "mobile payments",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile payments",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

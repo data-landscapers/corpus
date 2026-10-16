@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-10-fintechtimes-guinea-bissau-fintech-landscape",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "As a UEMOA member Guinea-Bissau uses the BCEAO-managed regional payments architecture, with RTGS and automated clearing being modernised, per the Fintech Times.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "BCEAO regional payments architecture",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

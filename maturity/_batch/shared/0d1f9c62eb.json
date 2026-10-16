@@ -1,0 +1,10 @@
+{"slug":"2025-06-17-gabon-payments-interoperability-gimac","studies":{
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No public procurement system stated."}}},
+"centralbank":{"countries":{"GAB":{"facts":[],"systems":[{"system":"Gimac QR code","country_label":"Gabon","class":"other","platform":"Gimac","owner":"Gimac","tiers":""}],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Gabon's digital economy ministry sources say the Gimac QR code already unifies payment platforms in the sub-region.","as_of":"2025-06-17","date_precision":"day","system":"Gimac QR code","class":"crossborder"}],"systems":[{"system":"Gimac QR code","country_label":"Gabon","class":"crossborder","platform":"Gimac","owner":"Gimac","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"Gabon's digital economy ministry sources say the Gimac QR code already unifies payment platforms, is interoperable and is compatible with other payment applications.","as_of":"2025-06-17","date_precision":"day","system":"Gimac QR code","class":"retail"}],"systems":[{"system":"Gimac QR code","country_label":"Gabon","class":"retail","platform":"Gimac","owner":"Gimac","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

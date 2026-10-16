@@ -1,0 +1,10 @@
+{"slug": "2026-08-29-rwanda-bnr-digital-payment-fraud", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "BNR reports fraud and payment figures; no mandate, licensing or switch role stated."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Fraud case counts are not rules, complaints or sanctions."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Payment values, not a survey share of adults."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Retail digital payment values stated, but no mobile money or e-money service named."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

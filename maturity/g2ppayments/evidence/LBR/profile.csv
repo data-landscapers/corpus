@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,g2p,payment,coverage,inservice,2026-08-16,LBR-001;LBR-004;LBR-006,LBR-003=underway;LBR-007=underway,
+LBR,g2p,streams,coverage,several,2025-10-27,LBR-005,,
+LBR,g2p,linked,coverage,linked,2026-05-06,LBR-002,,

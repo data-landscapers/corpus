@@ -1,0 +1,86 @@
+{
+ "slug": "2026-08-09-botswana-absa-taxi-cashless-payment-financing",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Absa MobiTap",
+       "country_label": "Botswana",
+       "class": "other",
+       "platform": "",
+       "owner": "Absa Bank Botswana",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

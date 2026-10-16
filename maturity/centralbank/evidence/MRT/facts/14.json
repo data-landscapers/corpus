@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14-gimtel-interbank-transactions-launch",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "GIMTEL interconnection",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMTEL interconnection",
+   "country_label": "Mauritania",
+   "class": "oversight",
+   "platform": "interbank switch for bank apps and e-wallets",
+   "owner": "GIMTEL",
+   "tiers": "BreadCash, Bamis Digital, BCI Pay, Bankili, Amanti, Sedad, Qlik joined; others in testing"
+  }
+ ],
+ "note": ""
+}

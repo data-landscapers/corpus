@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-04-regional-almanassa-papss-african-payment-system-explainer",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Al Manassa says the Central Bank of Egypt joined PAPSS two years after its 2022 launch.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Al Manassa says six Egyptian banks have applied to join PAPSS, with plans to link InstaPay for personal transactions.",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank/AU",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

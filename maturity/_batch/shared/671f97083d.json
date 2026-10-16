@@ -1,0 +1,19 @@
+{"slug":"2025-10-07-lancement-pi-spi-uemoa","studies":{
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"BCEAO designed and launched the interoperable instant payment platform PI-SPI on 30 September 2025, connecting banks, microfinance institutions and e-money and payment institutions, with dozens already connected.","as_of":"2025-09-30","date_precision":"day","system":"PI-SPI","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"The eight WAEMU countries, Benin included, met the technical requirements for the BCEAO regional instant payment platform PI-SPI, launched 30 September 2025.","as_of":"2025-09-30","date_precision":"day","system":"PI-SPI","class":"oversight"}],
+"systems":[{"system":"PI-SPI","country_label":"Benin","class":"retail","platform":"","owner":"BCEAO","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No consumer protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Benin is among the eight WAEMU countries on the BCEAO PI-SPI instant payment platform launched 30 September 2025, letting a Senegalese merchant receive money instantly from a Beninese customer.","as_of":"2025-09-30","date_precision":"day","system":"PI-SPI","class":"crossborder"}],
+"systems":[{"system":"PI-SPI","country_label":"Benin","class":"crossborder","platform":"","owner":"BCEAO","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Salaries and social aid are named only as payments PI-SPI facilitates, not as paid through it."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The 74% inclusion rate is a WAEMU figure with no survey named."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"BCEAO launched PI-SPI on 30 September 2025, letting anyone with an account at a bank, microfinance institution or e-money or payment institution connected to it send and receive money instantly across WAEMU, whatever the provider.","as_of":"2025-09-30","date_precision":"day","system":"PI-SPI","class":"retail"}],
+"systems":[{"system":"PI-SPI","country_label":"Benin","class":"retail","platform":"","owner":"BCEAO","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"The Senegalese finance minister said PI-SPI, launched 30 September 2025, facilitates payments of taxes, duties and fees among other operations.","as_of":"2025-09-30","date_precision":"day","system":"PI-SPI","class":"revenue"}],
+"systems":[],"note":""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "African Manager reports the Central Bank of Tunisia has adopted PAPSS, described as infrastructure for instant cross-border transactions in local currencies.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Tunisia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNQ,retail,service,coverage,inservice,2026-03-29,GNQ-002;GNQ-004;GNQ-006,GNQ-005=none,
+GNQ,retail,interop,coverage,interop,2026-07-29,GNQ-001;GNQ-003;GNQ-007,,
+GNQ,retail,switch,coverage,national,2023-11,GNQ-008,,

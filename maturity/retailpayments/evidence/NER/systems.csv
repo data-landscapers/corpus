@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Bank to Wallet / Wallet to Bank,Niger,retail,,Banque Atlantique Niger and NITA,,2026-06-29-banque-atlantique-nita-bank-to-wallet-interoperability-lesahel
+NER,Airtel Money,Niger,retail,mobile money,Airtel Money Niger SA,,2026-10-02-ner-actuniger-soniloga-airtel-money
+NER,Airtel Money Niger,Niger,retail,e-wallet,Airtel Money Niger SA,,2026-08-25-actuniger-airtel-money-transfert-international
+NER,PI-SPI,Niger,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pispi-communique
+NER,PI-SPI,Niger,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
+NER,e-money issuers (EME),Niger,retail,,licensed EME,,2026-08-27-horonyafinance-umoa-monnaie-electronique-2025
+NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026

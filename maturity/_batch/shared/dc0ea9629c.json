@@ -1,0 +1,17 @@
+{"slug": "2025-12-11-gabon-madigipaie-digital-payments-launch", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [{"system": "MaDigiPaie", "country_label": "Gabon", "class": "other", "platform": "GIMACPAY QR", "owner": "Government of Gabon with BEAC / GIMAC", "tiers": ""}], "note": "BEAC and GIMAC implement the programme, but no licensing, switch oversight or regional link is stated."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No consumer-protection rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "In late October 2025 the Gabonese government began a pilot to digitize social and tax payments, with full deployment scheduled for January 2026 (Ecofin Agency).", "as_of": "2025-10", "date_precision": "month", "system": "digitization of social and tax payments", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only counts of mobile money accounts, no survey share of adults."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Ministry of Economy reported 4.5 million mobile money accounts at end-2024, 1.6 million active, with operators processing 368.3 million transactions worth CFA4,087 billion in 2024; MaDigiPaie lets citizens pay by mobile money by scanning a GIMACPAY QR code (Ecofin Agency).", "as_of": "2024-12", "date_precision": "month", "system": "mobile money", "class": "retail"}
+], "systems": [{"system": "MaDigiPaie", "country_label": "Gabon", "class": "retail", "platform": "GIMACPAY QR", "owner": "Government of Gabon with BEAC / GIMAC", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "In late October 2025 the Gabonese government began a pilot to digitize social and tax payments, with full deployment scheduled for January 2026; earlier in 2025 it engaged Visa to modernize tax collection (Ecofin Agency).", "as_of": "2025-10", "date_precision": "month", "system": "digitization of social and tax payments", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "On 21 November 2025 the Gabonese government launched a project to digitize payments for e-visa applications (Ecofin Agency).", "as_of": "2025-11-21", "date_precision": "day", "system": "e-visa payment digitization", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

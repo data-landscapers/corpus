@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-gha-bog-governor-remarks-saopay-launch",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of Ghana's Updated Guidelines for Inward Remittance Services set a framework for DEMIs and Enhanced PSPs partnering with Money Transfer Operators.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Inward Remittance Services Guidelines",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

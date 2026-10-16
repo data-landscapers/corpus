@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-09-ethiopia-digital-payment-conference-2-launch-ndps-2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Instant Payment System",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "EthSwitch S.C.",
+   "tiers": ""
+  }
+ ],
+ "note": "Agenda lists a launch of the Instant Payment System but states nothing about its service or reach."
+}

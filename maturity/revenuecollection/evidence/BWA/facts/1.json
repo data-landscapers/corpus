@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-16-botswana-digital-tax-rules-e-invoicing",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Andersen says Botswana's tax rules in force from 1 July 2026 make electronic billing and invoicing mandatory and support tax administration with digital filing, with compliance deadlines still to apply.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "BURS e-invoicing and e-billing",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BURS e-invoicing and e-billing",
+   "country_label": "Botswana",
+   "class": "revenue",
+   "platform": "",
+   "owner": "BURS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

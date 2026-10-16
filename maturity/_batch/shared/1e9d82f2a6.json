@@ -1,0 +1,117 @@
+{
+ "slug": "2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Togo First reports BCEAO launched the interoperable instant payments platform on 30 September 2025 for 24/7 transfers across the eight UEMOA countries, including Togo, with Coris Bank, Ecobank and Orabank operating on it in Togo.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "PI-PSI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "BCEAO instant payments platform",
+       "owner": "BCEAO",
+       "tiers": "banks, microfinance institutions, e-money issuers, payment service providers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Togo First reports BCEAO launched the interoperable instant payments platform on 30 September 2025 for 24/7 transfers across the eight UEMOA countries, including Togo, with Coris Bank, Ecobank and Orabank operating on it in Togo.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "PI-PSI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "BCEAO instant payments platform",
+       "owner": "BCEAO",
+       "tiers": "banks, microfinance institutions, e-money issuers, payment service providers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Togo on this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+# Togo
+
+## Governance role of central bank
+
+**Licensing providers.** [Mixx holds an e-money institution licence (agrement) from the BCEAO](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>). [The BCEAO widened market access in Togo by licensing new fintech players, per Togo First](<https://www.togofirst.com/fr/finance/1803-18503-togo-le-nombre-de-comptes-de-monnaie-electronique-a-progresse-de-76-87-en-un-an>). [TechCabal reports the BCEAO granted Togolese fintech Semoa its Level 3 payment institution accreditation on 29 January 2026, the first of its kind for a Togolese company](<https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/>). [TechCabal says INTOUCH Togo obtained its BCEAO electronic money institution licence in June 2025](<https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/>).
+
+**Overseeing a switch.** [LeFaso.net reports that the BCEAO, which sets the connection deadlines for banks, e-money and payment institutions and microfinance, launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions connected by 24 June 2026](<https://lefaso.net/spip.php?article147670>). [Togo First says BCEAO's PI-SPI instant-payment platform, launched in September 2025, lets Togo's six BCEAO-authorised institutions transfer funds instantly 24 hours a day](<https://www.togofirst.com/fr/finance/0603-18394-bceao-six-acteurs-autorises-a-ouvrir-au-public-les-services-de-paiement-instantane-au-togo>).
+
+**Linked regionally.** [LeFaso.net reports that PI-SPI is a BCEAO instant payment platform across the UEMOA, in service since 30 September 2025](<https://lefaso.net/spip.php?article147670>). [Mixx Togo joined the BCEAO's PI-SPI platform, and Ecobank, Orabank and Bank of Africa in Togo are connected to it](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>). [Togo is part of the rollout of the interoperable instant payment platform PI-SPI, though adoption remains very gradual, per Togo First](<https://www.togofirst.com/fr/finance/1803-18503-togo-le-nombre-de-comptes-de-monnaie-electronique-a-progresse-de-76-87-en-un-an>).
+
+***Noted, not assessed***. [PI-SPI](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>); [Mixx](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>).
+
+***Not held***. Nothing further is asked of this indicator.

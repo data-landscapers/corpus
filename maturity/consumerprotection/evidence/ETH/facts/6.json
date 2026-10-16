@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-03-eth-reporter-digital-transaction-costs-fraud-gaps-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The NFIS II assessment, reported by The Reporter, says NFIS II established a dedicated financial consumer protection directorate that achieved a 90 percent complaint resolution rate.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "financial consumer protection directorate",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The NFIS II assessment reports a 90 percent complaint resolution rate for the financial consumer protection directorate.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "financial consumer protection directorate",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "financial consumer protection directorate",
+   "country_label": "Ethiopia",
+   "class": "protection",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

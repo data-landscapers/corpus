@@ -1,0 +1,4 @@
+{"slug":"2026-10-07-mwi-ppda-maneps-world-bank","facts":[
+{"sub_indicator":"business","aspect":"system","value":"inservice","fact":"The PPDA reports that 562 tenders have been published on MANePS to date and 560 procurement notices recorded, as of 5 October 2026.","as_of":"2026-10-05","date_precision":"day","system":"MANePS","class":"procurement"},
+{"sub_indicator":"business","aspect":"reported","value":"reported","fact":"The PPDA reports MANePS had 7,417 registered suppliers, 216 of 250 targeted 2026/27 procurement plans published (86 percent), 560 procurement notices and 562 tenders as of 5 October 2026.","as_of":"2026-10-05","date_precision":"day","system":"MANePS","class":"procurement"}],
+"systems":[{"system":"MANePS","country_label":"Malawi","class":"procurement","platform":"Malawi National Electronic Procurement System","owner":"PPDA","tiers":""}],"note":""}

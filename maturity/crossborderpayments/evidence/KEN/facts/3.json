@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-17-ken-tech-ish-papss-growth-pesalink-termination-switch",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Kenya is on PAPSS: the central bank joined in September 2023, KCB went live in March 2025 and Pesalink plugged into PAPSS in February 2026, per tech-ish.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Through the Pesalink link to PAPSS, mobile money wallets in Kenya became a valid destination for inbound African payments, and Pesalink is piloted for termination of PAPSS transactions, per tech-ish.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "PAPSS via Pesalink",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Kenya",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  },
+  {
+   "system": "Pesalink",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "bank-owned switch",
+   "owner": "banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

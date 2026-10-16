@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,East African Payment System,Burundi,crossborder,,,,2026-10-10-bdi-burunditimes-eapss-paiements
+BDI,BurundiPay,Burundi,other,,,,2026-08-19-channelafrica-burundi-comesa-payment-integration
+BDI,COMESA Regional Payment and Settlement System,COMESA,crossborder,,COMESA,,2026-08-19-channelafrica-burundi-comesa-payment-integration
+BDI,Digital Regional Payment Platform,COMESA,crossborder,,COMESA,,2026-08-19-channelafrica-burundi-comesa-payment-integration
+BDI,East African Payment System (EAPS),Burundi,crossborder,regional payment system,EAC central banks,,2026-08-19-theeastafrican-burundi-eaps-december-2026
+BDI,PAPSS,Burundi,crossborder,,AfCFTA/Afreximbank,,2026-08-06-afcfta-secretary-general-begins-official-mission-to-burundi
+BDI,PAPSS,Burundi,crossborder,,,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
+BDI,EAC regional cross-border payment system (Masterplan),Burundi,crossborder,,EAC Monetary Affairs Committee,,2026-07-27-burundi-eac-regional-payment-system-acceleration
+BDI,EARDIP,Burundi,other,,EAC,,2026-07-27-burundi-eac-regional-payment-system-acceleration
+BDI,PAPSS,Burundi,other,,Afreximbank and African Union,,2026-05-08-brb-interoperabilite-paiements-papss

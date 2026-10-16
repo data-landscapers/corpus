@@ -1,0 +1,77 @@
+{
+ "slug": "2026-05-15-electronic-payment-latest-figures-echorouk",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no mobile money, switch or other study fact stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-07-08-moov-africa-togo-mobile-money-services","studies":{
+"businesspayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing stated on e-procurement."}}},
+"centralbank":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Only the telecoms regulator ARCEP is cited; no central bank role stated."}}},
+"consumerprotection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The 57.2% is a service penetration of population, not a survey share of adults with an account."}}},
+"retailpayments":{"countries":{"TGO":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Togo First reports that Togo had nearly 4.96 million mobile money subscribers at end September 2025, and that Mixx (YAS Togo) and Flooz (Moov Africa Togo) operate the market per ARCEP data, with Moov launching insurance payments, card-less withdrawal transfers and gift cards on 7 July 2026.","as_of":"2026-07","date_precision":"month","system":"Flooz / Moov Money","class":"retail"}],"systems":[{"system":"Flooz (Moov Money)","country_label":"Togo","class":"retail","platform":"mobile money","owner":"Moov Africa Togo","tiers":""},{"system":"Mixx","country_label":"Togo","class":"retail","platform":"mobile money","owner":"YAS Togo","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Only a sidebar mention of 'téléfiscalité' with no stated payment service."}}}
+}}

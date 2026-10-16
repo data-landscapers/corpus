@@ -1,0 +1,105 @@
+{
+ "slug": "2026-09-01-digitalmag-uemoa-monnaie-electronique-senegal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says Wave holds close to 80% (CFAF 459 billion outstanding) and Orange Money Senegal 19% (CFAF 106 billion) of Senegal's e-money market, per the WAEMU Banking Commission report.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "Wave; Orange Money Senegal",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Wave",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money Senegal",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

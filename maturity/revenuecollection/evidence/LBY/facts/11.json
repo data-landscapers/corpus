@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16-cbl-epaix-softpos-visa-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Libyan prime minister said the government has adopted electronic payment as the official means of collecting government fees and dues.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "electronic payment of government fees",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

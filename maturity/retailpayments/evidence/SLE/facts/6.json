@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud",
+ "facts": [
+  {
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Minister told Parliament that Orange Sierra Leone recorded about 390 mobile money fraud complaints in 2026 and operators can freeze mobile money wallets.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail",
+   "sub_indicator": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "2026-10-08-zwe-herald-papss-5-8-million-a-month-afreximbank-ceo-roundtable",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Afreximbank says Zimbabwe is processing $5.8 million a month through PAPSS, and that most banks in Southern Africa have joined it.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Afreximbank's Peter Olowononi says Zimbabwe processes $5.8 million a month through PAPSS, which also clears Chinese currency via a CIPS link.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "Afreximbank's Olowononi cites Zimbabwe statistics of $5.8 million a month through PAPSS.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "Afreximbank clearing",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

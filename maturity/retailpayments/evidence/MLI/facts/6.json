@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-02-bceao-liste-participants-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCEAO list names Orange Finances Mobiles Mali among Mali's institutions authorised to open PI-SPI services to the public.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Orange Finances Mobiles Mali",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Mali's 12 PI-SPI participants include banks, Orange Finances Mobiles Mali and microfinance institutions, authorised to open the interoperable platform to the public on 2 April 2026.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "regional instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Finances Mobiles Mali",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "MOZ",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "Adianta-La",
+   "country_label": "MOZ",
+   "class": "other",
+   "platform": "M-Pesa",
+   "owner": "Maximo Microbanco",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this study for Mozambique."
+}

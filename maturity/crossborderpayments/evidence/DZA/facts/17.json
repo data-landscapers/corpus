@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The document says Algeria later joined PAPSS's own IPS as its 18th member.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Algeria",
+   "class": "crossborder",
+   "platform": "continental payment system",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

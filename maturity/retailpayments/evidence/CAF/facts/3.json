@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GIMAC said that in the first half of 2026 payment institutions and mobile money operators, including those of the Central African Republic, dominate GIMACPAY transaction volumes.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "GIMACPAY links 56 banks, 26 microfinance institutions, 16 payment institutions and mobile money operators and 52 aggregators across the CEMAC, which processed 20.3 million transactions in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

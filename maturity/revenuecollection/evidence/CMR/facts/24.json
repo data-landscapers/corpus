@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "AfricaNenda says GIMACPAY enables tax payments and e-government services, and the treasury of Cameroon is the only treasury connected to date.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

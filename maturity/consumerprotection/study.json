@@ -1,0 +1,148 @@
+{
+ "id": "consumerprotection",
+ "study_file": "maturity-study-consumerprotection.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--consumer-protection"
+ ],
+ "carry": [
+  "dpi.pay--consumer-protection"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "consumer protection",
+  "financial consumer",
+  "digital lending",
+  "digital lenders",
+  "ombudsman",
+  "mobile money fraud",
+  "protection des consommateurs",
+  "défense des consommateurs",
+  "protecção do consumidor",
+  "proteção do consumidor",
+  "حماية المستهلك"
+ ],
+ "sub_indicators": [
+  {
+   "key": "protection",
+   "label": "Consumer protection",
+   "subject": "dpi.pay",
+   "text": "Consumer protection: consumer protection",
+   "indicator_id": "dpi.pay--consumer-protection-consumer-protection",
+   "class": "protection",
+   "norm_short": "The African Union's Digital Transformation Strategy asks for consumer protection in digital financial services across disclosure, responsible lending, data privacy and dispute resolution.",
+   "criteria": [
+    "A source from the past three years says no consumer-protection rules apply to digital financial services.",
+    "Consumer-protection rules for digital financial services are being drafted.",
+    "Consumer-protection or conduct rules covering digital financial services or digital lending are in force.",
+    "A financial ombudsman or a regulator's complaints unit takes complaints about digital financial services.",
+    "A source from the past three years reports a fine, sanction, licence withdrawal or complaint figures under these rules."
+   ],
+   "criteria_of": "1cc88768421b"
+  }
+ ],
+ "classes": [
+  "protection",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "rules",
+   "name": "Rules in force",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inforce",
+    "draft"
+   ],
+   "values": [
+    "inforce",
+    "draft",
+    "none"
+   ]
+  },
+  {
+   "key": "redress",
+   "name": "Complaints handled",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "redress"
+   ],
+   "values": [
+    "redress"
+   ]
+  },
+  {
+   "key": "enforced",
+   "name": "Enforcement reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "enforced"
+   ],
+   "values": [
+    "enforced"
+   ]
+  }
+ ],
+ "flags": []
+}

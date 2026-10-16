@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-29-worldbank-dfs-inclusion-growth-mali",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank says Mali had 935 mobile money accounts per 1,000 adults in 2021, with mobile money rising from 21% to 65% of GDP between 2015 and 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-20-papss-im-bank-kenya-go-live-techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "TechReviewAfrica reports PAPSS is now available to customers of I&M Bank Kenya, who can send money across participating African markets in Kenyan shillings through branches.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Kenya",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

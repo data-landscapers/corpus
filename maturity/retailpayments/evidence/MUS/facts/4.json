@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-mus-platformafrica-pulse-of-fintech-2026-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "fintech platform account transfers",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-23-zimbabwe-electronic-transactions-top-zig1-trillion-zimswitch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZimSwitch",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "ZimSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": "The Reserve Bank spoke at the conference, but no mandate, licensing or oversight of the switch is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The Herald reports the Reserve Bank of Zimbabwe oversees mobile money by directive: a 2021 directive enforced one line, one wallet, and the February 2026 Monetary Policy Statement directed operators to verify customers by 30 June 2026.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "RBZ mobile money directives",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RBZ mobile money directives",
+   "country_label": "Zimbabwe",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

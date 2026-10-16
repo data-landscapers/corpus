@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-15-gamswitch-iidia-gambia-launches-bantaba-2-0-interoperable-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Gamswitch release says the Central Bank of The Gambia provided regulatory leadership and oversight for BANTABA 2.0, the national switch that went live after a pilot and is operated by Gamswitch.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANTABA 2.0",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Gamswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

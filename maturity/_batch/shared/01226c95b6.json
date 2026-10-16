@@ -1,0 +1,13 @@
+{"slug":"2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil","studies":{
+"businesspayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Payments described are to local authorities, not to people."}}},
+"paymentsuptake":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No account-ownership survey stated."}}},
+"retailpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No mobile money or wallet service named."}}},
+"revenuecollection":{"countries":{"MLI":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Mali's digital payment system at civil registry centres is in service and mobilised nearly FCFA 200 million for local authorities between July 2024 and May 2026, per the Ministry of Territorial Administration and Decentralisation.","as_of":"2026-05","date_precision":"month","system":"digital payment at civil registry centres","class":"revenue"},
+{"sub_indicator":"revenue","aspect":"reported","value":"reported","fact":"The ministry reported nearly FCFA 200 million collected for local authorities through digital payment between July 2024 and May 2026.","as_of":"2026-05","date_precision":"month","system":"digital payment at civil registry centres","class":"revenue"}
+],"systems":[{"system":"digital payment at civil registry centres","country_label":"Mali","class":"revenue","platform":"","owner":"Ministry of Territorial Administration and Decentralisation","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2026-08-06-compcom-approves-capitecs-walletdoc-acquisition", "studies": {
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "PayShap", "country_label": "South Africa", "class": "other", "platform": "Rapid Payments Programme", "owner": "", "tiers": ""}], "note": "The regulator is the Competition Commission, not the central bank."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Competition conditions only; no consumer rule stated."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Capitec Pay is a bank-to-bank online payment service that lets clients pay on websites and apps using their phone number, and PayShap and the Rapid Payments Programme rail are named as competing payment rails (ITWeb, 6 August 2026).", "as_of": "2026-08-06", "date_precision": "day", "system": "Capitec Pay", "class": "retail"}], "systems": [{"system": "Capitec Pay", "country_label": "South Africa", "class": "retail", "platform": "", "owner": "Capitec Bank", "tiers": ""}, {"system": "PayShap", "country_label": "South Africa", "class": "retail", "platform": "Rapid Payments Programme", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

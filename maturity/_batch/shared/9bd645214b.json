@@ -1,0 +1,137 @@
+{
+ "slug": "2026-04-03-bceao-adhesion-pi-spi-30-juin",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "BCEAO's PI-SPI instant-payment platform, launched 30 September 2025, has 80 institutions connected in the WAEMU region as of 2 April 2026, with a 30 June 2026 deadline for operators to join (Togo First).",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "WAEMU / Togo",
+       "class": "retail",
+       "platform": "instant payment platform",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money institutions, microfinance, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PI-SPI, a 24/7 interoperable instant-payment platform across the WAEMU, was launched on 30 September 2025 and has 80 institutions connected as of 2 April 2026 (Togo First).",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "WAEMU / Togo",
+       "class": "retail",
+       "platform": "instant payment platform",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money institutions, microfinance, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "PI-SPI lets banks, e-money institutions, microfinance institutions and payment institutions transact instantly across the WAEMU; 80 are connected including 59 banks and 9 e-money institutions (Togo First).",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "WAEMU / Togo",
+       "class": "retail",
+       "platform": "instant payment platform",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money institutions, microfinance, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

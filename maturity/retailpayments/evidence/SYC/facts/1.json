@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-14-fusepay-psp-licence-approval",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Fusepay says its CBS PSP licence lets it run digital money accounts and instant payments, with first live transactions still to come.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "Fusepay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fusepay",
+   "country_label": "Seychelles",
+   "class": "retail",
+   "platform": "digital money accounts, instant payments, FuseCheq",
+   "owner": "Fusepay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

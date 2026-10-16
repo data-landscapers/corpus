@@ -1,0 +1,77 @@
+{
+ "slug": "2026-08-12-beac-communique-mise-en-production-systac2",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a regional CEMAC communique and does not name Equatorial Guinea."
+    }
+   }
+  }
+ }
+}

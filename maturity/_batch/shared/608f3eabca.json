@@ -1,0 +1,107 @@
+{
+ "slug": "2025-09-04 Visa Pay launches to expand digital payments across the DRC",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Visa launched Visa Pay in the DRC on 4 September 2025, a mobile-first service letting consumers pay, get paid and move money.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "Visa Pay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Visa says Visa Pay moves money across participating banks and mobile networks with near-real-time account-to-account transfers.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "Visa Pay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Visa Pay",
+       "country_label": "DRC",
+       "class": "retail",
+       "platform": "Visa",
+       "owner": "Visa Inc.",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

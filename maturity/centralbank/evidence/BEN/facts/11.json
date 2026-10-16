@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-07-lancement-pi-spi-uemoa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO designed and launched the interoperable instant payment platform PI-SPI on 30 September 2025, connecting banks, microfinance institutions and e-money and payment institutions, with dozens already connected.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The eight WAEMU countries, Benin included, met the technical requirements for the BCEAO regional instant payment platform PI-SPI, launched 30 September 2025.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

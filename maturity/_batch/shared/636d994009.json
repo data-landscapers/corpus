@@ -1,0 +1,10 @@
+{"slug":"2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"The Parish Development Model's Wendi system, managed by Pearl Bank, disburses the government programme's loans directly to beneficiaries' mobile phones, reaching 3,571,108 beneficiaries, as reported by the Ministry of Finance (14,133 Wendi agents recruited).","as_of":"2026-09-18","date_precision":"day","system":"Wendi","class":"g2p"}],"systems":[{"system":"Wendi","country_label":"Uganda","class":"g2p","platform":"mobile phone disbursement","owner":"Pearl Bank","tiers":""},{"system":"PDM Information System","country_label":"Uganda","class":"other","platform":"","owner":"Government of Uganda","tiers":""},{"system":"Integrated Financial Management Information System","country_label":"Uganda","class":"other","platform":"","owner":"Government of Uganda","tiers":""},{"system":"Zaidi","country_label":"Uganda","class":"other","platform":"","owner":"Government of Uganda","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Wendi is a government programme disbursement, not a retail service."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

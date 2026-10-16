@@ -1,0 +1,185 @@
+{
+ "slug": "2026-08-19-graphic-bog-digital-transaction-data-sme-financing",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The Bank of Ghana's Second Deputy Governor cites the new Digital Credit Service Providers Directive as regulation protecting consumers.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Digital Credit Service Providers Directive",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-cedi",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      },
+      {
+       "system": "Digital Credit Service Providers Directive",
+       "country_label": "Ghana",
+       "class": "protection",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The Bank of Ghana's Second Deputy Governor says the e-cedi pilot includes work on cross-border settlement.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "e-cedi",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-cedi",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      },
+      {
+       "system": "Digital Credit Service Providers Directive",
+       "country_label": "Ghana",
+       "class": "protection",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Ghana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Ghana's mobile money platforms processed 954 million transactions worth about GH¢493 billion in June 2026, with 26.4 million active accounts, says the Bank of Ghana's Second Deputy Governor.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-cedi",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      },
+      {
+       "system": "Digital Credit Service Providers Directive",
+       "country_label": "Ghana",
+       "class": "protection",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Ghana."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-03-eth-reporter-digital-transaction-costs-fraud-gaps-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "National Bank of Ethiopia data cited by The Reporter show total mobile money accounts at 157.6 million by June 2026, of which 29.56 percent were active.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

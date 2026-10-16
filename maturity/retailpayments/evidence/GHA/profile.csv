@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GHA,retail,service,coverage,inservice,2026-08,GHA-001;GHA-002;GHA-004;GHA-005;GHA-006;GHA-007;GHA-008;GHA-009;GHA-010,,
+GHA,retail,interop,coverage,interop,2026-08,GHA-003,,
+GHA,retail,switch,coverage,,,,,nothing held

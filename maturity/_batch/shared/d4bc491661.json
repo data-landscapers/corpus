@@ -1,0 +1,77 @@
+{
+ "slug": "2025-09-30-bceao-lancement-pispi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."
+    }
+   }
+  }
+ }
+}

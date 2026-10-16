@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,uptake,share,coverage,half,2026,SOM-002,SOM-001=quarter,
+SOM,uptake,target,coverage,target,2026,SOM-003,,
+SOM,uptake,payments,coverage,,,,,nothing held

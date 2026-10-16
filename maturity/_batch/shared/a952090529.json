@@ -1,0 +1,9 @@
+{"slug":"2026-03-31-namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No central bank role stated; Namclear is not identified as the central bank."}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Namclear has joined the SADC TCIB network operated with PayInc, connecting Namibian banks and authorised non-bank institutions to near-instant cross-border push payments.","as_of":"2026-03-31","date_precision":"day","system":"TCIB","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"Namclear says TCIB services will allow consumers and businesses to send money between Namibia, South Africa and other Common Monetary Area countries.","as_of":"2026-03-31","date_precision":"day","system":"TCIB","class":"crossborder"}],"systems":[{"system":"TCIB","country_label":"Namibia","class":"crossborder","platform":"","owner":"SADC Bankers' Association, operated by PayInc","tiers":""},{"system":"Namclear","country_label":"Namibia","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only cross-border bank push payments stated, no retail wallet service."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Not stated."}}}}}

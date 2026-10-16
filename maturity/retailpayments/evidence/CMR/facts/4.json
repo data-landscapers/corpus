@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-gabonreview-beac-qr-code-interoperable-cemac",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BEAC says the QR code launched 29 July 2026 lets any bank or microfinance mobile app read any merchant's code regardless of institution or CEMAC country.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "CEMAC interoperable QR code",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEMAC interoperable QR code",
+   "country_label": "CEMAC",
+   "class": "retail",
+   "platform": "EMVCo",
+   "owner": "BEAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

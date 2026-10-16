@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-01-bcv-sistema-de-pagamentos",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Banco de Cabo Verde says payment institutions and e-money institutions must be authorised by it to provide payment services or issue e-money, under Decree-Laws 8/2018 and 9/2018 and Aviso 6/2019.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Instituições de Pagamento e de Moeda Eletrónica",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Banco de Cabo Verde says it manages SICIL, the interbank clearing system for cheques, credit transfers and payment cards operated by SISP, and oversees the payment system under its oversight policy.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SICIL",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SICIL (Sistema Integrado de Compensação Interbancária e Liquidação)",
+   "country_label": "Cabo Verde",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Banco de Cabo Verde, operated by SISP",
+   "tiers": "cheques, credit transfers, cards"
+  },
+  {
+   "system": "SGDL",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "Banco de Cabo Verde",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMA",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "Banco de Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

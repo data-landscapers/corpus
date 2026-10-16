@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Central Bank of Libya letter of 4 March 2026 requires banks to activate the LYPay instant payment system within banking apps so customers can pay at POS by scanning a QR code, and calls for a joint bank campaign to promote it.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "LYPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LYPay",
+   "country_label": "Libya",
+   "class": "retail",
+   "platform": "instant payment system in banking apps",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

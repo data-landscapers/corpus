@@ -1,0 +1,86 @@
+{
+ "slug": "2026-08-26-uk-south-sudan-fintech-cooperation-itweb",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Payment System",
+       "country_label": "South Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+    }
+   }
+  }
+ }
+}

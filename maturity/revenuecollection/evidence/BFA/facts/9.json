@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-28-allafrica-ecnss-burkina-application-lancement",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The CNSS social-security fund launched the eCNSS Burkina app on 28 October 2025, which lets employers pay contributions by bank transfer order or mobile money.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "eCNSS Burkina",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

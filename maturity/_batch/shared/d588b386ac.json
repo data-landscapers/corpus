@@ -1,0 +1,10 @@
+{"slug":"2026-09-18-papss-security-data-governance-dailycircular","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document names Niger only in passing on PAPSS and says nothing on e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"No statement about the Niger central bank; Niger appears only in a quote about the need for Nigeria-Niger transactions."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on consumer protection for Niger."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Niger","class":"crossborder","platform":"PAPSS","owner":"Afreximbank","tiers":""}],"note":"Niger is named only in a quote that banks need Nigeria-Niger transaction ability; the document does not say Niger takes part or that a corridor is in service."}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on government payments for Niger."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No survey share for Niger."}}},
+"retailpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on retail payments in Niger."}}},
+"revenuecollection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on revenue collection in Niger."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "4",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-005",
+   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
+  }
+ ]
+}

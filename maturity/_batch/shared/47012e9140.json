@@ -1,0 +1,10 @@
+{"slug":"2026-08-18-star-ruto-4-hustler-fund-has-built","studies":{
+"businesspayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Audit findings on a state fund are not conduct rules, complaints or sanctions."}}},
+"crossborderpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Loans, not government transfers, salaries or pensions."}}},
+"paymentsuptake":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"KEN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Hustler Fund CEO Henry Tanui said 95 per cent of an approved Hustler Fund loan is deposited into the borrower's mobile money wallet.","as_of":"2026-07","date_precision":"month","system":"mobile money","class":"retail"}],"systems":[{"system":"Hustler Fund","country_label":"Kenya","class":"other","platform":"*254#","owner":"","tiers":""},{"system":"mobile money","country_label":"Kenya","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

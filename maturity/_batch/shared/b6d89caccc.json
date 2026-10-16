@@ -1,0 +1,157 @@
+{
+ "slug": "2026-09-23-itu-dfs-security-lab-watra-crasa-eaco-artac",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a DFS security lab participant, which answers no question."
+    }
+   }
+  }
+ }
+}

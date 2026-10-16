@@ -1,0 +1,10 @@
+{"slug": "2026-07-24-actualitecd-cadeco-csp-paie-proximite-milieu-rural", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "CADECO and the Comite de suivi de la paie (CSP) validated final technical and organisational adjustments for deploying proximity pay of state agents and civil servants in rural DRC, with first operations to cover several rural zones.", "as_of": "2026-07-23", "date_precision": "day", "system": "paie de proximite", "class": "g2p"}], "systems": [{"system": "paie de proximite", "country_label": "RDC", "class": "g2p", "platform": "CADECO branches and ATMs", "owner": "CADECO / Comite de suivi de la paie", "tiers": ""}, {"system": "CADECO", "country_label": "RDC", "class": "other", "platform": "public savings bank", "owner": "State", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No mobile money or retail digital payment service stated."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

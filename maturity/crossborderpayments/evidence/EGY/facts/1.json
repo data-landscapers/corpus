@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-23-enterpriseam-instapay-papss-egypt-integration",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Afreximbank plans to connect PAPSS to Egypt's InstaPay, six Egyptian banks have applied to the Central Bank of Egypt for final integration approval, and a cross-border gateway layer still has to be built, said PAPSS chief executive Mike Ogbalu.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PAPSS-InstaPay link",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Egypt is described as one of the largest economies in the PAPSS network, which the Central Bank of Egypt agreed to join in November 2024.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23-mtn-momo-ura-enhance-digital-tax-services",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "MTN Mobile Money and the Uganda Revenue Authority announced an enhanced URA tax and government payment menu on *165*18#, live nationwide.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "MTN MoMo URA menu *165*18#",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo URA menu *165*18#",
+   "country_label": "Uganda",
+   "class": "revenue",
+   "platform": "MTN MoMo USSD",
+   "owner": "MTN Mobile Money (U) Limited with URA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

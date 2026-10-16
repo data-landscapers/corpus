@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-17-cbl-launches-iips-mobile-money-silos-fpa",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "FrontPage Africa says the IIPS pilot phase currently supports government-to-people transactions.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "IIPS (Pay Na-Na)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

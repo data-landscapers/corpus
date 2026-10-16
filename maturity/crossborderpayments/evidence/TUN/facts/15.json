@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-15 Bank of Algeria joins PAPSS network",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Afreximbank says PAPSS has expanded across North Africa including Tunisia.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Tunisia",
+   "class": "crossborder",
+   "platform": "regional payment and settlement system",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

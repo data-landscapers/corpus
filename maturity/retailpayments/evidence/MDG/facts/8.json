@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-mvola-director-general-interview-trust-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MVola mobile money is in service in Madagascar after sixteen years, with about six to seven million active mobile money users market-wide, per its director general.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "MVola",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MVola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-09-19-papss-14th-governing-council-nairobi-sisgov","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on public procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Egypt","class":"other","platform":"","owner":"","tiers":""}],"note":"The CBE governor sits on the PAPSS council and the CBE is only studying a mechanism for Egyptian banks to join; no service in place is stated."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Egypt","class":"other","platform":"","owner":"","tiers":""}],"note":"Egyptian bank participation in PAPSS is only being studied; no corridor piloted, licensed or in service is stated."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on retail payments."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on revenue collection."}}}
+}}

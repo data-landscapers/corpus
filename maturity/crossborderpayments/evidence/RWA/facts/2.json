@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-gha-gna-bog-cross-border-payment-pilots-rwanda-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Ghana News Agency reports the Bank of Ghana saying it is piloting cross-border interoperability with CBDCs, stablecoins, bank accounts and mobile wallets in the Ghana-Rwanda corridor.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Ghana-Rwanda pilot",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

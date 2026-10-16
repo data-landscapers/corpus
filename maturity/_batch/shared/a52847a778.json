@@ -1,0 +1,146 @@
+{
+ "slug": "2026-05-08-uncdf-clikpay-gabon-fintech-capital",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "COBAC is a supranational supervisor and no central bank role for Gabon is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "CLIKPAY offers sub-regional remittances across the CEMAC zone and holds a COBAC licence to operate as a payment service provider in all CEMAC countries.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "CLIKPAY",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CLIKPAY",
+       "country_label": "Gabon",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "CLIKPAY offers a smartphone and web payments platform for deposits, withdrawals and utilities in all nine Gabonese provinces, with over 5,000 merchants and agents.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "CLIKPAY",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "CLIKPAY has integrations with Airtel Money, Moov Money and GIMACPay, according to UNCDF.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "CLIKPAY",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CLIKPAY",
+       "country_label": "Gabon",
+       "class": "retail",
+       "platform": "smartphone and web platform",
+       "owner": "CLIKPAY Gabon",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPay",
+       "country_label": "CEMAC",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "CLIKPAY offers tax and duty payments among its services, according to UNCDF.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "CLIKPAY",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

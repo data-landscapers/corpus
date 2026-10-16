@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-26-ssmo-eisali-baldna-integration",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Sudanhorizon says Eisali is a unified electronic payment system launched by the Ministry of Finance for digital collection of government service fees.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "Eisali",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Sudanese Standards and Metrology Organization, with the Ministry of Finance, launched a pilot of paying standards certification fees through the Eisali-Baladna integration in Khartoum.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "Eisali",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eisali",
+   "country_label": "Sudan",
+   "class": "revenue",
+   "platform": "Baladna",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

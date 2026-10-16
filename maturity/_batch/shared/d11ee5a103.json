@@ -1,0 +1,88 @@
+{
+ "slug": "2026-05-05-bct-note-2026-132-label-national-tunpay",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The BCT note says Societe Monetique Tunisie manages the mobile payment system in Tunisia, and banks, the Post and payment institutions issue mobile wallets.",
+       "as_of": "2026-05-05",
+       "date_precision": "day",
+       "system": "TUNPAY",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  }
+ }
+}

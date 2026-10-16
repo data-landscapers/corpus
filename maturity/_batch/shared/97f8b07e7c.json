@@ -1,0 +1,171 @@
+{
+ "slug": "2025-11-14-fusepay-psp-licence-approval",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Central Bank of Seychelles gave Fusepay final approval to operate as a licensed Payment Service Provider.",
+       "as_of": "2025-11-14",
+       "date_precision": "day",
+       "system": "Fusepay PSP licence",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Fusepay says its CBS PSP licence lets it run digital money accounts and instant payments, with first live transactions still to come.",
+       "as_of": "2025-11-14",
+       "date_precision": "day",
+       "system": "Fusepay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fusepay",
+       "country_label": "Seychelles",
+       "class": "retail",
+       "platform": "digital money accounts, instant payments, FuseCheq",
+       "owner": "Fusepay",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  }
+ }
+}

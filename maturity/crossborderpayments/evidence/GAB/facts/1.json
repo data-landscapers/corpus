@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "GIMAC statistics presented on 30 July 2026 rank Moov Gabon and Airtel Gabon as the top two issuers in the CEMAC interoperable payments network in H1 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "GIMAC",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMAC",
+   "country_label": "CEMAC",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

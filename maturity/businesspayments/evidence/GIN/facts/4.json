@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Guinea rolled out TELEMO, a national e-procurement platform from a Guinea-Rwanda South-South partnership, officially launched on 17 November 2025 on behalf of the Head of State, per Smart Africa.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "TELEMO",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TELEMO",
+   "country_label": "Guinea",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

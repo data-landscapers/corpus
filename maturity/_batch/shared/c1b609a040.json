@@ -1,0 +1,10 @@
+{"slug": "2026-02-20-sao-tome-afi-second-demand-side-survey-financial-inclusion", "studies": {
+"businesspayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"centralbank": {"countries": {"STP": {"facts": [], "systems": [], "note": "The central bank ran a survey; no payments mandate stated."}}},
+"consumerprotection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"crossborderpayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"g2ppayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"paymentsuptake": {"countries": {"STP": {"facts": [], "systems": [], "note": "The page states no overall adult account share, only a women's index and a gender banking gap."}}},
+"retailpayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"revenuecollection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Not addressed."}}}
+}}

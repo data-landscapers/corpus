@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Deputy Prime Minister's Office says elderly grants are paid through commercial banks, and elderly and disabled grants through the MoMo mobile money platform, with bank-paid elderly grants moving to the 25th from August 2026.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Social Grant Disbursement System",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Grant Disbursement System",
+   "country_label": "Eswatini",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Deputy Prime Minister's Office with Royal Science and Technology Park",
+   "tiers": ""
+  },
+  {
+   "system": "MoMo",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

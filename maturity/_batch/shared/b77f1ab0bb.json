@@ -1,0 +1,137 @@
+{
+ "slug": "2025-10-01-uemoa-pi-spi-bceao-operationnel",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no Burkina-specific fact for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCEAO governor launched the interoperable instant payment platform PI-SPI on 30 September 2025, linking banks, e-money issuers, microfinance institutions and payment institutions across the UEMOA.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Burkina Faso",
+       "class": "oversight",
+       "platform": "BCEAO",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no Burkina-specific fact for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The BCEAO launched PI-SPI on 30 September 2025 for the eight UEMOA countries, with over 80 institutions engaged and 45 ready to start; Burkina Faso institutions followed the launch.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Burkina Faso",
+       "class": "crossborder",
+       "platform": "BCEAO",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no Burkina-specific fact for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no Burkina-specific fact for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "PI-SPI lets funds move instantly between banks, e-money issuers, microfinance institutions and payment institutions, 24/7, by phone number or alias, per the BCEAO governor.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "BCEAO",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no Burkina-specific fact for this study."
+    }
+   }
+  }
+ }
+}

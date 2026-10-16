@@ -1,0 +1,15 @@
+{"slug": "2025-12-15-gamswitch-iidia-gambia-launches-bantaba-2-0-interoperable-payment-system", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No public procurement system is mentioned."}}},
+"centralbank": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Gamswitch release says the Central Bank of The Gambia provided regulatory leadership and oversight for BANTABA 2.0, the national switch that went live after a pilot and is operated by Gamswitch.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "oversight"}
+], "systems": [{"system": "BANTABA 2.0", "country_label": "The Gambia", "class": "retail", "platform": "Mojaloop", "owner": "Gamswitch", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The deputy governor's remark on consumer protection names no rule or complaints body."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only future regional integration is mentioned, with no corridor or regional system in service."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Salary and social transfer payments are described as something the switch can support, with no programme named."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The release says BANTABA 2.0 allows instant transfers between bank accounts and mobile wallets, and funds to move between accounts regardless of provider.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The release says BANTABA 2.0 connects banks, mobile money operators, microfinance institutions, fintechs and PSPs through a single interoperable switch, live after a pilot, with further institutions to join.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "retail"}
+], "systems": [{"system": "BANTABA 2.0", "country_label": "The Gambia", "class": "retail", "platform": "Mojaloop", "owner": "Gamswitch", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Tax collection is named only as something the switch can support, with no tax or fee paid through it."}}}
+}}

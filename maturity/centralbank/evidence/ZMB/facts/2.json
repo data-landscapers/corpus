@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Financial Switch",
+   "country_label": "Zambia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not say the central bank runs or oversees the switch, licenses providers, or that Zambia is in a regional system in service; PAPSS is only under discussion."
+}

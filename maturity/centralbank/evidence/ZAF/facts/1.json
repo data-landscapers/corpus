@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "ASAPP says it has engaged the SARB on its Banks Act Exemption and Authorisation Framework, covering future authorisation of payment activities for regulated fintech payment providers.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "SARB authorisation framework",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment System Act / proposed NPS Bill",
+   "country_label": "South Africa",
+   "class": "oversight",
+   "platform": "",
+   "owner": "SARB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

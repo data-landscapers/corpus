@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Gabon is one of the CEMAC states on GIMACPAY, the regional platform that processed 20.3 million transactions worth FCFA 863 billion in 2025, with the BEAC among its 153 participants.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMACPAY",
+   "country_label": "Gabon",
+   "class": "oversight",
+   "platform": "",
+   "owner": "GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

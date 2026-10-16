@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-dabafinance-fusepay-preseed",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Daba Finance says Fusepay operates in Seychelles with a Payment Service Provider licence and central bank approval.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Fusepay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fusepay",
+   "country_label": "Seychelles",
+   "class": "oversight",
+   "platform": "B2B payments platform",
+   "owner": "Fusepay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

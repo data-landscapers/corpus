@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COG,centralbank,mandate,coverage,licensing,2023-11,COG-004,,
+COG,centralbank,switch,coverage,overseen,2023-11,COG-005,,
+COG,centralbank,regional,coverage,linked,2026-07-29,COG-001;COG-002;COG-003;COG-006;COG-007,,

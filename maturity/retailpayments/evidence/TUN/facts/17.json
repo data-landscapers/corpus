@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-tun-africanmanager-bct-circular-2026-10-payment-limits",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "African Manager says Tunisian payment institutions operate payment accounts at three levels, with balance caps of TND 500, 1,000 and 5,000 under Circular 2018-16, to be raised under Circular 2026-10.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "payment institution accounts",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payment institution payment accounts",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "",
+   "owner": "payment institutions",
+   "tiers": "Levels 1-3"
+  }
+ ],
+ "note": ""
+}

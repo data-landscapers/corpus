@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-26-axian-digibank-fintech-rebrand-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports AXIAN's MVola mobile money product lets individuals and businesses send money, pay merchants and access short-term credit in Comoros.",
+   "as_of": "2025-11-26",
+   "date_precision": "day",
+   "system": "MVola",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Comoros",
+   "class": "retail",
+   "platform": "",
+   "owner": "AXIAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

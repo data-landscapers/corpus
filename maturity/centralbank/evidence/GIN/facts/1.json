@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-31-guinee-bcrg-projets-reformes-dsmp",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The BCRG page says the World Bank-funded WARDIP project is to draft a payment systems law and set up a National Payment Council, awaiting World Bank non-objection on terms of reference.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "WARDIP",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WARDIP",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "legal reform project",
+   "owner": "BCRG / World Bank",
+   "tiers": ""
+  },
+  {
+   "system": "RTGS",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "gross settlement",
+   "owner": "BCRG",
+   "tiers": ""
+  },
+  {
+   "system": "PAPSS",
+   "country_label": "Guinea",
+   "class": "crossborder",
+   "platform": "Afreximbank",
+   "owner": "Afreximbank",
+   "tiers": "no transactions yet"
+  },
+  {
+   "system": "national switch (GuiM)",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "national switch being finalised",
+   "owner": "Guineenne de Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

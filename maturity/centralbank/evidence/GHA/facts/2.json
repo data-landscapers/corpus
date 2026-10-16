@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-techcabal-dlocal-ghana-epsp-licence",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Enhanced PSP licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enhanced Payment Service Provider licence",
+   "country_label": "Ghana",
+   "class": "oversight",
+   "platform": "licence",
+   "owner": "Bank of Ghana",
+   "tiers": "enhanced"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-30-cemac-gimac-norme-qr-code-interoperable",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Chad is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-03-11-cbl-allows-foreigners-ewallets-circular-alwasat","studies":{
+"businesspayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"LBY":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"Central Bank of Libya circular 9 of 2026 allows licensed electronic payment companies to issue e-wallets to legally resident foreigners, and its Banking and Monetary Control Department will inspect the companies for compliance.","as_of":"2026-03-11","date_precision":"day","system":"e-wallets","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Transfer caps and KYC are stated; no consumer protection rule or redress."}}},
+"crossborderpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on cross-border digital payments."}}},
+"g2ppayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"LBY":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Central Bank of Libya circular 9 of 2026 regulates e-wallet service from licensed payment companies, with daily caps of LD 100,000 person to person and LD 500,000 person to company for citizens, and LD 50,000 and LD 100,000 for resident foreigners.","as_of":"2026-03-11","date_precision":"day","system":"e-wallets","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-23 Electronic Transactions A Consumer Right - Consumer Protection Commission",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Consumer Protection Act Chapter 14.44 Section 51(h) gives consumers the right to choose their mode of payment, and the Finance Act 2018 amendment to Chapter 24:24 requires businesses to offer electronic payment, per the Consumer Protection Commission.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "Consumer Protection Act Chapter 14.44",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "A Consumer Protection Commission blitz found 80 percent of 27 service stations inspected had no POS machines and issued them Compliance Notices under Section 68.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "Consumer Protection Act Chapter 14.44",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Consumer Protection Commission",
+   "country_label": "Zimbabwe",
+   "class": "protection",
+   "platform": "regulator",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

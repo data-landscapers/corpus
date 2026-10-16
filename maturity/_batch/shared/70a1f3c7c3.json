@@ -1,0 +1,10 @@
+{"slug":"2026-07-30-ga-cartes-bancaires-paiements-tpe","studies":{
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"International transfers figure names no digital channel or corridor."}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Card ownership among bank clients is not a survey share of adults."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[],"systems":[{"system":"Systac","country_label":"Gabon","class":"other","platform":"","owner":"","tiers":""},{"system":"Sygma","country_label":"Gabon","class":"other","platform":"","owner":"","tiers":""}],"note":"Bank card and ATM figures only; no mobile money or wallet service stated."}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

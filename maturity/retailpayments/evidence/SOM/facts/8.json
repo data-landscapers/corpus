@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-20-som-hiiraan-osman-central-bank-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Guleid Osman writes that EVC Plus is Somalia's leading mobile-money platform, used by households to buy food, pay school fees and rent, and send money.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "EVC Plus",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Guleid Osman writes that the Central Bank of Somalia states SIPS supports real-time transfers among banks, mobile wallets and points of sale.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Somali Instant Payment System (SIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Guleid Osman writes that the Central Bank of Somalia launched the Somali Payment Switch and SIPS, which it states connects banks, mobile wallets and points of sale in real time.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Somali Instant Payment System (SIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EVC Plus",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Hormuud Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Somali Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

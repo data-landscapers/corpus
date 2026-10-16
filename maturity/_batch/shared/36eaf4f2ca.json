@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-rebuilding-financial-services-fintech-sierra-leone","studies":{
+"businesspayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"SLE":{"facts":[],"systems":[{"system":"National Payments Strategy","country_label":"Sierra Leone","class":"oversight","platform":"","owner":"Bank of Sierra Leone","tiers":""}],"note":"Regulation and interoperability are described only generally, with no licensing, switch or regional link stated."}}},
+"consumerprotection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Consumer protection regulation is mentioned only in general terms, with no rule in force stated."}}},
+"crossborderpayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Salary receipt by mobile is stated with no government programme."}}},
+"paymentsuptake":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Fintech Times analysis says mobile money operators including Orange Money and Afrimoney let consumers transfer funds, pay bills and purchase goods in Sierra Leone.","as_of":"2026-07-23","date_precision":"day","system":"Orange Money","class":"retail"}],"systems":[{"system":"Orange Money","country_label":"Sierra Leone","class":"retail","platform":"","owner":"Orange","tiers":""},{"system":"Afrimoney","country_label":"Sierra Leone","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Utility bills are not state revenue; nothing on taxes or fees."}}}}}

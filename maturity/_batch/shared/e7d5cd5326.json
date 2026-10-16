@@ -1,0 +1,86 @@
+{
+ "slug": "2025-12-07-cabo-verde-bcv-anuncia-speed-transferencias-instantaneas",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPEED",
+       "country_label": "Cabo Verde",
+       "class": "other",
+       "platform": "instant transfers",
+       "owner": "Banco de Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": "SPEED is announced for Q1 2026, not yet in service."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers a question."
+    }
+   }
+  }
+ }
+}

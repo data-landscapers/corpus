@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "MauCAS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS",
+   "country_label": "Mauritius",
+   "class": "retail",
+   "platform": "national instant-payment switch",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

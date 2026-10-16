@@ -1,0 +1,17 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "crossborder",
+   "stage": "unplaced",
+   "corridor": "",
+   "regional": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether a cross-border digital payment channel is in service.",
+   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+  }
+ ]
+}

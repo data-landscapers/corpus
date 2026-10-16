@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-15 Bank of Algeria joins PAPSS network",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Afreximbank says the Bank of Algeria joined PAPSS on 15 August 2025, making Algeria its 18th country of presence.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "PAPSS's CEO says the network has cut intra-African cross-border transaction costs, with savings of up to 27% for end users.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Algeria",
+   "class": "crossborder",
+   "platform": "regional payment and settlement system",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

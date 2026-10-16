@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-13-nigeria-teamapt-mastercard-network-access",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TeamApt",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "switching and processing, Mastercard acquiring",
+   "owner": "Moniepoint Inc.",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this question."
+}

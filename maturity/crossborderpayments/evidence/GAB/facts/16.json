@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-gabon-payments-interoperability-gimac",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Gabon's digital economy ministry sources say the Gimac QR code already unifies payment platforms in the sub-region.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Gimac QR code",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gimac QR code",
+   "country_label": "Gabon",
+   "class": "crossborder",
+   "platform": "Gimac",
+   "owner": "Gimac",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

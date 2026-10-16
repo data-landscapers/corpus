@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-03-bceao-adhesion-pi-spi-30-juin",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BCEAO's PI-SPI instant-payment platform, launched 30 September 2025, has 80 institutions connected in the WAEMU region as of 2 April 2026, with a 30 June 2026 deadline for operators to join (Togo First).",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "WAEMU / Togo",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, microfinance, payment institutions"
+  }
+ ],
+ "note": ""
+}

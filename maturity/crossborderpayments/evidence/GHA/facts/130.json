@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-19-graphic-bog-digital-transaction-data-sme-financing",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of Ghana's Second Deputy Governor says the e-cedi pilot includes work on cross-border settlement.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "e-cedi",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-cedi",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Credit Service Providers Directive",
+   "country_label": "Ghana",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

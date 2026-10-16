@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MRT,g2p,payment,coverage,,,,,nothing held
+MRT,g2p,streams,coverage,,,,,nothing held
+MRT,g2p,linked,coverage,linked,2024-05-15,MRT-001,,

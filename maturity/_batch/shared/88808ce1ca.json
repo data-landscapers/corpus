@@ -1,0 +1,138 @@
+{
+ "slug": "2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025, with the central bank as settlement agent.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The Executive Governor said cross-border transactions grew 17.7% in 2024 to $494.5 million, and PAPSS transactions reached about L$37.7 million between June and December 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "PAPSS",
+       "class": "crossborder",
+       "platform": "Afreximbank",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Executive Governor said mobile money transactions reached L$471 billion in 2024 and Liberia had over 3 million active mobile money subscribers.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Mobile money",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "slug": "2026-09-15-moz-clubofmozambique-electronic-money-accounts-four-times-bank",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Account counts per 100 adults are not a survey share of adults."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Central bank figures compiled by Lusa show three electronic money operators, M-Pesa, e-Mola and M-Kesh, with 130.9 e-money accounts per 100 adults in the second quarter of 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "M-Pesa, e-Mola, M-Kesh",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-Mola",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "M-Kesh",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

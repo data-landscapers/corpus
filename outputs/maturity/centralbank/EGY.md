@@ -1,0 +1,13 @@
+# Egypt
+
+## Governance role of central bank
+
+**Licensing providers.** [Ahram Online says Instapay, a mobile payments application, is licensed by the Central Bank of Egypt, and six Egyptian banks have applied to the CBE for final approvals to integrate with PAPSS](<https://english.ahram.org.eg/News/576342.aspx>). [In June 2025 the Central Bank of Egypt issued Rules for Licensing and Registration of Payment System Operators and Payment Service Providers, requiring existing institutions to apply for a CBE licence within one year, to June 2026; it also issued governance, internal control and fit-and-proper rules for them under Law No. 194 of 2020](<https://www.cbe.org.eg/en/news-publications/news/2025/09/01/13/10/payment-system-operators-and-payment-service-providers>).
+
+**Overseeing a switch.** [Ahram Online says Instapay is licensed by the Central Bank of Egypt and runs through its Instant Payment Network, the national real-time payment infrastructure](<https://english.ahram.org.eg/News/576342.aspx>). [The CBE says its InstaPay instant payments network had over 16 million users and 1.1 billion transactions by June 2025, alongside the national Meeza card system](<https://gate.ahram.org.eg/News/5335311.aspx>).
+
+**Linked regionally.** [The Central Bank of Egypt agreed to join PAPSS in November 2024, and Egypt is described as one of the largest economies in the PAPSS network](<https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/>). [The Central Bank of Egypt officially joined the PAPSS network in November 2024 and its Governor has sat on the PAPSS Governing Council since January 2025, per Daily News Egypt](<https://www.dailynewsegypt.com/2026/09/19/central-bank-of-egypt-governor-discusses-african-payment-network-expansion-at-nairobi-meeting/>).
+
+***Noted, not assessed***. [Meeza](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [InstaPay](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [PAPSS](<https://www.businessmen-eg.com/en/6489/cbe-governor-enhanced-egyptian-bank-participation-drives-pan-african-financial-integration>); [Digital Financial Identity Platform (eKYC)](<https://www.cbe.org.eg/en/news-publications/news/2026/08/24/09/40/ekyc-2026>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
+
+***Not held***. Nothing further is asked of this indicator.

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Onafriq's CEO says DRC had 29 million mobile money accounts, a 34.6% penetration rate, in Q4 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Onafriq supported the Visa Pay launch in the DRC in Q4 2025, which it says brings interoperability between mobile money and card networks at scale.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Visa Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Visa Pay",
+   "country_label": "DRC",
+   "class": "retail",
+   "platform": "Onafriq",
+   "owner": "Visa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

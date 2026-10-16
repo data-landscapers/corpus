@@ -1,0 +1,10 @@
+{"slug": "2023-11-01 Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II)", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states nothing on public procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt names the Bank of Uganda only as co-author of the strategy; no payments mandate is stated."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states no consumer-protection rules or redress body."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt gives no survey share of adults with an account."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The excerpt states nothing on electronic revenue payment."}}}
+}}

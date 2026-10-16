@@ -1,0 +1,11 @@
+{"slug":"2026-02-18-guinee-coris-rejoint-marche-mobile-money","studies":{
+"businesspayments":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No public procurement system is mentioned."}}},
+"centralbank":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Only the telecoms regulator ARPT is named, and no central bank role is stated."}}},
+"consumerprotection":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is mentioned."}}},
+"crossborderpayments":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No cross-border channel is mentioned."}}},
+"g2ppayments":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No government payment to people is mentioned."}}},
+"paymentsuptake":{"countries":{"GIN":{"facts":[],"systems":[],"note":"The 23% mobile money penetration has no survey named and is not a share of adults."}}},
+"retailpayments":{"countries":{"GIN":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Agence Ecofin says Orange and MTN mobile money services had 3.2 million subscribers at end June 2025 per ARPT, and Coris Bank launched its Coris Money e-money app on 16 February 2026.","as_of":"2026-02-16","date_precision":"day","system":"Coris Money","class":"retail"}],
+"systems":[{"system":"Coris Money","country_label":"Guinea","class":"retail","platform":"mobile app","owner":"Coris Bank International Guinée","tiers":""},{"system":"Orange Money","country_label":"Guinea","class":"retail","platform":"","owner":"Orange","tiers":""},{"system":"MTN MoMo","country_label":"Guinea","class":"retail","platform":"","owner":"MTN","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No tax or fee payment to the state is mentioned."}}}}}

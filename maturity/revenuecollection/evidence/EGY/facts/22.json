@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-elwatan-instapay-mobile-wallets-54-million-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Meeza card has become an essential tool for many government payments and official services such as traffic and the Real Estate Registry, per banking expert Hisham Hamza.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Meeza",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "revenue",
+   "platform": "card",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

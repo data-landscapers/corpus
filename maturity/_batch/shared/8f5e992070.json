@@ -1,0 +1,97 @@
+{
+ "slug": "2026-09-02-wb-zimbabwe-country-growth-jobs-report-imtt-digital-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The World Bank report says mobile money is used by 63 percent of Zimbabwe's population and mobile and internet payments exceed 80 percent of retail transaction volumes.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Zimbabwe",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

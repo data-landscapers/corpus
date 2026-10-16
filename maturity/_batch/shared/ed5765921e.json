@@ -1,0 +1,10 @@
+{"slug":"2026-02-27 Zambia partners with PAYZ to boost financial inclusion","studies":{
+"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Bank of Zambia only attended the meeting; no role stated."}}},
+"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Regulatory harmonisation mentioned without any consumer rule."}}},
+"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Digital payments within agencies mentioned as an aim only, no programme."}}},
+"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"ZMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"President Hichilema describes the Payments Association of Zambia as representing a mobile money sector that has extended financial services to unbanked rural communities through agency networks.","as_of":"2026-02-26","date_precision":"day","system":"mobile money","class":"retail"}],"systems":[{"system":"mobile money","country_label":"ZMB","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}}
+}}

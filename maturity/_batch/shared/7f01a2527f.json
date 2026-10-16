@@ -1,0 +1,14 @@
+{"slug":"2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No public procurement system stated."}}},
+"centralbank":{"countries":{"COM":{"facts":[
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"Mayotte Hebdo reports KomorPay, the Banque centrale des Comores' national interbank payment infrastructure for processing, clearing and settlement in central bank money, has been operational since 23 April 2026, cutting cheque and transfer processing from three days to one working day.","as_of":"2026-04-23","date_precision":"day","system":"KomorPay","class":"oversight"}],
+"systems":[{"system":"KomorPay","country_label":"Comoros","class":"oversight","platform":"interbank payment system (ATS)","owner":"Banque centrale des Comores","tiers":"banks"},{"system":"Komor Switch","country_label":"Comoros","class":"oversight","platform":"card switch, World Bank supported","owner":"Banque centrale des Comores","tiers":"banks"},{"system":"Mali Ya Wakazi","country_label":"Comoros","class":"other","platform":"agent banking","owner":"Banque centrale des Comores","tiers":"agents"}],"note":""}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"The 39% banking rate is from the central bank annual report, not a survey of adults named as such; account counts give no fact."}}},
+"retailpayments":{"countries":{"COM":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mayotte Hebdo, citing the central bank's 2024 report, says the electronic money float reached 2.7 billion francs across 669,584 accounts opened, of which 29.1% are active.","as_of":"2024","date_precision":"year","system":"electronic money","class":"retail"}],
+"systems":[{"system":"Komor Switch","country_label":"Comoros","class":"retail","platform":"card switch","owner":"Banque centrale des Comores","tiers":"banks"}],"note":""}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

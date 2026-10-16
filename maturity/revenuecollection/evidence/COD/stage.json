@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "2",
+   "payment": "underway",
+   "main": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-001;COD-002",
+   "gaps": "No source held since October 2023 says: can some taxes or fees be paid electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

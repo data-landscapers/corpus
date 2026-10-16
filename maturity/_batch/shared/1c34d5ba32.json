@@ -1,0 +1,17 @@
+{"slug":"2026-03-18-togo-comptes-monnaie-electronique-progression","studies":{
+"businesspayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Procurement appears only in page teasers, with no statement."}}},
+"centralbank":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The BCEAO widened market access in Togo by licensing new fintech players, per Togo First.","as_of":"2026-03-18","date_precision":"day","system":"BCEAO licensing of fintechs","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Togo is part of the rollout of the interoperable instant payment platform PI-SPI, though adoption remains very gradual, per Togo First.","as_of":"2026-03-18","date_precision":"day","system":"PI-SPI","class":"oversight"}],
+"systems":[{"system":"PI-SPI","country_label":"Togo","class":"oversight","platform":"","owner":"","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Togo is part of the rollout of the regional instant payment platform PI-SPI linking banks, mobile money operators and financial institutions, though adoption remains very gradual, per Togo First.","as_of":"2026-03-18","date_precision":"day","system":"PI-SPI","class":"crossborder"}],
+"systems":[{"system":"PI-SPI","country_label":"Togo","class":"crossborder","platform":"","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Only account counts; no survey share of adults."}}},
+"retailpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Togo had 12.55 million e-money accounts, 6.07 million active (48.35%), at the end of 2024, with over 81,000 service points and nearly 5,800 merchants accepting e-payments, per the BCEAO report cited by Togo First.","as_of":"2024-12","date_precision":"month","system":"e-money (Mixx, Flooz)","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"PI-SPI is said to allow real-time transactions between banks, mobile money operators and financial institutions in Togo, though its adoption remains very gradual, per Togo First.","as_of":"2026-03-18","date_precision":"day","system":"PI-SPI","class":"retail"}],
+"systems":[{"system":"Mixx","country_label":"Togo","class":"retail","platform":"","owner":"","tiers":""},{"system":"Flooz","country_label":"Togo","class":"retail","platform":"","owner":"","tiers":""},{"system":"PI-SPI","country_label":"Togo","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Tax payment appears only in page teasers, with no statement."}}}}}

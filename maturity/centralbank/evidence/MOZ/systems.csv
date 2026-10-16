@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,M-Pesa,Mozambique,other,mobile money,Vodacom,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,e-Mola,Mozambique,other,mobile money,Movitel,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,mKesh,Mozambique,other,mobile money,Tmcel,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Metix,Mozambique,other,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,SIMOrede,Mozambique,other,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,METIX,Mozambique,oversight,instant payment system,Bank of Mozambique,"individual limit 200,000 MZN, legal entities 500,000 MZN daily",2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,Instant Payment System (SPIM),Mozambique,oversight,instant payment switch,"Bank of Mozambique, operated by SIMO",,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,SPIM,Mozambique,oversight,,Sociedade Interbancária de Moçambique (SIMO),direct and indirect participation,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos

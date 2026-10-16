@@ -1,0 +1,10 @@
+{"slug": "2026-09-16-lbr-fpa-cbl-financial-inclusion-id-business-registry", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a draft financial inclusion strategy; no payments mandate, licensing, switch or regional role stated."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Financial education is discussed; no conduct rules or redress body stated."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No survey share of adults."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Mobile money is mentioned only in passing; no service or licence stated."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

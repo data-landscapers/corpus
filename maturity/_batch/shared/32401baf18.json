@@ -1,0 +1,10 @@
+{"slug": "2026-10-08-ken-digitalbankerafrica-digital-payments-trade-finance", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No e-procurement system stated."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a general remark on consent and data protection; no rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Interoperable cross-border channels are described as a need, with no corridor or link in service named."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Digital Banker Africa describes Kenya as having an established mobile-money ecosystem and leadership in mobile money, with a usage gap remaining.", "as_of": "2026-10-08", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

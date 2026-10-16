@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-07-menastartupdigest-ooredoo-walletii-license",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Ooredoo Fintech received approval from the Central Bank of Tunisia to launch its digital wallet walletii by Ooredoo.",
+   "as_of": "2026-03-07",
+   "date_precision": "day",
+   "system": "walletii by Ooredoo",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "walletii by Ooredoo",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "digital wallet",
+   "owner": "Ooredoo Fintech",
+   "tiers": ""
+  },
+  {
+   "system": "Monétique",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "national electronic payments operator",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

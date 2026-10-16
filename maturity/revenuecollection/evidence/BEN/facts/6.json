@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-29-pi-spi-banques-mobile-money-interconnectes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA (Benin)",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, microfinance, e-money issuers, payment institutions"
+  }
+ ],
+ "note": "The document states nothing on this for the country."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-ken-digitalbankerafrica-digital-payments-trade-finance",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Digital Banker Africa describes Kenya as having an established mobile-money ecosystem and leadership in mobile money, with a usage gap remaining.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

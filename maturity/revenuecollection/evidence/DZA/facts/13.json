@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-algerie-paiements-electroniques-939-milliards",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Algérie Éco, citing GIE Monétique, says many public administrations increasingly take electronic payment for their services, with 7.6 million online transactions for administrative services in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIE Monétique online payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIE Monétique online payment platform",
+   "country_label": "Algeria",
+   "class": "revenue",
+   "platform": "",
+   "owner": "GIE Monétique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

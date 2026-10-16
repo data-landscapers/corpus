@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-10-mobile-money-drives-financial-inclusion-growth",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Times of Eswatini says mobile money platforms MTN MoMo and Eswatini Mobile's e-Mali have expanded into rural areas, and mobile money account ownership rivals bank accounts.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "MTN MoMo; e-Mali",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Eswatini",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mali",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Eswatini Mobile",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

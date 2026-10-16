@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,Fouta,Congo,revenue,national switch monetique,"Ministere des Finances, du Budget et du Portefeuille public","large, then medium, then all taxpayers by end 2026",2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
+COG,E-Tax,Congo,other,tax declaration platform,"Ministere des Finances, du Budget et du Portefeuille public",,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
+COG,Sydonia,Congo,other,customs declaration platform,,,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
+COG,FOUTA,FOUTA,revenue,national switch,"Ministry of Finance, Budget and Public Portfolio",,2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques
+COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech

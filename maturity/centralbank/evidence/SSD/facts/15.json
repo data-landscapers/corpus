@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-10-boss-launches-first-electronic-interbank-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of South Sudan launched on 10 October 2025 the country's first electronic Interbank Payment and Settlement System, enabling real-time bank-to-bank transactions in place of paper-based manual processing.",
+   "as_of": "2025-10-10",
+   "date_precision": "day",
+   "system": "Interbank Payment and Settlement System",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Interbank Payment and Settlement System",
+   "country_label": "South Sudan",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

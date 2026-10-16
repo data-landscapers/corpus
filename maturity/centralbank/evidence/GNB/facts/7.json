@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Guinea-Bissau, launched 30 September 2025 with 175 connected participants a year later.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Guinea-Bissau is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "regional"
+  }
+ ],
+ "note": ""
+}

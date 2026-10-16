@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-22-mdg-midimadagasikara-gasy-money-mobile-banking",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BGFIBank Madagasikara's Gasy Money app, presented on a Friday before 22 September 2026, currently allows national money transfers in partnership with the country's mobile phone operators, for bank clients, other banks' clients and people without an account.",
+   "as_of": "2026-09-18",
+   "date_precision": "day",
+   "system": "Gasy Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gasy Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "BGFIBank Madagasikara",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

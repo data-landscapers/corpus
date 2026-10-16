@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-mtn-uganda-sustainability-report-2025",
+ "facts": [
+  {
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Uganda's report says MTN MoMo served 14.7 million active subscribers and processed over 5 billion transactions worth UGX 195.5 trillion in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MTN MoMo",
+   "class": "retail",
+   "sub_indicator": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

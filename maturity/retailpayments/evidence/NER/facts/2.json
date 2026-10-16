@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-ner-actuniger-soniloga-airtel-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Airtel Money Niger is in service, and on 1 October 2026 it began accepting payment of some Guichet Unique Automobile services through the MyAirtel app or USSD code *436#.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Niger",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel Money Niger SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "COBAC",
+   "country_label": "Cameroun",
+   "class": "oversight",
+   "platform": "",
+   "owner": "COBAC",
+   "tiers": ""
+  }
+ ],
+ "note": "Licence is an arrete of the finance ministry after a COBAC decision; no central bank role stated."
+}

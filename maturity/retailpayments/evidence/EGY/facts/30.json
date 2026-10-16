@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CBE says mobile wallets reached 55.5 million, with about 1.4 billion transactions, by June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Meeza Digital",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "national card scheme",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "instant payments network",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza Digital",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "mobile wallets",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

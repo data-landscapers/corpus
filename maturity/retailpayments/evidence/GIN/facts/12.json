@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mediaguinee reports BGB Solutions officially launched KS-WALLET, an e-money app for deposits, QR code payments and free transfers between accounts.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "KS-WALLET",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Mediaguinee says KS-WALLET sends money in Guinea and abroad directly to bank accounts and mobile wallets.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "KS-WALLET",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KS-WALLET",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "e-money app",
+   "owner": "BGB Solutions S.A",
+   "tiers": ""
+  },
+  {
+   "system": "KS-PAY",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "agent network",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

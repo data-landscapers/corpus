@@ -1,0 +1,113 @@
+{
+ "slug": "2026-04-03-kenswitch-visa-national-switch-techcabal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Pesalink, run by the Kenya Bankers Association's IPSL, connects banks, telcos and microfinance institutions (TechCabal).",
+       "as_of": "2026-04-03",
+       "date_precision": "day",
+       "system": "Pesalink",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pesalink",
+       "country_label": "Kenya",
+       "class": "retail",
+       "platform": "",
+       "owner": "Integrated Payment Services Limited (Kenya Bankers Association)",
+       "tiers": ""
+      },
+      {
+       "system": "Kenswitch",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "shared switch, 30+ institutions",
+       "owner": "Kenswitch",
+       "tiers": ""
+      },
+      {
+       "system": "Fast payment system / national switch",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "planned",
+       "owner": "Central Bank of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

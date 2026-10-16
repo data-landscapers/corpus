@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-09-gimac-madigipaie-lancement-libreville",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MaDigiPaie, launched in Libreville on 9 December 2025, lets citizens pay purchases by scanning a GIMACPAY QR code with their Mobile Money application, with more than 1,000 QR codes already deployed with merchants (GIMAC).",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "MaDigiPaie",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The GIMACPAY QR code can be paid from a Mobile Money application whatever the operator (\"quel que soit l'operateur\"), according to GIMAC.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "MaDigiPaie",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MaDigiPaie",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "GIMACPAY QR",
+   "owner": "BEAC / GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

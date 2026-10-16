@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-beac-joins-papss-cemac-banks-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BEAC, the central bank of the CEMAC states, joined the Pan-African Payment and Settlement System (PAPSS), per Afreximbank on 9 July 2026, with CEMAC banks to be connected by end-2026.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "Afreximbank with the African Union",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-car-batangafo-month-without-orange-network",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange mobile money transfer and mobile payment services operate in Batangafo, but have been down for nearly a month, per local testimony reported by Corbeau News.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Orange mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange mobile money",
+   "country_label": "Central African Republic",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

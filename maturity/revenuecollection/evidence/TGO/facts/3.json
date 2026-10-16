@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-20-togo-otr-statistiques-teledeclaration-telepaiement-2020-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Office Togolais des Recettes reports electronic payment (telepaiement) of VAT at 100% for the DGE and DME directorates in 2025 and 24% for the DCIG/DOFAN/DOFR directorates.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OTR telepaiement",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "OTR publishes electronic declaration and payment rates by directorate for 2020 to 2025, with telepaiement at 24% for DCIG/DOFAN/DOFR in 2025, up from 13% in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OTR telepaiement",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OTR telédéclaration and télépaiement",
+   "country_label": "Togo",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Office Togolais des Recettes",
+   "tiers": "DGE, DME, DCIG/DOFAN/DOFR"
+  }
+ ],
+ "note": ""
+}

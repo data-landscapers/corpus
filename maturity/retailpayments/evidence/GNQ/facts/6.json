@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The World Bank diagnostic says digital financial services are nascent, with no licensed e-money operator for mobile money.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

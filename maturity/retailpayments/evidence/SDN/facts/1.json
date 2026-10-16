@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Baladna Bibasata",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "USSD via MTN Sudan",
+   "owner": "Albalad Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "A bank's own USSD banking service; the document does not say it is a wallet or moves money between providers."
+}

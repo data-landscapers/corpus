@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BNR's October 2026 financial sector report puts eKash active accounts at 10.3 million and monthly transactions at 28.9 million in September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "eKash transfers pass between the originating and receiving financial institutions, and the National Instant Payment System is meant to improve interoperability between payment providers.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "National Instant Payment System",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

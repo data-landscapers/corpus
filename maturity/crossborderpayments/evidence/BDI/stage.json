@@ -1,0 +1,17 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "crossborder",
+   "stage": "4",
+   "corridor": "inservice",
+   "regional": "regional",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-005",
+   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+  }
+ ]
+}

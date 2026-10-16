@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,centralbank,mandate,coverage,,,,,nothing held
+COM,centralbank,switch,coverage,overseen,2026-05-04,COM-001;COM-002;COM-003,,
+COM,centralbank,regional,coverage,,,,,nothing held

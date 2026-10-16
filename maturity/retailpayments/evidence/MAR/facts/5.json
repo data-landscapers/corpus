@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-01-bkam-snif-rapport-annuel-exercice-2023",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank Al-Maghrib reports 20 M-Wallet offers on the market at end-2023, 12 issued by payment institutions, with over 10 million wallets.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "M-Wallet",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Bank Al-Maghrib lists native payment interoperability and an interchange-commission cap among first-phase (2019-2023) achievements for mobile payment.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "M-Wallet interoperability",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Wallet",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "payment institutions and banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

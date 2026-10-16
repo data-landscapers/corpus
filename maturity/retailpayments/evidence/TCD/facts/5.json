@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "GIMACPAY links 56 banks, 26 microfinance institutions, 16 payment institutions and mobile money operators and 52 aggregators across the CEMAC, which processed 20.3 million transactions in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": "Chad is not named among the mobile money operators' countries."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "An agreement signed on 15 April 2026 connects microfinance institutions and savings cooperatives to the national card switch (switch monetique national) of the Banque centrale du Congo.",
+   "as_of": "2026-04-15",
+   "date_precision": "day",
+   "system": "BCC switch monetique national",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCC switch monetique national",
+   "country_label": "DRC",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Banque centrale du Congo",
+   "tiers": ""
+  },
+  {
+   "system": "Paycode Fintech Congo platform",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "Paycode Fintech Congo",
+   "tiers": ""
+  },
+  {
+   "system": "Mosolo card",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

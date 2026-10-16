@@ -1,0 +1,15 @@
+{"slug": "2025-12-15 Gambia launches BANTABA 2.0, first real-time interoperable payment system", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No public procurement system is mentioned."}}},
+"centralbank": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Point says the Central Bank of The Gambia and the Ministry of Communications and Digital Economy led BANTABA 2.0, the national interoperable switch now live and operated by Gamswitch.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "oversight"}
+], "systems": [{"system": "BANTABA 2.0", "country_label": "The Gambia", "class": "retail", "platform": "Mojaloop", "owner": "Gamswitch", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is mentioned."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No cross-border channel is mentioned."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No government payment to people is mentioned."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The Point says BANTABA 2.0 lets funds move instantly between accounts across banks, mobile money operators, fintechs and public institutions regardless of provider.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The Point says BANTABA 2.0 is a national backbone connecting banks, mobile money operators, MFIs, fintechs and PSPs through a single interoperable switch with real-time clearing and settlement, operated by Gamswitch after a pilot.", "as_of": "2025-12-15", "date_precision": "day", "system": "BANTABA 2.0", "class": "retail"}
+], "systems": [{"system": "BANTABA 2.0", "country_label": "The Gambia", "class": "retail", "platform": "Mojaloop", "owner": "Gamswitch", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No electronic tax or fee payment is mentioned."}}}
+}}

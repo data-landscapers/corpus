@@ -1,0 +1,288 @@
+{
+ "slug": "2025-01-06-mobile-money-contourner-taxe-especes",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Fraternité reports Mobile Money is the most widespread e-money service in Benin, offered by three providers: MTN Mobile Money, Moov Money and Celtiis Cash.",
+       "as_of": "2025-01-06",
+       "date_precision": "day",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "id": "retailpayments",
+ "study_file": "maturity-study-retailpayments.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--p2p-p2g-and-p2b-functionality"
+ ],
+ "carry": [
+  "dpi.pay--p2p-p2g-and-p2b-functionality"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "payment interoperability",
+  "interoperable payments",
+  "mobile money interoperability",
+  "merchant payments",
+  "QR code payments",
+  "wallet-to-wallet",
+  "interopérabilité des paiements",
+  "interopérabilité des services financiers"
+ ],
+ "sub_indicators": [
+  {
+   "key": "retail",
+   "label": "P2P, P2G and P2B functionality",
+   "subject": "dpi.pay",
+   "text": "P2P, P2G and P2B functionality: p2p, p2g and p2b functionality",
+   "indicator_id": "dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality",
+   "class": "retail",
+   "norm_short": "The African Union's Digital Transformation Strategy asks for interoperable e-money and digital financial services, with low-cost channels and agents reaching underserved areas.",
+   "criteria": [
+    "A source from the past three years says no mobile money or retail digital payment service is licensed.",
+    "A mobile money or e-money service is licensed or piloted, with none yet in service.",
+    "A mobile money or e-money service is in service.",
+    "Payments between different mobile money providers, or between wallets and banks, are in service.",
+    "A national switch connects mobile money wallets and bank accounts, in service."
+   ],
+   "criteria_of": "c77c38f6057c"
+  }
+ ],
+ "classes": [
+  "retail",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "service",
+   "name": "Mobile money in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "interop",
+   "name": "Between providers",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "interop"
+   ],
+   "values": [
+    "interop"
+   ]
+  },
+  {
+   "key": "switch",
+   "name": "National switch",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "national"
+   ],
+   "values": [
+    "national"
+   ]
+  }
+ ],
+ "flags": []
+}

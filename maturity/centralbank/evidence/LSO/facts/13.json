@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-05-lesotho-finance-minister-payment-system-bill",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The finance minister moved the Payment System Bill, 2025 to second reading in the National Assembly; it would repeal the Payment Systems Act 2014, license all payment service providers under one law and give the Central Bank of Lesotho powers to oversee the national payment system.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "Payment System Bill, 2025",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payment System Bill, 2025",
+   "country_label": "Lesotho",
+   "class": "oversight",
+   "platform": "bill",
+   "owner": "Ministry of Finance and Development Planning",
+   "tiers": ""
+  },
+  {
+   "system": "Payment Systems Act 2014",
+   "country_label": "Lesotho",
+   "class": "oversight",
+   "platform": "act",
+   "owner": "Central Bank of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

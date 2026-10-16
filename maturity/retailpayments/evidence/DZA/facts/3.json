@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-01-dza-algerie-eco-gie-monetique-23-millions-cartes-126000-tpe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Edahabia",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Algérie Poste",
+   "tiers": ""
+  },
+  {
+   "system": "CIB",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "banks",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers payment cards and terminals, not mobile money or e-money."
+}

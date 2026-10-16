@@ -1,0 +1,88 @@
+{
+ "slug": "2026-05-01-worldbank-building-burundi-national-social-protection-systems",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank says Merankabandi, a government cash transfer programme, is nationwide since 2022, has reached over 1.5 million people, and is backed by investments in digital payments.",
+       "as_of": "2026-05-01",
+       "date_precision": "day",
+       "system": "Merankabandi",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  }
+ }
+}

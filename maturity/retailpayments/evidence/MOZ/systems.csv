@@ -1,0 +1,36 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,Metix,Mozambique,retail,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,SIMOrede,Mozambique,retail,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,M-Pesa,Mozambique,retail,,,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,e-Mola,Mozambique,retail,,,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,M-Kesh,Mozambique,retail,,,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,METIX,Mozambique,retail,"instant payment system, web, apps, USSD",Bank of Mozambique,,2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,M-PESA,Mozambique,retail,mobile wallet,,,2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,E-MOLA,Mozambique,retail,mobile wallet,,,2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,m-Kesh,Mozambique,retail,mobile wallet,,,2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,Instant Payment System (SPIM),Mozambique,retail,instant payment switch,"Bank of Mozambique, operated by SIMO","individuals 200,000 MZN and legal entities 500,000 MZN daily limits",2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,M-Pesa,Mozambique,retail,mobile money,mobile operator,,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,e-Mola,Mozambique,retail,mobile money,mobile operator,,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,M-Kesh,Mozambique,retail,mobile money,mobile operator,,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,SPIM,Mozambique,retail,,Sociedade Interbancária de Moçambique (SIMO),"MT 200,000 natural persons; MT 500,000 legal persons",2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos
+MOZ,M-Pesa,Mozambique,retail,,Vodacom Mozambique,,2026-09-22-moz-e-money-agents-q2-2026
+MOZ,e-Mola,Mozambique,retail,,,,2026-09-22-moz-e-money-agents-q2-2026
+MOZ,M-Kesh,Mozambique,retail,,,,2026-09-22-moz-e-money-agents-q2-2026
+MOZ,M-Pesa,Mozambique,retail,,,,2026-09-15-moz-clubofmozambique-electronic-money-accounts-four-times-bank
+MOZ,e-Mola,Mozambique,retail,,,,2026-09-15-moz-clubofmozambique-electronic-money-accounts-four-times-bank
+MOZ,M-Kesh,Mozambique,retail,,,,2026-09-15-moz-clubofmozambique-electronic-money-accounts-four-times-bank
+MOZ,ISPC,Mozambique,other,,,,2026-09-15-moz-igc-ispc-compliance-mobile-wallet-maputo
+MOZ,M-Pesa,Mozambique,retail,mobile money,,,2026-09-15-moz-sapo-moeda-eletronica-contas-banca
+MOZ,e-Mola,Mozambique,retail,mobile money,,,2026-09-15-moz-sapo-moeda-eletronica-contas-banca
+MOZ,M-Kesh,Mozambique,retail,mobile money,,,2026-09-15-moz-sapo-moeda-eletronica-contas-banca
+MOZ,M-Pesa,MOZ,retail,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Paga Fácil,Mozambique,retail,M-Pesa,M-Pesa,,2026-09-02-mozambique-absa-mpesa-digital-payments-mou
+MOZ,mobile money,Mozambique,retail,,,,2026-08-31-bancomoc-financial-inclusion-indicators-q2-2026
+MOZ,MOMO,Mozambique,other,mobile money,,,2026-08-11-who-mozambique-mobile-money-health-campaigns
+MOZ,mobile money,Mozambique,retail,three mobile wallet platforms,mobile network providers (Electronic Money Institutions),,2026-07-24-clubofmozambique-atms-pos-lose-ground-mobile-money
+MOZ,M-Pesa,Mozambique,retail,,mobile operator,,2025-08-25-irps-tax-mobile-money-agents-clubofmozambique
+MOZ,e-Mola,Mozambique,retail,,mobile operator,,2025-08-25-irps-tax-mobile-money-agents-clubofmozambique
+MOZ,M-kesh,Mozambique,retail,,mobile operator,,2025-08-25-irps-tax-mobile-money-agents-clubofmozambique
+MOZ,METIX,Mozambique,retail,,SIMO,,2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique
+MOZ,National Payments System law,Mozambique,other,,,,2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique

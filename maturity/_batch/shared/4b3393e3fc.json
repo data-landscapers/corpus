@@ -1,0 +1,86 @@
+{
+ "slug": "2026-09-21-bwa-weekendpost-absa-google-pay-contactless",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Google Pay",
+       "country_label": "Absa Bank Botswana Google Pay",
+       "class": "other",
+       "platform": "Absa Bank Botswana",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

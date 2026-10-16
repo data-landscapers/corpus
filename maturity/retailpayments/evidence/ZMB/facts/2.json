@@ -1,0 +1,44 @@
+{
+ "slug": "2026-03-04-momo-payments-on-zanaco-pos-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Zanaco and MTN Mobile Money launched MoMo payments, so customers pay from MoMo wallets on Zanaco POS machines and cash out at Zanaco ATMs.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Zanaco says MTN MoMo wallet holders can now pay on Zanaco bank POS machines and withdraw cash at Zanaco ATMs, linking wallets and a bank.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Zambia",
+   "class": "retail",
+   "platform": "New MoMo app",
+   "owner": "MTN Zambia",
+   "tiers": ""
+  },
+  {
+   "system": "Zanaco POS and ATM network",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Zanaco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

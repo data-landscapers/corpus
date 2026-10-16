@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-08-brb-interoperabilite-paiements-papss",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The BRB says BurundiPay already allows exchanges between banks, microfinance institutions and mobile wallets locally.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The BRB launched BurundiPay, a national instant payment system, on 23 April 2026, connecting banks, microfinance institutions and mobile wallets.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "instant payment system",
+   "owner": "BRB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

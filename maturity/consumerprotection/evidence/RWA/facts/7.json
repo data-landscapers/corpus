@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Governor Hakuziyaremye says Rwanda's consumer-protection framework requires failed transfers to be refunded in a timely manner.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "BNR says users with unresolved payment problems can contact it through social media or the Intumwa chatbot so it can establish what happened and whether to refund.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

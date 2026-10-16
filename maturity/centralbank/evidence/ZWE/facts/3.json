@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZETSS (RTGS)",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "RTGS",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Zimswitch",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "switch",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The report gives statistics only and states no mandate, licensing, switch oversight or regional link."
+}

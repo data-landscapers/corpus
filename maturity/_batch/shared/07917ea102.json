@@ -1,0 +1,10 @@
+{"slug": "2026-10-08-cog-adiac-artf-terminaux-paiement-2027", "studies": {
+"businesspayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article covers money-transfer operator terminals; no public procurement stated."}}},
+"centralbank": {"countries": {"COG": {"facts": [], "systems": [{"system": "ARTF digital platform and TPE terminals", "country_label": "Congo", "class": "other", "platform": "electronic payment terminals", "owner": "ARTF", "tiers": ""}], "note": "ARTF is a money-transfer regulator, not the central bank; no central bank role stated."}}},
+"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [], "note": "No consumer-protection rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Terminals capture incoming and outgoing transfers for tax, but no digital corridor or regional link is named."}}},
+"g2ppayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"COG": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article concerns money-transfer and exchange operators, not mobile money or retail wallets."}}},
+"revenuecollection": {"countries": {"COG": {"facts": [], "systems": [], "note": "Terminals let the state tax transfer operators from live transaction data, but no electronic payment of taxes to the state is stated."}}}
+}}

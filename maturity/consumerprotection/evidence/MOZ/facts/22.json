@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The SPIM regulation in force from 2 March 2026 sets a complaints procedure with an electronic portal, requires participants to answer complaints within the deadlines of Aviso 9/GBM/2020, and makes breaches punishable under the payments law.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "SPIM complaints handling (article 23)",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Aviso 9/GBM/2020 Regulamento de Tratamento de Reclamações",
+   "country_label": "Mozambique",
+   "class": "protection",
+   "platform": "",
+   "owner": "Banco de Moçambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

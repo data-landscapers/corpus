@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-31-angola-kwanza-joins-sadc-rtgs-cross-border-settlement",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The BNA integrated the kwanza into the SADC-RTGS from 2026-07-27, with five Angolan commercial banks participating, per BNA governor Tiago Dias.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

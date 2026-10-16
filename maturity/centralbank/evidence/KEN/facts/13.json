@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-24-kenya-kenswitch-domestic-card-scheme",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile money",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Kenswitch Card",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenswitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this question for the country."
+}

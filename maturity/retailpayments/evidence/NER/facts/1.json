@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-29-banque-atlantique-nita-bank-to-wallet-interoperability-lesahel",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Banque Atlantique Niger and NITA say they launched Bank to Wallet and Wallet to Bank services on 26 June 2026 in Niamey, giving instant transfers between a bank account and an electronic wallet.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Bank to Wallet / Wallet to Bank",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Banque Atlantique Niger and NITA say the services interconnect bank accounts and NITA e-wallets for instant transfers in both directions, launched 26 June 2026.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Bank to Wallet / Wallet to Bank",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank to Wallet / Wallet to Bank",
+   "country_label": "Niger",
+   "class": "retail",
+   "platform": "",
+   "owner": "Banque Atlantique Niger and NITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

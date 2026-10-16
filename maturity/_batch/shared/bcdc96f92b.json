@@ -1,0 +1,127 @@
+{
+ "slug": "2026-09-27-mar-instant-payment-mfc-talks",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Bank Al-Maghrib's payments department says the central bank has organised interoperability and framed access to payment infrastructures, per Le Matin's report of the 11th MFC Talks.",
+       "as_of": "2026-09-27",
+       "date_precision": "day",
+       "system": "Interoperable mobile payment system",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Switch Al Maghrib interoperable mobile payment",
+       "country_label": "Morocco",
+       "class": "retail",
+       "platform": "",
+       "owner": "Switch Al Maghrib",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Morocco has wallets and an interoperable mobile payment system, though Switch Al Maghrib's director general says traffic on it remains limited.",
+       "as_of": "2026-09-27",
+       "date_precision": "day",
+       "system": "Switch Al Maghrib interoperable mobile payment",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place.",
+       "as_of": "2026-09-27",
+       "date_precision": "day",
+       "system": "Switch Al Maghrib interoperable mobile payment",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Switch Al Maghrib interoperable mobile payment",
+       "country_label": "Morocco",
+       "class": "retail",
+       "platform": "",
+       "owner": "Switch Al Maghrib",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

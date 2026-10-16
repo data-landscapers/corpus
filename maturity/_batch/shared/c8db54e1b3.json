@@ -1,0 +1,108 @@
+{
+ "slug": "2026-08-09-tunisia-cyber-risk-electronic-payments-liability-gap",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "Central Bank of Tunisia Circular No. 2024-2 of 29 January 2024 governs the information given to clients about the marketing and pricing of financial products and services, including remote operations.",
+       "as_of": "2024-01-29",
+       "date_precision": "day",
+       "system": "Circular 2024-2",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Central Bank of Tunisia Circular 2024-2",
+       "country_label": "Tunisia",
+       "class": "protection",
+       "platform": "",
+       "owner": "Central Bank of Tunisia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Central Bank of Tunisia's Bulletin No. 15 reports mobile payments of 8.4 million transactions worth 1.769 billion dinars in 2025, up 81% in transactions.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile payments",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-youm7-egypt-ntra-mobile-wallets-h1-2026",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Youm7 reports that in H1 2026 NTRA made it possible to query and pay prosecution service fees (criminal, family and traffic prosecution) with e-wallets.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "mobile wallets for prosecution services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

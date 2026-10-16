@@ -1,0 +1,77 @@
+{
+ "slug": "2025-10-01-world-bank-gambia-global-findex-2025-connectivity-microdata",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Gambian figure or finding is stated."
+    }
+   }
+  }
+ }
+}

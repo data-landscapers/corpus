@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-19-papss-14th-governing-council-nairobi-dailynewsegypt",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Egypt joined the PAPSS network in November 2024 under a model letting Egyptian banks fund and execute regional cross-border transactions directly without a US dollar settlement agent, per Daily News Egypt.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "PAPSS",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

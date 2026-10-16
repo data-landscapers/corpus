@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-13-orange-money-paymentology-3d-secure",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Mmegi reports Orange Money is Botswana's most dominant mobile money service and has added Visa 3D Secure for its virtual cards with Paymentology.",
+       "as_of": "2026-04-13",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Botswana",
+       "class": "retail",
+       "platform": "Paymentology",
+       "owner": "Orange",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  }
+ }
+}

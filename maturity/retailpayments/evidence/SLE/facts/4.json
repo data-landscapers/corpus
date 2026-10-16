@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-18-orange-sierra-leone-scam-alert-tool",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange Sierra Leone said Orange Money lets customers send and receive money, pay bills, and shop online and in stores.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

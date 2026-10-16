@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-gha-myjoyonline-mobile-money-transactions-gh3-8trn",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank of Ghana data show mobile money transactions worth GH¢518.8 billion in August 2026, with 26.4 million active of 85.8 million registered accounts.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

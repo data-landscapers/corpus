@@ -1,0 +1,44 @@
+{
+ "slug": "2026-03-13-mediaguinee-orange-money-bng-acces-a-ma-banque",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mediaguinee says Orange Finances Mobiles Guinee launched Orange Money 'Acces a ma banque' with Banque Nationale de Guinee, usable by app and *144*5#.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Mediaguinee says linked BNG account holders can fund Orange Money from their BNG account and the reverse, check balance and history, 24h/24.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Acces a ma banque",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Finances Mobiles Guinee",
+   "tiers": ""
+  },
+  {
+   "system": "Acces a ma banque",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "app and USSD *144*5#",
+   "owner": "Orange Finances Mobiles Guinee with Banque Nationale de Guinee",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

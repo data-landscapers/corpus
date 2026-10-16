@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-zig-legal-tender-why-cant-you-use-online",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The RBZ capped POS charges at 1.5% of transaction value for local and international cards from 1 April 2026, with no minimum fee and a maximum of US$20.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "POS charge cap",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Tchadinfos says digitalisation of public revenue limits fraud and speeds the entry of funds into the State's coffers.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "digitalised public revenue collection",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nita",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GIMACPAY",
+   "country_label": "TCD",
+   "class": "other",
+   "platform": "",
+   "owner": "GIMAC",
+   "tiers": "CEMAC"
+  }
+ ],
+ "note": ""
+}

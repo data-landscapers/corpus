@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-uemoa-pi-spi-bceao-operationnel",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCEAO governor launched the interoperable instant payment platform PI-SPI on 30 September 2025, linking banks, e-money issuers, microfinance institutions and payment institutions across the UEMOA.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Burkina Faso",
+   "class": "oversight",
+   "platform": "BCEAO",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

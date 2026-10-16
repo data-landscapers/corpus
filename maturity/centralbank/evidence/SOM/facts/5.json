@@ -1,0 +1,60 @@
+{
+ "slug": "2026-09-20-som-hiiraan-osman-central-bank-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Guleid Osman writes that the Central Bank of Somalia licenses and supervises financial institutions, has introduced mobile-money regulation, and its website reports fifteen licensed commercial banks and six mobile-money service providers.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Central Bank of Somalia licensing",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Guleid Osman writes that the Central Bank of Somalia has launched the National Payment System, the Somali Payment Switch and the Somali Instant Payment System (SIPS), which the Bank states supports real-time transfers among banks, mobile wallets and points of sale.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Somali Instant Payment System (SIPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Somali Payment Switch",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "SOMQR",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "EVC Plus",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Hormuud Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

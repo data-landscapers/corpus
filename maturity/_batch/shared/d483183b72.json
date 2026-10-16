@@ -1,0 +1,117 @@
+{
+ "slug": "2025-12-23-mtn-momo-ura-enhance-digital-tax-services",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MTN MoMo is described as a platform with millions of active users for everyday payments across Uganda.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "MTN Mobile Money (U) Limited",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "MTN Mobile Money and the Uganda Revenue Authority announced an enhanced URA tax and government payment menu on *165*18#, live nationwide.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "MTN MoMo URA menu *165*18#",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo URA menu *165*18#",
+       "country_label": "Uganda",
+       "class": "revenue",
+       "platform": "MTN MoMo USSD",
+       "owner": "MTN Mobile Money (U) Limited with URA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

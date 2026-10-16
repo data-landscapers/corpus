@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Eswatini Positive News says the Eswatini Payment Switch is a national payment system deployed by the Central Bank of Eswatini to connect banks and mobile wallets, and DeltaPay's transfers now run live on it.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Eswatini Payment Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Payment Switch",
+   "country_label": "Eswatini",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

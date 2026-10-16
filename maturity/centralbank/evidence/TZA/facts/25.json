@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-28-interoperability-costs-cut-113-agencies",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The finance minister told the National Assembly that as of March 2026, 113 service providers were licensed to operate payment system services, with the Bank of Tanzania licensing new players.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Bank of Tanzania payment provider licensing",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Tanzania capped the maximum cost of single transactions in the Tanzania Automated Clearing House and the instant payment system at 2,000/- in 2024 and 2025, with a focus on the Tanzania Instant Payment System (TIPS).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "TIPS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIPS",
+   "country_label": "Tanzania",
+   "class": "oversight",
+   "platform": "Tanzania Instant Payment System",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "TACH",
+   "country_label": "Tanzania",
+   "class": "oversight",
+   "platform": "Tanzania Automated Clearing House",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

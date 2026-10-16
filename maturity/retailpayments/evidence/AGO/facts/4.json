@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-29-operacoes-no-kwik-crescimento-acima-dos-100",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "KWiK, the instant payment system developed by EMIS with Banco Nacional de Angola, processed 35 million transfers worth 590 billion kwanzas in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "KWiK",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "KWiK operates between all banks and payment service providers, enabling transfers between different banks and mobile wallets, with 22 institutions integrated.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "KWiK",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "KWiK connects banks and mobile wallets on one national instant payment system, per the CCENIF press note.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "KWiK",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KWiK",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "EMIS",
+   "owner": "Banco Nacional de Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

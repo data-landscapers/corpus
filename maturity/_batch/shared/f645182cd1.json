@@ -1,0 +1,10 @@
+{"slug": "2026-07-24-cote-divoire-mobile-money-outlets-id-copies-data-protection", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "ARTCI is the telecoms regulator; no central bank role stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Data protection law alone; no financial conduct rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Electronic money institutions Orange, Wave, MTN and Moov run mobile money in Cote d'Ivoire through small agents at neighbourhood kiosks who verify clients' ID at withdrawal and are told by the operators to keep a copy, per Ivoirexpress.", "as_of": "2026-07-24", "date_precision": "day", "system": "Mobile Money", "class": "retail"}], "systems": [{"system": "Orange Money", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "mobile money", "owner": "Orange", "tiers": ""}, {"system": "Wave", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "mobile money", "owner": "Wave", "tiers": ""}, {"system": "MTN Mobile Money", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "mobile money", "owner": "MTN", "tiers": ""}, {"system": "Moov Money", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "mobile money", "owner": "Moov", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

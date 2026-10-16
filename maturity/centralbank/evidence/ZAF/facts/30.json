@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-payshap-pivots-to-merchants",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "PayShap",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

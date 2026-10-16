@@ -1,0 +1,13 @@
+# Ghana
+
+## Cross-border functionality
+
+**Corridor in service.** [MyJoyOnline reports Stanbic Bank Ghana, with Bank of Ghana approval, now offers direct yuan settlement via CIPS, with the service operational so individuals can make remittances, tuition and medical payments and businesses can pay China from cedi accounts](<https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/>). [Ghana News Agency reports the Bank of Ghana saying it is piloting cross-border interoperability with CBDCs, stablecoins, bank accounts and mobile wallets in the Ghana-Rwanda and Ghana-Nigeria corridors, with the aim of moving to live services](<https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/>). [Governor Asiama said PAPSS has already been extended to mobile wallets along the Ghana-Nigeria corridor](<https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html>).
+
+**Regional system.** [Ghana News Agency reports the Bank of Ghana saying it has extended PAPSS to mobile wallets in the Ghana-Nigeria corridor](<https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/>). [Governor Asiama described PAPSS as existing infrastructure in use by Ghana, extended to mobile wallets on the Ghana-Nigeria corridor](<https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html>).
+
+**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/>).
+
+***Noted, not assessed***. [Licence Passporting Framework](<https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html>); [mobile money](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [e-cedi](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [Digital Credit Service Providers Directive](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>).
+
+***Not held***. No source held since October 2023 says the country takes part in PAPSS or a regional payment system.

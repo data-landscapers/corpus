@@ -1,0 +1,109 @@
+{
+ "slug": "2026-10-04-rwa-taarifa-digital-payments-3-1-billion-fraud-complaints",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "Taarifa reports Prime Minister Nsengiyumva attributing a fall in fraud complaints to regulations and mechanisms introduced to prevent fraud, resolve complaints and recover misappropriated funds.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "Taarifa reports reported financial fraud complaints fell about 30% in Q2 2026 from 4,128 in Q2 2025, per the Prime Minister.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "73.7% is adults making digital payments, no survey named and no account share stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Taarifa reports 715 per 1,000 adults were regular mobile-money users in 2025, up from 433 per 1,000 in 2017, per the Prime Minister.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

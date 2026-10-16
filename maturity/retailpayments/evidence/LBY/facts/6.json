@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-26-cbl-instant-payment-services-statistics",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Libya reports its LYPay service had 1,278,783 individual and 8,814 merchant subscribers and 102,059 purchases and transfers worth 285.8 million LYD from 1 August to 26 December 2024.",
+   "as_of": "2024-12-26",
+   "date_precision": "day",
+   "system": "LYPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Libya reports its OnePay service had 2,475,622 clients, 29,317 active merchants and 411,169 transactions worth 1,010,811,808 LYD from 1 August to 26 December 2024.",
+   "as_of": "2024-12-26",
+   "date_precision": "day",
+   "system": "OnePay",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

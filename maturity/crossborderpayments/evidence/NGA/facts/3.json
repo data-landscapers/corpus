@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-nigeriaworks-papss-ogbalu-briefing-notes",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council and continues to be a leader in its rollout.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-09-05-thefintechtimes-zambia-mobile-money-analysis","studies":{
+"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Only a cheque phase-out is stated, no payments mandate or licensing."}}},
+"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Only a 2011 share and a registered-account count; no survey share in the last three years."}}},
+"retailpayments":{"countries":{"ZMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Fintech Times says MTN MoMo, Airtel Money and Zamtel Money are mobile money services in use in Zambia, with agents extending services to communities, and about 14.7 million registered accounts in 2024 per IMF data.","as_of":"2026-09-05","date_precision":"day","system":"MTN MoMo, Airtel Money, Zamtel Money","class":"retail"}],"systems":[{"system":"MTN MoMo","country_label":"Zambia","class":"retail","platform":"mobile money","owner":"MTN","tiers":""},{"system":"Airtel Money","country_label":"Zambia","class":"retail","platform":"mobile money","owner":"Airtel","tiers":""},{"system":"Zamtel Money","country_label":"Zambia","class":"retail","platform":"mobile money","owner":"Zamtel","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

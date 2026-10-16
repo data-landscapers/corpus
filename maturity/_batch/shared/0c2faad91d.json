@@ -119,6 +119,135 @@
      "note": ""
     }
    }
+  },
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "TIPS",
+       "country_label": "Tanzania",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The article does not say the Bank of Tanzania runs or oversees TIPS or licenses providers; the sandbox reviewed fintech applications only."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer protection rule or complaints body stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stablecoin cross-border payment idea being explored in a sandbox; no corridor piloted or licensed."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government payments to people."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Index scores and account counts only; no survey share of adults with an account."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Tanzania's mobile money has nearly 2 million agents, 75.8 million active accounts and 6.31 billion transactions in 2025, per the National Council for Financial Inclusion report.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Mobile money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Tanzania Instant Payment System connects 47 financial service providers, and bank-to-wallet transfer charges have been reduced, per the report.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "TIPS",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The Tanzania Instant Payment System, a national system, connects 47 financial service providers including for bank-to-wallet transfers, per the report.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "TIPS",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TIPS",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Mobile money",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on revenue collection."
+    }
+   }
   }
  }
 }

@@ -1,0 +1,151 @@
+{
+ "id": "revenuecollection",
+ "study_file": "maturity-study-revenuecollection.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--revenue-collection"
+ ],
+ "carry": [
+  "dpi.pay--revenue-collection"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "e-tax",
+  "tax payment",
+  "tax payments",
+  "pay taxes",
+  "e-filing",
+  "online tax",
+  "electronic fiscal device",
+  "e-invoicing",
+  "electronic invoicing",
+  "télédéclaration",
+  "télépaiement",
+  "paiement des impôts",
+  "facture normalisée",
+  "e-tax payment"
+ ],
+ "sub_indicators": [
+  {
+   "key": "revenue",
+   "label": "Revenue collection",
+   "subject": "dpi.pay",
+   "text": "Revenue collection: revenue collection",
+   "indicator_id": "dpi.pay--revenue-collection-revenue-collection",
+   "class": "revenue",
+   "norm_short": "The AfCFTA Digital Trade Protocol asks states to accept electronic payment and electronic documents for trade and dues.",
+   "criteria": [
+    "A source from the past three years says taxes, duties or fees are paid in cash or on paper only.",
+    "Electronic payment of a tax or fee is piloted or contracted, or e-filing is announced.",
+    "Electronic payment is in service for some taxes or fees.",
+    "Electronic filing and payment are in service for the main taxes and for customs duties.",
+    "A source from the past three years gives a figure for revenue paid electronically: a share or an amount."
+   ],
+   "criteria_of": "69229ad06451"
+  }
+ ],
+ "classes": [
+  "revenue",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "payment",
+   "name": "Paid electronically",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "main",
+   "name": "Main taxes and duties",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "main"
+   ],
+   "values": [
+    "main"
+   ]
+  },
+  {
+   "key": "reported",
+   "name": "Share reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

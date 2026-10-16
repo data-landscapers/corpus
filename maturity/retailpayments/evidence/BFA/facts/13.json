@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-telecel-money-giephab-pharmacies-digital-payment",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech Review Africa reports Telecel Money has an extensive user base in Burkina Faso and signed an agreement with GIEPHAB (2,500+ pharmacies) to accept its payments, starting in Ouagadougou.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "Telecel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecel Money",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Telecel Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

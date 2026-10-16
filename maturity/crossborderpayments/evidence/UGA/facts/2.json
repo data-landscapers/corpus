@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-comesa-eu-partnership-shaping-a-digital-future",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "COMESA, with EU funding, is supporting deployment of its Digital Retail Payment Platform across eight pilot countries including Uganda, with an implementation plan still to be drawn up.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "COMESA Digital Retail Payment Platform",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "COMESA Digital Retail Payment Platform",
+   "country_label": "Uganda",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "COMESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-16-rbm-national-payments-strategy-2026-2030-itweb",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Reserve Bank of Malawi rolled out the National Switch in 2015, linking banks, mobile money platforms and ATMs into one network.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "National Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Switch",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Reserve Bank of Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Interbank Transfer and Settlement System",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

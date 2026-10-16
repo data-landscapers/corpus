@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "M-PESA Ethiopia offers its Super App, through which users pay bills including Amhara region taxes, as a mobile financial service in service.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "M-PESA Super App",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA Super App",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "M-PESA",
+   "owner": "M-PESA Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

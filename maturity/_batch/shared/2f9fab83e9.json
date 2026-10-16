@@ -1,0 +1,97 @@
+{
+ "slug": "2025-04-22-velmie-metrocable-vult-digital-wallet",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechAfrica News said Velmie and Metro Cable launched Vult, a digital wallet to send and receive money, pay bills and top up from mobile money, with 475,000+ users in its first year per a later case study.",
+       "as_of": "2025-04-22",
+       "date_precision": "day",
+       "system": "Vult",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Vult",
+       "country_label": "Vult",
+       "class": "retail",
+       "platform": "Velmie",
+       "owner": "Metro Cable",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

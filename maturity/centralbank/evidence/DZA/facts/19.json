@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The document says Algeria later joined PAPSS's own IPS as its 18th member.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Domestic instant payment system",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "instant switch",
+   "owner": "Bank of Algeria / CPI",
+   "tiers": "in preparation"
+  },
+  {
+   "system": "DZ MOB PAY",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "mobile wallet app",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

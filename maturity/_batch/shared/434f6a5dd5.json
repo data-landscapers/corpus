@@ -1,0 +1,16 @@
+{"slug":"2026-02-17-techcabal-semoa-bceao-licence","studies":{
+"businesspayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No public procurement system is mentioned."}}},
+"centralbank":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"TechCabal reports the BCEAO granted Togolese fintech Semoa its Level 3 payment institution accreditation on 29 January 2026, the first of its kind for a Togolese company.","as_of":"2026-01-29","date_precision":"day","system":"BCEAO instruction n° 001-01-2024 payment institution licence","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"TechCabal says INTOUCH Togo obtained its BCEAO electronic money institution licence in June 2025.","as_of":"2025-06","date_precision":"month","system":"BCEAO electronic money institution licence","class":"oversight"}],
+"systems":[{"system":"BCEAO instruction n° 001-01-2024","country_label":"Togo","class":"oversight","platform":"","owner":"BCEAO","tiers":"three licence levels by capital"}],"note":""}}},
+"consumerprotection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is mentioned."}}},
+"crossborderpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"TechCabal says Semoa's Level 3 BCEAO licence lifts its earlier self-imposed limit on cross-border transfers and lets it offer national and cross-border money transfers within UEMOA.","as_of":"2026-01-29","date_precision":"day","system":"Semoa Level 3 licence","class":"crossborder"}],
+"systems":[{"system":"Semoa","country_label":"Togo","class":"crossborder","platform":"","owner":"Semoa Group","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No government payment to people is mentioned."}}},
+"paymentsuptake":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The 36% mobile money use share has no survey named, so it is not an account survey share."}}},
+"retailpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"TechCabal says 36% of Togolese adults use mobile money and mobile money transactions reached US$1.54 billion in the first quarter of 2024.","as_of":"2024","date_precision":"year","system":"mobile money","class":"retail"}],
+"systems":[{"system":"mobile money","country_label":"Togo","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Semoa's tax stamp voucher tool is not stated to take payments of taxes."}}}}}

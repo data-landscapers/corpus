@@ -1,0 +1,10 @@
+{"slug":"2025-08-30-rwanda-loda-vup-digital-payments","studies":{
+"businesspayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"RWA":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"LODA launched 'My Phone, My Money' on 30 August 2025 so Vision Umurenge Programme recipients receive monthly support into Umurenge SACCO accounts linked to their own SIM cards and access it by phone (*541#) at MTN or Airtel agents; the campaign began 19 August in three districts.","as_of":"2025-08-30","date_precision":"day","system":"VUP Digital Payment","class":"g2p"}],"systems":[{"system":"VUP Digital Payment","country_label":"Rwanda","class":"g2p","platform":"Umurenge SACCO accounts, *541#","owner":"LODA","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"RWA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Rwandan VUP recipients can hold and withdraw their support on their phones through MTN or Airtel mobile money agents, per LODA.","as_of":"2025-08-30","date_precision":"day","system":"MTN and Airtel mobile money","class":"retail"}],"systems":[{"system":"MTN mobile money","country_label":"Rwanda","class":"retail","platform":"","owner":"MTN Rwanda","tiers":""},{"system":"Airtel mobile money","country_label":"Rwanda","class":"retail","platform":"","owner":"Airtel Rwanda","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

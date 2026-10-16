@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-aps-css-paiement-prestations-sociales-wave",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Caisse de Sécurité Sociale announced on 2 September 2026 that social benefits will be paid into beneficiaries' Wave accounts, with enrolment by form and no start date given.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Wave",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Wave",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

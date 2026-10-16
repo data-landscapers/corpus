@@ -1,0 +1,10 @@
+{"slug":"2026-07-31-sa-operation-vulindlela-q1-2026-progress-report","studies":{
+"businesspayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Extract covers digital public infrastructure only; no procurement system."}}},
+"centralbank":{"countries":{"ZAF":{"facts":[],"systems":[{"system":"Payments Ecosystem Modernisation programme","country_label":"South Africa","class":"other","platform":"","owner":"National Treasury / Presidency","tiers":""}],"note":"Programme is described without a central bank role."}}},
+"consumerprotection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Payment credential and wallet are in development with no government payment to people stated."}}},
+"paymentsuptake":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No account-ownership survey stated."}}},
+"retailpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Wallet and credential capabilities are in development, not licensed or piloted as a service."}}},
+"revenuecollection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

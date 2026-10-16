@@ -1,0 +1,88 @@
+{
+ "slug": "2025-11-01-bcstp-segundo-inquerito-inclusao-literacia-financeiras-texto-integral",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "The BCSTP second demand-side survey (early 2025) found 38% of adults hold a bank account.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "BCSTP 2nd Demand-Side Survey",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  }
+ }
+}

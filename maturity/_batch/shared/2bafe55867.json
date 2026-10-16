@@ -1,0 +1,95 @@
+{
+ "slug": "2026-10-06-zimbabwe-eyes-indias-upi-tech-for-national-payments-network",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "UPI-based real-time payments system",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "NPCI International UPI technology",
+       "owner": "Reserve Bank of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": "The RBZ is negotiating a system; no mandate, licensing or in-service switch is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Cross-border payments are stated not to be part of the immediate deployment."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "UPI-based real-time payments system",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "NPCI International UPI technology",
+       "owner": "Reserve Bank of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  }
+ }
+}

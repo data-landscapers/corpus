@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-29-axian-mastercard-digital-payments-partnership-techreviewafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "AXIAN",
+   "tiers": ""
+  }
+ ],
+ "note": "Article describes a card rollout; it does not state the wallet service itself."
+}

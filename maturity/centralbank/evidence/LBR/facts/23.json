@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025, with the central bank as settlement agent.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

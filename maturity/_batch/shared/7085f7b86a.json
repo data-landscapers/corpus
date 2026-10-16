@@ -1,0 +1,12 @@
+{"slug": "2026-09-10-sdn-dabanga-bankak-outages-digital-payments", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A commentator calls for the Central Bank of Sudan to lead an interoperable system; no current role is stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Banking expert Abdullatif Ali Ibrahim says Bankak, the Bank of Khartoum app, remains Sudan's leading digital transfer platform, used for daily and commercial transactions, with Fawry and other bank services also operating (Dabanga).", "as_of": "2026-09-10", "date_precision": "day", "system": "Bankak", "class": "retail"}
+], "systems": [{"system": "Bankak", "country_label": "Sudan", "class": "retail", "platform": "bank app", "owner": "Bank of Khartoum", "tiers": ""}, {"system": "Fawry", "country_label": "Sudan", "class": "retail", "platform": "bank app", "owner": "Faisal Islamic Bank", "tiers": ""}], "note": "Interoperability is described as missing, not in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Utility payments are mentioned as disrupted; no tax or fee payment to the state is stated."}}}
+}}

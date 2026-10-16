@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-08-uganda-5-5bn-digital-project-cbdc-shilling",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports Uganda's mobile money success, with MTN MoMo and Airtel Money operating over USSD, as the base for a planned digital shilling pilot.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "MTN MoMo; Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "USSD",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "USSD",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

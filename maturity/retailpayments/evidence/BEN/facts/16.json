@@ -1,0 +1,42 @@
+{
+ "slug": "2025-01-06-mobile-money-contourner-taxe-especes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Fraternité reports Mobile Money is the most widespread e-money service in Benin, offered by three providers: MTN Mobile Money, Moov Money and Celtiis Cash.",
+   "as_of": "2025-01-06",
+   "date_precision": "day",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "Moov",
+   "tiers": ""
+  },
+  {
+   "system": "Celtiis Cash",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "Celtiis",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

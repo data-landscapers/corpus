@@ -1,0 +1,10 @@
+{"slug":"2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document is about bank customer eKYC, not procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[],"systems":[{"system":"Digital Financial Identity Platform (eKYC)","country_label":"Egypt","class":"other","platform":"","owner":"Central Bank of Egypt","tiers":""}],"note":"eKYC rules for bank customers; no payments or e-money mandate, licensing, switch or regional link stated."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Data protection and cybersecurity controls only; no conduct rule or redress."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No payment service stated."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

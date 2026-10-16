@@ -1,0 +1,10 @@
+{"slug":"2026-09-19-aacb-papss-board-egyptian-participation-businessmeneg","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"The Central Bank of Egypt joined PAPSS in November 2024 and built a framework letting Egyptian banks execute and fund cross-border transactions with African counterparts directly, per the CBE Governor reporting to the PAPSS Board.","as_of":"2024-11","date_precision":"month","system":"PAPSS","class":"oversight"}],"systems":[{"system":"PAPSS","country_label":"Egypt","class":"crossborder","platform":"PAPSS","owner":"Afreximbank","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Egypt joined PAPSS in November 2024, and the Central Bank of Egypt says Egyptian banks can directly execute and fund cross-border transactions with regional counterparts without clearing agents or US dollar reliance.","as_of":"2024-11","date_precision":"month","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Egypt","class":"crossborder","platform":"PAPSS","owner":"Afreximbank","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

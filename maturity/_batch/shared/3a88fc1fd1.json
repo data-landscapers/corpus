@@ -1,0 +1,10 @@
+{"slug": "2026-07-22-fusepay-fuse360-ai-operating-system", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [{"system": "Fuse360", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Fusepay", "tiers": ""}], "note": "Private trade-business software, not public procurement."}}},
+"centralbank": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Mauritius expansion is of a software product, no payment corridor stated."}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No survey share of adults given."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [{"system": "FusePay", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Fusepay", "tiers": ""}], "note": "FusePay is a business payments and supplier settlement product, not a person-to-person service."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on tax or fee collection."}}}
+}}

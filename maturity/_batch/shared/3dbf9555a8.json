@@ -1,0 +1,10 @@
+{"slug":"2026-08-19-wearetech-lideflow-esso-dong-djafalo-paiements-transfrontaliers","studies":{
+"businesspayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not mention the central bank."}}},
+"consumerprotection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not mention consumer protection."}}},
+"crossborderpayments":{"countries":{"TGO":{"facts":[],"systems":[{"system":"Lideflow","country_label":"Togo","class":"other","platform":"private cross-border payment platform","owner":"Lideflow","tiers":""}],"note":"Private fintech platform; no regulated corridor or licence stated."}}},
+"g2ppayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not mention government payments."}}},
+"paymentsuptake":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No survey figures given."}}},
+"retailpayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not describe a Togolese retail payment service."}}},
+"revenuecollection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document does not mention tax or fee payment."}}}
+}}

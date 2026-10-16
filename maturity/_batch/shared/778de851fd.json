@@ -1,0 +1,105 @@
+{
+ "slug": "2026-07-26-nigeria-payment-vision-2028",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says Nigeria's earlier payment vision produced mobile money services and agency banking, alongside the NIP instant payment platform, as reported by The Nation.",
+       "as_of": "2026-07-26",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIBSS Instant Payment (NIP)",
+       "country_label": "Nigeria",
+       "class": "retail",
+       "platform": "",
+       "owner": "NIBSS",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,Somalia Instant Payment System,Somalia,retail,ISO 20022,Central Bank of Somalia,,2026-10-05-som-itweb-mobile-money-silos
+SOM,EVC Plus,Somalia,retail,,Hormuud Telecom,,2026-10-05-som-itweb-mobile-money-silos
+SOM,SIPS,Somalia,retail,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,Somalia Instant Payment System (SIPS),Somalia,retail,ISO 20022,Somalia Payment Switch (Central Bank and 13 banks),,2026-07-26-sonna-central-bank-one-payments-network
+SOM,National Payment System (RTGS),Somalia,other,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,SOMQR,Somalia,retail,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,PAPSS,Somalia,other,,,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,EVC Plus,Somalia,retail,,Hormuud Telecom,,2026-06-18-hormuud-anchors-somalia-digital-economy
+SOM,WAAFI,Somalia,other,,,,2026-06-18-hormuud-anchors-somalia-digital-economy
+SOM,Somali Quick Response Code (SOMQR),Somalia,retail,QR code (EMVCo),Central Bank of Somalia,,2026-01-01-somalia-cbs-national-payment-system
+SOM,EVC Plus,Somalia,retail,mobile money,Hormuud Telecom,,2025-08-20-hormuud-evc-plus-gsma-recertification
+SOM,SOMQR,Somalia,retail,BPC SmartVista,Central Bank of Somalia,,2025-03-25 Somalia taps BPC to launch first nationwide instant payment system
+SOM,EVC Plus,Somalia,retail,,Hormuud Telecom,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,Somali Instant Payment System (SIPS),Somalia,retail,,Central Bank of Somalia,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,Somalia Instant Payment System (SIPS),Somalia,retail,,Central Bank of Somalia,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,Hormuud mobile money,Somalia,retail,,Hormuud,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,Telesom mobile money,Somalia,retail,,Telesom,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026

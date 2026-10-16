@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-01-somalia-cbs-national-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Somalia says over two-thirds of payments in Somalia are already processed through mobile money and other digital platforms.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Central Bank of Somalia says SIPS, launched January 2025, enables real-time 24/7 transfers between banks, mobile wallets and point-of-sale terminals regardless of provider.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Somali Instant Payment System (SIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Central Bank of Somalia says the Somali Payment Switch and SIPS, launched January 2025, connect banks, mobile wallets and point-of-sale terminals in real time.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Somali Payment Switch (SPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali Quick Response Code (SOMQR)",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "QR code (EMVCo)",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

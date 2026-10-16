@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-01-thecitizen-tanzania-mobile-money-cashless",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The FinScope Tanzania 2023 survey showed mobile money adoption at 72% in 2023, up from 60% in 2017.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Tanzania 2023",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The FinScope Tanzania 2023 survey showed mobile money adoption at 72% in 2023, up from 60% in 2017.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Tanzania 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

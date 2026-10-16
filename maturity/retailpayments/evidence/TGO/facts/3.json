@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-03-bceao-adhesion-pi-spi-30-juin",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "PI-SPI lets banks, e-money institutions, microfinance institutions and payment institutions transact instantly across the WAEMU; 80 are connected including 59 banks and 9 e-money institutions (Togo First).",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "WAEMU / Togo",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, microfinance, payment institutions"
+  }
+ ],
+ "note": ""
+}

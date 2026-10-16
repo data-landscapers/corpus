@@ -1,0 +1,149 @@
+{
+ "slug": "2026-10-05-cbl-electronic-transactions-865-billion-dinars",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Moamalat Financial Services Company",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Meeting report; states an e-transaction total and discussion topics, no payment-system fact for these studies."
+    }
+   }
+  }
+ }
+}

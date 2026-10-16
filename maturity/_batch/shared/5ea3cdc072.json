@@ -1,0 +1,153 @@
+{
+ "slug": "2026-10-05-som-itweb-mobile-money-silos",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Somalia launched the Somalia Instant Payment System in January 2025, built on ISO 20022, for real-time transfers between banks, mobile wallets and other channels.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Somalia Instant Payment System",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "EVC Plus",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Hormuud Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says money largely remains within individual operators' mobile money wallets, with Hormuud Telecom operating the EVC Plus platform.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "EVC Plus",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "ITWeb Africa says the Central Bank of Somalia launched the Somalia Instant Payment System in January 2025 to enable real-time transfers between banks, mobile wallets and other channels, while integration between mobile money platforms remains limited.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Somalia Instant Payment System",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "ITWeb Africa says the Central Bank of Somalia launched the Somalia Instant Payment System in January 2025, on ISO 20022, for real-time transfers between banks and mobile wallets.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Somalia Instant Payment System",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "EVC Plus",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Hormuud Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

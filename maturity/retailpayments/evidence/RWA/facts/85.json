@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The NBR Financial Inclusion Dashboard indicates that 66% of adults use mobile money, 10% use mobile banking and 5% hold debit cards (KT Press).",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

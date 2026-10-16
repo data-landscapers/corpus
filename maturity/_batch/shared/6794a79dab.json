@@ -1,0 +1,88 @@
+{
+ "slug": "2026-09-18-kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34-000-agents-exit",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Communications Authority of Kenya reports 54,005,800 mobile money subscriptions and 568,463 registered agents in the quarter ended 30 June 2026.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives subscription and agent counts from the telecoms regulator, not a survey share or central bank role; it answers no question of this study."
+    }
+   }
+  }
+ }
+}

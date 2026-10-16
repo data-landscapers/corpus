@@ -1,0 +1,149 @@
+{
+ "id": "crossborderpayments",
+ "study_file": "maturity-study-crossborderpayments.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--cross-border-functionality"
+ ],
+ "carry": [
+  "dpi.pay--cross-border-functionality"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "cross-border payment",
+  "cross-border payments",
+  "cross-border mobile money",
+  "remittance corridor",
+  "TCIB",
+  "SADC-RTGS",
+  "REPSS",
+  "EAPS",
+  "GIM-UEMOA",
+  "paiements transfrontaliers",
+  "transferts transfrontaliers",
+  "pagamentos transfronteiriços"
+ ],
+ "sub_indicators": [
+  {
+   "key": "crossborder",
+   "label": "Cross-border functionality",
+   "subject": "dpi.pay",
+   "text": "Cross-border functionality: cross-border functionality",
+   "indicator_id": "dpi.pay--cross-border-functionality-cross-border-functionality",
+   "class": "crossborder",
+   "norm_short": "The African Union's Digital Transformation Strategy and the Pan-African Payment and Settlement System aim at a single African payments area, with cross-border mobile money regulated and costs brought down.",
+   "criteria": [
+    "A source from the past three years says no regulated cross-border digital payment channel exists.",
+    "A cross-border digital payment corridor is piloted or licensed, or rules for it are being drafted.",
+    "Cross-border mobile money or digital remittances through a named corridor are in service.",
+    "The country takes part in PAPSS or a regional payment system in service.",
+    "A source from the past three years gives a figure for cross-border digital payments through the country's corridors: volume, value or cost."
+   ],
+   "criteria_of": "b49b98489626"
+  }
+ ],
+ "classes": [
+  "crossborder",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "corridor",
+   "name": "Corridor in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "regional",
+   "name": "Regional system",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "regional"
+   ],
+   "values": [
+    "regional"
+   ]
+  },
+  {
+   "key": "reported",
+   "name": "Volumes reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

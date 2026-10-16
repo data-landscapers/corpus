@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-24-cote-divoire-mobile-money-outlets-id-copies-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Electronic money institutions Orange, Wave, MTN and Moov run mobile money in Cote d'Ivoire through small agents at neighbourhood kiosks who verify clients' ID at withdrawal and are told by the operators to keep a copy, per Ivoirexpress.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "Wave",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Wave",
+   "tiers": ""
+  },
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

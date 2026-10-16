@@ -1,0 +1,9 @@
+{"slug":"2026-09-21-wearetech-sonar-orange-money-burkina","studies":{
+"businesspayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Insurance partnership; no public procurement stated."}}},
+"centralbank":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"BFA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Orange Money Burkina Faso's director general says the service has about 100,000 points of sale in the country, and SONAR Assurance signed a convention on 18 September 2026 to sell policies and take premium payments through it.","as_of":"2026-09-18","date_precision":"day","system":"Orange Money","class":"retail"}],"systems":[{"system":"Orange Money","country_label":"Burkina Faso","class":"retail","platform":"","owner":"Orange","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

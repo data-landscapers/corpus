@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-aljazeera-electronic-payment-sudan-liquidity-shortage",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Al Jazeera reports that bank mobile applications are now widely used in Sudanese markets for transfers between individuals and traders, driven by the cash shortage.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "bank mobile applications",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bank mobile applications",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "bank apps",
+   "owner": "banks incl. Bank of Khartoum",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

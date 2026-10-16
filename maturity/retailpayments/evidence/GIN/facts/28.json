@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-26-guinee-aguiduten-salue-lancement-nimbapay",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "AGUIDUTEN welcomed the launch of NimbaPay, the national instant payment platform, which it says promotes interoperability between banks, e-money institutions and microfinance institutions.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "AGUIDUTEN described NimbaPay as the national instant payment platform connecting banks, e-money institutions and microfinance institutions, launched with the central bank and Guineenne de Monetique.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCRG and Guineenne de Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

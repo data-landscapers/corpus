@@ -1,0 +1,8 @@
+{"slug":"2025-11-26-mali-dgi-recettes-electroniques","facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"The DGI director-general says the telepayment platform, officially launched in December 2021, lets taxpayers of the computerised centres pay taxes, duties and fees electronically by bank transfer only.","as_of":"2021-12","date_precision":"month","system":"Télépaiement (E-Impôt)","class":"revenue"},
+{"sub_indicator":"revenue","aspect":"reported","value":"reported","fact":"The DGI director-general says electronic receipts reached 300 billion FCFA in 2024, 30% of receipts against 2% in 2022 and up 34% on 2023.","as_of":"2024","date_precision":"year","system":"E-Impôt","class":"revenue"}
+],"systems":[
+{"system":"E-Impôt","country_label":"Mali","class":"revenue","platform":"Sigtas teleservices module","owner":"Direction générale des impôts","tiers":"large and medium enterprises (DGE, CIME)"},
+{"system":"Télépaiement","country_label":"Mali","class":"revenue","platform":"interbank bank-transfer exchange with Treasury and DGI","owner":"Direction générale des impôts","tiers":"taxpayers of computerised centres"},
+{"system":"Sigtas","country_label":"Mali","class":"other","platform":"","owner":"Direction générale des impôts","tiers":""}
+],"note":""}

@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-21-sdn-dabanga-cbos-strategy-digital-transformation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "CBL Directive 002/2025 says that from 27 October 2025 all Government of Liberia payments to beneficiaries by mobile money must be routed exclusively through NEPS/IIPS.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "NEPS/IIPS",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "streams",
+   "value": "several",
+   "fact": "The directive names salaries, pensions, social benefits and other transfers as the government payments by mobile money routed through NEPS/IIPS.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "NEPS/IIPS",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NEPS/IIPS",
+   "country_label": "LBR",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

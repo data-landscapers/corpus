@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PesaLink",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "instant bank-to-bank switch",
+   "owner": "Integrated Payment Systems Limited (Kenya Bankers Association)",
+   "tiers": ""
+  }
+ ],
+ "note": "PesaLink is bank-owned and no CBK oversight in service is stated; the CBK fast payment working group and the draft National Payment System Bill are not in service."
+}

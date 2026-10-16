@@ -1,0 +1,150 @@
+{
+ "id": "g2ppayments",
+ "study_file": "maturity-study-g2ppayments.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--g2p-functionality"
+ ],
+ "carry": [
+  "dpi.pay--g2p-functionality"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "G2P",
+  "cash transfer",
+  "cash transfers",
+  "social transfers",
+  "social cash transfer",
+  "pension payments",
+  "salary payments",
+  "payment of salaries",
+  "transferts monétaires",
+  "filets sociaux",
+  "paiement des salaires",
+  "paiement des pensions",
+  "transferências sociais"
+ ],
+ "sub_indicators": [
+  {
+   "key": "g2p",
+   "label": "G2P functionality",
+   "subject": "dpi.pay",
+   "text": "G2P functionality: g2p functionality",
+   "indicator_id": "dpi.pay--g2p-functionality-g2p-functionality",
+   "class": "g2p",
+   "norm_short": "The African Union's Digital Transformation Strategy asks governments to digitise government-to-person payments.",
+   "criteria": [
+    "A source from the past three years says government payments to people are made in cash.",
+    "A government programme is piloting or has contracted digital payment to people.",
+    "A government social transfer, salary or pension is paid digitally, in service.",
+    "Two or more of social transfers, civil service salaries and pensions are paid digitally.",
+    "A source from the past three years says government payments to people are checked against the national ID or a social registry."
+   ],
+   "criteria_of": "e1e62083b45d"
+  }
+ ],
+ "classes": [
+  "g2p",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "payment",
+   "name": "Paid digitally",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "streams",
+   "name": "Main streams",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked to ID",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

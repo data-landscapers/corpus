@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-10-bdi-burunditimes-eapss-paiements",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BurundiPay, an instant-payment platform launched on 23 April, connects eight banks, four payment institutions and 21 microfinance institutions, the committee report said.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "instant payment",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

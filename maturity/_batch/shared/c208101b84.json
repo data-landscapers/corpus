@@ -1,0 +1,125 @@
+{
+ "slug": "2026-04-13-pamif-financial-inclusion-afdb",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No government procurement system is stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Mauritania, with the PAMIF project, put in operation electronic cheque clearing and a real-time system for large-value interbank transfers, replacing manual clearing.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "PAMIF telecompensation and real-time transfer system",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Telecompensation",
+       "country_label": "Mauritania",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Banque Centrale de Mauritanie",
+       "tiers": ""
+      },
+      {
+       "system": "Real-time large-value transfer system",
+       "country_label": "Mauritania",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Banque Centrale de Mauritanie",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer-protection rule is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border channel is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private firm's salary transfers are stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The inclusion rate of 21% to 55% names no survey, so it is not a survey share."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The AfDB says QR-code payments at the point of sale are now common in Nouakchott.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "QR code payment",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "QR code payment",
+       "country_label": "Mauritania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No revenue payment is stated."
+    }
+   }
+  }
+ }
+}

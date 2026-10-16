@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-10-osiris-sen-pi-spi-orange-money-bocoum",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Wave dominates person-to-person mobile money with free deposits and withdrawals and transfers charged about 1%, and Orange Money is also in service, according to economist Seydou Bocoum.",
+   "as_of": "2026-10-10",
+   "date_precision": "day",
+   "system": "Wave",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PI-SPI",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

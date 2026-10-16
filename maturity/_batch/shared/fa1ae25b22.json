@@ -1,0 +1,117 @@
+{
+ "slug": "2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Central Bank of Libya reported e-payment transactions of LD 389 billion in 2025, up 186% from LD 136 billion in 2024.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "e-payment",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-payment",
+       "country_label": "Libya",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Libya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Central Bank of Libya made e-payments mandatory for all private and public revenue collectors, according to Libya Herald.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "e-payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-payment",
+       "country_label": "Libya",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Libya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

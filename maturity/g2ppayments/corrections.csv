@@ -1,0 +1,3 @@
+iso3,n,aspect,value,action,why
+SYC,001,linked,linked,removed,"First pass: payments through the registry are planned, not made"
+TUN,003,linked,linked,removed,"First pass: the unique identifier is being introduced, not in use"

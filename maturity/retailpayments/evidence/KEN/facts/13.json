@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-14-airtel-money-virtual-card-kenya",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Communications Authority of Kenya data cited by TechCabal puts M-PESA's mobile money share at 88.8% and Airtel Money's at 11.1% in June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel",
+   "tiers": ""
+  },
+  {
+   "system": "M-PESA GlobalPay",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "virtual Visa card",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

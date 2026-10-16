@@ -1,0 +1,37 @@
+{
+ "slug": "2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Chad.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "AfricaNenda says Chad is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

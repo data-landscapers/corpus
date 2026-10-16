@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-somalia-cbs-national-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Somalia says its National Payment System, launched July 2021, connects all licensed commercial banks, and that the Somali Payment Switch and Somali Instant Payment System launched in January 2025 on that foundation.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Somali Payment Switch (SPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment System (ACH, RTGS, IFT)",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Somali Payment Switch (SPS)",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "switch",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

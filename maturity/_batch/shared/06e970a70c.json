@@ -1,0 +1,10 @@
+{"slug":"2026-03-16-la-presse-oft-tunisie-agrement-definitif-etablissement-paiement","studies":{
+"businesspayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No procurement stated."}}},
+"centralbank":{"countries":{"TUN":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"La Presse says the Central Bank of Tunisia's licensing commission granted OFT Tunisie definitive authorisation as a resident payment institution, and that 16 payment service providers are licensed in Tunisia.","as_of":"2026-03","date_precision":"month","system":"BCT payment institution licensing","class":"oversight"}],"systems":[{"system":"OFT Tunisie","country_label":"Tunisia","class":"retail","platform":"payment institution","owner":"Ooredoo FinTech International","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No consumer rules stated."}}},
+"crossborderpayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"TUN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"underway","fact":"La Presse says OFT Tunisie, licensed as a payment institution, must begin operating within six months and will offer payment accounts, local person-to-person transfers, bill and online payments.","as_of":"2026-03","date_precision":"month","system":"OFT Tunisie","class":"retail"}],"systems":[{"system":"OFT Tunisie","country_label":"Tunisia","class":"retail","platform":"payment institution","owner":"Ooredoo FinTech International","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

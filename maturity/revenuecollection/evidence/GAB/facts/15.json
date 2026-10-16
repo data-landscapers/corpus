@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-11-gabon-madigipaie-digital-payments-launch",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "In late October 2025 the Gabonese government began a pilot to digitize social and tax payments, with full deployment scheduled for January 2026; earlier in 2025 it engaged Visa to modernize tax collection (Ecofin Agency).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "digitization of social and tax payments",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "On 21 November 2025 the Gabonese government launched a project to digitize payments for e-visa applications (Ecofin Agency).",
+   "as_of": "2025-11-21",
+   "date_precision": "day",
+   "system": "e-visa payment digitization",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

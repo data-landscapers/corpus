@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-01-dpi-map-gambia-country-profile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gamswitch",
+   "country_label": "Gambia",
+   "class": "retail",
+   "platform": "RTGS, ACH",
+   "owner": "Central Bank of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": "No mobile money service is described and the document does not say wallets are connected."
+}

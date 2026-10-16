@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-07-gha-bog-governor-remarks-saopay-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Ghana reports about 85.8 million registered mobile money accounts in August 2026, with about 26.4 million used in the previous ninety days.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SaoPay",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "SaoPay",
+   "tiers": "DEMI"
+  },
+  {
+   "system": "FICSOC",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

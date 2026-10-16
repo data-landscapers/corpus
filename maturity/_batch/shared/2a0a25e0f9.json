@@ -1,0 +1,131 @@
+{
+ "slug": "2026-09-08-techcabal-kenya-payment-platforms-changing-rules",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "TechCabal says Pesalink, Kenya's instant payments network, is linking local banks and mobile money providers to PAPSS.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Pesalink",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Zepz says its core Sendwave remittance services in Kenya operate as normal, and Wise says customers abroad can send money to Kenyan shilling accounts and wallets such as M-PESA.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Wise / Sendwave to M-PESA",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pesalink",
+       "country_label": "KEN",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "KEN",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Sendwave",
+       "country_label": "KEN",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Zepz",
+       "tiers": ""
+      },
+      {
+       "system": "Wise",
+       "country_label": "KEN",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

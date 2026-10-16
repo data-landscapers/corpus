@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-16-mrt-instant-payment-system-interoperability-tender",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  }
+ }
+}

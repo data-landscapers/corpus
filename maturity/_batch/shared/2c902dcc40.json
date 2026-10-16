@@ -1,0 +1,10 @@
+{"slug": "2024-08-14-sierra-leone-orange-money-iom-migrant-payments-partnership", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document names no central bank role."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states no consumer-protection rule."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document names no cross-border channel."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The payments are an IOM programme with no stated government role."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document gives no survey share."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Money's CEO says the mobile money service has operated since 2016/2017, formerly as Airtel Money, and it signed an agreement with IOM on 14 August 2024 to pay migrants through it.", "as_of": "2024-08-14", "date_precision": "day", "system": "Orange Money", "class": "retail"}], "systems": [{"system": "Orange Money", "country_label": "Sierra Leone", "class": "retail", "platform": "", "owner": "Orange Sierra Leone", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document does not mention taxes or fees."}}}
+}}

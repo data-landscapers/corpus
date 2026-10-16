@@ -1,0 +1,69 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,ATM,Angola,other,,,,2026-07-31-angola-unitel-ciberataque-atm-luanda
+AGO,TPA (Terminal de Pagamento Automatico),Angola,other,,,,2026-07-31-angola-unitel-ciberataque-atm-luanda
+AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
+BEN,MTN Mobile Money,Benin,other,,MTN,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
+BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
+BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
+BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
+COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
+DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+LBR,Global Findex,Liberia,survey,,World Bank,,2026-07-13 Liberia Expands Digital Finance
+LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
+LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
+LSO,mobile money,Lesotho,other,,,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
+LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
+LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
+LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
+MAR,M-Wallet,Morocco,other,mobile wallet,payment institutions and banks,,2026-04-01-bkam-snif-rapport-annuel-exercice-2023
+MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+MLI,Télépaiement (DGI),Mali,other,bank transfers,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
+MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,Airtel Money,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
+NER,STAR-UEMOA,Niger,other,,,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,SICA-UEMOA,Niger,other,,,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,Compte Unique du Trésor,Niger,other,,Direction Générale du Trésor et de la Comptabilité Publique,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NGA,EFInA Access to Financial Services in Nigeria (A2F) Survey,Nigeria,survey,,EFInA,,2026-09-22-nga-independent-efina-a2f-2026-survey
+NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
+NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
+RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
+RWA,FinScope,Rwanda,survey,,,,2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey
+SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
+SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
+SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
+TCD,Airtel Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Moov Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Konoom,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Nita,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,GIMACPAY,TCD,other,,GIMAC,CEMAC,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
+TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
+TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
+ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
+ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,ZARP,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
+ZAF,ZARsc,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
+ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FinScope reports that 73% of Rwandan adults use services such as mobile money (KT Press, reporting FinScope; survey year not given).",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "FinScope",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FinScope",
+   "country_label": "Rwanda",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

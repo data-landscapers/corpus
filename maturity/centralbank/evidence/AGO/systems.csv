@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,SPTR,Angola,oversight,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,EMIS,Angola,other,,EMIS (interbank services company),,2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais
+AGO,Sistema de Transferencias Instantaneas (STI),Angola,other,KWiK,EMIS,,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade
+AGO,BAI-Visa agreement,Angola,other,Visa,BAI,,2026-09-24-targeting-bai-visa-digital-payments-angola

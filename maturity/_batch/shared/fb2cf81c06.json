@@ -1,0 +1,127 @@
+{
+ "slug": "2026-09-21-swz-observer-eswatini-payment-switch-live",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Eswatini says the Eswatini Payment Switch fast payments platform is fully active, connecting banks and mobile money providers in real time, 24/7.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Payment Switch",
+       "country_label": "Eswatini",
+       "class": "oversight",
+       "platform": "national switch, fast payments",
+       "owner": "Central Bank of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Eswatini Payment Switch fast payments product lets customers transfer funds between participating banks and mobile money providers, bank to bank and bank to mobile money.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The Central Bank of Eswatini says the national Eswatini Payment Switch connects banks and mobile money providers in service, 24/7.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Payment Switch",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "national switch, fast payments",
+       "owner": "Central Bank of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

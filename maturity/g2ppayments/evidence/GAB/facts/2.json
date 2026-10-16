@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-cnss-paiement-3010-droits-uniques-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The CNSS began paying 3,010 maternity and old-age single-entitlement benefits on 19 December 2025, all without cash, by bank transfer or Mobile Money.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "CNSS single-entitlement benefit payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNSS single-entitlement benefit payments",
+   "country_label": "Gabon",
+   "class": "g2p",
+   "platform": "bank transfer, Mobile Money",
+   "owner": "CNSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

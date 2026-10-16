@@ -1,0 +1,23 @@
+{"slug": "2026-09-14-youm7-egypt-ntra-mobile-wallets-h1-2026", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The report is the telecoms regulator's; no central bank role stated."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value.", "as_of": "2026-06", "date_precision": "month", "system": "telecom mobile wallets", "class": "crossborder"}
+], "systems": [], "note": "No named corridor stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Wallet penetration of 45% is an NTRA wallet count, not a survey share of adults."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Youm7 reports 57.01 million telecom-operated mobile wallets in H1 2026 (up 23%), with 2.22 billion transactions worth EGP 2.96 trillion, per the NTRA H1 2026 report.", "as_of": "2026-06", "date_precision": "month", "system": "telecom mobile wallets", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Youm7, citing NTRA, says InstaPay bank-account-to-wallet transfers made up 78% of wallet deposits by count and 58% by value in H1 2026.", "as_of": "2026-06", "date_precision": "month", "system": "InstaPay", "class": "retail"}
+], "systems": [
+{"system": "Vodafone Cash", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "Vodafone", "tiers": ""},
+{"system": "e& cash", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "e&", "tiers": ""},
+{"system": "Orange Cash", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "Orange", "tiers": ""},
+{"system": "WE Pay", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "WE", "tiers": ""},
+{"system": "InstaPay", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Youm7 reports that in H1 2026 NTRA made it possible to query and pay prosecution service fees (criminal, family and traffic prosecution) with e-wallets.", "as_of": "2026", "date_precision": "year", "system": "mobile wallets for prosecution services", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "protection",
+   "stage": "no evidence",
+   "rules": "",
+   "redress": "",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
+   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
+  }
+ ]
+}

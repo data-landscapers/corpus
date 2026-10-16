@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-tan-airtel-money-school-pay-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Airtel Money School Pay lets parents pay school fees by mobile phone, with more than 800 schools in 16 regions using it, says Airtel Tanzania.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Airtel Money School Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money School Pay",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

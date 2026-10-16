@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Financial Identity Platform (eKYC)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "eKYC rules for bank customers; no payments or e-money mandate, licensing, switch or regional link stated."
+}

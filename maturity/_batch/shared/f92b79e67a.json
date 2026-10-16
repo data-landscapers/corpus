@@ -1,0 +1,109 @@
+{
+ "slug": "2026-10-09-nga-a2f-a2f-2026-making-financial-inclusion-work-harder-for-nigerian",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "EFInA's A2F 2026 survey puts formal financial inclusion of Nigerian adults at 73% in 2026, up from 64% in 2023.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "A2F 2026 survey",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "EFInA's A2F 2026 survey puts formal financial inclusion of Nigerian adults at 73% in 2026, up from 64% in 2023.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "A2F 2026 survey",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "EFInA says Nigerians increasingly combine banks, mobile money, agents and informal mechanisms to manage their finances (A2F 2026 survey).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

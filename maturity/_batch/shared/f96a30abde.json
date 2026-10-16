@@ -1,0 +1,10 @@
+{"slug": "2026-10-08-moz-pav-pawapay-licensed-psp", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No public procurement stated."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Bank of Mozambique granted PawaPay, through its subsidiary Quidexplus Mozambique, a Payment Service Provider licence, announced by PawaPay on 8 October 2026.", "as_of": "2026-10-08", "date_precision": "day", "system": "PSP licence", "class": "oversight"}], "systems": [{"system": "M-Pesa", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "Vodacom", "tiers": ""}, {"system": "e-Mola", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "Movitel", "tiers": ""}, {"system": "mKesh", "country_label": "Mozambique", "class": "retail", "platform": "mobile money", "owner": "Tmcel", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No consumer-protection rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Expanded inbound flows are only in advanced discussion; no corridor is piloted, licensed or in service."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a count of active mobile money accounts, not a survey share of adults."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "PawaPay says Mozambique's mobile money market exceeds 12 million active accounts across three operators: M-Pesa (Vodacom), e-Mola (Movitel) and mKesh (Tmcel).", "as_of": "2026-10-08", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

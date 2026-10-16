@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Chad's payment-institution licences are granted by the Central African Banking Commission (Cobac) under the CEMAC regulation of 21 December 2018; Airtel Money (2023), Konoom (2025) and Moov Money Tchad (2026) hold one.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Cobac payment-institution licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money Tchad",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Maroc Telecom (Moov Africa Tchad)",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

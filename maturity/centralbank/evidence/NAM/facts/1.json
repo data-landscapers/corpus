@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-29-namibia-instant-payments-namqr-open-banking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Instant Payment Programme",
+   "country_label": "Namibia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  },
+  {
+   "system": "NISS",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "ISO 20022",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Instant Payment Programme described as work continuing, not in service; no licensing or mandate statement."
+}

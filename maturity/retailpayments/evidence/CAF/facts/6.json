@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-orange-webb-fontaine-paiement-redevance-dpi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange Centrafrique provides its Orange Money mobile payment infrastructure, described as widely used across the country, to pay the DPI import fee, per the finance ministry's chief of staff.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "CAF",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange Centrafrique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

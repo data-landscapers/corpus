@@ -1,0 +1,11 @@
+{"slug":"2026-03-19-siratpay-paiement-numerique-peages","studies":{
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing cross-border."}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Payments are from drivers to the state, not to people."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No survey."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Toll payment to a state-linked operator; no mobile money or wallet is named."}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"SIRATPay, run by SIRAT SA with the ministries of Living Environment and of Economy and Finance, lets Benin motorists pay road tolls and penalties remotely without cash, per Fraternité.","as_of":"2026-03-19","date_precision":"day","system":"SIRATPay","class":"revenue"}],
+"systems":[{"system":"SIRATPay","country_label":"Benin","class":"revenue","platform":"","owner":"SIRAT SA","tiers":""}],"note":""}}}}}

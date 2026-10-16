@@ -1,0 +1,15 @@
+{"slug":"2026-07-29-namibia-launches-instant-payments-system","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"NAM":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"Bank of Namibia Deputy Governor Leonie Dunn said licensing and supervisory responsibilities for payments are being transferred to the central bank under a new Payments Association framework.","as_of":"2026-07-29","date_precision":"day","system":"Payments Association framework","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Bank of Namibia said its instant payments solution became operational in June 2026, with live transactions first processed between its Currency Management and Banking Operations Department and Bank Windhoek, Nampost and Letshego Bank Namibia.","as_of":"2026-06","date_precision":"month","system":"Instant Payment Solution","class":"oversight"}],
+"systems":[{"system":"Instant Payment Solution (IPS)","country_label":"Namibia","class":"oversight","platform":"","owner":"Bank of Namibia","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"The 78% to 86% financial inclusion rate names no survey, so no survey share is recorded."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn.","as_of":"2026-06","date_precision":"month","system":"Instant Payment Solution","class":"retail"}],
+"systems":[{"system":"Instant Payment Solution (IPS)","country_label":"Namibia","class":"retail","platform":"","owner":"Bank of Namibia","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

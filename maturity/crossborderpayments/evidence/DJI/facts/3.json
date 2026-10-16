@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-siips-2024-djibouti-excerpt",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "AfricaNenda's SIIPS 2024 says Djibouti has integrated to PAPSS, though it is unclear whether any retail transactions are processed.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Djibouti",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

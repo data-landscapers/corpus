@@ -1,0 +1,10 @@
+{"slug":"2026-10-06-cmr-businesstechafrica-reasy-agl-pilot-china-imports","studies":{
+"businesspayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on government e-procurement."}}},
+"centralbank":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on the central bank's role."}}},
+"consumerprotection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on consumer-protection rules."}}},
+"crossborderpayments":{"countries":{"CMR":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"Business Tech Africa reports that fintech REasy and Africa Global Logistics are piloting a service, presented in Douala on 2026-10-01, that lets Cameroonian importers pay Chinese suppliers by converting CFA francs to yuan through Alipay, WeChat Pay and Chinese bank accounts.","as_of":"2026-10-01","date_precision":"day","system":"REasy","class":"crossborder"}],"systems":[{"system":"REasy","country_label":"Cameroon","class":"crossborder","platform":"REasy payment infrastructure (CFA franc to yuan)","owner":"REasy","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No survey share of adults with an account is stated."}}},
+"retailpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"The service is a business import payment, not an everyday person-to-person or shop payment."}}},
+"revenuecollection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}}
+}}

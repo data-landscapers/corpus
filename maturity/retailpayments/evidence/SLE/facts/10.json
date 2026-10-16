@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-23-rebuilding-financial-services-fintech-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Fintech Times analysis says mobile money operators including Orange Money and Afrimoney let consumers transfer funds, pay bills and purchase goods in Sierra Leone.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "Afrimoney",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

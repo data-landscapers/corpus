@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,revenue,payment,coverage,inservice,2026-10-14,ZMB-001;ZMB-003;ZMB-005,,
+ZMB,revenue,main,coverage,,,,,nothing held
+ZMB,revenue,reported,coverage,reported,2026-07,ZMB-002;ZMB-004,,

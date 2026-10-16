@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-pi-spi-banques-mobile-money-interconnectes",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PI-SPI is a unified regional instant payment platform covering the eight UEMOA countries.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA (Benin)",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, microfinance, e-money issuers, payment institutions"
+  }
+ ],
+ "note": ""
+}

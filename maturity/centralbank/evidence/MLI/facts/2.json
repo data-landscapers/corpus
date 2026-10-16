@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-02-bceao-liste-participants-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO lists Mali's 12 institutions authorised to open PI-SPI services to the public, an interoperable instant payment platform it runs, as updated 2 April 2026.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Mali has 12 institutions authorised by BCEAO to open PI-SPI, the UEMOA regional instant payment platform, to the public as of 2 April 2026.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "regional instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Finances Mobiles Mali",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-23 Central Bank of Comoros commences PAPSS implementation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank / African Union",
+   "tiers": ""
+  }
+ ],
+ "note": "PAPSS implementation only commenced after a July 2024 membership agreement, so no regional link in service is stated."
+}

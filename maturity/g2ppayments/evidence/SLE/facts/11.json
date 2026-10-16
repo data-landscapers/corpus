@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-27-afrimoney-prepaid-visa-card",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Officials say retired citizens can receive NACSA support directly through mobile money wallets.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "NACSA support via mobile money",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

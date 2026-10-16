@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COG,crossborder,corridor,coverage,inservice,2026-05-28,COG-001;COG-002;COG-009,,
+COG,crossborder,regional,coverage,regional,2026-07-29,COG-003;COG-005;COG-006;COG-008;COG-010,,
+COG,crossborder,reported,coverage,reported,2025,COG-004;COG-007,,

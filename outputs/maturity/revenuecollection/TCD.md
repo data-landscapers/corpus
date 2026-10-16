@@ -1,0 +1,13 @@
+# Chad
+
+## Revenue collection
+
+**Paid electronically.** [Tchadinfos says digitalisation of public revenue limits fraud and speeds the entry of funds into the State's coffers](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>). [Le N'Djam Post reports that under the 2026 finance law 3,000 electronic payment terminals have been deployed in the financial agencies (régies financières), and that télépaiement is expected to become general for taxes and duties](<https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/>). [The 2027 budget orientations say tax, customs and Treasury systems are to be integrated with electronic payment solutions](<https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/>). [The Chad finance ministry received 3,000 smart electronic payment terminals on 24 July 2026, supplied by the World Bank under the PATN project, to modernise public revenue collection](<https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/>).
+
+**Main taxes and duties.** No source held since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>).
+
+**Share reported.** No source held since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>).
+
+***Noted, not assessed***. [Système intégré de gestion des finances publiques (SIGFIP)](<https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/>); [Moov Money](<https://journaldutchad.com/tchad-le-gouvernement-accelere-lintegration-du-paiement-mobile-des-services-publics/>); [Airtel Money](<https://journaldutchad.com/tchad-le-gouvernement-accelere-lintegration-du-paiement-mobile-des-services-publics/>); [Konoom](<https://journaldutchad.com/tchad-le-gouvernement-accelere-lintegration-du-paiement-mobile-des-services-publics/>); [Cashi Tchad](<https://journaldutchad.com/tchad-le-gouvernement-accelere-lintegration-du-paiement-mobile-des-services-publics/>); [SIGFIP](<https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/>).
+
+***Not held***. No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.

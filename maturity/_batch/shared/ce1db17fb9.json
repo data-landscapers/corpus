@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-01-gha-bog-to-strengthen-fraud-control-as-digital-finance-grows",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Bank of Ghana's information security director said mobile money flows reached more than GH¢40 billion in June 2026, with transactions on mobile money platforms close to GH¢493 billion.",
+       "as_of": "2026-06",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

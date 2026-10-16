@@ -1,0 +1,136 @@
+{
+ "slug": "2026-09-21-ago-expansao-kwik-carteiras-digitais-0-6-pct",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Expansão reports the Banco Nacional de Angola launched the Kwik instant-payment platform in June 2023, which carried Kz 557.4bn in the first half of 2026 per EMIS.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Kwik",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Expansão reports EMIS data that digital wallets originated Kz 212.7bn of the Kz 557.4bn moved over Kwik in the first half of 2026, and that wallets were authorised to open e-money accounts about two years earlier.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Kwik",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Expansão reports EMIS data that wallets sent Kz 209.6bn to bank accounts and banks sent Kz 2.8bn to non-bank payment providers over Kwik in the first half of 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Kwik",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "Expansão reports Kwik, launched by the Banco Nacional de Angola in June 2023, carries instant transfers between banks and digital wallets, with Kz 557.4bn moved in the first half of 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Kwik",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kwik",
+       "country_label": "Kwik",
+       "class": "retail",
+       "platform": "Banco Nacional de Angola / EMIS",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Multicaixa",
+       "country_label": "Multicaixa",
+       "class": "other",
+       "platform": "EMIS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

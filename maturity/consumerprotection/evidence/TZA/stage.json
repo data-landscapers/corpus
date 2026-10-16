@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "protection",
+   "stage": "4",
+   "rules": "inforce",
+   "redress": "redress",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TZA-003",
+   "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures.",
+   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
+  }
+ ]
+}

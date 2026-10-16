@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CMR,Orange Money Cameroun,Cameroun,retail,mobile money,Orange,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
+CMR,MTN Mobile Money,Cameroun,retail,mobile money,Mobile Money Corporation,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
+CMR,Konoom Mobile Money,Cameroun,retail,mobile money,Konoom Cameroun,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
+CMR,LBPay,CMR,retail,,Looping Binary,,2026-08-31-techafricanews-lbpay-cameroon
+CMR,CEMAC interoperable QR code,CEMAC,retail,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+CMR,Blue Money,Cameroon,retail,mobile money,Camtel,,2025-05-02-lejour-camtel-blue-money-launch-announced
+CMR,MTN Cameroun,Cameroon,retail,,MTN,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
+CMR,Orange Cameroun,Cameroon,retail,,Orange,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
+CMR,MTN MoMo,Cameroun,retail,mobile money,Mobile Money Corporation (MTN Cameroon),,2026-06-23-lejour-momo-helep-sme-treasury
+CMR,MoMo Helep Pro,Cameroun,other,MoMo advances,MTN Cameroon,,2026-06-23-lejour-momo-helep-sme-treasury
+CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+CMR,Gimacpay,Cameroon,retail,Gimac interbank platform,Gimac,"53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators",2025-10-20-lejour-gimacpay-600bn-fcfa-transactions
+CMR,Tresor Pay,Cameroon,other,,Ministry of Finance,,2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-gmb-thepoint-nine-digit-numbering-migration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PURA's Bah said mobile money services continued to function smoothly throughout the overnight nine-digit numbering migration.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

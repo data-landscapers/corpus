@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,NimbaPay,Guinea,retail,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
+GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
+GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
+GIN,NimbaPay,Guinea,retail,,"Guineenne de la Monetique (GuiM), under the BCRG",,2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
+GIN,NimbaPay,Guinea,retail,,BCRG and Guineenne de Monetique,,2026-07-22-mediaguinee-nimbapay-lancement
+GIN,"MyTouchPoint (MoMo, PayCard, Sutura, Kulu)",Guinea,retail,TouchPoint,InTouch,,2026-09-18-gin-mediaguinee-conakry-terminal-digital-payments
+GIN,Akiba Mobile,Guinea,retail,Akiba Mobile app,Akiba Finance,,2026-09-18-gin-mediaguinee-conakry-terminal-digital-payments
+GIN,NimbaPay,Guinea,retail,,BCRG,"banks, e-money institutions, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,Orange Money Pro,Guinea,retail,,Orange Finance Mobile Guinee,,2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,KS-WALLET,Guinea,retail,e-money app,BGB Solutions S.A,,2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney
+GIN,KS-PAY,Guinea,other,agent network,,,2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney
+GIN,Orange Money,Guinea,retail,mobile money,Orange Finances Mobiles Guinee,,2026-03-13-mediaguinee-orange-money-bng-acces-a-ma-banque
+GIN,Acces a ma banque,Guinea,retail,app and USSD *144*5#,Orange Finances Mobiles Guinee with Banque Nationale de Guinee,,2026-03-13-mediaguinee-orange-money-bng-acces-a-ma-banque
+GIN,CORIS MONEY,Guinea,retail,e-money,Coris Bank International,,2026-02-19-techafricanews-coris-money-launch
+GIN,Coris Money,Guinea,retail,mobile app,Coris Bank International Guinée,,2026-02-18-guinee-coris-rejoint-marche-mobile-money
+GIN,Orange Money,Guinea,retail,,Orange,,2026-02-18-guinee-coris-rejoint-marche-mobile-money
+GIN,MTN MoMo,Guinea,retail,,MTN,,2026-02-18-guinee-coris-rejoint-marche-mobile-money
+GIN,NimbaPay,Guinea,retail,,BCRG and Guineenne de Monetique,,2026-07-26-guinee-aguiduten-salue-lancement-nimbapay
+GIN,Tresor Pay,Guinea,other,"mobile phone, e-money services",Ministry of Economy and Finance,,2025-12-23 Guinea rolls out Tresor Pay as digital gateway for public payments

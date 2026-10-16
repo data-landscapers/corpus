@@ -1,0 +1,9 @@
+{"slug":"2025-11-26-cpv-economia-digital-pilar-estrategico-olavo-correia","studies":{
+"businesspayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Names interoperability between institutions but no e-procurement system."}}},
+"centralbank":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Only says digital payments are being expanded; no named service."}}},
+"revenuecollection":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No tax or fee payment system stated."}}}}}

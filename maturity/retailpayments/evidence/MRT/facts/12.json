@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The AfDB says QR-code payments at the point of sale are now common in Nouakchott.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "QR code payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "QR code payment",
+   "country_label": "Mauritania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

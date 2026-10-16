@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "5",
+   "system": "inservice",
+   "endtoend": "endtoend",
+   "reported": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
+  }
+ ]
+}

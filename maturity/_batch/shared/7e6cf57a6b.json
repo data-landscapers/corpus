@@ -1,0 +1,9 @@
+{"slug":"2025-11-29-axian-mastercard-digital-payments-partnership-techreviewafrica","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No e-procurement stated."},"MDG":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[],"note":"No central bank role stated."},"MDG":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."},"MDG":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Card-based international payment features, no named corridor."},"MDG":{"facts":[],"systems":[],"note":"Card-based international payment features, no named corridor."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No government payment to people stated."},"MDG":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"No survey share stated."},"MDG":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Article describes a card rollout across five markets; it does not say a wallet is in service in Comoros."},"MDG":{"facts":[],"systems":[{"system":"MVola","country_label":"Madagascar","class":"retail","platform":"mobile app","owner":"AXIAN","tiers":""}],"note":"Article describes a card rollout; it does not state the wallet service itself."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No tax or fee payment system stated."},"MDG":{"facts":[],"systems":[],"note":"No tax or fee payment system stated."}}}}}

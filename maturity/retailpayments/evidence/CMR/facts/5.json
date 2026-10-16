@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-02-lejour-camtel-blue-money-launch-announced",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Le Jour reports the Camtel director saying Camtel will enter the competitive mobile money market in Cameroon with the Blue Money brand, launch date not yet known.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Mobile money market",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Blue Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

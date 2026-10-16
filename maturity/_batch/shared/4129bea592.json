@@ -1,0 +1,10 @@
+{"slug":"2026-10-01-ethswitch-unveils-unified-government-payment-platform","studies":{
+"businesspayments":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"ETH":{"facts":[],"systems":[{"system":"EthSwitch","country_label":"Ethiopia","class":"oversight","platform":"","owner":"","tiers":""}],"note":"The NBE draft strategy is named, but no NBE oversight of the switch is stated."}}},
+"consumerprotection":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Only a general positioning of G2P work; no programme paid digitally stated."}}},
+"paymentsuptake":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"ETH":{"facts":[],"systems":[],"note":"The platform is for government bill payments; no wallet or retail switch in service stated."}}},
+"revenuecollection":{"countries":{"ETH":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"EthSwitch presented its Unified Government Payment Platform at the Ethiopia Finance Forum, a single interoperable route through the national switch for government bill payments by app, ATM, USSD, branch and agent.","as_of":"2026-10-01","date_precision":"day","system":"Unified Government Payment Platform (UGPP)","class":"revenue"}],"systems":[{"system":"Unified Government Payment Platform (UGPP)","country_label":"Ethiopia","class":"revenue","platform":"EthSwitch","owner":"EthSwitch","tiers":""}],"note":""}}}
+}}

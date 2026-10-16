@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-14-mixx-togo-pi-spi-uemoa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mixx Togo is a mobile wallet that its operator says has over 5 million users, 31,000 agents and 26,000 merchants in Togo.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Mixx",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Mixx users can send and receive money between mobile wallets, banks and microfinance institutions in the eight UEMOA countries through the BCEAO's PI-SPI platform, with an interoperable merchant QR code.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "Mixx",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "Yas Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

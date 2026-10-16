@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-04-togo-cgar-dematerialisation-paiements-allocations-retraite",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says Mobile Money is used for transfers, bill payment and services, and CGAR pensions were paid by Mobile Money in July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

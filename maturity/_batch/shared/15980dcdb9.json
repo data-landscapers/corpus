@@ -1,0 +1,97 @@
+{
+ "slug": "2026-06-12-lesotho-migrants-fintech-remittances-techcabal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "TechCabal reports Lesotho migrant workers in South Africa send money home to Lesotho through the fintech Mukuru, after tighter South African banking rules.",
+       "as_of": "2026-06-12",
+       "date_precision": "day",
+       "system": "Mukuru South Africa-Lesotho remittances",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mukuru",
+       "country_label": "Mukuru",
+       "class": "crossborder",
+       "platform": "fintech remittance service",
+       "owner": "Mukuru",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23-siips-nigeria-instant-payments-2tn",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The SIIPS 2025 report by AfricaNenda, the World Bank and UNECA says Nigeria Instant Payments (NIP) is the first system in Africa to reach mature inclusivity.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Nigeria Instant Payments (NIP)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Instant Payments (NIP)",
+   "country_label": "Nigeria",
+   "class": "retail",
+   "platform": "instant payment system",
+   "owner": "NIBSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

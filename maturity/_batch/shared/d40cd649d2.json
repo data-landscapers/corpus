@@ -1,0 +1,10 @@
+{"slug": "2026-03-24-ifc-cashi-digital-payment-services-central-africa", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The 10-15% account share is stated by IFC with no named survey or year, so it is not a survey share."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [{"system": "Cashi", "country_label": "Chad", "class": "retail", "platform": "mobile, point-of-sale and SMS payment platform", "owner": "Cashi", "tiers": ""}], "note": "The release announces a partnership to expand Cashi in Chad; it does not say a service is licensed or in service there."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

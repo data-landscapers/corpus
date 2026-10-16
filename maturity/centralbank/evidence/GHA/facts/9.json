@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-gha-gna-bog-cross-border-payment-pilots-rwanda-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Ghana News Agency reports Bank of Ghana Governor Asiama saying the bank has extended PAPSS to mobile wallets in the Ghana-Nigeria corridor.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ghana",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

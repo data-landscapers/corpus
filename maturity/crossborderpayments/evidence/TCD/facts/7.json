@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Moov Money Tchad's payment-institution licence permits cross-border fund transfers and the article says it can offer them across the CEMAC zone; no corridor is named as in service.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Moov Money Tchad",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

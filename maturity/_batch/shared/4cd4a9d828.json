@@ -1,0 +1,17 @@
+{"slug": "2026-09-14-bwa-mmegi-fnbb-muscles-into-mobile-money-race", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Article states nothing on public procurement."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mmegi reports Orange Money, Mascom's MyZaka and BTC's Smega as mobile money platforms, and FNBB's eWallet as a service through which customers receive money.", "as_of": "2026-09-14", "date_precision": "day", "system": "Orange Money, MyZaka, Smega, FNBB eWallet", "class": "retail"}
+], "systems": [
+{"system": "FNBB eWallet", "country_label": "Botswana", "class": "retail", "platform": "", "owner": "First National Bank Botswana", "tiers": ""},
+{"system": "Orange Money", "country_label": "Botswana", "class": "retail", "platform": "", "owner": "Orange", "tiers": ""},
+{"system": "MyZaka", "country_label": "Botswana", "class": "retail", "platform": "", "owner": "Mascom", "tiers": ""},
+{"system": "Smega", "country_label": "Botswana", "class": "retail", "platform": "", "owner": "BTC", "tiers": ""}
+], "note": "FNBB's transfers into rival platforms are described as a plan (\"will allow\"), so no interoperability in service is recorded."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

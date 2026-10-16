@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-05-africanenda-boss-nips-announcement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Instant Payment System",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "NIPS is being started after a 2023 proof of concept; no mobile money service or switch in service stated."
+}

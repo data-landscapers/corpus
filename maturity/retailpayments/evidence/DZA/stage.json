@@ -1,0 +1,17 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "retail",
+   "stage": "4",
+   "service": "inservice",
+   "interop": "interop",
+   "switch": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-005;DZA-010",
+   "gaps": "No source held since October 2023 says a national switch connects wallets and bank accounts.",
+   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
+  }
+ ]
+}

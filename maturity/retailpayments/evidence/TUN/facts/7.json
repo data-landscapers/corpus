@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-22-fintechtimes-tunisia-cash-and-code",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Fintech Times says Flouci offers an app combining electronic payments and financial services, and Konnect and Paymee accept La Poste's e-Dinar products.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Flouci",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Flouci",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Dinar",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "",
+   "owner": "La Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

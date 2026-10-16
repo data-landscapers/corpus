@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-07-eth-capital-visa-etta-contactless-devices",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ZooryaPay, a licensed payment platform, processed over ETB 120 billion in merchant transactions in the past year, per the report.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ZooryaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The report says the ETTA/Visa devices interoperate fully with Ethiopia's national switch and existing financial institutions.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ZooryaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZooryaPay",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "ETTA Solutions",
+   "owner": "ETTA Solutions PLC",
+   "tiers": "PSO licence"
+  },
+  {
+   "system": "National switch",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-24-xea-maegovbi-eac-payment-systems-integration-burundi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional oversight session; no Burundi payment system stated in service."
+    }
+   }
+  }
+ }
+}

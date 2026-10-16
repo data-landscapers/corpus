@@ -1,0 +1,10 @@
+{"slug":"2026-03-02-payinc-fcb-botswana-tcib-corridor-live-techafricanews","studies":{
+"businesspayments":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"BWA":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"The TCIB scheme operated by PayInc is live into Botswana through First Capital Bank Botswana, which can now receive money instantly from South Africa via SendHome and from Zimbabwe via ZB Bank, per TechAfrica News.","as_of":"2026-03-02","date_precision":"day","system":"TCIB","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Botswana is now a live corridor of TCIB, the cross-border scheme PayInc operates as SADC Regional Settlement Operator for the SADC region, per TechAfrica News.","as_of":"2026-03-02","date_precision":"day","system":"TCIB","class":"crossborder"}],"systems":[{"system":"TCIB","country_label":"Botswana","class":"crossborder","platform":"cross-border payment scheme","owner":"PayInc","tiers":""},{"system":"SendHome","country_label":"South Africa","class":"crossborder","platform":"remittance service","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Document covers a cross-border bank corridor, not mobile money or domestic retail payments."}}},
+"revenuecollection":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

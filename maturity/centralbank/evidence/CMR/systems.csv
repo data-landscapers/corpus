@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+CMR,COBAC,Cameroun,oversight,,COBAC,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
+CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+CMR,PAPSS,Cameroon,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+CMR,Gimacpay,Cameroon,other,Gimac interbank platform,Gimac,"53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators",2025-10-20-lejour-gimacpay-600bn-fcfa-transactions
+CMR,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+CMR,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+CMR,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac

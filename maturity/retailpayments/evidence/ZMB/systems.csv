@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZMB,MTN MoMo,Zambia,retail,mobile money,MTN Zambia,,2026-09-17-itweb-africa-momo-fnb-zambia-atm-cash-out
+ZMB,MTN MoMo,Zambia,retail,New MoMo app,MTN Zambia,,2026-03-04-momo-payments-on-zanaco-pos-launch
+ZMB,Zanaco POS and ATM network,Zambia,other,,Zanaco,,2026-03-04-momo-payments-on-zanaco-pos-launch
+ZMB,Lipila,Zambia,retail,payment gateway,Hobbiton Technologies,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
+ZMB,Airtel Money,Zambia,retail,mobile money,Airtel,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
+ZMB,MTN Mobile Money,Zambia,retail,mobile money,MTN,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
+ZMB,Zamtel Money,Zambia,retail,mobile money,Zamtel,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
+ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
+ZMB,MTN MoMo,Zambia,retail,mobile money,MTN,,2026-09-05-thefintechtimes-zambia-mobile-money-analysis
+ZMB,Airtel Money,Zambia,retail,mobile money,Airtel,,2026-09-05-thefintechtimes-zambia-mobile-money-analysis
+ZMB,Zamtel Money,Zambia,retail,mobile money,Zamtel,,2026-09-05-thefintechtimes-zambia-mobile-money-analysis
+ZMB,Mobile Money Zambia,Zambia,retail,mobile money,MTN,,2026-09-04-zmb-mobile-money-liquidity-critique
+ZMB,National Financial Switch,Zambia,retail,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
+ZMB,ZIPS,Zambia,other,,,high-value settlement,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
+ZMB,Airtel Money Zambia,ZMB,retail,,Airtel Africa,,2026-07-17-airtel-money-zambia-new-md
+ZMB,mobile money,ZMB,retail,,,,2026-03-01 Mobile Money Taxes and Affordability in Sub-Saharan Africa
+ZMB,mobile money,ZMB,retail,,,,2026-02-27 Zambia partners with PAYZ to boost financial inclusion

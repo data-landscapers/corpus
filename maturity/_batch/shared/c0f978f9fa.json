@@ -1,0 +1,105 @@
+{
+ "slug": "2026-08-31-tgo-mobile-money-withdrawal-fees-inclusion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Le Nouveau Reporter reports that Moov Money and Mixx by Yas mobile money are in service in Togo, charging 280 and 300 FCFA to withdraw 10,000 FCFA.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "Moov Money, Mixx by Yas",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Moov Money",
+       "country_label": "TGO",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Mixx by Yas",
+       "country_label": "TGO",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

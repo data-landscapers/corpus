@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Al-Watwan reports the president launched Komor Switch, a national platform connecting all banks and mobile money services and making interoperability between banks and mobile banking possible.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Komor Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Al-Watwan reports Komor Switch is a national platform connecting all banks and mobile money services, launched officially by the president.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Komor Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Komor Switch",
+   "country_label": "Comoros",
+   "class": "retail",
+   "platform": "national switch",
+   "owner": "Banque Centrale des Comores",
+   "tiers": "banks and mobile money"
+  }
+ ],
+ "note": ""
+}

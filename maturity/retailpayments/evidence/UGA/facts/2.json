@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-23 URA Launches Enhanced Tax Payment Services on MTN MoMo to Boost Digital Compliance",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo Uganda's managing director said the service reaches over 14 million customers and thousands of small businesses.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Uganda",
+   "tiers": ""
+  },
+  {
+   "system": "URA tax payment on MTN MoMo",
+   "country_label": "Uganda",
+   "class": "revenue",
+   "platform": "USSD *165*18#",
+   "owner": "URA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "no evidence",
+   "system": "",
+   "endtoend": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a government e-procurement system, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
+  }
+ ]
+}

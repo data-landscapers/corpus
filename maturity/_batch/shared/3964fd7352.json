@@ -1,0 +1,9 @@
+{"slug":"2026-09-22-techcabal-south-africas-bank-zero-breaks-even","studies":{
+"businesspayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only a bank's corporate banking features; no public e-procurement."}}},
+"centralbank":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only that new FX capabilities await SARB approval; no payments mandate, switch or regional link stated."}}},
+"consumerprotection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Mukuru is a remittance fintech being onboarded as a bank customer; no corridor is named."}}},
+"g2ppayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Customer counts only, no survey share."}}},
+"retailpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Describes one bank's customers and alliance banking; no mobile money or retail payment service stated."}}},
+"revenuecollection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

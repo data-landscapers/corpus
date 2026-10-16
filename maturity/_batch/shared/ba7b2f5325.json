@@ -1,0 +1,77 @@
+{
+ "slug": "2026-05-08-bceao-crypto-actifs-table-ronde-gouverneurs-dakar",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page reports a governors' round table on crypto-assets with no statement on licensing, a switch or a regional system for Senegal."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

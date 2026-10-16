@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-28-interoperability-costs-cut-113-agencies",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The finance minister said fees on interoperability transfers between wallets and bank accounts are capped at 5,000/- for amounts above 500,000/-, with a tiered guided cost limit for smaller amounts.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "interoperability transfer fee cap",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

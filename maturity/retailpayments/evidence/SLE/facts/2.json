@@ -1,0 +1,62 @@
+{
+ "slug": "2025-02-14 Sierra Leone Launches National Instant Payment System",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Afrimoney and Orange Money operate mobile money in Sierra Leone, and central bank data show 8.2 million mobile money accounts at 31 December 2023.",
+   "as_of": "2023-12-31",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Sierra Leone launched real-time transfers between mobile money operators, banks, and mobile money and bank accounts on 13 February 2025, with seven banks and two mobile money providers connected.",
+   "as_of": "2025-02-13",
+   "date_precision": "day",
+   "system": "National Instant Payment Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bank of Sierra Leone's national instant payment switch connects mobile money accounts and bank accounts, launched 13 February 2025.",
+   "as_of": "2025-02-13",
+   "date_precision": "day",
+   "system": "National Instant Payment Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Instant Payment Switch",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  },
+  {
+   "system": "Afrimoney",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Africell",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

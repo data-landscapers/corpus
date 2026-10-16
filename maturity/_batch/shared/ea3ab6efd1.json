@@ -1,0 +1,10 @@
+{"slug": "2026-07-03-orange-webb-fontaine-paiement-redevance-dpi", "studies": {
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [{"system": "eDouanes", "country_label": "CAF", "class": "other", "platform": "SYDONIA", "owner": "Webb Fontaine", "tiers": ""}], "note": "Customs platform, not public procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No consumer rules or redress stated."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Domestic payment of an import fee; no cross-border channel stated."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Payment to government, not to people."}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Centrafrique provides its Orange Money mobile payment infrastructure, described as widely used across the country, to pay the DPI import fee, per the finance ministry's chief of staff.", "as_of": "2026-07-03", "date_precision": "day", "system": "Orange Money", "class": "retail"}], "systems": [{"system": "Orange Money", "country_label": "CAF", "class": "retail", "platform": "", "owner": "Orange Centrafrique", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Orange Centrafrique, Webb Fontaine and NGSER launched automated payment of the DPI (prior import declaration) customs fee through Orange Money, with receipts passed in real time to the SYDONIA customs system.", "as_of": "2026-07-03", "date_precision": "day", "system": "Orange Money DPI fee payment", "class": "revenue"}], "systems": [{"system": "SYDONIA", "country_label": "CAF", "class": "revenue", "platform": "SYDONIA", "owner": "customs", "tiers": ""}], "note": ""}}}
+}}

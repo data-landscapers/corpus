@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Cameroun and Orange Cameroun mobile money operators processed 1.50 million and 1.12 million issued transactions in H1 2026, and Orange and MTN lead acquiring with 4.46 million and 3.14 million, per GIMAC.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "MTN Cameroun, Orange Cameroun",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Cameroun",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Cameroun",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

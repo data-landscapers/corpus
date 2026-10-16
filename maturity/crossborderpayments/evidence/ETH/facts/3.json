@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The National Digital Payment Strategy 2026-2030 proposes enabling low-value outbound cross-border transfers via cards, wallets and digital banking for the first time (FMC/ENA/Shega).",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "National Digital Payment Strategy 2026-2030",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Payment Strategy 2026-2030",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ethiopia / NBE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

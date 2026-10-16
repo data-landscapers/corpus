@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,centralbank,mandate,coverage,licensing,2023-11,CAF-004,,
+CAF,centralbank,switch,coverage,overseen,2023-11,CAF-005,,
+CAF,centralbank,regional,coverage,linked,2026-07-29,CAF-001;CAF-002;CAF-003;CAF-006;CAF-007;CAF-008;CAF-009,,

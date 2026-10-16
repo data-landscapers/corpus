@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Eswatini Positive News says DeltaPay's wallet service is live and lets users send money by Fast Transfer.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "DeltaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Eswatini Positive News says DeltaPay users can send money within seconds, 24/7, to customers of participating banks and digital wallets.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "DeltaPay Fast Transfer",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Eswatini Positive News says the Eswatini Payment Switch connects banks and mobile wallets and DeltaPay's service is now live on it.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Eswatini Payment Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DeltaPay",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "",
+   "owner": "DeltaPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

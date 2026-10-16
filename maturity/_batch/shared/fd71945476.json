@@ -1,0 +1,167 @@
+{
+ "slug": "2026-09-08-thesun-papss-nigeria-fintechs-payment-integration",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Ogbalu says Nigeria is a PAPSS participant that chairs its Permanent Council, and that PAPSS needs central bank approvals for banks and payment institutions to join.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "NGA",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS chief executive Mike Ogbalu says Nigeria was among the first countries behind PAPSS and the first to chair its Permanent Council, and describes Nigerian transactions through the system in service.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Ogbalu says PAPSS carries significant transactions between Nigeria and Ghana, Rwanda and Kenya, with Nigerian traders paying electronically instead of carrying cash.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "NGA",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

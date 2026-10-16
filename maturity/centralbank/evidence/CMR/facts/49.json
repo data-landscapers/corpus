@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-30-gabonreview-beac-qr-code-interoperable-cemac",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BEAC launched the interoperable CEMAC QR code on 29 July 2026 in Douala, with regional interbank operations routed and cleared via GIMAC.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "CEMAC interoperable QR code",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BEAC says the interoperable QR code covers the six CEMAC countries, cleared through GIMAC, under Regulation 02/26/CEMAC/UMAC/COREFI of 8 April 2026.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "GIMAC",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEMAC interoperable QR code",
+   "country_label": "CEMAC",
+   "class": "retail",
+   "platform": "EMVCo",
+   "owner": "BEAC",
+   "tiers": ""
+  },
+  {
+   "system": "GIMAC",
+   "country_label": "CEMAC",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Tresor Pay accepts mobile money payments from citizens for non-tax revenues to the Treasury.",
+       "as_of": "2025-06-05",
+       "date_precision": "day",
+       "system": "Tresor Pay",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tresor Pay",
+       "country_label": "Cameroon",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Ministry of Finance's Tresor Pay lets citizens pay non-tax revenues online by mobile money, bank card or Campost counters, and a Prime Minister's order of 28 May 2025 requires departments to use it exclusively within three months.",
+       "as_of": "2025-05-28",
+       "date_precision": "day",
+       "system": "Tresor Pay",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tresor Pay",
+       "country_label": "Cameroon",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

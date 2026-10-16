@@ -1,0 +1,148 @@
+{
+ "id": "businesspayments",
+ "study_file": "maturity-study-businesspayments.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--b2b-and-b2g-functionality"
+ ],
+ "carry": [
+  "dpi.pay--b2b-and-b2g-functionality"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "e-procurement",
+  "electronic procurement",
+  "e-GP",
+  "e-government procurement",
+  "procurement portal",
+  "public procurement system",
+  "e-tendering",
+  "marchés publics en ligne",
+  "dématérialisation des marchés",
+  "contratação pública",
+  "المشتريات الحكومية الإلكترونية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "business",
+   "label": "B2B and B2G functionality",
+   "subject": "dpi.pay",
+   "text": "B2B and B2G functionality: b2b and b2g functionality",
+   "indicator_id": "dpi.pay--b2b-and-b2g-functionality-b2b-and-b2g-functionality",
+   "class": "procurement",
+   "norm_short": "The AfCFTA Digital Trade Protocol asks states to enable electronic transactions, electronic invoicing and interoperable payments between businesses and with government.",
+   "criteria": [
+    "A source from the past three years says public procurement runs on paper.",
+    "An e-procurement system is procured, being built or piloted.",
+    "Government tenders are published or bid online through a system in service.",
+    "E-procurement runs from tender to award or payment, or is required of all public bodies.",
+    "A source from the past three years gives a figure for e-procurement: tenders, value or share of purchasing through it."
+   ],
+   "criteria_of": "15e0fa561c08"
+  }
+ ],
+ "classes": [
+  "procurement",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "E-procurement in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "endtoend",
+   "name": "End to end",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "endtoend"
+   ],
+   "values": [
+    "endtoend"
+   ]
+  },
+  {
+   "key": "reported",
+   "name": "Use reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

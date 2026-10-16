@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-vodacom-lesotho-brings-micro-investing-to-m-pesa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Safaricom's M-Pesa mobile money is in service in Kenya, with 35 million Kenyan customers, per the article.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

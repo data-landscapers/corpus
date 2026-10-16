@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-15-cbl-governor-launches-national-financial-inclusion-strategy-epaix",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Central Bank of Libya governor announced on 15 June 2025 a project for full digitisation of government payments, among projects accompanying the National Financial Inclusion Strategy 2025-2029.",
+   "as_of": "2025-06-15",
+   "date_precision": "day",
+   "system": "Digitisation of government payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digitisation of government payments",
+   "country_label": "Libya",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

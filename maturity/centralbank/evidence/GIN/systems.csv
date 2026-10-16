@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,WARDIP,Guinea,other,legal reform project,BCRG / World Bank,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,RTGS,Guinea,other,gross settlement,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,PAPSS,Guinea,other,Afreximbank,Afreximbank,no transactions yet,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,national switch (GuiM),Guinea,other,national switch being finalised,Guineenne de Monetique,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,NimbaPay,Guinea,oversight,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
+GIN,NimbaPay,Guinea,oversight,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
+GIN,NimbaPay,Guinea,other,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
+GIN,NimbaPay,Guinea,other,,"Guineenne de la Monetique (GuiM), under the BCRG",,2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
+GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-22-mediaguinee-nimbapay-lancement
+GIN,NimbaPay,Guinea,other,,BCRG,"banks, e-money institutions, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,Orange Money Pro,Guinea,other,,Orange Finance Mobile Guinee,,2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-26-guinee-aguiduten-salue-lancement-nimbapay

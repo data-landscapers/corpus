@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-03-comores-bcc-rapport-2025-komor-switch-paiements",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

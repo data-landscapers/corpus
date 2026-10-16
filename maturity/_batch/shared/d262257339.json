@@ -1,0 +1,10 @@
+{"slug":"2024-11-08-projet-safi-mef","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document is about tax administration, not public procurement."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No consumer-protection rule is stated."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No cross-border channel is stated."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No payment to people is stated."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No survey share of adults is stated."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No retail digital payment service is stated."}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Ministry of Economy and Finance says the SAFI integrated tax administration system, started in October 2024, will bring e-Declaration, mandatory tele-declaration and e-Payment to the tax directorate, targeting full deployment in all tax centres by January 2026.","as_of":"2024-11-08","date_precision":"day","system":"SAFI (Système d'Administration FIscale Intégré)","class":"revenue"}],"systems":[{"system":"SAFI (Système d'Administration FIscale Intégré)","country_label":"Madagascar","class":"revenue","platform":"","owner":"Ministère de l'Économie et des Finances","tiers":""}],"note":""}}}
+}}

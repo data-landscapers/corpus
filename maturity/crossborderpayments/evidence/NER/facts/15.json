@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-papss-security-data-governance-dailycircular",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Niger",
+   "class": "crossborder",
+   "platform": "PAPSS",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": "Niger is named only in a quote that banks need Nigeria-Niger transaction ability; the document does not say Niger takes part or that a corridor is in service."
+}

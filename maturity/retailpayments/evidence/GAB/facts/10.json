@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-30-ga-cartes-bancaires-paiements-tpe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Systac",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Sygma",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Bank card and ATM figures only; no mobile money or wallet service stated."
+}

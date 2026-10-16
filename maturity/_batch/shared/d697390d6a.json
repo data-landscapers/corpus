@@ -1,0 +1,119 @@
+{
+ "slug": "2026-08-26-dawan-somalia-financial-inclusion-opinion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "The Somalia Financial Access Survey Report SOM-FAS2026 (Central Bank of Somalia and National Bureau of Statistics), as described by an opinion writer, puts banking penetration at approximately 19 percent of adults.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SOM-FAS2026",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SOM-FAS2026",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SOM-FAS2026",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "An opinion writer says mobile money is in service in Somalia and used by the majority of people to send and receive money and make payments, reaching 87 percent of adults per the SOM-FAS2026 report.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: nothing stated on this study."
+    }
+   }
+  }
+ }
+}

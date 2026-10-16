@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-17-atpe-flux-financiers-etat-paiement-electronique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ATPE names Moov Money, Airtel Money, Konoom and Cashi Tchad as the payment establishments operating in Chad's mobile money ecosystem.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Moov Money; Airtel Money; Konoom; Cashi Tchad",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cashi Tchad",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

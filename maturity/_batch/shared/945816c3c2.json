@@ -1,0 +1,88 @@
+{
+ "slug": "2026-09-25-nigeria-moniepoint-pos-investment-outlet",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCabal reports Nigeria has 5.9 million active PoS terminals, used 15.66 billion times in 2025 per CBN data, second only to internet payments at 21.11 billion.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "PoS terminals",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

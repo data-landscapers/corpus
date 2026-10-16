@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,GIMAC,CEMAC,crossborder,,,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
+GAB,GIMACPAY,Gabon,crossborder,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
+GAB,CLIKPAY,Gabon,crossborder,,,,2026-05-08-uncdf-clikpay-gabon-fintech-capital
+GAB,Gimac QR code,Gabon,crossborder,Gimac,Gimac,,2025-06-17-gabon-payments-interoperability-gimac
+GAB,CEMAC interoperable QR code,CEMAC,crossborder,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac

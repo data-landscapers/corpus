@@ -1,0 +1,241 @@
+{
+ "slug": "2026-10-09-ecomatin-cemac-mobile-money-44000-milliards-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "COBAC's 2025 annual report, as relayed by Ecomatin, counts 2.95 billion payment operations in 2025 through licensed payment institutions (Orange Money Cameroun and Mobile Money Corporation (MTN)).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "COBAC's 2025 annual report, as relayed by Ecomatin, counts 865 million payment operations in 2025 through licensed payment institutions (Mobile Money Congo SA and Mobile Commerce Congo SA).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "COBAC's 2025 annual report, as relayed by Ecomatin, counts 744 million payment operations in 2025 through licensed payment institutions (Airtel Money Gabon and Clikpay Gabon).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "COBAC's 2025 annual report, as relayed by Ecomatin, counts 361 million payment operations in 2025 through licensed payment institutions (Airtel Mobile Commerce).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

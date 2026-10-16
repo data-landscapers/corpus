@@ -1,0 +1,5 @@
+{"slug": "2026-10-01-mrt-tawassoul-facturation-paiements-electroniques", "facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The finance ministry, through the DGI, announced that from 1 November 2026 public establishments must use an electronic platform for invoicing, tax declarations and payment of taxes, duties and withholdings, with DGI training in October.", "as_of": "2026-10-01", "date_precision": "day", "system": "DGI electronic platform for public establishments", "class": "revenue"}
+], "systems": [
+{"system": "DGI electronic platform for public establishments", "country_label": "Mauritania", "class": "revenue", "platform": "", "owner": "Direction Generale des Impots", "tiers": ""}
+], "note": ""}

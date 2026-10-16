@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "EMIS (interbank services company)",
+   "tiers": ""
+  }
+ ],
+ "note": "EMIS is named as operator; the document states no central bank role."
+}

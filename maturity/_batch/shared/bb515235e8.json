@@ -1,0 +1,10 @@
+{"slug":"2026-07-09-nova-etapa-estrategia-nacional-de-inclusao-financeira","studies":{
+"businesspayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No central bank role stated; the minister speaks."}}},
+"consumerprotection":{"countries":{"AGO":{"facts":[],"systems":[],"note":"The strategy is said to include consumer protection, but no rule, body or enforcement is stated."}}},
+"crossborderpayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Not stated."}}},
+"g2ppayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"AGO":{"facts":[],"systems":[],"note":"The 51.7% inclusion rate and 32% banking figure are official indicators, not a named survey share of adults."}}},
+"retailpayments":{"countries":{"AGO":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Minister Jose de Lima Massano said on 9 July 2026 that mobile and digital payments in Angola grew about 56% year on year by the end of the first half of 2026.","as_of":"2026-06","date_precision":"month","system":"mobile and digital payments","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Not stated."}}}
+}}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-01-thecitizen-tanzania-mobile-money-cashless",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TCRA's quarterly report puts active mobile money subscriptions at 87.05 million in June 2026, with Mixx by Yas, M-Pesa and Airtel Money holding about 89% of them.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Mixx by Yas; M-Pesa; Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mixx by Yas",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

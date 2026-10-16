@@ -1,0 +1,10 @@
+{"slug":"2026-08-22-fintechtimes-tunisia-cash-and-code","studies":{
+"businesspayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"TUN":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The Fintech Times says Konnect describes itself as a payment facilitator certified by the Central Bank of Tunisia.","as_of":"2026-08-22","date_precision":"day","system":"Konnect","class":"oversight"}],"systems":[{"system":"Konnect","country_label":"Tunisia","class":"other","platform":"","owner":"","tiers":""},{"system":"Paymee","country_label":"Tunisia","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Only tighter cheque rules are stated, not digital financial service protection."}}},
+"crossborderpayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No named corridor; international card acceptance only."}}},
+"g2ppayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"TUN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Fintech Times says Flouci offers an app combining electronic payments and financial services, and Konnect and Paymee accept La Poste's e-Dinar products.","as_of":"2026-08-22","date_precision":"day","system":"Flouci","class":"retail"}],"systems":[{"system":"Flouci","country_label":"Tunisia","class":"retail","platform":"","owner":"","tiers":""},{"system":"e-Dinar","country_label":"Tunisia","class":"retail","platform":"","owner":"La Poste","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

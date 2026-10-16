@@ -1,0 +1,44 @@
+{
+ "slug": "2024-01-01 Algeria to launch DZ MOB PAY mobile payment system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AL24 News says Algeria recorded over 75 million smartphone-based transactions by October 2024.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "smartphone payments",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "AL24 News says the Switch Mobile interoperability platform launched in June 2024 and mobile payments expanded after it.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Switch Mobile",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DZ MOB PAY",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "QR code",
+   "owner": "BNA, Al Salam Bank Algeria, Algeria Post",
+   "tiers": ""
+  },
+  {
+   "system": "Switch Mobile",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "interoperability platform",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

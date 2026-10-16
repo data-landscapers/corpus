@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-zambia-k22-million-collected-8-councils-electronic-payments-gsb","studies":{
+"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Payments are by residents and businesses to councils, not to people."}}},
+"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No mobile money or wallet service described; the payments are to government."}}},
+"revenuecollection":{"countries":{"ZMB":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Eight local authorities were onboarded onto the Government Services Bus from June 2026, letting residents and businesses pay property rates, business levies and permits electronically, per the Zambian Business Times.","as_of":"2026-06","date_precision":"month","system":"Government Services Bus","class":"revenue"},{"sub_indicator":"revenue","aspect":"reported","value":"reported","fact":"The Ministry of Finance and National Planning data cited say about K21.7 million was collected through the Government Services Bus in the month since the June 2026 rollout to eight councils.","as_of":"2026-07","date_precision":"month","system":"Government Services Bus","class":"revenue"}],"systems":[{"system":"Government Services Bus","country_label":"Zambia","class":"revenue","platform":"","owner":"Government of Zambia","tiers":"central government, local authorities"}],"note":""}}}}}

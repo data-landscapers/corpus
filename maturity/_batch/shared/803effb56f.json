@@ -1,0 +1,10 @@
+{"slug":"2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"NAM":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Namibia","class":"other","platform":"continental payment system","owner":"Afreximbank, AU Commission, AfCFTA Secretariat","tiers":"Namibia not yet live"}],"note":"Namibia's PAPSS integration was being pursued, not live."}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Namibia","class":"crossborder","platform":"continental payment system","owner":"Afreximbank, AU Commission, AfCFTA Secretariat","tiers":"Namibia not yet live"}],"note":"Namibia not yet in PAPSS; sign-up only being pursued."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

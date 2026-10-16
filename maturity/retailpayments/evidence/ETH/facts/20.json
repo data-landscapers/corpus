@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-17-eth-ebr-157m-mobile-money-accounts-under-15pc-active-nbe",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ethiopian Business Review reports the NBE says Ethiopia has 157 million registered mobile money accounts and more than 35 non-bank digital financial service providers.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The NBE's Banking and Payment Systems director says the first National Digital Payments Strategy built interoperability infrastructure.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "National Digital Payments Strategy",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Payments Strategy 2.0",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

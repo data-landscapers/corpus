@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "unplaced",
+   "payment": "",
+   "main": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether taxes or fees can be paid electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

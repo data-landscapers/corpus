@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-20-sierra-leone-validates-mobile-digital-fraud-roadmap",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Money SL and other mobile money providers operate in Sierra Leone, and the workshop sought to secure mobile money services there.",
+       "as_of": "2026-08-20",
+       "date_precision": "day",
+       "system": "Orange Money SL",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money SL",
+       "country_label": "Sierra Leone",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange Sierra Leone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

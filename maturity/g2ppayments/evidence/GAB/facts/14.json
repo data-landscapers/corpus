@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-11-gabon-madigipaie-digital-payments-launch",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "In late October 2025 the Gabonese government began a pilot to digitize social and tax payments, with full deployment scheduled for January 2026 (Ecofin Agency).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "digitization of social and tax payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

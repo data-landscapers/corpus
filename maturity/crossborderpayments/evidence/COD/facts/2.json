@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-visa-mpesa-onafriq-stablecoin-pilot-drc-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "TechAfrica News says Visa, M-PESA Africa and Onafriq are set to pilot stablecoins for cross-border mobile money transactions, with DR Congo the initial testing ground.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Visa, M-PESA Africa and Onafriq stablecoin pilot",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Visa, M-PESA Africa and Onafriq stablecoin pilot",
+   "country_label": "DR Congo",
+   "class": "crossborder",
+   "platform": "stablecoin",
+   "owner": "Visa, M-PESA Africa, Onafriq",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

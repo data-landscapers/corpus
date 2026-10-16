@@ -1,0 +1,54 @@
+{
+ "slug": "2026-04-14-mixx-togo-pi-spi-uemoa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Mixx holds an e-money institution licence (agrement) from the BCEAO.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Mixx",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCEAO's PI-SPI instant payment platform is in service, with over 50 institutions connected, and the BCEAO has made connection compulsory from 30 June 2026.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Mixx Togo joined the BCEAO's PI-SPI platform, and Ecobank, Orabank and Bank of Africa in Togo are connected to it.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "Mixx",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "Yas Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

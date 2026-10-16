@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-09-nga-a2f-a2f-2026-making-financial-inclusion-work-harder-for-nigerian",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "EFInA's A2F 2026 survey puts formal financial inclusion of Nigerian adults at 73% in 2026, up from 64% in 2023.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "A2F 2026 survey",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "EFInA's A2F 2026 survey puts formal financial inclusion of Nigerian adults at 73% in 2026, up from 64% in 2023.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "A2F 2026 survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

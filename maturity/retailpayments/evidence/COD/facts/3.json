@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-30-mainmoney-palm-vein-lancement-actualite",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MainMoney's director general said at least 29 million Congolese hold a mobile money account, and MainMoney, a palm-vein payment terminal, was launched in Kinshasa on 29 April 2026.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainMoney",
+   "country_label": "DR Congo",
+   "class": "retail",
+   "platform": "palm-vein payment terminal",
+   "owner": "MainMoney",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

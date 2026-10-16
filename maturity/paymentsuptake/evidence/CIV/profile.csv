@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CIV,uptake,share,coverage,half,2024,CIV-002,CIV-001=quarter,
+CIV,uptake,target,coverage,,,,,nothing held
+CIV,uptake,payments,coverage,,,,,nothing held

@@ -1,0 +1,14 @@
+{"slug":"2026-07-09-beac-rejoint-papss-cemac","studies":{
+"businesspayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not stated."},"GNQ":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{
+"CAF":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Afreximbank's release of 9 July 2026 says BEAC, which serves the Central African Republic among six CEMAC states, has officially joined PAPSS, to be operationalised with CEMAC institutions by end 2026.","as_of":"2026-07-09","date_precision":"day","system":"PAPSS","class":"oversight"}],"systems":[{"system":"PAPSS","country_label":"CEMAC (via BEAC)","class":"other","platform":"cross-border settlement","owner":"Afreximbank","tiers":""}],"note":""},
+"GNQ":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Afreximbank's release of 9 July 2026 says BEAC, which serves Equatorial Guinea among six CEMAC states, has officially joined PAPSS, to be operationalised with CEMAC institutions by end 2026.","as_of":"2026-07-09","date_precision":"day","system":"PAPSS","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not stated."},"GNQ":{"facts":[],"systems":[],"note":"Not stated."}}},
+"crossborderpayments":{"countries":{
+"CAF":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Afreximbank's release of 9 July 2026 says BEAC, serving the Central African Republic among six CEMAC states, has joined PAPSS, which links 28 countries and 16 payment switches, with onboarding of CEMAC institutions through end 2026.","as_of":"2026-07-09","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[],"note":""},
+"GNQ":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Afreximbank's release of 9 July 2026 says BEAC, serving Equatorial Guinea among six CEMAC states, has joined PAPSS, which links 28 countries and 16 payment switches, with onboarding of CEMAC institutions through end 2026.","as_of":"2026-07-09","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not stated."},"GNQ":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No survey share stated."},"GNQ":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not stated."},"GNQ":{"facts":[],"systems":[],"note":"Not stated."}}},
+"revenuecollection":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not stated."},"GNQ":{"facts":[],"systems":[],"note":"Not stated."}}}
+}}

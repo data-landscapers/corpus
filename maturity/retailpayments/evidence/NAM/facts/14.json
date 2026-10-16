@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15-fact-sheet-namibias-instant-payment-solution-ips",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Banks, authorised fintechs and e-money issuers are to serve the public through the interoperable Instant Payment Solution, which has finished piloting and is in phased rollout.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Instant Payment Solution (IPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment Solution (IPS)",
+   "country_label": "IPS",
+   "class": "retail",
+   "platform": "",
+   "owner": "Instant Payment Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,9 +1,287 @@
-{"slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch", "studies": {
-"authentication": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "Integrated National Registration Information System (INRIS)", "country_label": "Zambia", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "Digital ID cards are said to be due by end 2026; no authentication, e-signature or PKI service is described."}}},
-"birthidlink": {"countries": {"ZMB": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "ITWeb says Zambia's Integrated National Registration Information System (INRIS) is intended to digitise civil registration and identity management together.", "as_of": "2026-07-27", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "crvslink"}], "systems": [{"system": "Integrated National Registration Information System (INRIS)", "country_label": "Zambia", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"ZMB": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "ITWeb says the UNDP puts biometric enrolment at roughly 1.5 million people in a population of around 20 million, about 7.5% (6.8% of the 21.9 million held).", "as_of": "2026-07-27", "date_precision": "day", "system": "biometric enrolment (INRIS)", "class": "idsystem"}], "systems": [], "note": ""}}},
-"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
-"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
-"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is described."}}},
-"idrobustness": {"countries": {"ZMB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "ITWeb says biometric enrolment stands at roughly 1.5 million people and the Smart Zambia Institute has said digital identity cards will be issued by the end of 2026, with digital identity still in its implementation journey.", "as_of": "2026-07-27", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "idsystem"}], "systems": [{"system": "Integrated National Registration Information System (INRIS)", "country_label": "Zambia", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Integrated National Registration Information System (INRIS)",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Digital ID cards are said to be due by end 2026; no authentication, e-signature or PKI service is described."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "ITWeb says Zambia's Integrated National Registration Information System (INRIS) is intended to digitise civil registration and identity management together.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Integrated National Registration Information System (INRIS)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated National Registration Information System (INRIS)",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "ITWeb says the UNDP puts biometric enrolment at roughly 1.5 million people in a population of around 20 million, about 7.5% (6.8% of the 21.9 million held).",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "biometric enrolment (INRIS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is mentioned."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Who operates or maintains the ID system is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the ID number is described."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ITWeb says biometric enrolment stands at roughly 1.5 million people and the Smart Zambia Institute has said digital identity cards will be issued by the end of 2026, with digital identity still in its implementation journey.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Integrated National Registration Information System (INRIS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated National Registration Information System (INRIS)",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement system is mentioned."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Financial Switch",
+       "country_label": "Zambia",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document does not say the central bank runs or oversees the switch, licenses providers, or that Zambia is in a regional system in service; PAPSS is only under discussion."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer-protection rule or complaints body is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "TCIB",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "SADC",
+       "owner": "SADC",
+       "tiers": ""
+      }
+     ],
+     "note": "ZECHL is yet to go live on TCIB and PAPSS is only under discussion; no corridor in service or figures stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Government-to-person payments are mentioned only as a use of identity, with no programme stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "Bank of Zambia figures from the 2025 FinScope survey show mobile money usage at 76.2% in Zambia, and financial inclusion at 80.1% up from 69.4% in 2020.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope 2025",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "Bank of Zambia figures from the 2025 FinScope survey show mobile money usage at 76.2% in Zambia, and financial inclusion at 80.1% up from 69.4% in 2020.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope 2025",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": "The 80.1% is financial inclusion, not stated as an account share, so no fact for the four-in-five rung."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Mobile money usage in Zambia is 76.2% per the 2025 FinScope survey, and mobile money operators connect to the National Financial Switch.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The National Financial Switch supports wallet-to-bank and bank-to-wallet transfers as well as merchant payments, per ITWeb quoting a Sybrin manager.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "National Financial Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The National Financial Switch connects banks, non-bank financial institutions, payment service providers, fintechs and mobile money operators, per ITWeb quoting a Sybrin manager.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "National Financial Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Financial Switch",
+       "country_label": "Zambia",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "ZIPS",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": "high-value settlement"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax is named only as a type of mining payment flow; no electronic revenue payment is stated."
+    }
+   }
+  }
+ }
+}

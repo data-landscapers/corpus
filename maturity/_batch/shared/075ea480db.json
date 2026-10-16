@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-zimbabwe-electronic-transactions-top-zig1-trillion-zimswitch","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[{"system":"ZimSwitch","country_label":"Zimbabwe","class":"retail","platform":"","owner":"ZimSwitch","tiers":""}],"note":"The Reserve Bank spoke at the conference, but no mandate, licensing or oversight of the switch is stated."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Fraud protection is a ZimSwitch system, not a consumer rule or redress body."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only unspecified international and regional partnerships, in a truncated passage."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Transaction volumes are not a survey share of adults."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"retail","aspect":"switch","value":"national","fact":"ZimSwitch's chief executive described it as the national payment switch, with mobile wallet integration on its e-commerce platform and interoperable QR payments being rolled out.","as_of":"2026-07-23","date_precision":"day","system":"ZimSwitch","class":"retail"}],"systems":[{"system":"ZimSwitch","country_label":"Zimbabwe","class":"retail","platform":"","owner":"ZimSwitch","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on taxes or fees."}}}}}

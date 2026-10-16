@@ -1,0 +1,133 @@
+{
+ "slug": "2026-10-04-swz-standard-bank-revives-instant-money-as-unayo-exits",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Eswatini Positive News says Unayo lets users send money by cellphone number, collected at Standard Bank ATMs and participating merchants, and closes 31 December 2026.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "Unayo",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Eswatini Positive News says the Eswatini Payment Switch enables real-time payments between participating banks and digital wallets.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "Eswatini Positive News says the Eswatini Payment Switch enables real-time payments between participating banks and digital wallets.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Payment Switch",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "national switch",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Unayo",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "",
+       "owner": "Standard Bank",
+       "tiers": ""
+      },
+      {
+       "system": "Instant Money",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "",
+       "owner": "Standard Bank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

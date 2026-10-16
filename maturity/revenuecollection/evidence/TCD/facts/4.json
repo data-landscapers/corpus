@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-17-journaldutchad-paiement-mobile-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Journal du Tchad reports the Finance Minister met the four mobile money operators on 17 February 2026 to speed an operational framework for dematerialising state financial flows via mobile money and urged a convention-cadre.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Mobile money framework for state financial flows",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cashi Tchad",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

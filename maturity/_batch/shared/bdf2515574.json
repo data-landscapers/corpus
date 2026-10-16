@@ -63,6 +63,78 @@
      "note": "Talks only on possible Indian cooperation; nothing stated about an existing or contracted system."
     }
    }
+  },
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Exploratory talks only; no payment system, rule or service stated."
+    }
+   }
   }
  }
 }

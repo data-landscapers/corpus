@@ -1,0 +1,10 @@
+{"slug":"2026-10-09-uga-monitor-ucaa-entebbe-ai-parking-digital-payments","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Data retention statement only; no financial consumer rule."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No payments to people stated."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Drivers at Entebbe International Airport car parks pay through the *227# USSD mobile money gateway, which currently carries a 2% integration fee, according to the Uganda Civil Aviation Authority.","as_of":"2026-10-09","date_precision":"day","system":"*227# USSD mobile money gateway","class":"retail"}],"systems":[{"system":"*227# USSD mobile money gateway","country_label":"Uganda","class":"retail","platform":"USSD","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Airport car park payment app with no stated state revenue role."}}}
+}}

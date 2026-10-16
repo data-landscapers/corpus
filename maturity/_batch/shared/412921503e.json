@@ -1,0 +1,200 @@
+{
+ "slug": "2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechAfrica News says Flash's FlashApp offers over 27 financial services in the DRC including mobile money, to more than three million customers.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "FlashApp",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "retail",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FlashApp",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Flash",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  }
+ }
+}

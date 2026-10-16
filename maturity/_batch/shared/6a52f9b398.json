@@ -1,0 +1,98 @@
+{
+ "slug": "2026-10-05-nga-nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "EFInA's 2026 Access to Financial Services in Nigeria survey (weighted by NBS) puts formal financial inclusion at 73% of adults, about 87.2 million.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "A2F 2026 survey",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "The same EFInA A2F 2026 survey, fieldwork April-June 2026, puts formal financial inclusion at 73% of adults, above half.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "A2F 2026 survey",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

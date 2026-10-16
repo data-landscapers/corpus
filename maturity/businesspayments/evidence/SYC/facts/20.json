@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-14-fusepay-psp-licence-approval",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fusepay",
+   "country_label": "Seychelles",
+   "class": "retail",
+   "platform": "digital money accounts, instant payments, FuseCheq",
+   "owner": "Fusepay",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing answering this study."
+}

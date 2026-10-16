@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-09-nova-etapa-estrategia-nacional-de-inclusao-financeira",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Jose de Lima Massano said on 9 July 2026 that mobile and digital payments in Angola grew about 56% year on year by the end of the first half of 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "mobile and digital payments",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

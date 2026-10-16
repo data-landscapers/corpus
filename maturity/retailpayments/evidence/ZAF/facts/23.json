@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PayShap, South Africa's real-time payment platform, is in service and processed more than 500 million transactions worth about R486bn in 2025, per Absa's CEO.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "PayShap",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayShap",
+   "country_label": "South Africa",
+   "class": "retail",
+   "platform": "real-time payments",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

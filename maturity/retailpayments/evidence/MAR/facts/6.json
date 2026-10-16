@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-24-bkam-rapport-annuel-inclusion-financiere-exercice-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank Al-Maghrib reports 13.7 million m-wallets outstanding in 2024, up from 6.3 million in 2021.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "m-wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

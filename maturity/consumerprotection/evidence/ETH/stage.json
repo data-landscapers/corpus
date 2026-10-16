@@ -1,0 +1,17 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "protection",
+   "stage": "3",
+   "rules": "inforce",
+   "redress": "",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-001",
+   "gaps": "No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
+   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Namibia",
+   "class": "crossborder",
+   "platform": "continental payment system",
+   "owner": "Afreximbank, AU Commission, AfCFTA Secretariat",
+   "tiers": "Namibia not yet live"
+  }
+ ],
+ "note": "Namibia not yet in PAPSS; sign-up only being pursued."
+}

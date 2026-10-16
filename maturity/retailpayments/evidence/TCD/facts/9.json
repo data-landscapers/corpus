@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-19-wearetech-konoom-paiements-numeriques-multicanal",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Konoom, a N'Djamena fintech launched in 2025, offers an e-wallet for money transfers, merchant payments and bill payments by mobile app, web, USSD and WhatsApp, per We Are Tech Africa.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Konoom",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Konoom is said to allow transfers between e-wallets, bank accounts and agent networks, per We Are Tech Africa.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Konoom",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konoom",
+   "country_label": "Tchad",
+   "class": "retail",
+   "platform": "e-wallet app, web, USSD, WhatsApp",
+   "owner": "Konoom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

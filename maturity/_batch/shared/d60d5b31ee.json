@@ -1,0 +1,10 @@
+{"slug":"2026-03-03-cbl-record-epayment-qr-launch-alwasat","studies":{
+"businesspayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"LBY":{"facts":[],"systems":[{"system":"LYPay","country_label":"Libya","class":"other","platform":"instant payment service","owner":"","tiers":""},{"system":"OnePay","country_label":"Libya","class":"other","platform":"instant payment service","owner":"","tiers":""}],"note":"Central bank reports figures and agrees a QR launch, but no licensing, switch oversight or mandate is stated."}}},
+"consumerprotection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Counts of cards and wallets only, no survey share of adults."}}},
+"retailpayments":{"countries":{"LBY":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Libya had 187,335 electronic wallets with 6,096 acceptance points in January-February 2026, and instant payment services LYPay and OnePay handled transactions worth over 44.6 billion dinars, per the Central Bank of Libya.","as_of":"2026-02-28","date_precision":"day","system":"LYPay, OnePay","class":"retail"}],"systems":[{"system":"LYPay","country_label":"Libya","class":"retail","platform":"instant payment service","owner":"","tiers":""},{"system":"OnePay","country_label":"Libya","class":"retail","platform":"instant payment service","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

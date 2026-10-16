@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-28-burundipay-real-time-payments-platform-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Banque de la Republique du Burundi launched the national instant payment system BurundiPay on 23 April 2026, connecting commercial banks, microfinance institutions and payment service providers and integrating with the RTGS and automated clearing houses.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "oversight",
+   "platform": "national instant payment system, ISO 20022, USSD",
+   "owner": "Banque de la Republique du Burundi",
+   "tiers": "banks, microfinance, payment service providers"
+  }
+ ],
+ "note": ""
+}

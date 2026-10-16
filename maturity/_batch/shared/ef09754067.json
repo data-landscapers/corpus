@@ -1,0 +1,10 @@
+{"slug":"2026-10-01-dza-algerie-eco-gie-monetique-23-millions-cartes-126000-tpe","studies":{
+"businesspayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"DZA":{"facts":[],"systems":[{"system":"GIE Monétique","country_label":"Algeria","class":"other","platform":"","owner":"","tiers":""}],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Card counts only, no survey share of adults."}}},
+"retailpayments":{"countries":{"DZA":{"facts":[],"systems":[{"system":"Edahabia","country_label":"Algeria","class":"other","platform":"","owner":"Algérie Poste","tiers":""},{"system":"CIB","country_label":"Algeria","class":"other","platform":"","owner":"banks","tiers":""}],"note":"The document covers payment cards and terminals, not mobile money or e-money."}}},
+"revenuecollection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Online energy-bill payment is named, but no state revenue payment is stated."}}}
+}}

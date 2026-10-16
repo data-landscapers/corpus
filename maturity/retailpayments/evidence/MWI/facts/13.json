@@ -1,0 +1,50 @@
+{
+ "slug": "2025-06-17-paychangu-centenary-instant-bank-transfer-malswitch-malawi24",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Malawi24 reports the PayChangu platform consolidates Airtel Money, TNM Mpamba and bank transfers into one gateway.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "PayChangu",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayChangu",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "PayChangu",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TNM Mpamba",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Malswitch",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

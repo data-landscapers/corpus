@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-18-guinee-coris-rejoint-marche-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Agence Ecofin says Orange and MTN mobile money services had 3.2 million subscribers at end June 2025 per ARPT, and Coris Bank launched its Coris Money e-money app on 16 February 2026.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Coris Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Coris Money",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "Coris Bank International Guinée",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "MTN MoMo",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

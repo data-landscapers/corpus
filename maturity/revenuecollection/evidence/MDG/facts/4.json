@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-08-projet-safi-mef",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Ministry of Economy and Finance says the SAFI integrated tax administration system, started in October 2024, will bring e-Declaration, mandatory tele-declaration and e-Payment to the tax directorate, targeting full deployment in all tax centres by January 2026.",
+   "as_of": "2024-11-08",
+   "date_precision": "day",
+   "system": "SAFI (Système d'Administration FIscale Intégré)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAFI (Système d'Administration FIscale Intégré)",
+   "country_label": "Madagascar",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministère de l'Économie et des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

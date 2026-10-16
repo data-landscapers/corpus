@@ -1,0 +1,147 @@
+{
+ "slug": "2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The Bank of Uganda's annual report shows East African Payment System inflows of UGX 1.3 trillion, up 17%, in FY2024/25.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "EAPS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EAPS",
+       "country_label": "Uganda",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Uganda takes part in the East African Payment System, with inflows of UGX 1.3 trillion in FY2024/25, 99% in Kenyan and Tanzanian currency.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "EAPS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "EAPS inflows were UGX 1.3 trillion, up 17%, in FY2024/25, per the Bank of Uganda report.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "EAPS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EAPS",
+       "country_label": "Uganda",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Electronic money transactions grew 28.6% to UGX 326 trillion in FY2024/25 per the Bank of Uganda report; MTN Uganda handles 40% of them.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "MTN Uganda mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Uganda mobile money",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  }
+ }
+}

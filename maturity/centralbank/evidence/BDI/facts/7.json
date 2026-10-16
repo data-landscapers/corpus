@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-06-burundi-burundipay-instant-payment-uptake-brb",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of the Republic of Burundi pilots BurundiPay, the national instant payment system, with 17 institutions live on 4 August 2026 (BRB payment systems director Nduwimana Libere).",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The BRB has acceded to PAPSS and four Burundian banks are authorised to take part, according to BRB's Nduwimana Libere.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": "78 licensed participants, 30 integration-tested, 17 live"
+  },
+  {
+   "system": "PAPSS",
+   "country_label": "Burundi",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-03-mdg-lexpress-inclusion-financiere-digitalisation-mvola",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "L'Express de Madagascar reports Mvola, a mobile money service, has close to 4 million users, over 60,000 cashpoints and over 50,000 merchants accepting payments, per its CEO Alexandre Castel.",
+       "as_of": "2026-10-02",
+       "date_precision": "day",
+       "system": "Mvola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mvola",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

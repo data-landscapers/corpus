@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of Ghana has started testing interoperability of CBDCs, stablecoins, bank accounts and mobile wallets with Rwanda and Nigeria, per Governor Asiama.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Ghana-Rwanda-Nigeria pilots",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Governor Asiama said PAPSS has already been extended to mobile wallets along the Ghana-Nigeria corridor.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Governor Asiama described PAPSS as existing infrastructure in use by Ghana, extended to mobile wallets on the Ghana-Nigeria corridor.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ghana",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Licence Passporting Framework",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Ghana and National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

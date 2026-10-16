@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Mozambique's communiqué of 30 July 2026 says Metix integrates banks, microbanks, electronic money institutions and other payment service providers authorised by the central bank.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Metix",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Bank of Mozambique launched the Metix instant payment system on 16 March 2026, run by SIMO, and reports its volume (over 11,000 transfers a day) in its Monetary Policy Committee communiqué.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Metix",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Metix",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "SIMO",
+   "tiers": ""
+  },
+  {
+   "system": "SIMOrede",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "SIMO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

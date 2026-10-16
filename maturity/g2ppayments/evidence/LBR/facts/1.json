@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-18-liberia-realise-crisis-response-plan-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Government of Liberia's REALISE Social Cash Transfer programme pays extremely poor families quarterly by MTN mobile money, with all transfers delivered digitally (REALISE Project, Government of Liberia).",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Social Cash Transfer program",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Liberia Household Social Registry, held by the Ministry of Gender, Children and Social Protection with over 442,000 poverty-ranked households, supplies the households enrolled into the Social Cash Transfer, per the REALISE Project.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Liberia Household Social Registry",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Cash Transfer program",
+   "country_label": "Liberia",
+   "class": "g2p",
+   "platform": "MTN mobile money",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Household Social Registry",
+   "country_label": "Liberia",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

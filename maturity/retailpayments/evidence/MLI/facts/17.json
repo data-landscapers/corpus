@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-horonyafinance-umoa-monnaie-electronique-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The UMOA Banking Commission's 2025 report counts 2 licensed e-money issuers in Mali, which holds 23% of e-money issuer revenue in the union.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "e-money (EME)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-money issuers (EME)",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "",
+   "owner": "licensed EME",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

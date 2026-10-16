@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo mobile money is in service in South Sudan, letting users send and receive money, pay bills and shop by phone, as MTN launched its 'Mata fekir' campaign with the Bank of South Sudan governor present, per One Citizen Daily.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

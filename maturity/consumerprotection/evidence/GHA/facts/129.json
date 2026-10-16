@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-19-graphic-bog-digital-transaction-data-sme-financing",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Ghana's Second Deputy Governor cites the new Digital Credit Service Providers Directive as regulation protecting consumers.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Digital Credit Service Providers Directive",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-cedi",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Credit Service Providers Directive",
+   "country_label": "Ghana",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

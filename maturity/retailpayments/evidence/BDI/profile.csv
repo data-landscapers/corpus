@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,retail,service,coverage,inservice,2026-08-04,BDI-001;BDI-009;BDI-012;BDI-015,,
+BDI,retail,interop,coverage,interop,2026-08-04,BDI-002;BDI-004;BDI-006;BDI-008;BDI-010;BDI-013,,
+BDI,retail,switch,coverage,national,2026-08-04,BDI-003;BDI-005;BDI-007;BDI-011;BDI-014,,

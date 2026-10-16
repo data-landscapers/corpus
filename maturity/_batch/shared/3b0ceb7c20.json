@@ -1,0 +1,86 @@
+{
+ "slug": "2026-09-24-targeting-bai-visa-digital-payments-angola",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BAI-Visa agreement",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "Visa",
+       "owner": "BAI",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Agreement only explores cross-border opportunities; no corridor piloted or licensed."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

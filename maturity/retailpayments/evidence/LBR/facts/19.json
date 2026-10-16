@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Governor Saamoi's speech names Lonestar Cell MTN Mobile Money Corporation and Orange Money Liberia as the mobile money operators taking part in the IIPS launch.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "IIPS (Pay Na-Na)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Governor Saamoi says the Central Bank of Liberia launched the IIPS as mobile money interoperability, with the pilot phase live for person-to-person transactions.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "IIPS (Pay Na-Na)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IIPS (Pay Na-Na)",
+   "country_label": "Liberia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

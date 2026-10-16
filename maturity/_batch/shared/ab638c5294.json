@@ -1,0 +1,10 @@
+{"slug":"2025-02-20-comoros-paylogic-payment-switch-award-wearetech","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[{"system":"PayLogic interoperable payment switch","country_label":"Comoros","class":"oversight","platform":"PayLogic","owner":"","tiers":""}],"note":"The switch is announced, not in service; no central bank role over it stated."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Only free diaspora transfers by local banks are mentioned, with no digital channel named."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"Only a 50% banking penetration goal is stated, not a survey share."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[{"system":"PayLogic interoperable payment switch","country_label":"Comoros","class":"retail","platform":"PayLogic","owner":"","tiers":""}],"note":"The switch is announced, not in service; no mobile money service stated."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

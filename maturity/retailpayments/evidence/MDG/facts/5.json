@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-mdg-2424-task-force-reclamations-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Economy and Finance says users of mobile money report lost money and failed transactions, and that the CSBF supervises mobile money operators.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

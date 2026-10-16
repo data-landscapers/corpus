@@ -1,0 +1,10 @@
+{"slug": "2026-09-17-mus-platformafrica-pulse-of-fintech-2026-collaboration", "studies": {
+"businesspayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Panel opinion on consent, no rule or body stated."}}},
+"crossborderpayments": {"countries": {"MUS": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "blink by Emtel became the first PSP licence holder in Mauritius to let Mauritians scan and pay in India, per Platform Africa.", "as_of": "2026-09", "date_precision": "month", "system": "blink by Emtel India scan-and-pay", "class": "crossborder"}], "systems": [{"system": "blink by Emtel", "country_label": "Mauritius", "class": "crossborder", "platform": "PSP app", "owner": "Emtel", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a bank card count, no survey share of adults."}}},
+"retailpayments": {"countries": {"MUS": {"facts": [{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms.", "as_of": "2026-09-10", "date_precision": "day", "system": "fintech platform account transfers", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

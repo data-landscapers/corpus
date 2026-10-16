@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Airtel Money Transfert d'Argent International,Niger,crossborder,"MyAirtel app, USSD 4361*2#",Airtel Money Niger SA,,2026-08-25-actuniger-airtel-money-transfert-international
+NER,PI-SPI,Niger,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pispi-communique
+NER,PAPSS,Niger,crossborder,PAPSS,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
+NER,PAPSS,Niger,crossborder,Pan-African Payment and Settlement System,Afreximbank,,2026-09-05-papss-stablecoin-exploration-remittances
+NER,PAPSS,Niger,crossborder,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026

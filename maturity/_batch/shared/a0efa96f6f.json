@@ -1,0 +1,117 @@
+{
+ "slug": "2025-07-07-papss-bank-al-maghrib-adhesion-17eme-pays-membre",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "PAPSS says Bank Al-Maghrib signed the PAPSS accession agreement on 7 July 2025, making Morocco its 17th member country.",
+       "as_of": "2025-07-07",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS says Morocco became its 17th member country on 7 July 2025 when Bank Al-Maghrib signed the accession agreement.",
+       "as_of": "2025-07-07",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

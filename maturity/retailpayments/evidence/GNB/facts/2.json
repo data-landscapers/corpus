@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-10-fintechtimes-guinea-bissau-fintech-landscape",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Fintech Times says an estimated 5-15 fintech firms operate in Guinea-Bissau in 2026, primarily in payments and mobile money.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

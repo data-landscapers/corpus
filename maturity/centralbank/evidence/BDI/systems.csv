@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Automated Transfer System (ATS),Burundi,oversight,ISO 20022,Bank of the Republic of Burundi,,2026-02-05-burundi-upgrades-payment-system-iso-20022
+BDI,BurundiPay,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
+BDI,East African Payment System,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
+BDI,Burundi Pay,Burundi,oversight,national instant payment system,Bank of the Republic of Burundi,,2026-08-19-theeastafrican-burundi-eaps-december-2026
+BDI,East African Payment System (EAPS),Burundi,other,regional payment system,EAC central banks,,2026-08-19-theeastafrican-burundi-eaps-december-2026
+BDI,BurundiPay,Burundi,other,,Bank of the Republic of Burundi,"78 licensed participants, 30 integration-tested, 17 live",2026-08-06-burundi-burundipay-instant-payment-uptake-brb
+BDI,PAPSS,Burundi,other,,,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
+BDI,BurundiPay,Burundi,oversight,instant payment system,BRB,,2026-05-08-brb-interoperabilite-paiements-papss
+BDI,BurundiPay,Burundi,oversight,"national instant payment system, ISO 20022, USSD",Banque de la Republique du Burundi,"banks, microfinance, payment service providers",2026-04-28-burundipay-real-time-payments-platform-wearetech
+BDI,BurundiPay,Burundi,oversight,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
+BDI,BurundiPay,Burundi,oversight,,Banque de la Republique du Burundi,,2026-04-23-brb-lancement-burundipay
+BDI,National switch,BDI,oversight,,,,2025-09-29-burundi-digital-payments-growth-cash-dominates

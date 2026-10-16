@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-06-uemoa-interoperabilite-paiements-obligatoire-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Fraternite Matin reports the BCEAO launched the regional PI-SPI instant payment platform on 30 September 2025 for all UEMOA institutions, with 80 connected.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "crossborder",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

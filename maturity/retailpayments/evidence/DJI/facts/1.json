@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-siips-2024-djibouti-excerpt",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYRAD",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Instant payment service is not live and no mobile money statement is made; RTGS and ACH are not retail wallet payments."
+}

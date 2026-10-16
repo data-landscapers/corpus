@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "NimbaPay, launched 22 July 2026, lets anyone in Guinea send and receive money instantly between a bank, a microfinance institution and an e-money establishment, per Governor Karamo Kaba.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "NimbaPay is described as the national instant and interoperable payment platform running 24/7 across banks, e-money institutions and microfinance, per the GuiM director general.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Governor Kaba says account access rose from 4% in 2011 to close to 36% in 2024 notably through electronic money, so e-money is in service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "Guineenne de la Monetique (GuiM), under the BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

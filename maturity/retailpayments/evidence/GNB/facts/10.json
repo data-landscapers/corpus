@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCEAO list of 30 September 2026 names Orange Money Guinea-Bissau among 7 institutions in Guinea-Bissau authorised to open PI-SPI services to the public.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Orange Money Guinea-Bissau",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The BCEAO list shows banks and Orange Money Guinea-Bissau, a mobile money provider, authorised on PI-SPI in Guinea-Bissau.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "GNB",
+   "class_": "retail",
+   "platform": "instant payment switch",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money issuers, payment institutions"
+  }
+ ],
+ "note": ""
+}

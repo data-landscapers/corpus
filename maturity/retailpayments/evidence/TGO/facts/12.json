@@ -1,0 +1,52 @@
+{
+ "slug": "2026-03-18-togo-comptes-monnaie-electronique-progression",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Togo had 12.55 million e-money accounts, 6.07 million active (48.35%), at the end of 2024, with over 81,000 service points and nearly 5,800 merchants accepting e-payments, per the BCEAO report cited by Togo First.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "e-money (Mixx, Flooz)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "PI-SPI is said to allow real-time transactions between banks, mobile money operators and financial institutions in Togo, though its adoption remains very gradual, per Togo First.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mixx",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Flooz",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

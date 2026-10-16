@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "open-source, AfricaNenda-supported",
+   "owner": "National Bank of Rwanda via RSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing that answers this study's questions."
+}

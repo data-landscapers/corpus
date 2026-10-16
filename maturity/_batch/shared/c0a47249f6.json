@@ -1,0 +1,133 @@
+{
+ "slug": "2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Deputy Prime Minister's Office says elderly grants are paid through commercial banks, and elderly and disabled grants through the MoMo mobile money platform, with bank-paid elderly grants moving to the 25th from August 2026.",
+       "as_of": "2026-08-13",
+       "date_precision": "day",
+       "system": "Social Grant Disbursement System",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Social Grant Disbursement System",
+       "country_label": "Eswatini",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Deputy Prime Minister's Office with Royal Science and Technology Park",
+       "tiers": ""
+      },
+      {
+       "system": "MoMo",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Deputy Prime Minister's Office says the Mobile Money platform (MoMo) is in service and pays social grants to elderly people and persons with disabilities.",
+       "as_of": "2026-08-13",
+       "date_precision": "day",
+       "system": "MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Social Grant Disbursement System",
+       "country_label": "Eswatini",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Deputy Prime Minister's Office with Royal Science and Technology Park",
+       "tiers": ""
+      },
+      {
+       "system": "MoMo",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Eswatini."
+    }
+   }
+  }
+ }
+}

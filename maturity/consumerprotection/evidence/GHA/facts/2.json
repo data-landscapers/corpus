@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-bank-of-ghana-notice-25-publication-unlicensed-dcsps",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Ghana says the Directive for Digital Credit Service Providers in Ghana (September 2025) is in force and that 20 named mobile loan apps operate in contravention of it.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Directive for Digital Credit Service Providers",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Directive for Digital Credit Service Providers",
+   "country_label": "Ghana",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

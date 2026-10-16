@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,SADC-RTGS,Mozambique,crossborder,hosted by the South African Reserve Bank,SADC Committee of Central Bank Governors,,2026-10-01-moz-360mz-sadc-real-time-payments
+MOZ,SADC-RTGS,SADC (15 participating countries),crossborder,,South African Reserve Bank,,2026-07-27-sadc-rtgs-angolan-kwanza
+MOZ,SADC-RTGS,Mozambique,crossborder,,South African Reserve Bank,,2026-06-01-sadc-rtgs-settlement-statistics-june-2026
+MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique

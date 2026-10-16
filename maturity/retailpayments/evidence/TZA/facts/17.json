@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-tanzania-mixx-lindi-mtwara-farmers-incomes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mixx by Yas paid farmers in Lindi and Mtwara more than 150bn shillings in the 2025/26 season and more than 50bn in 2026/27, Yas's regional head said.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Mixx by Yas",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mixx by Yas",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "Yas Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

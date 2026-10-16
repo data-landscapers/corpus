@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,centralbank,mandate,coverage,,,,,nothing held
+BDI,centralbank,switch,coverage,overseen,2026-08-04,BDI-001;BDI-002;BDI-003;BDI-005;BDI-006;BDI-007;BDI-008;BDI-009,,
+BDI,centralbank,regional,coverage,linked,2026-08-04,BDI-004,,

@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-001;GNQ-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
+  }
+ ]
+}

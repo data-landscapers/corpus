@@ -1,0 +1,108 @@
+{
+ "slug": "2026-09-09-techcabal-dlocal-ghana-epsp-licence",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Enhanced PSP licence",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Enhanced Payment Service Provider licence",
+       "country_label": "Ghana",
+       "class": "oversight",
+       "platform": "licence",
+       "owner": "Bank of Ghana",
+       "tiers": "enhanced"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Bank of Ghana data put mobile money transactions at GH¢4.54 trillion in 2025, up 50.8% on 2024.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Ghana."
+    }
+   }
+  }
+ }
+}

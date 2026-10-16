@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-lbr-bet-on-liberia-payment-switch",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Finance Minister Ngafuan cited reforms involving e-procurement among Liberia's partnerships and reforms, in a speech reported 2026-09-28.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "e-procurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-procurement reform",
+   "country_label": "Liberia",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Finance and Development Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

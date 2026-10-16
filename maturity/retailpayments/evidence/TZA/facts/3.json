@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-vodacom-lesotho-brings-micro-investing-to-m-pesa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vodacom Tanzania's M-Pesa is in service and carries the M-Wekeza investment service launched in November 2024.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Vodacom Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

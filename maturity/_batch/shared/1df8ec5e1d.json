@@ -1,0 +1,10 @@
+{"slug": "2024-08-23 Central Bank of Comoros commences PAPSS implementation", "studies": {
+"businesspayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"COM": {"facts": [], "systems": [{"system": "PAPSS", "country_label": "Comoros", "class": "oversight", "platform": "Pan-African Payment and Settlement System", "owner": "Afreximbank / African Union", "tiers": ""}], "note": "PAPSS implementation only commenced after a July 2024 membership agreement, so no regional link in service is stated."}}},
+"consumerprotection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"COM": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The Banque Centrale des Comores signed a PAPSS membership agreement in July 2024 and PAPSS implementation in Comoros commenced on 23 August 2024, with commercial banks to begin integrating, per Afreximbank.", "as_of": "2024-08-23", "date_precision": "day", "system": "PAPSS", "class": "crossborder"}], "systems": [{"system": "PAPSS", "country_label": "Comoros", "class": "crossborder", "platform": "Pan-African Payment and Settlement System", "owner": "Afreximbank / African Union", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"COM": {"facts": [], "systems": [], "note": "No survey share of adults with accounts is stated."}}},
+"retailpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "No mobile money or retail payment service is described."}}},
+"revenuecollection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

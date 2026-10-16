@@ -1,0 +1,124 @@
+{
+ "slug": "2026-05-07-zig-legal-tender-why-cant-you-use-online",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The RBZ capped POS charges at 1.5% of transaction value for local and international cards from 1 April 2026, with no minimum fee and a maximum of US$20.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "POS charge cap",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Per the article, ZIPIT and mobile money are in use, EcoCash is accepted through Paynow, and the RBZ raised their per-transaction limit from ZiG 8,000 to ZiG 13,000 in February 2026.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "ZIPIT / EcoCash",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ZIPIT",
+       "country_label": "Zimbabwe",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "EcoCash",
+       "country_label": "Zimbabwe",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Zimswitch",
+       "country_label": "Zimbabwe",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

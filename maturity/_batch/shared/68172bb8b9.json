@@ -1,0 +1,9 @@
+{"slug":"2026-02-11-igad-tor-payments-interoperability-framework","studies":{
+"businesspayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No central bank role stated for Djibouti."}}},
+"consumerprotection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"DJI":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"IGAD, whose member states include Djibouti, issued terms of reference on 11 February 2026 for a consultant to develop a harmonised regional payment interoperability regulatory framework under the World Bank-financed Eastern Africa Regional Digital Integration Project.","as_of":"2026-02-11","date_precision":"day","system":"IGAD payment interoperability regulatory framework","class":"crossborder"}],"systems":[{"system":"IGAD payment interoperability regulatory framework","country_label":"IGAD region","class":"crossborder","platform":"","owner":"IGAD","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No survey stated."}}},
+"retailpayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Mobile money is named only as something the baseline will map; no service stated for Djibouti."}}},
+"revenuecollection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

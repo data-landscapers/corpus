@@ -1,0 +1,9 @@
+{"slug":"2026-03-30-mobile-money-k38tn-2025-nps-report-times","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No public procurement statement."}}},
+"centralbank":{"countries":{"MWI":{"facts":[],"systems":[],"note":"RBM publishes the NPS report but the document states no licensing, switch or regional role."}}},
+"consumerprotection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Only wallet subscription counts, no survey share of adults."}}},
+"retailpayments":{"countries":{"MWI":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mobile money in Malawi handled K37.9 trillion in 2025 across 2.4 billion transactions with 19.9 million registered wallets, per the Reserve Bank of Malawi's 2025 National Payments System Report.","as_of":"2025","date_precision":"year","system":"mobile money","class":"retail"}],"systems":[{"system":"mobile money","country_label":"Malawi","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

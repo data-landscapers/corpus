@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-23-cbl-nfies-financial-inclusion-workshop",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "A Central Bank of Liberia workshop speaker cites rapid growth of mobile money, bringing millions of Liberians into the formal financial system, and a consultant cites the introduction of the PayNana instant payment system.",
+       "as_of": "2026-04-22",
+       "date_precision": "day",
+       "system": "PayNana",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PayNana",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

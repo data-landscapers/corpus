@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The central bank (BCRG) carried the NimbaPay national instant payment system, launched in Conakry on 22 July 2026 and connecting banks, e-money institutions and microfinance institutions, with transfers possible from go-live.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "oversight",
+   "platform": "Mojaloop",
+   "owner": "BCRG, implemented by Guineenne de Monetique",
+   "tiers": "banks, e-money institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

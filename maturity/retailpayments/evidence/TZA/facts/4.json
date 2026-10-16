@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-30-thecitizen-tz-cash-lite-drive-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank of Tanzania Governor Tutuba says Tanzanians already pay through mobile money, bank cards, merchant platforms, POS machines and QR codes including TIPS TanQR; TIPS processed 651 million transactions worth Sh54.95 trillion in 2025.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "TIPS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIPS",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "TIPS TanQR",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

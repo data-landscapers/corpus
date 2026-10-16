@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-06-burundi-burundipay-instant-payment-uptake-brb",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BurundiPay, the national instant payment system run by the BRB, had about 224,000 users and about BIF 4.29 billion in cumulative transactions on 4 August 2026, with customers paying from bank accounts or e-wallets.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "On BurundiPay 17 institutions (5 commercial banks, 10 microfinance institutions, 2 payment institutions) are live, and customers can transfer money and pay instantly from bank accounts or e-wallets, per the BRB.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "BurundiPay is described as the national instant payment system run by the BRB, live since 5 March 2026 and launched publicly on 23 April 2026.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

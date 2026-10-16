@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-ntra-egypt-mobile-wallets-usage-indicators-h1-2026",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "NTRA says prosecution services (criminal, family and traffic) can be queried and paid through mobile wallets via one operator, in H1 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "prosecution services payment via mobile wallet",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

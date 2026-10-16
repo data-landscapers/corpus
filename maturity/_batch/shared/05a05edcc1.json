@@ -1,0 +1,77 @@
+{
+ "slug": "2026-04-20-cbos-nips-national-instant-payment-system-tender",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."
+    }
+   }
+  }
+ }
+}

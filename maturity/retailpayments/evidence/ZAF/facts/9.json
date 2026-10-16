@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-10-techcabal-south-africa-payments-system-rebuild",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PayShap",
+   "country_label": "South Africa",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers clearing institutions and rules, not a retail service in service."
+}

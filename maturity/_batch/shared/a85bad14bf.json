@@ -1,0 +1,10 @@
+{"slug":"2026-02-26-cbg-monetary-policy-committee-press-release-february-2026","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Monetary policy release; no payments mandate stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Not stated."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Remittance inflows are given with no digital channel named."}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Gives counts of registered and active accounts, not a survey share of adults."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Central Bank of The Gambia says fintech and mobile money services have 5.4 million registered users and 2.9 million active users, with cash-in up 16.4 percent to D23.9 billion and cash-out up 19.6 percent to D25.8 billion between September and December 2025.","as_of":"2025-12","date_precision":"month","system":"Fintech and mobile money services","class":"retail"}],"systems":[{"system":"Fintech and mobile money services","country_label":"The Gambia","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Revenue is discussed as fiscal totals only; no electronic payment stated."}}}
+}}

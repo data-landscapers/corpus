@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-27-mar-instant-payment-mfc-talks",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Morocco has wallets and an interoperable mobile payment system, though Switch Al Maghrib's director general says traffic on it remains limited.",
+   "as_of": "2026-09-27",
+   "date_precision": "day",
+   "system": "Switch Al Maghrib interoperable mobile payment",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place.",
+   "as_of": "2026-09-27",
+   "date_precision": "day",
+   "system": "Switch Al Maghrib interoperable mobile payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch Al Maghrib interoperable mobile payment",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "",
+   "owner": "Switch Al Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

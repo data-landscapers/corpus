@@ -1,0 +1,10 @@
+{"slug":"2026-02-24-axian-central-bank-approval-digital-finance-institution-techafricanews","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[],"note":"The licence is for a digital credit institution, not a payment or e-money provider."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"COM":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"AXIAN says it has an established presence in mobile financial services in the Comoros through MVola, separate from the newly licensed digital financial institution.","as_of":"2026-02-24","date_precision":"day","system":"MVola","class":"retail"}],"systems":[{"system":"MVola","country_label":"Comoros","class":"retail","platform":"","owner":"AXIAN","tiers":""},{"system":"Decentralised Digital Financial Institution licence","country_label":"Comoros","class":"other","platform":"","owner":"AXIAN","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"Not stated."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-19-mcb-qr-payments-67pc-growth-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MCB card holders use services such as Orange Money, with a very active corridor to Madagascar (L'Express).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Orange Money corridor to Madagascar",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

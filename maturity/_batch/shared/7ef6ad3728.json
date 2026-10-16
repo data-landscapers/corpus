@@ -1,0 +1,160 @@
+{
+ "slug": "2026-05-28-belmoney-digipay-instant-transfer-app-wearetech",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Belmoney and DigiPay Group launched the DigiTransfer app, sending money from France and Belgium to mobile wallets and bank accounts in the Republic of Congo within minutes.",
+       "as_of": "2026-05-28",
+       "date_precision": "day",
+       "system": "DigiTransfer",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "Android and iOS app over Visa and Mastercard networks",
+       "owner": "DigiPay Group and Belmoney",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-01-ken-techcabal-safaricom-pesapal-mpesa-contactless",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Safaricom and Pesapal put M-PESA tap-to-pay and QR payment on 30,000 Pesapal terminals in Kenya, paying merchants' existing M-PESA Till Numbers, and Safaricom says scan-to-pay is available at more than 60,000 merchant outlets.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "My OneApp",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "app",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

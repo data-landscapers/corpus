@@ -1,0 +1,17 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "protection",
+   "stage": "5",
+   "rules": "inforce",
+   "redress": "redress",
+   "enforced": "enforced",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-001;SDN-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
+  }
+ ]
+}

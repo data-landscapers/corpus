@@ -1,0 +1,235 @@
+{
+ "slug": "2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Ministry says FASO ARZEKA lets users create an electronic wallet and is connected to bank cards, mobile money and bank transfers.",
+       "as_of": "2025-01-30",
+       "date_precision": "day",
+       "system": "FASO ARZEKA",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Ministry of Economy and Finance says the Prime Minister officially launched FASO ARZEKA, a single platform for payments to central government, local authorities and public establishments that consolidates the Treasury, tax and customs platforms.",
+       "as_of": "2025-01-30",
+       "date_precision": "day",
+       "system": "FASO ARZEKA",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Faso Arzêka",
+       "country_label": "Burkina Faso",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Economy and Finance (DGTCP)",
+       "tiers": ""
+      },
+      {
+       "system": "Arzêka Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "Faso Arzêka",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

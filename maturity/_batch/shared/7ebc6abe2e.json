@@ -1,0 +1,122 @@
+{
+ "slug": "2026-09-24-kenya-kenswitch-domestic-card-scheme",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile money",
+       "country_label": "Kenya",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Kenswitch Card",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Kenswitch",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Central Bank of Kenya reports 94.4 million registered mobile money accounts and 575,400 active agents in July 2026.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile money",
+       "country_label": "Kenya",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Kenswitch Card",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Kenswitch",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

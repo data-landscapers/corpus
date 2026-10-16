@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-mauritanie-finances-seminaire-recettes-non-fiscales-paiement-electronique",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Treasury's electronic payment system for non-tax revenue is in service, with users rising from 4,593 in 2022 to close to 335,000 in 2025, says the Director of Revenue and the Central Treasury Cash Office.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Treasury electronic payment system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Treasury electronic payment system",
+   "country_label": "Mauritanie",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Direction générale du Trésor et de la Comptabilité publique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Libya reported e-payment transactions of LD 389 billion in 2025, up 186% from LD 136 billion in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-payment",
+   "country_label": "Libya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

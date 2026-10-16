@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Aviso creates SPIM, a 24-hour instant payment system making funds available to the beneficiary within 25 seconds, in force 2 March 2026, with participation by credit institutions and payment service companies and mandatory for e-money institutions; daily limits MT 200,000 for persons and MT 500,000 for legal entities.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Sistema de Pagamentos Instantâneos de Moçambique (SPIM)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Participation in SPIM is mandatory for e-money institutions and for credit institutions above set thresholds, so wallets and banks exchange instant payments through it; interbank transactions ordered by individuals are free of fees.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Sistema de Pagamentos Instantâneos de Moçambique (SPIM)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SPIM",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "Sociedade Interbancária de Moçambique (SIMO)",
+   "tiers": "MT 200,000 natural persons; MT 500,000 legal persons"
+  }
+ ],
+ "note": ""
+}

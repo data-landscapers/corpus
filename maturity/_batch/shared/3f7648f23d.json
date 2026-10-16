@@ -1,9 +1,264 @@
-{"slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa", "studies": {
-"authentication": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Djibouti is covered only for infrastructure and e-government; no authentication service is stated."}}},
-"birthidlink": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's civil register or ID."}}},
-"idcoverage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID enrolment."}}},
-"idfrombirth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID at birth."}}},
-"idmaintenance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID system."}}},
-"idregisters": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's registers."}}},
-"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Fayda is named for Ethiopia only; nothing stated on Djibouti's ID system."}}}
-}}
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Djibouti is covered only for infrastructure and e-government; no authentication service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on Djibouti's civil register or ID."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on Djibouti's ID enrolment."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on Djibouti's ID at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on Djibouti's ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on Djibouti's registers."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Fayda is named for Ethiopia only; nothing stated on Djibouti's ID system."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "95 e-government services mentioned, none stated as procurement."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a central bank role."
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "TechCabal says the Central Bank of Somalia launched the Somalia Instant Payment System (SIPS) in early 2025, with a national QR standard, SOMQR.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Somalia Instant Payment System (SIPS)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on consumer rules or redress."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general mention of regional payment frameworks; no named system for Djibouti."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Diaspora remittance figure names telecom operators but no named corridor."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share stated."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "83% figure is for urban dwellers with no survey named."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on retail payments."
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCabal says Somali mobile money, run by telecoms such as Hormuud and Telesom, processes about 650 million transactions a year, worth about $8 billion or 36% of GDP.",
+       "as_of": "2026-01-07",
+       "date_precision": "day",
+       "system": "Hormuud and Telesom mobile money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "TechCabal says the Central Bank of Somalia launched SIPS and the SOMQR national QR standard in early 2025 to bridge isolated mobile wallets and the banking sector.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Somalia Instant Payment System (SIPS)",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "TechCabal says the Central Bank of Somalia launched the national Somalia Instant Payment System in early 2025 to link mobile wallets and the banking sector.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Somalia Instant Payment System (SIPS)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia Instant Payment System (SIPS)",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Central Bank of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "Hormuud mobile money",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Hormuud",
+       "tiers": ""
+      },
+      {
+       "system": "Telesom mobile money",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Telesom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on revenue payment."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on revenue payment."
+    }
+   }
+  }
+ }
+}

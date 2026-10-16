@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-29-national-payments-switch-act-drafted",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The Bank of Botswana said the National Payments Switch Act, enabling a national retail payments switch, has been drafted and has no tabling date.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Payments Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payments Switch",
+   "country_label": "Botswana",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

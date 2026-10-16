@@ -1,0 +1,12 @@
+{"slug": "2026-07-24-lesotho-vodacom-tsetela-investment-service-m-pesa", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The central bank licence named is for an investment manager, not a payment provider."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No conduct rule or redress body for digital finance stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "VCL Financial Services operates M-Pesa in Lesotho, and its customers can invest from their M-Pesa wallets through the Tsetela service launched in July 2026.", "as_of": "2026-07-22", "date_precision": "day", "system": "M-Pesa", "class": "retail"}
+], "systems": [{"system": "M-Pesa", "country_label": "Lesotho", "class": "retail", "platform": "", "owner": "VCL Financial Services (Vodacom Lesotho)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-21-cbl-epayment-2025-stats-313bn-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Libya had 186,817 electronic wallets with 6,096 acceptance points and 681,092 transactions worth 92.08 billion dinars in 2025 to 15 February 2026, per data published by the Hukumatuna platform.",
+   "as_of": "2026-02-15",
+   "date_precision": "day",
+   "system": "electronic wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

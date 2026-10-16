@@ -1,0 +1,201 @@
+{
+ "slug": "2026-04-14-mixx-togo-pi-spi-uemoa",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no fact for this study; its 89% inclusion figure is not tied to a named survey of adults."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Mixx holds an e-money institution licence (agrement) from the BCEAO.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "Mixx",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCEAO's PI-SPI instant payment platform is in service, with over 50 institutions connected, and the BCEAO has made connection compulsory from 30 June 2026.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Mixx Togo joined the BCEAO's PI-SPI platform, and Ecobank, Orabank and Bank of Africa in Togo are connected to it.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Mixx",
+       "country_label": "Togo",
+       "class": "retail",
+       "platform": "",
+       "owner": "Yas Togo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no fact for this study; its 89% inclusion figure is not tied to a named survey of adults."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "A user in Togo can transfer funds in real time to a bank account in Cote d'Ivoire or pay a supplier in Burkina Faso through PI-SPI.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Togo takes part in the BCEAO's PI-SPI regional instant payment platform, in service across the eight UEMOA states.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Mixx",
+       "country_label": "Togo",
+       "class": "retail",
+       "platform": "",
+       "owner": "Yas Togo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no fact for this study; its 89% inclusion figure is not tied to a named survey of adults."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no fact for this study; its 89% inclusion figure is not tied to a named survey of adults."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Mixx Togo is a mobile wallet that its operator says has over 5 million users, 31,000 agents and 26,000 merchants in Togo.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "Mixx",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Mixx users can send and receive money between mobile wallets, banks and microfinance institutions in the eight UEMOA countries through the BCEAO's PI-SPI platform, with an interoperable merchant QR code.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Mixx",
+       "country_label": "Togo",
+       "class": "retail",
+       "platform": "",
+       "owner": "Yas Togo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no fact for this study; its 89% inclusion figure is not tied to a named survey of adults."
+    }
+   }
+  }
+ }
+}

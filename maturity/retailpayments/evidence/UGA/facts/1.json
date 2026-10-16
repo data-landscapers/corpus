@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-30-mtn-momo-power-of-momo-campaign",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo launched a campaign on 25 March 2026 making payments below UGX 5,000 free, via the MoMo app or *165*3#, as an alternative to cash.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "MoMo app, USSD *165*3#",
+   "owner": "MTN Mobile Money (U) Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

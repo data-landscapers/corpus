@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BCEAO says Guinea-Bissau has 5 institutions authorised on its regional PI-SPI platform at 31 July 2026.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO runs the PI-SPI interoperable instant-payment platform, on which Guinea-Bissau has 5 authorised institutions.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "Plateforme interopérable du Système de paiement instantané",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money, payment and microfinance institutions"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "An interministerial instruction of 19 July 2024 makes digital payment mandatory in a first phase for taxes, duties and other sums due to the State, local authorities and national public bodies, with the list set by finance-minister order.",
+   "as_of": "2024-07-19",
+   "date_precision": "day",
+   "system": "digital payment in public services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital payment in public services (Decree 2024-0429/PT-RM)",
+   "country_label": "Mali",
+   "class": "revenue",
+   "platform": "mobile money and digital platforms",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

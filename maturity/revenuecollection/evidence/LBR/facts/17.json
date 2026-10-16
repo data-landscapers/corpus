@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Governor Saamoi says people-to-government payment of taxes through the IIPS is ongoing with the Liberia Revenue Authority.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "IIPS (Pay Na-Na)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

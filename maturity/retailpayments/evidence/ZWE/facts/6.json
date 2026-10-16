@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Herald quotes the RBZ governor saying all mobile money operators' wallets were rescreened against the Civil Registry by 30 June 2026, and that mobile banking apps, mobile money platforms and QR payments are growing in use.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

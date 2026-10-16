@@ -1,0 +1,88 @@
+{
+ "slug": "2026-05-04-bcc-inclusion-financiere-58-pourcent-actualite",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCC Governor Andre Wameso says digital payment means, notably mobile money accessible by phone, can be used without a bank account.",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study; the 58% inclusion figure names no survey."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-moz-pav-pawapay-licensed-psp",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PawaPay says Mozambique's mobile money market exceeds 12 million active accounts across three operators: M-Pesa (Vodacom), e-Mola (Movitel) and mKesh (Tmcel).",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

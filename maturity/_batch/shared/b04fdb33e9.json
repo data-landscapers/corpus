@@ -1,0 +1,117 @@
+{
+ "slug": "2026-09-02-aps-css-paiement-prestations-sociales-wave",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Caisse de Sécurité Sociale announced on 2 September 2026 that social benefits will be paid into beneficiaries' Wave accounts, with enrolment by form and no start date given.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Wave",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Wave",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The APS report describes Wave as an electronic money operator through which the CSS announced benefit payments on 2 September 2026.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Wave",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Wave",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

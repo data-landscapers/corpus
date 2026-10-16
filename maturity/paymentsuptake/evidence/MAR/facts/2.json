@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-24-bkam-rapport-annuel-inclusion-financiere-exercice-2024",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "Bank Al-Maghrib's annual financial-inclusion report puts the adult bank account holding rate at 58% at end-2024, up from 53% in 2021.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bank Al-Maghrib inclusion measurement",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Bank Al-Maghrib's annual financial-inclusion report puts the adult bank account holding rate at 58% at end-2024, up from 53% in 2021.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bank Al-Maghrib inclusion measurement",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

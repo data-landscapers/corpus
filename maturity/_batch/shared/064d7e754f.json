@@ -1,0 +1,459 @@
+{
+ "slug": "2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": "The document states nothing on this study for Chad."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Chad's mobile money providers are interoperable via GIMACPAY in the CEMAC zone, per Tchadinfos.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "GIMACPAY",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": "The document states nothing on this study for Chad."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Airtel Money and Moov Money in Chad operate interoperability via GIMACPAY in the CEMAC zone, per Tchadinfos.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "GIMACPAY",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": "The document states nothing on this study for Chad."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": "The document states nothing on this study for Chad."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Chad's electronic money market has four providers, Airtel Money, Moov Money, Konoom and Nita, per Tchadinfos.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "Airtel Money / Moov Money / Konoom / Nita",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Airtel Money and Moov Money offer interoperability via GIMACPAY across the CEMAC zone, per Tchadinfos.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "GIMACPAY",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Tchadinfos says digitalisation of public revenue limits fraud and speeds the entry of funds into the State's coffers.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "digitalised public revenue collection",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Konoom",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Nita",
+       "country_label": "TCD",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "GIMACPAY",
+       "country_label": "TCD",
+       "class": "other",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": "CEMAC"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

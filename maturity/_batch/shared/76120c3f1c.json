@@ -1,0 +1,113 @@
+{
+ "slug": "2026-08-31-civ-paiement-mobile-a-abidjan-les-gnambros-freinent-la-modernisa",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Africtelegraph reports that Orange Money, MTN Mobile Money and Wave have converted millions of Ivorians to mobile money transactions, which merchants, metered taxis and ride-hailing platforms have largely adopted.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Orange Money, MTN Mobile Money, Wave",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "CIV",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "CIV",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "CIV",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

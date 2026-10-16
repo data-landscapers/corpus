@@ -1,0 +1,12 @@
+{"slug": "2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Instant Payment System", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "National Bank of Ethiopia", "tiers": ""}], "note": "Governor named at the launch, but no licensing, switch oversight or regional link is stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No consumer-protection rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The National Digital Payment Strategy 2026-2030 proposes enabling low-value outbound cross-border transfers via cards, wallets and digital banking for the first time (FMC/ENA/Shega).", "as_of": "2025-12-09", "date_precision": "day", "system": "National Digital Payment Strategy 2026-2030", "class": "crossborder"}
+], "systems": [{"system": "National Digital Payment Strategy 2026-2030", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Government of Ethiopia / NBE", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Instant Payment System", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "National Bank of Ethiopia", "tiers": ""}], "note": "Instant Payment System launch is named, but no mobile money service or interoperability in service is stated."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [{"system": "e-Gov / MESOB one-stop centres", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "One-stop centres are cited, but no electronic tax or fee payment is stated."}}}
+}}

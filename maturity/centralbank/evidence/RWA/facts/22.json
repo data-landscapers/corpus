@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-31-ekash-airtel-money-struggles-rural-users",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Taarifa reports that interoperability runs through the National Bank of Rwanda's eKash platform, rolled out months before July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

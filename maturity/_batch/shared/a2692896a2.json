@@ -1,0 +1,10 @@
+{"slug": "2026-07-04-sudan-cbos-al-asjad-license-revoked", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Central Bank of Sudan announced revocation of Al-Asjad's licence to provide electronic payment system services, and says licences are conditional on continuing compliance with its published standards and need its written approval for integration.", "as_of": "2026-07-04", "date_precision": "day", "system": "electronic payment system licensing", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [{"sub_indicator": "protection", "aspect": "enforced", "value": "enforced", "fact": "The Central Bank of Sudan revoked Al-Asjad's licence after a technical and legal committee review, and said it had taken measures to protect customers' rights.", "as_of": "2026-07-04", "date_precision": "day", "system": "electronic payment system licensing", "class": "protection"}], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No wallet or switch stated in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

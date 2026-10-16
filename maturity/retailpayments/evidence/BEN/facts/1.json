@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-lancement-pi-spi-uemoa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BCEAO launched PI-SPI on 30 September 2025, letting anyone with an account at a bank, microfinance institution or e-money or payment institution connected to it send and receive money instantly across WAEMU, whatever the provider.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

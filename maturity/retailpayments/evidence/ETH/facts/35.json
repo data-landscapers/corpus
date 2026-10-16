@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Instant Payment System",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": "Instant Payment System launch is named, but no mobile money service or interoperability in service is stated."
+}

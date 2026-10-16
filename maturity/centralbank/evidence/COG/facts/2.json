@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-cog-adiac-artf-terminaux-paiement-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARTF digital platform and TPE terminals",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "electronic payment terminals",
+   "owner": "ARTF",
+   "tiers": ""
+  }
+ ],
+ "note": "ARTF is a money-transfer regulator, not the central bank; no central bank role stated."
+}

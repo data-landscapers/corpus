@@ -1,0 +1,17 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "4",
+   "payment": "inservice",
+   "main": "main",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-002",
+   "gaps": "No source held since October 2023 gives a figure for revenue paid electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

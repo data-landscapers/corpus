@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-ago-angop-bai-bank-of-china",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "ANGOP reported that Banco Angolano de Investimentos and Bank of China signed an MoU on 8 September 2026 for an RMB clearing account and support for BAI's indirect CIPS membership through Bank of China.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "CIPS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIPS",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "China",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

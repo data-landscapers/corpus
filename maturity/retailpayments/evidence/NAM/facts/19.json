@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-bon-nps-vision-strategy-2030",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NAMQR Code",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "QR code",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  },
+  {
+   "system": "Open Banking Standards",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "API",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "Only general interoperability gains and planned NAMQR and Open Banking operationalisation are stated, with no service named in service."
+}

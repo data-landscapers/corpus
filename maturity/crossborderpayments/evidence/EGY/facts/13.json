@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-youm7-egypt-ntra-mobile-wallets-h1-2026",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "telecom mobile wallets",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": "No named corridor stated."
+}

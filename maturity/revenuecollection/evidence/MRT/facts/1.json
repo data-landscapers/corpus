@@ -1,0 +1,8 @@
+{"slug": "2026-07-30-mauritania-public-bodies-tax-compliance-guide-workshop", "facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The finance minister said the DGI taxpayer platform 'Espace du contribuable' lets taxpayers file returns and make tax procedures and electronic payment remotely, and that its use would be strengthened.", "as_of": "2026-07-30", "date_precision": "day", "system": "Espace du contribuable (DGI platform)", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Director General of Taxes said only 3 of the public bodies enrolled on the STT electronic tax-services platform pay their taxes through it, and 53 file returns electronically.", "as_of": "2026-07-30", "date_precision": "day", "system": "STT electronic tax-services platform", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "The finance minister said more than 500 taxpayers joined the DGI electronic platform, which contributed 36.45% of DGI revenue during 2026.", "as_of": "2026-07-30", "date_precision": "day", "system": "DGI electronic platform", "class": "revenue"}
+], "systems": [
+{"system": "Espace du contribuable / STT", "country_label": "Mauritania", "class": "revenue", "platform": "DGI electronic tax-services platform", "owner": "Direction Generale des Impots", "tiers": ""},
+{"system": "Public-bodies e-invoicing system", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Ministry of Finance / DGI", "tiers": ""}
+], "note": ""}

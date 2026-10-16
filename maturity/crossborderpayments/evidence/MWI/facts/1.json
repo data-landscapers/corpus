@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-13 Comesa payment system connects Malawi, Zambia",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "COMESA's Digital Retail Payments Platform is stated to be rolled out, linking Malawi and Zambia for instant local-currency cross-border transactions.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital Retail Payments Platform",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Malawi takes part in the COMESA Digital Retail Payments Platform, described as the first interoperable cross-border payment system of the 21-member bloc.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital Retail Payments Platform",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Retail Payments Platform",
+   "country_label": "Malawi",
+   "class": "crossborder",
+   "platform": "COMESA DRPP",
+   "owner": "COMESA",
+   "tiers": "banks, fintechs, mobile-money operators"
+  }
+ ],
+ "note": ""
+}

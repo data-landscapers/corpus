@@ -1,0 +1,10 @@
+{"slug":"2026-09-20-papss-im-bank-kenya-go-live-techreviewafrica","studies":{
+"businesspayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Document says nothing on public procurement."}}},
+"centralbank":{"countries":{"KEN":{"facts":[],"systems":[{"system":"PAPSS","country_label":"Kenya","class":"other","platform":"","owner":"","tiers":""}],"note":"No central bank role is stated; only a commercial bank's PAPSS launch."}}},
+"consumerprotection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Document says nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"KEN":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"TechReviewAfrica reports PAPSS is now available to customers of I&M Bank Kenya, who can send money across participating African markets in Kenyan shillings through branches.","as_of":"2026-09-20","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Kenya","class":"crossborder","platform":"","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Document is about cross-border payments only."}}},
+"revenuecollection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Document says nothing on revenue collection."}}}
+}}

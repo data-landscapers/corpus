@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-papss-payments-network-coverage-june-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Somalia",
+   "class": "crossborder",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "PAPSS",
+   "tiers": "Live soon"
+  }
+ ],
+ "note": "The document does not mention this country, or states nothing on this topic for it."
+}

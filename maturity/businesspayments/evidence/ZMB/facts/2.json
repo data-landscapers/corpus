@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-23-zmb-rmb-payment-system-china-cips",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIPS",
+   "country_label": "Cross-Border Interbank Payment System",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "China",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this question for Zambia."
+}

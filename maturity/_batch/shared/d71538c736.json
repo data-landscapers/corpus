@@ -1,0 +1,117 @@
+{
+ "slug": "2026-09-07-nigeriaworks-papss-ogbalu-briefing-notes",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council and continues to be a leader in its rollout.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

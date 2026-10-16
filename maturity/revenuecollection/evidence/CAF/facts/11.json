@@ -1,0 +1,4 @@
+{"slug": "2025-01-29-centrafrique-adopte-e-tax-wearetech", "facts": [
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"We Are Tech Africa reports the e-Tax platform, with online tax filing (télédéclaration) and online payment (télépaiement), already has 301 large and 325 medium firms registered on it.","as_of":"2025-01-29","date_precision":"day","system":"e-Tax","class":"revenue"},
+{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Central African Republic adopted e-Tax, backed by the European Union, and an information and training workshop for DGID agents and taxpayers opened in Bangui on 27 January 2025.","as_of":"2025-01-27","date_precision":"day","system":"e-Tax","class":"revenue"}
+], "systems": [{"system":"e-Tax","country_label":"Central African Republic","class":"revenue","platform":"","owner":"Direction générale des impôts et des domaines (DGID)","tiers":"large and medium enterprises"}], "note": ""}

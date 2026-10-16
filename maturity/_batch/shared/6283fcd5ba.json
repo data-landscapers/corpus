@@ -1,0 +1,10 @@
+{"slug":"2026-08-18-orange-sierra-leone-scam-alert-tool","studies":{
+"businesspayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Provider's own scam reporting tool, not rules or a complaints body."}}},
+"crossborderpayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No survey stated."}}},
+"retailpayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Orange Sierra Leone said Orange Money lets customers send and receive money, pay bills, and shop online and in stores.","as_of":"2026-08-18","date_precision":"day","system":"Orange Money","class":"retail"}],"systems":[{"system":"Orange Money","country_label":"Sierra Leone","class":"retail","platform":"","owner":"Orange Sierra Leone","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

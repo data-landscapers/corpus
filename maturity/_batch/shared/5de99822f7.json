@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-02-wearetech-cashi-sfi-ifc-paiements-numeriques",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Cashi and IFC are to deploy an interoperable digital payments platform, reachable by mobile phone, payment terminals and SMS, first in Chad (We Are Tech Africa).",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "Cashi platform",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cashi interoperable payments platform",
+       "country_label": "Chad",
+       "class": "retail",
+       "platform": "phone, terminal, SMS",
+       "owner": "Cashi (with IFC)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

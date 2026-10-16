@@ -1,0 +1,10 @@
+{"slug": "2026-08-31-afcfta-quest-ghana-digital-trade-corridor", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [], "systems": [{"system": "AfCFTA Digital Trade Corridor", "country_label": "Seychelles", "class": "other", "platform": "PAPSS", "owner": "AfCFTA Secretariat and Quest Ghana", "tiers": ""}], "note": "Seychelles only hosts the venture's headquarters; no Seychelles payment channel or PAPSS participation stated."}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on retail payments in Seychelles."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

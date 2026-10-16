@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-mediaguinee-nimbapay-lancement",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "With NimbaPay, launched 22 July 2026, anyone in Guinea can send or receive money instantly from one bank, e-money institution or microfinance institution to another, per Governor Karamo Kaba.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Governor Kaba says account access rose from 4% in 2011 to close to 36% in 2024 notably through electronic money, so e-money is in service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCRG and Guineenne de Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

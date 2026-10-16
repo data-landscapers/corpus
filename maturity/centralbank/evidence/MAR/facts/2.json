@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-01-bkam-financial-market-infrastructures-overview",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Bank Al-Maghrib oversees Morocco's payment systems, including the SIMT retail clearing system, under article 10 of law 76-03 and a multilateral oversight convention signed by all infrastructure managers.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SIMT",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "A proposed reform of the rules on payment systems and means of payment would broaden the Bank's prerogatives and require its prior approval of any payment, clearing or settlement system.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Payment systems reform",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SRBM",
+   "country_label": "Morocco",
+   "class": "oversight",
+   "platform": "gross settlement",
+   "owner": "Bank Al-Maghrib",
+   "tiers": ""
+  },
+  {
+   "system": "SIMT",
+   "country_label": "Morocco",
+   "class": "oversight",
+   "platform": "remote clearing",
+   "owner": "GSIMT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

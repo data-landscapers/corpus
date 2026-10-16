@@ -1,0 +1,107 @@
+{
+ "slug": "2026-09-29-cog-aci-yano-fintech-mobile-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The 49% figure is a BEAC financial inclusion estimate, not a stated survey share of adults with an account."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ACI reports Yano, launched 14 September, lets users send and receive mobile payments as a gateway to mobile money operators, which hold the funds.",
+       "as_of": "2026-09-14",
+       "date_precision": "day",
+       "system": "Yano",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Yano's product manager says the platform lets users pay and be paid by mobile payment regardless of telephone operator, via QR code or link.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "Yano",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Yano",
+       "country_label": "Congo",
+       "class": "retail",
+       "platform": "payment aggregation gateway",
+       "owner": "Yano (Regis Dilou, Elwin Gomo)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

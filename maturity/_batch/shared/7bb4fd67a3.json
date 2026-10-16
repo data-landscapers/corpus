@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-08-zaf-citizen-weaknesses-in-sassa-payment-system-triggers-portfolio-commit",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

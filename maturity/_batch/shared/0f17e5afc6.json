@@ -1,0 +1,127 @@
+{
+ "slug": "2025-07-29-gab-mobile-money-transactions-echouees",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "A client who feels wronged may complain to the Commission bancaire and obtain mediation through the OQSF, the observatory created by decree 2020-291 and made operational in October 2024, per Fraternite.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "OQSF",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OQSF",
+       "country_label": "Benin",
+       "class": "protection",
+       "platform": "",
+       "owner": "Government of Benin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Benin recorded 2.09 billion electronic money transactions in 2023, 22.22% of the UEMOA total, per a BCEAO report cited by Fraternite.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "electronic money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Banks and mobile operators offer PUSH & PULL transfers between bank accounts and mobile money wallets, per Fraternite.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "PUSH & PULL",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PUSH & PULL",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "",
+       "owner": "banks and mobile operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  }
+ }
+}

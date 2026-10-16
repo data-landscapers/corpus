@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-31-algerie-enie-agrement-gie-monetique-paiement-electronique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GIE Monetique",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "interbank card body",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+}

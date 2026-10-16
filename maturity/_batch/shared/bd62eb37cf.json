@@ -1,0 +1,10 @@
+{"slug": "2026-07-22-airtel-money-uganda-britam-insurance", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only the insurance regulator is mentioned; no central bank role stated."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No digital finance conduct rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No survey share of adults given."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Airtel Money is in service in Uganda, used by millions for everyday transactions, and customers now buy Motor Third Party insurance through it by USSD and PIN, per Tech Africa News.", "as_of": "2026-07-22", "date_precision": "day", "system": "Airtel Money", "class": "retail"}], "systems": [{"system": "Airtel Money", "country_label": "Uganda", "class": "retail", "platform": "", "owner": "Airtel Mobile Commerce Uganda", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee collection."}}}
+}}

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-05-28-belmoney-digipay-digitransfer-remittances-connectingafrica",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Belmoney and DigiPay Group launched the DigiTransfer app enabling transfers from France and Belgium to mobile money wallets and bank accounts in the Republic of Congo; the service is limited to outbound transfers from those two countries.",
+       "as_of": "2026-05-28",
+       "date_precision": "day",
+       "system": "DigiTransfer",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DigiTransfer",
+       "country_label": "Republic of Congo",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "DigiPay Group",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for the Republic of Congo."
+    }
+   }
+  }
+ }
+}

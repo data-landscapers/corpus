@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-05-instant-payments-pi-spi-waemu-bceao",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Financial Afrik says BCEAO operates the PI-SPI instant-payment system, with 4 institutions in Guinea-Bissau authorised on its list.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Financial Afrik says 4 Guinea-Bissau institutions are authorised by BCEAO to offer PI-SPI, the WAEMU regional real-time payment system.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Guinea-Bissau",
+   "class": "oversight",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

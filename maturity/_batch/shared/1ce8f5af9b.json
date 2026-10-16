@@ -1,0 +1,10 @@
+{"slug":"2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb","studies":{
+"businesspayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"COG":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"COG":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"International sends are a 28% share of mobile money transactions, but no named corridor or channel."}}},
+"g2ppayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"Bulk payments are not tied to a government programme."}}},
+"paymentsuptake":{"countries":{"COG":{"facts":[],"systems":[],"note":"The 7% banking rate is not a named survey of adults with an account."}}},
+"retailpayments":{"countries":{"COG":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mobile money has operated in Congo since 2012, through MTN's Mobile Money Congo and Airtel's Mobile Commerce Congo, with 3.431 million subscribers in 2023 according to the author.","as_of":"2023","date_precision":"year","system":"Mobile Money Congo and Mobile Commerce Congo","class":"retail"},{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"The author says interoperability with conventional banks makes up 36% of mobile money transactions in Congo.","as_of":"2023","date_precision":"year","system":"Mobile Money Congo and Mobile Commerce Congo","class":"retail"}],"systems":[{"system":"Mobile Money Congo (MMC)","country_label":"Congo","class":"retail","platform":"","owner":"MTN with Ecobank","tiers":""},{"system":"Mobile Commerce Congo (MCC)","country_label":"Congo","class":"retail","platform":"","owner":"Airtel with BGFI Bank","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"COG":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

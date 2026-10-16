@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "We Are Tech Africa reports the government platform Faso Arzêka, run through the Treasury directorate, takes payment of eTimbre tax stamps, motor-vehicle tax, residence tax and customs duties by app, web and USSD *700#.",
+   "as_of": "2025-01-30",
+   "date_precision": "day",
+   "system": "Faso Arzêka",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Faso Arzêka",
+   "country_label": "Burkina Faso",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (DGTCP)",
+   "tiers": ""
+  },
+  {
+   "system": "Arzêka Money",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "Faso Arzêka",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

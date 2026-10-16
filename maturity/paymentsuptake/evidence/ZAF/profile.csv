@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,uptake,share,coverage,half,2025,ZAF-002,ZAF-001=quarter,
+ZAF,uptake,target,coverage,target,2025,ZAF-003,,
+ZAF,uptake,payments,coverage,,,,,nothing held

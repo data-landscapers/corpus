@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says Mobile Money has become the standard for transactions and that the Xedo platform integrates Mobile Money settlement for Beninese merchants.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "EMIS describes the STI as account-to-account interoperability between bank and non-bank payment service providers, and KWiK processed 4.48 million transfers worth Kz 123.85 billion in August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Sistema de Transferencias Instantaneas (STI)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Transferencias Instantaneas (STI)",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "KWiK",
+   "owner": "EMIS",
+   "tiers": "banks and non-bank PSPs including mobile money operators"
+  }
+ ],
+ "note": ""
+}

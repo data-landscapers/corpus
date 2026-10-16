@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,uptake,share,coverage,half,2025,ZMB-002,ZMB-001=quarter,
+ZMB,uptake,target,coverage,,,,,nothing held
+ZMB,uptake,payments,coverage,,,,,nothing held

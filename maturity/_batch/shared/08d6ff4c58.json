@@ -1,0 +1,10 @@
+{"slug":"2026-08-03-mvola-director-general-interview-trust-financial-inclusion","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only MVola's private business platform mentioned, not government procurement."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Regulators mentioned only in general terms; no central bank role stated."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Operator's own complaints handling only; no rules or body stated."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only active-user counts, not a survey share of adults."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"MVola mobile money is in service in Madagascar after sixteen years, with about six to seven million active mobile money users market-wide, per its director general.","as_of":"2026-08-03","date_precision":"day","system":"MVola","class":"retail"}],"systems":[{"system":"MVola","country_label":"Madagascar","class":"retail","platform":"mobile money","owner":"MVola","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

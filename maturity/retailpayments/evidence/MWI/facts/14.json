@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-16 Mobile money deals hit K19.5tn in 2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Times, citing the RBM 2024 National Payment Systems Report, said mobile money subscribers rose to 16.2 million in 2024 transacting K19.5 trillion, on platforms Airtel Money and TNM Mpamba.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Airtel Money; TNM Mpamba",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Airtel Money",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TNM Mpamba",
+   "country_label": "TNM Mpamba",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

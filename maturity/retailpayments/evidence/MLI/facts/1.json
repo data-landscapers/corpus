@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Moov Money Mali launched a Mastercard co-branded prepaid card linked to the user's mobile wallet, for online payments and cash withdrawals (Le360 Afrique).",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "Moov Money Mali",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money Mali",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Moov Africa Malitel",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money Mali prepaid card",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "Orabank-Mastercard",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

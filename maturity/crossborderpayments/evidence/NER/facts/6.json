@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-bceao-connexion-pispi-communique",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Niger is a UEMOA member state on PI-SPI, the regional instant payment platform operated by BCEAO, with 80 participants connected on 2 April 2026.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "regional instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

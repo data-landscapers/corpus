@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-11 Algeria launches Tabioucom fiscal-stamp-duty e-payment platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The General Directorate of Taxes launched Tabioucom for online payment of fiscal stamp duties by Edahabia or CIB card, initially for passport, national-ID and driving-licence applications.",
+   "as_of": "2024-08-11",
+   "date_precision": "day",
+   "system": "Tabioucom",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tabioucom",
+   "country_label": "Algeria",
+   "class": "revenue",
+   "platform": "GIE Monetique",
+   "owner": "General Directorate of Taxes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

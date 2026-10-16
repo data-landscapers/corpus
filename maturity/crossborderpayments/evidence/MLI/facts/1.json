@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "TerraPay's network carries remittances from money-transfer operators in the US, Canada and Europe into Wave mobile wallets in Mali through a single integration, so users receive funds instantly.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "TerraPay-Wave Mali remittance corridor",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave Mobile Money",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "",
+   "owner": "Wave",
+   "tiers": ""
+  },
+  {
+   "system": "TerraPay network",
+   "country_label": "Mali",
+   "class": "crossborder",
+   "platform": "TerraPay",
+   "owner": "TerraPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

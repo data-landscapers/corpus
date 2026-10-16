@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-13 Comesa payment system connects Malawi, Zambia",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TNM Mpamba, a mobile-money operator, is named as an early Malawian adopter of the platform, and mobile-money penetration in Malawi is said to be below 45 percent in 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "TNM Mpamba",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The platform integrates banks and non-bank players including mobile-money operators, with FDH Bank, Finca Malawi and TNM Mpamba as early Malawian adopters.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital Retail Payments Platform",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Retail Payments Platform",
+   "country_label": "Malawi",
+   "class": "crossborder",
+   "platform": "COMESA DRPP",
+   "owner": "COMESA",
+   "tiers": "banks, fintechs, mobile-money operators"
+  }
+ ],
+ "note": ""
+}

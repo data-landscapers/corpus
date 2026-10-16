@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-theeastafrican-burundi-eaps-december-2026",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of the Republic of Burundi told EAC governors in July 2026 that Burundi's integration into the East African Payment System is targeted for completion by December 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "East African Payment System (EAPS)",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "East African Payment System (EAPS)",
+   "country_label": "Burundi",
+   "class": "crossborder",
+   "platform": "regional payment system",
+   "owner": "EAC central banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

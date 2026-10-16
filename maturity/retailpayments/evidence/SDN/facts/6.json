@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-13-sdn-sudanhorizon-bede-bban-service-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Sudan Horizon says the Bede wallet, a Zain fintech service, was launched in April 2025 and offers app, USSD and web access with agents and merchants.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Bede wallet",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Sudan Horizon says the BBAN service lets Bede wallet users send and receive funds across all Sudanese banks.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Bede BBAN service",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bede wallet",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bede Sudan (Zain)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

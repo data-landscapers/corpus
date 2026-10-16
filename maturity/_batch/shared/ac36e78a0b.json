@@ -1,0 +1,9 @@
+{"slug":"2025-11-27-dabafinance-fusepay-preseed","studies":{
+"businesspayments":{"countries":{"SYC":{"facts":[],"systems":[{"system":"Fusepay","country_label":"Seychelles","class":"other","platform":"B2B payments platform","owner":"Fusepay","tiers":""}],"note":"Private B2B platform, not public procurement."}}},
+"centralbank":{"countries":{"SYC":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"Daba Finance says Fusepay operates in Seychelles with a Payment Service Provider licence and central bank approval.","as_of":"2025-11","date_precision":"month","system":"Fusepay","class":"oversight"}],"systems":[{"system":"Fusepay","country_label":"Seychelles","class":"oversight","platform":"B2B payments platform","owner":"Fusepay","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Expansion to Mauritius and the Maldives is a plan, not a corridor."}}},
+"g2ppayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Platform serves business payments, not payments by people."}}},
+"revenuecollection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No tax or fee payment system stated."}}}}}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-28-smartswitch-75000-beneficiaries-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Food voucher beneficiaries under a Ministry of Local Government programme receive a monthly allowance on a SmartSwitch biometric smart card, used at over 1,200 shops; more than 75,000 beneficiaries are covered, replacing a paper-based food basket system.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "SmartSwitch Botswana",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartSwitch Botswana",
+   "country_label": "Botswana",
+   "class": "g2p",
+   "platform": "biometric smart card on UEPS",
+   "owner": "Lesaka Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Universal Electronic Payment System (UEPS)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "SmartSwitch Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

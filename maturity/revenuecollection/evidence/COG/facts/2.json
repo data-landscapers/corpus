@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Arrete no. 1009 of 22 May 2026 makes payment of public revenue exclusively electronic through the FOUTA platform, described as a national switch for tax and customs collection, with a 60-day compliance period.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "FOUTA",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "The arrete says FOUTA applies to all public revenue including taxes, duties and fees, and is the single payment channel for tax and customs levies credited to the Treasury account at the BEAC.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "FOUTA",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FOUTA",
+   "country_label": "FOUTA",
+   "class": "revenue",
+   "platform": "national switch",
+   "owner": "Ministry of Finance, Budget and Public Portfolio",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

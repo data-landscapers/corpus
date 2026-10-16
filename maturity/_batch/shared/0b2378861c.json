@@ -1,0 +1,9 @@
+{"slug":"2026-07-06-sierra-leone-nacsa-economic-inclusion-grants-falaba-afrimoney","studies":{
+"businesspayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"NaCSA says Economic Inclusion Grants under the PSSNYE social safety net project were disbursed through Afri-money mobile money to selected beneficiaries in Falaba District, marking the start of disbursements across the chiefdom.","as_of":"2026-07-06","date_precision":"day","system":"PSSNYE Economic Inclusion Grants","class":"g2p"}],"systems":[{"system":"PSSNYE Economic Inclusion Grants","country_label":"Sierra Leone","class":"g2p","platform":"Afri-money","owner":"NaCSA","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"NaCSA says grants were paid to beneficiaries in Falaba District through Afri-money, a mobile money service.","as_of":"2026-07-06","date_precision":"day","system":"Afri-money","class":"retail"}],"systems":[{"system":"Afri-money","country_label":"Sierra Leone","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

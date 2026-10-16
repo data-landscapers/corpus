@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-22-fusepay-fuse360-ai-operating-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FusePay",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Fusepay",
+   "tiers": ""
+  }
+ ],
+ "note": "FusePay is a business payments and supplier settlement product, not a person-to-person service."
+}

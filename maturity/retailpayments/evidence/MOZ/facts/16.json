@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-clubofmozambique-atms-pos-lose-ground-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique has three mobile wallet platforms run by mobile network providers offering money transfers and bill payments, with 446,604 non-bank agents of Electronic Money Institutions and 1,313 mobile money accounts per thousand adults at end-2025, per the Bank of Mozambique's Financial Inclusion Report 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile money (Electronic Money Institutions)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "three mobile wallet platforms",
+   "owner": "mobile network providers (Electronic Money Institutions)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-04-rwa-taarifa-digital-payments-3-1-billion-fraud-complaints",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Taarifa reports 715 per 1,000 adults were regular mobile-money users in 2025, up from 433 per 1,000 in 2017, per the Prime Minister.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

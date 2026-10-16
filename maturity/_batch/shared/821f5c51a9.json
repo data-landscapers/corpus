@@ -1,0 +1,10 @@
+{"slug": "2026-08-31-bancomoc-financial-inclusion-indicators-q2-2026", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Statistics release; no mandate, licensing or switch role stated."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Account and agent counts, not a survey share of adults."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Banco de Moçambique reports that mobile money agents grew 5.8% and mobile money accounts rose 4.1% in the second quarter of 2026, showing mobile money in service.", "as_of": "2026-06", "date_precision": "month", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "Mozambique", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

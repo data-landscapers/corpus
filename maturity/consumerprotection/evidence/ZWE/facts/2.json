@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-27-rbz-cuts-bank-charges-expands-zipit-limits",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The RBZ directed all banks and deposit-taking microfinance institutions to cap cash withdrawal fees at 2% and POS charges at 1.5%, and to remove balance inquiry fees on banking and mobile banking platforms, by 31 March 2026.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "RBZ bank charges directive",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The RBZ governor says the central bank has continued to receive complaints from the banking public about the high cost of banking.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "RBZ",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

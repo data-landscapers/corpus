@@ -1,0 +1,10 @@
+{"slug":"2025-09-15-digital-finance-sector-explosive-growth","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[{"system":"ZimSwitch","country_label":"ZWE","class":"other","platform":"","owner":"","tiers":""}],"note":"RBZ is cited only for transaction statistics; no mandate, licensing or switch oversight stated."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only fraud is mentioned; no rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No Zimbabwe corridor or regional link stated."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"TechAfrica News says mobile money services in Zimbabwe continue to thrive, with millions of citizens and businesses using digital wallets and mobile platforms for daily transactions.","as_of":"2025-09","date_precision":"month","system":"mobile money","class":"retail"}],"systems":[{"system":"ZimSwitch","country_label":"ZWE","class":"other","platform":"","owner":"","tiers":""},{"system":"mobile money","country_label":"ZWE","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No electronic tax or fee payment stated."}}}
+}}

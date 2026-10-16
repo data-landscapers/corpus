@@ -1,0 +1,137 @@
+{
+ "slug": "2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Guinea rolled out TELEMO, a national e-procurement platform from a Guinea-Rwanda South-South partnership, officially launched on 17 November 2025 on behalf of the Head of State, per Smart Africa.",
+       "as_of": "2025-11-17",
+       "date_precision": "day",
+       "system": "TELEMO",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TELEMO",
+       "country_label": "Guinea",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Government of Guinea",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

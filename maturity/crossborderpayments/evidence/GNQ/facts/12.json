@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-12-bange-mobile-ge-app-reg",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "BANGE says its new BANGE MOBILE GE app is designed to integrate with regional payment systems, enabling CEMAC operations via the G-MAT Pay gateway.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "G-MAT Pay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANGE MOBILE GE",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "BANGE",
+   "tiers": ""
+  },
+  {
+   "system": "G-MAT Pay",
+   "country_label": "CEMAC",
+   "class": "crossborder",
+   "platform": "gateway",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

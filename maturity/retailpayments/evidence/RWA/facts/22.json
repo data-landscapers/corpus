@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-31-ekash-airtel-money-struggles-rural-users",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Taarifa, citing RURA's Q1 2026 report, says active mobile money accounts rose 15.1% to over 8.5 million, with Airtel Money and MTN operating.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Taarifa says eKash lets customers across different mobile money networks send and receive money between them.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "interoperability platform",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel Rwanda",
+   "tiers": ""
+  },
+  {
+   "system": "MTN mobile money",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

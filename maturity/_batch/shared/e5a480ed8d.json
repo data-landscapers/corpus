@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-04-sdn-sudanhorizon-mof-zain-eisali-sms",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Sudan Horizon reports the Finance Ministry signed an SMS agreement with Zain to support Eisali, the state electronic collection and payment system, notifying users of transaction status.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "Eisali",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eisali",
+       "country_label": "Sudan",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

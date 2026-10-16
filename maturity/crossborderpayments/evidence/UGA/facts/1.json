@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-papss-uba-uganda-joins",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PAPSS announces that cross-border payments in local currencies are now available through United Bank for Africa Uganda.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Uganda",
+   "class": "crossborder",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "PAPSS",
+   "tiers": "participating bank: UBA Uganda"
+  }
+ ],
+ "note": ""
+}

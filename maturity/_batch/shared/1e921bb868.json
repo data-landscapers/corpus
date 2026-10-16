@@ -1,0 +1,10 @@
+{"slug": "2026-08-06-biometricupdate-undp-blockchain-dpi-pilots-deployment", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [{"system": "UNDP blockchain payment pilot with FreedomPay Wallet", "country_label": "The Gambia", "class": "other", "platform": "FreedomPay Wallet", "owner": "UNDP", "tiers": ""}], "note": "The pilot is UNDP's own, with no government role stated."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No retail payment service described."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

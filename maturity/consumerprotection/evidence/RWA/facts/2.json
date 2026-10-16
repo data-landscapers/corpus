@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-04-rwa-taarifa-digital-payments-3-1-billion-fraud-complaints",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Taarifa reports Prime Minister Nsengiyumva attributing a fall in fraud complaints to regulations and mechanisms introduced to prevent fraud, resolve complaints and recover misappropriated funds.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "Taarifa reports reported financial fraud complaints fell about 30% in Q2 2026 from 4,128 in Q2 2025, per the Prime Minister.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

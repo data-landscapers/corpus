@@ -1,0 +1,340 @@
+{
+ "slug": "2026-09-23-sen-seneweb-mobile-money-paiement-establishments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Senegal."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "BCEAO counted 31 licensed payment institutions in the UMOA at end of February 2026, 11 of them in Senegal, under its 23 January 2024 instruction on payment services.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "BCEAO payment institution licensing",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO launched PI-SPI, the regional interoperable instant payment platform, on 30 September 2025, running 24/7; 80 participants were connected at 24 June 2026.",
+       "as_of": "2026-06-24",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Senegal is within the UMOA regional instant payment platform PI-SPI launched by BCEAO on 30 September 2025, with 80 participants connected at 24 June 2026.",
+       "as_of": "2026-06-24",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Senegal."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PI-SPI, the BCEAO regional instant payment platform covering the UMOA, has been in service since 30 September 2025, with 80 participants connected at 24 June 2026.",
+       "as_of": "2026-06-24",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Senegal."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Senegal."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article describes Orange Money and Wave as the established mobile money services in Senegal's digital payment market.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Orange Money; Wave",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "PI-SPI, in service since 30 September 2025, enables transfers and payments between accounts at banks, e-money institutions, microfinance institutions and payment institutions, including by interoperable QR code; 80 participants were connected at 24 June 2026.",
+       "as_of": "2026-06-24",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "Wave",
+       "country_label": "Wave",
+       "class": "retail",
+       "platform": "",
+       "owner": "Wave",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Senegal."
+    }
+   }
+  }
+ }
+}

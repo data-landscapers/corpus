@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-09-sigrnf-lancement-mef-gov-mg",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Ministry of Economy and Finance says it launched SIGRNF on 9 May 2025, letting users pay non-tax government revenues 24/7 via mobile banking, with progressive nationwide rollout.",
+   "as_of": "2025-05-09",
+   "date_precision": "day",
+   "system": "SIGRNF",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRNF",
+   "country_label": "Madagascar",
+   "class": "revenue",
+   "platform": "mobile banking and mobile money",
+   "owner": "Ministere de l'Economie et des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

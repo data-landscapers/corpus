@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Kafuta said government institutions in RSF-held areas were told to open Future Bank accounts and stop collecting official payments through Bankak, depositing revenue in cash or transferring it through Future Bank's application.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Bankak, Future Bank application",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

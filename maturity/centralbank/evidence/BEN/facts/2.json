@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Bénin Web TV reports four payment institutions held a BCEAO licence in Benin at 31 August 2026 (Julaya Bénin, Open SI, FedaPay Bénin, QOS Integrated Center Bénin), per the BCEAO list.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "BCEAO payment institution licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-23 Central Bank Of Tunisia Reports 81% Surge In Mobile Payments As Tunisia Accelerates Its Digital Transformation In 2025",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Tunisia bulletin, as reported, counts 435 licensed payment service providers in 2025, up from 368 in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "licensed payment service providers",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

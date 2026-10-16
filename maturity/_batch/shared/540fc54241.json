@@ -1,0 +1,105 @@
+{
+ "slug": "2026-09-27-lso-ppd-forum-lnsw-reforms-stalled",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "A whole-of-government e-payment gateway to be run by the Central Bank of Lesotho is being developed and will soon be integrated with the Lesotho National Single Window, per CAFI's newsletter.",
+       "as_of": "2026-09-27",
+       "date_precision": "day",
+       "system": "Whole-of-government e-payment gateway",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Whole-of-government e-payment gateway",
+       "country_label": "Lesotho",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Central Bank of Lesotho",
+       "tiers": "in development"
+      },
+      {
+       "system": "Lesotho National Single Window",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

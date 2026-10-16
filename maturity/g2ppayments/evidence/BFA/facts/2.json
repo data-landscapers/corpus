@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Faso Arzêka",
+   "country_label": "Burkina Faso",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (DGTCP)",
+   "tiers": ""
+  },
+  {
+   "system": "Arzêka Money",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "Faso Arzêka",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing that answers this study's questions for this country."
+}

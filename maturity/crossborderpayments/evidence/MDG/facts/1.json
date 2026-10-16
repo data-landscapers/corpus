@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-27-mastercard-axian-partnership",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "Axian Digibank & Fintech",
+   "tiers": ""
+  }
+ ],
+ "note": "Card-based international payment features, no named corridor."
+}

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-10-sudan-finance-ministry-reform-package-revenue",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Ministry of Finance report says the electronic payment and collection system (Esali) was expanded in the first half of 2026.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Esali",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Esali",
+       "country_label": "Sudan",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

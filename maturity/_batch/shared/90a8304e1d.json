@@ -1,0 +1,107 @@
+{
+ "slug": "2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Liberia's Inclusive Instant Payment System has processed more than 5.3 million transactions since its December 2025 launch, and 2025 mobile money transactions reached about L$585.88 billion and US$6.92 billion, per the Central Bank of Liberia governor.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Inclusive Instant Payment System",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Inclusive Instant Payment System lets customers of Lonestar MTN Mobile Money and Orange Money Liberia make real-time interoperable transactions across the two networks, per the Central Bank of Liberia governor.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Inclusive Instant Payment System",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Inclusive Instant Payment System",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "instant payment",
+       "owner": "Central Bank of Liberia",
+       "tiers": "Lonestar MTN Mobile Money; Orange Money Liberia"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

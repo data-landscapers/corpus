@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-04-itwebafrica-malawi-police-digital-traffic-fines",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article names TNM Mpamba and Airtel Money mobile money services as channels for paying traffic fines, per the Malawi Police Service.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TNM Mpamba / Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Police electronic traffic fine payment",
+   "country_label": "MWI",
+   "class": "revenue",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TNM Mpamba",
+   "country_label": "MWI",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "MWI",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

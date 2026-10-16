@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "PAPSS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EAC currency convertibility MoU",
+   "country_label": "EAC central banks MoU",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing that answers this study's questions."
+}

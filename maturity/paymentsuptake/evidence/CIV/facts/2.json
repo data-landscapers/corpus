@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-09-civ-ecofin-afdb-fintech-support-project",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "World Bank Global Findex puts Cote d'Ivoire's financial inclusion rate at 58% in 2024, up from 41% in 2017.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "World Bank Global Findex puts Cote d'Ivoire's financial inclusion rate at 58% in 2024, up from 41% in 2017.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-07-16-caf-radiondekeluka-ministere-urbanisme-dement-vente-parcelles","studies":{
+"businesspayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Document is about land parcel sales, not procurement."}}},
+"centralbank":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body for digital finance stated."}}},
+"crossborderpayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No survey share of adults with accounts."}}},
+"retailpayments":{"countries":{"CAF":{"facts":[],"systems":[{"system":"Orange Money","country_label":"CAF","class":"other","platform":"","owner":"","tiers":""}],"note":"Orange Money appears only in a document the ministry calls false; the source states no service licensing or status."}}},
+"revenuecollection":{"countries":{"CAF":{"facts":[],"systems":[{"system":"FAEU cashier","country_label":"CAF","class":"other","platform":"","owner":"Fonds d'Amenagement et d'Equipement Urbains","tiers":""}],"note":"Ministry says land parcel payments go to the FAEU cashier against an official receipt, not online or mobile money; it does not say cash or paper only."}}}
+}}

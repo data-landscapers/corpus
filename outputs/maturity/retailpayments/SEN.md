@@ -1,0 +1,13 @@
+# Senegal
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [Wave dominates person-to-person mobile money with free deposits and withdrawals and transfers charged about 1%, and Orange Money is also in service, according to economist Seydou Bocoum](<https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html>). [The op-ed's author says some shops in Dakar accept electronic payments only above minimum amounts, and refuse digital payment below them, so electronic payments are in everyday use there](<https://www.seneplus.com/article/quand-linclusion-financiere-devient-un-facteur-dexclusion-sociale>). [The article describes Orange Money and Wave as the established mobile money services in Senegal's digital payment market](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>). [The AfDB and AXIAN programme is delivered through AXIAN's Mixx and MVola mobile money platforms, which it says it leverages to reach women-led businesses in Senegal](<https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa>).
+
+**Between providers.** [PI-SPI, the BCEAO's instant payment platform, allows instant transfers and payments between banks, e-money institutions and payment institutions, and Wave was authorised on it for Senegal on 30 September 2026](<https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement>). [Financial Afrik says PI-SPI gives instant interoperable transfers 24 hours a day between bank accounts and mobile wallets, with 19 Senegal institutions authorised](<https://www.financialafrik.com/en/2026/03/05/instant-payments-pi-spi-in-the-waemu-updated-list-of-establishments-authorized-by-the-bceao/>).
+
+**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement>).
+
+***Noted, not assessed***. [PI-SPI](<https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html>); [Max it](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network>).
+
+***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

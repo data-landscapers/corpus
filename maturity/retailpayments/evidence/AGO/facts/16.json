@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-24-ifc-unitel-money-partner-to-boost-digital-payments-in-angola",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "UNITEL Money, a mobile money service with agents and registered and active customers, operates in Angola, including informal markets in Luanda, Benguela, Huila, Huambo and Lunda-Norte, and IFC announced a 24-month advisory partnership with it.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "UNITEL Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNITEL Money",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Unitel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-gabon-madigipaie-digital-payments-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Economy reported 4.5 million mobile money accounts at end-2024, 1.6 million active, with operators processing 368.3 million transactions worth CFA4,087 billion in 2024; MaDigiPaie lets citizens pay by mobile money by scanning a GIMACPAY QR code (Ecofin Agency).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MaDigiPaie",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "GIMACPAY QR",
+   "owner": "Government of Gabon with BEAC / GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

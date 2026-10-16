@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-05-bct-note-2026-132-label-national-tunpay",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCT note says Societe Monetique Tunisie manages the mobile payment system in Tunisia, and banks, the Post and payment institutions issue mobile wallets.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "TUNPAY",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

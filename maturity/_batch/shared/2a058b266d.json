@@ -1,0 +1,17 @@
+{"slug": "2026-03-06-bceao-six-acteurs-pi-spi-togo", "studies": {
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Procurement appears only in unrelated page links, not stated."}}},
+"centralbank": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Togo First says BCEAO's PI-SPI instant-payment platform, launched in September 2025, lets Togo's six BCEAO-authorised institutions transfer funds instantly 24 hours a day.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "Togo First says six Togo institutions are authorised by BCEAO on its list of 24 February 2026 to offer PI-SPI, the WAEMU regional instant-payment platform, up from three at launch.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"}
+], "systems": [{"system": "PI-SPI", "country_label": "Togo", "class": "oversight", "platform": "Plateforme interopérable du système de paiement instantané", "owner": "BCEAO", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Togo First says six Togo institutions are authorised to offer the WAEMU regional PI-SPI instant-payment service, which BCEAO launched in September 2025.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "crossborder"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Togo First says PI-SPI gives instant 24/7 transfers between banks, microfinance institutions, e-money issuers and payment institutions, and six Togo institutions are authorised to offer it.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "retail"}
+], "systems": [{"system": "PI-SPI", "country_label": "Togo", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Tax payment appears only in unrelated page links, not stated."}}}
+}}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Wave Mobile Money wallets operate in Mali and receive funds from users' remittances, with over 80% of Mali's population said to use mobile phones, many for mobile money.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Wave Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave Mobile Money",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "",
+   "owner": "Wave",
+   "tiers": ""
+  },
+  {
+   "system": "TerraPay network",
+   "country_label": "Mali",
+   "class": "crossborder",
+   "platform": "TerraPay",
+   "owner": "TerraPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

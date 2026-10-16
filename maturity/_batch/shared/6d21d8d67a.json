@@ -1,0 +1,77 @@
+{
+ "slug": "2025-10-01-global-findex-2025-mali-microdata",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no indicator values stated."
+    }
+   }
+  }
+ }
+}

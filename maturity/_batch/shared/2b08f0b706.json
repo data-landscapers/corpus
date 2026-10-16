@@ -1,0 +1,10 @@
+{"slug":"2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document covers payments to government, not e-procurement."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[{"system":"Yonna Global Wallet","country_label":"Gambia","class":"crossborder","platform":"mobile wallet","owner":"Yonna Group","tiers":""}],"note":"Diaspora can pay government fees from abroad but no named corridor is stated."}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document covers payments to government, not to people."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Yonna Wallet app, run by Yonna Group with over 200 branches and outlets, is live for payments in The Gambia, per The Standard.","as_of":"2026-03-02","date_precision":"day","system":"Yonna Wallet","class":"retail"}],"systems":[{"system":"Yonna Wallet","country_label":"Gambia","class":"retail","platform":"mobile wallet app","owner":"Yonna Group","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Under a partnership with the Accountant General's Department, government fees such as rates, business registration, ID cards and passports can be paid through Yonna Wallet, which the source says is live.","as_of":"2026-03-02","date_precision":"day","system":"Yonna Wallet","class":"revenue"}],"systems":[{"system":"Yonna Wallet","country_label":"Gambia","class":"revenue","platform":"mobile wallet app","owner":"Yonna Group","tiers":""}],"note":""}}}
+}}

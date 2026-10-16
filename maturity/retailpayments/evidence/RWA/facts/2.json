@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "eKash was launched nationally on 14 July 2026 and has carried over 10.5 million transactions worth over RWF 960 billion, per the National Bank of Rwanda.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The National Bank of Rwanda says users of interoperable payment services between financial institutions rose from 740,787 to 1,971,522 by end July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

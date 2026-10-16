@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23 Guinea rolls out Tresor Pay as digital gateway for public payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tresor Pay relies on electronic-money services, so e-money is in service in Guinea, with mobile money said to be expanding rapidly.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "Tresor Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tresor Pay",
+   "country_label": "Guinea",
+   "class": "revenue",
+   "platform": "mobile phone, e-money services",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

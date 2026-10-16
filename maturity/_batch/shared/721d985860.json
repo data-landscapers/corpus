@@ -1,0 +1,77 @@
+{
+ "slug": "2026-06-25-bceao-pi-spi-prolongation-delai-communique-web",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Mali in its text."
+    }
+   }
+  }
+ }
+}

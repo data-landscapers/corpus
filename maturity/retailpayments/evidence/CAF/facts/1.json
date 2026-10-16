@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-07-central-african-republic-telecel-enerca-digitise-electricity-bill-payment",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Telecel Money mobile money is in service in the Central African Republic, with many ENERCA subscribers already paying electricity bills through it before the official launch on 4 August 2026, according to Telecel and ENERCA.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Telecel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecel Money",
+   "country_label": "Central African Republic",
+   "class": "retail",
+   "platform": "",
+   "owner": "Telecel Centrafrique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

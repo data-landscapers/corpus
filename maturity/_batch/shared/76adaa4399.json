@@ -1,0 +1,88 @@
+{
+ "slug": "2025-10-28-allafrica-ecnss-burkina-application-lancement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The CNSS social-security fund launched the eCNSS Burkina app on 28 October 2025, which lets employers pay contributions by bank transfer order or mobile money.",
+       "as_of": "2025-10-28",
+       "date_precision": "day",
+       "system": "eCNSS Burkina",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

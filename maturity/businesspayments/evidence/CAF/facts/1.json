@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-03-orange-webb-fontaine-paiement-redevance-dpi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eDouanes",
+   "country_label": "CAF",
+   "class": "other",
+   "platform": "SYDONIA",
+   "owner": "Webb Fontaine",
+   "tiers": ""
+  }
+ ],
+ "note": "Customs platform, not public procurement."
+}

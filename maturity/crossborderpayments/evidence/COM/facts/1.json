@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-23 Central Bank of Comoros commences PAPSS implementation",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Banque Centrale des Comores signed a PAPSS membership agreement in July 2024 and PAPSS implementation in Comoros commenced on 23 August 2024, with commercial banks to begin integrating, per Afreximbank.",
+   "as_of": "2024-08-23",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Comoros",
+   "class": "crossborder",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank / African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

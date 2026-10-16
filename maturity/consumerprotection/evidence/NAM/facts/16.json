@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-bon-psd-1-licensing-payment-service-providers",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Namibia's PSD-1 determination, effective 6 January 2026, carries user protection requirements for payment service providers (paragraphs 10.4 and 16 in its arrangement of paragraphs).",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "PSD-1",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PSD-1",
+   "country_label": "Namibia",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

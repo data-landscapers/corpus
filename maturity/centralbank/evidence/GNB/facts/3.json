@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-10-fintechtimes-guinea-bissau-fintech-landscape",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Guinea-Bissau shares the BCEAO-managed UEMOA regional payments architecture, which the Fintech Times says is being modernised with RTGS and automated clearing.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "BCEAO regional payments architecture",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCEAO regional payments architecture",
+   "country_label": "Guinea-Bissau",
+   "class": "oversight",
+   "platform": "RTGS and automated clearing",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

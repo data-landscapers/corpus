@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-29-gab-mobile-money-transactions-echouees",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Benin recorded 2.09 billion electronic money transactions in 2023, 22.22% of the UEMOA total, per a BCEAO report cited by Fraternite.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "electronic money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Banks and mobile operators offer PUSH & PULL transfers between bank accounts and mobile money wallets, per Fraternite.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "PUSH & PULL",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUSH & PULL",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "banks and mobile operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

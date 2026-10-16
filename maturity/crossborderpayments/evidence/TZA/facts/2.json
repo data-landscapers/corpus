@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-10-eac-tanzania-rwanda-cross-border-payments",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Tanzanian and Rwandan experts met in Zanzibar on 7 to 11 July 2026 to advance an EAC pilot proof of concept linking Tanzania's TIPS and Rwanda's RSwitch for instant cross-border payments, per an EAC statement of 10 July 2026.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "TIPS-RSwitch pilot",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIPS",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "RSwitch",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EAC Cross-Border Payment System Master Plan",
+   "country_label": "Tanzania",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "EAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

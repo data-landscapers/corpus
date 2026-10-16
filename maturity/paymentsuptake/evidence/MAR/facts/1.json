@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-bkam-snif-rapport-annuel-exercice-2023",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "Bank Al-Maghrib's SNIF report cites Global Findex 2021 at 44% of Moroccan adults with an account.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Wallet",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "payment institutions and banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

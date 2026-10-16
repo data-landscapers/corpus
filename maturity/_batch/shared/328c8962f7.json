@@ -1,0 +1,119 @@
+{
+ "slug": "2026-10-09-tun-lapresse-poste-inscriptions-en-ligne-e-dinar",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "La Poste Tunisienne provides students with e-Dinar wallets and electronic payment cards for university financial operations including the payment of university scholarships and loans.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "e-Dinar wallets",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "La Poste Tunisienne provides free e-Dinar wallets and the D17 app for remote payments, used by about 1,568,000 pupils for 2026-27 school registration (La Presse de Tunisie).",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "e-Dinar wallets / D17",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Dinar wallets",
+       "country_label": "Tunisia",
+       "class": "retail",
+       "platform": "La Poste Tunisienne",
+       "owner": "La Poste Tunisienne",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Parents paid school registration fees remotely through La Poste Tunisienne e-Dinar wallets and D17, and about 287,300 students (about 76%) completed remote university registration by electronic payment by end-September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "e-Dinar wallets / D17",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Executive Governor said mobile money transactions reached L$471 billion in 2024 and Liberia had over 3 million active mobile money subscribers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Mobile money",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

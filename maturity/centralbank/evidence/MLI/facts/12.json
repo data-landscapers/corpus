@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-29-worldbank-dfs-inclusion-growth-mali",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The World Bank says Mali's connection to the regional switch is inefficient, which limits public and private users of the payment system, while the Public Treasury is not yet connected to GIM-UEMOA.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "GIM-UEMOA",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIM-UEMOA",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "regional switch",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

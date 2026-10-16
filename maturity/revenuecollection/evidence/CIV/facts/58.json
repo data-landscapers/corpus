@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-27-clotchor-secongo-digitalisation-collectivites-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Clotchor Secongo says his digital solutions, including the Treasury's TresorPay e-payment platform, have improved some municipal revenues in 75 local authorities in Cote d'Ivoire; the source is his own note to the newspaper.",
+   "as_of": "2026-03-26",
+   "date_precision": "day",
+   "system": "TresorPay",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TresorPay",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "electronic payment platform",
+   "owner": "Tresor public de Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

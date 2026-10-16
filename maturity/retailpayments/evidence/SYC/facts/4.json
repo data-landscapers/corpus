@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-30-africabusinessinsight-seychelles-upi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Unified Payments Interface (UPI)",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "NPCI International",
+   "owner": "Central Bank of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+}

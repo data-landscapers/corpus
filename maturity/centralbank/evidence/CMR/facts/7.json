@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-25-africtelegraph-papss-cemac-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BEAC's official entry into PAPSS was set for 9 July 2026, but banks and payment providers of the CEMAC zone must still connect technically before customers are served, per Africtelegraph.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

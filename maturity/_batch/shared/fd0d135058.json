@@ -1,0 +1,10 @@
+{"slug":"2026-10-09-tza-digital-payments-now-a-business-licensing-requirement","studies":{
+"businesspayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Document covers business licensing, not public procurement."}}},
+"centralbank":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No payments to people stated."}}},
+"paymentsuptake":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"TZA":{"facts":[],"systems":[{"system":"Lipa Namba","country_label":"Tanzania","class":"retail","platform":"","owner":"","tiers":""},{"system":"TANQR","country_label":"Tanzania","class":"retail","platform":"","owner":"","tiers":""}],"note":"Lipa Namba and TANQR named as acceptable payment facilities but not described as mobile money or e-money services."}}},
+"revenuecollection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Document concerns payments received by businesses, not taxes or fees paid to the state."}}}
+}}

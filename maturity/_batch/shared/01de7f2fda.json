@@ -1,0 +1,25 @@
+{"slug": "2026-03-05-instant-payments-pi-spi-waemu-bceao", "studies": {
+"businesspayments": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No public procurement stated."}, "SEN": {"facts": [], "systems": [], "note": "No public procurement stated."}}},
+"centralbank": {"countries": {
+"GNB": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Financial Afrik says BCEAO operates the PI-SPI instant-payment system, with 4 institutions in Guinea-Bissau authorised on its list.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "Financial Afrik says 4 Guinea-Bissau institutions are authorised by BCEAO to offer PI-SPI, the WAEMU regional real-time payment system.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"}
+], "systems": [{"system": "PI-SPI", "country_label": "Guinea-Bissau", "class": "oversight", "platform": "", "owner": "BCEAO", "tiers": ""}], "note": ""},
+"SEN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Financial Afrik says BCEAO operates the PI-SPI instant-payment system, with 19 Senegal institutions authorised on its list, the most in the Union.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "Financial Afrik says 19 Senegal institutions are authorised by BCEAO to offer PI-SPI, the WAEMU regional real-time payment system.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "oversight"}
+], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "oversight", "platform": "", "owner": "BCEAO", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}, "SEN": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {
+"GNB": {"facts": [{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Financial Afrik says 4 Guinea-Bissau institutions are authorised to offer the WAEMU regional PI-SPI instant-payment system.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "crossborder"}], "systems": [], "note": ""},
+"SEN": {"facts": [{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Financial Afrik says 19 Senegal institutions are authorised to offer the WAEMU regional PI-SPI instant-payment system.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "crossborder"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No government payments to people stated."}, "SEN": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No survey share stated."}, "SEN": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {
+"GNB": {"facts": [{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Financial Afrik says PI-SPI gives instant interoperable transfers 24 hours a day between bank accounts and mobile wallets, with 4 Guinea-Bissau institutions authorised.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "retail"}], "systems": [], "note": ""},
+"SEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Financial Afrik says BCEAO has authorised Senegal electronic money operators including Orange Finances Mobiles and Mobile Cash SA among 19 institutions to offer PI-SPI to the public.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Financial Afrik says PI-SPI gives instant interoperable transfers 24 hours a day between bank accounts and mobile wallets, with 19 Senegal institutions authorised.", "as_of": "2026-02-24", "date_precision": "day", "system": "PI-SPI", "class": "retail"}
+], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No revenue payment stated."}, "SEN": {"facts": [], "systems": [], "note": "No revenue payment stated."}}}
+}}

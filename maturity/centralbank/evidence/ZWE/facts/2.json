@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-27-rbz-cuts-bank-charges-expands-zipit-limits",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "ZWE",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "ZIPIT",
+   "country_label": "ZWE",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "RBZ sets fees and limits but the article does not state licensing, switch oversight or a regional link."
+}

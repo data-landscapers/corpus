@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-lca-ict-access-use-households-comparative-2016-2023",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Lesotho Communications Authority household survey reports 65.1% of individuals used mobile money in 2023, up from 57.9% in 2019 and 43.2% in 2016.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-actuniger-airtel-money-transfert-international",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Airtel Money Niger, a BCEAO-authorised electronic money issuer, runs an e-wallet used for bills, airtime and transfers, per ActuNiger.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Airtel Money Niger",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money Niger",
+   "country_label": "Niger",
+   "class": "retail",
+   "platform": "e-wallet",
+   "owner": "Airtel Money Niger SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Sudan Times describes Bankak as one of Sudan's most widely used banking applications, used by customers to pay traders in Darfur.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Bankak",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bankak",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "banking app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Future Bank application",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "banking app",
+   "owner": "Future Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vodacom Lesotho says M-Pesa customers across urban, peri-urban and rural Lesotho use their mobile wallets, from which they can now invest via Tsetela.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodacom Lesotho",
+   "tiers": ""
+  },
+  {
+   "system": "Tsetela",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "USSD",
+   "owner": "Vodacom Lesotho with Stanlib Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

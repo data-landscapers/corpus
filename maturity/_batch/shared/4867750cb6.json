@@ -1,0 +1,113 @@
+{
+ "slug": "2026-05-19-arcep-benin-essor-usages-numeriques",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Arcep reports 11,649,735 active mobile financial services accounts at 31 December 2025, led by MTN Mobile Money (51%), Celtiis Cash (27%) and Moov Money (22%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "MTN Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Bénin",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Bénin",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Bénin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Celtiis",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Bénin",
+       "class": "retail",
+       "platform": "",
+       "owner": "Moov Africa Bénin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

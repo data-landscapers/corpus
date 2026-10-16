@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-mwi-tnm-mpamba-sct-disbursement-mangochi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Malawi Voice reports TNM Mpamba mobile money platform is in service and processing large-scale payments, with many beneficiaries using mobile money for the first time.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "TNM Mpamba",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

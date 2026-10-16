@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,STAR-UEMOA,Niger,other,,,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,SICA-UEMOA,Niger,other,,,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,Compte Unique du Trésor,Niger,other,,Direction Générale du Trésor et de la Comptabilité Publique,,2026-08-05-niger-tresor-seminaire-epa-cut-star-sica
+NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026

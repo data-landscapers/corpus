@@ -1,0 +1,31 @@
+{
+ "slug": "2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "national card scheme",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "instant payments network",
+   "owner": "CBE",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza Digital",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "mobile wallets",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing answering this study."
+}

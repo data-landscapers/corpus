@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-20-lejour-gimacpay-600bn-fcfa-transactions",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BEAC publishes Gimacpay's figures and notes delays in applying the interoperability framework set by governor's instruction n°001/GR/2018 for card payment systems in the Cemac zone.",
+   "as_of": "2023-12-31",
+   "date_precision": "day",
+   "system": "Gimacpay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gimacpay",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "Gimac interbank platform",
+   "owner": "Gimac",
+   "tiers": "53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators"
+  }
+ ],
+ "note": ""
+}

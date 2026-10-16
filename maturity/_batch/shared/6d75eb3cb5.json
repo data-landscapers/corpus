@@ -1,0 +1,9 @@
+{"slug":"2026-03-30-sarafa-is-now-live-on-the-app-store","studies":{
+"businesspayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Not stated."}}},
+"crossborderpayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Stablecoin app with no named corridor or licence."}}},
+"g2ppayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentsuptake":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Not stated."}}},
+"retailpayments":{"countries":{"SSD":{"facts":[],"systems":[{"system":"Sarafa","country_label":"South Sudan","class":"other","platform":"iOS app","owner":"Sarafa","tiers":""}],"note":"Stablecoin trading app, a crypto-asset service, not licensed mobile money."}}},
+"revenuecollection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Not stated."}}}}}

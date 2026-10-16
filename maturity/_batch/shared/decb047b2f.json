@@ -1,0 +1,12 @@
+{"slug":"2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal","studies":{
+"businesspayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"A provider's own data-masking measure and data protection, not a conduct rule or complaints body."}}},
+"crossborderpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing cross-border."}}},
+"g2ppayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Transaction counts only; no survey share of adults."}}},
+"retailpayments":{"countries":{"KEN":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Safaricom's M-PESA processes 37 million daily person-to-person transactions worth KES 27 billion, out of 137.9 million transactions worth KES 118 billion, with Buy Goods and Paybill serving merchant payments, per TechCabal.","as_of":"2026-03-20","date_precision":"day","system":"M-PESA","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"Transfers between M-PESA, banks and other mobile money services such as Airtel Money pass through several platforms, per TechCabal.","as_of":"2026-03-20","date_precision":"day","system":"M-PESA","class":"retail"}],
+"systems":[{"system":"M-PESA","country_label":"Kenya","class":"retail","platform":"","owner":"Safaricom","tiers":""},{"system":"Airtel Money","country_label":"Kenya","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

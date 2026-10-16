@@ -1,0 +1,12 @@
+{"slug":"2026-07-28-car-batangafo-month-without-orange-network","studies":{
+"businesspayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not covered."}}},
+"g2ppayments":{"countries":{"CAF":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"Residents of Batangafo say some civil servants could not collect the previous month's salary because transactions through mobile services were blocked by an Orange network outage lasting nearly a month.","as_of":"2026-07","date_precision":"month","system":"mobile salary payment","class":"g2p"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"CAF":{"facts":[],"systems":[],"note":"No survey share is given."}}},
+"retailpayments":{"countries":{"CAF":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Orange mobile money transfer and mobile payment services operate in Batangafo, but have been down for nearly a month, per local testimony reported by Corbeau News.","as_of":"2026-07","date_precision":"month","system":"Orange mobile money","class":"retail"}],"systems":[{"system":"Orange mobile money","country_label":"Central African Republic","class":"retail","platform":"","owner":"Orange","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"CAF":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

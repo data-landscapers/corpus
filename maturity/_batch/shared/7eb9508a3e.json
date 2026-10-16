@@ -1,0 +1,20 @@
+{"slug": "2026-08-06-burundi-burundipay-instant-payment-uptake-brb", "studies": {
+"businesspayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Bank of the Republic of Burundi pilots BurundiPay, the national instant payment system, with 17 institutions live on 4 August 2026 (BRB payment systems director Nduwimana Libere).", "as_of": "2026-08-04", "date_precision": "day", "system": "BurundiPay", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "The BRB has acceded to PAPSS and four Burundian banks are authorised to take part, according to BRB's Nduwimana Libere.", "as_of": "2026-08-04", "date_precision": "day", "system": "PAPSS", "class": "oversight"}
+], "systems": [{"system": "BurundiPay", "country_label": "Burundi", "class": "retail", "platform": "", "owner": "Bank of the Republic of Burundi", "tiers": "78 licensed participants, 30 integration-tested, 17 live"}, {"system": "PAPSS", "country_label": "Burundi", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The fine is for banks missing the integration deadline, not a user-protection rule."}}},
+"crossborderpayments": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "EAC central bank governors meeting in Kampala in July 2026 decided BurundiPay must be interconnected with other member states' payment systems for cross-border payments.", "as_of": "2026-07", "date_precision": "month", "system": "BurundiPay", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "The BRB has acceded to PAPSS, with four Burundian banks authorised to take part, says BRB's Nduwimana Libere.", "as_of": "2026-08-04", "date_precision": "day", "system": "PAPSS", "class": "crossborder"}
+], "systems": [{"system": "PAPSS", "country_label": "Burundi", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BDI": {"facts": [], "systems": [], "note": "User and volume counts are not a survey share of adults."}}},
+"retailpayments": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "BurundiPay, the national instant payment system run by the BRB, had about 224,000 users and about BIF 4.29 billion in cumulative transactions on 4 August 2026, with customers paying from bank accounts or e-wallets.", "as_of": "2026-08-04", "date_precision": "day", "system": "BurundiPay", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "On BurundiPay 17 institutions (5 commercial banks, 10 microfinance institutions, 2 payment institutions) are live, and customers can transfer money and pay instantly from bank accounts or e-wallets, per the BRB.", "as_of": "2026-08-04", "date_precision": "day", "system": "BurundiPay", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "BurundiPay is described as the national instant payment system run by the BRB, live since 5 March 2026 and launched publicly on 23 April 2026.", "as_of": "2026-08-04", "date_precision": "day", "system": "BurundiPay", "class": "retail"}
+], "systems": [{"system": "BurundiPay", "country_label": "Burundi", "class": "retail", "platform": "", "owner": "Bank of the Republic of Burundi", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-11 Revenue Services Lesotho and Standard Lesotho Bank launch e-payment integration for taxes",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho and Standard Lesotho Bank launched on 11 February 2026 an integrated e-payment system letting taxpayers pay taxes electronically by USSD, internet banking and the bank's mobile app.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "RSL-SLB integrated e-payment system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "Revenue Services Lesotho says individuals and businesses can pay Corporate Income Tax, PAYE, VAT and customs duties electronically through the new RSL-SLB e-payment system.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "RSL-SLB integrated e-payment system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL-SLB integrated e-payment system",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "USSD, internet banking, Standard Lesotho Bank mobile app",
+   "owner": "Revenue Services Lesotho with Standard Lesotho Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

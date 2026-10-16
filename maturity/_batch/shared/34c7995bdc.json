@@ -1,0 +1,77 @@
+{
+ "slug": "2026-06-25-bceao-prolongation-delai-connexion-pi-spi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document addresses UEMOA generally and does not name Benin."
+    }
+   }
+  }
+ }
+}

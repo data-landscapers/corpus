@@ -1,0 +1,147 @@
+{
+ "id": "paymentsuptake",
+ "study_file": "maturity-study-paymentsuptake.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.pay"
+ ],
+ "stage_topic": "dpi.pay",
+ "redraws": [
+  "dpi.pay--population-uptake"
+ ],
+ "carry": [
+  "dpi.pay--population-uptake"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "mobile money",
+  "mobile wallet",
+  "mobile wallets",
+  "e-money",
+  "electronic money",
+  "digital payment",
+  "digital payments",
+  "electronic payment",
+  "electronic payments",
+  "e-payment",
+  "e-payments",
+  "payment system",
+  "payment systems",
+  "national switch",
+  "instant payment",
+  "instant payments",
+  "digital financial services",
+  "fintech",
+  "fintechs",
+  "financial inclusion",
+  "PAPSS",
+  "M-Pesa",
+  "MoMo",
+  "Orange Money",
+  "Airtel Money",
+  "monnaie électronique",
+  "paiement mobile",
+  "paiements mobiles",
+  "paiement électronique",
+  "paiements électroniques",
+  "paiement numérique",
+  "paiements numériques",
+  "système de paiement",
+  "systèmes de paiement",
+  "services financiers numériques",
+  "inclusion financière",
+  "mobile banking",
+  "dinheiro móvel",
+  "pagamentos digitais",
+  "pagamento electrónico",
+  "pagamentos electrónicos",
+  "pagamento eletrónico",
+  "pagamentos eletrónicos",
+  "sistema de pagamentos",
+  "inclusão financeira",
+  "الدفع الإلكتروني",
+  "المدفوعات الرقمية",
+  "الدفع عبر الهاتف",
+  "الشمول المالي",
+  "أنظمة الدفع",
+  "Findex",
+  "account ownership",
+  "FinScope",
+  "unbanked",
+  "banked",
+  "financial inclusion survey",
+  "bancarisation",
+  "taux de bancarisation",
+  "taux d'inclusion financière",
+  "bancarização"
+ ],
+ "sub_indicators": [
+  {
+   "key": "uptake",
+   "label": "Population uptake",
+   "subject": "dpi.pay",
+   "text": "Population uptake: population uptake",
+   "indicator_id": "dpi.pay--population-uptake-population-uptake",
+   "class": "survey",
+   "norm_short": "The World Bank's Global Findex 2025 puts account ownership at 79% of adults worldwide; the frame takes that as the target.",
+   "criteria": [
+    "A survey from the past three years puts adults with a bank or mobile money account below 26%.",
+    "A survey from the past three years puts adults with an account at 26% or more.",
+    "A survey from the past three years puts adults with an account at 53% or more.",
+    "A survey from the past three years puts adults with an account at 79% or more.",
+    "A survey from the past three years puts adults who made or received a digital payment at 79% or more."
+   ],
+   "criteria_of": "d28180f5e773"
+  }
+ ],
+ "classes": [
+  "survey",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "share",
+   "name": "Adults with an account",
+   "role": "coverage",
+   "defer": [
+    "below"
+   ],
+   "prefer": [
+    "half",
+    "quarter"
+   ],
+   "values": [
+    "half",
+    "quarter",
+    "below"
+   ]
+  },
+  {
+   "key": "target",
+   "name": "Account target met",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "target"
+   ],
+   "values": [
+    "target"
+   ]
+  },
+  {
+   "key": "payments",
+   "name": "Paying digitally",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "payments"
+   ],
+   "values": [
+    "payments"
+   ]
+  }
+ ],
+ "flags": []
+}

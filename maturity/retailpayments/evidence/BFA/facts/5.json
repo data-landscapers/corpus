@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-uemoa-pi-spi-bceao-operationnel",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "PI-SPI lets funds move instantly between banks, e-money issuers, microfinance institutions and payment institutions, 24/7, by phone number or alias, per the BCEAO governor.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "BCEAO",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

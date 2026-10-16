@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "A Reserve Bank of Zimbabwe official noted Zimbabwe's involvement in the Pan-African Payment and Settlement System at the Zimswitch Payments Conference.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimswitch",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PAPSS",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

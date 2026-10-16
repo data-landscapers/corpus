@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-11-gabon-madigipaie-digital-payments-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MaDigiPaie",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "GIMACPAY QR",
+   "owner": "Government of Gabon with BEAC / GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": "BEAC and GIMAC implement the programme, but no licensing, switch oversight or regional link is stated."
+}

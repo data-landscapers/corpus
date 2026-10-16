@@ -1,0 +1,126 @@
+{
+ "slug": "2026-09-21-bfa-burkina24-orange-max-it-nouvelle-version",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Burkina24 reports Orange Burkina Faso's Max It app, relaunched on 18 September 2026, offers Orange Money mobile money to subscribers of all networks, per Orange's Abdramane Diallo.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Burkina24 reports Max It is interconnected with almost all the country's banks for transfers between bank accounts and Orange Money accounts, per Orange's Abdramane Diallo.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "Max It",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money Burkina Faso",
+       "class": "retail",
+       "platform": "Orange Burkina Faso",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Max It",
+       "country_label": "Max It",
+       "class": "retail",
+       "platform": "Orange Burkina Faso",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Burkina24 reports public-administration payments such as the vehicle tax and levies can be paid directly through Orange's Max It app, per Orange's Abdramane Diallo.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "Max It",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

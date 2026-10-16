@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-06-bon-psd-1-licensing-payment-service-providers",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Namibia issued the PSD-1 determination under section 45 of the Payment System Management Act 2023, setting the licensing and authorisation of payment service providers, including electronic money issuers, effective on Gazette publication on 6 January 2026.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "Payment System Management Act, 2023",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payment System Management Act, 2023",
+   "country_label": "Namibia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  },
+  {
+   "system": "PSD-1",
+   "country_label": "Namibia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,155 @@
+{
+ "slug": "2026-10-07-gha-bog-governor-remarks-saopay-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Bank of Ghana licenses and supervises Dedicated Electronic Money Issuers; the Governor launched SaoPay as a new DEMI on 7 October 2026.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "SaoPay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SaoPay",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "",
+       "owner": "SaoPay",
+       "tiers": "DEMI"
+      },
+      {
+       "system": "FICSOC",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The Governor says the Bank's pricing requirements apply to issuers' agent and merchant networks, and licensing requires applicants to disclose fees and commissions.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "Bank of Ghana pricing requirements",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The Bank of Ghana's Updated Guidelines for Inward Remittance Services set a framework for DEMIs and Enhanced PSPs partnering with Money Transfer Operators.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "Inward Remittance Services Guidelines",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Bank of Ghana reports about 85.8 million registered mobile money accounts in August 2026, with about 26.4 million used in the previous ninety days.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SaoPay",
+       "country_label": "Ghana",
+       "class": "retail",
+       "platform": "",
+       "owner": "SaoPay",
+       "tiers": "DEMI"
+      },
+      {
+       "system": "FICSOC",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing for this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "slug": "2026-05-21-payshap-pivots-to-merchants",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "PayShap",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "PayInc says PayShap, South Africa's instant payments system launched in 2023, has passed six million registered users and 905 million transactions.",
+       "as_of": "2026-05-21",
+       "date_precision": "day",
+       "system": "PayShap",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "retail",
+       "platform": "PayInc",
+       "owner": "PayInc",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no fact on this study for South Africa."
+    }
+   }
+  }
+ }
+}

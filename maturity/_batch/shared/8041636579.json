@@ -1,0 +1,16 @@
+{"slug": "2026-09-10-techcabal-south-africa-payments-system-rebuild", "studies": {
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The document says a proposed activity-based authorisation framework for non-banks performing payment activities is still being developed, with the draft in industry engagement and piloting and release expected in the first quarter of 2027 (Standard Bank's Nthabiseng Mohale).", "as_of": "2026-09-09", "date_precision": "day", "system": "activity-based authorisation framework", "class": "oversight"}
+], "systems": [{"system": "Pay Inc", "country_label": "South Africa", "class": "oversight", "platform": "national payments utility", "owner": "", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Fraud and compliance requirements are mentioned for licensees; no consumer-protection rule or redress stated."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The document says Transactions Cleared on an Immediate Basis (TCIB) is being developed to enable immediate low-value cross-border payments in the region.", "as_of": "2026-09-09", "date_precision": "day", "system": "TCIB", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Standard Bank's Nthabiseng Sibanda says the bank uses China's CIPS as a direct route for renminbi transactions, reaching 12 African countries.", "as_of": "2026-09-09", "date_precision": "day", "system": "CIPS", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "Standard Bank's Nthabiseng Sibanda says the bank has processed more than R21 billion ($1.3 billion) through CIPS since its inception.", "as_of": "2026-09-09", "date_precision": "day", "system": "CIPS", "class": "crossborder"}
+], "systems": [{"system": "TCIB", "country_label": "South Africa", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}, {"system": "CIPS", "country_label": "South Africa", "class": "crossborder", "platform": "", "owner": "People's Bank of China system", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "PayShap", "country_label": "South Africa", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": "The document covers clearing institutions and rules, not a retail service in service."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

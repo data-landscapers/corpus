@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-08 Lesotho National Payment Switch (LeSwitch) — Standard Lesotho Bank press release",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "LeSwitch fast payments, launched 20 March 2024, give digital interoperability between banks and non-bank entities, per Standard Lesotho Bank.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "LeSwitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "LeSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LeSwitch",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho with banks and PSPs",
+   "tiers": "fast payments; card-stream switching"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{"slug":"2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments","studies":{
+"businesspayments":{"countries":{
+"GHA":{"facts":[],"systems":[],"note":"No procurement stated."},
+"NGA":{"facts":[],"systems":[],"note":"No procurement stated."},
+"RWA":{"facts":[],"systems":[],"note":"No procurement stated."}}},
+"centralbank":{"countries":{
+"GHA":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"oversight"}],"systems":[{"system":"PAPSS","country_label":"Ghana","class":"oversight","platform":"","owner":"","tiers":""},{"system":"Licence Passporting Framework","country_label":"Ghana","class":"other","platform":"","owner":"Bank of Ghana and National Bank of Rwanda","tiers":""}],"note":""},
+"NGA":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"oversight"}],"systems":[{"system":"PAPSS","country_label":"Nigeria","class":"oversight","platform":"","owner":"","tiers":""}],"note":""},
+"RWA":{"facts":[],"systems":[{"system":"Licence Passporting Framework","country_label":"Rwanda","class":"other","platform":"","owner":"Bank of Ghana and National Bank of Rwanda","tiers":""}],"note":"Passporting with the National Bank of Rwanda is described, no Rwandan mandate fact."}}},
+"consumerprotection":{"countries":{
+"GHA":{"facts":[],"systems":[],"note":"Oversight of digital lenders is being strengthened but no rule in force is stated."},
+"NGA":{"facts":[],"systems":[],"note":"Nothing stated."},
+"RWA":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"crossborderpayments":{"countries":{
+"GHA":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"The Bank of Ghana has started testing interoperability of CBDCs, stablecoins, bank accounts and mobile wallets with Rwanda and Nigeria, per Governor Asiama.","as_of":"2026-10-13","date_precision":"day","system":"Ghana-Rwanda-Nigeria pilots","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"Governor Asiama said PAPSS has already been extended to mobile wallets along the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Governor Asiama described PAPSS as existing infrastructure in use by Ghana, extended to mobile wallets on the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Ghana","class":"crossborder","platform":"","owner":"","tiers":""},{"system":"Licence Passporting Framework","country_label":"Ghana","class":"other","platform":"","owner":"Bank of Ghana and National Bank of Rwanda","tiers":""}],"note":""},
+"NGA":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"The Bank of Ghana has started testing interoperability of CBDCs, stablecoins, bank accounts and mobile wallets with Rwanda and Nigeria, per Governor Asiama.","as_of":"2026-10-13","date_precision":"day","system":"Ghana-Rwanda-Nigeria pilots","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"Governor Asiama said PAPSS has already been extended to mobile wallets along the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"crossborder"},{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Governor Asiama described PAPSS as existing infrastructure in use on the Ghana-Nigeria corridor.","as_of":"2026-10-13","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Nigeria","class":"crossborder","platform":"","owner":"","tiers":""}],"note":""},
+"RWA":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"The Bank of Ghana has started testing interoperability of CBDCs, stablecoins, bank accounts and mobile wallets with Rwanda and Nigeria, per Governor Asiama.","as_of":"2026-10-13","date_precision":"day","system":"Ghana-Rwanda-Nigeria pilots","class":"crossborder"}],"systems":[{"system":"Licence Passporting Framework","country_label":"Rwanda","class":"other","platform":"","owner":"Bank of Ghana and National Bank of Rwanda","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{
+"GHA":{"facts":[],"systems":[],"note":"No government payments to people stated."},
+"NGA":{"facts":[],"systems":[],"note":"No government payments to people stated."},
+"RWA":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{
+"GHA":{"facts":[],"systems":[],"note":"The 81% access and 52.7% inclusion figures name no survey."},
+"NGA":{"facts":[],"systems":[],"note":"Nothing stated."},
+"RWA":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"retailpayments":{"countries":{
+"GHA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Governor Asiama said Ghana's mobile money transactions exceeded one billion in August 2026 for the first time, worth GH¢519 billion, up 46.5% on the previous year.","as_of":"2026-08","date_precision":"month","system":"mobile money","class":"retail"}],"systems":[{"system":"Mobile money","country_label":"Ghana","class":"retail","platform":"mobile money","owner":"","tiers":""}],"note":""},
+"NGA":{"facts":[],"systems":[],"note":"Nothing stated beyond the PAPSS wallet link."},
+"RWA":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"revenuecollection":{"countries":{
+"GHA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."},
+"NGA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."},
+"RWA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

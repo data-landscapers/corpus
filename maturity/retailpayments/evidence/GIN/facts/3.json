@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCRG governor said financial access rose from 4% in 2011 to nearly 36% in 2024 thanks notably to the rise of electronic money, which implies e-money in service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "NimbaPay, in service from its 22 July 2026 launch, lets clients of connected institutions make instant, interoperable transfers between accounts regardless of their bank or financial service provider, across banks, e-money institutions and microfinance institutions.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "NimbaPay is described as Guinea's national instant payment system, connecting banks, e-money institutions and microfinance institutions, in service from 22 July 2026.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "BCRG, implemented by Guineenne de Monetique",
+   "tiers": "banks, e-money institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

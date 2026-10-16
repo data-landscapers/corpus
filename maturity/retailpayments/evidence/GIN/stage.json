@@ -1,0 +1,17 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "retail",
+   "stage": "5",
+   "service": "inservice",
+   "interop": "interop",
+   "switch": "national",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-025;GIN-008",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
+  }
+ ]
+}

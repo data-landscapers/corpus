@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "To keep its licence Moov Money Tchad must ring-fence client funds, meet solvency norms and run regular cybersecurity audits, per the article on the CEMAC payment-institution rules.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "CEMAC payment-institution regulation",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

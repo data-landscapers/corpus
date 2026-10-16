@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-27-techcabal-kenya-payments-revolution-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports that by July 2026 Kenya had 94.35 million registered mobile-money accounts and 575,400 agents, with KES 728.7 billion passing through the network that month, citing CBK figures.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "M-Pesa / mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal says Kenyan commercial banks compete over how seamlessly customers can move funds between accounts and mobile wallets.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Kenswitch domestic card scheme",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "card",
+   "owner": "Kenswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

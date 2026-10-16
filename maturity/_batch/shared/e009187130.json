@@ -1,0 +1,107 @@
+{
+ "slug": "2026-09-02-mozambique-absa-mpesa-digital-payments-mou",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "M-Pesa's Paga Fácil merchant payment service is in use, and Absa and M-Pesa signed an MoU at FACIM 2026, reported 2 September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Paga Fácil",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Under the Absa-M-Pesa MoU, merchants transfer Paga Fácil receipts directly into Absa bank accounts, settled normally within minutes.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Paga Fácil",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Paga Fácil",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "M-Pesa",
+       "owner": "M-Pesa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-12-gabon-uncdf-financial-inclusion-deal",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article refers to growing mobile money in Gabon, per Biometric Update.",
+   "as_of": "2025-12-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-10-bdi-burunditimes-eapss-paiements",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "East African Payment System",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank statement is a commitment to join EAPS, not in service; no stated mandate, licensing or switch oversight."
+}

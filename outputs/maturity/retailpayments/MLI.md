@@ -1,0 +1,13 @@
+# Mali
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [The BCEAO list of 30 September 2026 names Moov Money, Sama Money and Orange Finances Mobiles Mali among 19 institutions in Mali authorised to open PI-SPI services to the public](<https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf>). [Moov Money Mali launched a Mastercard co-branded prepaid card linked to the user's mobile wallet, for online payments and cash withdrawals (Le360 Afrique)](<https://afrique.le360.ma/economie/gitex-africa-2026-a-marrakech-moov-money-mali-lance-sa-carte-prepayee-co-brandee-en-partenariat-avec_BSK7BUJUVFG2PCVQA4FSPVIXRA/>). [The BCEAO list names Orange Finances Mobiles Mali among Mali's institutions authorised to open PI-SPI services to the public](<https://www.bceao.int/sites/default/files/2026-04/Liste-des-participants_PI-SPI_2%20avril_2026.pdf>). [The UMOA Banking Commission's 2025 report counts 2 licensed e-money issuers in Mali, which holds 23% of e-money issuer revenue in the union](<https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/>).
+
+**Between providers.** [BCEAO says interoperable e-money transactions in UEMOA, which includes Mali, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>). [The BCEAO list shows banks and mobile money providers in Mali authorised together on PI-SPI](<https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf>).
+
+**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
+
+***Noted, not assessed***. [PI-SPI](<https://www.bceao.int/sites/default/files/2026-04/Liste-des-participants_PI-SPI_2%20avril_2026.pdf>); [TerraPay network](<https://www.finextra.com/pressarticle/105780/terrapay-enables-cross-border-remittances-for-wave-mobile-money-users-in-mali>); [Télépaiement (DGI tax e-payment platform)](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
+
+***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

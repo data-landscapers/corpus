@@ -1,0 +1,9 @@
+{"slug":"2024-06-01-africanenda-siips-2024-eritrea","studies":{
+"businesspayments":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Eritrea is only absent from the report's covered countries; no central bank mandate statement."}}},
+"consumerprotection":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Report does not state that no cross-border channel exists."}}},
+"g2ppayments":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Absence from an IPS list does not state that payments are in cash."}}},
+"paymentsuptake":{"countries":{"ERI":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Report does not state that no service is licensed; Eritrea is only not among covered countries."}}},
+"revenuecollection":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Nothing on tax or fee collection."}}}}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-mwi-tnm-mpamba-sct-disbursement-mangochi",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Ministry of Gender says TNM Mpamba mobile money is disbursing about K6 billion in social cash transfers to over 27,760 beneficiaries in Mangochi District.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "TNM Mpamba",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

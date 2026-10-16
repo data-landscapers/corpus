@@ -1,0 +1,105 @@
+{
+ "slug": "2026-02-12-bange-mobile-ge-app-reg",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "BANGE says its new BANGE MOBILE GE app is designed to integrate with regional payment systems, enabling CEMAC operations via the G-MAT Pay gateway.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "G-MAT Pay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BANGE MOBILE GE",
+       "country_label": "Equatorial Guinea",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "BANGE",
+       "tiers": ""
+      },
+      {
+       "system": "G-MAT Pay",
+       "country_label": "CEMAC",
+       "class": "crossborder",
+       "platform": "gateway",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's mobile banking app in trial; no mobile money or e-money service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

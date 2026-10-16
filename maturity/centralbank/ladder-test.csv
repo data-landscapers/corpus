@@ -1,0 +1,55 @@
+iso3,stage,mandate,switch,regional,stage_sources
+AGO,5,licensing,overseen,linked,AGO-003
+BDI,5,licensing,overseen,linked,BDI-004
+BEN,5,licensing,overseen,linked,BEN-003;BEN-005
+BFA,5,licensing,overseen,linked,BFA-003;BFA-004
+BWA,3,licensing,,,BWA-002;BWA-003
+CAF,5,licensing,overseen,linked,CAF-001;CAF-003
+CIV,5,licensing,overseen,linked,CIV-002
+CMR,5,licensing,overseen,linked,CMR-003;CMR-011
+COD,4,licensing,overseen,,COD-002;COD-003
+COG,5,licensing,overseen,linked,COG-001;COG-003
+COM,4,licensing,overseen,,COM-003;COM-001
+CPV,4,licensing,overseen,,CPV-004;CPV-002
+DJI,5,licensing,overseen,linked,DJI-002;DJI-001
+DZA,3,licensing,,,DZA-001;DZA-002
+EGY,5,licensing,overseen,linked,EGY-003;EGY-004
+ERI,no evidence,,,,
+ETH,3,licensing,,,ETH-002
+GAB,5,licensing,overseen,linked,GAB-001;GAB-003
+GHA,3,licensing,,,GHA-001
+GIN,4,licensing,overseen,,GIN-009;GIN-004
+GMB,5,licensing,overseen,linked,GMB-006;GMB-002
+GNB,5,licensing,overseen,linked,GNB-006;GNB-011
+GNQ,5,licensing,overseen,linked,GNQ-001;GNQ-003
+KEN,2,drafting,,,KEN-001
+LBR,5,licensing,overseen,linked,LBR-009
+LBY,4,licensing,overseen,,LBY-002;LBY-003
+LSO,4,licensing,overseen,,LSO-001;LSO-002
+MAR,4,licensing,overseen,,MAR-005
+MDG,3,licensing,,,MDG-001
+MLI,5,licensing,overseen,linked,MLI-006;MLI-008
+MOZ,4,licensing,overseen,,MOZ-004;MOZ-002
+MRT,4,licensing,overseen,,MRT-003
+MUS,5,licensing,overseen,linked,MUS-002
+MWI,5,licensing,overseen,linked,MWI-003
+NAM,4,licensing,overseen,,NAM-002;NAM-003
+NER,5,licensing,overseen,linked,NER-008;NER-004
+NGA,5,licensing,overseen,linked,NGA-005;NGA-003
+RWA,4,licensing,overseen,,RWA-005;RWA-006
+SDN,3,licensing,,,SDN-001;SDN-003
+SEN,5,licensing,overseen,linked,SEN-001;SEN-004
+SLE,5,licensing,overseen,linked,SLE-002
+SOM,4,licensing,overseen,,SOM-006;SOM-007
+SSD,no evidence,,,,
+STP,no evidence,,,,
+SWZ,4,licensing,overseen,,SWZ-003;SWZ-004
+SYC,3,licensing,,,SYC-001;SYC-002
+TCD,5,licensing,overseen,linked,TCD-007;TCD-001
+TGO,5,licensing,overseen,linked,TGO-008;TGO-003
+TUN,5,licensing,overseen,linked,TUN-007
+TZA,4,licensing,overseen,,TZA-002
+UGA,5,licensing,overseen,linked,UGA-001
+ZAF,4,licensing,overseen,,ZAF-004;ZAF-002
+ZMB,no evidence,,,,
+ZWE,2,drafting,,,ZWE-002

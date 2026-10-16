@@ -1,0 +1,10 @@
+{"slug":"2026-09-09-zwe-thefintechtimes-fintech-changing-currency-interoperability","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document describes RBZ QR guidelines and a sandbox but no licensing, switch oversight or regional link."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only private-employer salaries into InnBucks wallets mentioned; no government payment stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Reserve Bank of Zimbabwe reported about 208.8 million mobile-money transactions worth ZiG76.2 billion in the first quarter of 2026, around 87 per cent of electronic-payment volumes.","as_of":"2026-03","date_precision":"month","system":"EcoCash","class":"retail"}],"systems":[{"system":"EcoCash","country_label":"Zimbabwe","class":"retail","platform":"mobile money","owner":"Econet Wireless Zimbabwe","tiers":""},{"system":"InnBucks","country_label":"Zimbabwe","class":"retail","platform":"wallet via app and USSD","owner":"Simbisa Brands origin","tiers":""}],"note":"QR interoperability is required by March 2026 guidelines but not stated as in service."}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

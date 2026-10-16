@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-cnss-paiement-3010-droits-uniques-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile Money is used in Gabon to settle CNSS benefit payments, with amounts at or below 100,000 FCFA paid by Mobile Money only.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNSS single-entitlement benefit payments",
+   "country_label": "Gabon",
+   "class": "g2p",
+   "platform": "bank transfer, Mobile Money",
+   "owner": "CNSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

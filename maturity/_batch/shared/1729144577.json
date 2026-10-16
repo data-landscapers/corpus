@@ -1,0 +1,169 @@
+{
+ "slug": "2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Banque Centrale des Comores says it is operator, supervisor and participant of KomorPay (ATS), the national interbank payment system operational since 23 April 2026.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "KomorPay (ATS)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KomorPay (ATS)",
+       "country_label": "COM",
+       "class": "other",
+       "platform": "ACH and RTGS",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      },
+      {
+       "system": "Komor Switch",
+       "country_label": "COM",
+       "class": "retail",
+       "platform": "",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      },
+      {
+       "system": "Mali Ya Wakazi",
+       "country_label": "COM",
+       "class": "other",
+       "platform": "bank agent network",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The central bank says Komor Switch connects banks, financial institutions and mobile money services in the Comoros.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "Komor Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The central bank says Komor Switch allows instant real-time transfers between banks and mobile money.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "Komor Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The central bank describes Komor Switch as the national payment infrastructure interconnecting all banks, financial institutions and mobile money services.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "Komor Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KomorPay (ATS)",
+       "country_label": "COM",
+       "class": "other",
+       "platform": "ACH and RTGS",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      },
+      {
+       "system": "Komor Switch",
+       "country_label": "COM",
+       "class": "retail",
+       "platform": "",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      },
+      {
+       "system": "Mali Ya Wakazi",
+       "country_label": "COM",
+       "class": "other",
+       "platform": "bank agent network",
+       "owner": "Banque Centrale des Comores",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  }
+ }
+}

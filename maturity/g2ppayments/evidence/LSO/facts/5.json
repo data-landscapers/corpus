@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "Vodacom Lesotho",
+   "tiers": ""
+  },
+  {
+   "system": "Tsetela",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "USSD",
+   "owner": "Vodacom Lesotho with Stanlib Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing that answers this study's questions."
+}

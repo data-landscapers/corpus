@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-08-uncdf-clikpay-gabon-fintech-capital",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "CLIKPAY offers tax and duty payments among its services, according to UNCDF.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CLIKPAY",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

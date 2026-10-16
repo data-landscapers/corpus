@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-07-fintech-strategy-to-transform-eswatini-digital-future",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Eswatini's 87 per cent financial inclusion rate is largely driven by rapid uptake of mobile money, says the Times of Eswatini.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

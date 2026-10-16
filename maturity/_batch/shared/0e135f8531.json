@@ -1,0 +1,105 @@
+{
+ "slug": "2026-05-16-electronic-payment-market-22-million-cards--wearetech",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "We Are Tech says mobile money transfers rose sharply in 2025, supported by applications such as BaridMob and Wimpay.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "BaridMob; Wimpay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BaridMob",
+       "country_label": "DZA",
+       "class": "retail",
+       "platform": "mobile app",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Wimpay",
+       "country_label": "DZA",
+       "class": "retail",
+       "platform": "mobile app",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Card and terminal counts only; no fact for this study."
+    }
+   }
+  }
+ }
+}

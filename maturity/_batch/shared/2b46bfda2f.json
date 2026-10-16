@@ -1,0 +1,77 @@
+{
+ "slug": "2026-06-03-bou-cash-withdrawal-limits-cash-lite",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-23-airtel-money-education-digitalisation-techreviewafrica",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "A school management platform shown to over 200 principals in Brazzaville integrates school fee payment through Airtel Money, per Tech Review Africa.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "COG",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel Congo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  }
+ }
+}

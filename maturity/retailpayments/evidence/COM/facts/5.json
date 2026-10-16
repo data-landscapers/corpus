@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mayotte Hebdo, citing the central bank's 2024 report, says the electronic money float reached 2.7 billion francs across 669,584 accounts opened, of which 29.1% are active.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Komor Switch",
+   "country_label": "Comoros",
+   "class": "retail",
+   "platform": "card switch",
+   "owner": "Banque centrale des Comores",
+   "tiers": "banks"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15-fact-sheet-namibias-instant-payment-solution-ips",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Namibia is the parent body of Instant Payment Namibia, which operates the Instant Payment Solution; pilot testing in live production is complete and phased rollout is underway.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Instant Payment Solution (IPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment Solution (IPS)",
+   "country_label": "IPS",
+   "class": "oversight",
+   "platform": "Instant Payment Platform with NPCI International technology",
+   "owner": "Instant Payment Namibia, under Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

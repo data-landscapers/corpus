@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-20-papss-meeza-card-integration-waya",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Banks Company",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Banks Company",
+   "tiers": ""
+  }
+ ],
+ "note": "No central bank role is stated."
+}

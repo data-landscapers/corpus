@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-13 Comesa payment system connects Malawi, Zambia",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Reserve Bank of Malawi and the Bank of Zambia supervise the COMESA Digital Retail Payments Platform linking the two countries.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital Retail Payments Platform",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The Reserve Bank of Malawi supervises Malawi's participation in the COMESA cross-border payments platform.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital Retail Payments Platform",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Retail Payments Platform",
+   "country_label": "Malawi",
+   "class": "crossborder",
+   "platform": "COMESA DRPP",
+   "owner": "COMESA",
+   "tiers": "banks, fintechs, mobile-money operators"
+  }
+ ],
+ "note": ""
+}

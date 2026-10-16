@@ -1,0 +1,9 @@
+{"slug":"2026-09-22-cod-standard-drc-joins-papss","studies":{
+"businesspayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"COD":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"The Central Bank of Congo has formally joined the Pan-African Payment and Settlement System, which the article says now connects 31 African countries.","as_of":"2026-09","date_precision":"month","system":"PAPSS","class":"oversight"}],"systems":[{"system":"PAPSS","country_label":"Democratic Republic of the Congo","class":"other","platform":"","owner":"Afreximbank","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"COD":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"COD":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"DR Congo has joined PAPSS through its central bank, and the governor says membership should make cross-border payments faster, safer and less expensive.","as_of":"2026-09","date_precision":"month","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Democratic Republic of the Congo","class":"crossborder","platform":"","owner":"Afreximbank","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COD":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"No retail digital payment service stated."}}},
+"revenuecollection":{"countries":{"COD":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

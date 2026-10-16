@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-10-osiris-sen-pi-spi-orange-money-bocoum",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The state has chosen Orange Money as the distribution channel for certain public credit programmes, directing aid flows through it, according to economist Seydou Bocoum.",
+   "as_of": "2026-10-10",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

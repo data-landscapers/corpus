@@ -1,0 +1,97 @@
+{
+ "slug": "2026-06-18-namibia-g2p-instant-payment-platform-live",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Namibia Economist reports Bank Windhoek processed the first batch of live government grant payments to Marginalised Beneficiaries over the national instant payment network, on Wednesday 17 June 2026.",
+       "as_of": "2026-06-17",
+       "date_precision": "day",
+       "system": "Instant Payment Programme",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment Programme",
+       "country_label": "Namibia",
+       "class": "g2p",
+       "platform": "national instant payment network (UPI-enabled)",
+       "owner": "Instant Payments Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

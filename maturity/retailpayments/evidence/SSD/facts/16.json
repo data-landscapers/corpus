@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "One Citizen Daily calls MTN and Digitel two of South Sudan's leading mobile money operators, and MTN MoMo urges traders and customers to use mobile money to buy goods and services.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN South Sudan",
+   "tiers": ""
+  },
+  {
+   "system": "Digitel mobile money",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Digitel Holdings",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

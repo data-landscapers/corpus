@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-bank-of-botswana-eps-amendment-regulations-2026-press-release",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Botswana says the 2026 Electronic Payment Services regulations permit interest-bearing e-money balances and apply operating limits to payment receipts in account-based services, and urges the public to use licensed payment service providers.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Electronic Payment Services Regulations",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

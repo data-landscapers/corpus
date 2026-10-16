@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-22-alger16-h1-2026-epayment-indicators",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GIE Monetique",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No central bank role stated; figures come from GIE Monetique."
+}

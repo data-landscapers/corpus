@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-cips-goes-live-standard-bank-sarb-inauguration",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Standard Bank says China's CIPS has gone live for interbank payments between Africa and China in renminbi, inaugurated at the South African Reserve Bank in November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "CIPS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIPS",
+   "country_label": "South Africa",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "CIPS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

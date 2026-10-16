@@ -1,0 +1,108 @@
+{
+ "slug": "2026-08-25-africtelegraph-papss-cemac-cameroun",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "BEAC's official entry into PAPSS was set for 9 July 2026, but banks and payment providers of the CEMAC zone must still connect technically before customers are served, per Africtelegraph.",
+       "as_of": "2026-07-09",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "In PAPSS's June 2026 mapping Cameroon appeared only in the extended network, receiving funds through one unidentified bank and one mobile wallet, per Africtelegraph.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "pan-African payment and settlement system",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cameroon."
+    }
+   }
+  }
+ }
+}

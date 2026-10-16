@@ -1,0 +1,160 @@
+{
+ "slug": "2026-07-27-standard-bank-cips-cny-8-billion-africa-china",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Standard Bank says it has expanded access to China's CIPS, settling cross-border payments directly in RMB, to clients in Lesotho among others.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "CIPS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "RMB settlement",
+       "owner": "Standard Bank access",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

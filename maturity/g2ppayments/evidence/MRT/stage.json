@@ -1,0 +1,17 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "g2p",
+   "stage": "5",
+   "payment": "inservice",
+   "streams": "several",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
+  }
+ ]
+}

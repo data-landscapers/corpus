@@ -1,0 +1,157 @@
+{
+ "slug": "2026-08-27-horonyafinance-umoa-monnaie-electronique-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The UMOA Banking Commission's 2025 report counts 2 licensed e-money issuers in Mali, which holds 23% of e-money issuer revenue in the union.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "e-money (EME)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-money issuers (EME)",
+       "country_label": "Mali",
+       "class": "retail",
+       "platform": "",
+       "owner": "licensed EME",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The UMOA Banking Commission's 2025 report counts one licensed e-money issuer in Niger, whose transaction volume grew 16.5% in 2025.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "e-money (EME)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-money issuers (EME)",
+       "country_label": "Niger",
+       "class": "retail",
+       "platform": "",
+       "owner": "licensed EME",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

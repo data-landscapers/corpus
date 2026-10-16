@@ -1,0 +1,134 @@
+{
+ "slug": "2026-09-01-thecitizen-tanzania-mobile-money-cashless",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "The FinScope Tanzania 2023 survey showed mobile money adoption at 72% in 2023, up from 60% in 2017.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "FinScope Tanzania 2023",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "The FinScope Tanzania 2023 survey showed mobile money adoption at 72% in 2023, up from 60% in 2017.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "FinScope Tanzania 2023",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TCRA's quarterly report puts active mobile money subscriptions at 87.05 million in June 2026, with Mixx by Yas, M-Pesa and Airtel Money holding about 89% of them.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Mixx by Yas; M-Pesa; Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Mixx by Yas",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TCD,Cashi,Chad,retail,"mobile, point-of-sale and SMS payment platform",Cashi,,2026-03-24-ifc-cashi-digital-payment-services-central-africa
+TCD,Airtel Money,TCD,retail,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Moov Money,TCD,retail,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Konoom,TCD,retail,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Nita,TCD,retail,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,GIMACPAY,TCD,other,,GIMAC,CEMAC,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Konoom,Tchad,retail,"e-wallet app, web, USSD, WhatsApp",Konoom,,2026-06-19-wearetech-konoom-paiements-numeriques-multicanal
+TCD,Cashi interoperable payments platform,Chad,retail,"phone, terminal, SMS",Cashi (with IFC),,2026-04-02-wearetech-cashi-sfi-ifc-paiements-numeriques
+TCD,Moov Money,Chad,retail,,Moov,,2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money
+TCD,Airtel Money,Chad,retail,,Airtel,,2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money
+TCD,Konoom,Chad,retail,,,,2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money
+TCD,Cashi,Chad,retail,,,,2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money
+TCD,Moov Money,Chad,retail,mobile money,,,2026-02-17-atpe-flux-financiers-etat-paiement-electronique
+TCD,Airtel Money,Chad,retail,mobile money,,,2026-02-17-atpe-flux-financiers-etat-paiement-electronique
+TCD,Konoom,Chad,retail,,,,2026-02-17-atpe-flux-financiers-etat-paiement-electronique
+TCD,Cashi Tchad,Chad,retail,,,,2026-02-17-atpe-flux-financiers-etat-paiement-electronique
+TCD,Moov Money,Chad,retail,mobile money,,,2026-02-17-journaldutchad-paiement-mobile-services-publics
+TCD,Airtel Money,Chad,retail,mobile money,,,2026-02-17-journaldutchad-paiement-mobile-services-publics
+TCD,Konoom,Chad,retail,,,,2026-02-17-journaldutchad-paiement-mobile-services-publics
+TCD,Cashi Tchad,Chad,retail,,,,2026-02-17-journaldutchad-paiement-mobile-services-publics
+TCD,Airtel Money,Chad,retail,,Airtel Chad,,2024-05-06 Airtel launches mobile money transfers in Chad

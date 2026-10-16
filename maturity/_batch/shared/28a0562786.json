@@ -1,0 +1,107 @@
+{
+ "slug": "2026-09-08-techafricanews-m-pesa-ethiopia-awash-bank-cardless-atm",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "M-PESA Ethiopia lets customers withdraw cash at supported Awash Bank ATMs from the M-PESA app, with Tech Africa News reporting real-time processing.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "M-PESA Ethiopia",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "M-PESA says its wallet customers can withdraw at Awash Bank ATMs, and expects this to strengthen interoperability between financial services.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "M-PESA Ethiopia",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-PESA Ethiopia",
+       "country_label": "ETH",
+       "class": "retail",
+       "platform": "",
+       "owner": "Safaricom Ethiopia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

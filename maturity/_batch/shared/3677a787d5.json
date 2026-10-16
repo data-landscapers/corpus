@@ -1,0 +1,12 @@
+{"slug": "2026-07-24-lepaystchad-3000-terminaux-paiement-electronique-patn", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Consumer protection law improvement is listed only as a general PATN investment, with no rule drafted or in force stated."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Terminals are for state revenue counters; no mobile money or retail service described."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The Chad finance ministry received 3,000 smart electronic payment terminals on 24 July 2026, supplied by the World Bank under the PATN project, to modernise public revenue collection; no deployment schedule is stated.", "as_of": "2026-07-24", "date_precision": "day", "system": "PATN electronic payment terminals", "class": "revenue"}
+], "systems": [{"system": "PATN electronic payment terminals", "country_label": "Chad", "class": "revenue", "platform": "", "owner": "Ministry of Finance, funded by the World Bank", "tiers": ""}], "note": ""}}}
+}}

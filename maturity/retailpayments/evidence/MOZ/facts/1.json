@@ -1,0 +1,78 @@
+{
+ "slug": "2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique had more than 25 million digital mobile wallet accounts at the start of 2026 and three electronic money institutions, M-Pesa, e-Mola and M-Kesh, owned by the three mobile operators.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "M-Pesa, e-Mola, M-Kesh",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Bank of Mozambique attributes growth partly to interoperability between electronic money institutions, banks, microbanks and other payment service providers through SIMOrede.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SIMOrede",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Metix, in production since March 2026 and run by SIMO, integrates banks, microbanks and electronic money institutions, with participation by digital wallet operators mandatory, and processes over 11,000 transfers a day.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Metix",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Metix",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "SIMO",
+   "tiers": ""
+  },
+  {
+   "system": "SIMOrede",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "SIMO",
+   "tiers": ""
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "M-Kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

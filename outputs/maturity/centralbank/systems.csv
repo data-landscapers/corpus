@@ -1,0 +1,401 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,SPTR,Angola,oversight,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,EMIS,Angola,other,,EMIS (interbank services company),,2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais
+AGO,Sistema de Transferencias Instantaneas (STI),Angola,other,KWiK,EMIS,,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade
+AGO,BAI-Visa agreement,Angola,other,Visa,BAI,,2026-09-24-targeting-bai-visa-digital-payments-angola
+BDI,Automated Transfer System (ATS),Burundi,oversight,ISO 20022,Bank of the Republic of Burundi,,2026-02-05-burundi-upgrades-payment-system-iso-20022
+BDI,BurundiPay,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
+BDI,East African Payment System,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
+BDI,Burundi Pay,Burundi,oversight,national instant payment system,Bank of the Republic of Burundi,,2026-08-19-theeastafrican-burundi-eaps-december-2026
+BDI,East African Payment System (EAPS),Burundi,other,regional payment system,EAC central banks,,2026-08-19-theeastafrican-burundi-eaps-december-2026
+BDI,BurundiPay,Burundi,other,,Bank of the Republic of Burundi,"78 licensed participants, 30 integration-tested, 17 live",2026-08-06-burundi-burundipay-instant-payment-uptake-brb
+BDI,PAPSS,Burundi,other,,,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
+BDI,BurundiPay,Burundi,oversight,instant payment system,BRB,,2026-05-08-brb-interoperabilite-paiements-papss
+BDI,BurundiPay,Burundi,oversight,"national instant payment system, ISO 20022, USSD",Banque de la Republique du Burundi,"banks, microfinance, payment service providers",2026-04-28-burundipay-real-time-payments-platform-wearetech
+BDI,BurundiPay,Burundi,oversight,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
+BDI,BurundiPay,Burundi,oversight,,Banque de la Republique du Burundi,,2026-04-23-brb-lancement-burundipay
+BDI,National switch,BDI,oversight,,,,2025-09-29-burundi-digital-payments-growth-cash-dominates
+BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
+BEN,PI-SPI,Benin,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pi-spi
+BEN,PI-SPI,Benin,other,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
+BEN,MTN Mobile Money,Benin,other,,MTN,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
+BFA,PI-SPI,Burkina Faso,oversight,BCEAO,BCEAO,,2025-10-01-uemoa-pi-spi-bceao-operationnel
+BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
+BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
+BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+BFA,PI-SPI,UEMOA,other,,BCEAO,,2026-07-07-bceao-prolonge-delais-pi-spi
+BFA,PI-SPI,Burkina Faso,other,WAEMU instant payment platform,BCEAO,,2026-03-08-pi-spi-neuf-banques-autorisees-burkina
+BWA,National Payments Switch,Botswana,oversight,,Bank of Botswana,,2025-07-29-national-payments-switch-act-drafted
+BWA,Electronic Payment Services Regulations (amended 2026),Botswana,oversight,,Bank of Botswana,,2026-07-29-botswana-bank-of-botswana-electronic-money-regulations
+BWA,"Electronic Payment Services (Amendment) Regulations, 2026",BWA,oversight,,Bank of Botswana,tiered merchant and KYC framework,2026-07-17-bank-of-botswana-eps-amendment-regulations-2026-press-release
+BWA,Bank of Botswana Regulatory Sandbox,Botswana,other,Bank of Botswana Fintech Portal,Bank of Botswana,,2026-03-04-bank-of-botswana-regulatory-sandbox-call-for-applications
+CAF,GIMACPAY,Central African Republic,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+CAF,GIMACPAY,Central African Republic,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+CAF,PAPSS,Central African Republic,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+CAF,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+CAF,PAPSS,CEMAC (via BEAC),other,cross-border settlement,Afreximbank,,2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews
+CAF,PAPSS,CEMAC (via BEAC),other,cross-border settlement,Afreximbank,,2026-07-09-beac-rejoint-papss-cemac
+CAF,PAPSS,Central African Republic,other,,Afreximbank,,2026-07-08-beac-joins-papss
+CIV,PI-SPI,UEMOA,oversight,instant payment platform,BCEAO,"banks, microfinance, e-money, payment institutions",2026-05-06-uemoa-interoperabilite-paiements-obligatoire-fratmat
+CIV,Peya Pay,CIV,other,,Djogana Pay,,2025-09-26-monnaie-electronique-4e-etablissement-djogana-pay-fratmat
+CIV,PI-SPI,WAEMU,other,interoperable instant payment platform,BCEAO,,2026-10-08-xwa-bceao-communique-connexion-tresors-publics-pi-spi
+CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+CMR,COBAC,Cameroun,oversight,,COBAC,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
+CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+CMR,PAPSS,Cameroon,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+CMR,Gimacpay,Cameroon,other,Gimac interbank platform,Gimac,"53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators",2025-10-20-lejour-gimacpay-600bn-fcfa-transactions
+CMR,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+CMR,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+CMR,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+COD,PAPSS,Democratic Republic of the Congo,other,,Afreximbank,,2026-09-22-cod-standard-drc-joins-papss
+COD,PAPSS,PAPSS,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
+COD,EAC currency convertibility MoU,EAC central banks MoU,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
+COD,Switch Mosolo,DR Congo,oversight,,Central Bank of Congo (oversight),"banks, microfinance institutions, e-money institutions, fintechs",2026-09-14-cod-bankable-microfinance-switch-mosolo-dollar-cash-ban
+COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
+COD,BCC switch monetique national,DRC,oversight,,Banque centrale du Congo,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
+COD,Paycode Fintech Congo platform,DRC,other,,Paycode Fintech Congo,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
+COD,Mosolo card,DRC,other,,,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
+COG,ARTF digital platform and TPE terminals,Congo,other,electronic payment terminals,ARTF,,2026-10-08-cog-adiac-artf-terminaux-paiement-2027
+COG,GIMACPAY,Congo,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+COG,GIMACPAY,Congo,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+COG,PAPSS,Congo,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+COG,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
+COM,KomorPay (ATS),COM,other,ACH and RTGS,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,Komor Switch,COM,other,,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,Mali Ya Wakazi,COM,other,bank agent network,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,KomorPay,Comoros,oversight,interbank payment system (ATS),Banque centrale des Comores,banks,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Komor Switch,Comoros,oversight,"card switch, World Bank supported",Banque centrale des Comores,banks,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Mali Ya Wakazi,Comoros,other,agent banking,Banque centrale des Comores,agents,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Komor Switch,Comoros,oversight,national switch,Banque Centrale des Comores,banks and mobile money,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,KomorPay,Comoros,oversight,interbank transfer system,Banque Centrale des Comores,banks,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,Mali Ya Wakazi,Comoros,other,bank agent network,Banque Centrale des Comores,agents,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,ATS+ (Automated Transfer System Plus),COM,other,,Banque Centrale des Comores,,2026-02-26-world-bank-icr-comoros-financial-inclusion-project
+COM,PayLogic interoperable payment switch,Comoros,oversight,PayLogic,,,2025-02-20-comoros-paylogic-payment-switch-award-wearetech
+COM,PAPSS,Comoros,oversight,Pan-African Payment and Settlement System,Afreximbank / African Union,,2024-08-23 Central Bank of Comoros commences PAPSS implementation
+CPV,SPEED,Cabo Verde,other,instant transfers,Banco de Cabo Verde,,2025-12-07-cabo-verde-bcv-anuncia-speed-transferencias-instantaneas
+CPV,SGDL,CPV,other,,Banco de Cabo Verde,,2025-09-24-cabo-verde-bcv-relatorio-sistema-pagamentos-2024
+CPV,SICIL,CPV,other,,,,2025-09-24-cabo-verde-bcv-relatorio-sistema-pagamentos-2024
+CPV,Vinti4,CPV,other,,SISP,,2025-09-24-cabo-verde-bcv-relatorio-sistema-pagamentos-2024
+CPV,STII,CPV,other,open-source interoperable software,Banco de Cabo Verde; SISP future operator,,2025-09-24-cabo-verde-bcv-relatorio-sistema-pagamentos-2024
+CPV,SICIL (Sistema Integrado de Compensação Interbancária e Liquidação),Cabo Verde,oversight,,"Banco de Cabo Verde, operated by SISP","cheques, credit transfers, cards",2025-01-01-bcv-sistema-de-pagamentos
+CPV,SGDL,Cabo Verde,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
+CPV,SIGMA,Cabo Verde,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
+DJI,PAPSS,Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
+DJI,Système de Règlement Automatisé de Djibouti (SYRAD),Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
+DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+DZA,Djezzy Payment Services,Algeria,other,,Optimum Telecom Algerie,,2026-09-24-dza-ecotimesdz-djezzy-payment-services-psp
+DZA,Djezzy Payment Services,Algeria,other,,Optimum Telecom Algerie,,2026-09-24-dza-leprovincial-djezzy-payment-services-psp
+DZA,GIE Monétique,Algeria,other,,,,2026-10-01-dza-algerie-eco-gie-monetique-23-millions-cartes-126000-tpe
+DZA,GIE Monetique,Algeria,other,,,,2026-08-22-alger16-h1-2026-epayment-indicators
+DZA,Conseil national des paiements,Algeria,oversight,coordination council,Bank of Algeria,,2026-08-20-elmoudjahid-gie-monetique-benchabla-interview
+DZA,GIE Monétique,Algeria,other,national mobile switch,GIE Monétique,,2026-02-18-algerie-paiements-electroniques-939-milliards
+DZA,PAPSS,Algeria,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
+DZA,Domestic instant payment system,Algeria,other,instant switch,Bank of Algeria / CPI,in preparation,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
+DZA,DZ MOB PAY,Algeria,other,mobile wallet app,,,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
+EGY,Instant Payment Network (IPN),Egypt,oversight,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
+EGY,PAPSS,Egypt,oversight,,Afreximbank,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
+EGY,Meeza,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
+EGY,InstaPay,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
+EGY,PAPSS,Egypt,other,PAPSS,Afreximbank,,2026-09-19-aacb-papss-board-egyptian-participation-businessmeneg
+EGY,PAPSS,Egypt,other,PAPSS,Afreximbank,,2026-09-19-papss-14th-governing-council-nairobi-dailynewsegypt
+EGY,PAPSS,Egypt,other,,,,2026-09-19-papss-14th-governing-council-nairobi-sisgov
+EGY,Instapay,EGY,oversight,,Central Bank of Egypt,,2026-09-09-ahram-papss-instapay-egypt-cross-border-link
+EGY,Instant Payment Network (IPN),EGY,oversight,,,,2026-09-09-ahram-papss-instapay-egypt-cross-border-link
+EGY,PAPSS,EGY,oversight,,,,2026-09-09-ahram-papss-instapay-egypt-cross-border-link
+EGY,Digital Financial Identity Platform (eKYC),Egypt,other,,Central Bank of Egypt,,2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations
+EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,CBE Rules for Licensing and Registration of Payment System Operators and Payment Service Providers,Egypt,oversight,,Central Bank of Egypt,,2025-09-01-cbe-governance-internal-control-fit-and-proper-payment-institutions
+ETH,Instant Payment System,Ethiopia,other,,National Bank of Ethiopia,,2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030
+ETH,ZooryaPay,Ethiopia,other,ETTA Solutions,ETTA Solutions PLC,PSO licence,2026-10-07-eth-capital-visa-etta-contactless-devices
+ETH,National switch,Ethiopia,other,,,,2026-10-07-eth-capital-visa-etta-contactless-devices
+ETH,EthSwitch,Ethiopia,oversight,,,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
+ETH,Unified Government Payment Platform,Ethiopia,other,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
+GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+GAB,MaDigiPaie,Gabon,other,,,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+GAB,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+GAB,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+GAB,PAPSS,Gabon,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+GAB,GIMAC QR code,GAB,other,GIMAC,,,2026-03-01-gabon-madigipaie-taxigab
+GAB,MaDigiPaie,Gabon,other,GIMACPAY QR,Government of Gabon with BEAC / GIMAC,,2025-12-11-gabon-madigipaie-digital-payments-launch
+GAB,Gimac QR code,Gabon,other,Gimac,Gimac,,2025-06-17-gabon-payments-interoperability-gimac
+GAB,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+GAB,MaDigiPaie,Gabon,other,GIMACPAY QR,BEAC / GIMAC,,2025-12-09-gimac-madigipaie-lancement-libreville
+GHA,Enhanced Payment Service Provider licence,Ghana,oversight,licence,Bank of Ghana,enhanced,2026-09-09-techcabal-dlocal-ghana-epsp-licence
+GHA,PAPSS,Ghana,oversight,,,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
+GHA,Licence Passporting Framework,Ghana,other,,Bank of Ghana and National Bank of Rwanda,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
+GHA,PAPSS,Ghana,oversight,,Afreximbank,,2026-10-13-gha-gna-bog-cross-border-payment-pilots-rwanda-nigeria
+GHA,SaoPay,Ghana,other,,SaoPay,DEMI,2026-10-07-gha-bog-governor-remarks-saopay-launch
+GHA,FICSOC,Ghana,other,,Bank of Ghana,,2026-10-07-gha-bog-governor-remarks-saopay-launch
+GHA,Mobile money,Ghana,other,,,,2026-09-24-gha-myjoyonline-mobile-money-transactions-gh3-8trn
+GIN,WARDIP,Guinea,other,legal reform project,BCRG / World Bank,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,RTGS,Guinea,other,gross settlement,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,PAPSS,Guinea,other,Afreximbank,Afreximbank,no transactions yet,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,national switch (GuiM),Guinea,other,national switch being finalised,Guineenne de Monetique,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
+GIN,NimbaPay,Guinea,oversight,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
+GIN,NimbaPay,Guinea,oversight,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
+GIN,NimbaPay,Guinea,other,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
+GIN,NimbaPay,Guinea,other,,"Guineenne de la Monetique (GuiM), under the BCRG",,2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
+GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-22-mediaguinee-nimbapay-lancement
+GIN,NimbaPay,Guinea,other,,BCRG,"banks, e-money institutions, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,Orange Money Pro,Guinea,other,,Orange Finance Mobile Guinee,,2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-26-guinee-aguiduten-salue-lancement-nimbapay
+GMB,BANTABA 2.0,The Gambia,oversight,Mojaloop,Gamswitch,,2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee
+GMB,National Payment Systems Advisory Committee (NPSAC),The Gambia,other,,Central Bank of The Gambia,,2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee
+GMB,PAPSS,Gambia,other,pan-African payment and settlement system,Pan-African Payment and Settlement System,,2026-04-01-papss-list-of-live-commercial-banks-april-2026
+GMB,BANTABA 2.0,The Gambia,other,Mojaloop,Gamswitch,,"2025-12-15 Gambia launches BANTABA 2.0, first real-time interoperable payment system"
+GMB,BANTABA 2.0,The Gambia,other,Mojaloop,Gamswitch,,2025-12-15-gamswitch-iidia-gambia-launches-bantaba-2-0-interoperable-payment-system
+GMB,Gamswitch,Gambia,oversight,"RTGS, ACH",Central Bank of The Gambia,,2024-10-01-dpi-map-gambia-country-profile
+GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+GNB,Intouch Guinee-Bissau,Guinea-Bissau,other,,,,2026-06-29-cb-umoa-liste-etablissements-agrees-guinee-bissau
+GNB,Finances Mobiles Bissau,Guinea-Bissau,other,,,,2026-06-29-cb-umoa-liste-etablissements-agrees-guinee-bissau
+GNB,INTOUCH Guinée-Bissau SARL,Guinée-Bissau,other,,,,2025-09-15-bceao-liste-etablissements-paiement-agrees-umoa
+GNB,BCEAO regional payments architecture,Guinea-Bissau,oversight,RTGS and automated clearing,BCEAO,,2026-04-10-fintechtimes-guinea-bissau-fintech-landscape
+GNB,PI-SPI,Guinea-Bissau,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
+GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+GNB,PI-SPI,Guinea-Bissau,oversight,,BCEAO,,2026-03-05-instant-payments-pi-spi-waemu-bceao
+GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
+GNB,PI-SPI,UEMOA,other,Plateforme interopérable du Système de paiement instantané,BCEAO,"banks, e-money, payment and microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
+GNQ,GIMACPAY,Equatorial Guinea,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+GNQ,GIMACPAY,Equatorial Guinea,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+GNQ,PAPSS,Equatorial Guinea,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+GNQ,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+GNQ,PAPSS,Equatorial Guinea,other,,Afreximbank,,2026-07-08-beac-joins-papss
+KEN,National Payment System Act Cap. 491A,National Payment System Act,other,,,,2026-09-21-ken-cbk-draft-nps-policy-and-bill-2026-consultation
+KEN,PesaLink,Kenya,other,instant bank-to-bank switch,Integrated Payment Systems Limited (Kenya Bankers Association),,2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w
+KEN,Mobile money,Kenya,other,,,,2026-09-24-kenya-kenswitch-domestic-card-scheme
+KEN,Kenswitch Card,Kenya,other,,Kenswitch,,2026-09-24-kenya-kenswitch-domestic-card-scheme
+KEN,PAPSS,Kenya,other,,,,2026-09-20-papss-im-bank-kenya-go-live-techreviewafrica
+KEN,PAPSS,Kenya,oversight,,Afreximbank,,2026-09-17-ken-tech-ish-papss-growth-pesalink-termination-switch
+LBR,IIPS (Pay Na-Na),Liberia,other,Mojaloop,Central Bank of Liberia,,2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025
+LBR,National Electronic Payment Switch (NEPS),Liberia,other,,Central Bank of Liberia,,2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025
+LBR,NEPS/IIPS (National Electronic Payment Switch / Inclusive Instant Payment System),LBR,oversight,,Central Bank of Liberia,,2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips
+LBR,Inclusive Instant Payment System (IIPS),Liberia,other,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
+LBR,National Electronic Payment Switch,Liberia,other,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
+LBR,RTGS,Liberia,other,,Central Bank of Liberia,,2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion
+LBR,Automated Clearing House,Liberia,other,,Central Bank of Liberia,,2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion
+LBR,National Electronic Payment Switch,Liberia,other,ModaLoop,Central Bank of Liberia,,2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion
+LBR,Liberia Interbank Payment and Settlement Systems,Liberia,other,,Central Bank of Liberia,,2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion
+LBR,instant payment system,Liberia,other,,Central Bank of Liberia,,2026-08-16-africanenda-liberia-instant-payment-system-73-days-webinar
+LBR,Inclusive Instant Payments System (Pay Na-Na),Liberia,other,interoperable P2P mobile money,Central Bank of Liberia,"1.0% up to US$2,000; flat fee up to US$25 above",2026-08-05-africas-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems
+LBR,National Switch,Liberia,oversight,,Central Bank of Liberia,,2026-07-28-liberian-observer-24-hour-digital-economy-national-switch
+LBR,Pay Na-Na,Liberia,other,,,,2026-07-13 Liberia Expands Digital Finance
+LBR,IIPS (Pay Na-Na),Liberia,other,Mojaloop,Central Bank of Liberia,,2025-12-17-cbl-launches-iips-mobile-money-silos-fpa
+LBR,National Electronic Payment Switch (NEPS),Liberia,other,,,,2025-12-17-cbl-launches-iips-mobile-money-silos-fpa
+LBY,LYPay,Libya,other,instant payment service,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
+LBY,OnePay,Libya,other,instant payment service,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
+LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
+LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
+LBY,LYPay,Libya,other,instant payment system in banking apps,Central Bank of Libya,,2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald
+LBY,LYPay,Libya,other,,Central Bank of Libya,,2024-12-26-cbl-instant-payment-services-statistics
+LBY,OnePay,Libya,other,,Central Bank of Libya,,2024-12-26-cbl-instant-payment-services-statistics
+LBY,Circular 9/2026,Libya,oversight,,Central Bank of Libya,,2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls
+LBY,Moamalat,Libya,other,,,,2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls
+LSO,LeSwitch,Lesotho,other,national payment switch,Central Bank of Lesotho,,2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)
+LSO,LeSwitch,Lesotho,oversight,national payment switch,Central Bank of Lesotho and commercial banks,instant payments and card streams,2025-05-14-leswitch-pos-financial-inclusion-lestimes
+LSO,LeSwitch,Lesotho,oversight,national payment switch,Central Bank of Lesotho with banks and PSPs,fast payments launched; card-stream switching in testing,2024-10-08 Lesotho National Payment Switch (LeSwitch) — Standard Lesotho Bank press release
+LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
+LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
+LSO,"Payment System Bill, 2025",Lesotho,oversight,bill,Ministry of Finance and Development Planning,,2026-05-05-lesotho-finance-minister-payment-system-bill
+LSO,Payment Systems Act 2014,Lesotho,oversight,act,Central Bank of Lesotho,,2026-05-05-lesotho-finance-minister-payment-system-bill
+LSO,mobile money,Lesotho,other,,,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
+LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
+MAR,SRBM,Morocco,oversight,gross settlement,Bank Al-Maghrib,,2026-01-01-bkam-financial-market-infrastructures-overview
+MAR,SIMT,Morocco,oversight,remote clearing,GSIMT,,2026-01-01-bkam-financial-market-infrastructures-overview
+MAR,Centre Monétique Interbancaire (CMI),Morocco,other,card processing platform,CMI and its shareholder banks,,2026-07-10-morocco-communique-conjoint-interchange-cap
+MAR,PAPSS,Morocco,oversight,,Afreximbank,,2025-07-07-papss-bank-al-maghrib-adhesion-17eme-pays-membre
+MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+MAR,PAPSS,Morocco,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
+MAR,Switch Al Maghrib interoperable mobile payment,Morocco,other,,Switch Al Maghrib,,2026-09-27-mar-instant-payment-mfc-talks
+MDG,Commission de supervision bancaire et financière (CSBF),CSBF,oversight,,BFM,,2026-06-11-bfm-audits-eme-2424-mg
+MLI,PI-SPI,Mali,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-liste-participants-pi-spi
+MLI,Orange Finances Mobiles Mali,Mali,other,mobile money,Orange,,2026-04-02-bceao-liste-participants-pi-spi
+MLI,GIM-UEMOA,Mali,other,regional switch,,,2023-11-29-worldbank-dfs-inclusion-growth-mali
+MLI,PI-SPI,Mali,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
+MLI,PI-SPI,MLI,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+MOZ,M-Pesa,Mozambique,other,mobile money,Vodacom,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,e-Mola,Mozambique,other,mobile money,Movitel,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,mKesh,Mozambique,other,mobile money,Tmcel,,2026-10-08-moz-pav-pawapay-licensed-psp
+MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,Metix,Mozambique,other,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,SIMOrede,Mozambique,other,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
+MOZ,METIX,Mozambique,oversight,instant payment system,Bank of Mozambique,"individual limit 200,000 MZN, legal entities 500,000 MZN daily",2026-03-16-central-bank-launches-metix-clubofmozambique
+MOZ,Instant Payment System (SPIM),Mozambique,oversight,instant payment switch,"Bank of Mozambique, operated by SIMO",,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
+MOZ,SPIM,Mozambique,oversight,,Sociedade Interbancária de Moçambique (SIMO),direct and indirect participation,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos
+MRT,MNBC,Mauritania,other,,Banque Centrale de Mauritanie,,2026-09-20-mrt-trustmag-bcm-fintech-monnaie-numerique
+MRT,Stratégie Nationale de Paiement Numérique,Mauritanie,other,,Banque Centrale de Mauritanie,,2026-09-06-bcm-strategie-nationale-paiement-numerique
+MRT,"Conseil des Systemes de Paiement, de Compensation et de Reglement des Titres",Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres
+MRT,Systeme National de Paiement,Mauritania,other,,Banque Centrale de Mauritanie,,2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres
+MRT,Stratégie Nationale de Paiement Numérique 2023-2028,Mauritania,other,,Banque Centrale de Mauritanie,,2024-09-12-bcm-strategie-nationale-paiement-numerique-2023-2028
+MRT,Telecompensation,Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr
+MRT,Real-time large-value transfer system,Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr
+MRT,Telecompensation,Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-04-13-pamif-financial-inclusion-afdb
+MRT,Real-time large-value transfer system,Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-04-13-pamif-financial-inclusion-afdb
+MRT,GIMTEL interconnection,Mauritania,oversight,interbank switch for bank apps and e-wallets,GIMTEL,"BreadCash, Bamis Digital, BCI Pay, Bankili, Amanti, Sedad, Qlik joined; others in testing",2024-10-14-gimtel-interbank-transactions-launch
+MUS,MauCAS,Mauritius,oversight,,Bank of Mauritius,,2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience
+MUS,MACSS,Mauritius,oversight,,Bank of Mauritius,,2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience
+MUS,REPSS,Mauritius,oversight,,COMESA,,2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience
+MWI,National Switch,Malawi,other,,Reserve Bank of Malawi,,2026-04-16-rbm-national-payments-strategy-2026-2030-itweb
+MWI,Malawi Interbank Transfer and Settlement System,Malawi,other,,Reserve Bank of Malawi,,2026-04-16-rbm-national-payments-strategy-2026-2030-itweb
+MWI,Malswitch,Malawi,other,,,,2025-06-17-paychangu-centenary-instant-bank-transfer-malswitch-malawi24
+MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,Airtel Money,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
+MWI,Digital Retail Payments Platform,Malawi,other,COMESA DRPP,COMESA,"banks, fintechs, mobile-money operators","2025-10-13 Comesa payment system connects Malawi, Zambia"
+MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
+NAM,Instant Payment Programme,Namibia,oversight,,Bank of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,NISS,Namibia,other,ISO 20022,,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Instant Payment Solution (IPS),Namibia,oversight,,Bank of Namibia,,2026-07-29-namibia-launches-instant-payments-system
+NAM,"Payment System Management Act, 2023 (Act No. 14 of 2023)",Namibia,oversight,,Bank of Namibia,,2026-01-01-bon-nps-vision-strategy-2030
+NAM,"National Payment System (Payment System Management Act, 2023)",NAM,oversight,,Bank of Namibia,,2026-07-03-namibia-psd-12-cybersecurity-standards-gazette-8968
+NAM,Instant Payment Solution (IPS),IPS,oversight,Instant Payment Platform with NPCI International technology,"Instant Payment Namibia, under Bank of Namibia",,2026-06-15-fact-sheet-namibias-instant-payment-solution-ips
+NAM,"Payment System Management Act, 2023",Namibia,oversight,,Bank of Namibia,,2026-01-06-bon-psd-1-licensing-payment-service-providers
+NAM,PSD-1,Namibia,oversight,,Bank of Namibia,,2026-01-06-bon-psd-1-licensing-payment-service-providers
+NAM,Instant Payments Namibia,Namibia,oversight,,,,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate
+NAM,PAPSS,Namibia,other,continental payment system,"Afreximbank, AU Commission, AfCFTA Secretariat",Namibia not yet live,2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)
+NER,PI-SPI,Niger,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pispi-communique
+NER,STAR-UMOA,UMOA,oversight,,BCEAO,,2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques
+NER,SICA-UMOA,UMOA,oversight,,BCEAO,,2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques
+NER,SAGETIL-UMOA,UMOA,oversight,,BCEAO,,2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques
+NER,PI-SPI,UMOA,oversight,instant payment interoperability,BCEAO,,2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques
+NER,PI-SPI,Niger,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
+NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NGA,Payment Service Banks,Nigeria,oversight,,Central Bank of Nigeria,,2026-10-06-techcabal-airtel-money-ipo-nigeria-smartcash
+NGA,PAPSS,Nigeria,oversight,,,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
+NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
+NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
+NGA,PAPSS,NGA,oversight,,,,2026-09-08-thesun-papss-nigeria-fintechs-payment-integration
+NGA,PAPSS,,oversight,,Afreximbank,,2026-09-07-nigeriaworks-papss-ogbalu-briefing-notes
+NGA,TeamApt,Nigeria,other,"switching and processing, Mastercard acquiring",Moniepoint Inc.,,2026-08-13-nigeria-teamapt-mastercard-network-access
+RWA,RSwitch,Rwanda,other,,,,2026-08-29-eac-rwanda-tanzania-cybersecurity-instant-payments
+RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
+RWA,Licence Passporting Framework,Rwanda,other,,Bank of Ghana and National Bank of Rwanda,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
+RWA,e-Kash,Rwanda,other,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
+RWA,eKash,Rwanda,oversight,national instant payment system,,,2026-09-10-rwa-ktpress-bnr-cashless-campaign-92-percent-cash
+RWA,eKash,Rwanda,other,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
+SDN,"Financial switch operators (Bright Technologies, Al-Asjad, Nahda, SudaPost)",SDN,oversight,,licensed by Central Bank of Sudan,,2026-07-04-cbos-revokes-al-asjad-payment-switch-licence
+SDN,PAPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
+SDN,COMESA REPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
+SDN,Buna,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
+SDN,Bede wallet,Sudan,other,,Bede Sudan (Zain),,2026-10-13-sdn-sudanhorizon-bede-bban-service-launch
+SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
+SDN,USSD financial services,Sudan,oversight,USSD,Central Bank of Sudan,,2026-03-31-cbos-ussd-financial-services-regulations
+SEN,PI-SPI,Senegal,oversight,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
+SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,PI-SPI,SEN,oversight,,BCEAO,,2025-09-26-bceao-liste-participants-pi-spi-lancement-30-septembre-2025
+SEN,PI-SPI,Senegal,other,,BCEAO,,2026-10-10-osiris-sen-pi-spi-orange-money-bocoum
+SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
+SEN,PI-SPI,Senegal,oversight,,BCEAO,,2026-03-05-instant-payments-pi-spi-waemu-bceao
+SEN,Orange Money,Senegal,other,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
+SEN,Free Money,Senegal,other,mobile,Mobile Cash S.A.,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
+SEN,Wave,Senegal,other,mobile,Wave Digital Finance,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
+SLE,National Payments Strategy,Sierra Leone,oversight,,Bank of Sierra Leone,,2026-07-23-rebuilding-financial-services-fintech-sierra-leone
+SLE,National Instant Payment Switch,Sierra Leone,oversight,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
+SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
+SOM,Somalia Instant Payment System (SIPS),Somalia,other,ISO 20022,Somalia Payment Switch (Central Bank and 13 banks),,2026-07-26-sonna-central-bank-one-payments-network
+SOM,National Payment System (RTGS),Somalia,other,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,SOMQR,Somalia,other,,Central Bank of Somalia,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,PAPSS,Somalia,other,,,,2026-07-26-sonna-central-bank-one-payments-network
+SOM,Somalia Instant Payment System (SIPS),Somalia,oversight,BPC SmartVista,"Somalia Payment Switch, under Central Bank of Somalia",,2025-03-25 Somalia taps BPC to launch first nationwide instant payment system
+SOM,Somalia Instant Payment System,Somalia,other,ISO 20022,Central Bank of Somalia,,2026-10-05-som-itweb-mobile-money-silos
+SOM,EVC Plus,Somalia,other,,Hormuud Telecom,,2026-10-05-som-itweb-mobile-money-silos
+SOM,Somali Instant Payment System (SIPS),Somalia,oversight,,Central Bank of Somalia,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,Somali Payment Switch,Somalia,oversight,,Central Bank of Somalia,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,SOMQR,Somalia,other,,Central Bank of Somalia,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,EVC Plus,Somalia,other,,Hormuud Telecom,,2026-09-20-som-hiiraan-osman-central-bank-digital-payments
+SOM,National Payment System Bill,Somalia,other,,Parliament of Somalia,,2026-01-11-somalia-upper-house-national-payment-system-bill-passed
+SOM,Somalia Instant Payment System (SIPS),Somalia,other,,Central Bank of Somalia,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,SOMQR,Somalia,other,,Central Bank of Somalia,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,"National Payment System (ACH, RTGS, IFT)",Somalia,oversight,,Central Bank of Somalia,,2026-01-01-somalia-cbs-national-payment-system
+SOM,Somali Payment Switch (SPS),Somalia,oversight,switch,Central Bank of Somalia,,2026-01-01-somalia-cbs-national-payment-system
+SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+SSD,National Instant Payment System,South Sudan,oversight,,Bank of South Sudan,,2025-02-05-africanenda-boss-nips-announcement
+SSD,Interbank Payment and Settlement System,South Sudan,other,,Bank of South Sudan,,2026-10-12-ssd-ramdiet-digital-payments-everyday-use
+SSD,Interbank Payment and Settlement System,South Sudan,oversight,,Bank of South Sudan,,2025-10-10-boss-launches-first-electronic-interbank-payment-system
+SSD,Real-Time Gross Settlement (RTGS),South Sudan,other,,Bank of South Sudan,,2026-05-20-rtgs-system-uptake-cajnews
+SWZ,MTN Fintech Limited,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,E-Mali (Pty) Ltd,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,Instacash Services,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,Shoprite mobile Money Services,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,DeltaPay,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,SAECH,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,SWIPSS,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
+SWZ,Eswatini Payment Switch,Eswatini,oversight,,Central Bank of Eswatini,,2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos
+SWZ,Eswatini Payment Switch,Eswatini,oversight,"national switch, fast payments",Central Bank of Eswatini,,2026-09-21-swz-observer-eswatini-payment-switch-live
+SWZ,Fast Payments,Eswatini,oversight,fast payments,Central Bank of Eswatini,,2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking
+SYC,SEFT,Seychelles,other,Seychelles Electronic Funds Transfer,,,2024-09-22 Seychelles to phase out cheques for financial transactions from 2025
+SYC,Fusepay,Seychelles,oversight,B2B payments platform,Fusepay,,2025-11-27-dabafinance-fusepay-preseed
+SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
+TCD,CEMAC/UMAC payment regulations,Chad,other,,BEAC,,2026-09-02-beac-registre-instructions-circulaires-reglements-paiement
+TCD,GIMACPAY,Chad,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+TCD,GIMACPAY,Chad,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+TCD,Moov Money Tchad,Chad,other,mobile money,Maroc Telecom (Moov Africa Tchad),,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
+TCD,Airtel Money,Chad,other,mobile money,,,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
+TCD,Konoom,Chad,other,,,,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
+TCD,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+TCD,Airtel Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Moov Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Konoom,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,Nita,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,GIMACPAY,TCD,other,,GIMAC,CEMAC,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
+TCD,PAPSS,Chad,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+TGO,PI-SPI,UEMOA,other,,BCEAO,,2026-04-14-mixx-togo-pi-spi-uemoa
+TGO,Mixx,Togo,other,,Yas Togo,,2026-04-14-mixx-togo-pi-spi-uemoa
+TGO,PI-SPI,Togo,oversight,Plateforme interopérable du système de paiement instantané,BCEAO,,2026-03-06-bceao-six-acteurs-pi-spi-togo
+TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
+TGO,PI-SPI,Togo,other,BCEAO instant payments platform,BCEAO,"banks, microfinance institutions, e-money issuers, payment service providers",2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks
+TGO,PI-SPI,UEMOA,other,,BCEAO,,2026-07-07-bceao-prolonge-delais-pi-spi
+TGO,PI-SPI,WAEMU / Togo,other,instant payment platform,BCEAO,"banks, e-money institutions, microfinance, payment institutions",2026-04-03-bceao-adhesion-pi-spi-30-juin
+TGO,PI-SPI,Togo,oversight,,,,2026-03-18-togo-comptes-monnaie-electronique-progression
+TGO,BCEAO instruction n° 001-01-2024,Togo,oversight,,BCEAO,three licence levels by capital,2026-02-17-techcabal-semoa-bceao-licence
+TUN,walletii by Ooredoo,Tunisia,other,digital wallet,Ooredoo Fintech,,2026-03-07-menastartupdigest-ooredoo-walletii-license
+TUN,Monétique,Tunisia,other,national electronic payments operator,,,2026-03-07-menastartupdigest-ooredoo-walletii-license
+TUN,SGMT,TUN,oversight,RTGS,BCT,,2026-09-03-bct-systemes-de-paiement
+TUN,SIBTEL,TUN,oversight,clearing,SIBTEL,,2026-09-03-bct-systemes-de-paiement
+TUN,Konnect,Tunisia,other,,,,2026-08-22-fintechtimes-tunisia-cash-and-code
+TUN,Paymee,Tunisia,other,,,,2026-08-22-fintechtimes-tunisia-cash-and-code
+TUN,OFT Tunisie,Tunisia,other,payment institution,Ooredoo FinTech International,,2026-03-16-la-presse-oft-tunisie-agrement-definitif-etablissement-paiement
+TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
+TUN,PAPSS,Tunisia,other,,,,2024-05-28-bct-note-2024-77-adhesion-papss
+TUN,Elyssa RTGS,Tunisia,other,,,,2024-05-28-bct-note-2024-77-adhesion-papss
+TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+TUN,PAPSS,Tunisia,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
+TUN,Circular 2026-10,Tunisia,oversight,,Central Bank of Tunisia,payment account Levels 1-3,2026-10-14-tun-africanmanager-bct-circular-2026-10-payment-limits
+TZA,TIPS,Tanzania,oversight,,,,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge
+TZA,TIPS,Tanzania,other,,Bank of Tanzania,,2026-07-10-eac-tanzania-rwanda-cross-border-payments
+TZA,TIPS,Tanzania,oversight,Tanzania Instant Payment System,Bank of Tanzania,,2026-04-28-interoperability-costs-cut-113-agencies
+TZA,TACH,Tanzania,oversight,Tanzania Automated Clearing House,Bank of Tanzania,,2026-04-28-interoperability-costs-cut-113-agencies
+UGA,EAPS,Uganda,oversight,,,,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%
+ZAF,National Payment System Act / proposed NPS Bill,South Africa,oversight,,SARB,,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange
+ZAF,PayInc,South Africa,oversight,automated clearing house,SARB (50%) and banks,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago
+ZAF,PayShap,South Africa,other,real-time payments,,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago
+ZAF,Pay Inc,South Africa,oversight,national payments utility,,,2026-09-10-techcabal-south-africa-payments-system-rebuild
+ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
+ZAF,PayShap,South Africa,other,Rapid Payments Programme,,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition
+ZAF,Payments Ecosystem Modernisation programme,South Africa,other,,National Treasury / Presidency,,2026-07-31-sa-operation-vulindlela-q1-2026-progress-report
+ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
+ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZMB,National Financial Switch,Zambia,oversight,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
+ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
+ZWE,RTGS,ZWE,other,,Reserve Bank of Zimbabwe,,2026-02-27-rbz-cuts-bank-charges-expands-zipit-limits
+ZWE,ZIPIT,ZWE,other,,,,2026-02-27-rbz-cuts-bank-charges-expands-zipit-limits
+ZWE,ZETSS (RTGS),Zimbabwe,other,RTGS,Reserve Bank of Zimbabwe,,2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025
+ZWE,Zimswitch,Zimbabwe,other,switch,,,2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025
+ZWE,UPI-based real-time payments system,Zimbabwe,other,NPCI International UPI technology,Reserve Bank of Zimbabwe,,2026-10-06-zimbabwe-eyes-indias-upi-tech-for-national-payments-network
+ZWE,RBZ mobile money directives,Zimbabwe,oversight,,Reserve Bank of Zimbabwe,,2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration
+ZWE,Zimswitch,Zimbabwe,other,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey
+ZWE,PAPSS,Zimbabwe,other,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey
+ZWE,ZimSwitch,Zimbabwe,other,,ZimSwitch,,2026-07-23-zimbabwe-electronic-transactions-top-zig1-trillion-zimswitch
+ZWE,ZimSwitch,ZWE,other,,,,2025-09-15-digital-finance-sector-explosive-growth

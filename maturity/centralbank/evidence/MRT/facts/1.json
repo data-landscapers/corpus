@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-20-mrt-trustmag-bcm-fintech-monnaie-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MNBC",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Banque Centrale de Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a CBDC proof-of-concept sandbox and bank-sector reform are stated; no payments mandate, licensing, switch or regional link."
+}

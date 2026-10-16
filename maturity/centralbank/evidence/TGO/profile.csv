@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TGO,centralbank,mandate,coverage,licensing,2026-04-14,TGO-001;TGO-010;TGO-012;TGO-013,,
+TGO,centralbank,switch,coverage,overseen,2026-06-24,TGO-002;TGO-004;TGO-006;TGO-007,,
+TGO,centralbank,regional,coverage,linked,2026-06-24,TGO-003;TGO-005;TGO-008;TGO-009;TGO-011,,

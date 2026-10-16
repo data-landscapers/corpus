@@ -1,0 +1,10 @@
+{"slug":"2026-03-01-gabon-madigipaie-taxigab","studies":{
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"GAB":{"facts":[],"systems":[{"system":"GIMAC QR code","country_label":"GAB","class":"other","platform":"GIMAC","owner":"","tiers":""}],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Security of transactions mentioned, no rules or redress."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"GIMAC network named but no cross-border use or participation stated."}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Ministry of Digital Economy launched digital payment in the TaxiGab network on 28 February 2026 under the Madigipaie programme, so riders pay by mobile money or bank app.","as_of":"2026-02-28","date_precision":"day","system":"Madigipaie","class":"retail"},{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"Through the interoperable GIMAC QR codes deployed for Madigipaie, TaxiGab users can pay by mobile money or banking app whatever their financial institution, per the ministry.","as_of":"2026-02-28","date_precision":"day","system":"Madigipaie (GIMAC QR)","class":"retail"}],"systems":[{"system":"Madigipaie","country_label":"GAB","class":"retail","platform":"GIMAC QR code","owner":"Ministry of Digital Economy","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Public services named only as a planned extension."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Sudan Times reports that RSF leader Mohamed Hamdan Dagalo ordered traders in RSF-controlled areas to charge one price whether customers pay cash or through apps such as Bankak, with violators facing accountability, where premiums for digital payment had reached about 40 percent.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "single-price directive",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-04-cbos-revokes-al-asjad-payment-switch-licence",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Sudan says it licenses electronic payment system services providers, and it revoked Al-Asjad's licence on review by a technical and legal committee.",
+   "as_of": "2026-07-04",
+   "date_precision": "day",
+   "system": "electronic payment system licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Financial switch operators (Bright Technologies, Al-Asjad, Nahda, SudaPost)",
+   "country_label": "SDN",
+   "class": "oversight",
+   "platform": "",
+   "owner": "licensed by Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

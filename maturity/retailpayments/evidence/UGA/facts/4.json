@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Electronic money transactions grew 28.6% to UGX 326 trillion in FY2024/25 per the Bank of Uganda report; MTN Uganda handles 40% of them.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MTN Uganda mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Uganda mobile money",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

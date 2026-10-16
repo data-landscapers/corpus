@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Cameroon has two licensed payment institutions, Orange Money Cameroun and Mobile Money Corporation (which runs MTN Mobile Money), per DGTCFM data updated July 2026, and mobile money had 30.99 million accounts in 2024 per BEAC.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Orange Money Cameroun; MTN Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money Cameroun",
+   "country_label": "Cameroun",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cameroun",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Mobile Money Corporation",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom Mobile Money",
+   "country_label": "Cameroun",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Konoom Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

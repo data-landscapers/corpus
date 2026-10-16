@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Addis Fortune reports that Telebirr reached its 40-millionth user in March 2026 and that mobile-money accounts exceeded 128.5 million by December 2024.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Coopay-Ebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Cooperative Bank of Oromia",
+   "tiers": ""
+  },
+  {
+   "system": "Amole",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Dashen Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

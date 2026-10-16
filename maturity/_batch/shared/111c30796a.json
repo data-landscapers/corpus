@@ -1,0 +1,18 @@
+{"slug": "2025-09-24-cabo-verde-bcv-relatorio-sistema-pagamentos-2024", "studies": {
+"businesspayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Report states nothing on public e-procurement."}}},
+"centralbank": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The Banco de Cabo Verde continued in 2024 its revision of the legal framework for payment services and the issuance of electronic money, with changes to the earlier revision proposal.", "as_of": "2024", "date_precision": "year", "system": "Payment services and e-money legal framework", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "In 2024 the Banco de Cabo Verde operated the SGDL settlement system daily and followed daily the interbank clearing systems making up the SICIL, completing assessments of financial market infrastructures.", "as_of": "2024", "date_precision": "year", "system": "SICIL", "class": "oversight"}
+], "systems": [
+{"system": "SGDL", "country_label": "CPV", "class": "other", "platform": "", "owner": "Banco de Cabo Verde", "tiers": ""},
+{"system": "SICIL", "country_label": "CPV", "class": "other", "platform": "", "owner": "", "tiers": ""},
+{"system": "Vinti4", "country_label": "CPV", "class": "other", "platform": "", "owner": "SISP", "tiers": ""},
+{"system": "STII", "country_label": "CPV", "class": "retail", "platform": "open-source interoperable software", "owner": "Banco de Cabo Verde; SISP future operator", "tiers": ""}
+], "note": ""}}},
+"consumerprotection": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Report excerpt states nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Report excerpt states nothing on cross-border digital payments."}}},
+"g2ppayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Report excerpt states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The 81.5% figure counts residents with a bank account from account records by tax number, not a survey of adults."}}},
+"retailpayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No mobile money or e-money service in service is stated; the STII instant-payment pilot is not a mobile money service."}}},
+"revenuecollection": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Report excerpt states nothing on tax or fee payment."}}}
+}}

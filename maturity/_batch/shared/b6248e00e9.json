@@ -1,0 +1,257 @@
+{
+ "slug": "2026-07-27-somalia-expand-instant-payment-system-hiiraan",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Somalia says the Somalia Instant Payment System, launched January 2025 and operated by the Somalia Payment Switch, a partnership of the Central Bank and 13 commercial banks, links banks.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "SIPS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Central Bank says SIPS supports government disbursements to citizens.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "SIPS",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Central Bank says mobile money operators serve most Somalis in their daily financial transactions.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Central Bank says SIPS supports payments to government.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "SIPS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIPS",
+       "country_label": "Somalia",
+       "class": "retail",
+       "platform": "ISO 20022",
+       "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+       "tiers": ""
+      },
+      {
+       "system": "SOMQR",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "QR code standard",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "2026-08-16-chinese-yuan-africa-cips-payment-network",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "China's Cross-Border Interbank Payment System",
+       "owner": "PBoC",
+       "tiers": ""
+      }
+     ],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libyan banks are only set to join CIPS, not in service, and it is not a regional system."
+    }
+   }
+  }
+ }
+}

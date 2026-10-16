@@ -1,0 +1,17 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "crossborder",
+   "stage": "2",
+   "corridor": "underway",
+   "regional": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001",
+   "gaps": "No source held since October 2023 says: is a corridor in service.",
+   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+  }
+ ]
+}

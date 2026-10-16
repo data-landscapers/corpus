@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-18-pata-polele-digitalisation-paiements-ndjonisango",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Pata Polele, an application to collect administrative fees (mini-recettes) in about twenty ministries, was in a 14-16 April 2026 implementation workshop with the Justice, Finance and Interior ministries as pilot structures, per the Finance ministry's revenue mobilisation mission head.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Pata Polele",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pata Polele",
+       "country_label": "CAF",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Finance and Budget",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

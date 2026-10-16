@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The National Single Network (National Switch) has been operated by SIMOrede since 2023 under the supervision and control of the Bank of Mozambique.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "National Single Network (National Switch)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-07-zig-legal-tender-why-cant-you-use-online",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Per the article, ZIPIT and mobile money are in use, EcoCash is accepted through Paynow, and the RBZ raised their per-transaction limit from ZiG 8,000 to ZiG 13,000 in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "ZIPIT / EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIPIT",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EcoCash",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Zimswitch",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

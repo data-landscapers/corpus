@@ -1,0 +1,9 @@
+{"slug":"2024-05-06 Airtel launches mobile money transfers in Chad","studies":{
+"businesspayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Registration ID and password are a provider's own controls, not rules."}}},
+"crossborderpayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Only domestic transfers described."}}},
+"g2ppayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"paymentsuptake":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"TCD":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Communications Africa reports Bharti Airtel launched Airtel Money in Chad with Ecobank Transnational, letting customers send money, pay bills and buy goods from their phones.","as_of":"2024-05-06","date_precision":"day","system":"Airtel Money","class":"retail"}],"systems":[{"system":"Airtel Money","country_label":"Chad","class":"retail","platform":"","owner":"Airtel Chad","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Bill payments named are electricity, water and tuition, not state revenue."}}}}}

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nita",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GIMACPAY",
+   "country_label": "TCD",
+   "class": "other",
+   "platform": "",
+   "owner": "GIMAC",
+   "tiers": "CEMAC"
+  }
+ ],
+ "note": "The document states nothing on this study for Chad."
+}

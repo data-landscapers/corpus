@@ -1,0 +1,10 @@
+{"slug":"2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"No payment to people stated."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Terminals are for municipal collection, not person-to-person payments."}}},
+"revenuecollection":{"countries":{"NER":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Niamey city administrator received 100 electronic payment terminals from the Programme Village Intelligent to ease taxpayer payments and speed up collection of public funds, per Journal du Niger.","as_of":"2025-08-21","date_precision":"day","system":"Terminaux de paiement electronique (TPE), Programme Village Intelligent","class":"revenue"}],"systems":[{"system":"Terminaux de paiement electronique (TPE)","country_label":"Niger","class":"revenue","platform":"","owner":"Ville de Niamey / Programme Village Intelligent","tiers":""}],"note":""}}}
+}}

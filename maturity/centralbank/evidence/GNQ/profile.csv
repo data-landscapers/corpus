@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNQ,centralbank,mandate,coverage,licensing,2023-11,GNQ-004,,
+GNQ,centralbank,switch,coverage,overseen,2023-11,GNQ-005,,
+GNQ,centralbank,regional,coverage,linked,2026-07-29,GNQ-001;GNQ-002;GNQ-003;GNQ-006;GNQ-007;GNQ-008;GNQ-009,,

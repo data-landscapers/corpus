@@ -1,0 +1,22 @@
+{"slug": "2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques", "studies": {
+"businesspayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"NER": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "BCEAO says it set up the PI-SPI instant-payment interoperability platform, allowing account-to-account transfers between different types of accounts across the UMOA, of which Niger is a member.", "as_of": "2026-09-15", "date_precision": "day", "system": "PI-SPI", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "BCEAO says it set up the regional payment systems STAR-UMOA, SICA-UMOA and SAGETIL-UMOA for the Union.", "as_of": "2026-09-15", "date_precision": "day", "system": "STAR-UMOA, SICA-UMOA, SAGETIL-UMOA", "class": "oversight"}
+], "systems": [
+{"system": "STAR-UMOA", "country_label": "UMOA", "class": "oversight", "platform": "", "owner": "BCEAO", "tiers": ""},
+{"system": "SICA-UMOA", "country_label": "UMOA", "class": "oversight", "platform": "", "owner": "BCEAO", "tiers": ""},
+{"system": "SAGETIL-UMOA", "country_label": "UMOA", "class": "oversight", "platform": "", "owner": "BCEAO", "tiers": ""},
+{"system": "PI-SPI", "country_label": "UMOA", "class": "oversight", "platform": "instant payment interoperability", "owner": "BCEAO", "tiers": ""}
+], "note": ""}}},
+"consumerprotection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Mentions user protection only as an aim of the fintech framework; no rule or redress stated."}}},
+"crossborderpayments": {"countries": {"NER": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "BCEAO says the UMOA payment infrastructure includes STAR-UMOA, SICA-UMOA and SAGETIL-UMOA and the PI-SPI instant-payment platform, regional systems of the Union that includes Niger.", "as_of": "2026-09-15", "date_precision": "day", "system": "STAR-UMOA, SICA-UMOA, SAGETIL-UMOA, PI-SPI", "class": "crossborder"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NER": {"facts": [], "systems": [], "note": "No survey share of adults."}}},
+"retailpayments": {"countries": {"NER": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "BCEAO says PI-SPI allows account-to-account transfers between different types of accounts in the UMOA, which had 81 e-money initiatives at the end of 2025.", "as_of": "2026-09-15", "date_precision": "day", "system": "PI-SPI", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Only a general remark that digitalisation improves public resource collection; no system stated."}}}
+}}

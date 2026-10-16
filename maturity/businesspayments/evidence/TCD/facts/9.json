@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-19-wearetech-konoom-paiements-numeriques-multicanal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Konoom",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "e-wallet app, web, USSD, WhatsApp",
+   "owner": "Konoom (private fintech)",
+   "tiers": ""
+  }
+ ],
+ "note": "Private fintech business payments, not government e-procurement."
+}

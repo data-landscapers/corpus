@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-17-cbl-launches-iips-mobile-money-silos-fpa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "FrontPage Africa says the Central Bank of Liberia spearheaded the launch of the Inclusive Instant Payment System, a nationwide mobile money interoperability platform, with the World Bank supporting a full National Electronic Payment Switch.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "IIPS (Pay Na-Na)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IIPS (Pay Na-Na)",
+   "country_label": "Liberia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "National Electronic Payment Switch (NEPS)",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

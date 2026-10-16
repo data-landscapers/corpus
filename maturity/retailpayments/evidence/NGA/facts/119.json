@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-nigeria-moniepoint-pos-investment-outlet",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports Nigeria has 5.9 million active PoS terminals, used 15.66 billion times in 2025 per CBN data, second only to internet payments at 21.11 billion.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "PoS terminals",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-26-lbr-finance-minister-washington-diaspora-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Lonestar MTN and Orange Liberia operate mobile-money platforms, which the Inclusive Instant Payment System connected from December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Inclusive Instant Payment System (IIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Inclusive Instant Payment System, launched December 2025, connects Lonestar MTN and Orange Liberia mobile money for real-time interoperability, and processed over 1.5 million transactions worth over L$1.4 billion and US$9 million in its first three months, per Finance Minister Ngafuan.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Inclusive Instant Payment System (IIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Inclusive Instant Payment System (IIPS)",
+   "country_label": "Liberia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "National Electronic Payment Switch",
+   "country_label": "Liberia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Government of Liberia",
+   "tiers": "planned"
+  }
+ ],
+ "note": ""
+}

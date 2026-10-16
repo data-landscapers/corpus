@@ -1,0 +1,10 @@
+{"slug": "2025-03-19 Madagascar - Orange Launches Mobile App (Orange Money Pro) for Business Transactions", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Orange Money Pro is a private merchant app, not public procurement."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No consumer protection rules or redress stated."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Madagascar introduced Orange Money Pro on 18 March 2025, a mobile money app for merchants and distributors offering QR-code payments and payment links, downloaded more than 10,000 times per Google Play.", "as_of": "2025-03-18", "date_precision": "day", "system": "Orange Money Pro", "class": "retail"}], "systems": [{"system": "Orange Money Pro", "country_label": "Madagascar", "class": "retail", "platform": "Android app", "owner": "Orange Madagascar", "tiers": "merchants, distributors"}], "note": ""}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

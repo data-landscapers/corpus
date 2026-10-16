@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "TechAfrica News reports on 9 July 2026 that BEAC, which serves the Republic of Congo among six CEMAC states, has officially joined PAPSS, with PAPSS working with BEAC through end 2026 to operationalise the membership.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

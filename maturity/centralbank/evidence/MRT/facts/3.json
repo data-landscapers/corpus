@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Conseil des Systemes de Paiement, de Compensation et de Reglement des Titres",
+   "country_label": "Mauritania",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Banque Centrale de Mauritanie",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme National de Paiement",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Banque Centrale de Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": "The council reviewed payment-system reforms in general terms; no licensing, switch or regional link is stated."
+}

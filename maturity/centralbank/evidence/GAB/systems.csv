@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+GAB,MaDigiPaie,Gabon,other,,,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
+GAB,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+GAB,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
+GAB,PAPSS,Gabon,other,Afreximbank with the African Union,Afreximbank,,2026-07-10-beac-joins-papss-cemac-banks-agenceecofin
+GAB,GIMAC QR code,GAB,other,GIMAC,,,2026-03-01-gabon-madigipaie-taxigab
+GAB,MaDigiPaie,Gabon,other,GIMACPAY QR,Government of Gabon with BEAC / GIMAC,,2025-12-11-gabon-madigipaie-digital-payments-launch
+GAB,Gimac QR code,Gabon,other,Gimac,Gimac,,2025-06-17-gabon-payments-interoperability-gimac
+GAB,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
+GAB,MaDigiPaie,Gabon,other,GIMACPAY QR,BEAC / GIMAC,,2025-12-09-gimac-madigipaie-lancement-libreville

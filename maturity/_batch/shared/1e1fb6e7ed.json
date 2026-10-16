@@ -1,0 +1,213 @@
+{
+ "slug": "2026-07-13-sarb-qr-plus-checkout",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PayShap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "QR+",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  }
+ }
+}

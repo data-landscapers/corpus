@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Maliweb reports Orange Money Mali and Orabank Mali launched on 5 June 2025 a prepaid Mastercard linked to the Orange Money wallet via the Max it app, usable at merchants and online, capped at 2 million FCFA per transaction and 10 million FCFA a month.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money Mali",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "mobile money wallet",
+   "owner": "Orange Mali",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money-Orabank prepaid Mastercard",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "prepaid card",
+   "owner": "Orange Money Mali and Orabank Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

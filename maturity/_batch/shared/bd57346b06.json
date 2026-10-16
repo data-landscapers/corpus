@@ -1,0 +1,77 @@
+{
+ "slug": "2025-09-30-lancement-pi-spi-bceao",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Text refers to the eight UEMOA states and never names Benin."
+    }
+   }
+  }
+ }
+}

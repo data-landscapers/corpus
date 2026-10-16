@@ -1,0 +1,13 @@
+# Mauritius
+
+## Governance role of central bank
+
+**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+
+**Overseeing a switch.** [Bank of Mauritius Governor Thakoor says the bank's infrastructure includes the Mauritius Central Automated Switch (MauCAS), whose QR payments are now usable in Mauritius and India](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
+
+**Linked regionally.** [Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. Nothing further is asked of this indicator.

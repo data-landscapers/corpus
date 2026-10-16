@@ -1,0 +1,107 @@
+{
+ "slug": "2026-06-02-bot-national-payment-system-annual-report-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Bank of Tanzania reports 86.34 million interoperable TANQR merchant transactions worth TZS 6,413.14 billion in 2025, with 5 mobile network operators participating.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "TANQR",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Bank of Tanzania reports TANQR connects 27 providers (21 banks, 5 mobile network operators, 1 aggregator) across B2M, M2P and P2M use cases.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "TANQR",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TANQR",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "QR interoperable payments",
+       "owner": "Bank of Tanzania",
+       "tiers": "banks, mobile network operators, non-bank aggregator"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  }
+ }
+}

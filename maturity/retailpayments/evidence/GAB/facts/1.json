@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Gabon already has substantial mobile money use, according to Biometric Update.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "MADIGIPAIE QR payments let customers pay across participating financial institutions, covering more than 3,273 merchants and 1,382 GIMAC QR codes as of July, authorities said.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MADIGIPAIE",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MADIGIPAIE",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "QR code",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

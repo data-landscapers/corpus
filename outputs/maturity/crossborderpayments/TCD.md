@@ -1,0 +1,13 @@
+# Chad
+
+## Cross-border functionality
+
+**Corridor in service.** [Moov Money Tchad's payment-institution licence permits cross-border fund transfers and the article says it can offer them across the CEMAC zone; no corridor is named as in service](<https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/>). [AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Chad](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
+
+**Regional system.** [Airtel Money and Moov Money in Chad operate interoperability via GIMACPAY in the CEMAC zone, per Tchadinfos](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>). [Chad is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>). [Chad takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC](<https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025>).
+
+**Volumes reported.** [AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined (2022, before the three-year window)](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
+
+***Noted, not assessed***. [Airtel Money](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>); [Moov Money](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>); [Konoom](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>); [Nita](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>); [GIMACPAY](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>).
+
+***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.

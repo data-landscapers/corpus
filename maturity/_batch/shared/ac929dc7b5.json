@@ -1,0 +1,13 @@
+{"slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Caisse Malienne de Securite Sociale pays pensions by mobile payment, which the article calls a success, and is now digitalising bank payment of pensions.", "as_of": "2026-07-27", "date_precision": "day", "system": "CMSS mobile pension payment", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "The CMSS pilot of fully digital bank payment of pensions with the Banque de Developpement du Mali was conclusive and is to be rolled out progressively to other partner banks.", "as_of": "2026-07-27", "date_precision": "day", "system": "CMSS digital bank pension payment", "class": "g2p"}
+], "systems": [{"system": "CMSS digital pension payment", "country_label": "Mali", "class": "g2p", "platform": "", "owner": "Caisse Malienne de Securite Sociale", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No retail mobile money service described beyond pension payment."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "A Bamako public dermatology hospital collects consultation and medicine fees electronically at each step of its digitised patient circuit.", "as_of": "2026-07-27", "date_precision": "day", "system": "Hopital dermatologie de Bamako electronic payment", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

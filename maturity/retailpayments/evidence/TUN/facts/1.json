@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-07-menastartupdigest-ooredoo-walletii-license",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Ooredoo Fintech received Central Bank of Tunisia approval to launch walletii by Ooredoo, a wallet for paying bills, peer transfers and cash withdrawal, with QNB Group and Monétique as partners; the article describes it as to launch.",
+   "as_of": "2026-03-07",
+   "date_precision": "day",
+   "system": "walletii by Ooredoo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "walletii by Ooredoo",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "digital wallet",
+   "owner": "Ooredoo Fintech",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

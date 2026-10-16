@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-10-eth-techreviewafrica-ethswitch-global-fintech-stage",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EthSwitch said in May 2026 that its EthioPay instant-payment service processed more than 1 million peer-to-peer transactions in a single day, worth 5.1 billion birr.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "EthioPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The article says the policy challenge is ensuring different providers can transact across a common set of rails, with EthioPay instant payments carrying peer-to-peer transfers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "EthioPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "EthSwitch is described as Ethiopia's national payment switch, linking banks, payment institutions and other participants with instant-payment infrastructure and interoperable QR payments.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "EthSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "national payment switch",
+   "owner": "EthSwitch",
+   "tiers": ""
+  },
+  {
+   "system": "EthioPay",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "instant payment",
+   "owner": "EthSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

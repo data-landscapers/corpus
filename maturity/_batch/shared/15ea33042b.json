@@ -1,0 +1,10 @@
+{"slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document names no central bank role."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states no consumer-protection rule."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document names no cross-border channel."}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document covers payments to government, not to people."}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document gives no survey share of adults."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [{"system": "mobile money", "country_label": "Mali", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": "Mobile money is named as a basis of the public-payment system but no retail service is stated in service."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "An interministerial instruction of 19 July 2024 makes digital payment mandatory in a first phase for taxes, duties and other sums due to the State, local authorities and national public bodies, with the list set by finance-minister order.", "as_of": "2024-07-19", "date_precision": "day", "system": "digital payment in public services", "class": "revenue"}], "systems": [{"system": "digital payment in public services (Decree 2024-0429/PT-RM)", "country_label": "Mali", "class": "revenue", "platform": "mobile money and digital platforms", "owner": "Ministry of Economy and Finance", "tiers": ""}], "note": ""}}}
+}}

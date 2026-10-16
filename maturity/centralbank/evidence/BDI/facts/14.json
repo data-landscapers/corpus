@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Bank of the Republic of Burundi launched the national instant payments platform BurundiPay, unveiled on 23 April 2026, connecting banks, microfinance institutions and mobile money networks.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "oversight",
+   "platform": "national instant payments platform",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": "banks, microfinance, mobile money"
+  }
+ ],
+ "note": ""
+}

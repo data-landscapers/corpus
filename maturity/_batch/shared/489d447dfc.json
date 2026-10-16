@@ -1,0 +1,47 @@
+{"slug":"2025-08-15 Bank of Algeria joins PAPSS network","studies":{
+"businesspayments":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No e-procurement stated."},
+"MAR":{"facts":[],"systems":[],"note":"No e-procurement stated."},
+"TUN":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{
+"DZA":{"facts":[
+{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Afreximbank says the Bank of Algeria joined PAPSS on 15 August 2025, making Algeria its 18th country of presence.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"oversight"}
+],"systems":[{"system":"PAPSS","country_label":"Algeria","class":"oversight","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""},
+"MAR":{"facts":[
+{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Afreximbank says PAPSS has expanded across North Africa including Morocco.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"oversight"}
+],"systems":[{"system":"PAPSS","country_label":"Morocco","class":"oversight","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""},
+"TUN":{"facts":[
+{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"Afreximbank says PAPSS has expanded across North Africa including Tunisia.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"oversight"}
+],"systems":[{"system":"PAPSS","country_label":"Tunisia","class":"oversight","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No consumer-protection rules stated."},
+"MAR":{"facts":[],"systems":[],"note":"No consumer-protection rules stated."},
+"TUN":{"facts":[],"systems":[],"note":"No consumer-protection rules stated."}}},
+"crossborderpayments":{"countries":{
+"DZA":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Afreximbank says the Bank of Algeria joined PAPSS on 15 August 2025, making Algeria its 18th country of presence.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"crossborder"},
+{"sub_indicator":"crossborder","aspect":"reported","value":"reported","fact":"PAPSS's CEO says the network has cut intra-African cross-border transaction costs, with savings of up to 27% for end users.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"crossborder"}
+],"systems":[{"system":"PAPSS","country_label":"Algeria","class":"crossborder","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""},
+"MAR":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Afreximbank says PAPSS has expanded across North Africa including Morocco.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"crossborder"}
+],"systems":[{"system":"PAPSS","country_label":"Morocco","class":"crossborder","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""},
+"TUN":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Afreximbank says PAPSS has expanded across North Africa including Tunisia.","as_of":"2025-08-15","date_precision":"day","system":"PAPSS","class":"crossborder"}
+],"systems":[{"system":"PAPSS","country_label":"Tunisia","class":"crossborder","platform":"regional payment and settlement system","owner":"Afreximbank","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No government payments stated."},
+"MAR":{"facts":[],"systems":[],"note":"No government payments stated."},
+"TUN":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No survey share stated."},
+"MAR":{"facts":[],"systems":[],"note":"No survey share stated."},
+"TUN":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No retail wallet service stated."},
+"MAR":{"facts":[],"systems":[],"note":"No retail wallet service stated."},
+"TUN":{"facts":[],"systems":[],"note":"No retail wallet service stated."}}},
+"revenuecollection":{"countries":{
+"DZA":{"facts":[],"systems":[],"note":"No revenue payment stated."},
+"MAR":{"facts":[],"systems":[],"note":"No revenue payment stated."},
+"TUN":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

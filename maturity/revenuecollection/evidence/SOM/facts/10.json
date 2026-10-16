@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-somalia-cbs-national-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Somalia says SOMQR, launched March 2023, lets customers pay for goods, services, taxes and fees by scanning a code.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "Somali Quick Response Code (SOMQR)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

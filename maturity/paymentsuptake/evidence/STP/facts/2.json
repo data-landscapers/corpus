@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-bcstp-segundo-inquerito-inclusao-literacia-financeiras-texto-integral",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The BCSTP second demand-side survey (early 2025) found 38% of adults hold a bank account.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "BCSTP 2nd Demand-Side Survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-07-libya-cbl-governor-financial-initiatives",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CIPS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIPS",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Buna",
+   "country_label": "",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

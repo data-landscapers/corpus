@@ -1,0 +1,10 @@
+{"slug":"2026-03-13-vodacom-40m-investment-vcl-financial-itweb","studies":{
+"businesspayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No procurement stated."}}},
+"centralbank":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"The consumer-protection ruling concerns airtime, not financial services."}}},
+"crossborderpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"LSO":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"ITWeb Africa says M-PESA in Lesotho has evolved into a wholly owned entity, VCL Financial Services, with savings and investment products beyond traditional mobile money.","as_of":"2026-03-13","date_precision":"day","system":"M-PESA","class":"retail"}],"systems":[{"system":"M-PESA","country_label":"Lesotho","class":"retail","platform":"mobile money","owner":"VCL Financial Services (Vodacom)","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

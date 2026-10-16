@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-06-uemoa-interoperabilite-paiements-obligatoire-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Fraternite Matin reports the BCEAO officially launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions already connected and connection mandatory for all UEMOA financial institutions from 30 June 2026.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Fraternite Matin reports the BCEAO's PI-SPI instant payment platform covers banks, microfinance, e-money and payment institutions across the UEMOA, Cote d'Ivoire's union.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "oversight",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, microfinance, e-money, payment institutions"
+  }
+ ],
+ "note": ""
+}

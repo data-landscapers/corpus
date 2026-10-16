@@ -1,0 +1,10 @@
+{"slug":"2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)","studies":{
+"businesspayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"DZA":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"The document says Algeria later joined PAPSS's own IPS as its 18th member.","as_of":"2024-10-14","date_precision":"day","system":"PAPSS","class":"oversight"}],"systems":[{"system":"Domestic instant payment system","country_label":"Algeria","class":"other","platform":"instant switch","owner":"Bank of Algeria / CPI","tiers":"in preparation"},{"system":"DZ MOB PAY","country_label":"Algeria","class":"other","platform":"mobile wallet app","owner":"","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"DZA":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"The document says Algeria later joined PAPSS's own IPS as its 18th member.","as_of":"2024-10-14","date_precision":"day","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"Algeria","class":"crossborder","platform":"continental payment system","owner":"Afreximbank","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"DZA":{"facts":[],"systems":[{"system":"Domestic instant payment system","country_label":"Algeria","class":"retail","platform":"instant switch","owner":"Bank of Algeria / CPI","tiers":"in preparation"}],"note":"Instant system only being prepared; DZ MOB PAY named without a statement of what it does."}}},
+"revenuecollection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

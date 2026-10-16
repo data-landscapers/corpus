@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-bnr-press-release-performance-of-ekash",
+ "facts": [
+  {
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The National Bank of Rwanda calls eKash Rwanda's national instant payment system, launched nationwide on 14 July 2026, with participating institutions and the system operator working under NBR oversight.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "oversight",
+   "sub_indicator": "centralbank"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

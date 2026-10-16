@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-18-star-ruto-4-hustler-fund-has-built",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Hustler Fund CEO Henry Tanui said 95 per cent of an approved Hustler Fund loan is deposited into the borrower's mobile money wallet.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hustler Fund",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "*254#",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "mobile money",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

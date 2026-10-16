@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "possible future link"
+  }
+ ],
+ "note": "NimbaPay could eventually connect to PAPSS; no link is in service or underway."
+}

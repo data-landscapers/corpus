@@ -1,0 +1,97 @@
+{
+ "slug": "2025-08-04-togo-7-institutions-pi-spi-bceao",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "Seven Togolese institutions joined the BCEAO-led UEMOA PI-SPI instant-payment platform, in real-condition tests since 5 June 2025 ahead of a 30 September 2025 launch.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Togo",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  }
+ }
+}

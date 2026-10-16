@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Addis Fortune reports Ethiopia has begun piloting a Unified Government Payment Platform in the health sector for citizens to pay public services, including facility payments and health insurance premiums, with about 16 institutions in the pipeline and wider rollout targeted for 2029, per UNDP project lead Desta Bayissa.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Unified Government Payment Platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Government Payment Platform",
+   "country_label": "Ethiopia",
+   "class": "revenue",
+   "platform": "EthioPay CBP",
+   "owner": "Ministry of Finance, National Bank of Ethiopia, EthSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

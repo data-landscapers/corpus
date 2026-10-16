@@ -1,0 +1,10 @@
+{"slug":"2026-08-04-linfodrome-feneplaci-frais-scolarite-mobile-money-phase-test","studies":{
+"businesspayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Private school fees, not government procurement."}}},
+"centralbank":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No rules or redress body stated."}}},
+"crossborderpayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Loan figures only, no survey share of adults."}}},
+"retailpayments":{"countries":{"CIV":{"facts":[],"systems":[{"system":"Orange Money","country_label":"Cote d'Ivoire","class":"retail","platform":"mobile money","owner":"Orange Bank Africa","tiers":""},{"system":"Tik Tak","country_label":"Cote d'Ivoire","class":"other","platform":"microcredit","owner":"Orange Bank Africa","tiers":""}],"note":"Orange Money is named only as the channel of a school-fee pilot from August 2026; the document does not say the service itself is in service."}}},
+"revenuecollection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Private school fees, not state revenue."}}}
+}}

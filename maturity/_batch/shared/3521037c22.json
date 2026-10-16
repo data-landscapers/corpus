@@ -1,0 +1,128 @@
+{
+ "slug": "2026-04-23-brb-lancement-burundipay",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Banque de la Republique du Burundi launched BurundiPay, an instant payment system giving full interoperability between banks, microfinance institutions and payment institutions, and complementing the existing ACH, RTGS and national payment switch.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BurundiPay",
+       "country_label": "Burundi",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Banque de la Republique du Burundi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BurundiPay lets users pay and transfer funds in real time from bank accounts and mobile wallets, the BRB says.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "BurundiPay is stated to rest on full interoperability between commercial banks, microfinance institutions and payment institutions, with payments from bank accounts and mobile wallets.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The BRB launched BurundiPay as the national instant payment system, usable from bank accounts and mobile wallets, alongside the existing national payment switch.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

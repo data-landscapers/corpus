@@ -1,0 +1,97 @@
+{
+ "slug": "2026-09-15-mdg-2424-task-force-reclamations-mobile-money",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A task force on mobile money complaints is announced, but no rules in force, drafting or complaints body is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Ministry of Economy and Finance says users of mobile money report lost money and failed transactions, and that the CSBF supervises mobile money operators.",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile Money",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

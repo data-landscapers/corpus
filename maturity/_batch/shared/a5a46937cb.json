@@ -1,0 +1,10 @@
+{"slug":"2026-09-20-papss-meeza-card-integration-waya","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on public procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[],"systems":[{"system":"Meeza","country_label":"Egypt","class":"other","platform":"","owner":"Egyptian Banks Company","tiers":""},{"system":"InstaPay","country_label":"Egypt","class":"other","platform":"","owner":"Egyptian Banks Company","tiers":""}],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"WAYA reports Afreximbank is working to connect PAPSS Card with Egypt's Meeza network for cross-border card payments in local currencies, at an early stage with no availability date, per PAPSS chief executive Mike Ogbalu.","as_of":"2026-09-20","date_precision":"day","system":"PAPSS Card and Meeza link","class":"crossborder"}],"systems":[{"system":"PAPSS Card","country_label":"Egypt","class":"crossborder","platform":"","owner":"Afreximbank","tiers":""},{"system":"Meeza","country_label":"Egypt","class":"other","platform":"","owner":"Egyptian Banks Company","tiers":""},{"system":"InstaPay","country_label":"Egypt","class":"other","platform":"","owner":"Egyptian Banks Company","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[{"system":"InstaPay","country_label":"Egypt","class":"other","platform":"","owner":"Egyptian Banks Company","tiers":""}],"note":"Meeza and InstaPay are named but the document does not say what they do or that they are in service."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document says nothing on revenue collection."}}}
+}}

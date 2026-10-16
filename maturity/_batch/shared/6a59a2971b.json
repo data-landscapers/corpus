@@ -1,0 +1,126 @@
+{
+ "slug": "2026-04-01-papss-list-of-live-commercial-banks-april-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The PAPSS April 2026 coverage list shows Gambia as a country where PAPSS transfers are available, with live commercial banks AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank and Vista Bank.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "pan-African payment and settlement system",
+       "owner": "Pan-African Payment and Settlement System",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Gambia as available for transfers in April 2026, through six live commercial banks (AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank, Vista Bank).",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "pan-African payment and settlement system",
+       "owner": "Pan-African Payment and Settlement System",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "pan-African payment and settlement system",
+       "owner": "Pan-African Payment and Settlement System",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

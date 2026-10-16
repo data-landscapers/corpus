@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-27-somalia-expand-instant-payment-system-hiiraan",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank says mobile money operators serve most Somalis in their daily financial transactions.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIPS",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "ISO 20022",
+   "owner": "Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch)",
+   "tiers": ""
+  },
+  {
+   "system": "SOMQR",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "QR code standard",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

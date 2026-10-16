@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,revenue,payment,coverage,inservice,2026-06-11,BDI-002;BDI-004,BDI-001=underway;BDI-003=underway,
+BDI,revenue,main,coverage,,,,,nothing held
+BDI,revenue,reported,coverage,,,,,nothing held

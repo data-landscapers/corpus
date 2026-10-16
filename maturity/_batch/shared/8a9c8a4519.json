@@ -1,0 +1,9 @@
+{"slug":"2026-02-04-bom-digital-payments-workshop-lexpress","studies":{
+"businesspayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Governor describes a KYC system and stronger supervision, but states no licensing, switch or mandate fact matching a question."}}},
+"consumerprotection":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"MUS":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"The Bank of Mauritius says the UPI-RuPay partnership with India launched in February 2024 is Mauritius's first bilateral cross-border payments agreement, opening the way to interoperability and later peer-to-peer transfers via a future UPI Global Hub.","as_of":"2024-02","date_precision":"month","system":"UPI-RuPay partnership","class":"crossborder"}],"systems":[{"system":"UPI-RuPay partnership","country_label":"Mauritius-India","class":"crossborder","platform":"UPI / RuPay","owner":"Bank of Mauritius","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Only a general shift from cash and cheques to digital payments; no named mobile money or wallet service."}}},
+"revenuecollection":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

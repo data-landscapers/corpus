@@ -1,0 +1,58 @@
+{
+ "slug": "2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Chad's mobile money providers are interoperable via GIMACPAY in the CEMAC zone, per Tchadinfos.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nita",
+   "country_label": "TCD",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GIMACPAY",
+   "country_label": "TCD",
+   "class": "other",
+   "platform": "",
+   "owner": "GIMAC",
+   "tiers": "CEMAC"
+  }
+ ],
+ "note": ""
+}

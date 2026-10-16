@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-12-ssd-ramdiet-digital-payments-everyday-use",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Interbank Payment and Settlement System",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "Settlement system is not a switch or licensing; the extent of mobile-money integration is stated as unverified."
+}

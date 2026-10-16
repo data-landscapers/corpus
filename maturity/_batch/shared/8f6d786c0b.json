@@ -1,0 +1,193 @@
+{
+ "slug": "2026-09-09-ahram-papss-instapay-egypt-cross-border-link",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Ahram Online reports PAPSS works across 30 African countries including Egypt, and that the Central Bank of Egypt signed an agreement in November 2024 to join it.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Ahram Online says Instapay is licensed by the Central Bank of Egypt and runs through its Instant Payment Network, the national real-time payment infrastructure.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Instant Payment Network (IPN)",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Ahram Online says Instapay, a mobile payments application, is licensed by the Central Bank of Egypt, and six Egyptian banks have applied to the CBE for final approvals to integrate with PAPSS.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Instapay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instapay",
+       "country_label": "EGY",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Central Bank of Egypt",
+       "tiers": ""
+      },
+      {
+       "system": "Instant Payment Network (IPN)",
+       "country_label": "EGY",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "PAPSS",
+       "country_label": "EGY",
+       "class": "oversight",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Ahram Online reports PAPSS currently works across 30 African countries, including Egypt.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "PAPSS chief executive Mike Ogbalu says PAPSS plans to connect to Instapay to widen Egypt-Africa cross-border payments.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "PAPSS-Instapay link",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "Ogbalu says PAPSS transaction volume rose about 1,000 percent in 2026 and value about 120 percent, with transfer costs down by up to 95 percent and average processing time 7 seconds.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "EGY",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Ahram Online describes Instapay as a state-backed mobile application for electronic payments, licensed by the Central Bank of Egypt and in operation.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Instapay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instapay",
+       "country_label": "EGY",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

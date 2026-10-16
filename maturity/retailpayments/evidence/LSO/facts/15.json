@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-14-leswitch-pos-financial-inclusion-lestimes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Standard Lesotho Bank's Samuel Koatla says the LeSwitch instant payments stream, implemented in 2022, enables instant fund transfers across mobile networks.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "LeSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LeSwitch",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho and commercial banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

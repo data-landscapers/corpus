@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Under a partnership with the Accountant General's Department, government fees such as rates, business registration, ID cards and passports can be paid through Yonna Wallet, which the source says is live.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Yonna Wallet",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yonna Wallet",
+   "country_label": "Gambia",
+   "class": "revenue",
+   "platform": "mobile wallet app",
+   "owner": "Yonna Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

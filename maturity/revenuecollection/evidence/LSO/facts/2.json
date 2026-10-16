@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-27-lso-ppd-forum-lnsw-reforms-stalled",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "A whole-of-government e-payment gateway to be run by the Central Bank of Lesotho is being developed and will soon be integrated with the Lesotho National Single Window, per CAFI's newsletter.",
+   "as_of": "2026-09-27",
+   "date_precision": "day",
+   "system": "Whole-of-government e-payment gateway",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Whole-of-government e-payment gateway",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Central Bank of Lesotho",
+   "tiers": "in development"
+  },
+  {
+   "system": "Lesotho National Single Window",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

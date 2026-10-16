@@ -1,0 +1,157 @@
+{
+ "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Guinea-Bissau."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "BCEAO says Guinea-Bissau has 5 institutions authorised on its regional PI-SPI platform at 31 July 2026.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO runs the PI-SPI interoperable instant-payment platform, on which Guinea-Bissau has 5 authorised institutions.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "Plateforme interopérable du Système de paiement instantané",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money, payment and microfinance institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Guinea-Bissau."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Guinea-Bissau takes part in BCEAO's regional PI-SPI instant-payment platform, with 5 authorised institutions at 31 July 2026.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "Plateforme interopérable du Système de paiement instantané",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money, payment and microfinance institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Guinea-Bissau."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Guinea-Bissau."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Guinea-Bissau had 5 institutions authorised on BCEAO's PI-SPI instant-payment platform at 31 July 2026, which lets users pay instantly between different financial institutions across the UEMOA.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Guinea-Bissau had 5 institutions authorised on BCEAO's PI-SPI instant-payment platform at 31 July 2026, which lets users pay instantly between different financial institutions across the UEMOA.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "UEMOA",
+       "class": "retail",
+       "platform": "Plateforme interopérable du Système de paiement instantané",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money, payment and microfinance institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Guinea-Bissau."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Governor Asiama said Ghana's mobile money transactions exceeded one billion in August 2026 for the first time, worth GH¢519 billion, up 46.5% on the previous year.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

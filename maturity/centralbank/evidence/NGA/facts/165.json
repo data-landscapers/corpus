@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-13-nigeria-teamapt-mastercard-network-access",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "BusinessDay says TeamApt is a Central Bank of Nigeria-licensed switching and processing company.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "TeamApt",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TeamApt",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "switching and processing, Mastercard acquiring",
+   "owner": "Moniepoint Inc.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

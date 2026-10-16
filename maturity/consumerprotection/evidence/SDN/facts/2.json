@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-cbos-ussd-financial-services-regulations",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "CBOS Circular 7/2026 sets binding minimum rules for USSD financial services: fee disclosure, no debit on failed transactions, free SMS confirmations, 24-hour support and complaint resolution within 48 hours.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "USSD financial services",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBOS Circular 7/2026",
+   "country_label": "Sudan",
+   "class": "protection",
+   "platform": "USSD",
+   "owner": "Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,14 @@
+{"slug":"2026-02-18-algerie-paiements-electroniques-939-milliards","studies":{
+"businesspayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No public procurement system is mentioned."}}},
+"centralbank":{"countries":{"DZA":{"facts":[],"systems":[{"system":"GIE Monétique","country_label":"Algeria","class":"other","platform":"national mobile switch","owner":"GIE Monétique","tiers":""}],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is mentioned."}}},
+"crossborderpayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No cross-border channel is mentioned."}}},
+"g2ppayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No government payment to people is mentioned."}}},
+"paymentsuptake":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Only card and account counts are given, no survey share of adults."}}},
+"retailpayments":{"countries":{"DZA":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Algérie Éco, citing GIE Monétique, says interbank mobile payment DZ Mob Pay launched officially in January 2025 and had 95,014 personal accounts and 14,283 merchant accounts at end December 2025.","as_of":"2025-12","date_precision":"month","system":"DZ Mob Pay","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"Algérie Éco, citing GIE Monétique, says DZ Mob Pay interbank payments rest on the national mobile switch put in service in June 2024, with seven pilot banks.","as_of":"2025-12","date_precision":"month","system":"DZ Mob Pay","class":"retail"}],
+"systems":[{"system":"DZ Mob Pay","country_label":"Algeria","class":"retail","platform":"national mobile switch","owner":"GIE Monétique","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"DZA":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Algérie Éco, citing GIE Monétique, says many public administrations increasingly take electronic payment for their services, with 7.6 million online transactions for administrative services in 2025.","as_of":"2025","date_precision":"year","system":"GIE Monétique online payment platform","class":"revenue"}],
+"systems":[{"system":"GIE Monétique online payment platform","country_label":"Algeria","class":"revenue","platform":"","owner":"GIE Monétique","tiers":""}],"note":""}}}}}

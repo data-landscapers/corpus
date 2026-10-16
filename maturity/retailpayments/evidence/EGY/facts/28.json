@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-cbe-second-financial-inclusion-strategy-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Egypt says active transactional accounts, counted as 54.7 million at end-2025, include mobile wallets alongside bank accounts, Egypt Post accounts and prepaid cards.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile wallets",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

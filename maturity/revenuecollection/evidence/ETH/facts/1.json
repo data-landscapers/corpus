@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-ethswitch-unveils-unified-government-payment-platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "EthSwitch presented its Unified Government Payment Platform at the Ethiopia Finance Forum, a single interoperable route through the national switch for government bill payments by app, ATM, USSD, branch and agent.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Unified Government Payment Platform (UGPP)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Government Payment Platform (UGPP)",
+   "country_label": "Ethiopia",
+   "class": "revenue",
+   "platform": "EthSwitch",
+   "owner": "EthSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

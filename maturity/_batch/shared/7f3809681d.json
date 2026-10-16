@@ -1,0 +1,97 @@
+{
+ "slug": "2026-06-30-tanzania-gn-158c-mandatory-electronic-payments-order",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Government Notice 158C, in force 1 July 2026, requires payment for specified transactions through electronic means including mobile money, e-wallets and bank transfer.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Electronic Transactions (Mandatory Electronic Payments) Order 2026",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mandatory Electronic Payments Order 2026 (GN 158C)",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "Minister for Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Order mandates electronic payment for private transactions; nothing on this study."
+    }
+   }
+  }
+ }
+}

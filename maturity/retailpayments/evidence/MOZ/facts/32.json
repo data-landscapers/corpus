@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Central bank data show more than 24.6 million mobile wallet accounts in Mozambique in November, against 6.6 million bank accounts.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "METIX",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "SIMO",
+   "tiers": ""
+  },
+  {
+   "system": "National Payments System law",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

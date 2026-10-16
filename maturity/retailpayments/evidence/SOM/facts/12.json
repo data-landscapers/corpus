@@ -1,0 +1,62 @@
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal says Somali mobile money, run by telecoms such as Hormuud and Telesom, processes about 650 million transactions a year, worth about $8 billion or 36% of GDP.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "Hormuud and Telesom mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal says the Central Bank of Somalia launched SIPS and the SOMQR national QR standard in early 2025 to bridge isolated mobile wallets and the banking sector.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Somalia Instant Payment System (SIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "TechCabal says the Central Bank of Somalia launched the national Somalia Instant Payment System in early 2025 to link mobile wallets and the banking sector.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Somalia Instant Payment System (SIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Hormuud mobile money",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Hormuud",
+   "tiers": ""
+  },
+  {
+   "system": "Telesom mobile money",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Telesom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

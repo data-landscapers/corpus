@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-08-cmi-fatourati-collect-reglement-multicanal",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "CMI says Fatourati is the reference platform for multichannel settlement of bills, taxes and duties in Morocco, used by over 100 administrations and billers.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Fatourati",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fatourati",
+   "country_label": "Morocco",
+   "class": "revenue",
+   "platform": "Fatourati",
+   "owner": "CMI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

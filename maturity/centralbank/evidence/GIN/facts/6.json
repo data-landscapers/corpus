@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-mediaguinee-nimbapay-lancement",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "NimbaPay, the national instant payment system, is an initiative of the BCRG and its partners, put into service on 22 July 2026 with the Governor presiding, per Mediaguinee.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCRG and Guineenne de Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-vodacom-lesotho-brings-micro-investing-to-m-pesa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo mobile money is in service in Uganda and offers the Yinvesta and XENO investment services.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

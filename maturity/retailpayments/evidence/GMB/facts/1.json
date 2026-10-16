@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-15 Gambia launches BANTABA 2.0, first real-time interoperable payment system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Point says BANTABA 2.0 lets funds move instantly between accounts across banks, mobile money operators, fintechs and public institutions regardless of provider.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Point says BANTABA 2.0 is a national backbone connecting banks, mobile money operators, MFIs, fintechs and PSPs through a single interoperable switch with real-time clearing and settlement, operated by Gamswitch after a pilot.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANTABA 2.0",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Gamswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

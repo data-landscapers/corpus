@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-06-ken-techcabal-equity-finserve-emma-wallet",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports that Equity Bank's fintech arm Finserve Africa has launched the EMMA wallet, which lets users send money, buy airtime, pay bills and save, through an Android app, USSD or the Equitel SIM toolkit.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "EMMA",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal reports that EMMA users can push funds from the wallet into Safaricom's M-PESA merchant ecosystem, transfer balances to Airtel Money and route funds to commercial bank accounts.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "EMMA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMMA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "Android app, USSD, Equitel SIM toolkit",
+   "owner": "Finserve Africa (Equity Group)",
+   "tiers": ""
+  },
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-07-06-orange-money-phishing-alerte-infox", "studies": {
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Phishing fact-check; nothing on procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A provider warning and a fact-check, not rules or a complaints body."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [], "systems": [{"system": "Orange Money", "country_label": "CAF", "class": "retail", "platform": "", "owner": "Orange Centrafrique", "tiers": ""}], "note": "Orange Money is named only as the impersonated brand; service status not stated."}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

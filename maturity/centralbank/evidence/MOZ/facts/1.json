@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-08-moz-pav-pawapay-licensed-psp",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Mozambique granted PawaPay, through its subsidiary Quidexplus Mozambique, a Payment Service Provider licence, announced by PawaPay on 8 October 2026.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "PSP licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Vodacom",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Movitel",
+   "tiers": ""
+  },
+  {
+   "system": "mKesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Tmcel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

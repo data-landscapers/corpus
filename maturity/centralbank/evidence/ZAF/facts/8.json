@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-techcabal-south-africa-payments-system-rebuild",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The document says a proposed activity-based authorisation framework for non-banks performing payment activities is still being developed, with the draft in industry engagement and piloting and release expected in the first quarter of 2027 (Standard Bank's Nthabiseng Mohale).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "activity-based authorisation framework",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Inc",
+   "country_label": "South Africa",
+   "class": "oversight",
+   "platform": "national payments utility",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

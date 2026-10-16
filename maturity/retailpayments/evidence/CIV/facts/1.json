@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-04-linfodrome-feneplaci-frais-scolarite-mobile-money-phase-test",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Bank Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Tik Tak",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "microcredit",
+   "owner": "Orange Bank Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Orange Money is named only as the channel of a school-fee pilot from August 2026; the document does not say the service itself is in service."
+}

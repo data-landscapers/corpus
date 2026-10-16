@@ -1,0 +1,10 @@
+{"slug": "2026-07-21-egypt-eswatini-deepen-banking-cooperation", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Governors discussed PAPSS accession, not yet in service; no stated mandate, licensing or switch oversight."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "Low-value transactions within the Common Monetary Area (Eswatini, South Africa, Lesotho, Namibia) are migrating from domestic electronic funds transfer rails to the Transactions Cleared on an Immediate Basis payment scheme, per ITWeb Africa.", "as_of": "2026-07-21", "date_precision": "day", "system": "Transactions Cleared on an Immediate Basis", "class": "crossborder"}], "systems": [{"system": "Transactions Cleared on an Immediate Basis", "country_label": "Eswatini", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}, {"system": "PAPSS", "country_label": "Eswatini", "class": "crossborder", "platform": "", "owner": "", "tiers": "accession under discussion"}], "note": ""}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No survey share of adults given."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No retail mobile money or wallet service described."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on tax or fee collection."}}}
+}}

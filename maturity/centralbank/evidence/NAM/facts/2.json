@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-29-namibia-launches-instant-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Bank of Namibia Deputy Governor Leonie Dunn said licensing and supervisory responsibilities for payments are being transferred to the central bank under a new Payments Association framework.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Payments Association framework",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Namibia said its instant payments solution became operational in June 2026, with live transactions first processed between its Currency Management and Banking Operations Department and Bank Windhoek, Nampost and Letshego Bank Namibia.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Instant Payment Solution",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment Solution (IPS)",
+   "country_label": "Namibia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

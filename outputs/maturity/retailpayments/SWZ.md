@@ -1,0 +1,13 @@
+# Eswatini
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [Eswatini Positive News says DeltaPay's wallet service is live and lets users send money by Fast Transfer](<https://eswatinipositivenews.online/deltapay-brings-instant-payments-closer-to-home/>). [Eswatini Positive News says Unayo lets users send money by cellphone number, collected at Standard Bank ATMs and participating merchants, and closes 31 December 2026](<https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/>). [Standard Bank Eswatini says its Unayo wallet has over 200,000 registered retail customers and about 5,000 business clients, and will close on 31 December 2026](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>). [Ericsson and MTN Group Fintech say they completed the migration of the MTN MoMo mobile money platform to a cloud-native architecture in Eswatini, among four markets](<https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/>).
+
+**Between providers.** [Eswatini Positive News says DeltaPay users can send money within seconds, 24/7, to customers of participating banks and digital wallets](<https://eswatinipositivenews.online/deltapay-brings-instant-payments-closer-to-home/>). [Eswatini Positive News says the Eswatini Payment Switch enables real-time payments between participating banks and digital wallets](<https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/>). [Standard Bank Eswatini says customers can send and receive payments in real time between participating bank accounts and wallets, 24 hours a day](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>).
+
+**National switch.** [The Central Bank of Eswatini says the national Eswatini Payment Switch connects banks and mobile money providers in service, 24/7](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>). [The Eswatini Payment Switch connects banks and non-bank payment providers, with real-time transfers between bank accounts and wallets in service](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>). [Eswatini Positive News says the Eswatini Payment Switch enables real-time payments between participating banks and digital wallets](<https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/>).
+
+***Noted, not assessed***. [Social Grant Disbursement System](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
+
+***Not held***. Nothing further is asked of this indicator.

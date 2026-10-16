@@ -1,0 +1,78 @@
+{
+ "slug": "2026-07-24-elwatan-instapay-mobile-wallets-54-million-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Egypt had more than 55.5 million e-wallets by June 2025 with transactions of about EGP 1.8 trillion, offered by telecom companies such as Vodafone Cash, Orange Cash and Etisalat Cash, per bank experts cited by Al-Watan.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-wallets (Vodafone Cash, Orange Cash, Etisalat Cash)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The InstaPay instant payment network, launched in March 2022, carries instant transfers between accounts and e-wallets and reached about 16 million users by June 2025, per banking expert Walid Adel.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "InstaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The InstaPay instant payments network, launched March 2022, handles personal, commercial and account-to-wallet transfers, with over 1.1 billion operations, per banking expert Walid Adel.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "InstaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "instant payments network and app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "card",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Vodafone Cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "e-wallet",
+   "owner": "Vodafone",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "e-wallet",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "Etisalat Cash",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "e-wallet",
+   "owner": "Etisalat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

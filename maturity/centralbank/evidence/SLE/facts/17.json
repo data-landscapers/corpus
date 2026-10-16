@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-14 Sierra Leone Launches National Instant Payment System",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Sierra Leone launched a national payment switch in April 2023 and on 13 February 2025 a national instant payment switch linking seven banks and two mobile money operators, with full integration due by 1 April 2025.",
+   "as_of": "2025-02-13",
+   "date_precision": "day",
+   "system": "National Instant Payment Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Instant Payment Switch",
+   "country_label": "Sierra Leone",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

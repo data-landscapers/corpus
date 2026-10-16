@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-tun-lapresse-poste-inscriptions-en-ligne-e-dinar",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "La Poste Tunisienne provides students with e-Dinar wallets and electronic payment cards for university financial operations including the payment of university scholarships and loans.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "e-Dinar wallets",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2025-10-07-com-mfbsb-ami-interfacage-sigit-mobile-banking-pagf-si","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document is about tax system interfacing, not procurement."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[],"note":"Finance ministry notice; no central bank role stated."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No payment to people stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Mobile banking platforms are mentioned only as the interface target; no service status stated."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Comoros finance ministry, through the AFD-funded PAGF-SI project, called for consultants to study interfacing its tax system SIGIT with the mobile banking platforms of banks and mobile operators, expressions of interest due 28 October 2025.","as_of":"2025-10-07","date_precision":"day","system":"SIGIT","class":"revenue"}],"systems":[{"system":"SIGIT","country_label":"Comoros","class":"revenue","platform":"","owner":"Ministry of Finance, Budget and Banking Sector","tiers":""}],"note":""}}}
+}}

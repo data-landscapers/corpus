@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-orange-webb-fontaine-paiement-redevance-dpi",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Orange Centrafrique, Webb Fontaine and NGSER launched automated payment of the DPI (prior import declaration) customs fee through Orange Money, with receipts passed in real time to the SYDONIA customs system.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Orange Money DPI fee payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "CAF",
+   "class": "revenue",
+   "platform": "SYDONIA",
+   "owner": "customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "2",
+   "mandate": "drafting",
+   "switch": "",
+   "regional": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002",
+   "gaps": "No source held since October 2023 says: does the central bank license payment providers.",
+   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-zimbabwe-flags-cyber-risks-in-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Reserve Bank of Zimbabwe asked banks, mobile money operators and other digital payment providers to eliminate ghost accounts, indicating mobile money operators are in service.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

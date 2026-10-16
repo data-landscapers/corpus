@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Guinea-Bissau had 5 institutions authorised on BCEAO's PI-SPI instant-payment platform at 31 July 2026, which lets users pay instantly between different financial institutions across the UEMOA.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Guinea-Bissau had 5 institutions authorised on BCEAO's PI-SPI instant-payment platform at 31 July 2026, which lets users pay instantly between different financial institutions across the UEMOA.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "Plateforme interopérable du Système de paiement instantané",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money, payment and microfinance institutions"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "A decree by Prime Minister Aldabaiba made e-payment an approved method for collecting state revenues and public dues, requiring Ministry of Finance treasuries and other ministries, departments and agencies to accept it alongside cash and cheques.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "e-payment collection of state revenue",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

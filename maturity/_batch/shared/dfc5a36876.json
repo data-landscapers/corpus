@@ -1,0 +1,9 @@
+{"slug":"2026-02-05-iati-46002-p-ma-h00-032-morocco-acquisition-fund-digital-payments","studies":{
+"businesspayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Grant responds to challenges defined by the central bank, but no mandate, licensing or switch stated."}}},
+"consumerprotection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Government aid recipients are named only as a target group of a donor grant; no government payment stated."}}},
+"paymentsuptake":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Donor grant for a merchant acceptance network in pipeline; no mobile money or wallet service stated."}}},
+"revenuecollection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}}}

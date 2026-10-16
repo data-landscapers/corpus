@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-dza-elmawkie-avancees-paiement-electronique-cnese",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CNESE president said Algeria has widened the use of electronic payment and payment by mobile phone in recent years.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "payment by mobile phone",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "payment by mobile phone",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

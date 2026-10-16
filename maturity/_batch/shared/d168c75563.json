@@ -1,0 +1,86 @@
+{
+ "slug": "2026-06-30-africabusinessinsight-seychelles-upi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Unified Payments Interface (UPI)",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "NPCI International",
+       "owner": "Central Bank of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "UPI is planned for end-2026 with preparations underway; no licensed, piloted or in-service item stated."
+    }
+   }
+  }
+ }
+}

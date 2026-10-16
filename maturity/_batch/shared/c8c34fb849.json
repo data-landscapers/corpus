@@ -1,0 +1,118 @@
+{
+ "slug": "2026-08-04-tchad-budget-2027-numerique-finances-publiques",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Chad's 2027 budget orientations say a standardised electronic transfer system will launch early in 2027, with all public entities paying beneficiaries exclusively electronically against standardised electronic invoices.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "système de virement électronique normalisé",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système de virement électronique normalisé",
+       "country_label": "Chad",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Government of Chad",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Payments to final beneficiaries are not stated to be to people (salaries, transfers or pensions)."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The 2027 budget orientations say tax, customs and Treasury systems are to be integrated with electronic payment solutions.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "solutions de paiement électronique",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The orientations say the e-Visa platform will become the sole channel for requesting, paying for, processing and issuing entry visas to Chad.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "e-Visa",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

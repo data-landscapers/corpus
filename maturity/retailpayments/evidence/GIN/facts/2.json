@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCRG Governor Karamo Kaba said access to financial services rose from 4% in 2011 to nearly 36% in 2024, driven partly by the expansion of electronic money.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "electronic money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "NimbaPay, launched on 22 July 2026, enables transfers between bank accounts, mobile wallets and other financial accounts across different providers.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "NimbaPay, the national instant payment system launched on 22 July 2026, connects banks, electronic money operators and other financial institutions.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

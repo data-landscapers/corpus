@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,CIPS,,other,,China,,2026-09-08-ago-angop-bai-bank-of-china
+AGO,CIPS (Cross-Border Interbank Payment System),"Angola (BAI, indirect access via Bank of China)",crossborder,,,,2026-09-08-ago-mercado-bai-renminbi
+AGO,SADC-RTGS,Angola,crossborder,RTGS,"South African Reserve Bank (operator, for SADC CCBG)",,2026-07-28-sadc-rtgs-kwanza-official
+AGO,SADC-RTGS,Angola,crossborder,,SADC,,2026-05-27-kwanza-integra-sistema-de-pagamento-sadc-rtgs
+AGO,SADC-RTGS,Angola,crossborder,regional real-time gross settlement,SADC,five participating commercial banks,2026-07-31-angola-kwanza-joins-sadc-rtgs-cross-border-settlement
+AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022

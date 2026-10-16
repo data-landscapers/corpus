@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09-gimac-madigipaie-lancement-libreville",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Citizens can pay administrative fees (\"frais administratifs\") as well as purchases by scanning the GIMACPAY QR code with a Mobile Money application, according to GIMAC.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "MaDigiPaie",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

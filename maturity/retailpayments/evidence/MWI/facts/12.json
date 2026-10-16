@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-16-cftc-tnm-mpamba-eticketing-interoperability-malawi24",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Competition and Fair Trading Commission found TNM Mpamba and Airtel Mobile Commerce operate mobile money services in Malawi, and ordered Mpamba's e-ticketing opened to other providers.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "TNM Mpamba",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TNM Mpamba",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Mobile Commerce",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

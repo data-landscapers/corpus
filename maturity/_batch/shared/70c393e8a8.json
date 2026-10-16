@@ -1,0 +1,10 @@
+{"slug":"2026-03-02-somali-women-financial-inclusion-digital-divide-study","studies":{
+"businesspayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Captured excerpt gives no adult account share; the 2020 survey is outside three years."}}},
+"retailpayments":{"countries":{"SOM":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The study says Somalia has one of the most active mobile money markets in Africa, with nomadic women relying heavily on mobile money (AOR 2.57 against urban women).","as_of":"2026-03-02","date_precision":"day","system":"mobile money","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

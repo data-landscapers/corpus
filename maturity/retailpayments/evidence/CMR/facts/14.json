@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-23-lejour-momo-helep-sme-treasury",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Cameroon's Mobile Money Corporation runs MoMo accounts on which it presented MoMo Helep Pro, offering employees digital advances up to 100,000 FCFA repayable in 30 days, and a Bulk Payment system for instant mass payments, per Le Jour.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Cameroun",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Mobile Money Corporation (MTN Cameroon)",
+   "tiers": ""
+  },
+  {
+   "system": "MoMo Helep Pro",
+   "country_label": "Cameroun",
+   "class": "other",
+   "platform": "MoMo advances",
+   "owner": "MTN Cameroon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

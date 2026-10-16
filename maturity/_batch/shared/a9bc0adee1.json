@@ -1,0 +1,77 @@
+{
+ "slug": "2026-08-07-guinea-assemblee-nationale-commission-communication-ntic",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Orange Money only as a committee priority; states no service status or rule."
+    }
+   }
+  }
+ }
+}

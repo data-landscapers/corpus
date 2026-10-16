@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-gabon-lunion-madigipaie-libreville",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "L'Union says Madigipaie is a national QR code digital payment platform for transactions between merchants and users, working with several banks, whose rollout to merchants the economy minister asked Libreville's mayor to support on 3 July 2026.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Madigipaie",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Madigipaie",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "QR code",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

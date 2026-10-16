@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Liberia Revenue Authority says its Integrated Orange Mobile Money Platform, linked to LITAS, was launched for taxes and fees across 18 ministries and agencies, paid by USSD with an SMS receipt.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Integrated Orange Mobile Money Platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Orange Mobile Money Platform",
+   "country_label": "Liberia",
+   "class": "revenue",
+   "platform": "LITAS",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "LITAS",
+   "country_label": "Liberia",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

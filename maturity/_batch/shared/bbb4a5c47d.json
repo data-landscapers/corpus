@@ -1,0 +1,115 @@
+{
+ "slug": "2025-06-05-orange-money-bsic-interconnexion-bank-to-wallet",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Money Burkina Faso is an e-money service with over 11 million customers, per the article.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Orange Money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Orange Money and BSIC Burkina launched Bank to Wallet and Wallet to Bank transfers via *144# on 30 May 2025, linking BSIC accounts and Orange Money wallets in real time.",
+       "as_of": "2025-05-30",
+       "date_precision": "day",
+       "system": "Orange Money-BSIC B2W/W2B",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange Money Burkina Faso",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money-BSIC B2W/W2B",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "*144#",
+       "owner": "Orange Money Burkina Faso and BSIC Burkina",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

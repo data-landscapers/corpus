@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-hormuud-evc-plus-gsma-recertification",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Hiiraan Online says Hormuud's EVC Plus is Somalia's most widely used mobile money platform, serving more than 4.5 million users daily and used to pay bills.",
+   "as_of": "2025-08-20",
+   "date_precision": "day",
+   "system": "EVC Plus",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EVC Plus",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Hormuud Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

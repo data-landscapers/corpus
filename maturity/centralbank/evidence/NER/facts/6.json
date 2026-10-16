@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-25-actuniger-airtel-money-transfert-international",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Airtel Money Niger SA is authorised by the BCEAO as an electronic money issuer under Décision n° 194-07-2022, per ActuNiger.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Airtel Money Niger",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

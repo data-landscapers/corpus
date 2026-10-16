@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-belmoney-digipay-instant-transfer-app-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Belmoney and DigiPay Group launched the DigiTransfer app, sending money from France and Belgium to mobile wallets and bank accounts in the Republic of Congo within minutes.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "DigiTransfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DigiTransfer",
+   "country_label": "Republic of Congo",
+   "class": "crossborder",
+   "platform": "Android and iOS app over Visa and Mastercard networks",
+   "owner": "DigiPay Group and Belmoney",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

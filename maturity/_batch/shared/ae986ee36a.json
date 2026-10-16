@@ -1,0 +1,107 @@
+{
+ "slug": "2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Biometric Update reports almost 30 million citizens in the DRC have a mobile money account, though cash still dominates.",
+       "as_of": "2026-05-11",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MainMoney, a palm-biometric digital payment platform owned by AI.Tech, has been launched in Kinshasa and integrated with the national payments infrastructure, per Bankable Africa.",
+       "as_of": "2026-05-11",
+       "date_precision": "day",
+       "system": "MainMoney",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MainMoney",
+       "country_label": "COD",
+       "class": "retail",
+       "platform": "Keyo palm biometrics",
+       "owner": "AI.Tech",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  }
+ }
+}

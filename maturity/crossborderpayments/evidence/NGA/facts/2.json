@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-thesun-papss-nigeria-fintechs-payment-integration",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PAPSS chief executive Mike Ogbalu says Nigeria was among the first countries behind PAPSS and the first to chair its Permanent Council, and describes Nigerian transactions through the system in service.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Ogbalu says PAPSS carries significant transactions between Nigeria and Ghana, Rwanda and Kenya, with Nigerian traders paying electronically instead of carrying cash.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "NGA",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

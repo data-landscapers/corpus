@@ -1,0 +1,10 @@
+{"slug": "2026-07-24-uganda-centenary-micropay-partner-digital-access-education-healthcare-insurance", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Private MoU, nothing on public procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No conduct rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A planned fee and insurance payment platform under an MoU; no mobile money or e-money service in service is stated."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment to the state."}}}
+}}

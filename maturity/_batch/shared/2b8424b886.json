@@ -1,0 +1,10 @@
+{"slug":"2025-09-01-cbe-governance-internal-control-fit-and-proper-payment-institutions","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"In June 2025 the Central Bank of Egypt issued Rules for Licensing and Registration of Payment System Operators and Payment Service Providers, requiring existing institutions to apply for a CBE licence within one year, to June 2026; it also issued governance, internal control and fit-and-proper rules for them under Law No. 194 of 2020.","as_of":"2025-06","date_precision":"month","system":"CBE licensing of payment system operators and payment service providers","class":"oversight"}],"systems":[{"system":"CBE Rules for Licensing and Registration of Payment System Operators and Payment Service Providers","country_label":"Egypt","class":"oversight","platform":"","owner":"Central Bank of Egypt","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Rules concern institution governance, not user protection."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No payment to people stated."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Regulates payment institutions generally; no retail service named."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

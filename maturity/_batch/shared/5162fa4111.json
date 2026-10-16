@@ -1,0 +1,145 @@
+{
+ "slug": "2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The BCEAO's PI-SPI instant payment platform counts 175 authorised participants across the eight WAEMU countries, with Senegal holding the most at 43, and Wave was authorised to open its services in Senegal on the list updated 30 September 2026.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Senegal",
+       "class": "oversight",
+       "platform": "instant payment",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Senegal has 43 of the 175 participants authorised to open PI-SPI services to the public across the eight WAEMU countries, per the list the BCEAO updated on 30 September 2026.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Senegal",
+       "class": "crossborder",
+       "platform": "instant payment",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "PI-SPI, the BCEAO's instant payment platform, allows instant transfers and payments between banks, e-money institutions and payment institutions, and Wave was authorised on it for Senegal on 30 September 2026.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "instant payment",
+       "owner": "BCEAO",
+       "tiers": "banks; e-money institutions; payment institutions"
+      },
+      {
+       "system": "Wave",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Wave Digital Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

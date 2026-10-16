@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-16-la-presse-oft-tunisie-agrement-definitif-etablissement-paiement",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "La Presse says the Central Bank of Tunisia's licensing commission granted OFT Tunisie definitive authorisation as a resident payment institution, and that 16 payment service providers are licensed in Tunisia.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "BCT payment institution licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OFT Tunisie",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "payment institution",
+   "owner": "Ooredoo FinTech International",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

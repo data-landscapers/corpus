@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,Scan to Pay,ZAF,retail,Samsung Wallet,EFT Corp,,2026-08-31-itweb-co-za-samsung-digital-wallet
+ZAF,Capitec Pay,South Africa,retail,,Capitec Bank,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition
+ZAF,PayShap,South Africa,retail,Rapid Payments Programme,,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition
+ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
+ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,PayShap,South Africa,retail,PayInc,PayInc,,2026-05-21-payshap-pivots-to-merchants
+ZAF,PayShap,South Africa,retail,,,,2026-09-10-techcabal-south-africa-payments-system-rebuild
+ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
+ZAF,PayShap,South Africa,retail,real-time payments,,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago
+ZAF,PayShap,South Africa,retail,instant payments,PayInc,,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange
+ZAF,ZARP,South Africa,other,blockchain,,,2026-09-21-techcabal-local-stablecoins-use-case
+ZAF,ZARsc,South Africa,other,blockchain,,,2026-09-21-techcabal-local-stablecoins-use-case

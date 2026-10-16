@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-29-namibia-instant-payments-namqr-open-banking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NamQR",
+   "country_label": "Namibia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Payments Association of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "NamQR standard finalised and instant payments expected, not stated in service."
+}

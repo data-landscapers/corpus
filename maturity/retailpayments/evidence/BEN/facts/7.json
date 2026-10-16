@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-bceao-connexion-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BCEAO reports 80 participants connected to PI-SPI on 2 April 2026: 59 banks, 9 e-money institutions, 11 microfinance institutions and 1 payment institution, on one interoperable platform.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "regional instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

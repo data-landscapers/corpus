@@ -1,0 +1,13 @@
+# Tunisia
+
+## Governance role of central bank
+
+**Licensing providers.** [The Central Bank of Tunisia published Circular 2026-10 on 2026-09-25 governing payment institutions, repealing Circular 2018-16 and tightening its oversight of their agents and governance, per African Manager](<https://en.africanmanager.com/bct-raises-cash-withdrawal-limits-in-bid-to-curb-cash-use/>). [The Fintech Times says Konnect describes itself as a payment facilitator certified by the Central Bank of Tunisia](<https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/>). [Ooredoo Fintech received approval from the Central Bank of Tunisia to launch its digital wallet walletii by Ooredoo](<https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/>). [La Presse says the Central Bank of Tunisia's licensing commission granted OFT Tunisie definitive authorisation as a resident payment institution, and that 16 payment service providers are licensed in Tunisia](<https://www.lapresse.tn/2026/03/16/oft-tunisie-obtient-lautorisation-definitive-pour-exercer-comme-etablissement-de-paiement/>).
+
+**Overseeing a switch.** [The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system](<https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96>).
+
+**Linked regionally.** [The Banque Centrale de Tunisie's note 2024-77 says the central bank has belonged to PAPSS since 6 February 2024, and banks and the postal office on Elyssa RTGS need its non-objection attestation to join directly](<https://www.cbf.org.tn/wp-content/uploads/2024/09/77-Note-aux-banques-et-a-lOffice-National-des-Postes-n%C2%B02024-77-du-28-Mai-2024.pdf>).
+
+***Noted, not assessed***. [walletii by Ooredoo](<https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/>); [Monétique](<https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/>); [Konnect](<https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/>); [Paymee](<https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/>); [OFT Tunisie](<https://www.lapresse.tn/2026/03/16/oft-tunisie-obtient-lautorisation-definitive-pour-exercer-comme-etablissement-de-paiement/>); [PAPSS](<https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/>).
+
+***Not held***. Nothing further is asked of this indicator.

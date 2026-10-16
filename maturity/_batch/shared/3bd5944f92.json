@@ -1,0 +1,10 @@
+{"slug":"2026-09-04-zmb-mobile-money-liquidity-critique","studies":{
+"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No consumer rules or redress stated."}}},
+"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No government payments stated."}}},
+"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"ZMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mobile Money Zambia chief executive Komba Malukutila said at the MTN Group Fintech summit on 2 September 2026 that the company uses AI tools to monitor agent activity and liquidity across its network so customers can complete cash and transactions.","as_of":"2026-09-02","date_precision":"day","system":"Mobile Money Zambia","class":"retail"}],"systems":[{"system":"Mobile Money Zambia","country_label":"Zambia","class":"retail","platform":"mobile money","owner":"MTN","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

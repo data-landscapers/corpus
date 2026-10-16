@@ -1,0 +1,10 @@
+{"slug": "2025-09-26-eswatini-post-office-based-govt-payment-system", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Article says nothing on e-procurement."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Article says nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Article says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Payments are by citizens to government, not to people."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Article does not say the post office payments are digital or mobile money."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Post office government service payments", "country_label": "SWZ", "class": "other", "platform": "", "owner": "EPTC with Eswatini Revenue Service", "tiers": ""}], "note": "Article gives payment for government services at 35 post offices but does not say the payment is electronic."}}}
+}}

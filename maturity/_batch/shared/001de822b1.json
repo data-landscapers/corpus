@@ -1,0 +1,97 @@
+{
+ "slug": "2026-05-14-beac-instruction-002-gr-2026-prefinancements-remittance-entrante",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Instruction sets pre-financing checks and reporting; no licensing, switch or regional system statement."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Rules protect forex repatriation, not users."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No named corridor or regional system stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Droit Medias Finance reports payment institutions in the CEMAC execute local transfers onto customers' e-money wallets for inbound remittances.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "e-money wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-money wallets",
+       "country_label": "GAB",
+       "class": "retail",
+       "platform": "",
+       "owner": "payment institutions",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study for the country."
+    }
+   }
+  }
+ }
+}

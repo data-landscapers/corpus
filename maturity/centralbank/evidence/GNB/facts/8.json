@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO's list of payment institutions licensed under Instruction n°001-01-2024 shows one in Guinea-Bissau, INTOUCH Guinée-Bissau, licensed 25 June 2025.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "BCEAO payment institution licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

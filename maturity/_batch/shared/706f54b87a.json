@@ -1,0 +1,10 @@
+{"slug": "2026-08-06-afcfta-secretary-general-begins-official-mission-to-burundi", "studies": {
+"businesspayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"BDI": {"facts": [], "systems": [{"system": "PAPSS", "country_label": "Burundi", "class": "crossborder", "platform": "", "owner": "AfCFTA/Afreximbank", "tiers": ""}], "note": "PAPSS was discussed with Burundi but the document does not say Burundi takes part."}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

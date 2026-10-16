@@ -1,0 +1,12 @@
+{"slug":"2025-10-10-boss-launches-first-electronic-interbank-payment-system","studies":{
+"businesspayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"SSD":{"facts":[
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Bank of South Sudan launched on 10 October 2025 the country's first electronic Interbank Payment and Settlement System, enabling real-time bank-to-bank transactions in place of paper-based manual processing.","as_of":"2025-10-10","date_precision":"day","system":"Interbank Payment and Settlement System","class":"oversight"}],
+"systems":[{"system":"Interbank Payment and Settlement System","country_label":"South Sudan","class":"oversight","platform":"","owner":"Bank of South Sudan","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No consumer protection rule or redress stated."}}},
+"crossborderpayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"EAC and AfDB welcomed the system but no participation in a regional system is stated."}}},
+"g2ppayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"Mobile money integration is only expected; the system is bank-to-bank."}}},
+"revenuecollection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

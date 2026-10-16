@@ -1,0 +1,150 @@
+{
+ "slug": "2026-09-09-ntra-egypt-mobile-wallets-usage-indicators-h1-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The release states nothing on this study for Egypt."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "NTRA reports 57.01 million telecom-operator mobile wallets in Egypt in H1 2026, with 2.22 billion transactions worth EGP 2.96 trillion.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "telecom mobile wallets (Vodafone Cash, e& Cash, Orange Cash, WE Pay)",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "NTRA reports 78% of wallet deposit transactions in H1 2026 were made from the wallet holder's bank account via InstaPay.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "InstaPay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Vodafone Cash",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "Vodafone",
+       "tiers": ""
+      },
+      {
+       "system": "e& Cash",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "e&",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Cash",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "Orange",
+       "tiers": ""
+      },
+      {
+       "system": "WE Pay",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "Telecom Egypt",
+       "tiers": ""
+      },
+      {
+       "system": "InstaPay",
+       "country_label": "Egypt",
+       "class": "retail",
+       "platform": "instant payment",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "NTRA says prosecution services (criminal, family and traffic) can be queried and paid through mobile wallets via one operator, in H1 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "prosecution services payment via mobile wallet",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

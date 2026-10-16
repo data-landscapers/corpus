@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-bceao-prolonge-delais-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "leFaso.net reports that the BCEAO's PI-SPI interoperable instant payment platform, launched 30 September 2025, connects banks, e-money institutions and payment institutions, with 80 connected by 24 June 2026.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

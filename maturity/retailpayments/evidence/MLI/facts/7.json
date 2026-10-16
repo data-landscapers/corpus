@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01 Mobile Money Taxes and Affordability in Sub-Saharan Africa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GSMA reports Mali levies mobile money withdrawals at 1% since February 2025, which presupposes mobile money services in service.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "MLI",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

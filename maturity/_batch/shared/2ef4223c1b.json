@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-24-mtn-momo-south-sudan-digital-finance-skills",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MTN MoMo, a mobile money service, trained 1,225 South Sudanese entrepreneurs to accept digital payments, sell airtime and provide cash-in services, per Tech Africa News.",
+       "as_of": "2026-08-24",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo",
+       "country_label": "South Sudan",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "MTN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a training programme and states nothing on this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-01-ethswitch-annual-report-2024-25",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "EthSwitch, the national switch owned by all banks, is mandated to create interoperability among financial service providers across ATM, POS, mobile/internet banking and wallets, and to provide a national payment gateway.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "EthSwitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "EthSwitch, the national switch owned by all banks, is mandated to create interoperability among financial service providers across ATM, POS, mobile/internet banking and wallets, and to provide a national payment gateway.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "EthSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "national switch",
+   "owner": "banks incl. National Bank of Ethiopia, MFIs, PIIs, PSOs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

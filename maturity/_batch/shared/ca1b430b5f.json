@@ -1,0 +1,97 @@
+{
+ "slug": "2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Finance Law 2026 (Loi 25-020/AU) inserts articles in the tax procedures book establishing electronic filing and payment of taxes, to be mandatory by tiers for large and medium firms, with the start date to be set by ministerial order.",
+       "as_of": "2025-12-26",
+       "date_precision": "day",
+       "system": "Plateforme fiscale (télédéclaration and télépaiement)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plateforme fiscale (télédéclaration and télépaiement)",
+       "country_label": "Comoros",
+       "class": "revenue",
+       "platform": "official tax platform",
+       "owner": "Tax administration",
+       "tiers": "large, medium, other taxpayers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

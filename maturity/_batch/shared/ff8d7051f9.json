@@ -1,0 +1,10 @@
+{"slug":"2026-08-04-cashless-shift-poised-to-transform-economy","studies":{
+"businesspayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Ticketing and merchant payments are not government procurement."}}},
+"centralbank":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Bank of Tanzania cited only as the source of a merchant figure; no role stated."}}},
+"consumerprotection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Consumer protection named only as something needed; no rule or body stated."}}},
+"crossborderpayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Merchant and ticket counts, not a survey share of adults."}}},
+"retailpayments":{"countries":{"TZA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Digital payments are in service in Tanzania: the Bank of Tanzania's National Payment Systems Annual Report 2025 is cited as showing merchants accepting digital payments rose to 2.79 million from 1.33 million in 2024.","as_of":"2025","date_precision":"year","system":"digital payments","class":"retail"}],"systems":[{"system":"Central Electronic Ticketing System (CeTS)","country_label":"Tanzania","class":"other","platform":"bus ticketing","owner":"Ministry of Transport","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Mandatory e-payment order is aimed at private-sector transactions; no payment to the revenue authority is stated."}}}
+}}

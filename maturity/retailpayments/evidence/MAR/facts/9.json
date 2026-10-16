@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-08-cmi-fatourati-collect-reglement-multicanal",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "CMI says about 10 million holders of MarocPay payment-account wallets can settle bills through Fatourati.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "MarocPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "CMI says Fatourati links 32 financial institutions, fintechs and billers, with payment by e-banking, m-banking and MarocPay wallets.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Fatourati",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MarocPay",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Fatourati",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "Fatourati",
+   "owner": "CMI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

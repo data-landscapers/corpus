@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Bank of Mauritius Governor Thakoor says the bank's infrastructure includes the Mauritius Central Automated Switch (MauCAS), whose QR payments are now usable in Mauritius and India.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "MauCAS",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "REPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS",
+   "country_label": "Mauritius",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "MACSS",
+   "country_label": "Mauritius",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "REPSS",
+   "country_label": "Mauritius",
+   "class": "oversight",
+   "platform": "",
+   "owner": "COMESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

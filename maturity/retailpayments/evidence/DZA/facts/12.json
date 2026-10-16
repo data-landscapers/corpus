@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-16-electronic-payment-market-22-million-cards--wearetech",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "We Are Tech says mobile money transfers rose sharply in 2025, supported by applications such as BaridMob and Wimpay.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "BaridMob; Wimpay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BaridMob",
+   "country_label": "DZA",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Wimpay",
+   "country_label": "DZA",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

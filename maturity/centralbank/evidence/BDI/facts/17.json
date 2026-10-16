@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-29-burundi-digital-payments-growth-cash-dominates",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The central bank (BRB) reported gaps in reporting on the national switch meant to guarantee interoperability between providers, and named closer monitoring of the switch as a priority.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National switch",
+   "country_label": "BDI",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

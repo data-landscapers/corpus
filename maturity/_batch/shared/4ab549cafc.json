@@ -1,0 +1,10 @@
+{"slug": "2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion", "studies": {
+"businesspayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."}}},
+"centralbank": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The Bank of Eritrea is called the central authority for banking; no payments or e-money mandate is stated."}}},
+"consumerprotection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Remittances are named as an opportunity only; no digital channel is stated."}}},
+"g2ppayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The over 70% unbanked estimate names no survey or year."}}},
+"retailpayments": {"countries": {"ERI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Fintech Times says mobile wallets linked to state-owned EriTel are emerging as the primary entry point to digital financial services in Eritrea, still limited in functionality.", "as_of": "2026-03-30", "date_precision": "day", "system": "EriTel-linked mobile wallets", "class": "retail"}], "systems": [{"system": "EriTel-linked mobile wallets", "country_label": "Eritrea", "class": "retail", "platform": "mobile wallet", "owner": "EriTel", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

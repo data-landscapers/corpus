@@ -1,0 +1,60 @@
+{
+ "slug": "2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO says it set up the PI-SPI instant-payment interoperability platform, allowing account-to-account transfers between different types of accounts across the UMOA, of which Niger is a member.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "BCEAO says it set up the regional payment systems STAR-UMOA, SICA-UMOA and SAGETIL-UMOA for the Union.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "STAR-UMOA, SICA-UMOA, SAGETIL-UMOA",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STAR-UMOA",
+   "country_label": "UMOA",
+   "class": "oversight",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "SICA-UMOA",
+   "country_label": "UMOA",
+   "class": "oversight",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "SAGETIL-UMOA",
+   "country_label": "UMOA",
+   "class": "oversight",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "PI-SPI",
+   "country_label": "UMOA",
+   "class": "oversight",
+   "platform": "instant payment interoperability",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

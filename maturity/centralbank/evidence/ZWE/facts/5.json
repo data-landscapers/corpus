@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-zwe-herald-papss-5-8-million-a-month-afreximbank-ceo-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Afreximbank says Zimbabwe is processing $5.8 million a month through PAPSS, and that most banks in Southern Africa have joined it.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

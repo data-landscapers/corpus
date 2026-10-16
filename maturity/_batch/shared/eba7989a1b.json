@@ -1,0 +1,113 @@
+{
+ "slug": "2026-08-26-jirama-remboursement-mobile-money-newsmada",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Newsmada reports that Jirama electricity bills are paid through the mobile money services Orange Money, Airtel Money and MVola.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Orange Money, Airtel Money, MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "MVola",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: Jirama is a utility, not a revenue body, and the reimbursement commission is parliamentary, not a complaints body for financial services."
+    }
+   }
+  }
+ }
+}

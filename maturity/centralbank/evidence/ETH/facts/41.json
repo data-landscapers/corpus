@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-directive-1069-2025-mandatory-payment-acceptance",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "NBE payment instrument issuer licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-19-wearetech-lideflow-esso-dong-djafalo-paiements-transfrontaliers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lideflow",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "private cross-border payment platform",
+   "owner": "Lideflow",
+   "tiers": ""
+  }
+ ],
+ "note": "Private fintech platform; no regulated corridor or licence stated."
+}

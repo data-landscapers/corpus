@@ -1,0 +1,31 @@
+{
+ "slug": "2026-09-04-itwebafrica-malawi-police-digital-traffic-fines",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Malawi Police electronic traffic fine payment",
+   "country_label": "MWI",
+   "class": "revenue",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TNM Mpamba",
+   "country_label": "MWI",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "MWI",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this study for Malawi."
+}

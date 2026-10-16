@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-09-journalducameroun-beac-papss-banques-cemac",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names BEAC and the CEMAC zone, not Cameroon, so states nothing for Cameroon by name."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "slug": "2026-09-18-gin-mediaguinee-conakry-terminal-digital-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Conakry Terminal says its online payment solution lets clients pay through TouchPoint's MyTouchPoint interface, including MoMo, and through the Akiba Mobile app.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MyTouchPoint (MoMo, PayCard, Sutura, Kulu)",
+       "country_label": "Guinea",
+       "class": "retail",
+       "platform": "TouchPoint",
+       "owner": "InTouch",
+       "tiers": ""
+      },
+      {
+       "system": "Akiba Mobile",
+       "country_label": "Guinea",
+       "class": "retail",
+       "platform": "Akiba Mobile app",
+       "owner": "Akiba Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a private port terminal's payments; it answers no question of this study."
+    }
+   }
+  }
+ }
+}

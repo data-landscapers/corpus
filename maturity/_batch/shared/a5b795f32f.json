@@ -1,0 +1,10 @@
+{"slug": "2026-07-24-cote-divoire-mobile-money-100-fcfa-surcharge", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No rule or complaints body stated; the fee is described as unofficial."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mobile money points of sale in Cote d'Ivoire have charged an unofficial 100 FCFA agency fee on each deposit or withdrawal since November 2025, on top of the operator tariff of generally 1% on withdrawals, per KOACI.", "as_of": "2025-11", "date_precision": "month", "system": "Mobile Money", "class": "retail"}], "systems": [{"system": "Mobile Money points de vente", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "agent kiosks", "owner": "operators and PDV owners (SYNAM-CI represents owners)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

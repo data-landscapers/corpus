@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,Licence Passporting Framework,Rwanda,other,,Bank of Ghana and National Bank of Rwanda,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
+RWA,CIPS (Cross-Border Interbank Payment System),China,crossborder,RMB clearing and settlement,People's Bank of China oversight,direct and indirect participants,2026-09-22-rwa-ktpress-bank-kigali-cips
+RWA,SWIFT,global,other,payment messaging network,,,2026-09-22-rwa-ktpress-bank-kigali-cips
+RWA,Rwanda-Tanzania Instant Payment System Proof of Concept,Rwanda,crossborder,,EU-EAC DEEP Programme,,2026-08-29-eac-rwanda-tanzania-cybersecurity-instant-payments
+RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash

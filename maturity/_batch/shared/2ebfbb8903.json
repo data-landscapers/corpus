@@ -1,0 +1,18 @@
+{"slug": "2025-12-17-cbl-launches-iips-mobile-money-silos-fpa", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No public procurement system is mentioned."}}},
+"centralbank": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "FrontPage Africa says the Central Bank of Liberia spearheaded the launch of the Inclusive Instant Payment System, a nationwide mobile money interoperability platform, with the World Bank supporting a full National Electronic Payment Switch.", "as_of": "2025-12-16", "date_precision": "day", "system": "IIPS (Pay Na-Na)", "class": "oversight"}
+], "systems": [{"system": "IIPS (Pay Na-Na)", "country_label": "Liberia", "class": "retail", "platform": "Mojaloop", "owner": "Central Bank of Liberia", "tiers": ""}, {"system": "National Electronic Payment Switch (NEPS)", "country_label": "Liberia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is mentioned."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Cross-border transactions are only listed as a future phase."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "FrontPage Africa says the IIPS pilot phase currently supports government-to-people transactions.", "as_of": "2025-12-16", "date_precision": "day", "system": "IIPS (Pay Na-Na)", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "FrontPage Africa says the IIPS launched on Tuesday as a nationwide mobile money interoperability platform, with the pilot phase supporting person-to-person transactions.", "as_of": "2025-12-16", "date_precision": "day", "system": "IIPS (Pay Na-Na)", "class": "retail"}
+], "systems": [{"system": "IIPS (Pay Na-Na)", "country_label": "Liberia", "class": "retail", "platform": "Mojaloop", "owner": "Central Bank of Liberia", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "FrontPage Africa says work is ongoing with the Liberia Revenue Authority to roll out people-to-government payments on the IIPS.", "as_of": "2025-12-16", "date_precision": "day", "system": "IIPS (Pay Na-Na)", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-13-sarb-qr-plus-checkout",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PayShap",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "QR+",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SARB",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states no fact answering this study for this country."
+}

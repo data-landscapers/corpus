@@ -1,0 +1,157 @@
+{
+ "slug": "2025-11-26-axian-digibank-fintech-rebrand-techcabal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCabal reports AXIAN's MVola mobile money product lets individuals and businesses send money, pay merchants and access short-term credit in Comoros.",
+       "as_of": "2025-11-26",
+       "date_precision": "day",
+       "system": "MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Comoros",
+       "class": "retail",
+       "platform": "",
+       "owner": "AXIAN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCabal reports AXIAN's MVola mobile money product lets individuals and businesses send money, pay merchants and access short-term credit in Madagascar.",
+       "as_of": "2025-11-26",
+       "date_precision": "day",
+       "system": "MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "AXIAN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+iso3,n,aspect,value,action,why
+COD,001,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+DZA,003,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+DZA,004,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+EGY,001,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+EGY,006,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+KEN,002,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+MAR,003,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+MAR,004,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+TUN,006,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+TUN,008,regional,linked,removed,First pass: joined or signed PAPSS with no live participation reported
+ZWE,003,regional,linked,removed,"First pass: involvement in PAPSS named, no participation in service"
+MRT,001,switch,overseen,removed,First pass: a large-value RTGS or cheque clearing is not a national switch
+MRT,002,switch,overseen,removed,First pass: a large-value RTGS or cheque clearing is not a national switch
+SSD,001,switch,overseen,removed,First pass: a large-value RTGS or cheque clearing is not a national switch

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,centralbank,mandate,coverage,licensing,2025,CPV-003,CPV-001=drafting,
+CPV,centralbank,switch,coverage,overseen,2025,CPV-002;CPV-004,,
+CPV,centralbank,regional,coverage,,,,,nothing held

@@ -1,0 +1,10 @@
+{"slug":"2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata","studies":{
+"businesspayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on government e-procurement."}}},
+"centralbank":{"countries":{"SDN":{"facts":[],"systems":[],"note":"The central bank's deputy governor attended the launch; no role over payments is stated."}}},
+"consumerprotection":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on consumer-protection rules."}}},
+"crossborderpayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document names no government payment programme."}}},
+"paymentsuptake":{"countries":{"SDN":{"facts":[],"systems":[],"note":"No survey share of adults with an account is stated."}}},
+"retailpayments":{"countries":{"SDN":{"facts":[],"systems":[{"system":"Baladna Bibasata","country_label":"Sudan","class":"other","platform":"USSD via MTN Sudan","owner":"Albalad Bank","tiers":""}],"note":"A bank's own USSD banking service; the document does not say it is a wallet or moves money between providers."}}},
+"revenuecollection":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}}
+}}

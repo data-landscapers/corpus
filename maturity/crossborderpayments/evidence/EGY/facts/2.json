@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-20-papss-meeza-card-integration-waya",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "WAYA reports Afreximbank is working to connect PAPSS Card with Egypt's Meeza network for cross-border card payments in local currencies, at an early stage with no availability date, per PAPSS chief executive Mike Ogbalu.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "PAPSS Card and Meeza link",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS Card",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Banks Company",
+   "tiers": ""
+  },
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Banks Company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

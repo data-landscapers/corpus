@@ -1,0 +1,19 @@
+{"slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The Sudan Times reports that RSF leader Mohamed Hamdan Dagalo ordered traders in RSF-controlled areas to charge one price whether customers pay cash or through apps such as Bankak, with violators facing accountability, where premiums for digital payment had reached about 40 percent.", "as_of": "2026-09-14", "date_precision": "day", "system": "single-price directive", "class": "protection"}
+], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Cash assistance mentioned is from humanitarian organisations."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share of adults."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Sudan Times describes Bankak as one of Sudan's most widely used banking applications, used by customers to pay traders in Darfur.", "as_of": "2026-09-15", "date_precision": "day", "system": "Bankak", "class": "retail"}
+], "systems": [
+{"system": "Bankak", "country_label": "Sudan", "class": "retail", "platform": "banking app", "owner": "", "tiers": ""},
+{"system": "Future Bank application", "country_label": "Sudan", "class": "retail", "platform": "banking app", "owner": "Future Bank", "tiers": ""}
+], "note": ""}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Kafuta said government institutions in RSF-held areas were told to open Future Bank accounts and stop collecting official payments through Bankak, depositing revenue in cash or transferring it through Future Bank's application.", "as_of": "2026-09-14", "date_precision": "day", "system": "Bankak, Future Bank application", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

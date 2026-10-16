@@ -1,0 +1,70 @@
+{
+ "slug": "2026-03-16-central-bank-launches-metix-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Club of Mozambique says M-PESA, E-MOLA and m-Kesh mobile wallets operate, with over 24.6 million digital wallet accounts in November per the Bank of Mozambique.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "M-PESA, E-MOLA, m-Kesh",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Club of Mozambique says METIX, officially launched 16 March 2026, integrates commercial banks and mobile wallets for real-time transfers, free for individuals.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "METIX",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Club of Mozambique says METIX, a single platform for banks and mobile wallets, was officially launched by the Bank of Mozambique on 16 March 2026 and all licensed entities must join.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "METIX",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "METIX",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "instant payment system, web, apps, USSD",
+   "owner": "Bank of Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "M-PESA",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-MOLA",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "m-Kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

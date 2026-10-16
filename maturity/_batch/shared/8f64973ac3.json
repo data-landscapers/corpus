@@ -1,0 +1,10 @@
+{"slug": "2026-09-18-gha-currentissues-access-bank-visa-accept", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Visa Accept", "country_label": "Ghana", "class": "other", "platform": "smartphone card acceptance in Access Bank app", "owner": "Access Bank Ghana and Visa", "tiers": ""}], "note": "Merchant card acceptance via a bank app, not mobile money or person-to-person payment."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

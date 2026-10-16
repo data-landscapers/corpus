@@ -1,0 +1,15 @@
+{"slug":"2026-03-17-uemoa-248-millions-comptes-momo","studies":{
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"BEN":{"facts":[],"systems":[],"note":"BCEAO is cited as report source only; no licensing or oversight statement for Benin."}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"Benin recorded cross-border e-money transfers within the UEMOA in 2024, per the BCEAO annual report on digital financial services.","as_of":"2024","date_precision":"year","system":"UEMOA intra-union e-money transfers","class":"crossborder"},
+{"sub_indicator":"crossborder","aspect":"reported","value":"reported","fact":"Benin had 8 million intra-UEMOA cross-border transfer operations worth CFA 230 billion in 2024, an average of CFA 5,172, per the BCEAO.","as_of":"2024","date_precision":"year","system":"UEMOA intra-union e-money transfers","class":"crossborder"}],
+"systems":[{"system":"UEMOA e-money cross-border transfers","country_label":"Benin","class":"crossborder","platform":"","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Only account counts for Benin; the 73.6% inclusion rate is for the Union and no survey is named."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Benin had 37.5 million e-money accounts, 11.2 million active, at the end of 2024, per the BCEAO report.","as_of":"2024","date_precision":"year","system":"e-money (mobile money)","class":"retail"},
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Benin's e-money users made 2.54 billion transactions in 2024, including 1.8 billion merchant payments worth CFA 1,618 billion and over 200 million person-to-person transfers worth CFA 3,104 billion, per the BCEAO.","as_of":"2024","date_precision":"year","system":"e-money (mobile money)","class":"retail"}],
+"systems":[{"system":"e-money (mobile money)","country_label":"Benin","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

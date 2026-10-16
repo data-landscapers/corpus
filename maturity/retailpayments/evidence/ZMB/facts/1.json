@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-17-itweb-africa-momo-fnb-zambia-atm-cash-out",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo has more than five million users in Zambia, according to the operator, and MoMo customers can pay at FNB point-of-sale terminals.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "An existing MTN MoMo and FNB partnership already lets customers transfer funds between MoMo wallets and FNB accounts, and the two launched MoMo cash-out at FNB ATMs without a card or FNB account.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "MTN MoMo and FNB partnership",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Zambia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

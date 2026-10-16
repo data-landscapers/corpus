@@ -1,0 +1,62 @@
+{
+ "slug": "2026-09-09-ahram-papss-instapay-egypt-cross-border-link",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Ahram Online reports PAPSS works across 30 African countries including Egypt, and that the Central Bank of Egypt signed an agreement in November 2024 to join it.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Ahram Online says Instapay is licensed by the Central Bank of Egypt and runs through its Instant Payment Network, the national real-time payment infrastructure.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Instant Payment Network (IPN)",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Ahram Online says Instapay, a mobile payments application, is licensed by the Central Bank of Egypt, and six Egyptian banks have applied to the CBE for final approvals to integrate with PAPSS.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Instapay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instapay",
+   "country_label": "EGY",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Instant Payment Network (IPN)",
+   "country_label": "EGY",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PAPSS",
+   "country_label": "EGY",
+   "class": "oversight",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

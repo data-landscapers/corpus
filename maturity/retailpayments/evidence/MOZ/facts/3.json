@@ -1,0 +1,70 @@
+{
+ "slug": "2026-03-02-banks-unveil-instant-payment-system-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique has three electronic money institutions, M-Pesa, e-Mola and M-Kesh, providing mobile money transfers and payments, with 24,626,613 e-money accounts at end-November 2025 per Bank of Mozambique data.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "M-Pesa, e-Mola, M-Kesh",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Instant Payment System, in force 2026-03-02, brings together banks and digital wallets, with participation mandatory for electronic money institutions and mobile wallets, per Lusa.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Instant Payment System (SPIM)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bank of Mozambique's Instant Payment System, operated by SIMO and running 24 hours a day, connects banks and mobile wallets nationally from 2026-03-02.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Instant Payment System (SPIM)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment System (SPIM)",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "instant payment switch",
+   "owner": "Bank of Mozambique, operated by SIMO",
+   "tiers": "individuals 200,000 MZN and legal entities 500,000 MZN daily limits"
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "mobile operator",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "mobile operator",
+   "tiers": ""
+  },
+  {
+   "system": "M-Kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "mobile operator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,13 @@
+# Sao Tome and Principe
+
+## Population uptake
+
+**Adults with an account.** [The BCSTP second demand-side survey (early 2025) found 38% of adults hold a bank account](<https://afi-global.org/wp-content/uploads/2026/02/Relatorio_lado_da_procura-Final-PT.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+
+**Account target met.** No survey held since October 2023 puts adults with an account at 79% or more. The nearest held fact: [the one given above](<https://afi-global.org/wp-content/uploads/2026/02/Relatorio_lado_da_procura-Final-PT.pdf>).
+
+**Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://afi-global.org/wp-content/uploads/2026/02/Relatorio_lado_da_procura-Final-PT.pdf>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says: do over half hold one.

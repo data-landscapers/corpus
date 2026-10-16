@@ -1,0 +1,224 @@
+{
+ "slug": "2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Funds from the Adianta-La salary advance are paid into customers' M-Pesa accounts in Mozambique via the *150# menu, per TechReviewAfrica.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "M-Pesa",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "MOZ",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      },
+      {
+       "system": "Adianta-La",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "M-Pesa",
+       "owner": "Maximo Microbanco",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for Mozambique."
+    }
+   }
+  }
+ }
+}

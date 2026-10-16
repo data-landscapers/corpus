@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-08-tanzania-mixx-yas-southern-highlands-farmers",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Farmers in the Southern Highlands receive payments for produce directly on their mobile phones through Mixx by Yas, according to its zonal commercial manager.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Mixx by Yas",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mixx by Yas",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "Yas Tanzania",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Crop payments are by a mobile money firm, no government role stated."
+    }
+   }
+  }
+ }
+}

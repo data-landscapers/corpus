@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-elmoudjahid-gie-monetique-benchabla-interview",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Conseil national des paiements",
+   "country_label": "Algeria",
+   "class": "oversight",
+   "platform": "coordination council",
+   "owner": "Bank of Algeria",
+   "tiers": ""
+  }
+ ],
+ "note": "Regulations on payment service providers are named without a licensing statement; the switch is run by GIE Monetique and the instant payment scheme is not yet in service."
+}

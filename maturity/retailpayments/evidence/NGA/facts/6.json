@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-nga-a2f-a2f-2026-making-financial-inclusion-work-harder-for-nigerian",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EFInA says Nigerians increasingly combine banks, mobile money, agents and informal mechanisms to manage their finances (A2F 2026 survey).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

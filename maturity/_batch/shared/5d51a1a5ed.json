@@ -1,0 +1,86 @@
+{
+ "slug": "2026-07-31-algerie-enie-agrement-gie-monetique-paiement-electronique",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GIE Monetique",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "interbank card body",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers accreditation of ENIE to service payment terminals; answers no question."
+    }
+   }
+  }
+ }
+}

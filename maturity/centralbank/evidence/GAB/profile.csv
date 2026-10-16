@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,centralbank,mandate,coverage,licensing,2023-11,GAB-006,,
+GAB,centralbank,switch,coverage,overseen,2026-07-29,GAB-002;GAB-007,,
+GAB,centralbank,regional,coverage,linked,2026-07-29,GAB-001;GAB-003;GAB-004;GAB-005;GAB-008,,

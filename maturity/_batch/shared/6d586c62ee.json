@@ -1,0 +1,117 @@
+{
+ "slug": "2026-09-25-uga-mtn-mobile-money-toll-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MTN Uganda launched Mobile Money toll payments on the Kampala-Entebbe Expressway, where motorists approve a PIN prompt on their phone, Tech Africa News reported.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "MTN Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Toll fees at the Busega, Kajjansi and Mpala plazas on the Kampala-Entebbe Expressway can now be paid by mobile money, launched with the Ministry of Works and Transport, per Tech Africa News.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "MTN Mobile Money toll payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

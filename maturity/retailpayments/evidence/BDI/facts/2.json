@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-28-burundipay-real-time-payments-platform-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BurundiPay enables real-time 24/7 transfers and payments from bank accounts and mobile wallets, with full interoperability across banks, microfinance institutions and payment providers.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "BurundiPay is described as the national instant payment system connecting commercial banks, microfinance institutions and payment service providers in a single network, also reachable by USSD.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "national instant payment system, ISO 20022, USSD",
+   "owner": "Banque de la Republique du Burundi",
+   "tiers": "banks, microfinance, payment service providers"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-02-26-world-bank-icr-comoros-financial-inclusion-project","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Captured text is the data sheet only; nothing on procurement."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[{"system":"ATS+ (Automated Transfer System Plus)","country_label":"COM","class":"other","platform":"","owner":"Banque Centrale des Comores","tiers":""}],"note":"Data sheet names the BCC as implementing agency only; the outcome narrative is not captured."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer-protection content in the captured data sheet."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No cross-border content in the captured data sheet."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Social-protection payment narrative is not captured; only an abbreviation list names the pension fund."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Switch commissioning narrative is not captured in the body."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No revenue-payment content in the captured data sheet."}}}
+}}

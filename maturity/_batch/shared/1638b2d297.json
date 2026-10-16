@@ -1,0 +1,160 @@
+{
+ "slug": "2026-07-16-bna-conclui-migracao-iso-20022",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Angop reports the BNA announced it completed, in coordination with EMIS, BODIVA and banks, the migration of domestic payments in the real-time payment system (SPTR) to ISO 20022.",
+       "as_of": "2026-07-10",
+       "date_precision": "day",
+       "system": "SPTR",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "oversight",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SPTR",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states no fact answering this study for this country."
+    }
+   }
+  }
+ }
+}

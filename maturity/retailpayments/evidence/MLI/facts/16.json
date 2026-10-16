@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCEAO list of 30 September 2026 names Moov Money, Sama Money and Orange Finances Mobiles Mali among 19 institutions in Mali authorised to open PI-SPI services to the public.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The BCEAO list shows banks and mobile money providers in Mali authorised together on PI-SPI.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "MLI",
+   "class_": "retail",
+   "platform": "instant payment switch",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money issuers, payment institutions"
+  }
+ ],
+ "note": ""
+}

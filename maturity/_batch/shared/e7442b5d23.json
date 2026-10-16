@@ -1,0 +1,12 @@
+{"slug":"2026-05-05-lesotho-finance-minister-payment-system-bill","studies":{
+"businesspayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"LSO":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"drafting","fact":"The finance minister moved the Payment System Bill, 2025 to second reading in the National Assembly; it would repeal the Payment Systems Act 2014, license all payment service providers under one law and give the Central Bank of Lesotho powers to oversee the national payment system.","as_of":"2026-05-05","date_precision":"day","system":"Payment System Bill, 2025","class":"oversight"}],
+"systems":[{"system":"Payment System Bill, 2025","country_label":"Lesotho","class":"oversight","platform":"bill","owner":"Ministry of Finance and Development Planning","tiers":""},{"system":"Payment Systems Act 2014","country_label":"Lesotho","class":"oversight","platform":"act","owner":"Central Bank of Lesotho","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Only SADC model-law alignment of a bill; no corridor or regional system in service stated."}}},
+"g2ppayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No retail service stated as licensed or in service."}}},
+"revenuecollection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

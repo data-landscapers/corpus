@@ -1,0 +1,10 @@
+{"slug":"2026-07-29-namibia-instant-payments-namqr-open-banking","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"NAM":{"facts":[],"systems":[{"system":"Instant Payment Programme","country_label":"Namibia","class":"oversight","platform":"","owner":"Bank of Namibia","tiers":""},{"system":"NISS","country_label":"Namibia","class":"other","platform":"ISO 20022","owner":"","tiers":""}],"note":"Instant Payment Programme described as work continuing, not in service; no licensing or mandate statement."}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[],"systems":[{"system":"NamQR","country_label":"Namibia","class":"retail","platform":"","owner":"Payments Association of Namibia","tiers":""}],"note":"NamQR standard finalised and instant payments expected, not stated in service."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

@@ -1,0 +1,145 @@
+{
+ "slug": "2026-10-04-mobile-money-wallets-set-to-link-with-papss",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a pre-integration no-objection requirement and cooperation with PAPSS; no licensing, switch oversight or in-service regional link stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "Capital reports Ethiopia's non-bank mobile-money operators and payment-service providers are preparing to integrate with PAPSS, each needing a National Bank of Ethiopia Letter of No Objection first.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Ethiopia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Capital says Ethio Telecom's telebirr is the dominant mobile-money operator with more than 60 million subscribers, and Safaricom Ethiopia's M-Pesa has also expanded.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "telebirr",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Capital says telebirr and M-Pesa are both connected through EthSwitch, which provides interoperability linking banks, payment-service providers and merchants.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "EthSwitch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "Capital describes EthSwitch as Ethiopia's national payment switch linking banks, payment-service providers, merchants and the mobile-money platforms.",
+       "as_of": "2026-10-04",
+       "date_precision": "day",
+       "system": "EthSwitch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EthSwitch",
+       "country_label": "Ethiopia",
+       "class": "retail",
+       "platform": "national switch",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "telebirr",
+       "country_label": "Ethiopia",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Ethio Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

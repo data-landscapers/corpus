@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,revenue,payment,underway,"The World Bank committed US$20m in 2025 to the Djibouti Economic and Financial Governance Project, which includes tax administration system modernization and sets a PDO target of 70% tax e-filing adoption by December 2029 (ITAS indicator at 0% as of the January 2026 review).",2025,year,ITAS,revenue,2025-01-01-wb-dji-001-djibouti-economic-and-financial-governance-project,https://projects.worldbank.org/en/projects-operations/project-detail/P180696

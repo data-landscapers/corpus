@@ -1,0 +1,10 @@
+{"slug": "2026-07-25-dz-aps-paiement-electronique-jibayatic", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Payment is to the tax authority, not between people."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Direction generale des impots announced the launch of electronic payment of duties and taxes online through the Jibayatic tele-declaration and tele-payment portal.", "as_of": "2026-07-25", "date_precision": "day", "system": "Jibayatic", "class": "revenue"}], "systems": [{"system": "Jibayatic", "country_label": "Algeria", "class": "revenue", "platform": "", "owner": "Direction generale des impots", "tiers": ""}], "note": ""}}}
+}}

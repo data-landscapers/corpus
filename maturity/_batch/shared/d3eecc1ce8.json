@@ -1,0 +1,10 @@
+{"slug":"2026-08-20-cbg-monetary-policy-committee-press-release-august-2026","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Monetary policy statement; no payments mandate, licensing or switch stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document does not mention consumer protection."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Remittance inflows are given with no digital channel named."}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document does not mention government payments to people."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Gives transaction values only; no survey share of adults."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Central Bank of The Gambia reports fintech and mobile money cash-in of D28.2 billion and cash-out of D32.1 billion in the second quarter of 2026.","as_of":"2026-06","date_precision":"month","system":"fintech and mobile money services","class":"retail"}],"systems":[{"system":"Fintech and mobile money services","country_label":"The Gambia","class":"retail","platform":"mobile money","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document gives fiscal totals only; no electronic payment of taxes."}}}
+}}

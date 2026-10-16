@@ -1,0 +1,10 @@
+{"slug": "2025-03-06-burkina-faso-orange-money-mobiquity-pay-x-platform", "studies": {
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No consumer protection rules or redress stated."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Money Burkina Faso, an operating mobile money service, announced on 5 March 2025 an upgrade of its mobile financial services platform to Comviva's Mobiquity Pay X, per We Are Tech Africa.", "as_of": "2025-03-05", "date_precision": "day", "system": "Orange Money Burkina Faso", "class": "retail"}], "systems": [{"system": "Orange Money Burkina Faso", "country_label": "Burkina Faso", "class": "retail", "platform": "Comviva Mobiquity Pay X", "owner": "Orange", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

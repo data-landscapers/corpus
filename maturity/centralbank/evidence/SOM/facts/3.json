@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25 Somalia taps BPC to launch first nationwide instant payment system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Somalia Instant Payment System, operated by Somalia Payment Switch under the Central Bank of Somalia, launched in January 2025 with the central bank acting as clearing and settlement agent and seven institutions connected, per FinTech Futures.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Somalia Instant Payment System (SIPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "BPC SmartVista",
+   "owner": "Somalia Payment Switch, under Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

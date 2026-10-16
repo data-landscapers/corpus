@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-cemac-gimac-norme-qr-code-interoperable",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Equatorial Guinea is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMACPAY",
+   "country_label": "Equatorial Guinea",
+   "class": "oversight",
+   "platform": "",
+   "owner": "GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "2026-08-05-africas-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Liberia approved a unified fee regime for interoperable P2P transfers on the Inclusive Instant Payments System (Pay Na-Na), launched 16 December 2025.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "Inclusive Instant Payments System (Pay Na-Na)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Inclusive Instant Payments System (Pay Na-Na)",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "interoperable P2P mobile money",
+       "owner": "Central Bank of Liberia",
+       "tiers": "1.0% up to US$2,000; flat fee up to US$25 above"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Cost figures are for Sub-Saharan Africa, not a Liberian corridor; no Liberian corridor or regional system is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says Lonestar Cell MTN Mobile Money and Orange Money Liberia operate mobile money services in Liberia.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "MTN Mobile Money; Orange Money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Pay Na-Na governs interoperable P2P mobile money transfers between Lonestar Cell MTN Mobile Money and Orange Money Liberia, launched 16 December 2025.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "Pay Na-Na",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

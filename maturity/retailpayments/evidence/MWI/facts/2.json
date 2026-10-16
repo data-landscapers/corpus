@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-mwi-ednews-givedirectly-canva-150m-mobile-money-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GiveDirectly says it sends unconditional cash transfers of about US$550 per eligible adult to recipients in Malawi by mobile money, with 85,000 adults enrolled and paid in TA Khongoni.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

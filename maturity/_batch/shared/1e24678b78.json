@@ -1,0 +1,127 @@
+{
+ "slug": "2026-10-03-eth-reporter-digital-transaction-costs-fraud-gaps-financial-inclusion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "The NFIS II assessment, reported by The Reporter, says NFIS II established a dedicated financial consumer protection directorate that achieved a 90 percent complaint resolution rate.",
+       "as_of": "2026-10-03",
+       "date_precision": "day",
+       "system": "financial consumer protection directorate",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "The NFIS II assessment reports a 90 percent complaint resolution rate for the financial consumer protection directorate.",
+       "as_of": "2026-10-03",
+       "date_precision": "day",
+       "system": "financial consumer protection directorate",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "financial consumer protection directorate",
+       "country_label": "Ethiopia",
+       "class": "protection",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "National Bank of Ethiopia data cited by The Reporter show total mobile money accounts at 157.6 million by June 2026, of which 29.56 percent were active.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Ethiopia",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

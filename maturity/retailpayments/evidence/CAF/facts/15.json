@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-06-orange-money-phishing-alerte-infox",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "CAF",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange Centrafrique",
+   "tiers": ""
+  }
+ ],
+ "note": "Orange Money is named only as the impersonated brand; service status not stated."
+}

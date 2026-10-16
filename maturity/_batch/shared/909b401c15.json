@@ -1,0 +1,77 @@
+{
+ "slug": "2025-10-01-worldbank-findex-algeria-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Catalogue record only; no Algerian figure or finding is stated."
+    }
+   }
+  }
+ }
+}

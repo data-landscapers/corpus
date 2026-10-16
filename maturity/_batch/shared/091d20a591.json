@@ -1,0 +1,157 @@
+{
+ "slug": "2026-09-02-afdb-axian-digital-finance-women-led-businesses",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The AfDB and AXIAN programme is delivered through AXIAN's Mixx and MVola mobile money platforms, which it says it leverages to reach women-led businesses in Madagascar.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Mixx; MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "",
+       "owner": "AXIAN Group",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The AfDB and AXIAN programme is delivered through AXIAN's Mixx and MVola mobile money platforms, which it says it leverages to reach women-led businesses in Senegal.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Mixx; MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mixx",
+       "country_label": "Senegal",
+       "class": "retail",
+       "platform": "",
+       "owner": "AXIAN Group",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

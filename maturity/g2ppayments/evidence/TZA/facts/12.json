@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-thecitizen-tz-zanzibar-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Mixx by Yas carries payments to clove farmers through the Zanzibar State Trading Corporation, the firm says.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Mixx by Yas",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mixx by Yas",
+   "country_label": "Tanzania (Zanzibar)",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Yas",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

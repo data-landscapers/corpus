@@ -1,0 +1,10 @@
+{"slug":"2025-06-20-wave-gambia-gtsc-digital-payment-partnership-thepoint","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body stated."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Domestic bus fares only."}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Payments by passengers, not government to people."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Point reports Wave Gambia's mobile money platform now lets passengers pay Gambia Transport Service Company bus fares through the Wave app, launched 19 June 2025.","as_of":"2025-06-19","date_precision":"day","system":"Wave","class":"retail"}],"systems":[{"system":"Wave","country_label":"Gambia","class":"retail","platform":"","owner":"Wave Gambia","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Fares go to a transport company; no tax or fee payment stated."}}}
+}}

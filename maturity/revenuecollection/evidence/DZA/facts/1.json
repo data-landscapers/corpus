@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-algeria-dgi-jibayatic-electronic-tax-payment-guide",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGI's Jibayatic platform lets taxpayers file declarations and pay taxes and duties online by bank transfer or CIB or Edahabia card, mandatory for large enterprises and optional for others, for taxes from electronic declarations only.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Jibayatic",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jibayatic",
+   "country_label": "Algeria",
+   "class": "revenue",
+   "platform": "online tax filing and payment",
+   "owner": "General Directorate of Taxes (DGI)",
+   "tiers": "mandatory for Large Enterprises directorate; optional for others"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-thecitizen-tz-zanzibar-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Zanzibar's ZanBus electric buses, in commercial operation since 1 August 2026, take fares through smart cards integrated with the Mixx by Yas digital payment platform, at Sh700 a journey.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "Mixx by Yas",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mixx by Yas",
+   "country_label": "Tanzania (Zanzibar)",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Yas",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

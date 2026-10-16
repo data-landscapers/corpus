@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-29-pi-spi-banques-mobile-money-interconnectes",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCEAO operates PI-SPI, the interoperable instant payment platform now connecting banks, microfinance institutions, e-money issuers and payment institutions across the eight UEMOA countries, 24/7.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "PI-SPI is a single regional instant payment infrastructure run by the BCEAO for the eight UEMOA countries.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "UEMOA (Benin)",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, microfinance, e-money issuers, payment institutions"
+  }
+ ],
+ "note": ""
+}

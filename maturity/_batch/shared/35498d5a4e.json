@@ -1,0 +1,10 @@
+{"slug":"2025-09-12-wb-stp-003-social-protection-additional-financing","studies":{
+"businesspayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"STP":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"STP":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"STP":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"The World Bank project paper says the additional financing continues an electronic cash-transfer payment system, built through a partnership with a financial institution, for the Vulnerable Family Program (5,000 to 6,000 households).","as_of":"2025-09-12","date_precision":"day","system":"Vulnerable Family Program electronic cash-transfer payment system","class":"g2p"}],"systems":[{"system":"Vulnerable Family Program electronic cash transfers","country_label":"STP","class":"g2p","platform":"partner financial institution","owner":"Ministry of Labor, Solidarity, and Social Security","tiers":""},{"system":"Unique Social Registry / Ke-Non MIS","country_label":"STP","class":"other","platform":"CORE-MIS/openIMIS","owner":"Government of Sao Tome and Principe","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"STP":{"facts":[],"systems":[],"note":"No account-ownership survey share stated."}}},
+"retailpayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"No retail digital payment service stated."}}},
+"revenuecollection":{"countries":{"STP":{"facts":[],"systems":[],"note":"No electronic revenue payment stated."}}}
+}}

@@ -1,0 +1,88 @@
+{
+ "slug": "2026-08-05-minister-salima-bah-intensifies-fight-against-mobile-money-fraud",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Minister said the government has increased financial inclusion through mobile money services, and that Orange Sierra Leone recorded about 390 mobile money fraud complaints in 2026.",
+       "as_of": "2026-08-04",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail",
+       "sub_indicator": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

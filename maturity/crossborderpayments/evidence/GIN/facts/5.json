@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "crossborder",
+   "platform": "Mojaloop",
+   "owner": "BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": "Cross-border payments are named only as a later phase of NimbaPay, with no pilot, licence or rule stated."
+}

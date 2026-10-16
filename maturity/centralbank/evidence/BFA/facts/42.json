@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-08-pi-spi-neuf-banques-autorisees-burkina",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "As of 24 February 2026 the BCEAO had authorised nine institutions in Burkina Faso (including Orange Money, Coris Bank International and Ecobank) to offer PI-SPI instant payment services to the public.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "WAEMU instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCRG, through the Guineenne de la Monetique (GuiM) it steers, launched NimbaPay on 22 July 2026 as the national instant and interoperable payment platform linking banks, e-money institutions and microfinance, per Guineenews.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "Guineenne de la Monetique (GuiM), under the BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

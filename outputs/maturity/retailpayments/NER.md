@@ -1,0 +1,13 @@
+# Niger
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [Airtel Money Niger is in service, and on 1 October 2026 it began accepting payment of some Guichet Unique Automobile services through the MyAirtel app or USSD code *436#](<https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money>). [Airtel Money Niger, a BCEAO-authorised electronic money issuer, runs an e-wallet used for bills, airtime and transfers, per ActuNiger](<https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html>). [Banque Atlantique Niger and NITA say they launched Bank to Wallet and Wallet to Bank services on 26 June 2026 in Niamey, giving instant transfers between a bank account and an electronic wallet](<https://www.lesahel.org/communique-de-presse-niger-banque-atlantique-et-nita-renforcent-linteroperabilite-entre-services-bancaires-et-paiement-mobile/>).
+
+**Between providers.** [BCEAO says interoperable e-money transactions in UEMOA, which includes Niger, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>). [BCEAO says PI-SPI allows account-to-account transfers between different types of accounts in the UMOA, which had 81 e-money initiatives at the end of 2025](<https://www.lesahel.org/digitalisation-et-services-financiers-numeriques-de-la-bceao-renforcer-linclusion-financiere-la-modernisation-des-services-financiers-et-la-resilience-du-systeme-financier-de-l/>).
+
+**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
+
+***Noted, not assessed***. [PI-SPI](<https://ns2.bceao.int/sites/default/files/2026-04/Communiqu%C3%A9_Connexion_%C3%A0_PI-SPI_2_avril_2026.pdf>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+
+***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

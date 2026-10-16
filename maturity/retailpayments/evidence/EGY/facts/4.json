@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-20-papss-meeza-card-integration-waya",
+ "facts": [],
+ "systems": [
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Banks Company",
+   "tiers": ""
+  }
+ ],
+ "note": "Meeza and InstaPay are named but the document does not say what they do or that they are in service."
+}

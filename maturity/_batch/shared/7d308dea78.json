@@ -1,0 +1,1203 @@
+{
+ "slug": "2026-06-01-papss-payments-network-coverage-june-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": ""
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista).",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Cameroon as reachable for inbound payments only through its Extended Network partners: one bank and one mobile wallet; no direct participant.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": ""
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": ""
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista).",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Guinea-Bissau as reachable for inbound payments only through its Extended Network partners: one mobile wallet; no direct participant.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "PAPSS lists Morocco as 'live soon' as a participant country, not yet in service.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": ""
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Niger as reachable for inbound payments only through its Extended Network partners: one mobile wallet; no direct participant.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": ""
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "PAPSS lists Somalia as 'live soon' as a participant country, not yet in service.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": ""
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "PAPSS lists Tunisia as 'live soon' as a participant country, not yet in service.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Cameroon",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Gambia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Participant, send and receive"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Guinea-Bissau",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Niger",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Extended Network, inbound only"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Somalia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Tunisia",
+       "class": "crossborder",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "PAPSS",
+       "tiers": "Live soon"
+      }
+     ],
+     "note": "The document does not mention this country, or states nothing on this topic for it."
+    }
+   }
+  }
+ }
+}

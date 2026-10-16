@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,uptake,share,quarter,"The article says about 54% of adults in Gabon are unbanked, per the World Bank's Global Findex 2025, which leaves about 46% with an account.",2025,year,Global Findex 2025,survey,2025-12-12-gabon-uncdf-financial-inclusion-deal,https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion

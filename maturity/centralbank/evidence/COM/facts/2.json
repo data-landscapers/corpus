@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Mayotte Hebdo reports KomorPay, the Banque centrale des Comores' national interbank payment infrastructure for processing, clearing and settlement in central bank money, has been operational since 23 April 2026, cutting cheque and transfer processing from three days to one working day.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "KomorPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KomorPay",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "interbank payment system (ATS)",
+   "owner": "Banque centrale des Comores",
+   "tiers": "banks"
+  },
+  {
+   "system": "Komor Switch",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "card switch, World Bank supported",
+   "owner": "Banque centrale des Comores",
+   "tiers": "banks"
+  },
+  {
+   "system": "Mali Ya Wakazi",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "agent banking",
+   "owner": "Banque centrale des Comores",
+   "tiers": "agents"
+  }
+ ],
+ "note": ""
+}

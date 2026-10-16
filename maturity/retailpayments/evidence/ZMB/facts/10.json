@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile money usage in Zambia is 76.2% per the 2025 FinScope survey, and mobile money operators connect to the National Financial Switch.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The National Financial Switch supports wallet-to-bank and bank-to-wallet transfers as well as merchant payments, per ITWeb quoting a Sybrin manager.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "National Financial Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The National Financial Switch connects banks, non-bank financial institutions, payment service providers, fintechs and mobile money operators, per ITWeb quoting a Sybrin manager.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "National Financial Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Financial Switch",
+   "country_label": "Zambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ZIPS",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "high-value settlement"
+  }
+ ],
+ "note": ""
+}

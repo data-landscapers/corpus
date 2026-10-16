@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-27-dabafinance-fusepay-preseed",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fusepay",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "B2B payments platform",
+   "owner": "Fusepay",
+   "tiers": ""
+  }
+ ],
+ "note": "Private B2B platform, not public procurement."
+}

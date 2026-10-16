@@ -1,0 +1,10 @@
+{"slug":"2026-03-12-africa24-pfss-msaanda-filets-sociaux-40000-menages","studies":{
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No procurement stated."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No consumer rules stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"Africa24 TV says the Msaanda social cash transfers under the World Bank-financed PFSS-RRC (2023-2027) pay each beneficiary up to 75,000 KMF via mobile banking, reaching 40,010 households.","as_of":"2026-03","date_precision":"month","system":"Msaanda","class":"g2p"}],"systems":[{"system":"Msaanda","country_label":"Comoros","class":"g2p","platform":"mobile banking","owner":"PFSS-RRC (World Bank-financed)","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Mobile banking named only as a G2P channel; no retail service described."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"No revenue payment stated."}}}
+}}

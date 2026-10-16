@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-25-liberianobserver-cbl-backs-lra-move-to-billion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "instant interoperable payment system",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

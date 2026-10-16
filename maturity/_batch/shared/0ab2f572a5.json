@@ -1,0 +1,12 @@
+{"slug":"2026-07-31-sierra-leone-nra-ntr-mobile-payment-app-provincial-rollout","studies":{
+"businesspayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Payments described are to government, not to people."}}},
+"paymentsuptake":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No account-ownership survey stated."}}},
+"retailpayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No mobile money service named."}}},
+"revenuecollection":{"countries":{"SLE":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Sierra Leone's National Revenue Authority is rolling out the NTR Payment Mobile App to digitise non-tax service fee payments, with training in the southern and eastern regions done and the current phase covering Port Loko, Makeni, Karene, Kono, Kambia and Falaba.","as_of":"2026-07-31","date_precision":"day","system":"NTR Payment Mobile App","class":"revenue"}
+],"systems":[{"system":"NTR Payment Mobile App","country_label":"Sierra Leone","class":"revenue","platform":"mobile app","owner":"National Revenue Authority","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "no evidence",
+   "payment": "",
+   "main": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how taxes and fees are paid.",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{"slug": "2024-10-01-dpi-map-gambia-country-profile", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "DPI Map lists Gamswitch as an active national interbank payment system operated by the Central Bank, with 12 participants in 2023, supporting P2P, P2G and P2B, with RTGS and ACH settlement.", "as_of": "2024-10", "date_precision": "month", "system": "Gamswitch", "class": "oversight"}], "systems": [{"system": "Gamswitch", "country_label": "Gambia", "class": "oversight", "platform": "RTGS, ACH", "owner": "Central Bank of The Gambia", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states no consumer-protection rule for digital finance."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Cross-border payments are marked NA."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Gamswitch supports P2G type but no government payment programme is stated."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey share is stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [{"system": "Gamswitch", "country_label": "Gambia", "class": "retail", "platform": "RTGS, ACH", "owner": "Central Bank of The Gambia", "tiers": ""}], "note": "No mobile money service is described and the document does not say wallets are connected."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

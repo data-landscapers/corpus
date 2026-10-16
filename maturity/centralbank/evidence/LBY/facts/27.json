@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The Central Bank of Libya regulates mobile and e-wallet payment by circular: Circular 9/2026 of 11 March 2026 sets e-wallet rules for banks, Moamalat and e-payment companies, with compliance checked by field inspection by its banking and currency supervision department.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "Circular 9/2026",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Circular 9/2026",
+   "country_label": "Libya",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  },
+  {
+   "system": "Moamalat",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

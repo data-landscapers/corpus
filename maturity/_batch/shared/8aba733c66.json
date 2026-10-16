@@ -1,0 +1,14 @@
+{"slug": "2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "NBR hosts the workshop and has a consumer-protection oversight unit, but no payments mandate, licensing, switch or regional link is stated."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Responsible Digital Finance Ecosystem (RDFE) pilot", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "National Bank of Rwanda / CGAP", "tiers": ""}], "note": "Survey of user risk and a plan to draft an RDFE action plan; no rules in force, rules being drafted, complaints body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "FinScope reports that 73% of Rwandan adults use services such as mobile money (KT Press, reporting FinScope; survey year not given).", "as_of": "2025-12-09", "date_precision": "day", "system": "FinScope", "class": "survey"}
+], "systems": [{"system": "FinScope", "country_label": "Rwanda", "class": "survey", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The NBR Financial Inclusion Dashboard indicates that 66% of adults use mobile money, 10% use mobile banking and 5% hold debit cards (KT Press).", "as_of": "2025-12-09", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

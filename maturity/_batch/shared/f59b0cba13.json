@@ -1,0 +1,10 @@
+{"slug":"2025-09-21-santimpay-meras-djibouti-partnership","studies":{
+"businesspayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"DJI":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"underway","fact":"Capital Newspaper reports SantimPay (Ethiopia) and Meras Djibouti signed a partnership agreement, witnessed by Djibouti ministers, to provide cross-border digital payments, remittances and merchant solutions between the two countries.","as_of":"2025-09-21","date_precision":"day","system":"SantimPay-Meras Djibouti partnership","class":"crossborder"}],"systems":[{"system":"SantimPay-Meras Djibouti partnership","country_label":"DJI","class":"crossborder","platform":"","owner":"SantimPay Financial Solutions; Meras Djibouti","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Partnership covers merchant solutions but no licensed or in-service mobile money stated."}}},
+"revenuecollection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No electronic revenue payment stated."}}}
+}}

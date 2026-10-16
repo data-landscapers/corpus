@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,protection,rules,inforce,"The SPIM regulation in force from 2 March 2026 sets a complaints procedure with an electronic portal, requires participants to answer complaints within the deadlines of Aviso 9/GBM/2020, and makes breaches punishable under the payments law.",2026-03-02,day,SPIM complaints handling (article 23),protection,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos,https://www.bancomoc.mz/media/1bwihts1/aviso-1-gbm-2026.pdf

@@ -1,0 +1,14 @@
+{"slug": "2025-12-12-gabon-uncdf-financial-inclusion-deal", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No public procurement system is mentioned."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No central bank role is mentioned."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Consumer protection is named as a reform focus, with no rules stated as drafted or in force."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No cross-border channel is mentioned."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government payment to people is mentioned."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "The article says about 54% of adults in Gabon are unbanked, per the World Bank's Global Findex 2025, which leaves about 46% with an account.", "as_of": "2025", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The article refers to growing mobile money in Gabon, per Biometric Update.", "as_of": "2025-12-12", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No electronic tax or fee payment is mentioned."}}}
+}}

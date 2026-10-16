@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-07-gha-bog-governor-remarks-saopay-launch",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Ghana licenses and supervises Dedicated Electronic Money Issuers; the Governor launched SaoPay as a new DEMI on 7 October 2026.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "SaoPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SaoPay",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "",
+   "owner": "SaoPay",
+   "tiers": "DEMI"
+  },
+  {
+   "system": "FICSOC",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-15-gamswitch-iidia-gambia-launches-bantaba-2-0-interoperable-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The release says BANTABA 2.0 allows instant transfers between bank accounts and mobile wallets, and funds to move between accounts regardless of provider.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The release says BANTABA 2.0 connects banks, mobile money operators, microfinance institutions, fintechs and PSPs through a single interoperable switch, live after a pilot, with further institutions to join.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANTABA 2.0",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Gamswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

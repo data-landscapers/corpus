@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-22 Seychelles to phase out cheques for financial transactions from 2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SEFT",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "Seychelles Electronic Funds Transfer",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Card and SEFT transaction counts are stated but no mobile money or wallet service."
+}

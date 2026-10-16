@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-12-gabon-uncdf-financial-inclusion-deal",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The article says about 54% of adults in Gabon are unbanked, per the World Bank's Global Findex 2025, which leaves about 46% with an account.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

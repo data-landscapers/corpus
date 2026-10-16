@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BurundiPay lets users transfer funds across banks, microfinance institutions and mobile money networks, using bank accounts, wallets or phone numbers, per the central bank governor.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The central bank launched BurundiPay as a national instant payments platform connecting banks, microfinance and mobile money networks, handling up to 1,000 transactions a second.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "national instant payments platform",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": "banks, microfinance, mobile money"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,revenue,payment,inservice,"Wave is used to pay for transport tickets (BRT, TER) and at public health establishments, according to economist Seydou Bocoum.",2026-10-10,day,Wave,revenue,2026-10-10-osiris-sen-pi-spi-orange-money-bocoum,https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html

@@ -1,0 +1,74 @@
+{
+ "slug": "2025-01-01-central-bank-eswatini-national-payment-systems",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Eswatini says it oversees the safety and soundness of national payment systems and lists five licensed payment service providers: MTN Fintech, E-Mali, Instacash, Shoprite mobile Money Services and DeltaPay.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Payment Systems oversight",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Fintech Limited",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-Mali (Pty) Ltd",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Instacash Services",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Shoprite mobile Money Services",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DeltaPay",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAECH",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SWIPSS",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

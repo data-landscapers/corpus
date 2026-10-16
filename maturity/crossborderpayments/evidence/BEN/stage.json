@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "crossborder",
+   "stage": "5",
+   "corridor": "inservice",
+   "regional": "regional",
+   "reported": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "5",
+   "payment": "inservice",
+   "main": "main",
+   "reported": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "slug": "2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The article says the Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Fast Payments / Eswatini Payment Switch",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fast Payments",
+       "country_label": "Eswatini",
+       "class": "oversight",
+       "platform": "fast payments",
+       "owner": "Central Bank of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Standard Bank Eswatini says its Unayo wallet has over 200,000 registered retail customers and about 5,000 business clients, and will close on 31 December 2026.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Unayo",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Standard Bank Eswatini says customers can send and receive payments in real time between participating bank accounts and wallets, 24 hours a day.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The article says the Eswatini Payment Switch connects banks and non-bank payment providers, with real-time transfers between bank accounts and wallets in service.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Eswatini Payment Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unayo",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "wallet",
+       "owner": "Standard Bank Eswatini",
+       "tiers": ""
+      },
+      {
+       "system": "Eswatini Payment Switch",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "national switch",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing on this study for Eswatini."
+    }
+   }
+  }
+ }
+}

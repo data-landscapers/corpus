@@ -1,0 +1,13 @@
+# Cote d'Ivoire
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [Africtelegraph reports that Orange Money, MTN Mobile Money and Wave have converted millions of Ivorians to mobile money transactions, which merchants, metered taxis and ride-hailing platforms have largely adopted](<https://africtelegraph.com/blog/paiement-mobile-a-abidjan-les-gnambros-freinent-la-modernisation/>). [Electronic money institutions Orange, Wave, MTN and Moov run mobile money in Cote d'Ivoire through small agents at neighbourhood kiosks who verify clients' ID at withdrawal and are told by the operators to keep a copy, per Ivoirexpress](<https://ivoirexpress.ci/2026/07/24/donnees-a-caractere-personnel-les-points-de-vente-mobile-money-sont-ils-habilites-conserver-copie-des-pieces-didentite-de-leurs-clients/>). [SimoCash, launched in May 2026, carries payments and money transfers over mobile money networks such as Orange Money in Cote d'Ivoire](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>).
+
+**Between providers.** [SimoCash lets funds move directly from one mobile money operator to another, Orange Money being named as one](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>). [Fraternite Matin reports PI-SPI, launched by the BCEAO on 30 September 2025, lets users transfer instantly between bank accounts, mobile money wallets and microfinance accounts, with 80 institutions connected](<https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026>).
+
+**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>).
+
+***Noted, not assessed***. [Tik Tak](<https://www.linfodrome.com/societe/124130-frais-de-scolarite-par-mobile-money-la-feneplaci-passe-a-la-phase-test-dans-200-etablissements>).
+
+***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

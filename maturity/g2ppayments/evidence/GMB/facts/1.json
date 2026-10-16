@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-06-biometricupdate-undp-blockchain-dpi-pilots-deployment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UNDP blockchain payment pilot with FreedomPay Wallet",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "FreedomPay Wallet",
+   "owner": "UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": "The pilot is UNDP's own, with no government role stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23-mtn-momo-ura-enhance-digital-tax-services",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo is described as a platform with millions of active users for everyday payments across Uganda.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Mobile Money (U) Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

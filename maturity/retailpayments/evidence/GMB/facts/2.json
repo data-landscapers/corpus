@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-20-wave-gambia-gtsc-digital-payment-partnership-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Point reports Wave Gambia's mobile money platform now lets passengers pay Gambia Transport Service Company bus fares through the Wave app, launched 19 June 2025.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Wave",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave",
+   "country_label": "Gambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Wave Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

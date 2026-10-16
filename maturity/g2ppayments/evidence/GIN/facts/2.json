@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-cnss-anticipation-versement-pensions-janvier-2026",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The CNSS said the January 2026 retirement and survivor pensions would be paid from 23 December 2025 through bank transfer and mobile telephony.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "CNSS pension payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNSS pension payments",
+   "country_label": "Guinea",
+   "class": "g2p",
+   "platform": "bank transfer, mobile telephony",
+   "owner": "CNSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

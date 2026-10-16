@@ -1,0 +1,13 @@
+{"slug":"2025-06-05-sentresor-plateforme-paiements-digitaux-lancee","studies":{
+"businesspayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document covers state payments to people, not public procurement."}}},
+"centralbank":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No central bank role is stated; the actor is the Treasury directorate."}}},
+"consumerprotection":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is stated."}}},
+"crossborderpayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No cross-border channel is stated."}}},
+"g2ppayments":{"countries":{"SEN":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"The Treasury directorate (DGCPT) launched SenTrésor on 2 June 2025, a digital platform to pay state expenditure including salaries, allowances, pensions, scholarships and social aid, with instant receipt of payment.","as_of":"2025-06-02","date_precision":"day","system":"SenTrésor","class":"g2p"},
+{"sub_indicator":"g2p","aspect":"streams","value":"several","fact":"The DGCPT says SenTrésor pays salaries and allowances, pensions, scholarships and social aid, and names village chiefs, students and salaried staff as beneficiaries.","as_of":"2025-06-02","date_precision":"day","system":"SenTrésor","class":"g2p"}],
+"systems":[{"system":"SenTrésor","country_label":"Senegal","class":"g2p","platform":"digital payment application","owner":"DGCPT, Trésor public","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No survey share of adults with an account is stated."}}},
+"retailpayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Mobile money operators are named only as partners; no retail service is described."}}},
+"revenuecollection":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document covers payments by the state, not payments to it."}}}
+}}

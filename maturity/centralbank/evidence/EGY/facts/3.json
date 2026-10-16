@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-04-regional-almanassa-papss-african-payment-system-explainer",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Al Manassa says the Central Bank of Egypt joined PAPSS two years after its 2022 launch.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

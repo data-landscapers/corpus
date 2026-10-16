@@ -1,0 +1,10 @@
+{"slug":"2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres","studies":{
+"businesspayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"MRT":{"facts":[],"systems":[{"system":"Conseil des Systemes de Paiement, de Compensation et de Reglement des Titres","country_label":"Mauritania","class":"oversight","platform":"","owner":"Banque Centrale de Mauritanie","tiers":""},{"system":"Systeme National de Paiement","country_label":"Mauritania","class":"other","platform":"","owner":"Banque Centrale de Mauritanie","tiers":""}],"note":"The council reviewed payment-system reforms in general terms; no licensing, switch or regional link is stated."}}},
+"consumerprotection":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No survey share."}}},
+"retailpayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Interoperability projects mentioned without a service or switch in service."}}},
+"revenuecollection":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

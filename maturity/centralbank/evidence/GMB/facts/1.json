@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The release says the Central Bank of The Gambia, as lead regulator of the national payment system, launched the NPSAC after the launch of BANTABA 2.0, described as the country's first real-time, fully interoperable payment system.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANTABA 2.0",
+   "country_label": "The Gambia",
+   "class": "oversight",
+   "platform": "Mojaloop",
+   "owner": "Gamswitch",
+   "tiers": ""
+  },
+  {
+   "system": "National Payment Systems Advisory Committee (NPSAC)",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

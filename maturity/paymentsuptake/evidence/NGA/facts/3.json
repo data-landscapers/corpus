@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-22-nga-independent-efina-a2f-2026-survey",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "EFInA's A2F 2026 survey, released 16 September 2026, puts formal financial inclusion of Nigerian adults at 73%, about 87.2 million people.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "EFInA Access to Financial Services in Nigeria (A2F) Survey 2026",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "EFInA's A2F 2026 survey, released 16 September 2026, puts formal financial inclusion of Nigerian adults at 73%, about 87.2 million people.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "EFInA Access to Financial Services in Nigeria (A2F) Survey 2026",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EFInA Access to Financial Services in Nigeria (A2F) Survey",
+   "country_label": "Nigeria",
+   "class": "survey",
+   "platform": "",
+   "owner": "EFInA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

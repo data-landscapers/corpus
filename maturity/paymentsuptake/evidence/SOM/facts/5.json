@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-26-dawan-somalia-financial-inclusion-opinion",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The Somalia Financial Access Survey Report SOM-FAS2026 (Central Bank of Somalia and National Bureau of Statistics), as described by an opinion writer, puts banking penetration at approximately 19 percent of adults.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SOM-FAS2026",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SOM-FAS2026",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SOM-FAS2026",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

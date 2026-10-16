@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-10-beac-joins-papss-cemac-banks-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "BEAC joined PAPSS, announced by Afreximbank on 9 July 2026, and CEMAC banks are to be connected to it by end-2026.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

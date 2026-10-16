@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The National Bank of Rwanda says it is working with financial institutions on delayed and failed eKash transfers on the national digital payment system, with rejection below 2% by September 2026.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

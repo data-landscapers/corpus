@@ -1,0 +1,10 @@
+{"slug": "2024-09-12-bcm-strategie-nationale-paiement-numerique-2023-2028", "studies": {
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Companion page states no procurement system."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Stratégie Nationale de Paiement Numérique 2023-2028", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Banque Centrale de Mauritanie", "tiers": ""}], "note": "Strategy aims are stated; no mandate, licensing, switch or regional link is stated as drafted or in service."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Companion page states no consumer-protection rule."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No cross-border channel is stated."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey share is stated on the companion page."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Instant-payment system is only a planned modernisation; no service in service is stated."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Companion page states no tax payment."}}}
+}}

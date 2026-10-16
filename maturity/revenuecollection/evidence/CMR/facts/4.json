@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Licensed payment institution Konoom Cameroun plans to let users pay taxes, levies and customs duties from a phone once Konoom Mobile Money launches in the coming months, per Agence Ecofin.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "Konoom Mobile Money",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "BCEAO says the UMOA payment infrastructure includes STAR-UMOA, SICA-UMOA and SAGETIL-UMOA and the PI-SPI instant-payment platform, regional systems of the Union that includes Niger.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "STAR-UMOA, SICA-UMOA, SAGETIL-UMOA, PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-07 Guinea Plans Mobile Payment System to Ease Cash Shortage",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Guinea has 11 licensed e-money institutions and about 26% of adults hold an e-money account, per the BCRG.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

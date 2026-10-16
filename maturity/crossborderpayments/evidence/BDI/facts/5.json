@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-06-burundi-burundipay-instant-payment-uptake-brb",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "EAC central bank governors meeting in Kampala in July 2026 decided BurundiPay must be interconnected with other member states' payment systems for cross-border payments.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "BurundiPay",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The BRB has acceded to PAPSS, with four Burundian banks authorised to take part, says BRB's Nduwimana Libere.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Burundi",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

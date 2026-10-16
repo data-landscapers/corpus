@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-04-tchad-budget-2027-numerique-finances-publiques",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The 2027 budget orientations say tax, customs and Treasury systems are to be integrated with electronic payment solutions.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "solutions de paiement électronique",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The orientations say the e-Visa platform will become the sole channel for requesting, paying for, processing and issuing entry visas to Chad.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "e-Visa",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

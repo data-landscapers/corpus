@@ -1,0 +1,11 @@
+{"slug":"2026-07-28-burkina-faso-anpfi-wave-financial-consumer-training","studies":{
+"businesspayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"BFA":{"facts":[],"systems":[{"system":"ANPFI","country_label":"Burkina Faso","class":"other","platform":"","owner":"state","tiers":"training"}],"note":"A consumer training campaign is not a rule or a complaints body."}}},
+"crossborderpayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Not covered."}}},
+"g2ppayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Not covered."}}},
+"paymentsuptake":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No survey share is given."}}},
+"retailpayments":{"countries":{"BFA":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Wave Burkina offers digital finance used for payment, money transfer and savings by traders, farmers and young entrepreneurs, per its representative at an ANPFI training launch.","as_of":"2026-07-28","date_precision":"day","system":"Wave Burkina","class":"retail"}],"systems":[{"system":"Wave Burkina","country_label":"Burkina Faso","class":"retail","platform":"","owner":"Wave","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

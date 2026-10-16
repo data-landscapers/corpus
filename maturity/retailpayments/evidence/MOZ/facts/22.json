@@ -1,0 +1,42 @@
+{
+ "slug": "2025-08-25-irps-tax-mobile-money-agents-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique has three electronic money institutions run by the three mobile operators (M-Pesa, e-Mola, M-kesh) providing money transfers and payment for services by mobile phone, with 19,870,700 e-money customers, per Club of Mozambique citing the Bank of Mozambique.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "M-Pesa, e-Mola, M-kesh",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "mobile operator",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "mobile operator",
+   "tiers": ""
+  },
+  {
+   "system": "M-kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "",
+   "owner": "mobile operator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-thecitizen-tz-cash-lite-drive-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Bank of Tanzania governor says electronic payments are increasingly used for government services through control numbers.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "control numbers",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government control numbers",
+   "country_label": "Tanzania",
+   "class": "revenue",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

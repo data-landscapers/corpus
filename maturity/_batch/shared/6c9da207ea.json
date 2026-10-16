@@ -1,0 +1,10 @@
+{"slug": "2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade", "studies": {
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public procurement stated."}}},
+"centralbank": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Sistema de Transferencias Instantaneas (STI)", "country_label": "Angola", "class": "retail", "platform": "KWiK", "owner": "EMIS", "tiers": ""}], "note": "EMIS operates the STI; no central bank role stated."}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No Angolan consumer-protection rule stated."}}},
+"crossborderpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "PAPSS is described generally; Angola's participation is not stated and its cross-border link is posed only as a question."}}},
+"g2ppayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"paymentsuptake": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No survey share of adults stated."}}},
+"retailpayments": {"countries": {"AGO": {"facts": [{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "EMIS describes the STI as account-to-account interoperability between bank and non-bank payment service providers, and KWiK processed 4.48 million transfers worth Kz 123.85 billion in August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Sistema de Transferencias Instantaneas (STI)", "class": "retail"}], "systems": [{"system": "Sistema de Transferencias Instantaneas (STI)", "country_label": "Angola", "class": "retail", "platform": "KWiK", "owner": "EMIS", "tiers": "banks and non-bank PSPs including mobile money operators"}], "note": ""}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

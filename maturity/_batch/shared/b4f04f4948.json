@@ -1,0 +1,132 @@
+{"slug": "2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study", "studies": {
+"businesspayments": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."},
+"CMR": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."},
+"COG": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."},
+"GAB": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."},
+"GNQ": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."},
+"TCD": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."}}},
+"centralbank": {"countries": {
+"CAF": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including the Central African Republic, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""},
+"CMR": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Cameroon, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""},
+"COG": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including the Republic of Congo, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""},
+"GAB": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Gabon, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""},
+"GNQ": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Equatorial Guinea, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""},
+"TCD": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Chad, regulates payment market structures including technical approvals and authorisations of payment solutions.", "as_of": "2023-11", "date_precision": "month", "system": "BEAC", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "oversight"}],
+ "systems": [{"system": "GIMACPAY", "country_label": "CEMAC", "class": "retail", "platform": "instant payment switch", "owner": "BEAC 99.2%, commercial banks 0.8%", "tiers": "direct and indirect"}], "note": ""}}},
+"consumerprotection": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."},
+"CMR": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."},
+"COG": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."},
+"GAB": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."},
+"GNQ": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."},
+"TCD": {"facts": [], "systems": [], "note": "The study says consumer protection rules are national and may conflict, but states no rule in force for any named country."}}},
+"crossborderpayments": {"countries": {
+"CAF": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says the Central African Republic is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""},
+"CMR": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says Cameroon is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""},
+"COG": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says the Republic of Congo is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""},
+"GAB": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says Gabon is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""},
+"GNQ": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says Equatorial Guinea is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""},
+"TCD": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries domestic and cross-border payments within the six CEMAC states including Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "AfricaNenda says Chad is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined.", "as_of": "2022", "date_precision": "year", "system": "GIMACPAY", "class": "crossborder"}],
+ "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."},
+"CMR": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."},
+"COG": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."},
+"GAB": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."},
+"GNQ": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."},
+"TCD": {"facts": [], "systems": [], "note": "The study says G2P is available on GIMACPAY but not used to date."}}},
+"paymentsuptake": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."},
+"CMR": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."},
+"COG": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."},
+"GAB": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."},
+"GNQ": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."},
+"TCD": {"facts": [], "systems": [], "note": "Only a 2017 CEMAC-wide Findex share of 23% is given, not a recent survey."}}},
+"retailpayments": {"countries": {
+"CAF": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Central African Republic.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""},
+"CMR": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Cameroon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""},
+"COG": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Republic of Congo.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""},
+"GAB": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Gabon.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""},
+"GNQ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Equatorial Guinea.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""},
+"TCD": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "AfricaNenda says GIMACPAY, live since July 2020, carries P2P and merchant payments to and from 11 mobile money operators across the six CEMAC states including Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "AfricaNenda says GIMACPAY gives all-to-all interoperability between banks, microfinance institutions and mobile money operators in the six CEMAC states including Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Chad.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "retail"}],
+ "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "Tax payments are enabled on GIMACPAY, but the study says only Cameroon's treasury is connected."},
+"CMR": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "AfricaNenda says GIMACPAY enables tax payments and e-government services, and the treasury of Cameroon is the only treasury connected to date.", "as_of": "2023-11", "date_precision": "month", "system": "GIMACPAY", "class": "revenue"}],
+ "systems": [], "note": ""},
+"COG": {"facts": [], "systems": [], "note": "Tax payments are enabled on GIMACPAY, but the study says only Cameroon's treasury is connected."},
+"GAB": {"facts": [], "systems": [], "note": "Tax payments are enabled on GIMACPAY, but the study says only Cameroon's treasury is connected."},
+"GNQ": {"facts": [], "systems": [], "note": "Tax payments are enabled on GIMACPAY, but the study says only Cameroon's treasury is connected."},
+"TCD": {"facts": [], "systems": [], "note": "Tax payments are enabled on GIMACPAY, but the study says only Cameroon's treasury is connected."}}}
+}}

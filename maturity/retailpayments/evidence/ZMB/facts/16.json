@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-27 Zambia partners with PAYZ to boost financial inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "President Hichilema describes the Payments Association of Zambia as representing a mobile money sector that has extended financial services to unbanked rural communities through agency networks.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "ZMB",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

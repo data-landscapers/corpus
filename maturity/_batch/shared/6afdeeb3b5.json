@@ -1,0 +1,12 @@
+{"slug": "2026-09-15-mwi-ednews-givedirectly-canva-150m-mobile-money-transfers", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on consumer protection; the fraud and hotline remarks are GiveDirectly's own."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Payments are GiveDirectly's own NGO programme; the government only helps select areas, so no government payment is stated."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "GiveDirectly says it sends unconditional cash transfers of about US$550 per eligible adult to recipients in Malawi by mobile money, with 85,000 adults enrolled and paid in TA Khongoni.", "as_of": "2026-09-15", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

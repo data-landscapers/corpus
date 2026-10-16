@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-11-who-mozambique-mobile-money-health-campaigns",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "WHO Mozambique says it has used the Mobile Money (MOMO) digital payment system since 2024 to pay nearly 246,000 health workers and volunteers, over US$14.4 million so far.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "MOMO",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOMO",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mozambique; the WHO payments are not a government programme."
+    }
+   }
+  }
+ }
+}

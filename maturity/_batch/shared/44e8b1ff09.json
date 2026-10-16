@@ -1,0 +1,105 @@
+{
+ "slug": "2026-08-02-bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BPR Bank Rwanda and MTN MoMo Rwanda launched MoFaya, letting customers borrow up to Rwf2 million and save directly from their Mobile Money wallets by dialling 1825*6#.",
+       "as_of": "2026-08-02",
+       "date_precision": "day",
+       "system": "MoFaya",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MoFaya",
+       "country_label": "Rwanda",
+       "class": "other",
+       "platform": "USSD 1825*6#",
+       "owner": "BPR Bank Rwanda and MTN MoMo Rwanda",
+       "tiers": ""
+      },
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "MTN MoMo Rwanda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-wb-zimbabwe-country-growth-jobs-report-imtt-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank report says mobile money is used by 63 percent of Zimbabwe's population and mobile and internet payments exceed 80 percent of retail transaction volumes.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-31-techafricanews-lbpay-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech Africa News reports that Looping Binary has launched LBPay in Cameroon, a platform to send and receive money, manage wallets and pay bills and airtime.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "LBPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Tech Africa News reports that LBPay lets users transfer funds across different mobile money networks.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "LBPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LBPay",
+   "country_label": "CMR",
+   "class": "retail",
+   "platform": "",
+   "owner": "Looping Binary",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

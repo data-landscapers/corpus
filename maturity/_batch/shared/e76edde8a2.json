@@ -1,0 +1,10 @@
+{"slug": "2026-07-25-malawi-cash-reliance-banknote-costs-digital-payment-uptake", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a payment systems report is mentioned, no mandate, licensing, switch or regional link stated."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "An Economics Association of Malawi president said Malawi has recorded increased adoption of mobile money platforms and interbank transfers, citing the Reserve Bank of Malawi's 2025 first quarter payment systems report.", "as_of": "2025-03", "date_precision": "month", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "Malawi", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Levy on digital transfers is mentioned, not electronic payment of taxes."}}}
+}}

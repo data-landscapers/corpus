@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-20-lejour-gimacpay-600bn-fcfa-transactions",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Gimacpay links 95 participants including 53 banks, 11 mobile money operators, the Cameroonian Treasury and 16 aggregators, and processed 12 million transactions worth 601.7 billion FCFA by 31 December 2023 per BEAC data.",
+   "as_of": "2023-12-31",
+   "date_precision": "day",
+   "system": "Gimacpay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gimacpay",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "Gimac interbank platform",
+   "owner": "Gimac",
+   "tiers": "53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators"
+  }
+ ],
+ "note": ""
+}

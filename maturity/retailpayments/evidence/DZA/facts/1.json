@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Domestic instant payment system",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "instant switch",
+   "owner": "Bank of Algeria / CPI",
+   "tiers": "in preparation"
+  }
+ ],
+ "note": "Instant system only being prepared; DZ MOB PAY named without a statement of what it does."
+}

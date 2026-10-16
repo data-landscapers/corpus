@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-standard-bank-cips-cny-8-billion-africa-china",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIPS",
+   "country_label": "Lesotho",
+   "class": "crossborder",
+   "platform": "RMB settlement",
+   "owner": "Standard Bank access",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing that answers this study's questions."
+}

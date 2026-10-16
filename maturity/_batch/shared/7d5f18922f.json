@@ -1,0 +1,117 @@
+{
+ "slug": "2025-12-19-cnss-paiement-3010-droits-uniques-mobile-money",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The CNSS began paying 3,010 maternity and old-age single-entitlement benefits on 19 December 2025, all without cash, by bank transfer or Mobile Money.",
+       "as_of": "2025-12-19",
+       "date_precision": "day",
+       "system": "CNSS single-entitlement benefit payments",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNSS single-entitlement benefit payments",
+       "country_label": "Gabon",
+       "class": "g2p",
+       "platform": "bank transfer, Mobile Money",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Mobile Money is used in Gabon to settle CNSS benefit payments, with amounts at or below 100,000 FCFA paid by Mobile Money only.",
+       "as_of": "2025-12-19",
+       "date_precision": "day",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNSS single-entitlement benefit payments",
+       "country_label": "Gabon",
+       "class": "g2p",
+       "platform": "bank transfer, Mobile Money",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

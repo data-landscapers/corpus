@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "M-PESA Ethiopia launched a Tax Payment Mini App letting taxpayers in the Amhara Region pay the Amhara Bureau of Revenue by Bill ID, the first of planned integrations with regional revenue authorities.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "M-PESA Tax Payment Mini App",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA Tax Payment Mini App",
+   "country_label": "Ethiopia",
+   "class": "revenue",
+   "platform": "M-PESA Super App",
+   "owner": "M-PESA Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

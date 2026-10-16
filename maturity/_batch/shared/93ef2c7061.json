@@ -1,0 +1,113 @@
+{
+ "slug": "2026-08-19-channelafrica-burundi-comesa-payment-integration",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The Bank of the Republic of Burundi hosted training for local banks and the Post Office on connecting to COMESA's Regional Payment and Settlement System and Digital Regional Payment Platform, with connection under way and not yet stated in service.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "COMESA Regional Payment and Settlement System",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BurundiPay",
+       "country_label": "Burundi",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "COMESA Regional Payment and Settlement System",
+       "country_label": "COMESA",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "COMESA",
+       "tiers": ""
+      },
+      {
+       "system": "Digital Regional Payment Platform",
+       "country_label": "COMESA",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "COMESA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Burundi."
+    }
+   }
+  }
+ }
+}

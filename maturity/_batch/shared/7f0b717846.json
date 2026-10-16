@@ -1,0 +1,77 @@
+{
+ "slug": "2026-07-02-bon-ipn-namclear-instant-payments-pact-techafricanews",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration of intent only; no in-service switch, mandate or service stated."
+    }
+   }
+  }
+ }
+}

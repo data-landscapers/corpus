@@ -1,0 +1,86 @@
+{
+ "slug": "2026-09-02-beac-registre-instructions-circulaires-reglements-paiement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CEMAC/UMAC payment regulations",
+       "country_label": "Chad",
+       "class": "other",
+       "platform": "",
+       "owner": "BEAC",
+       "tiers": ""
+      }
+     ],
+     "note": "Register lists titles only; no statement within three years on licensing, a switch in service or a mandate status."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

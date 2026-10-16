@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-10-bdi-burunditimes-eapss-paiements",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Burundi has pledged to join the East African Payment System by December 2026 and its integration project components were unfinished when the African Development Bank grant closed in June, the East African Legislative Assembly Committee on Accounts reported.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "East African Payment System",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "East African Payment System",
+   "country_label": "Burundi",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

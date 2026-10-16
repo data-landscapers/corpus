@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-28-interoperability-costs-cut-113-agencies",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The finance minister said the Bank of Tanzania has a strategy to keep mobile money services affordable, with 113 payment service providers licensed as of March 2026.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The government reduced the cost of interoperability transfers, moving funds from bank accounts to mobile phone wallets or vice versa, with fees capped at 5,000/- above 500,000/-.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "interoperability transfers",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

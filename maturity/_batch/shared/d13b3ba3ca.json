@@ -1,0 +1,18 @@
+{"slug": "2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Chad's payment-institution licences are granted by the Central African Banking Commission (Cobac) under the CEMAC regulation of 21 December 2018; Airtel Money (2023), Konoom (2025) and Moov Money Tchad (2026) hold one.", "as_of": "2026-07-22", "date_precision": "day", "system": "Cobac payment-institution licence", "class": "oversight"}
+], "systems": [{"system": "Moov Money Tchad", "country_label": "Chad", "class": "retail", "platform": "mobile money", "owner": "Maroc Telecom (Moov Africa Tchad)", "tiers": ""}, {"system": "Airtel Money", "country_label": "Chad", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}, {"system": "Konoom", "country_label": "Chad", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "To keep its licence Moov Money Tchad must ring-fence client funds, meet solvency norms and run regular cybersecurity audits, per the article on the CEMAC payment-institution rules.", "as_of": "2026-07-29", "date_precision": "day", "system": "CEMAC payment-institution regulation", "class": "protection"}
+], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "Moov Money Tchad's payment-institution licence permits cross-border fund transfers and the article says it can offer them across the CEMAC zone; no corridor is named as in service.", "as_of": "2026-07-22", "date_precision": "day", "system": "Moov Money Tchad", "class": "crossborder"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Gives a transaction value and a subscriber count, not a survey share of adults."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Moov Money Tchad, Airtel Money and Konoom are licensed payment institutions in Chad, and BEAC counted FCFA 526.7 billion of mobile transactions there at end-2024.", "as_of": "2026-07-22", "date_precision": "day", "system": "Moov Money Tchad", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

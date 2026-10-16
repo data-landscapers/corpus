@@ -1,0 +1,77 @@
+{
+ "slug": "2026-08-26-newvision-ura-toll-collection-expressway",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact: parliamentary committee only recommends that URA take over toll collection and introduce electronic payment; a toll concession is not a stated tax or fee payment system."
+    }
+   }
+  }
+ }
+}

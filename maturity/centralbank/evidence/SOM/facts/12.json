@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-08-somalia-house-of-people-national-payment-system-bill-passed",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The House of the People passed the National Payment System Bill 154-2, empowering the Central Bank of Somalia to license, supervise and oversee payment systems and digital money platforms; it goes to the Senate.",
+   "as_of": "2025-11-08",
+   "date_precision": "day",
+   "system": "National Payment System Bill",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

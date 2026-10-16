@@ -1,0 +1,109 @@
+{
+ "slug": "2026-04-24-bkam-rapport-annuel-inclusion-financiere-exercice-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "Bank Al-Maghrib's annual financial-inclusion report puts the adult bank account holding rate at 58% at end-2024, up from 53% in 2021.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Bank Al-Maghrib inclusion measurement",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "Bank Al-Maghrib's annual financial-inclusion report puts the adult bank account holding rate at 58% at end-2024, up from 53% in 2021.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Bank Al-Maghrib inclusion measurement",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Bank Al-Maghrib reports 13.7 million m-wallets outstanding in 2024, up from 6.3 million in 2021.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "m-wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

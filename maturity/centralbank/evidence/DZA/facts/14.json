@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-18-algerie-paiements-electroniques-939-milliards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GIE Monétique",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "national mobile switch",
+   "owner": "GIE Monétique",
+   "tiers": ""
+  }
+ ],
+ "note": "No central bank role is stated."
+}

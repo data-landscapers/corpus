@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-26-uk-south-sudan-fintech-cooperation-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Payment System",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."
+}

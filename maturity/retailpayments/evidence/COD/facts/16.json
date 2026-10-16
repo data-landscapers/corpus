@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-04-bcc-inclusion-financiere-58-pourcent-actualite",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCC Governor Andre Wameso says digital payment means, notably mobile money accessible by phone, can be used without a bank account.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

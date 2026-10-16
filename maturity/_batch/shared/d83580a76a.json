@@ -1,0 +1,88 @@
+{
+ "slug": "2025-10-31 Ecobank launches instant international payment service in Togo",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Togo First reports Ecobank launched an instant cross-border transfer service in Togo with Thunes, sending and receiving money from or to more than 130 countries.",
+       "as_of": "2025-10-31",
+       "date_precision": "day",
+       "system": "Ecobank-Thunes instant international payment service",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this question."
+    }
+   }
+  }
+ }
+}

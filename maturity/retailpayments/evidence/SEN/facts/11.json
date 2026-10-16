@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-05-instant-payments-pi-spi-waemu-bceao",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Financial Afrik says BCEAO has authorised Senegal electronic money operators including Orange Finances Mobiles and Mobile Cash SA among 19 institutions to offer PI-SPI to the public.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Financial Afrik says PI-SPI gives instant interoperable transfers 24 hours a day between bank accounts and mobile wallets, with 19 Senegal institutions authorised.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

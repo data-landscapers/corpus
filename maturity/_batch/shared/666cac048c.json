@@ -1,0 +1,97 @@
+{
+ "slug": "2025-09-09-thunes-launches-real-time-payments-morocco",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Thunes says members of its Direct Global Network can now make real-time cross-border payouts in Moroccan Dirham to bank accounts in Morocco.",
+       "as_of": "2025-09-09",
+       "date_precision": "day",
+       "system": "Thunes Direct Global Network",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Thunes Direct Global Network",
+       "country_label": "Morocco",
+       "class": "crossborder",
+       "platform": "Thunes",
+       "owner": "Thunes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  }
+ }
+}

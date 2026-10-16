@@ -1,0 +1,277 @@
+{
+ "slug": "2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Guinea-Bissau."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Mali."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Guinea-Bissau.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The BCEAO list places Guinea-Bissau in the eight-country WAEMU PI-SPI rail run by the BCEAO.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "GNB",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Mali.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The BCEAO list places Mali in the eight-country WAEMU PI-SPI rail run by the BCEAO.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "MLI",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Guinea-Bissau."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Mali."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The BCEAO list places Guinea-Bissau in the eight-country WAEMU PI-SPI regional instant payment rail.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "GNB",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The BCEAO list places Mali in the eight-country WAEMU PI-SPI regional instant payment rail.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "MLI",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Guinea-Bissau."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Mali."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Guinea-Bissau."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Mali."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The BCEAO list of 30 September 2026 names Orange Money Guinea-Bissau among 7 institutions in Guinea-Bissau authorised to open PI-SPI services to the public.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "Orange Money Guinea-Bissau",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The BCEAO list shows banks and Orange Money Guinea-Bissau, a mobile money provider, authorised on PI-SPI in Guinea-Bissau.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "GNB",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The BCEAO list of 30 September 2026 names Moov Money, Sama Money and Orange Finances Mobiles Mali among 19 institutions in Mali authorised to open PI-SPI services to the public.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The BCEAO list shows banks and mobile money providers in Mali authorised together on PI-SPI.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "MLI",
+       "class_": "retail",
+       "platform": "instant payment switch",
+       "owner": "BCEAO",
+       "tiers": "banks, e-money issuers, payment institutions"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Guinea-Bissau."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Mali."
+    }
+   }
+  }
+ }
+}

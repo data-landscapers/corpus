@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-ghana-mtn-stakeholders-cross-network-momo-fraud",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN MoMo Ghana's mobile money platform is in service, processing 8.4 billion transactions at about 23 million a day, with over 350,000 agents and nearly 300,000 merchants, per an MTN manager.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Mobile Money Limited (MTN Ghana)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

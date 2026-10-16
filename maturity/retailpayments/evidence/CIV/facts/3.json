@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-civ-ecofin-afdb-fintech-support-project",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCEAO data show the electronic money usage rate in Cote d'Ivoire at 84.2% in 2024, up from 61% in 2019.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

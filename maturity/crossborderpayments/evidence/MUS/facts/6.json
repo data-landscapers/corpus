@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-04-bom-digital-payments-workshop-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of Mauritius says the UPI-RuPay partnership with India launched in February 2024 is Mauritius's first bilateral cross-border payments agreement, opening the way to interoperability and later peer-to-peer transfers via a future UPI Global Hub.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "UPI-RuPay partnership",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UPI-RuPay partnership",
+   "country_label": "Mauritius-India",
+   "class": "crossborder",
+   "platform": "UPI / RuPay",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

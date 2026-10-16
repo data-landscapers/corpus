@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-tun-lapresse-poste-inscriptions-en-ligne-e-dinar",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Parents paid school registration fees remotely through La Poste Tunisienne e-Dinar wallets and D17, and about 287,300 students (about 76%) completed remote university registration by electronic payment by end-September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "e-Dinar wallets / D17",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

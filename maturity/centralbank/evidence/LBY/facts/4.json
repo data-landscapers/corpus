@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-03-cbl-record-epayment-qr-launch-alwasat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LYPay",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "instant payment service",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OnePay",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "instant payment service",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank reports figures and agrees a QR launch, but no licensing, switch oversight or mandate is stated."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCEAO reports UEMOA electronic-money accounts reached 248 million in 2024, with 76.9 million active, in a region that includes Mali.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Electronic money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BCEAO says interoperable e-money transactions in UEMOA, which includes Mali, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "regional"
+  }
+ ],
+ "note": ""
+}

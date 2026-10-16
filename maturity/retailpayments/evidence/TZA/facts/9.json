@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-11-tza-dailynews-experts-back-mandatory-electronic-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Daily News reports formal Tanzanian businesses already use banking and mobile-money platforms, and an economist calls the reform the biggest change to the payment system since mobile money was introduced.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

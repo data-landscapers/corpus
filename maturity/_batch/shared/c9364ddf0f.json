@@ -1,0 +1,77 @@
+{
+ "slug": "2026-04-17-sao-tome-bcstp-relatorio-dos-sistemas-de-pagamentos",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page gives only exchange and money-market tables and a publication date; no payment fact."
+    }
+   }
+  }
+ }
+}

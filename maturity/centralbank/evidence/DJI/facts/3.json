@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-01-siips-2024-djibouti-excerpt",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "AfricaNenda's SIIPS 2024 says Djibouti has integrated to PAPSS, though it is unclear whether any retail transactions are processed.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Système de Règlement Automatisé de Djibouti (SYRAD)",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

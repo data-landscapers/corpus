@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-21-ssrlp-inspire-o-aide-memoire",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "During April 2024 to March 2025, 95,520 Social Cash Transfer Programme and 195,520 public works beneficiaries in 10 World Bank-funded districts were enrolled on e-payments and received MWK 4.57 billion and MWK 21.08 billion in e-wallets, per the World Bank aide memoire citing NLGFC.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "SCTP and CSPWP e-payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SCTP and CS-EPWP e-payments",
+   "country_label": "Malawi",
+   "class": "g2p",
+   "platform": "e-wallets via TNM, Airtel, FDH, Standard Bank, Wealthnet Finance (Kaku Pay), NBS Bank",
+   "owner": "NLGFC",
+   "tiers": ""
+  },
+  {
+   "system": "Unified Beneficiary Registry",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-08-18-sapo-guine-equatorial-pretende-fortalecer-capacidades-digitais","studies":{
+"businesspayments":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No public procurement stated."}}},
+"centralbank":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No protection rules stated."}}},
+"crossborderpayments":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No survey stated."}}},
+"retailpayments":{"countries":{"GNQ":{"facts":[],"systems":[{"system":"SelBa24","country_label":"Guiné Equatorial","class":"other","platform":"","owner":"","tiers":""}],"note":"Training seminar on an e-commerce platform; no mobile money or wallet service stated."}}},
+"revenuecollection":{"countries":{"GNQ":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

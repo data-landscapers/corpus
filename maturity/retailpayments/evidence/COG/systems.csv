@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,Yano,Congo,retail,payment aggregation gateway,"Yano (Regis Dilou, Elwin Gomo)",,2026-09-29-cog-aci-yano-fintech-mobile-payments
+COG,Airtel Money,COG,retail,,Airtel Congo,,2026-04-23-airtel-money-education-digitalisation-techreviewafrica
+COG,Mobile Money Congo (MMC),Congo,retail,,MTN with Ecobank,,2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb
+COG,Mobile Commerce Congo (MCC),Congo,retail,,Airtel with BGFI Bank,,2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb
+COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The release says BANTABA 2.0, the country's first real-time, fully interoperable payment system, has been launched, providing the backbone for instant digital payments.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "BANTABA 2.0",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANTABA 2.0",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Gamswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

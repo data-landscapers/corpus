@@ -1,0 +1,12 @@
+{"slug":"2025-10-09-ghana-leap-98th-cycle-payments","studies":{
+"businesspayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No procurement system stated."}}},
+"centralbank":{"countries":{"GHA":{"facts":[],"systems":[],"note":"GhIPSS is named but no central bank role is stated."}}},
+"consumerprotection":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Only a fraud hotline for LEAP; no financial services rule stated."}}},
+"crossborderpayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"underway","fact":"The Ministry of Gender, Children and Social Protection said on 9 October 2025 it has a partnership with GhIPSS to implement the Ghana Pay mobile money payment system for LEAP, giving beneficiaries multiple cash-out options.","as_of":"2025-10-09","date_precision":"day","system":"Ghana Pay","class":"g2p"}],
+"systems":[{"system":"LEAP","country_label":"Ghana","class":"g2p","platform":"","owner":"MoGCSP","tiers":""},{"system":"Ghana Pay","country_label":"Ghana","class":"g2p","platform":"mobile money","owner":"GhIPSS","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Ghana Pay is named only as a LEAP disbursement partnership; no retail service status stated."}}},
+"revenuecollection":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

@@ -1,0 +1,370 @@
+{
+ "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Guinea-Bissau, launched 30 September 2025 with 175 connected participants a year later.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Guinea-Bissau is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Mali, launched 30 September 2025 with 175 connected participants a year later.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Mali is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Niger, launched 30 September 2025 with 175 connected participants a year later.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Niger is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Guinea-Bissau is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Mali is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Niger is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO reports UEMOA electronic-money accounts reached 248 million in 2024, with 76.9 million active, in a region that includes Guinea-Bissau.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Electronic money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "BCEAO says interoperable e-money transactions in UEMOA, which includes Guinea-Bissau, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO reports UEMOA electronic-money accounts reached 248 million in 2024, with 76.9 million active, in a region that includes Mali.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Electronic money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "BCEAO says interoperable e-money transactions in UEMOA, which includes Mali, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO reports UEMOA electronic-money accounts reached 248 million in 2024, with 76.9 million active, in a region that includes Niger.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Electronic money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "BCEAO says interoperable e-money transactions in UEMOA, which includes Niger, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": "regional"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names the country only as a UEMOA member and states nothing for this study."
+    }
+   }
+  }
+ }
+}

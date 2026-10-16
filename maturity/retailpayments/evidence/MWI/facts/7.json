@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-16-rbm-national-payments-strategy-2026-2030-itweb",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The National Switch rolled out in 2015 linked banks, mobile money platforms and ATMs into a unified network.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "National Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The National Switch rolled out in 2015 linked banks, mobile money platforms and ATMs into a unified network.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "National Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Switch",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Reserve Bank of Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Interbank Transfer and Settlement System",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

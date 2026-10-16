@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-gha-bog-governor-remarks-saopay-launch",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Governor says the Bank's pricing requirements apply to issuers' agent and merchant networks, and licensing requires applicants to disclose fees and commissions.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Bank of Ghana pricing requirements",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

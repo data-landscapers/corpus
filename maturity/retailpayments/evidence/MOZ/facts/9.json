@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-15-moz-sapo-moeda-eletronica-contas-banca",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique has three electronic money operators, M-Pesa, e-Mola and M-Kesh, providing financial services by mobile phone, with 130.9 e-money accounts per 100 adults in Q2 2026, according to Banco de Moçambique data compiled by Lusa.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "M-Pesa, e-Mola, M-Kesh",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "M-Kesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

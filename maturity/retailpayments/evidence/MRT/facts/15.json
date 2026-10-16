@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-14-gimtel-interbank-transactions-launch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "GIMTEL officially launched interconnection between bank applications and e-wallets, with BreadCash, Bamis Digital, BCI Pay, Bankili, Amanti, Sedad and Qlik already joined.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "GIMTEL interconnection",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "GIMTEL's launched interconnection links national bank apps and e-wallets in one system, with further providers in technical testing.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "GIMTEL interconnection",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMTEL interconnection",
+   "country_label": "Mauritania",
+   "class": "retail",
+   "platform": "interbank switch for bank apps and e-wallets",
+   "owner": "GIMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

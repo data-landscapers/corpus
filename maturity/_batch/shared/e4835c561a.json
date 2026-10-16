@@ -1,0 +1,117 @@
+{
+ "slug": "2026-08-02-mtn-mobile-money-faces-scrutiny-over-fees-as-rwandas-digital-economy-expands",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Rwanda has completed the transition of all domestic interoperable retail payments to eKash (RNDPS), and active mobile money accounts reached 8.56 million per RURA's Q1 2026 report.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "eKash",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Since 14 July 2026 customers can transfer between bank accounts and mobile wallets across institutions through eKash, with a maximum fee of Rwf20 per interoperable transaction.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "eKash",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "Transfers between mobile money and banks are processed through a single national interoperable payment infrastructure operated by RSwitch.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "eKash",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eKash (RNDPS)",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "national interoperable payment system",
+       "owner": "RSwitch",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

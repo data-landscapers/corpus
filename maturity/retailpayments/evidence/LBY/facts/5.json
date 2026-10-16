@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Jumhouria Bank launched an e-payment service for petrol stations through the OnePay - Mini Pay platform in the Masrafi Plus app, without commission fees (Libya Herald).",
+   "as_of": "2026-01-14",
+   "date_precision": "day",
+   "system": "OnePay - Mini Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OnePay - Mini Pay",
+   "country_label": "Libya",
+   "class": "retail",
+   "platform": "Masrafi Plus app",
+   "owner": "Jumhouria Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

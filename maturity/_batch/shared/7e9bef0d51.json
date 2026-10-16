@@ -1,0 +1,97 @@
+{
+ "slug": "2026-09-16-wto-tfa-mauritania-article-7-2-paiement-electronique",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "none",
+       "fact": "The WTO TFA database says Mauritania needs Treasury rules changed to allow electronic payment of import and export duties, and its extension request to 2027 for Article 7.2 was not approved.",
+       "as_of": "2025-02-24",
+       "date_precision": "day",
+       "system": "Article 7.2 electronic payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "customs system",
+       "owner": "Direction generale des douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

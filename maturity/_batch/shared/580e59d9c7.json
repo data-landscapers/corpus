@@ -1,0 +1,108 @@
+{
+ "slug": "2026-09-21-ken-cbk-draft-nps-policy-and-bill-2026-consultation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "The Central Bank of Kenya says it and the National Treasury developed a draft National Payment System Policy and a National Payment System Bill, 2026, which would repeal the National Payment System Act Cap. 491A.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "National Payment System Bill, 2026",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Payment System Act Cap. 491A",
+       "country_label": "National Payment System Act",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "draft",
+       "fact": "The Central Bank of Kenya says the draft National Payment System Bill, 2026 aims to secure financial stability through risk management, consumer and data protection.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "National Payment System Bill, 2026",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

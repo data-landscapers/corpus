@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Unified Government Payment Platform",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "EthioPay CBP",
+   "owner": "Ministry of Finance, National Bank of Ethiopia, EthSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": "National Bank of Ethiopia is named as a partner but no mandate, licensing or oversight is stated."
+}

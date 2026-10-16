@@ -1,0 +1,13 @@
+# Zimbabwe
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [The World Bank report says mobile money is used by 63 percent of Zimbabwe's population and mobile and internet payments exceed 80 percent of retail transaction volumes](<https://documents.worldbank.org/curated/en/099090226030010924/pdf/P512930-4ebf2401-e24e-459b-9b56-b00c30f983fc.pdf>). [The Reserve Bank of Zimbabwe asked banks, mobile money operators and other digital payment providers to eliminate ghost accounts, indicating mobile money operators are in service](<https://itweb.africa/article/zimbabwe-flags-cyber-risks-in-digital-payments/6GxRKMYQ1mVMb3Wj>). [A Topline Research Solutions survey found mobile money leading digital platforms at 52 percent adoption in Zimbabwe](<https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/>). [Equity Axis says EcoCash, O-Mari, Innbucks and NetOne One Wallet operate as mobile money platforms in Zimbabwe](<https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle>).
+
+**Between providers.** [Equity Axis says O-Mari wallet holders withdraw cash at CABS ATMs and EcoCash customers at TN CyberTech Bank ATMs, and that ZIPIT allows some cross-platform transfers already](<https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle>). [ZimSwitch's chief executive described it as the national payment switch, with mobile wallet integration on its e-commerce platform and interoperable QR payments being rolled out](<https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/>).
+
+**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle>).
+
+***Noted, not assessed***. [UPI-based real-time payments system](<https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html>); [Zimswitch](<https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/>); [ZETSS RTGS](<https://www.rbz.co.zw/documents/nps/quarterly/2026/NPSD_SECOND_QUARTER_REPORT_ACTIVITY_JUNE_2026.pdf>).
+
+***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

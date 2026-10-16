@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-papss-list-of-live-commercial-banks-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PAPSS's live-banks list of May 2025 shows eight commercial banks in Sierra Leone live on PAPSS.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Sierra Leone",
+   "class": "crossborder",
+   "platform": "continental payment rail",
+   "owner": "Pan-African Payment and Settlement System",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

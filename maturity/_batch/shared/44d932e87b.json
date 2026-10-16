@@ -1,0 +1,109 @@
+{
+ "slug": "2026-10-09-civ-ecofin-afdb-fintech-support-project",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "World Bank Global Findex puts Cote d'Ivoire's financial inclusion rate at 58% in 2024, up from 41% in 2017.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Global Findex",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "World Bank Global Findex puts Cote d'Ivoire's financial inclusion rate at 58% in 2024, up from 41% in 2017.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Global Findex",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO data show the electronic money usage rate in Cote d'Ivoire at 84.2% in 2024, up from 61% in 2019.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "electronic money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

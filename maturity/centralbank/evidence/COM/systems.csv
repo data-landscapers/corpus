@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,KomorPay (ATS),COM,other,ACH and RTGS,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,Komor Switch,COM,other,,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,Mali Ya Wakazi,COM,other,bank agent network,Banque Centrale des Comores,,2026-05-12-bcc-livret-nouveaux-moyens-de-paiement-komorpay-mali-ya-wakazi-komor-switch
+COM,KomorPay,Comoros,oversight,interbank payment system (ATS),Banque centrale des Comores,banks,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Komor Switch,Comoros,oversight,"card switch, World Bank supported",Banque centrale des Comores,banks,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Mali Ya Wakazi,Comoros,other,agent banking,Banque centrale des Comores,agents,2026-05-06-com-mayottehebdo-lancement-nouveaux-systemes-de-paiement-chiffres
+COM,Komor Switch,Comoros,oversight,national switch,Banque Centrale des Comores,banks and mobile money,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,KomorPay,Comoros,oversight,interbank transfer system,Banque Centrale des Comores,banks,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,Mali Ya Wakazi,Comoros,other,bank agent network,Banque Centrale des Comores,agents,2026-05-05-komorpay-komor-switch-payment-systems-presidential-launch-alwatwan
+COM,ATS+ (Automated Transfer System Plus),COM,other,,Banque Centrale des Comores,,2026-02-26-world-bank-icr-comoros-financial-inclusion-project
+COM,PayLogic interoperable payment switch,Comoros,oversight,PayLogic,,,2025-02-20-comoros-paylogic-payment-switch-award-wearetech
+COM,PAPSS,Comoros,oversight,Pan-African Payment and Settlement System,Afreximbank / African Union,,2024-08-23 Central Bank of Comoros commences PAPSS implementation

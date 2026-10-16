@@ -1,0 +1,11 @@
+{"slug":"2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs","studies":{
+"businesspayments":{"countries":{"MAR":{"facts":[],"systems":[{"system":"Fatourati","country_label":"Morocco","class":"other","platform":"","owner":"CMI","tiers":""}],"note":"Fatourati is a receivables settlement platform, not public procurement."}}},
+"centralbank":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is mentioned."}}},
+"crossborderpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No cross-border channel is mentioned."}}},
+"g2ppayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No government payment to people is mentioned."}}},
+"paymentsuptake":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No survey share of adults is given."}}},
+"retailpayments":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels.","as_of":"2026-02-18","date_precision":"day","system":"Fatourati","class":"retail"}],
+"systems":[{"system":"Fatourati","country_label":"Morocco","class":"retail","platform":"","owner":"CMI","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Fatourati is said to be used by large public and private actors, with no tax or fee payment to the state stated."}}}}}

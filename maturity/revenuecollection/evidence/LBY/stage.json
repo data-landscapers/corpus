@@ -1,0 +1,17 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "revenue",
+   "stage": "3",
+   "payment": "inservice",
+   "main": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-002;LBY-001",
+   "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
+  }
+ ]
+}

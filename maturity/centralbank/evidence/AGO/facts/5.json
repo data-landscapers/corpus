@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-21-ago-expansao-kwik-carteiras-digitais-0-6-pct",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Expansão reports the Banco Nacional de Angola launched the Kwik instant-payment platform in June 2023, which carried Kz 557.4bn in the first half of 2026 per EMIS.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Kwik",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

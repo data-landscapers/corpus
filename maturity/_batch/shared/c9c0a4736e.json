@@ -1,0 +1,117 @@
+{
+ "slug": "2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The EastAfrican reports Visa is using stablecoin settlement with Onafriq for Visa Pay in DR Congo, launched September 2025, with another planned Visa partnership awaiting regulatory approval.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Visa Pay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Visa Pay",
+       "country_label": "DR Congo",
+       "class": "crossborder",
+       "platform": "Onafriq API",
+       "owner": "Visa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Visa's Godfrey Sullivan says M-Pesa mobile money wallet top-ups in DR Congo are settled in stablecoins in the background via Visa Pay with Onafriq.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "M-Pesa",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "DR Congo",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

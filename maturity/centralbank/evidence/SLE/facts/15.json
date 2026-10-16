@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-mikashboks-ecobank-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Sierra Leone's representative cited the central bank's launch of the National Switch among its inclusion efforts.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

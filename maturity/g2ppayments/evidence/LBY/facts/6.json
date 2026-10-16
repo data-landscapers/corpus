@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-libya-cbl-governor-financial-initiatives",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Ratibak Lahzi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ratibak Lahzi",
+   "country_label": "",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

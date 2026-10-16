@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-sdn-sudanhorizon-bede-bban-service-launch",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Sudan Horizon reports Bede Sudan launched its BBAN wallet service after receiving approval from the Central Bank of Sudan.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Bede wallet BBAN service",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bede wallet",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bede Sudan (Zain)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

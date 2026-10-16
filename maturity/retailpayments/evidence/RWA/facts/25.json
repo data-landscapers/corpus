@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "From 14 July 2026 eKash moves money between any bank account and any mobile wallet in Rwanda for a flat RWF20.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "eKash, run through RSwitch, is Rwanda's national instant payment system linking all banks and mobile money wallets.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "open-source, AfricaNenda-supported",
+   "owner": "National Bank of Rwanda via RSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

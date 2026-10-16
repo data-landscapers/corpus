@@ -1,0 +1,10 @@
+{"slug": "2026-02-21-cbl-epayment-2025-stats-313bn-alwasat", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"centralbank": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Figures are from a government platform; no central bank role over payments is stated."}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not addressed."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Counts of apps, cards and wallets, not a survey share of adults."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Libya had 186,817 electronic wallets with 6,096 acceptance points and 681,092 transactions worth 92.08 billion dinars in 2025 to 15 February 2026, per data published by the Hukumatuna platform.", "as_of": "2026-02-15", "date_precision": "day", "system": "electronic wallets", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not addressed."}}}
+}}

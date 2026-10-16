@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The South African Reserve Bank bought a 50% stake in BankservAfrica in November 2025, renamed PayInc, the automated clearing house for national and pan-African retail, government, banking and corporate transactions, and says it wants PayInc to be a payment utility.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "PayInc",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayInc",
+   "country_label": "South Africa",
+   "class": "oversight",
+   "platform": "automated clearing house",
+   "owner": "SARB (50%) and banks",
+   "tiers": ""
+  },
+  {
+   "system": "PayShap",
+   "country_label": "South Africa",
+   "class": "retail",
+   "platform": "real-time payments",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-monnaie-electronique-4e-etablissement-djogana-pay-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO granted licence EME.CI.025/2025 to Djogana Pay, its Peya Pay e-money, as the fourth electronic-money institution in Cote d'Ivoire, activities being possible only after central bank approval.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "Peya Pay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Peya Pay",
+   "country_label": "CIV",
+   "class": "retail",
+   "platform": "",
+   "owner": "Djogana Pay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

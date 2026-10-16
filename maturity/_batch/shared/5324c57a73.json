@@ -1,0 +1,136 @@
+{
+ "slug": "2026-05-08-brb-interoperabilite-paiements-papss",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BRB launched BurundiPay, the national instant payment system, on 23 April 2026 and is its promoter.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BurundiPay",
+       "country_label": "Burundi",
+       "class": "oversight",
+       "platform": "instant payment system",
+       "owner": "BRB",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Burundi",
+       "class": "other",
+       "platform": "",
+       "owner": "Afreximbank and African Union",
+       "tiers": ""
+      }
+     ],
+     "note": "The document says Burundi has not yet joined PAPSS; the BRB is only invited to finalise integration."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The BRB says BurundiPay already allows exchanges between banks, microfinance institutions and mobile wallets locally.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The BRB launched BurundiPay, a national instant payment system, on 23 April 2026, connecting banks, microfinance institutions and mobile wallets.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "BurundiPay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BurundiPay",
+       "country_label": "Burundi",
+       "class": "retail",
+       "platform": "instant payment system",
+       "owner": "BRB",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

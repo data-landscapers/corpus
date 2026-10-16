@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-29-xgl-africanenda-access-or-usage-siips-2026-financial-inclusion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mauritius is named only as the launch venue; no statement about the country."
+    }
+   }
+  }
+ }
+}

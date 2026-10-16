@@ -1,0 +1,14 @@
+{"slug": "2026-07-29-botswana-bank-of-botswana-electronic-money-regulations", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Bank of Botswana licenses electronic payment services: under the amended regulations in force since 2 April 2026 no one may operate one without its licence, on pain of a P1 million fine or five years in prison.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services Regulations", "class": "oversight"}
+], "systems": [{"system": "Electronic Payment Services Regulations (amended 2026)", "country_label": "Botswana", "class": "oversight", "platform": "", "owner": "Bank of Botswana", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Penalties and licensing are stated; no user conduct rule or complaints body is."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Money or value transfer services are mentioned only as a sector; no corridor is stated."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No survey share of adults is given."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The amended regulations let licensed e-money issuers in Botswana pay interest to customers on electronic money balances, which the Bank says supports product innovation.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services Regulations", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

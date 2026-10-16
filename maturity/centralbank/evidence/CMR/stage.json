@@ -1,0 +1,17 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-003;CMR-011",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
+  }
+ ]
+}

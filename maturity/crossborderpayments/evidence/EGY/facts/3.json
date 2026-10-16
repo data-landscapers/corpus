@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-19-aacb-papss-board-egyptian-participation-businessmeneg",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Egypt joined PAPSS in November 2024, and the Central Bank of Egypt says Egyptian banks can directly execute and fund cross-border transactions with regional counterparts without clearing agents or US dollar reliance.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "PAPSS",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

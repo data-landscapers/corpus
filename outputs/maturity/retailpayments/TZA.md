@@ -1,0 +1,13 @@
+# Tanzania
+
+## P2P, P2G and P2B functionality
+
+**Mobile money in service.** [LATRA's Director General says 2.91 million of 62.18 million ticketed transport passengers (4.7%) paid by digital channels over four years, 144.28 billion of 2.13 trillion shillings (6.8%)](<https://allafrica.com/stories/202609250125.html>). [Daily News reports formal Tanzanian businesses already use banking and mobile-money platforms, and an economist calls the reform the biggest change to the payment system since mobile money was introduced](<https://dailynews.co.tz/experts-back-mandatory-electronic-payments/>). [Airtel Money School Pay lets parents pay school fees by mobile phone, with more than 800 schools in 16 regions using it, says Airtel Tanzania](<https://techafricanews.com/2026/08/21/airtel-money-school-pay-expands-digital-fee-payments-to-800-schools-in-tanzania/>). [Vodacom Tanzania's M-Pesa is in service and carries the M-Wekeza investment service launched in November 2024](<https://www.telemediamagazine.com/vodacom-lesotho-brings-micro-investing-to-m-pesa-as-africas-mobile-wallets-move-into-wealth/>).
+
+**Between providers.** [The government reduced the cost of interoperability transfers, moving funds from bank accounts to mobile phone wallets or vice versa, with fees capped at 5,000/- above 500,000/-](<https://www.ippmedia.co.tz/the-guardian/news/local-news/read/interoperability-costs-cut-while-113-agencies-operate-payments-systems-2026-04-28-111407>). [The Bank of Tanzania reports TANQR connects 27 providers (21 banks, 5 mobile network operators, 1 aggregator) across B2M, M2P and P2M use cases](<https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026060211494565.pdf>).
+
+**National switch.** [The Tanzania Instant Payment System, a national system, connects 47 financial service providers including for bank-to-wallet transfers, per the report](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>).
+
+***Noted, not assessed***. [Zed360](<https://www.thecitizen.co.tz/tanzania/news/national/kcb-rolls-out-digital-school-fees-platform-nationwide-5599424>); [Central Electronic Ticketing System (CeTS)](<https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/>).
+
+***Not held***. Nothing further is asked of this indicator.

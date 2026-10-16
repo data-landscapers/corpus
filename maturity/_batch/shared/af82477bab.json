@@ -1,0 +1,108 @@
+{
+ "slug": "2025-07-29-national-payments-switch-act-drafted",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "The Bank of Botswana said the National Payments Switch Act, enabling a national retail payments switch, has been drafted and has no tabling date.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "National Payments Switch",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Payments Switch",
+       "country_label": "Botswana",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Bank of Botswana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Bank of Botswana said digitalisation of revenue collection, announced in 2023, is nearing completion pending integration with the Botswana Unified Revenue Service and the Accountant General.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "digital revenue collection",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

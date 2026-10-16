@@ -1,0 +1,9 @@
+{"slug":"2025-11-27-mastercard-axian-partnership","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[{"system":"MVola","country_label":"Madagascar","class":"other","platform":"mobile wallet","owner":"Axian Digibank & Fintech","tiers":""}],"note":"Card-based international payment features, no named corridor."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Mastercard says Axian Digibank & Fintech operates in five countries through its Mixx and MVola brands, offering a mobile wallet and payments, with MVola the brand in Madagascar.","as_of":"2025-11-27","date_precision":"day","system":"MVola","class":"retail"}],"systems":[{"system":"MVola","country_label":"Madagascar","class":"retail","platform":"mobile wallet","owner":"Axian Digibank & Fintech","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No tax or fee payment system stated."}}}}}

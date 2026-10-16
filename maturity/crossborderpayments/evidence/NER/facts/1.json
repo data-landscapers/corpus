@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-actuniger-airtel-money-transfert-international",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Airtel Money Niger launched international transfers on 25 August 2026: inbound corridors from the US, Canada, Belgium, Germany, China, Turkey, Gabon and Cameroon, and outbound to Benin, Burkina Faso, Côte d'Ivoire, Guinea-Bissau, Mali, Senegal and Togo, per ActuNiger.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Airtel Money Transfert d'Argent International",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money Transfert d'Argent International",
+   "country_label": "Niger",
+   "class": "crossborder",
+   "platform": "MyAirtel app, USSD 4361*2#",
+   "owner": "Airtel Money Niger SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

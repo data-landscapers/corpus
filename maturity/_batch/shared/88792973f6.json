@@ -1,0 +1,10 @@
+{"slug":"2025-02-05-africanenda-boss-nips-announcement","studies":{
+"businesspayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"SSD":{"facts":[],"systems":[{"system":"National Instant Payment System","country_label":"South Sudan","class":"oversight","platform":"","owner":"Bank of South Sudan","tiers":""}],"note":"NIPS is only being started, not in service; no licensing or mandate stated."}}},
+"consumerprotection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No consumer-protection rule stated."}}},
+"crossborderpayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"g2ppayments":{"countries":{"SSD":{"facts":[],"systems":[],"note":"G2P is only a planned use of NIPS, not a programme."}}},
+"paymentsuptake":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"SSD":{"facts":[],"systems":[{"system":"National Instant Payment System","country_label":"South Sudan","class":"retail","platform":"","owner":"Bank of South Sudan","tiers":""}],"note":"NIPS is being started after a 2023 proof of concept; no mobile money service or switch in service stated."}}},
+"revenuecollection":{"countries":{"SSD":{"facts":[],"systems":[],"note":"P2G is only a planned use of NIPS; no tax payment stated."}}}
+}}

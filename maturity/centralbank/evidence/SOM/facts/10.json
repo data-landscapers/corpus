@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "TechCabal says the Central Bank of Somalia launched the Somalia Instant Payment System (SIPS) in early 2025, with a national QR standard, SOMQR.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Somalia Instant Payment System (SIPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "SOMQR",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

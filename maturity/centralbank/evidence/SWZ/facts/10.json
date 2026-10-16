@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The article says the Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Fast Payments / Eswatini Payment Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fast Payments",
+   "country_label": "Eswatini",
+   "class": "oversight",
+   "platform": "fast payments",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

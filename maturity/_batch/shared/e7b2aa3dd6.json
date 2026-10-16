@@ -1,0 +1,16 @@
+{"slug": "2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The central bank (BCRG) carried the NimbaPay national instant payment system, launched in Conakry on 22 July 2026 and connecting banks, e-money institutions and microfinance institutions, with transfers possible from go-live.", "as_of": "2026-07-22", "date_precision": "day", "system": "NimbaPay", "class": "oversight"}
+], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "oversight", "platform": "Mojaloop", "owner": "BCRG, implemented by Guineenne de Monetique", "tiers": "banks, e-money institutions, microfinance institutions"}], "note": ""}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "crossborder", "platform": "Mojaloop", "owner": "BCRG", "tiers": ""}], "note": "Cross-border payments are named only as a later phase of NimbaPay, with no pilot, licence or rule stated."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The 36% access rate in 2024 is given by the governor with no survey named, so it is not recorded as a survey share."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The BCRG governor said financial access rose from 4% in 2011 to nearly 36% in 2024 thanks notably to the rise of electronic money, which implies e-money in service.", "as_of": "2024", "date_precision": "year", "system": "e-money", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "NimbaPay, in service from its 22 July 2026 launch, lets clients of connected institutions make instant, interoperable transfers between accounts regardless of their bank or financial service provider, across banks, e-money institutions and microfinance institutions.", "as_of": "2026-07-22", "date_precision": "day", "system": "NimbaPay", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "NimbaPay is described as Guinea's national instant payment system, connecting banks, e-money institutions and microfinance institutions, in service from 22 July 2026.", "as_of": "2026-07-22", "date_precision": "day", "system": "NimbaPay", "class": "retail"}
+], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "retail", "platform": "Mojaloop", "owner": "BCRG, implemented by Guineenne de Monetique", "tiers": "banks, e-money institutions, microfinance institutions"}], "note": ""}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Payments to public administrations are named only as a later NimbaPay phase, with no pilot or contract stated."}}}
+}}

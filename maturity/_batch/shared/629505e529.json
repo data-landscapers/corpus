@@ -1,0 +1,245 @@
+{
+ "slug": "2026-09-23-papss-remita-super-app",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Remita's app launched 22 September 2026 lets users transfer to anyone in Africa over PAPSS, per its managing director.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Pan-African Payment and Settlement System",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Remita",
+       "country_label": "Remita",
+       "class": "other",
+       "platform": "Remita rails",
+       "owner": "Remita",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this question for Nigeria."
+    }
+   }
+  }
+ }
+}

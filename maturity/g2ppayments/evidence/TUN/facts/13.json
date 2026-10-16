@@ -1,0 +1,7 @@
+{"slug": "2024-04-26-worldbank-tunisie-amen-protection-sociale-teri", "facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The World Bank says 44.4% of the cash transfers under Tunisia's AMEN Program have been digitalized, and a convention between the Ministry of Social Affairs and the Tunisian Post continues digital payment cards tied to an e-wallet for AMEN beneficiaries.", "as_of": "2024-04", "date_precision": "month", "system": "AMEN Social Program", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The World Bank says AMEN targeting is being fine-tuned through improvements to the social registry and the introduction of a unique identifier, with interoperability among government agencies improving verification of eligibility criteria.", "as_of": "2024-04", "date_precision": "month", "system": "AMEN Social Program", "class": "g2p"}
+], "systems": [
+{"system": "AMEN Social Program", "country_label": "Tunisia", "class": "g2p", "platform": "social registry with proxy-means test and unique identifier", "owner": "Ministry of Social Affairs", "tiers": ""},
+{"system": "Tunisian Post e-wallet payment card", "country_label": "Tunisia", "class": "g2p", "platform": "e-wallet card", "owner": "Tunisian Post", "tiers": ""}
+], "note": ""}

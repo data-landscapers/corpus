@@ -1,0 +1,62 @@
+{
+ "slug": "2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "LeSwitch introduced instant payments between banks and mobile money (M-Pesa and Khetsi) in 2021, per Standard Lesotho Bank's Samuel Koetle.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "LeSwitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025.",
+   "as_of": "2025-05-11",
+   "date_precision": "day",
+   "system": "LeSwitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile money services M-Pesa and Khetsi are named as connected to LeSwitch for instant payments with banks.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LeSwitch",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho",
+   "tiers": ""
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Khetsi",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

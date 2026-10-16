@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-beac-joins-papss",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "PAPSS says BEAC joining opens new payment corridors between Central Africa, including the Central African Republic, and the rest of the continent, to be operationalised with CEMAC institutions through end-2026.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Central African Republic",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

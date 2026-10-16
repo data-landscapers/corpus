@@ -1,0 +1,77 @@
+{
+ "slug": "2026-09-25-mrt-webmanagercenter-fintech-regional-lab",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
+    }
+   }
+  }
+ }
+}

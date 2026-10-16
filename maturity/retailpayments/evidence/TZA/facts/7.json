@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-09-tza-digital-payments-now-a-business-licensing-requirement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lipa Namba",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TANQR",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Lipa Namba and TANQR named as acceptable payment facilities but not described as mobile money or e-money services."
+}

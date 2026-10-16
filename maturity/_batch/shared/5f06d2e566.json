@@ -1,0 +1,115 @@
+{
+ "slug": "2026-09-21-mdg-newsmada-gasy-money-bgfibank",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BGFIBank Madagascar's Gasy Money mobile-banking app is available on Google Play and the App Store, open to customers and non-customers on any network.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Gasy Money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Gasy Money users can transfer money to another Gasy Money account, a bank account or Airtel Money, per Newsmada.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Gasy Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gasy Money",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "mobile app",
+       "owner": "BGFIBank Madagascar",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "Madagascar",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

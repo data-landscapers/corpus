@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-ner-actuniger-soniloga-airtel-money",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "SONILOGA, the delegated operator of the Guichet Unique Automobile du Niger, launched payment of some of its vehicle import and registration services through Airtel Money on 1 October 2026, which the transport ministry framed as securing public revenue.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Guichet Unique Automobile payment via Airtel Money",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet Unique Automobile du Niger",
+   "country_label": "Niger",
+   "class": "revenue",
+   "platform": "one-stop shop",
+   "owner": "SONILOGA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

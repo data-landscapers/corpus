@@ -1,0 +1,15 @@
+{"slug":"2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money","studies":{
+"businesspayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No public procurement system is mentioned."}}},
+"centralbank":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No central bank role is stated."}}},
+"consumerprotection":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No consumer-protection rule or redress body is mentioned."}}},
+"crossborderpayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No cross-border channel is mentioned."}}},
+"g2ppayments":{"countries":{"TCD":{"facts":[
+{"sub_indicator":"g2p","aspect":"payment","value":"underway","fact":"Tchadinfos reports the finance ministry signed partnership conventions with Moov Money, Airtel Money, Konoom and Cashi, and the minister said they cover settling the salaries of all civil servants.","as_of":"2026-02-18","date_precision":"day","system":"Finance ministry mobile money conventions","class":"g2p"}],
+"systems":[{"system":"Finance ministry mobile money conventions","country_label":"Chad","class":"g2p","platform":"Moov Money, Airtel Money, Konoom, Cashi","owner":"Ministère des Finances","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No survey share of adults is given."}}},
+"retailpayments":{"countries":{"TCD":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Tchadinfos names Moov Money and Airtel Money mobile money platforms as the networks through which public revenue can now be paid under the 18 February 2026 conventions.","as_of":"2026-02-18","date_precision":"day","system":"Moov Money","class":"retail"}],
+"systems":[{"system":"Moov Money","country_label":"Chad","class":"retail","platform":"","owner":"Moov","tiers":""},{"system":"Airtel Money","country_label":"Chad","class":"retail","platform":"","owner":"Airtel","tiers":""},{"system":"Konoom","country_label":"Chad","class":"retail","platform":"","owner":"","tiers":""},{"system":"Cashi","country_label":"Chad","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TCD":{"facts":[
+{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"Tchadinfos reports the finance ministry signed conventions on 18 February 2026 with Moov Money, Airtel Money, Konoom and Cashi to allow public revenue to be paid through mobile money platforms.","as_of":"2026-02-18","date_precision":"day","system":"Finance ministry mobile money conventions","class":"revenue"}],
+"systems":[{"system":"Finance ministry mobile money conventions","country_label":"Chad","class":"revenue","platform":"Moov Money, Airtel Money, Konoom, Cashi","owner":"Ministère des Finances","tiers":""}],"note":""}}}}}

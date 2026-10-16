@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-tza-cash-still-king-public-transport-digital",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "LATRA's Director General says 2.91 million of 62.18 million ticketed transport passengers (4.7%) paid by digital channels over four years, 144.28 billion of 2.13 trillion shillings (6.8%).",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "digital fare payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

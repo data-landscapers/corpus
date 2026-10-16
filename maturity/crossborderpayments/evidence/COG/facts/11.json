@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-belmoney-digipay-digitransfer-remittances-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Belmoney and DigiPay Group launched the DigiTransfer app enabling transfers from France and Belgium to mobile money wallets and bank accounts in the Republic of Congo; the service is limited to outbound transfers from those two countries.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "DigiTransfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DigiTransfer",
+   "country_label": "Republic of Congo",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "DigiPay Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

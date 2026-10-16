@@ -1,0 +1,97 @@
+{
+ "slug": "2026-08-19-sierra-leone-mobile-money-fraud-roadmap",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Sierra Leone Ministry of Communication, Technology and Innovation says mobile money occupies a growing place in the country's financial transactions, including on Orange's network.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mobile money",
+       "country_label": "Sierra Leone",
+       "class": "retail",
+       "platform": "Orange",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study for Sierra Leone."
+    }
+   }
+  }
+ }
+}

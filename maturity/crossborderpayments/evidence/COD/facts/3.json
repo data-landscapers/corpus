@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The EastAfrican reports Visa is using stablecoin settlement with Onafriq for Visa Pay in DR Congo, launched September 2025, with another planned Visa partnership awaiting regulatory approval.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Visa Pay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Visa Pay",
+   "country_label": "DR Congo",
+   "class": "crossborder",
+   "platform": "Onafriq API",
+   "owner": "Visa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

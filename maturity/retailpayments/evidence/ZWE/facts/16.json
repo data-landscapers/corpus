@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Reserve Bank of Zimbabwe reports mobile money carried 206,575,490 transactions, 86.70% of volume and 10.51% of value, in Q4 2025, with 10.96 million active mobile financial services subscribers.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

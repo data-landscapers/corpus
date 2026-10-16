@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-22-alger16-h1-2026-epayment-indicators",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Alger 16 reports DZ Mob Pay mobile payments launched officially in early 2025, with 126,114 individual accounts and 18,294 merchant accounts by mid-2026, in rollout with seven pilot banks.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "DZ Mob Pay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Alger 16 reports interbank QR code and P2P payments under DZ Mob Pay run on the interoperability of the national mobile switch put in service in June 2024.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "DZ Mob Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DZ Mob Pay",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "national mobile switch",
+   "owner": "GIE Monetique",
+   "tiers": ""
+  },
+  {
+   "system": "Edahabia",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CIB",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

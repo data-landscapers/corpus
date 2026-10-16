@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-21-mdg-newsmada-gasy-money-bgfibank",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BGFIBank Madagascar's Gasy Money mobile-banking app is available on Google Play and the App Store, open to customers and non-customers on any network.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Gasy Money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Gasy Money users can transfer money to another Gasy Money account, a bank account or Airtel Money, per Newsmada.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Gasy Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gasy Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "BGFIBank Madagascar",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

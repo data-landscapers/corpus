@@ -1,0 +1,68 @@
+{
+ "slug": "2026-07-02-o-mari-effect-mobile-money-war-cashout",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Equity Axis says EcoCash, O-Mari, Innbucks and NetOne One Wallet operate as mobile money platforms in Zimbabwe.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "EcoCash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Equity Axis says O-Mari wallet holders withdraw cash at CABS ATMs and EcoCash customers at TN CyberTech Bank ATMs, and that ZIPIT allows some cross-platform transfers already.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ZIPIT",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "O-Mari",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Innbucks",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "One Wallet",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ZIPIT",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

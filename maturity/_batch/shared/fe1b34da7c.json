@@ -1,0 +1,97 @@
+{
+ "slug": "2026-06-04-aps-oqsf-mediation-financiere-475-dossiers-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "The Observatoire de la qualit\u00e9 des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "OQSF",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OQSF",
+       "country_label": "Senegal",
+       "class": "protection",
+       "platform": "",
+       "owner": "Ministry of Finance and Budget",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study."
+    }
+   }
+  }
+ }
+}

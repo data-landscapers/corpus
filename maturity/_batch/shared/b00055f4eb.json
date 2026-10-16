@@ -1,0 +1,10 @@
+{"slug":"2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"The report is payment statistics and names no e-procurement system."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[{"system":"ZETSS (RTGS)","country_label":"Zimbabwe","class":"other","platform":"RTGS","owner":"Reserve Bank of Zimbabwe","tiers":""},{"system":"Zimswitch","country_label":"Zimbabwe","class":"other","platform":"switch","owner":"","tiers":""}],"note":"The report gives statistics only and states no mandate, licensing, switch oversight or regional link."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body is stated."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No cross-border channel is stated."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No government payment to people is stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only subscriber and transaction counts are given, no survey share of adults."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Reserve Bank of Zimbabwe reports mobile money carried 206,575,490 transactions, 86.70% of volume and 10.51% of value, in Q4 2025, with 10.96 million active mobile financial services subscribers.","as_of":"2025-12","date_precision":"month","system":"Mobile money","class":"retail"}],"systems":[{"system":"Mobile money","country_label":"Zimbabwe","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No tax or fee payment is stated."}}}
+}}

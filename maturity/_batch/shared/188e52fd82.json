@@ -1,0 +1,125 @@
+{
+ "slug": "2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Liberia's Orange Money mobile money service is in use, with taxpayers paying by phone.",
+       "as_of": "2025-07-23",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Liberia Revenue Authority says its Integrated Orange Mobile Money Platform, linked to LITAS, was launched for taxes and fees across 18 ministries and agencies, paid by USSD with an SMS receipt.",
+       "as_of": "2025-07-23",
+       "date_precision": "day",
+       "system": "Integrated Orange Mobile Money Platform",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Orange Mobile Money Platform",
+       "country_label": "Liberia",
+       "class": "revenue",
+       "platform": "LITAS",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "LITAS",
+       "country_label": "Liberia",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

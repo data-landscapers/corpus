@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-22-fintechtimes-tunisia-cash-and-code",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Fintech Times says Konnect describes itself as a payment facilitator certified by the Central Bank of Tunisia.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Konnect",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konnect",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Paymee",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

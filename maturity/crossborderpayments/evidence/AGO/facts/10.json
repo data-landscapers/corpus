@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-31-angola-kwanza-joins-sadc-rtgs-cross-border-settlement",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Angola takes part in the SADC-RTGS, the regional settlement system, with the kwanza as its second settlement currency since 2026-07-27.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The State, firms and households can make cross-border payments for goods and services through SADC-RTGS via five participating commercial banks, per BNA payments director Cristina Canico.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Angola",
+   "class": "crossborder",
+   "platform": "regional real-time gross settlement",
+   "owner": "SADC",
+   "tiers": "five participating commercial banks"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-10-14-tun-africanmanager-bct-circular-2026-10-payment-limits","studies":{
+"businesspayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No procurement stated."}}},
+"centralbank":{"countries":{"TUN":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The Central Bank of Tunisia published Circular 2026-10 on 2026-09-25 governing payment institutions, repealing Circular 2018-16 and tightening its oversight of their agents and governance, per African Manager.","as_of":"2026-09-25","date_precision":"day","system":"Circular 2026-10","class":"oversight"}],"systems":[{"system":"Circular 2026-10","country_label":"Tunisia","class":"oversight","platform":"","owner":"Central Bank of Tunisia","tiers":"payment account Levels 1-3"}],"note":""}}},
+"consumerprotection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Circular 2026-10 safeguarding and fee disclosure rules enter into force at the end of December 2026, not yet in force."}}},
+"crossborderpayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Caps on funds received from abroad name no digital channel or corridor."}}},
+"g2ppayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No survey share; the BCT gave no account or usage figures."}}},
+"retailpayments":{"countries":{"TUN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"African Manager says Tunisian payment institutions operate payment accounts at three levels, with balance caps of TND 500, 1,000 and 5,000 under Circular 2018-16, to be raised under Circular 2026-10.","as_of":"2026-10-14","date_precision":"day","system":"payment institution accounts","class":"retail"}],"systems":[{"system":"Payment institution payment accounts","country_label":"Tunisia","class":"retail","platform":"","owner":"payment institutions","tiers":"Levels 1-3"}],"note":""}}},
+"revenuecollection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

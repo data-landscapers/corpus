@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-08-zwe-herald-papss-5-8-million-a-month-afreximbank-ceo-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Afreximbank's Peter Olowononi says Zimbabwe processes $5.8 million a month through PAPSS, which also clears Chinese currency via a CIPS link.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Afreximbank's Olowononi cites Zimbabwe statistics of $5.8 million a month through PAPSS.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Pan-African Payment and Settlement System",
+   "class": "crossborder",
+   "platform": "Afreximbank clearing",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,105 @@
+{
+ "slug": "2026-06-29-cb-umoa-liste-etablissements-agrees-guinee-bissau",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The UMOA Banking Commission and BCEAO register updated 29 June 2026 lists one authorised payment institution (Intouch Guinee-Bissau, EP.GB.001/2025) and one e-money institution (Finances Mobiles Bissau, EME.GB.021/2023) for Guinea-Bissau.",
+       "as_of": "2026-06-29",
+       "date_precision": "day",
+       "system": "UMOA register of approved institutions",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Intouch Guinee-Bissau",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Finances Mobiles Bissau",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register states nothing for this study; it does not say any service is in service."
+    }
+   }
+  }
+ }
+}

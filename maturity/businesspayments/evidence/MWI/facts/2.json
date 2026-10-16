@@ -1,0 +1,4 @@
+{"slug":"2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps","facts":[
+{"sub_indicator":"business","aspect":"endtoend","value":"endtoend","fact":"A Treasury circular directs all Procuring and Disposing Entities to use MANePS mandatorily from 1 April 2026 under Section 71 of the 2024 Act.","as_of":"2026-04-01","date_precision":"day","system":"MANePS","class":"procurement"},
+{"sub_indicator":"business","aspect":"reported","value":"reported","fact":"The PPDA e-Government Procurement Manager says 232 PDEs uploaded their Annual Procurement Plans out of the 250 targeted in the first phase.","as_of":"2026-03","date_precision":"month","system":"MANePS","class":"procurement"}],
+"systems":[{"system":"MANePS","country_label":"Malawi","class":"procurement","platform":"Malawi National Electronic Procurement System","owner":"PPDA","tiers":""}],"note":""}

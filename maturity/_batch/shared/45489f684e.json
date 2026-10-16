@@ -1,0 +1,10 @@
+{"slug":"2026-01-11-somalia-upper-house-national-payment-system-bill-passed","studies":{
+"businesspayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"SOM":{"facts":[],"systems":[{"system":"National Payment System Bill","country_label":"Somalia","class":"other","platform":"","owner":"Parliament of Somalia","tiers":""}],"note":"Bill passed the Upper House but is not adopted; text only, no central bank role stated."}}},
+"consumerprotection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing stated on consumer rules."}}},
+"crossborderpayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"g2ppayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"paymentsuptake":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on any service."}}},
+"revenuecollection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing stated."}}}
+}}

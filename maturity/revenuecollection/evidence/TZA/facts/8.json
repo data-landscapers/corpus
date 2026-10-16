@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-11-tza-dailynews-experts-back-mandatory-electronic-payments",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Mandatory Electronic Payments for Specified Transactions Order, in force from 1 July 2026, requires fees, charges, levies, tolls, fares and parking to be paid electronically, with covered businesses given six months to set up compliant systems.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Mandatory Electronic Payments for Specified Transactions Order",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

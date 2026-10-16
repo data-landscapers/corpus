@@ -1,0 +1,12 @@
+{"slug":"2026-07-17-airtel-money-zambia-new-md","studies":{
+"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"ZMB":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"ITWeb Africa reports Airtel Money Zambia has appointed a new managing director to oversee the fintech business as it expands digital financial services in Zambia.","as_of":"2026-07-17","date_precision":"day","system":"Airtel Money Zambia","class":"retail"}],
+"systems":[{"system":"Airtel Money Zambia","country_label":"ZMB","class":"retail","platform":"","owner":"Airtel Africa","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on taxes or fees."}}}
+}}

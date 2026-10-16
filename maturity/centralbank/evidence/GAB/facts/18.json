@@ -1,0 +1,46 @@
+{
+ "slug": "2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Gabon, regulates payment market structures including technical approvals and authorisations of payment solutions.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "BEAC",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Gabon.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "AfricaNenda says GIMACPAY, live since July 2020, provides interoperable payment services to providers in the six CEMAC states including Gabon.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMACPAY",
+   "country_label": "CEMAC",
+   "class": "retail",
+   "platform": "instant payment switch",
+   "owner": "BEAC 99.2%, commercial banks 0.8%",
+   "tiers": "direct and indirect"
+  }
+ ],
+ "note": ""
+}

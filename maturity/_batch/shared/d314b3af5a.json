@@ -1,0 +1,10 @@
+{"slug":"2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"EGY":{"facts":[{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Central Bank of Egypt launched the Instant Payment Network (IPN), the national real-time electronic payment infrastructure connecting banks in Egypt; the governor said it recorded 1.47 billion transactions worth about EGP 4.33 trillion by end of the second quarter of 2026.","as_of":"2026-06","date_precision":"month","system":"Instant Payment Network (IPN)","class":"oversight"}],"systems":[{"system":"Instant Payment Network (IPN)","country_label":"Egypt","class":"oversight","platform":"InstaPay","owner":"Central Bank of Egypt","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"PAPSS-InstaPay link is only under talks, not piloted or licensed."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share stated; 22 million is registered IPN customers."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"The IPN, launched by the Central Bank of Egypt, connects banks operating in Egypt and allows instant fund transfers, with about 22 million registered customers in the second quarter of 2026.","as_of":"2026-06","date_precision":"month","system":"Instant Payment Network (IPN)","class":"retail"}],"systems":[{"system":"Instant Payment Network (IPN)","country_label":"Egypt","class":"retail","platform":"InstaPay","owner":"Central Bank of Egypt","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

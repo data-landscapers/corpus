@@ -1,0 +1,13 @@
+{"slug":"2026-07-17-airtel-money-baobab-bank-partnership-techafricanews","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on procurement."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No survey share of adults."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"TechAfrica News reports Airtel Money Madagascar runs a mobile money service with an Mbanking service that is now operational.","as_of":"2026-07-17","date_precision":"day","system":"Airtel Money","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"TechAfrica News reports Airtel Money users in Madagascar can transfer funds from their wallets to Baobab Bank accounts, and the service is now operational via USSD *436*5# or the My Baobab app.","as_of":"2026-07-17","date_precision":"day","system":"Airtel Money Mbanking","class":"retail"}],
+"systems":[{"system":"Airtel Money","country_label":"MDG","class":"retail","platform":"USSD *436*5#","owner":"Airtel Madagascar","tiers":""},{"system":"My Baobab","country_label":"MDG","class":"other","platform":"mobile app","owner":"Baobab Bank","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on taxes or fees."}}}
+}}

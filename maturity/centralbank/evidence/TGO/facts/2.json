@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-06-bceao-six-acteurs-pi-spi-togo",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Togo First says BCEAO's PI-SPI instant-payment platform, launched in September 2025, lets Togo's six BCEAO-authorised institutions transfer funds instantly 24 hours a day.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Togo First says six Togo institutions are authorised by BCEAO on its list of 24 February 2026 to offer PI-SPI, the WAEMU regional instant-payment platform, up from three at launch.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "oversight",
+   "platform": "Plateforme interopérable du système de paiement instantané",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

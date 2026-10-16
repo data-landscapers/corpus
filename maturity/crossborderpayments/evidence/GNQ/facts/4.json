@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Equatorial Guinea takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "GIMAC reported that the regional GIMACPAY platform processed 20.3 million transactions worth FCFA 863 billion in 2025, up 40% by volume, across the six CEMAC states.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
