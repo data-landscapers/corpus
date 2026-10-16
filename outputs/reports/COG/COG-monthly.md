@@ -3,9 +3,9 @@ title: Congo — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: COG
-ledger_rows: 16
+ledger_rows: 17
 not_held: 6
-record: 132bc8f9f28e
+record: b4fdebbf24bc
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -32,6 +32,8 @@ record: 132bc8f9f28e
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Legislation and regulation
@@ -105,6 +107,22 @@ A workshop in Brazzaville from 8 September 2026, run by the association Avenir N
 **[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 A regional workshop in Brazzaville on 15 and 16 September worked towards a common framework for national emergency telecommunications plans across central Africa, convened by the international telecommunications union with the regional regulators' assembly and the economic community.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ACONOQ, the national standards and quality agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ACONOQ - Agence Congolaise de Normalisation et de la Qualité](https://www.iso.org/member/11493926.html)** — International Organization for Standardization, 16 October 2026
+
+ISO member body created by Law 19-2015; ARSO member, IEC Affiliate Plus, participant in 2 ISO technical committees.
 
 </div>
 
