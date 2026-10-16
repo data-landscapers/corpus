@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "At enrolment the system automatically assigns each citizen a National Identification Number (NNI) held in the national register, per the DGPF.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Numero National d'Identification (NNI)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "Fingerprints, iris and photograph are captured and automatically compared with the database, which has detected duplicates and people using a dead person's identity, says the head of the NNI service.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Numero National d'Identification (NNI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero National d'Identification (NNI) / Registre national des personnes physiques",
+   "country_label": "Djibouti",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGPF",
+   "tiers": "biometric national ID card"
+  }
+ ],
+ "note": ""
+}

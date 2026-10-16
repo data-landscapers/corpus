@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-11-immigration-chief-digital-reform-integrated-registry-mou",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Directorate General of Civil Registry, Nationality, Passport and Immigration handles civil registration and issues national identity cards, so one body holds both functions (Eye Radio report of the handover).",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "Directorate General of Civil Registry, Nationality, Passport and Immigration",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

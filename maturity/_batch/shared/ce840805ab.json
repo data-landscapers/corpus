@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Page covers authentication only; says nothing on civil register and ID links."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Page covers authentication only; says nothing on numbers at birth."
+    }
+   }
+  }
+ }
+}

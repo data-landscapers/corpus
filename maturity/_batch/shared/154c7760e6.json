@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-09-ner-nigerdiaspora-enrolement-passeport-biometrique-aes",
+ "studies": {
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about the AES passport and states nothing on the national ID system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about the AES passport and states nothing on the national ID system."
+    }
+   }
+  }
+ }
+}

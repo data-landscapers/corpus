@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The law states the national ID card is issued by the specialized services of the Ministry of the Interior after taking fingerprint and photo.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Carte nationale d'identité",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identité (chip card)",
+   "country_label": "Tunisia",
+   "class_": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior specialized services",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

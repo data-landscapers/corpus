@@ -1,0 +1,9 @@
+{"slug": "2026-09-29-uga-newvision-uspc-secure-documents-printed-locally", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document covers printing of physical secure documents, not electronic authentication."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not mention the civil register or any link to the ID system."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A card printer is described, not who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number is mentioned."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "New Vision reports that the Uganda Security Printing Company prints Uganda's National Identification cards, which carry more than 20 security features in seven layers, with the features supplied by NIRA.", "as_of": "2026-09-29", "date_precision": "day", "system": "National Identification card", "class": "idsystem"}], "systems": [{"system": "National Identification card", "country_label": "Uganda", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}}
+}}

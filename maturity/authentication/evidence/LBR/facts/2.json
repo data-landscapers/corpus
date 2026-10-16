@@ -1,0 +1,52 @@
+{
+ "slug": "2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The National Identification Registry says an MoU with the Civil Service Agency (May 2024) allows national ID numbers to be used for payroll verification, helping identify ghost workers.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Civil Service payroll verification"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The National Identification Registry says an MoU with the Liberia Telecommunications Authority (October 2024) makes the national ID a requirement for SIM registration.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "SIM registration linked to national ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Service payroll verification",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Service Agency",
+   "tiers": ""
+  },
+  {
+   "system": "SIM registration linked to national ID",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Liberia Telecommunications Authority",
+   "tiers": ""
+  },
+  {
+   "system": "National ID system (NBIS)",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

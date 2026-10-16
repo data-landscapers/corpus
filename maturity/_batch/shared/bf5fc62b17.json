@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-16-mdg-lexpressmg-etat-civil-20-pourcent-sans-identite-legale",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The 20% figure is civil registration, not national ID enrolment."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a plan for commune-level biometric civil registration; no ID system stated."
+    }
+   }
+  }
+ }
+}

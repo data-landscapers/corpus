@@ -1,0 +1,6 @@
+{"slug":"2025-06-01 Guinea-Bissau to digitize civil identification, registry and notary services","studies":{
+"birthidlink":{"countries":{"GNB":{"facts":[
+{"sub_indicator":"link","aspect":"link","value":"underway","fact":"The Justice Minister announced that civil identification, registry and notary services will be digitised under one directorate-general, with UNDP financing a Integrated National Identification System support workshop.","as_of":"2025-06","date_precision":"month","system":"Sistema Integrado de Identificação Nacional","class":"crvslink"}],
+"systems":[{"system":"Sistema Integrado de Identificação Nacional","country_label":"Guinea-Bissau","class":"idsystem","platform":"","owner":"Ministry of Justice (DGICRAN)","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"GNB":{"facts":[],"systems":[],"note":"The document gives birth registration rates but no identity number at birth."}}}
+}}

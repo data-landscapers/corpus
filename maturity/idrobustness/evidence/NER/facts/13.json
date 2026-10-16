@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The government is putting a new biometric national identity card into circulation and moving to biometric enrolment of the population and constitution of the National Population Register, said the Agadez governor.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

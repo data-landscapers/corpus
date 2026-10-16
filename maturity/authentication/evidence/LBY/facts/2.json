@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used).",
+   "as_of": "2026-04-19",
+   "date_precision": "day",
+   "system": "Digital Identity Management System for Citizens (Level 3)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Banking eKYC integration with the Digital Identity Management System for Citizens",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Libya and participating banks",
+   "tiers": "Level 3 biometric"
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

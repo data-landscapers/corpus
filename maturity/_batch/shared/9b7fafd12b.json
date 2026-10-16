@@ -1,0 +1,9 @@
+{"slug": "2026-07-17-impressao-descentralizada-acelera-emissao-do-bi", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Registration levels are said to fall short of targets, with no count or share."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Printing moved from Luanda to the provinces; no operator or maintainer of the system is stated."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Secretary of State for Justice says printing of the Bilhete de Identidade was decentralised to all 21 provinces from June 2026, issuing it in 24 to 48 hours with biometric data collected by mobile brigades.", "as_of": "2026-07-15", "date_precision": "day", "system": "Bilhete de Identidade", "class": "idsystem"}], "systems": [{"system": "Bilhete de Identidade", "country_label": "Angola", "class": "idsystem", "platform": "", "owner": "Ministerio da Justica e dos Direitos Humanos", "tiers": ""}], "note": ""}}}
+}}

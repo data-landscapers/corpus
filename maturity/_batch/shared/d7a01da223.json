@@ -1,0 +1,99 @@
+{
+ "slug": "2026-10-03-bungoma-id-registration-hampered-by-staff-vehicle",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an online check of ID application status is named, not authentication of identity."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on links between the registers."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only county registration counts are given, no national enrolment."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The National Registration Bureau produces identity cards at its Nairobi headquarters, taking three weeks to a month before cards return to the county (county registration officer).",
+       "as_of": "2026-10-02",
+       "date_precision": "day",
+       "system": "national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on registers keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Registration Bureau registers residents in Bungoma and elsewhere and produces national identity cards at its headquarters, with 19,361 registrations under the new programme in July to September 2026.",
+       "as_of": "2026-10-02",
+       "date_precision": "day",
+       "system": "national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national ID card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

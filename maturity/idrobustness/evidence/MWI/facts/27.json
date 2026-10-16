@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-25-mwi-id-validity-extension-2027",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Malawi Government extended the validity of all expired National ID cards to 1 January 2027, and the National Registration Bureau is renewing them.",
+   "as_of": "2025-12-25",
+   "date_precision": "day",
+   "system": "National ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

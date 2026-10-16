@@ -1,0 +1,99 @@
+{
+ "slug": "2026-05-09-jamii-namba-children-pilot-set-for-rollout",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The government plans to integrate the functions of NIDA and RITA and is amending the Registration and Identification of Persons Act so the Jamii Namba is issued from birth and shown on birth certificates, per the Deputy Minister.",
+       "as_of": "2026-05-08",
+       "date_precision": "day",
+       "system": "Jamii Namba",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The government has completed preparations for a pilot issuing Jamii Namba unique ID numbers to children from birth on birth certificates in Rungwe, Kilolo and Unguja South, once legal arrangements are completed, per the Deputy Minister.",
+       "as_of": "2026-05-08",
+       "date_precision": "day",
+       "system": "Jamii Namba",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jamii Namba",
+       "country_label": "Tanzania",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

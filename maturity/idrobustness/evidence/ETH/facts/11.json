@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-faydaverse-ethiopia-dpi-soe",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ethiopia's national digital ID system, Fayda, is nearing 50 million registrations and is operated by Faydaverse, per the government announcement.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

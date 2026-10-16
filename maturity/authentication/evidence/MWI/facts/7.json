@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-26-nrb-digital-id-2026-target-id4africa-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The National Registration Bureau said Malawi will implement a nationwide digital ID by 2026 after a successful pilot, enabling identity verification mainly through mobile phones for services including healthcare providers and financial institutions.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "Malawi digital ID (NRB) mobile identity verification"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi digital ID (NRB) mobile identity verification",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

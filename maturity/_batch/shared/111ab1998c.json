@@ -1,0 +1,79 @@
+{
+ "slug": "2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Developed with the Interior ministry, but who operates or maintains it is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on public registers using the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The High Commission for Digitalisation set out how Algeria's digital identity works: registration and appointment at the commune via dzds.dz, activation, then verification against the holder's biometric data, tied to legal and biometric identity.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Algerian digital identity (dzds.dz)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Algerian digital identity (dzds.dz)",
+       "country_label": "Algeria",
+       "class": "idsystem",
+       "platform": "dzds.dz",
+       "owner": "High Commission for Digitalisation with the Interior ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

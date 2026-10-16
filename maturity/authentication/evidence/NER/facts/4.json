@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The WURI Niger project says it is developing a National Population Register meant to identify and authenticate anyone requesting public or private services that require prior identification, with a first enrolment phase in Niamey's five arrondissements to start in the coming weeks.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "World Bank WURI project",
+   "owner": "ANEI",
+   "tiers": "public and private services requiring identification"
+  },
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Générale de l'état civil, des migrations et des réfugiés",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Nationalités (RNN)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la justice",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

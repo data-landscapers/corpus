@@ -1,0 +1,16 @@
+{"slug":"2026-04-27-biometricupdate-togo-6m-niu-mosip","studies":{
+"authentication":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The QR code is described as designed for authentication, but no authentication service in use is stated."}}},
+"birthidlink":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No civil register link is stated."}}},
+"idcoverage":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"At least 6 million people had been issued a unique identification number (NIU) and biometric ID card as of December 2025, per the Togolese government report cited by Biometric Update; about 70% of the 8.6 million population (computed from the population given).","as_of":"2025-12","date_precision":"month","system":"NIU (MOSIP-based national digital ID)","class":"idsystem"},
+{"sub_indicator":"coverage","aspect":"share","value":"twothirds","fact":"At least 6 million people had been issued a unique identification number (NIU) and biometric ID card as of December 2025, per the Togolese government report cited by Biometric Update; about 70% of the 8.6 million population (computed from the population given).","as_of":"2025-12","date_precision":"month","system":"NIU (MOSIP-based national digital ID)","class":"idsystem"}],
+"systems":[{"system":"NIU / MOSIP-based national digital ID","country_label":"Togo","class":"idsystem","platform":"MOSIP","owner":"ANID","tiers":"biometric card with QR code"}],"note":""}}},
+"idfrombirth":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No number at birth is stated."}}},
+"idmaintenance":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"maintenance","aspect":"ownership","value":"owned","fact":"Togo's national digital ID system is MOSIP-based, an open-source platform, under a 2021 MoU; an Atos and Idemia consortium implements mostly the technical aspects.","as_of":"2026-04","date_precision":"month","system":"NIU / MOSIP-based national digital ID","class":"idsystem"}],
+"systems":[{"system":"NIU / MOSIP-based national digital ID","country_label":"Togo","class":"idsystem","platform":"MOSIP","owner":"ANID","tiers":"biometric card with QR code"}],"note":""}}},
+"idregisters":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No register keyed on the NIU is stated; NOVISSI is mentioned without saying it uses the NIU."}}},
+"idrobustness":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"At least six million people had been issued a unique identification number (NIU) and a biometric ID card by December 2025 under the MOSIP-based national digital ID project, per the Togolese government.","as_of":"2025-12","date_precision":"month","system":"NIU / MOSIP-based national digital ID","class":"idsystem"}],
+"systems":[{"system":"NIU / MOSIP-based national digital ID","country_label":"Togo","class":"idsystem","platform":"MOSIP","owner":"ANID","tiers":"biometric card with QR code"}],"note":""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "IPRES, the pension institution, opened its three-month periodic proof-of-life campaign on 1 July 2026 on the Maa ngi nii platform, where Senegalese pensioners must hold their ECOWAS national identity card to complete the proof of life.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Maa ngi nii (pdv.ipres.sn)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maa ngi nii (pdv.ipres.sn)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "digital proof-of-life platform",
+   "owner": "IPRES",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

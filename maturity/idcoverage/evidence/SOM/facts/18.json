@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "More than one million digital IDs were issued as of November 2025, about 5% of the 19.7 million population (share computed from the population held), against a target of 15 million by 2029; the count is of IDs issued, not stated as people.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Somalia national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

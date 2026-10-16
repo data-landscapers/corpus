@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-thepoint-gambia-id-card-passport-delays-mygov",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The government says a mass registration exercise with mobile teams is enrolling Gambians on new 10-year national ID cards, said Information Minister Ceesay.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "National ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

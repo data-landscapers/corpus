@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-school-based-national-id-registration-launched",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Directorate launched school-based registration to provide National ID cards to Primary Eight and Senior Four candidates, starting in Juba and to expand to other states.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

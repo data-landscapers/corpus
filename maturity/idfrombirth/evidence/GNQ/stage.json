@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "frombirth",
+   "stage": "no evidence",
+   "number": "",
+   "national": "",
+   "complete": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether a birth is given an identity number.",
+   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "2025-11-01-us-state-dept-eritrea-civil-documents-national-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The US State Department says Eritrea began issuing new plastic national identity cards with the holder's fingerprint in late 2015 for people over 18, though very few are in circulation.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "Eritrean ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eritrean ID card",
+       "country_label": "Eritrea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Nationality",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

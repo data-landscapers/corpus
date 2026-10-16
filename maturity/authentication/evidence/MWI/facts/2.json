@@ -1,0 +1,104 @@
+{
+ "slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The UNDP report says more than 4 million Malawi Social Registry (formerly UBR) household records, 75 percent, have been integrated with the National ID, with a module for real-time integration with NRB being built.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Malawi Social Registry (MSR/UBR)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The report says Standard Bank, First Capital Bank, Mukuru and FINCA, on Reserve Bank directive, are developing or testing biometric interfaces to the NRB verification gateway for KYC in a pilot.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Bank KYC biometric verification pilot"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The report says a Karonga District pilot linking National ID and birth-certificate UINs to the Ministry of Health's electronic medical records was approved on 30 June 2025 for national scale-up.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "MoH electronic medical records link to NRB UIN"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The report says offline verification of Digital ID through digitally signed QR codes was successfully tested in 2024 in voter registration, 2 million people, and in agriculture programmes, 1.5 million farmers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digitally signed QR code offline ID verification"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (NRB)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "NRB verification gateway",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Social Registry (MSR/UBR)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Bank KYC biometric verification pilot",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Malawi directive",
+   "tiers": ""
+  },
+  {
+   "system": "Biometric SIM registration (MACRA)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "MACRA",
+   "tiers": ""
+  },
+  {
+   "system": "MoH electronic medical records link to NRB UIN",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Digitally signed QR code offline ID verification",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "NRB",
+   "tiers": ""
+  },
+  {
+   "system": "Nzika app",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "NRB",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

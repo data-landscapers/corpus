@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-civil-registry-digital-system-birth-death-marriage",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Directorate of Civil Registry, Nationality, Passports and Immigration is to issue birth certificates through a new nationwide digital registry and also to introduce digital national ID cards for citizens 18 and over, as its Director General says.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Digital registry",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

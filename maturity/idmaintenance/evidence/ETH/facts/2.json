@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The National ID program (Fayda) has become the state-owned enterprise Faydaverse under Ethiopian Investment Holdings and runs the ID, wallet and credential verification, per its stakeholder engagement director.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "platform": "",
+   "owner": "Faydaverse (state-owned enterprise under Ethiopian Investment Holdings)",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

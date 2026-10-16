@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-18-nira-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIRA, the national authority, created NSIS in 2014/15 and developed its birth and death registration module itself, using open source OpenCRVS, keeping core personnel throughout.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "National Security Information System (NSIS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "NIRA says the birth and death registration module integrated into NSIS uses open source OpenCRVS, and the marriage module is also being built on OpenCRVS.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "National Security Information System (NSIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

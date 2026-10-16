@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-mwi-nzika-wallet-laxton-biometric-contract",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "More than 13.5 million people are registered in the national ID system, which the ICT minister put at about 99 percent of citizens aged 16 and above; against the 22.2 million population held this is about 61 percent of the whole population (computed).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "NRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRIS",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

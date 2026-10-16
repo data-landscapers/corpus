@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,MauPass,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",Levels 0-3,2024-01-01-maupass
+MUS,MoKloud digital safe,Mauritius,other,,Government Online Centre,,2024-01-01-maupass
+MUS,Central Population Database,Mauritius,other,InfoHighway,Civil Status Division,,2024-01-01-maupass
+MUS,Acuant Trusted Identity Platform,Mauritius,other,Acuant cloud,Acuant,,2024-01-01-maupass
+MUS,Central KYC system,Mauritius,other,InfoHighway,Bank of Mauritius,,2022-04-15-mus-bom-central-kyc-mous-infohighway
+MUS,Central Population Database,Mauritius,other,InfoHighway,Registrar of Civil Status,,2022-04-15-mus-bom-central-kyc-mous-infohighway
+MUS,InfoHighway,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2022-04-15-mus-bom-central-kyc-mous-infohighway
+MUS,MauPass,Mauritius,other,maupass.govmu.org,"Ministry of Information Technology, Communication and Innovation",,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
+MUS,KOREK! app,Mauritius,other,Google Play; App Store; Huawei AppGallery,"Ministry of Information Technology, Communication and Innovation",,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
+MUS,Digital Driving Licence,Mauritius,other,KOREK!,Mauritius Police Force,,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
+MUS,Mobile digital ID,Mauritius,authentication,mobile,,,2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate

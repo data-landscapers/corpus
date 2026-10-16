@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update reports Digified, licensed by the FRA, provides eKYC for lending, investment and insurance companies, including government data authentication by validating client information via national ID and mobile registry databases.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Digified eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digified eKYC",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Digified",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

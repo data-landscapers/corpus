@@ -1,0 +1,88 @@
+{
+ "slug": "2026-08-25-bdi-ppm-finances-budgetaire-2026-2027-final-docx-revise1-companion",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The plan names no authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a contractor recruitment is stated, with no operating arrangement."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The FY2026/27 procurement plan of Burundi's finance and digital economy ministry lists recruiting a contractor to set up a national digital identity system, BIF 8,902,999,980 on the state budget, by international open tender.",
+       "as_of": "2026-08-25",
+       "date_precision": "day",
+       "system": "national digital identity system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital identity system",
+       "country_label": "Burundi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministère des Finances, du Budget et de l'Economie Numérique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

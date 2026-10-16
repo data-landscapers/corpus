@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-nira-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "NIRA says all CRVS registration systems are under one authority and the NIN is issued automatically once a birth notification is made; it also says push and pull between NSIS and the marriage system is still lacking and death registration is very disconnected.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "National Security Information System (NSIS)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Security Information System (NSIS)",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "OpenCRVS (BDR module)",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

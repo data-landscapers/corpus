@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-cod-oeildafrique-rdc-pass-trident-concession-vingt-ans",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Oeil d'Afrique reports that RDC-PASS, which the government says is not a national identity card but an access key backed by a biometric database, is to be attributed to every Congolese by 2030, with enrolment agents trained on 15 September 2026 and a Kinshasa pilot to follow.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "COD",
+   "class": "idsystem",
+   "platform": "Trident Digital Tech",
+   "owner": "Government of the DRC (public-private partnership)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

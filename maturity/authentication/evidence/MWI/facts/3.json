@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-mwi-india-un-ekyc-digital-identity-review",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "IANS reports that on 29 September 2026 India's High Commissioner met UNDP and UNCDF to review the e-KYC and Digital Identity Project in Malawi, funded through the India-UN Development Partnership Fund and implemented with the Reserve Bank of Malawi; the report states no verification service in use.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "e-KYC and Digital Identity Project"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC and Digital Identity Project",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "India-UN Development Partnership Fund; UNDP; UNCDF; Reserve Bank of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

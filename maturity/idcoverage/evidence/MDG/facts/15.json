@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02-ugd-idms-audit-tdr",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The terms of reference say the IDMS has not entered mass enrolment and no significant volume of biometric or identity data is yet registered in production.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "IDMS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDMS",
+   "country_label": "MDG",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Presidency / UGD (PRODIGY)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

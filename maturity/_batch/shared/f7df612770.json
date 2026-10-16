@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-26-alwasat-libya-civil-registry-nationality-fraud",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Says deceased persons' records are closed late, but states no exchange between civil register and ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No number given at birth stated."
+    }
+   }
+  }
+ }
+}

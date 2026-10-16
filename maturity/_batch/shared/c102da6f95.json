@@ -1,0 +1,68 @@
+{
+ "slug": "2025-07-21-congo-national-drive-secure-digital-identity-techafricanews",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-nrb-strategic-plan-2025-2030-launch",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The UN Development Programme (UNDP) reports the National Registration Bureau's past achievements include registering millions of Malawians in the National Registration and Identification System.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "National Registration and Identification System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration and Identification System",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

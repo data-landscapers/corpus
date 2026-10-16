@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "NIRA says the driving-permit system is still being integrated with the new identification platform, with an interim workaround in place.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Register / national ID card",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

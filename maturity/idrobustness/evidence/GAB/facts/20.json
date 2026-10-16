@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-gab-gabonreview-etat-civil-atelier-cloture-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gabon Digital, financed by the World Bank, plans a biometric register of persons covering the whole territory and a national digital identification system, per the workshop's component 2 coordinator.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Gabon Digital national identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

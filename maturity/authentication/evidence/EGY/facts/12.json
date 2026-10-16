@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-egypt-sim-verification-5-million-users",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NTRA's Araqamy ('My Lines') service, in the My NTRA app, lets users review mobile lines and e-wallets linked to their national identity cards; the document reports it in use, with an NTRA official speaking on 2026-08-17.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Araqamy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Araqamy (My Lines)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "My NTRA app",
+   "owner": "National Telecom Regulatory Authority (NTRA)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

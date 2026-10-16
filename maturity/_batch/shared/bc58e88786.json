@@ -1,0 +1,9 @@
+{"slug":"2026-04-18-nida-executes-national-id-expansion-project-ii","studies":{
+"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Iris and facial verification is for registration and identification; no authentication service stated."}}},
+"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No civil register link mentioned."}}},
+"idcoverage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No number at birth mentioned."}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Construction and procurement only; no statement of who operates or maintains the system."}}},
+"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No register keyed on the ID number mentioned."}}},
+"idrobustness":{"countries":{"TZA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The Deputy Minister of Home Affairs told the National Assembly that Phase II of the National ID System Expansion Project is being implemented, with a Dodoma headquarters, an ICT equipment maintenance centre and registration offices in 31 districts, following Phase I (data centre, disaster recovery centre, offices in 13 districts).","as_of":"2026-04-18","date_precision":"day","system":"National ID System (NIDA)","class":"idsystem"}],"systems":[{"system":"National ID System","country_label":"Tanzania","class":"idsystem","platform":"","owner":"NIDA","tiers":""}],"note":"Iris and facial verification is described as an addition to be introduced, not as a current check."}}}
+}}

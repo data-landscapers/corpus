@@ -1,0 +1,9 @@
+{"slug": "2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only talks with India on a partnership; no authentication service is authorised, contracted or piloted."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No link between civil register and ID system is mentioned."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No number given at birth is mentioned."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No national ID system is in operation to be operated; only talks on India Stack."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No public register keyed on an ID number is mentioned."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The article says a fully functional biometric ID system planned for 2025 did not materialize; talks with India are not procurement or a build."}}}
+}}

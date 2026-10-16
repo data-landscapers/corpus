@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Prime Minister Nchemba said on International Identity Day that national identity cards enable citizens to access banking, employment, SIM card registration and other government services.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "SIM card registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The Prime Minister named banking, employment and SIM card registration as services the national ID enables access to.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "SIM card registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Prime Minister directed NIDA to deepen integration with institutions for employment, social services and economic activities, saying all institutions dealing with important services should join the system so data can be cross-checked.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "NIDA integration with service institutions"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM card registration",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "TCRA",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification Authority (NIDA) system",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

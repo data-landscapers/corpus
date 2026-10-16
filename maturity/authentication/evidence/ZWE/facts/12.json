@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Biometric Update reports, citing local media, that the Ministry of Home Affairs announced in May 2025 that digital ID issuance would begin in July in Harare and Bulawayo, with staff trained, but no start date was confirmed.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Digital ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital ID",
+   "country_label": "Zimbabwe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Registrar-General / Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

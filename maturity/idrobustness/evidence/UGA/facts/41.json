@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-nira-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA says registration for and issuance of the National ID and NIN began with the creation of NSIS in 2014/15, and that duplicate and multiple registrations have been reduced.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "National Security Information System (NSIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

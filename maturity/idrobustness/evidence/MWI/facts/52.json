@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The EU Delegation says Malawi achieved full national ID registration coverage of the adult population in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

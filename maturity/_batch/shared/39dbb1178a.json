@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-06-stp-pronto-novo-sistema-recenseamento-eleitoral",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Links the electoral roll to the civil register, not the civil register to an ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes a computerised birth and death register and an ID card campaign; no number given at birth."
+    }
+   }
+  }
+ }
+}

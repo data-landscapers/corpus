@@ -1,0 +1,9 @@
+{"slug":"2026-08-17-south-africa-digital-identity-public-services-ecosystem","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only a planned national digital ID with regulatory readiness expected; the ETA is a travel authorisation, not an identity authentication service."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Planned Intelligent Population Register is mentioned without a stated link to civil registration records."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No count or share of the population holding a national ID is given."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on other registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Home Affairs says 372 participating bank branches now offer Smart ID services, through which more than half a million South Africans have accessed them, replacing the green barcoded ID book.","as_of":"2026-08","date_precision":"month","system":"Smart ID","class":"idsystem"}],"systems":[{"system":"Smart ID","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}}
+}}

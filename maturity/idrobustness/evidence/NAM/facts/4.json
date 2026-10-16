@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-namibian-home-affairs-clarifies-eid-costs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Home Affairs says the new electronic ID card is being rolled out nationwide and issued free to first-time applicants and renewals.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "e-ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID card",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

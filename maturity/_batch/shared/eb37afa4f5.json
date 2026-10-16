@@ -1,0 +1,9 @@
+{"slug": "2026-07-05-egypt-property-registration-rate-below-10pct", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document is about a property identifier, not a person's identity; no authentication service is stated."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document is about property IDs; no civil register link is stated."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only National Property IDs (nearly 30 million) are counted, not people."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No operator of a national person ID system is stated."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The property ID is not the national ID number; no register keyed on the national ID number is stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document describes a National Property ID, not a national person ID system."}}}
+}}

@@ -1,0 +1,108 @@
+{
+ "slug": "2026-04-07-aps-daf-reprise-production-cni",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "APS reports the Direction de l'automatisation des fichiers, a national authority, itself resumed making the national identity cards and enrolment on 1 April 2026.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "carte nationale d'identite",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identite",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "APS reports the DAF announced that national identity card production resumed on 1 April 2026 and enrolment restarted progressively in several centres, after a halt from a 5 February cyber-attack.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "carte nationale d'identite",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identite",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

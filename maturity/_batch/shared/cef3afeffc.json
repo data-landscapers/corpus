@@ -1,0 +1,119 @@
+{
+ "slug": "2026-06-09-accelerates-biometric-enrollment-biometricupdate",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "More than 4.4 million people biometrically enrolled in the digital ID system, about 30% of 14.6 million population (computed), per NIDA.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National digital ID",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIDA leads nationwide enrollment, with registration teams in the provinces and biometric kits to be deployed permanently to sector offices.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National digital ID",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "NIDA is enrolling fingerprint, iris and face biometrics for the new national digital identity system, with full transition to digital ID targeted for 2027.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National digital ID",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

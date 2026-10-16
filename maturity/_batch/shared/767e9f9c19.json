@@ -1,0 +1,153 @@
+{
+ "slug": "2025-09-09-zambia-dzap-early-market-engagement",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The World Bank, for the Smart Zambia Institute, invites vendors to early market engagement for a system integrator to deploy and integrate foundational digital ID and CRVS core modules, including data migration.",
+       "as_of": "2025-09-09",
+       "date_precision": "day",
+       "system": "Foundational Digital ID and CRVS core modules",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No count or share enrolled stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "Procurement of an integrator only; operator and ownership not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No public register keyed on the ID number stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The World Bank, for the Smart Zambia Institute, invites vendors to early market engagement for a system integrator to deploy foundational digital ID core modules with enrollment kits under the Digital Zambia Acceleration Project.",
+       "as_of": "2025-09-09",
+       "date_precision": "day",
+       "system": "Foundational Digital ID and CRVS core modules",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Foundational Digital ID and CRVS core modules",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

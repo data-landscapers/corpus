@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ITWeb says biometric enrolment stands at roughly 1.5 million people and the Smart Zambia Institute has said digital identity cards will be issued by the end of 2026, with digital identity still in its implementation journey.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Integrated National Registration Information System (INRIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

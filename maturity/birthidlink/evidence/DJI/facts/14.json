@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Ministry of Digital Affairs says the National Identification Number (NNI) is attributed to every person entered in a civil register, under Law 39/AN/19 of 21 January 2019.",
+   "as_of": "2019-01-21",
+   "date_precision": "day",
+   "system": "RNPP / NNI",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Djibouti",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Direction Generale de la Population et de la Famille, ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

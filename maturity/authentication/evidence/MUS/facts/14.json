@@ -1,0 +1,47 @@
+{
+ "slug": "2024-02-19-mauritius-national-identity-card-unit",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Unit says MauPass, a National Authentication Framework giving citizens a digital identity for online government services, was launched in December 2020.",
+   "as_of": "2020-12",
+   "date_precision": "month",
+   "system": "MauPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Unit says MauSign is a Certification Authority licensed under the National Public Key Infrastructure, issuing digital certificates and digital signing services to citizens and organisations.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MauSign",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The Unit says MauPass gives access to government services online, and registered public and private entities will be authorised to read card and mobile ID data.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Unit says a digital wallet with a mobile ID, usable for online authentication and digital signing, will be available.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "Mobile ID digital wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

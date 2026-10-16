@@ -1,0 +1,142 @@
+{
+ "slug": "2025-09-04-nrb-strategic-plan-2025-2030-launch",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No exchange between civil register and ID stated; the integration named is with revenue and immigration services."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No count or share enrolled stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Operator and ownership of the platform not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Integration with revenue and immigration services is stated but not that they key on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The UN Development Programme (UNDP) reports the National Registration Bureau's past achievements include registering millions of Malawians in the National Registration and Identification System.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "National Registration and Identification System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Registration and Identification System",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

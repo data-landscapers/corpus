@@ -1,0 +1,8 @@
+{"slug":"2026-09-10-zmb-businessexplainer-altron-security-national-pki-milestone","studies":{
+"authentication":{"countries":{"ZMB":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"Altron Security completed a key milestone on Zambia's national PKI, built under a contract from ZICTA won three years earlier, announced 7 September 2026.","as_of":"2026-09-07","date_precision":"day","system":"Zambia national public key infrastructure","class":"authentication"}],"systems":[{"system":"Zambia national public key infrastructure","country_label":"Zambia","class":"authentication","platform":"Altron Security","owner":"ZICTA","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document says nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No count of people holding a national ID for Zambia."}}},
+"idfrombirth":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No ID number at birth stated."}}},
+"idmaintenance":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Covers the PKI contract only, not who operates a national ID system."}}},
+"idregisters":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No public register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No national ID system in service or security certification stated for Zambia."}}}}}

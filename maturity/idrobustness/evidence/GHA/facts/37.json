@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-25-nia-approved-fees-and-charges-2026",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The NIA publishes approved fees for registration, card replacement and personal information updates at district offices and Premium Centres, showing the national ID is in service.",
+   "as_of": "2026-01-25",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identity Register",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": "district office, Premium Centre, mobile"
+  }
+ ],
+ "note": ""
+}

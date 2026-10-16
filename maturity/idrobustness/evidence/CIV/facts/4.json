@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-05-cote-ivoire-plateforme-nationale-authentification-identite-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Cote d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated that answers this study."
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-13-moz-mznews-atdi-digital-id-mission-ethiopia",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training mission to prepare a digital ID; no service, contract or pilot stated."
+    }
+   }
+  }
+ }
+}

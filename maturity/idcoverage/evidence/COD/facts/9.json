@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of people enrolled is given; the first 50 agents are only in training."
+}

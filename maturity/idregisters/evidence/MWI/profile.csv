@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,registers,register,coverage,inservice,2024,MWI-001,,
+MWI,registers,several,coverage,several,2024,MWI-002,,
+MWI,registers,matching,coverage,,,,,nothing held

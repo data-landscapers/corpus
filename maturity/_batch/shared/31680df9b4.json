@@ -1,0 +1,153 @@
+{
+ "slug": "2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Contract for ID infrastructure only; nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Contract for ID infrastructure only; nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Contract for ID infrastructure only; nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Contract for ID infrastructure only; nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "Margins ID Systems Applications, a Ghanaian firm's subsidiary, won a build, co-operate and transfer contract with the Ministry of Interior for the national ID infrastructure.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "National Identity Management System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Contract for ID infrastructure only; nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of Interior contracted a National Identity Management System and ICAO-compliant e-identity card infrastructure.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "National Identity Management System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Management System",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

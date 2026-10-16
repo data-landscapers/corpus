@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC says 142 million people have registered for National Identification Numbers as of September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

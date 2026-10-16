@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-28-csa-nir-mou-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "An MoU between the Civil Service Agency and NIR provides that civil servants' working ID cards will carry National Identification Numbers and that NBIS is used in the government employee verification headcount.",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "NBIS",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NBIS (National Biometric Identification System)",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

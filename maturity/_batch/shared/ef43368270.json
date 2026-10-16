@@ -1,0 +1,9 @@
+{"slug": "2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The article is about Niger; it says nothing about Mali's services."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Mali is named only as a party to the AES identity agreement; no registers are discussed."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No Mali enrolment figure is given."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on Mali."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on Mali's ID operation."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on Mali."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Mali is named only as party to the AES identity credentials agreement; no Mali ID system is stated."}}}
+}}

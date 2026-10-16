@@ -1,0 +1,15 @@
+{"slug": "2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The NIMC Act 2026, signed 26 June 2026, gives NIMC the mandate of Nigeria's root certification authority and oversight of the Digital Trust Infrastructure, says NIMC's director of research and strategy.", "as_of": "2026-06-26", "date_precision": "day", "system": "NIMC Digital Trust Infrastructure", "class": "authentication"}
+], "systems": [{"system": "National Identification Number (NIN)", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "NIMC's director of research and strategy said total National Identity Numbers had reached about 140 million, about 59% of Nigeria's 237.5 million people (share computed from the population given), much of it enrolled in 2025-2026.", "as_of": "2026-08-28", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document does not say who operates or maintains the system's platform."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN is named."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC's director of research and strategy said the National Identity Number total had reached about 140 million and enrolment time had fallen from seven days to one hour.", "as_of": "2026-08-28", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

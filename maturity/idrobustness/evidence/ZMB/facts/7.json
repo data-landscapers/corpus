@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "UNDP says the DNRPC has built INRIS and enrolled 1.5 million people with biometrics, is in the strategy and design stage, and will introduce a unique legal ID number while the old system is phased out.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DNRPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

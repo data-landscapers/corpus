@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-05 São Tomé and Principe pilots MOSIP-based national digital ID system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national digital ID system (MOSIP-based)",
+   "country_label": "São Tomé and Príncipe",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states no authentication, e-signature or PKI service."
+}

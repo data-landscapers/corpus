@@ -1,0 +1,108 @@
+{
+ "slug": "2025-12-25-mwi-id-validity-extension-2027",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives about two million expired cards, no enrolment count or share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The National Registration Bureau, per its Principal Secretary, will renew, print and distribute about two million expired National ID cards nationwide.",
+       "as_of": "2025-12-25",
+       "date_precision": "day",
+       "system": "National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Malawi Government extended the validity of all expired National ID cards to 1 January 2027, and the National Registration Bureau is renewing them.",
+       "as_of": "2025-12-25",
+       "date_precision": "day",
+       "system": "National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

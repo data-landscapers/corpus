@@ -1,0 +1,13 @@
+# Benin
+
+## Authentication
+
+**Authentication service.** [The World Bank feature says the WURI project supports the government's safety net programmes and the operationalisation of the Single Social Registry, without saying that the registry checks people against the ID](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>). [The World Bank feature says holders of the 'C'est Moi' ID card have used it to open bank accounts and a Mobile Money account and to take loans, and ANIP's director general says the ID lets people open an account and own a mobile phone; it gives no figure and does not describe the check itself](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>).
+
+**Used across services.** [The playbook names phone-number acquisition (telecoms) and public service platforms as conditioned on NPI authentication](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>). [The World Bank blog names microcredit (finance) and the education system among the programmes using the QR-code authentication app for fID certificates, and lists social protection, health, education, finance and SIM providers as services the fID enables](<https://blogs.worldbank.org/en/nasikiliza/identification-system-in-benin-increasing-access-to-services>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>).
+
+***Noted, not assessed***. [C'est Moi card / NPI](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>); [Single Social Registry](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>); [Bank and Mobile Money account opening](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>); [Telecom operator authentication against ANIP](<https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms>); [ANIP eKYC platform](<https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms>); [ePass](<https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

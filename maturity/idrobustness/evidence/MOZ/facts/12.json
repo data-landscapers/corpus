@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile digital ID and e-signature",
+   "country_label": "Mozambique",
+   "class": "authentication",
+   "platform": "smartphone app, SIM and eSIM",
+   "owner": "ATDI",
+   "tiers": "3"
+  }
+ ],
+ "note": "Document states nothing on this question for the country."
+}

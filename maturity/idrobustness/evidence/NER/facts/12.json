@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Niger is modernising its national identification system under WURI-Niger with World Bank support, with a first registration phase to start soon in Niamey and extend to the regions, says the director general of territorial administration.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Registre National de la Population",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

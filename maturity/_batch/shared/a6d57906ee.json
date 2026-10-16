@@ -1,0 +1,88 @@
+{
+ "slug": "2026-02-05-aps-daf-suspension-cni-communique",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "Senegal's Direction de l'Automatisation des fichiers (DAF) runs national ID card production and its technical services are restoring the system after an incident, per its 5 February 2026 communique.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "National identity card production",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card (CNI)",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Card production is reported suspended after an incident; no statement of unique credentials issued."
+    }
+   }
+  }
+ }
+}

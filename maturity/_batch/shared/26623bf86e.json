@@ -1,0 +1,9 @@
+{"slug": "2026-10-06-parliament-media-statement-select-committee-briefed-on-proposed-amendments-to-reg", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A Presidency-led working group is only exploring digital driving licences within the digital identity framework; no authentication service is stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document is about driving licences; no civil register link stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No count or share of ID holders stated."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No operator or owner of the national ID system stated."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document concerns driving licence cards, not the national ID system."}}}
+}}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-28-tribuneechos-anats-oif-etat-civil-interoperabilite",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "ANATS and the OIF discussed interoperability between communal civil-status services and the SIGPTS, and ANATS reaffirmed its commitment to support N'Djamena's digital transition (Tribune Echos).",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "Système Intégré de Gestion des Personnes et des Titres Sécurisés (SIGPTS)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGPTS",
+       "country_label": "Chad",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANATS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  }
+ }
+}

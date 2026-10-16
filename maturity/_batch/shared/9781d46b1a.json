@@ -1,0 +1,68 @@
+{
+ "slug": "2026-02-24 Kenya streamlines access to legal and digital identity",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  }
+ }
+}

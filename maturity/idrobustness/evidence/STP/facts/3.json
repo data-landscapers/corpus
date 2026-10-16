@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-afap-tender-data-center-servidores-identidade-digital",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A tender notice of 14 May 2026 by AFAP seeks servers for the data centre and disaster recovery of the digital identity system.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "sistema de identidade digital",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "sistema de identidade digital",
+   "country_label": "Sao Tome and Principe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

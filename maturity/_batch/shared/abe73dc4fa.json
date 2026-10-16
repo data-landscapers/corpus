@@ -1,0 +1,7 @@
+{"slug":"2026-09-11-bwa-businesstechafrica-national-ekyc","studies":{
+"birthidlink":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Nothing on civil register links."}}},
+"idcoverage":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No count or share of people holding the ID."}}},
+"idfrombirth":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Who operates the national ID system is not stated."}}},
+"idregisters":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Banks are private users, not public registers."}}},
+"idrobustness":{"countries":{"BWA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Bankers' Association of Botswana launched a national eKYC project letting banks verify customer identities against the national citizen database, after a 2021 system that verified identity cards the same way.","as_of":"2026-09-11","date_precision":"day","system":"Omang national citizen database","class":"idsystem"}],"systems":[{"system":"Omang national citizen database","country_label":"Botswana","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}}}}

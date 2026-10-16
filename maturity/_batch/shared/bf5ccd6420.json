@@ -1,0 +1,4 @@
+{"slug": "2026-03-13-copil-enrolement-biometrique-prea-gov-mg", "studies": {
+"idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The presidency reports that the steering committee validated unanimously on 12 March 2026 the results of the Atsimondrano biometric enrolment pilot and launched delivery of kits for a national deployment of 2,500 kits.", "as_of": "2026-03-12", "date_precision": "day", "system": "biometric enrolment (RECI)", "class": "idsystem"}], "systems": [{"system": "biometric enrolment under the civil status and identity reform (RECI)", "country_label": "Madagascar", "class": "idsystem", "platform": "", "owner": "Government of Madagascar", "tiers": ""}], "note": ""}}}
+}}

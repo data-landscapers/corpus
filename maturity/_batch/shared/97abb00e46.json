@@ -1,0 +1,11 @@
+{"slug": "2026-10-06-nam-economist-parliament-briefed-e-id", "studies": {
+"authentication": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Electronic Identification Card (e-ID)", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}], "note": "The document names an e-ID card pilot and an Identification and Authentication Act but states no authentication service."}}},
+"birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No count or share of people holding the ID is stated."}}},
+"idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"NAM": {"facts": [], "systems": [], "note": "MPs asked about ownership and control where private providers are involved; the document states no operator or owner."}}},
+"idregisters": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Home Affairs officials noted that Cabinet approved an e-ID pilot project in 2023 and that the Identification and Authentication Act of 2024 provides the legal framework; the ministries briefed MPs on the rollout of the new electronic ID card.", "as_of": "2023", "date_precision": "year", "system": "Electronic Identification Card (e-ID)", "class": "idsystem"}
+], "systems": [{"system": "Electronic Identification Card (e-ID)", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}], "note": ""}}}
+}}

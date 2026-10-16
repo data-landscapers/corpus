@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "At the SeyID launch on 1 November 2022 the platform was in its final phases of integration with eGovernment services and financial institutions, per the article citing Seychelles News Agency.",
+   "as_of": "2022-11-01",
+   "date_precision": "day",
+   "system": "eGovernment services and financial institutions (SeyID integration)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "WISeID (WISeKey)",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": ""
+  },
+  {
+   "system": "CertExpress",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

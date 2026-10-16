@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-29-somalia-govstack-high-school-certificate-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The HSC service checks students' identity against the eAqoonsi/NIRA ID through GovStack's Identity Verification and Consent block, per GovStack; as_of is the publication date, the document gives none.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "High School Certificate System (HSC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "High School Certificate System (HSC)",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "GovStack building blocks",
+   "owner": "Government of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "eAqoonsi / NIRA digital ID",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

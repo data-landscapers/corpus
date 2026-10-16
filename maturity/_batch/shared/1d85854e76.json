@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-15-crvs-laws-morocco-coordination-technology",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil registration data sharing with statistics; no exchange with the ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number at birth stated."
+    }
+   }
+  }
+ }
+}

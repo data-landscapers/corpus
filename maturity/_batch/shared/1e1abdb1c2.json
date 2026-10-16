@@ -1,0 +1,8 @@
+{"slug":"2026-08-17-sudan-cbos-deadline-extension-sudapass","studies":{
+"birthidlink":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"SDN":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on who operates SudaPass."}}},
+"idregisters":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on registers keyed on an ID number."}}},
+"idrobustness":{"countries":{"SDN":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The Central Bank of Sudan says the SudaPass digital identity is being introduced to facilitate bank clients' data updates.","as_of":"2026-08-17","date_precision":"day","system":"SudaPass","class":"idsystem"}],"systems":[{"system":"SudaPass","country_label":"Sudan","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}}
+}}

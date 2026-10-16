@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-som-hiiraan-nira-id-flights-puntland",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIRA said it had registered more than 1.5 million Somali citizens since 2023, about 7.6% of the 19.7 million population (share computed here), against a target of 15 million citizens and residents by 2029.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NIRA national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national identity card",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

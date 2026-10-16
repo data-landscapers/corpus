@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-aps-senegal-cdp-daf-deux-options-interoperabilite-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The data protection commission (CDP) says it is working with the Direction de l'automatisation des fichiers (DAF) on integrating civil status and identity, with two options (one integrated system or interoperability) reported to the authorities for decision.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "civil status and identity integration",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The High Commission for Digitalisation presented an SDK for secure biometric documents (passport, national ID card, driving licence) to the Ministry of Knowledge Economy, Startups and Micro-enterprises, as components for digital solutions that require identity verification.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "SDK for secure biometric documents"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National digital identity (enrolment via dzds.dz, biometric match)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "dzds.dz national digital services portal",
+   "owner": "High Commission for Digitalisation with the Interior Ministry",
+   "tiers": ""
+  },
+  {
+   "system": "SDK for secure biometric documents",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  },
+  {
+   "system": "National interoperability system / secure digital link network",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

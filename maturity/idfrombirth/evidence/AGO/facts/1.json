@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-04-zaire-inicia-registo-de-recem-nascidos-na-maternidade",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Angop reports newborn registration at the Mbanza Kongo maternity leads to issue of the first Bilhete de Identidade, under the Nascer com Registo project, since October 2025.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

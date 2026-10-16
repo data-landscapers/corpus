@@ -1,0 +1,68 @@
+{
+ "slug": "2026-05-26-nigeria-kenya-morocco-afcfta-adapt",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."
+    }
+   }
+  }
+ }
+}

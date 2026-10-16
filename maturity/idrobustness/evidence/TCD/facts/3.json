@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-anats-tchad-site-officiel-nni-sigpts",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ANATS site states that the SIGPTS, after enrolment and deduplication, assigns every individual, including refugees and resident or transiting foreigners, a unique randomly generated NNI, with 29 enrolment centres listed.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

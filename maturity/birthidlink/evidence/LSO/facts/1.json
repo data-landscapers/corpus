@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Lesotho's NICR, in the Ministry of Home Affairs, says CRVS, identification and passport data are 'brought together under one roof' as an integrated system with a unique personal identification number issued upon birth registration.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "NICR integrated system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICR integrated system",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of National Identity and Civil Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

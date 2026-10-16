@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-26-mwi-nzika-wallet-laxton-biometric-contract",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NRIS",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "No civil register to ID link is stated, though the wallet holds birth, marriage and death certificates."
+}

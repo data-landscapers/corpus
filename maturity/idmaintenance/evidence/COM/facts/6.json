@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-genkey-to-replace-semlex-from-april-data-domiciled-in-comoros-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Belgian firm Semlex has produced Comorian biometric cards and passports since 2007 on a single machine in Moroni, with biometric data held in Belgium, per the Interior Minister; Genkey replaces it from April 2026.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Biometric national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national ID card",
+   "country_label": "Comoros",
+   "class": "idsystem",
+   "platform": "Semlex, then Genkey",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

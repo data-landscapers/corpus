@@ -1,0 +1,8 @@
+{"slug":"2026-09-11-ner-modernghana-aes-passeport-rupture-cedeao","studies":{
+"authentication":{"countries":{"NER":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on civil register links."}}},
+"idcoverage":{"countries":{"NER":{"facts":[],"systems":[],"note":"No enrolment count or share."}}},
+"idfrombirth":{"countries":{"NER":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"NER":{"facts":[],"systems":[],"note":"The Libyan firm is named for producing documents, with no operating role stated."}}},
+"idregisters":{"countries":{"NER":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"NER":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Niger launched a new-generation national identity card for which President Tiani enrolled first, shortly before the passport launch reported 11 September 2026.","as_of":"2026-09-11","date_precision":"day","system":"Niger new-generation national identity card","class":"idsystem"},{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Niger approved two draft decrees in December introducing electronic AES passports and AES biometric national identity cards to replace the ECOWAS ENBIC card.","as_of":"2025-12","date_precision":"month","system":"AES biometric national identity card","class":"idsystem"}],"systems":[{"system":"Niger new-generation national identity card","country_label":"Niger","class":"idsystem","platform":"Al Itissan Al-Jadeed (production)","owner":"Government of Niger","tiers":""}],"note":""}}}}}

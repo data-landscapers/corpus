@@ -1,0 +1,8 @@
+{"slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin", "studies": {
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Civil-status acts are only to be added to e-Senegal later; no exchange between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No count or share of people holding the NIN is given."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No number given at birth is stated."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No public register keyed on the NIN is stated; the NIN is a portal login key."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Access to the e-Senegal platform, launched 24 March 2026 by SENUM SA, rests on authentication with the Numero d'Identification Nationale (NIN) carried on the biometric identity card, per Ndarinfo.", "as_of": "2026-03-24", "date_precision": "day", "system": "Numero d'Identification Nationale (NIN)", "class": "idsystem"}], "systems": [{"system": "Numero d'Identification Nationale (NIN) and biometric identity card", "country_label": "Senegal", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}, {"system": "e-Senegal", "country_label": "Senegal", "class": "other", "platform": "mobile app", "owner": "SENUM SA", "tiers": ""}], "note": ""}}}
+}}

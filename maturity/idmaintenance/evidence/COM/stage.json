@@ -1,0 +1,17 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "maintenance",
+   "stage": "2",
+   "operation": "transfer",
+   "maintenance": "",
+   "ownership": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001;COM-002",
+   "gaps": "No source held since October 2023 says: does a national authority run it day to day.",
+   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
+  }
+ ]
+}

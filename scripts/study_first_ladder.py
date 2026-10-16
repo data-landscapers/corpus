@@ -9,6 +9,9 @@ same shape of question five times, so one counter serves the five studies and ea
 
 1. **Under way**: the first aspect at `underway`, or a yes to any later question.
 2. **In service**: the first aspect at `inservice`.
+
+The first aspect's values are read from `study.json` in that order, top first: `inservice`,
+`underway`, `none` unless a study names its own (the ID coverage study's are population shares).
 3. The second aspect's one value.
 4. The third aspect's one value.
 
@@ -64,8 +67,15 @@ def keys(study: dict) -> tuple[str, str, str, str, str]:
     return a1["key"], a2["key"], a3["key"], a2["values"][0], a3["values"][0]
 
 
+def firsts(study: dict) -> tuple[str, str, str]:
+    """The first aspect's values for stages 3, 2 and 1."""
+    top, mid, low = study["aspects"][0]["values"][:3]
+    return top, mid, low
+
+
 def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str, unplaced: str) -> dict:
     k1, k2, k3, v2, v3 = keys(study)
+    top, mid, low = firsts(study)
     live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and last_day(r["as_of"]) <= as_at]
     live.sort(key=lambda p: p[0], reverse=True)
     three = study_lib.months_back(as_at, 36)
@@ -73,8 +83,8 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] == value and d >= three]
     if not rows:
         return {"stage": "no evidence", "sources": [], "gaps": empty}
-    for s, src in (("5", pick(k3, v3)), ("4", pick(k2, v2)), ("3", pick(k1, "inservice")),
-                   ("2", pick(k1, "underway")), ("1", pick(k1, "none"))):
+    for s, src in (("5", pick(k3, v3)), ("4", pick(k2, v2)), ("3", pick(k1, top)),
+                   ("2", pick(k1, mid)), ("1", pick(k1, low))):
         if src:
             return {"stage": s, "sources": src[:2], "gaps": gaps[s]}
     return {"stage": "unplaced", "sources": [], "gaps": unplaced}
@@ -91,6 +101,7 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
         print(f"study-ladder: {e}")
         return 2
     k1, k2, k3, v2, v3 = keys(study)
+    top, mid, low = firsts(study)
     as_at = dt.date.fromisoformat(a.as_at)
     here = study_lib.study_dir(study_id)
     base = os.path.join(here, "evidence")
@@ -105,7 +116,7 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
         s = cell["stage"]
         count[s] = count.get(s, 0) + 1
         line = {"sub_indicator": sub, "stage": s,
-                k1: "inservice" if s in ("3", "4", "5") else "underway" if s == "2" else "none" if s == "1" else "",
+                k1: top if s in ("3", "4", "5") else mid if s == "2" else low if s == "1" else "",
                 k2: v2 if s in ("4", "5") else "", k3: v3 if s == "5" else "", "cap": "", "flags": "",
                 "stage_sources": ";".join(dict.fromkeys(cell["sources"])), "gaps": cell["gaps"],
                 "note": f"First pass: counted from the four questions by study-ladder-{study_id}.py."}

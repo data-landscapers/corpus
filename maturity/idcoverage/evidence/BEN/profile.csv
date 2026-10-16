@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,coverage,share,coverage,twothirds,2026-05-20,BEN-002;BEN-004,BEN-001=third;BEN-003=third,
+BEN,coverage,everyone,coverage,,,,,nothing held
+BEN,coverage,births,coverage,,,,,nothing held

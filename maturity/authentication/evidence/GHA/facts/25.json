@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-gha-ghanaweb-nia-biometric-fraud-controls",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIA Deputy Executive Secretary Fred Bedzrah said Ghana Card biometric verification (fingerprints, iris, live facial recognition with liveness detection) matches a person present against the biometrics stored in the NIA database.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

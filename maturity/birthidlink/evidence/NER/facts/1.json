@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Le Sahel reports the World Bank-backed WURI project is developing a National Population Register (RNP) to be interoperable with the civil-status and nationality registers, run by the new ANEI agency.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Generale de l'etat civil",
+   "tiers": ""
+  },
+  {
+   "system": "Carte Nationale d'Identite Biometrique",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Service Central de Production de la CNIB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

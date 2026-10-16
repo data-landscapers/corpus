@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-04-biometricupdate-madagascar-digital-id-trust",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Madagascar is building its national digital ID under the World Bank-funded PRODIGY project ($143 million), with more than six million enrolled for the biometric scheme as of June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National digital ID (PRODIGY)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

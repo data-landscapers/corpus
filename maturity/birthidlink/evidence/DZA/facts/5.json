@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-dza-capdz-sayoud-identite-numerique-modernisation",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Interior minister said his ministry has a central role in citizens' legal identity through both the civil register (etat civil) and the issue of identity documents.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Interior ministry civil status and identity documents",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

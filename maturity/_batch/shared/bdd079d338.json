@@ -1,0 +1,9 @@
+{"slug": "2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "A new digital identity is only mentioned as to come; no authentication service stated."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Who operates the ID system is not stated."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The minister says a new digital national identity will come; no procurement, build or pilot is stated."}}}
+}}

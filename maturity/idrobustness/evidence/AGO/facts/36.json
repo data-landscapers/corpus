@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-angola-ministro-justica-postos-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Minister of Justice and Human Rights visited identification posts in Cacuaco, Luanda, under the Programme for the Universalisation of the Bilhete de Identidade, which issue and deliver the Bilhete de Identidade.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

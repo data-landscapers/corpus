@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-27-mwi-nzika-digital-id-public-trust",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Malawi's national identity system contains information on more than 13.5 million registered people, including names, photographs and fingerprints, per current reporting cited by the column.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

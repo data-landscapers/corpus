@@ -1,0 +1,24 @@
+{"slug": "2026-08-13-birth-registration-emerges-as-foundation-for-digital-public-infrastructure", "studies": {
+"authentication": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "Burundi is mentioned only for UNICEF urging integration and interoperability; no authentication service stated."},
+"RWA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Vital Strategies says Rwanda's digitised birth registration integrated with the national ID system has led to real-time identity verification across previously siloed sectors.", "as_of": "2026-08-13", "date_precision": "day", "system": "Rwanda national ID and civil registration integration", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Vital Strategies says Rwanda's digital system connects with hospitals, government agencies and businesses and supports access to around 200 essential services.", "as_of": "2026-08-13", "date_precision": "day", "system": "Rwanda national ID and civil registration integration", "class": "authentication"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "UNICEF urged Burundi to align with systems integration and interoperability; no link between civil register and ID stated."},
+"RWA": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Vital Strategies says Rwanda has digitised birth registration and integrated it with the national ID system, giving real-time data sharing.", "as_of": "2026-08-13", "date_precision": "day", "system": "Rwanda national ID and civil registration integration", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No ID enrolment count or share stated."},
+"RWA": {"facts": [], "systems": [], "note": "No ID enrolment count or share stated."}}},
+"idfrombirth": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No number at birth stated."},
+"RWA": {"facts": [], "systems": [], "note": "Integration of birth registration with national ID is stated, but not that a number is given at birth."}}},
+"idmaintenance": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains an ID system."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."},
+"RWA": {"facts": [], "systems": [], "note": "Data sharing across sectors is stated but no specific register keyed on the ID number."}}},
+"idrobustness": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No national ID system stated for Burundi."},
+"RWA": {"facts": [], "systems": [], "note": "A national ID system is referred to but nothing on issuance, biometrics or assurance."}}}
+}}

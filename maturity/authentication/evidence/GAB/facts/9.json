@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-23-gabon-legal-digital-id-three-projects",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "World Bank-funded workshops opened on 23 June 2025 to plan implementation of the Systeme national d'identite digitale (SNID) under the Gabon Digital programme, with a roadmap to be drawn before projects start.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "Systeme national d'identite digitale (SNID)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre biometrique des personnes physiques (RBPP)",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Gabon (Ministry of Interior)",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme national d'identite digitale (SNID)",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANINF / Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

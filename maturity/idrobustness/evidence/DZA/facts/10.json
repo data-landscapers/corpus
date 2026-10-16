@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-27-dza-algerie-eco-dossier-electronique-patient-numero-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Patient national identification number (electronic patient record)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The national identification number described is a patient number in the electronic health record, a sectoral ID, not the national ID system."
+}

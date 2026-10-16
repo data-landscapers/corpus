@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02-uk-gov-eritrea-knowledge-base-profile",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The UK Home Office guidance says Eritrea issues national ID cards, which are required for an Eritrean passport.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "National ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card",
+   "country_label": "Eritrea",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

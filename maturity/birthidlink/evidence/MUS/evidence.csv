@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,link,link,inservice,"The regulations end a card's validity at the registration of the holder's death, and require the Head of the Unit to check the holder is recorded as deceased in the civil identity register, or obtain the death certificate, before the card is perforated.",2024-02-19,day,MNIC civil identity register,crvslink,2024-02-16-national-identity-card-regulations-2024,https://paps.mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf

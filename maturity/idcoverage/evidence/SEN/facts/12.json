@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-12-darkreading-senegal-breach-security-maturity",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "IRIS says more than 7 million Senegalese obtained new biometric IDs in the couple of years after late 2016, about 37% of the 18.9 million population (computed from the population figure given).",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "national biometric ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

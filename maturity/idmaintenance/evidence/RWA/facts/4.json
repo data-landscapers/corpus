@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-accelerates-biometric-enrollment-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIDA leads nationwide enrollment, with registration teams in the provinces and biometric kits to be deployed permanently to sector offices.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National digital ID",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mot-du-coordonnateur-wuri-niger",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The WURI-Niger coordinator says the World Bank-financed project, under the Interior ministry, is setting up a system giving each person a unique identifier number (NIU), and procurement of the national biometric identification information system is being prepared.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "fID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fID (NIU unique identifier system)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Ministry of the Interior (WURI-Niger project)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

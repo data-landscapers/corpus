@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIMC's director of research and strategy said total National Identity Numbers had reached about 140 million, about 59% of Nigeria's 237.5 million people (share computed from the population given), much of it enrolled in 2025-2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{"slug":"2026-08-17-liberia-biometric-id-austrian-firm-ppp","studies":{
+"authentication":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No authentication service is stated."}}},
+"birthidlink":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idcoverage":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No count of people enrolled is stated."}}},
+"idfrombirth":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idmaintenance":{"countries":{"LBR":{"facts":[],"systems":[],"note":"The firm is to develop the system; who will operate it is not stated."}}},
+"idregisters":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Services to be supported are listed as aims only; no register keyed on the number."}}},
+"idrobustness":{"countries":{"LBR":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Liberia's National Identification Registry said procurement of an Austrian firm to develop a new national biometric ID system under a public-private partnership is complete and a concession agreement finalised, awaiting presidential approval and legislative ratification.","as_of":"2026-08-17","date_precision":"day","system":"New national biometric identification system","class":"idsystem"}],"systems":[{"system":"New national biometric identification system","country_label":"Liberia","class":"idsystem","platform":"Austrian firm, PPP concession","owner":"National Identification Registry","tiers":""}],"note":""}}}
+}}

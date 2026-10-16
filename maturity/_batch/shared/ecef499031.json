@@ -1,0 +1,293 @@
+{
+ "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "Biometric Update reports Morocco is working on a digital wallet super app, with work ongoing (underway, not in service).",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "digital wallet super app",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Biometric Update reports the DGSN digital ID project is extending the national ID card system to the digital world and a digital wallet super app is being worked on.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "digital wallet super app",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Biometric Update reports ANIP's Director General also holds authority as National Civil Registrar, one body responsible for identity and civil registration.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "ANIP",
+       "class": "crvslink"
+      },
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "Biometric Update quotes ANIP's Director General saying one institution, ANIP, is in charge of identity management, the population register and the electoral register, and he is National Civil Registrar.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "ANIP",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "Biometric Update quotes ANIP's Director General saying ANIP, attached to the presidency, is in charge of all identity matters in Benin.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "ANIP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP identity system",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update quotes the DGSN digital ID head saying the national ID card management system has been used since the 1950s.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "national ID card management system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card management system",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

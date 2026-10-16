@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Programme",
+   "tiers": ""
+  }
+ ],
+ "note": "Who operates or maintains Fayda is not stated."
+}

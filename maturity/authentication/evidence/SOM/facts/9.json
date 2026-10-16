@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-24-somalia-eaqoonsi-app-dpi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The eAqoonsi app, linked to the national identification system, is in use: users verify their account with a one-time password and access a digital ID, per NIRA and Hiiraan Online.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "A Mogadishu user said she obtained a valid digital ID at home through the eAqoonsi app without revisiting a NIRA center; Google Play shows over 50,000 downloads.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "app with OTP verification"
+  },
+  {
+   "system": "National ID (11-digit number)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "in-person registration"
+  }
+ ],
+ "note": ""
+}

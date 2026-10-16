@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-civil-services-faq-id-section",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Department of Immigration and Civil Status issues National Identity Cards valid for ten years, free on first issue for Seychellois and SCR300 for expatriates, per its FAQ.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": "Seychellois and expatriate cards"
+  }
+ ],
+ "note": ""
+}

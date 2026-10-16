@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-24-senators-commend-digital-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The Minister of ICT and Innovation told the Senate that over 1.8 million people had submitted biometric data for the digital ID by 22 February 2026, against a target of 15 million; about 12% of the 14.6 million population (computed).",
+   "as_of": "2026-02-22",
+   "date_precision": "day",
+   "system": "e-Indangamuntu",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Indangamuntu",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

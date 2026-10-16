@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-new-id-card-10-years-validity-standard",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Ministry for the Interior says phase two of the Margins ID Systems contract integrates security and economic IT systems to the new ID database for verification services.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Gambia national ID system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

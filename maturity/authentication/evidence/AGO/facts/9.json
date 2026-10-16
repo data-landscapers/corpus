@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-09-ago-pti-angolaid-testes",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Tech By Tech, a private company, says its AngolaID digital identity wallet and verification service is available on Google Play and the App Store in test mode.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "AngolaID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech By Tech's CEO says AngolaID has been in operation since 2024 and offers API and SDK verification, authentication and liveness checks to institutions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "AngolaID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AngolaID",
+   "country_label": "Angola",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Tech By Tech (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

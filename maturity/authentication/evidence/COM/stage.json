@@ -1,0 +1,17 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "authentication",
+   "stage": "unplaced",
+   "service": "",
+   "reach": "",
+   "remote": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 names a digital authentication service.",
+   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
+  }
+ ]
+}

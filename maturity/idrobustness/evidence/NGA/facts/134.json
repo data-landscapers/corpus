@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-16-fij-npc-vitalreg-wrong-family-records",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The man told FIJ his first daughter has a National Identification Number (NIN), so the system has issued a number to her.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

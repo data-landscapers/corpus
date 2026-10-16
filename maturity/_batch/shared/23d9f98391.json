@@ -1,0 +1,99 @@
+{
+ "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Liberia's National Identification Registry executive director says it plans to link national ID with civil registration and vital statistics in one NID-CRVS system under a signed $54 million agreement with OSD that awaits parliamentary approval.",
+       "as_of": "2026-09-14",
+       "date_precision": "day",
+       "system": "NID-CRVS system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Registry national ID",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Liberia has signed a $54 million agreement with OSD for a national identity infrastructure upgrade that still requires parliamentary approval, while national ID issuance has been suspended since June 2025.",
+       "as_of": "2026-09-14",
+       "date_precision": "day",
+       "system": "National ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

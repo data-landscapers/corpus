@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-02-superapp-digital-wallet-clarification-no-1",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth certificate and Mobile ID are planned as wallet credentials; no exchange between civil register and ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region", "studies": {
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [{"system": "e-ID Togo", "country_label": "Togo", "class": "other", "platform": "", "owner": "ANID", "tiers": ""}], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+"idcoverage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No cumulative enrolment count given."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Children aged 0-5 are registered using a parent's NIU; no number at birth stated."}}},
+"idmaintenance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "ANID implements the project with World Bank finance; no statement on who operates or owns the platform."}}},
+"idregisters": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No public register keyed on the NIU stated; use by services is only intended."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Togo's National Identification Agency (ANID) is expanding e-ID biometric enrolment to Maritime region Zone 1 from 22 November 2025, after rollouts in the Gulf, Agoe-Nyive and Savanes prefectures, assigning residents a Unique Identification Number (NIU) and issuing biometric identity cards.", "as_of": "2025-11-19", "date_precision": "day", "system": "e-ID Togo", "class": "idsystem"}], "systems": [{"system": "e-ID Togo", "country_label": "Togo", "class": "idsystem", "platform": "", "owner": "ANID", "tiers": ""}], "note": ""}}}
+}}

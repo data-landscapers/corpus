@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Republic Online reports that the NIA provides biometric verification services of the national ID that institutions use daily, and that commercial banks pay for continuous access to verify customers.",
+   "as_of": "2025-09-21",
+   "date_precision": "day",
+   "system": "NIA biometric verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The NIA chief says GRA, NHIS, the Passport Office and commercial banks all use NIA biometric verification, with the first three owing $457 million for it.",
+   "as_of": "2025-09-21",
+   "date_precision": "day",
+   "system": "NIA biometric verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification System",
+   "country_label": "GHA",
+   "class": "idsystem",
+   "platform": "Margins ID Group identity management system under PPP",
+   "owner": "NIA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

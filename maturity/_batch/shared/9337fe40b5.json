@@ -1,0 +1,131 @@
+{
+ "slug": "2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The only identifier described is the health-sector INS, not a national ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The only identifier described is the health-sector INS, not a national ID system."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Health Identifier (INS)",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The only identifier described is the health-sector INS, not a national ID system."
+    }
+   }
+  }
+ }
+}

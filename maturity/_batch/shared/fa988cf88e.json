@@ -1,0 +1,88 @@
+{
+ "slug": "2025-09-10-presidence-tchad-rca-communaute-tchadienne-bangui-anats-ambassades",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Chadian Presidency says ANATS agents will be posted permanently in embassies to deliver national identity cards and passports (announced by the President on 2025-09-10).",
+       "as_of": "2025-09-10",
+       "date_precision": "day",
+       "system": "national identity card (ANATS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card (ANATS)",
+       "country_label": "Chad",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANATS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

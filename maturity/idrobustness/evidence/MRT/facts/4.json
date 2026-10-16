@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP says the National Agency for People Registry and Secure Documents developed and manages Mauritania's national biometric system.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "national biometric system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national biometric system",
+   "country_label": "MRT",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Agency for People Registry and Secure Documents",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

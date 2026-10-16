@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-12-maliweb-justice-casier-nationalite-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Mali launched on 10 February 2026 two online platforms, for the criminal record and the nationality certificate, where citizens apply using their NINA and civil-status details (Maliweb).",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "ecasierjudiciaire.gouv.ml and enationalite.gouv.ml"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ecasierjudiciaire.gouv.ml and enationalite.gouv.ml",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice; built by AGETIC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

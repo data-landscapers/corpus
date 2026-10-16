@@ -1,0 +1,164 @@
+{
+ "slug": "2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes a digital ID rollout, not an authentication, e-signature or PKI service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Zambia's Smart Zambia Institute is seeking a system integrator to integrate the MOSIP-based digital ID system with the national civil registration architecture.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "MOSIP-based digital ID",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of people enrolled is given; the 80 percent target is for integration in the digital economy."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "SZI National Coordinator Percy Chinyama says the system is being implemented by Zambians in a home-grown approach, with an international system integrator being sought to provide additional expertise, and open standards so Zambia is not locked in.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "MOSIP-based digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Zambian government through the Smart Zambia Institute is procuring a system integrator to deploy, customise and integrate a MOSIP-based digital ID system, with full rollout targeted by the end of 2026.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "MOSIP-based digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

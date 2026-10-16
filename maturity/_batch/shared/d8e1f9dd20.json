@@ -1,0 +1,99 @@
+{
+ "slug": "2026-08-11-rtnb-le-burundi-accelere-la-modernisation-de-letat-civil",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service is mentioned."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Directorate General for territorial administration says the civil registration, legal identity and health systems are to be interconnected, and civil registration is to be integrated with the national digital identity system.",
+       "as_of": "2026-08-10",
+       "date_precision": "day",
+       "system": "Burundi national digital identity system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "A unique identifier is planned but not stated to be given at birth registration."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Directorate General for territorial administration says the State is working on a national digital identity system with a unique identification number, using fingerprints and facial recognition.",
+       "as_of": "2026-08-10",
+       "date_precision": "day",
+       "system": "national digital identity system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital identity system",
+       "country_label": "Burundi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

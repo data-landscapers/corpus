@@ -1,0 +1,157 @@
+{
+ "slug": "2026-01-07-monitor-21-million-transferred-new-nira-system",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification and Registration Authority (NIRA) new ID system",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Hospital registration centres are NIRA's; no exchange with a civil register is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "NIRA says 28.5 million people were registered under the old system, about 55% of Uganda's 51.4 million (computed from the population held), and 21.4 million had been migrated to the new system.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIRA national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification and Registration Authority (NIRA) new ID system",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "NIRA says about 636,000 children have been enrolled and it has registration centres in most major hospitals where parents register newborns.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIRA national ID system",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification and Registration Authority (NIRA) new ID system",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIRA, the national authority, is migrating records to the new system and operates more than 140 offices, per its manager for monitoring and evaluation.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIRA new ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification and Registration Authority (NIRA) new ID system",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIRA says 21.4 million records have moved to the new system, with 6.1 million new entrants registered and cards renewed and printed.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIRA new ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification and Registration Authority (NIRA) new ID system",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

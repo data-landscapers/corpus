@@ -1,0 +1,9 @@
+{"slug": "2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems", "studies": {
+"authentication": {"countries": {"GNB": {"facts": [], "systems": [{"system": "national biometric ID card (ENBIC)", "country_label": "Guinea-Bissau", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}, {"system": "SIREC (Integrated System of Citizen Registers and Statistics)", "country_label": "Guinea-Bissau", "class": "other", "platform": "", "owner": "Civil Registration Office, Ministry of Justice", "tiers": ""}], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Integration named is of birth registration with health and education, not with the ID system."}}},
+"idcoverage": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Gives birth registration at about 46% of under-fives, no count or share enrolled in the ID."}}},
+"idfrombirth": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Names UNDP support for modernising, but not who operates or owns the system."}}},
+"idregisters": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GNB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports Guinea-Bissau already has a functional biometric national ID card system, being modernised under a Swiss-financed UNDP 'Building National ID' project, and has fully operationalised the ECOWAS ENBIC biometric ID card.", "as_of": "2025-06-10", "date_precision": "day", "system": "national biometric ID card (ENBIC)", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

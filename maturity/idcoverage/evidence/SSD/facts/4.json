@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Anecdotal estimates say only about 10% of South Sudan's roughly 12 million people hold Nationality Certificates (about 1.2 million, share as stated), and the country has yet to issue National ID cards at scale, per Hold the Child.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Civil Registry, Nationality, Passport and Immigration",
+   "tiers": ""
+  },
+  {
+   "system": "Nationality Certificate",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Civil Registry, Nationality, Passport and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,robustness,system,coverage,inservice,2026,SYC-001;SYC-002;SYC-003;SYC-004;SYC-005;SYC-006;SYC-007;SYC-008;SYC-009,,
+SYC,robustness,biometric,coverage,,,,,nothing held
+SYC,robustness,assurance,coverage,,,,,nothing held

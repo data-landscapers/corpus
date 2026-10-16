@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-25-semlex-hands-biometric-data-to-comoros-government-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Al-Watwan reports Semlex has produced Comoros' biometric national identity cards and passports since 2007, and that enrolment for new cards was suspended from 2 March 2026 for the transition to GenKey, expected to resume on 27 March.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Biometric national identity cards",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national identity cards and passports",
+   "country_label": "Comoros",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

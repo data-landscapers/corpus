@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Angola presents a phased Bilhete de Identidade Digital, with an authentication capability, a digital identity wallet app and fingerprint, face, iris and biometric signature enrolment at birth registration and ID issue, as its target architecture.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade Digital",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent", "studies": {
+"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system stated."}}},
+"idcoverage": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The interior minister told the National Assembly the Registre national de la population grew from 3.4 million in 2019 to over 5.1 million people, about 96% of Mauritania's 5.3 million population (share computed from the population held).", "as_of": "2026-06-18", "date_precision": "day", "system": "Registre national de la population", "class": "idsystem"},
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The interior minister told the National Assembly the Registre national de la population holds over 5.1 million people, about 96% of the 5.3 million population (share computed from the population held).", "as_of": "2026-06-18", "date_precision": "day", "system": "Registre national de la population", "class": "idsystem"}
+], "systems": [{"system": "Registre national de la population", "country_label": "MRT", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": "biometric enrolment, permanent public service"}], "note": ""}}},
+"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Registre national de la population", "country_label": "MRT", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": "biometric enrolment, permanent public service"}], "note": "Enrolment is described as permanent, but no number given at birth registration is stated."}}}
+}}

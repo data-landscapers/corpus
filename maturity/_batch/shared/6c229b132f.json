@@ -1,0 +1,88 @@
+{
+ "slug": "2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "South Sudan procured five machines for the CRNPI, three for National ID and nationality certificates, with 100 mobile enrolment kits for the states, per the CRNPI director general.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "National ID (CRNPI)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

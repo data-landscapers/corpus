@@ -1,0 +1,79 @@
+{
+ "slug": "2025-07-19-mediaguinee-rnpp-fichier-electoral-provisional-stats",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The Interior Ministry announced 9,010,191 people registered on the RNPP after 111,319 confirmed duplicates were removed, about 59.7% of the 15.1 million population (share computed from the population held).",
+       "as_of": "2025-07-19",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

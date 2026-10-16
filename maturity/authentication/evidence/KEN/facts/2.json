@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-15-expands-digital-id-minors-health-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Kenya's Health Cabinet Secretary said a biometric campaign under the Social Health Authority system is enrolling children aged 7 to 17 into Maisha Namba, to link each child's health record to the digital ID; no date is given for the start, so the publication date is used.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Social Health Authority (SHA) system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Health Authority (SHA) system",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Social Health Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Maisha Namba",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

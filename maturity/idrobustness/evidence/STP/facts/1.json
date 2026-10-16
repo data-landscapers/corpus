@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank mission reports a System Integrator contracted with INIC and DGRN to design and implement a new foundational digital ID, with launch planned by January 2026 and its enabling identity law still awaiting approval.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "STP Digital Identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

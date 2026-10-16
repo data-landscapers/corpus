@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-burundi-unveils-biometric-national-id-awaits-law",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ministry of the Interior's Valentin Nahimana said on 6 May 2026 Burundi is technically ready to produce biometric national ID cards but awaits adoption of the law governing their use.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "biometric national identity card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national identity card system",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

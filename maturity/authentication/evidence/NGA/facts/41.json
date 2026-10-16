@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-nga-thisday-fg-december-deadline-95-percent-nin-coverage",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "NIMC director-general Abisoye Coker-Odusote said the NIMC Act 2026 designates NIMC as the National Root Certification Authority for Nigeria's public key infrastructure.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Root Certification Authority (NIMC)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,107 @@
+{
+ "slug": "2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Morocco's digital transition ministry signed cooperation agreements, including with iDakto and ShareID, for a national digital wallet app on the Idarati platform, to be tested within six months.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Idarati X.0 digital wallet",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Idarati platform is linked to Morocco's existing electronic national identity card system, developed by iDakto with Idemia and the DGSN.",
+       "as_of": "2026-02-12",
+       "date_precision": "day",
+       "system": "electronic national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic national identity card",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "iDakto with Idemia",
+       "owner": "DGSN",
+       "tiers": ""
+      },
+      {
+       "system": "Idarati X.0",
+       "country_label": "Morocco",
+       "class": "authentication",
+       "platform": "Idarati",
+       "owner": "Ministry of Digital Transition and Administrative Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

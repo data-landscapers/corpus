@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The DGPF director says one directorate handles both the biometric ID card and civil-status records, with birth and marriage certificates being integrated into a digital database, and an integrated identity and civil-status system as the long-term aim.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "DGPF digital database",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

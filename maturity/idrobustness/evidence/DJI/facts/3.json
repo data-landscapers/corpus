@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-interieur-mobile-id-lancement-officiel",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Interior Ministry says it officially launched Mobile ID on 10 February 2026 as the national secure digital identity system, using biometrics.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Djibouti",
+   "class": "authentication",
+   "platform": "smartphone app",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

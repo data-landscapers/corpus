@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-graphic-ghana-card-photocopying-november-2-deadline",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Banks, telecoms, hospitals, schools and other institutions have a transition period to 2 November 2026 to integrate with the NIA's Identity Verification System and verify Ghana Card holders electronically instead of by photocopy, under L.I. 2523; a SIM-registration identity verification timetable is still to be announced, per the Interior Minister.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "NIA Identity Verification System"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA Identity Verification System",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

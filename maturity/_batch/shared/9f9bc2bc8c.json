@@ -1,0 +1,119 @@
+{
+ "slug": "2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The Ethiopia National ID Program reports 49.1 million Fayda enrolments as of 24 August 2026, about 36% of Ethiopia's 135.5 million people (share computed from the held population figure).",
+       "as_of": "2026-08-24",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "ETH",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program / Faydaverse",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The national ID authority became the government-owned enterprise Faydaverse in August 2026, mandated to develop, operate and scale the digital public infrastructure.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "ETH",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program / Faydaverse",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names agencies and eKYC users but no public register keyed on the number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Fayda has completed 49.1 million enrolments on 12,000 biometric registration kits, with over 194 million eKYC verifications, per the National ID Program.",
+       "as_of": "2026-08-24",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "ETH",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program / Faydaverse",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

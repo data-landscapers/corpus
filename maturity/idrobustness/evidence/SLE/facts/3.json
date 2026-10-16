@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-sierra-leone-advances-national-dialogue-on-digital-identity-and-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A June 2026 MoU between the ministry, Bhutan NDI and the SIGN Foundation seeks to develop a national digital identity ecosystem on open-source technology, and a national dialogue forum was convened to act on it.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "national digital identity ecosystem",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

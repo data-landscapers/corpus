@@ -1,0 +1,99 @@
+{
+ "slug": "2026-10-08-nam-biometricupdate-mps-digital-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Namibia launched its national public key infrastructure under the DigiNam initiative in August 2026, per Home Affairs Minister Lucia Iipumbu.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "national PKI (DigiNam)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil register link."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator or ownership stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No register keyed on the ID stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The planned digital ID rollout, set for September 2026, was delayed because the legal framework needed for implementation was not yet finalized.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "Namibia digital ID (e-ID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Namibia digital ID (e-ID)",
+       "country_label": "NAM",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs (National Registration Bureau)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

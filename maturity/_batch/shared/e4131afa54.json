@@ -1,0 +1,88 @@
+{
+ "slug": "2024-01-01-national-identity-card-consular-services-embassy-washington",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Online application with a passport and National Identification Number is not an authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Embassy of Algeria in Washington processes applications for a biometric National Identity Card, with a National Identification Number, for Algerians abroad.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National Identity Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Card (biometric)",
+       "country_label": "Algeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Foreign Affairs (consular processing)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

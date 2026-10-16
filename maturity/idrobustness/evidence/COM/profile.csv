@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,robustness,system,coverage,inservice,2026-03-31,COM-001;COM-002;COM-003;COM-004;COM-005;COM-006;COM-008,COM-007=underway;COM-009=underway,
+COM,robustness,biometric,coverage,,,,,nothing held
+COM,robustness,assurance,coverage,,,,,nothing held

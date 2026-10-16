@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-28-digital-eswatini-project-pid",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank concept note for Digital Eswatini (US$65m) proposes deploying digital ID as a DPI building block and buying biometric equipment for government e-services, calling digital ID currently underdeveloped.",
+   "as_of": "2025-06-28",
+   "date_precision": "day",
+   "system": "Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register (NPR)",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-newtimes-rwanda-digital-id-enrollment-8-million",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIDA said more than 8 million people had been registered for the Digital ID, about 55% of Rwanda's 14.6 million population (divided by the population held, not stated in the document).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

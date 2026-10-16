@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-dha-smart-id-bank-branch-locator",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Smart ID cards, first introduced in 2013, are issued by Home Affairs including through 372 bank branches, with over half a million switches from the green ID book.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Smart ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

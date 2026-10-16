@@ -1,0 +1,12 @@
+{"slug": "2025-11-26-somalia-national-id-issuance-reaches-1m", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Somalia's NIRA director general said ID authentications for service access are growing by the day, with more than 24 public and private sector services integrated with the national ID system.", "as_of": "2025-11-24", "date_precision": "day", "system": "Somalia national ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIRA says more than 24 public and private sector services have integrated the national ID system and use it for authentication.", "as_of": "2025-11-24", "date_precision": "day", "system": "Somalia national ID", "class": "authentication"}
+], "systems": [{"system": "Somalia national ID", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "NIRA's director general said at least one million citizens were enrolled for the national ID, about 5% of Somalia's 19.7 million people (share calculated here from the population held, not stated by the document).", "as_of": "2025-11-24", "date_precision": "day", "system": "Somalia national ID", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "NIRA runs the programme and the World Bank funds it, but who operates and maintains the platform is not stated."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Services integrate the ID, but no public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Somalia's National Identification and Registration Authority (NIRA) said at least one million citizens were enrolled in the World Bank-funded national ID programme, with a target of 15 million issued IDs by 2029.", "as_of": "2025-11-24", "date_precision": "day", "system": "Somalia national ID", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

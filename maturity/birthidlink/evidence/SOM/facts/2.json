@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11 Somalia pilots 19-district digital civil registry",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Ministry of Interior, Federal Affairs and Reconciliation is testing interfaces that would integrate the digital civil registration platform with national ID, health, education and immigration services.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Digital Civil Registration Service",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior, Federal Affairs and Reconciliation",
+   "tiers": "19 pilot districts"
+  }
+ ],
+ "note": ""
+}

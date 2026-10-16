@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Agency (NIDA)",
+   "tiers": "SDIN, token, SDID card"
+  }
+ ],
+ "note": "Issue from birth is stated, but no exchange with the civil register is described."
+}

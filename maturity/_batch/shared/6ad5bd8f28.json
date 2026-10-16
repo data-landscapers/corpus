@@ -1,0 +1,15 @@
+{"slug": "2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform", "studies": {
+"authentication": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Sierra Leone's Ministry of Communication, Technology and Innovation, Bhutan NDI and the Sign Foundation signed an MoU to design and implement a digital identity platform using W3C-compliant verifiable credentials.", "as_of": "2026-07-08", "date_precision": "day", "system": "Sierra Leone digital identity platform", "class": "authentication"}
+], "systems": [{"system": "Sierra Leone digital identity platform", "country_label": "Sierra Leone", "class": "idsystem", "platform": "Sign / Bhutan NDI open-source framework", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No civil register link is stated."}}},
+"idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No count or share enrolled is given."}}},
+"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "The MoU stresses institutional capacity building and knowledge transfer, with governance so the platform can be sustainably managed and evolved by national institutions over time, while Sign leads system design and technical implementation.", "as_of": "2026-07-08", "date_precision": "day", "system": "Sierra Leone digital identity platform", "class": "idsystem"}
+], "systems": [{"system": "Sierra Leone digital identity platform", "country_label": "Sierra Leone", "class": "idsystem", "platform": "Sign / Bhutan NDI open-source framework", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Sierra Leone, Bhutan and the Sign Foundation signed an MoU on the design, development and implementation of a digital identity platform, with a joint working group to develop a phased roadmap for the national digital ID system.", "as_of": "2026-07-08", "date_precision": "day", "system": "Sierra Leone digital identity platform", "class": "idsystem"}
+], "systems": [{"system": "Sierra Leone digital identity platform", "country_label": "Sierra Leone", "class": "idsystem", "platform": "Sign / Bhutan NDI open-source framework", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}], "note": ""}}}
+}}

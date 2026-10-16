@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The ANATS director general says household enrolment teams in a six-month, twelve-province birth registration operation will collect data to be integrated into the national biometric register.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "national biometric register",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national biometric register",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

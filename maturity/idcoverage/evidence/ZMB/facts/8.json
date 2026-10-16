@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP-based digital ID",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of people enrolled is given; the 80 percent target is for integration in the digital economy."
+}

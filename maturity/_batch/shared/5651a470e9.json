@@ -1,0 +1,9 @@
+{"slug":"2026-10-01-sa-digital-id-schreiber-demo","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"Minister Leon Schreiber demonstrated a working MyMzansi digital ID credential issued through the population register, but gave no public date; the annual performance plan targets hosting by 31 March 2027 and citizen credentials in a mobile wallet in 2027/2028.","as_of":"2026-10-01","date_precision":"day","system":"MyMzansi","class":"authentication"}],"systems":[{"system":"MyMzansi digital ID","country_label":"South Africa","class":"authentication","platform":"mobile wallet","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only plans to automate birth registration; no register link stated."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No count of people enrolled given."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Birth registration plans mention no ID number at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the system in service."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No register stated as keyed on the ID number."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The physical smart ID card is available, with 515 bank branches already offering walk-in smart ID replacements, and it will remain available beside the digital ID.","as_of":"2026-10-01","date_precision":"day","system":"smart ID card","class":"idsystem"}],"systems":[{"system":"smart ID card","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}}
+}}

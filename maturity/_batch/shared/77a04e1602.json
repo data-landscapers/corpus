@@ -1,0 +1,68 @@
+{
+ "slug": "2026-02-09-presidence-discours-forum-identite-numerique",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The speech names no service, link, count, register or operator for Djibouti."
+    }
+   }
+  }
+ }
+}

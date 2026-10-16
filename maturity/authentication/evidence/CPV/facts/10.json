@@ -1,0 +1,54 @@
+{
+ "slug": "2024-01-01-cabo-verde-mobile-digital-key",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Autentika, the government electronic identity and authentication platform, runs the Cabo Verde Mobile Digital Key (CMDCV), created by Legislative Decree 5/2020, for authenticating and digitally signing users of online public services.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cabo Verde Mobile Digital Key (CMDCV)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The page says the CMDCV holder can access various digital services on public portals and sign documents with a single login, and that applications can apply to use Autentika.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cabo Verde Mobile Digital Key (CMDCV)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The page says citizens holding the National ID Card can obtain the CMDCV online and authenticate with a PIN plus a one-time code received by SMS or through the CMDCV mobile application, with a qualified electronic signature.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cabo Verde Mobile Digital Key (CMDCV)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cabo Verde Mobile Digital Key (CMDCV)",
+   "country_label": "Cabo Verde",
+   "class": "authentication",
+   "platform": "Autentika",
+   "owner": "Government of Cabo Verde",
+   "tiers": "PIN plus one-time code"
+  },
+  {
+   "system": "National Identification Card (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

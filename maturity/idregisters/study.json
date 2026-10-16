@@ -1,0 +1,143 @@
+{
+ "id": "idregisters",
+ "study_file": "maturity-study-idregisters.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--use-by-other-systems"
+ ],
+ "carry": [
+  "dpi.id--use-by-other-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "ghost workers",
+  "ghost names",
+  "fictitious workers",
+  "agents fictifs",
+  "single source of truth",
+  "tax identification number",
+  "numéro d'identification fiscale"
+ ],
+ "sub_indicators": [
+  {
+   "key": "registers",
+   "label": "Use by other systems",
+   "subject": "dpi.id",
+   "text": "Use by other systems: use by other systems",
+   "indicator_id": "dpi.id--use-by-other-systems-use-by-other-systems",
+   "class": "register",
+   "norm_short": "The African Union's interoperability framework and Data Policy Framework ask that the national ID be the single source of truth for identity across public registers.",
+   "criteria": [
+    "A source from the past three years says public registers do not use the national ID number.",
+    "A public register's adoption of the national ID number is planned or piloted.",
+    "A public register uses the national ID number: the electoral roll drawn from it, the tax register, payroll or a social registry.",
+    "Three or more of the electoral, tax, social protection, civil service payroll and business registers use the number.",
+    "A source from the past three years gives a figure from checking a register against the ID: ghost workers removed, duplicates found."
+   ],
+   "criteria_of": "70ca6b6fd3f5"
+  }
+ ],
+ "classes": [
+  "register",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "register",
+   "name": "Register keyed on ID",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "several",
+   "name": "Main registers",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "matching",
+   "name": "Matching reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

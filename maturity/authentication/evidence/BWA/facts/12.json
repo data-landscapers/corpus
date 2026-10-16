@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The minister said the Electronic Identification System had evolved into a broader Digital ID project aiming to integrate digital IDs, a national e-wallet and e-government services.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Digital ID project",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Omang",
+   "country_label": "BWA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Labour and Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

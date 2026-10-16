@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-niger-mission-technique-burkina-identite-numerique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Niger's delegation visited Burkina Faso, described as recognised in the sub-region for the advances of its identification system, including the Office national d'identification.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Office national d'identification",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office national d'identification",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The World Bank says nearly 1.17 million people were registered and issued a unique national identification number between Aug 2022 and Feb 2023, about 42% of the 2.8 million population (share computed here from the population held).",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "eCRVS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

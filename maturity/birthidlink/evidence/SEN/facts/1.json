@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-05-senegal-civil-registration-digitalization-anec",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sama Etat Civil / LGEC",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes the civil register and a health-to-registrar notification platform; no link to the ID system is stated."
+}

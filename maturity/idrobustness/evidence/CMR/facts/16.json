@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Issuance of the new biometric national ID card, with an embedded chip, began on 3 March 2025 after pre-enrolment from 17 February and biometric capture from 24 February; applicants report collecting cards within about 48 hours.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "New generation national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "New generation national ID card",
+   "country_label": "Cameroon",
+   "class": "idsystem",
+   "platform": "Augentic",
+   "owner": "DGSN",
+   "tiers": "national ID, residence, refugee and disability cards"
+  }
+ ],
+ "note": ""
+}

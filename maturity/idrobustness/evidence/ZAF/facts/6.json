@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-20-home-affairs-828m-digital-id-budget",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Home Affairs issued a record four million Smart IDs in 2025 through a partnership with banks, rolling out to at least 750 bank branches by end 2026.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Smart ID",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Biometric Update reports the budget supports the imminent launch of a national digital ID, with the draft regulatory framework released for public comment before June 6, 2026.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

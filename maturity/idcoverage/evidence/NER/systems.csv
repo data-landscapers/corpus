@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,CNIB,Niger,idsystem,,,,2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes
+NER,carte nationale d'identité (national identity card),Niger,idsystem,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,WURI-Niger,Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National de la Population (planned),Niger,idsystem,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National d'État Civil (planned),Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Niger national e-ID card,Niger,idsystem,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport
+NER,Carte Nationale d'Identite / RNP (ANEI),Niger,idsystem,,ANEI / Ministry of Interior,,2026-08-29-niger-agadez-reformes-etat-civil-identification

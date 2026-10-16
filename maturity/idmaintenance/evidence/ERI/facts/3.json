@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-17-eritrea-embassy-national-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Eritrean National ID",
+   "country_label": "ERI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Eritrea",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated on this question; the page is an embassy fee and document checklist."
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2026-08-08-egypt-ntra-my-numbers-facial-verification",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The regulator is adding face-recognition verification to the My NTRA app so only the data subject sees lines registered against their national number.",
+       "as_of": "2026-08-08",
+       "date_precision": "day",
+       "system": "My NTRA facial verification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."
+    }
+   }
+  }
+ }
+}

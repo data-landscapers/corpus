@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-timeslive-home-affairs-id-fraud-smart-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Home affairs minister Leon Schreiber said the department is expanding access to the smart ID card to replace the manual green ID book, which about 16 million people still hold, and that about 300,000 IDs are blocked where duplicate IDs were detected.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "smart ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": "smart ID card; green ID book"
+  }
+ ],
+ "note": ""
+}

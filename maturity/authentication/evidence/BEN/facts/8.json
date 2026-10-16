@@ -1,0 +1,52 @@
+{
+ "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "ANIP's playbook says acquiring a phone number is conditional on authentication from the NPI and fingerprint.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SIM registration against NPI"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The playbook names phone-number acquisition (telecoms) and public service platforms as conditioned on NPI authentication.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SIM registration against NPI"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration against NPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "RNPP / NPI",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Public service platforms NPI authentication",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "NPI + OTP",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANIP eKYC platform",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "ANIP",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

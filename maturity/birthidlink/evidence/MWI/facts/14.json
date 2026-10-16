@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-10-mwi-undp-printers-nrb",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "UNDP says the Nzika registration application, which connects civil registration with national identity management, has been piloted in 87 locations across five districts, with expansion to 250 locations planned by 2028.",
+   "as_of": "2026-10-10",
+   "date_precision": "day",
+   "system": "Nzika registration application",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nzika registration application",
+   "country_label": "Malawi",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-11 DZAP World Bank PAD",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank appraisal says the Government is planning a homegrown foundational ID system on open standards, with MoHAIS collecting demographic data, 10 fingerprints and a photograph in enrolment.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "INRIS / planned foundational ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration Card (NRC)",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "paper",
+   "owner": "MoHAIS",
+   "tiers": ""
+  },
+  {
+   "system": "INRIS",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "MoHAIS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

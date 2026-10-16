@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The World Bank blog says a digital farmer registry is being planned, integrated with the national ID system.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

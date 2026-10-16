@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Niger signed an MoU on 27 June 2025 with Libyan firm Al Itissal Al Jadeed for a new electronic national ID card enabling secure online identification, aimed at online authentication, e-government, banking and social protection.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "Niger national e-ID card",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Niger national e-ID card",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior, Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

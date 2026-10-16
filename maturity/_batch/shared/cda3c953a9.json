@@ -1,0 +1,14 @@
+{"slug":"2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing","studies":{
+"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document does not mention civil register and ID exchange."}}},
+"idcoverage":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"NIDA says it has registered 27,520,835 people and issued 23,515,667 National Identification Numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here.","as_of":"2026-09","date_precision":"month","system":"NIDA national ID","class":"idsystem"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"frombirth","aspect":"number","value":"underway","fact":"The Home Affairs Minister said preparations are underway to register children so that every Tanzanian has a National Identification Number.","as_of":"2026-09-16","date_precision":"day","system":"NIDA national ID","class":"birthnumber"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"It says NIDA has expanded offices and staff but not who builds or maintains the system."}}},
+"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"It directs integration with institutions generally and names no register keyed on the ID number."}}},
+"idrobustness":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"NIDA says it has issued 23,515,667 National Identification Numbers and produced 21,526,635 identity cards.","as_of":"2026-09","date_precision":"month","system":"NIDA national ID","class":"idsystem"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}}
+}}

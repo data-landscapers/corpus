@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-nga-thisday-fg-december-deadline-95-percent-nin-coverage",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC director-general said the national register now holds the identities of more than 140 million Nigerians and legal residents, enrolled through the Ward-to-Ward project in 8,809 wards.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) and National e-ID Card",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

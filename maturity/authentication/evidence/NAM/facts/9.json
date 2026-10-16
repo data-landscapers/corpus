@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Instant Payments Namibia's COO said the instant payment system, at the stage of deploying infrastructure, will need to use the national registration database for onboarding, with identity verification likely done by another entity.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Instant Payments Namibia"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payments Namibia",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

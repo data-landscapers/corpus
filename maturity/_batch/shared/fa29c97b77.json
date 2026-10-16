@@ -1,0 +1,88 @@
+{
+ "slug": "2026-06-30-rwa-2026-28-b9",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The FY2026/27 Finance Law appropriates RWF 2 287 611 846 for MINICT programme B9 National Identification, including RWF 1 245 513 610 for Identity Card Production and Distribution and RWF 925 913 239 for National ID System Infrastructure and Security.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "National Identification",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification (B9)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MINICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

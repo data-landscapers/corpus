@@ -1,0 +1,129 @@
+{
+ "slug": "2025-09-11 DZAP World Bank PAD",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The World Bank appraisal says the Government plans to provide authentication options including biometrics, smart cards, QR codes and one-time passcodes, with ZamSign for e-signatures named among complementary platforms.",
+       "as_of": "2025-09-11",
+       "date_precision": "day",
+       "system": "ZamSign / digital ID authentication",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The World Bank appraisal says INRIS has registered 15 percent of adults using biometrics, a coverage gap of about 85 percent (an adults share, so below a third of the whole population).",
+       "as_of": "2025-09-11",
+       "date_precision": "day",
+       "system": "INRIS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "The World Bank appraisal says the planned homegrown foundational ID will let the Government manage its infrastructure independently and reduce reliance on external vendors.",
+       "as_of": "2025-09-11",
+       "date_precision": "day",
+       "system": "planned foundational ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The World Bank appraisal says the Government is planning a homegrown foundational ID system on open standards, with MoHAIS collecting demographic data, 10 fingerprints and a photograph in enrolment.",
+       "as_of": "2025-09-11",
+       "date_precision": "day",
+       "system": "INRIS / planned foundational ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Registration Card (NRC)",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "paper",
+       "owner": "MoHAIS",
+       "tiers": ""
+      },
+      {
+       "system": "INRIS",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MoHAIS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

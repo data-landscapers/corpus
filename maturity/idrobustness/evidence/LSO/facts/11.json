@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The 2026 work plan supports development of an integrated national digital identity ecosystem, with biometric registration and continued MOSIP-based deployment.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "MOSIP-based national digital identity ecosystem",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital identity ecosystem",
+   "country_label": "LSO",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

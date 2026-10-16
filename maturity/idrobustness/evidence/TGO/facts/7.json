@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-21-republique-togolaise-se-faire-enregistrer-anid-plateaux-atakpame",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANID is enrolling residents, Togolese or foreign, for its card and a Numero d'Identification Unique across four regions, the Plateaux joining with fifty centres at Atakpame, says the government portal.",
+   "as_of": "2026-03-21",
+   "date_precision": "day",
+   "system": "ANID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

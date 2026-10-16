@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The High Commission for Digitalisation set out how Algeria's digital identity works: registration and appointment at the commune via dzds.dz, activation, then verification against the holder's biometric data, tied to legal and biometric identity.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Algerian digital identity (dzds.dz)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerian digital identity (dzds.dz)",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "dzds.dz",
+   "owner": "High Commission for Digitalisation with the Interior ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

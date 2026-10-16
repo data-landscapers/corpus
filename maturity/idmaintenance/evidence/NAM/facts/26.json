@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "MHAISS",
+   "tiers": ""
+  }
+ ],
+ "note": "The register was built by Namibia with support, but it is not stated to be in service or who maintains it."
+}

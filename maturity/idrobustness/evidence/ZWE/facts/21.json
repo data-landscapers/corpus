@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-zwe-civil-registry-computerise-sub-offices",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Civil Registry Department issues national identity cards, per the Home Affairs minister.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card",
+   "country_label": "ZWE",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

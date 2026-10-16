@@ -1,0 +1,113 @@
+{
+ "slug": "2026-06-26-techafricanews-mobile-id-mandatory-investors",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID for investor declarations; nothing stated on this question."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-eth-biometricupdate-fayda-developer-sandbox",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Fayda has recorded more than 52 million registrations as of 9 October 2026 (Biometric Update); against a population of 135.5 million that is about 38 percent (share computed by us).",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

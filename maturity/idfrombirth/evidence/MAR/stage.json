@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "frombirth",
+   "stage": "2",
+   "number": "underway",
+   "national": "",
+   "complete": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-001",
+   "gaps": "No source held since October 2023 says: is a number given at birth in part of the country.",
+   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
+  }
+ ]
+}

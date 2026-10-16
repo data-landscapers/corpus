@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC's director of research and strategy said the National Identity Number total had reached about 140 million and enrolment time had fallen from seven days to one hour.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

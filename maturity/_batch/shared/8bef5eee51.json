@@ -1,0 +1,9 @@
+{"slug": "2026-09-16-swz-network-blackout-home-affairs-eptc", "studies": {
+"authentication": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "An outage report; it states no authentication service."}}},
+"birthidlink": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "An outage report; it states no register link."}}},
+"idcoverage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "ID cards are mentioned as being processed at Home Affairs, but nothing states uniqueness, biometrics or assurance."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-01-biometricupdate-semlex-congo-passport-trial",
+ "studies": {
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns passport contracts only."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns passport contracts only."
+    }
+   }
+  }
+ }
+}

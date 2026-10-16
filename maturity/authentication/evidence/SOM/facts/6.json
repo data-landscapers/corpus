@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-13-undp-somalia-digital-transformation-2025-highlights",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "UNDP Somalia reports that the Hubiye eKYC platform, formalised by Somalia's first eKYC legislation in December 2024, gives real-time identity verification across 25 integrated services including the entire commercial banking sector.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "Hubiye eKYC"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "UNDP Somalia reports Hubiye eKYC verification across 25 integrated services spanning government and private sector platforms, including the whole commercial banking sector.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "Hubiye eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hubiye eKYC",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "NIRA digital identity (Hubiye)",
+   "owner": "NIRA with UNDP support",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

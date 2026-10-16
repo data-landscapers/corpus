@@ -1,0 +1,168 @@
+{
+ "slug": "2026-10-09-gha-ghanaweb-nia-biometric-fraud-controls",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "NIA Deputy Executive Secretary Fred Bedzrah said Ghana Card biometric verification (fingerprints, iris, live facial recognition with liveness detection) matches a person present against the biometrics stored in the NIA database.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Bedzrah said the system would facilitate deactivating the identity of deceased persons once their deaths are properly registered and verified.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "Bedzrah said NIA was extending the system to children from birth and would begin registering children aged 0-5 the following week, after the ongoing registration of ages 6-14.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Bedzrah said persons enrolling in the National Service Scheme must undergo NIA verification and are verified again before payments are made.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIA says the Ghana Card, with fingerprint, iris and facial biometrics held in the NIA database, is in use for verifying individuals.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

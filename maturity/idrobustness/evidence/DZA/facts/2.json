@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-algeria-sports-platforms-unified-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Citizens holding the national digital identity issued by the Haut Commissariat a la Numerisation can now access the WADHIFATI platform without a separate account.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "national digital identity (HCN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "unified national digital identity",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Haut Commissariat a la Numerisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

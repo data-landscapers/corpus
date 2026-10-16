@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-16-rwa-umunota-nida-digital-id-10-million-registered",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIDA said more than 10 million people in 27 of 30 districts have had photographs and biometrics captured, about 68% of the 14.6 million population (share computed from the population held).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Rwanda digital identity system (NIDA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "NIDA said more than 10 million people have had biometrics captured, about 68% of the 14.6 million population (share computed from the population held), with 27 of 30 districts covered.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Rwanda digital identity system (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

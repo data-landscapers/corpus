@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-05-faydaverse-ethiopia-dpi-soe",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Fayda handles up to 2 million authentication requests a day and has been used for over 190 million authentications, according to its executive director.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "One hundred and fifty enterprises have integrated Fayda to carry out biometric KYC checks, per the article.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Faydaverse (state-owned enterprise under Ethiopian Investment Holdings)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

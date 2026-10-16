@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The law requires administrative services to inform the national security directorate of a cardholder's death within thirty days, whereupon the card chip is deactivated, and requires civil-status changes to be notified for the card within 90 days of entry in the civil register.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Carte nationale d'identité",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identité (chip card)",
+   "country_label": "Tunisia",
+   "class_": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior specialized services",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "2025-06-23-gabon-legal-digital-id-three-projects",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre biometrique des personnes physiques (RBPP)",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Gabon (Ministry of Interior)",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme national d'identite digitale (SNID)",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANINF / Government of Gabon",
+   "tiers": ""
+  },
+  {
+   "system": "Centre national d'etat civil (CNEC)",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement answering this question."
+}

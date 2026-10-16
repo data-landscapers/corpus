@@ -1,0 +1,30 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,SIM registration,Uganda,other,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,Bank customer verification,Uganda,other,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,National ID QR-code verification,Uganda,,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-government-launches-integration-of-national-id-tax-identific
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-government-launches-integration-of-national-id-tax-identific
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,SIM registration (MTN Uganda) against NIRA data-exchange module,Uganda,other,NIRA information-exchange module,MTN Uganda,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,Bank and telecom partner connections to NIRA information-exchange module,Uganda,other,NIRA information-exchange module,partner banks and telecoms,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,Driving permit application,Uganda,other,,,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,NIRA information-exchange module,Uganda,other,,NIRA,,2026-09-11-business-focus-nira-new-national-ids-fail-services
+UGA,"National Identification Number (NIN) use in SIM registration, e-KYC and taxation",Uganda,other,,NIRA,,2026-09-07-nilepost-nira-national-id-expo-register-gap
+UGA,NITA-U digital authentication and government systems integration,Uganda,other,,NITA-U,,2026-09-07-nilepost-nira-national-id-expo-register-gap
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+UGA,URA TIN-to-NIN migration,Uganda,other,,Uganda Revenue Authority with NIRA,,2026-09-02-uga-tin-to-nin-migration-analysis
+UGA,URA tax identification (TIN to NIN),Uganda,other,URA taxpayer portal,Uganda Revenue Authority,,2026-09-01-businesstimesug-uganda-nin-replace-tin
+UGA,URA tax identification (TIN to NIN),Uganda,other,URA taxpayer portal,Uganda Revenue Authority,,2025-11-12-ura-shift-from-tin-to-nin
+UGA,URA tax identification (TIN to NIN),Uganda,other,URA taxpayer portal,Uganda Revenue Authority,,"2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN"
+UGA,Digital KYC via NIRA database,Uganda,other,,Bank of Uganda-regulated financial institutions,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
+UGA,UGHub,Uganda,authentication,national data integration platform,NITA-U,,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in
+UGA,National ID QR verification (NIRA),Uganda,other,,NIRA,,2026-08-21-techbuild-uganda-national-id-broken-qr-codes
+UGA,National Identification Register (NIRA),Uganda,other,,NIRA,,2026-08-20-parliament-uganda-new-id-system-questions-digital-verification
+UGA,National Identification Register,Uganda,other,,NIRA,,2026-06-01-nira-birth-registration-alien-registration
+UGA,National Security Information System (NSIS),Uganda,other,,NIRA,,2026-04-30-uniph-crvs-technical-working-group

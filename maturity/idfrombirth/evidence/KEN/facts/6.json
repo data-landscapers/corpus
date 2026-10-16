@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-25-birth-registration-reforms-automatic-id-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The Interior Secretary says the coming system will give every Kenyan registered at birth a Unique Personal Identifier, serving as the birth certificate number and later the national ID identifier at 18.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Maisha Namba",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": "UPI at birth, national ID at 18"
+  }
+ ],
+ "note": ""
+}

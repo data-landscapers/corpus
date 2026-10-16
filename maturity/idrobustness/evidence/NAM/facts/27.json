@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "UNDP says Namibia built its own National Population Register, tested remote biometric enrolment on hand-held devices and is finalising preparations to launch the e-ID in 2026.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "Namibia digital ID (e-ID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "MHAISS",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia digital ID (e-ID)",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "MHAISS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

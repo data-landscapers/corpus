@@ -1,0 +1,23 @@
+{
+ "slug": "2024-08-14-jembi-birth-registration-interoperability",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Links hospital birth notification to civil registration; no ID system link or number stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Links hospital birth notification to civil registration; no ID system link or number stated."
+    }
+   }
+  }
+ }
+}

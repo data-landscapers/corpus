@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-immigration-directorate-launches-school-based-national-id-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Directorate is registering examination candidates for National IDs in schools, launched 4 August 2026, with expansion to more schools planned.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

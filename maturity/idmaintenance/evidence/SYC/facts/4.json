@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "WISeID",
+   "owner": "Government of Seychelles",
+   "tiers": "virtual ID"
+  }
+ ],
+ "note": "WISeKey developed SeyID, but the document does not say who operates or maintains it."
+}

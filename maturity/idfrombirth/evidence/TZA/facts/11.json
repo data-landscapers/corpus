@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-tza-citizen-nida-number-digital-identity-jamii-namba",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The NIDA Director said a child-identification plan, registering children with NIDA from birth, is under pilot in three districts.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "NIDA national ID",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-14-ghana-card-number-at-birth-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The NIA Executive Director said 17.8 million Ghanaians were registered on the National Identification Register, about 51 percent of the 35.1 million population (share computed here, the document gives no share).",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification Register",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

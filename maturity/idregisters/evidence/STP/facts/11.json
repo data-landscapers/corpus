@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The EU-funded PReSE project says an interoperability platform, being developed by the Universidade de Aveiro, will link the civil registry databases (SIGA and Bilhete de Identidade) to the electoral roll so voters are registered automatically.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGA",
+   "country_label": "Sao Tome and Principe",
+   "class": "other",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  },
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Sao Tome and Principe",
+   "class": "other",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

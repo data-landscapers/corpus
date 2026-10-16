@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Biometric Update reports that Somalia's prime minister directed government and private service providers in April 2025 to begin integrating the national biometric ID card for customer verification and authentication.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Service provider customer verification against the national ID"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "A LinkedIn post by an IBS Bank mobile money head, as cited, states that financial institutions will eventually use the HUBIYE platform for biometric identity verification in KYC processes; no date is given, so the document's published date is used.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Financial institution KYC via HUBIYE"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HUBIYE",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "eAqoonsi app",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "Certificate Delivery System (CDS)",
+   "country_label": "Somalia",
+   "class": "",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

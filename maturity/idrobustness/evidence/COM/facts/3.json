@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-09-genkey-takes-over-comoros-biometric-passport-id-production-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Comoros selected GenKey to produce biometric passports and national ID cards, replacing Semlex, which produced biometric IDs from 2007; issuance suspended until 26 March 2026 during the change.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

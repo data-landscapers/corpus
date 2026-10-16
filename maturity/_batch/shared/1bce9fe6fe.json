@@ -1,0 +1,153 @@
+{
+ "slug": "2026-07-29-namibian-home-affairs-clarifies-eid-costs",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Ministry of Home Affairs, through its civil registration department, runs the e-ID card application and issuing, including amendments and replacements.",
+       "as_of": "2026-07-29",
+       "date_precision": "day",
+       "system": "e-ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Home Affairs says the new electronic ID card is being rolled out nationwide and issued free to first-time applicants and renewals.",
+       "as_of": "2026-07-29",
+       "date_precision": "day",
+       "system": "e-ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID card",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

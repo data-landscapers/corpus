@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-parliament-uganda-new-id-system-questions-digital-verification",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The release says NIRA is mandated under the Registration of Persons Act, 2015 to create, manage, maintain and operate the National Identification Register, and the Prime Minister said its staff structure will grow from 571 to 997.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

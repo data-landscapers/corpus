@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-09-sidwaya-carte-identite-biometrique-aes-koudougou",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ONI launched special operations on 9 September 2026 to issue the AES biometric identity card (CIB-AES) nationwide, with enrolment open from age 5 to 16 September.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "CIB-AES",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The ONI director general says the office is switching to a new platform, while enrolment is mostly on paper for now, with about 500 centres to get mobile digital kits by end 2026.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "CIB-AES",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIB-AES",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office national d'identification (ONI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

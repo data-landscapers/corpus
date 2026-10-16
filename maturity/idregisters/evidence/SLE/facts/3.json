@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Biometric Identity Management System / NIN",
+   "country_label": "Sierra Leone",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": "No public register keyed on the NIN is stated; the eKYC platform serves institutions and the X-Road pilot is a data exchange layer."
+}

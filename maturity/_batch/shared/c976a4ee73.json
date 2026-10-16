@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-10-congo-sifec-civil-status-digitisation-senate",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Sifec centralises civil status records; no link to the ID system or number at birth is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Sifec centralises civil status records; no link to the ID system or number at birth is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-30-farmer-profile-initiative",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Agricultural Transformation Institute is developing a farmer profile database, starting in 311 woredas, that is integrated with the national ID and rural land information systems to identify farmers accurately.",
+   "as_of": "2025-01-30",
+   "date_precision": "day",
+   "system": "Farmer Profile Project"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Farmer Profile Project",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Agricultural Transformation Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

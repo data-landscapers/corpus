@@ -1,0 +1,55 @@
+iso3,stage,service,reach,remote,stage_sources
+AGO,3,inservice,,,AGO-003
+BDI,3,inservice,,,BDI-003;BDI-002
+BEN,4,inservice,several,,BEN-010;BEN-006
+BFA,unplaced,,,,
+BWA,3,inservice,,,BWA-003
+CAF,no evidence,,,,
+CIV,4,inservice,several,,CIV-005
+CMR,3,inservice,,,CMR-001
+COD,2,underway,,,COD-011;COD-012
+COG,no evidence,,,,
+COM,unplaced,,,,
+CPV,5,inservice,several,wallet,CPV-008
+DJI,5,inservice,several,wallet,DJI-004
+DZA,4,inservice,several,,DZA-005
+EGY,3,inservice,,,EGY-005;EGY-006
+ERI,no evidence,,,,
+ETH,4,inservice,several,,ETH-016
+GAB,2,underway,,,GAB-003;GAB-001
+GHA,4,inservice,several,,GHA-015;GHA-034
+GIN,2,underway,,,GIN-001
+GMB,3,inservice,,,GMB-003;GMB-002
+GNB,no evidence,,,,
+GNQ,no evidence,,,,
+KEN,4,inservice,several,,KEN-009;KEN-005
+LBR,3,inservice,,,LBR-002;LBR-007
+LBY,2,underway,,,LBY-001
+LSO,3,inservice,,,LSO-003
+MAR,5,inservice,several,wallet,MAR-009;MAR-011
+MDG,no evidence,,,,
+MLI,3,inservice,,,MLI-002;MLI-001
+MOZ,2,underway,,,MOZ-001;MOZ-005
+MRT,5,inservice,several,wallet,MRT-007
+MUS,5,inservice,several,wallet,MUS-006
+MWI,5,inservice,several,wallet,MWI-026;MWI-028
+NAM,3,inservice,,,NAM-005;NAM-001
+NER,2,underway,,,NER-001;NER-003
+NGA,4,inservice,several,,NGA-007;NGA-009
+RWA,4,inservice,several,,RWA-008
+SDN,5,inservice,several,wallet,SDN-012
+SEN,3,inservice,,,SEN-002;SEN-001
+SLE,4,inservice,several,,SLE-023;SLE-004
+SOM,5,inservice,several,wallet,SOM-008;SOM-011
+SSD,no evidence,,,,
+STP,2,underway,,,STP-002;STP-001
+SWZ,3,inservice,,,SWZ-002
+SYC,3,inservice,,,SYC-002;SYC-004
+TCD,2,underway,,,TCD-001
+TGO,2,underway,,,TGO-001
+TUN,4,inservice,several,,TUN-014;TUN-007
+TZA,4,inservice,several,,TZA-008;TZA-002
+UGA,4,inservice,several,,UGA-010;UGA-002
+ZAF,4,inservice,several,,ZAF-007;ZAF-013
+ZMB,3,inservice,,,ZMB-001
+ZWE,3,inservice,,,ZWE-006;ZWE-001

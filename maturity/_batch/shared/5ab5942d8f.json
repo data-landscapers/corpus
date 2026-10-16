@@ -1,0 +1,108 @@
+{
+ "slug": "2026-09-29-sen-senego-projet-loi-carte-identite-retourne-commission",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Bill 21-2026 amending the law that instituted the ECOWAS biometric identity card, to extend validity of cards in circulation, was sent back to committee by the National Assembly.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "Carte d'identite biometrique CEDEAO",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte d'identite biometrique CEDEAO",
+       "country_label": "SEN",
+       "class": "idsystem",
+       "platform": "Iris (Malaysia) production contract",
+       "owner": "Ministere de l'Interieur / DAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "The Law Committee chair called for greater involvement of national firms and skills in card production and renewal and for national control over citizens' data held by foreign operators.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "Carte d'identite biometrique CEDEAO",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte d'identite biometrique CEDEAO",
+       "country_label": "SEN",
+       "class": "idsystem",
+       "platform": "Iris (Malaysia) production contract",
+       "owner": "Ministere de l'Interieur / DAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

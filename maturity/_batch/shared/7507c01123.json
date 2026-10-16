@@ -1,0 +1,9 @@
+{"slug":"2026-10-01-som-hiiraan-nira-id-flights-puntland","studies":{
+"authentication":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on authentication services."}}},
+"birthidlink":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"SOM":{"facts":[{"sub_indicator":"coverage","aspect":"share","value":"below","fact":"NIRA said it had registered more than 1.5 million Somali citizens since 2023, about 7.6% of the 19.7 million population (share computed here), against a target of 15 million citizens and residents by 2029.","as_of":"2026-09","date_precision":"month","system":"NIRA national identity card","class":"idsystem"}],"systems":[{"system":"NIRA national identity card","country_label":"Somalia","class":"idsystem","platform":"","owner":"NIRA","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on who builds or runs the system."}}},
+"idregisters":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"SOM":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The NIRA national identity card is issued at NIRA registration centres, and from 2026-10-01 the federal government required it for travel between regions, though it is not issued in Puntland where NIRA has no registration offices.","as_of":"2026-10-01","date_precision":"day","system":"NIRA national identity card","class":"idsystem"}],"systems":[{"system":"NIRA national identity card","country_label":"Somalia","class":"idsystem","platform":"","owner":"NIRA","tiers":""}],"note":""}}}
+}}

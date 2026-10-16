@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-burundi-biometric-id-card-far-from-reality",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Interior Ministry presented the project for a future national biometric and digital identity card with a unique identification number on 6 May 2026, per SOS Medias Burundi.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "national biometric and digital identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national biometric and digital identity card (planned)",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

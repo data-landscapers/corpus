@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank says the Interior Ministry's national ID system was in use, with a unique national identification number issued to nearly 1.17 million people through the eCRVS.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "National ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

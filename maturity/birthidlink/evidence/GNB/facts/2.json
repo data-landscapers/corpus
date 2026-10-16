@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-01-undp-guinea-bissau-newsletter-05-jan-mar-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Civil Registry System (SIREC)",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SIREC is a civil register only; no exchange with an ID system is stated."
+}

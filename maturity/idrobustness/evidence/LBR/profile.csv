@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,robustness,system,coverage,inservice,2026-09-16,LBR-005;LBR-008;LBR-010;LBR-011;LBR-012;LBR-013;LBR-014,LBR-002=underway;LBR-001=underway;LBR-003=underway;LBR-004=underway;LBR-006=underway;LBR-007=underway;LBR-009=underway,
+LBR,robustness,biometric,coverage,,,,,nothing held
+LBR,robustness,assurance,coverage,,,,,nothing held

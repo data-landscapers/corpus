@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

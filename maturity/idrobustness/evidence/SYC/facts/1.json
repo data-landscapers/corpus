@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-seyid-idwallet",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "SeyID's ID-Wallet page says holders of a valid ID Card from the Department of Immigration and Civil Status and a SeyID can obtain a Virtual ID Card, in partnership with that Department.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SeyID Virtual ID Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": "Virtual ID Card; Digital Driving License"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "UNDP says INRIS has enrolled 1.5 million people with biometrics; against the 21.9 million population held here that is about 6.8% (the source gives no population share and says 9 million adults).",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DNRPC",
+   "tiers": ""
+  },
+  {
+   "system": "National Registration Card (NRC)",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "DNRPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

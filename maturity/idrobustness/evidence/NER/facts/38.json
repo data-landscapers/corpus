@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Le Sahel quotes a Interior Ministry official saying the Registre National de la Population will enrol people and assign a unique identifier, with a first enrolment phase in Niamey's five communal districts and extension to other regions in 2027, alongside a new biometric national ID card.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Registre National de la Population",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

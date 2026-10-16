@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-28-car-systeme-national-identite-numerique-snid",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The article says the $13m SNID, built around a unique identification number, has feasibility studies done and an international tender and procurement ahead, with implementation 2027-2032.",
+   "as_of": "2025-11-28",
+   "date_precision": "day",
+   "system": "Système national d'identité numérique (SNID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système national d'identité numérique (SNID)",
+   "country_label": "Central African Republic",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office national d'identification (ONI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

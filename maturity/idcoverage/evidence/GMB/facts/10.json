@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Management System",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Contract for ID infrastructure only; nothing stated on this question."
+}

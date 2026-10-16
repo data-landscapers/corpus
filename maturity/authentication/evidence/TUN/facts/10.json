@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-13-jort-019-declaration-existence-societes-distance",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "A Finance Ministry order of 12 February 2026 requires an individual filing a remote company-existence declaration to create an account on the National Business Register platform using digital identity, an electronic certificate or another legally recognised e-signature or reliable means of verifying identity, and takes effect six months after publication.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "National Business Register remote declaration platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Business Register remote declaration platform",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Business Register",
+   "tiers": ""
+  },
+  {
+   "system": "electronic tax identification card",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Finance, sealed by the National Agency for Electronic Certification",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

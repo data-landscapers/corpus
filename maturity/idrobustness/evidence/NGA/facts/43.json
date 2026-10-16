@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC says 136 million Nigerians are registered in the National Identity Database.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Identity Database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

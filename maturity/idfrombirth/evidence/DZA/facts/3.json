@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Algeria's Ministry of Interior says each newborn receives its own birth certificate and unique national identifier (NIN) once registered, since 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "NIN",
+   "class": "birthnumber"
+  },
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "national",
+   "value": "national",
+   "fact": "The presentation says the NIN is generated automatically from the national automated civil register (RNAEC) for each newborn after registration, since 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "NIN",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

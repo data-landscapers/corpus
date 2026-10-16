@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-social-security-services-mauritius",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Government Information Service says National Savings Fund employer returns must give each employee's National Identity Card number with contributions paid.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Savings Fund returns",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

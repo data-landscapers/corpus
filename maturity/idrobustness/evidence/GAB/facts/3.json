@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-gabon-digital-id-interoperability-implementation",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Gabon launched a new generation national digital ID system in July 2024, which the government says it is now moving to operationalise.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Gabon national digital ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gabon national digital ID system",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{"slug": "2026-09-04-biometricupdate-madagascar-digital-id-trust", "studies": {
+"authentication": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "An AI-powered initiative led by Studia Inc. digitised over 10 million civil registration records, which the report says accelerated Madagascar's national digital ID enrolment.", "as_of": "2026-09-04", "date_precision": "day", "system": "National digital ID (PRODIGY)", "class": "crvslink"}
+], "systems": [{"system": "National digital ID (PRODIGY)", "country_label": "Madagascar", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "Authorities said more than six million people had been enrolled in Madagascar's biometric ID scheme by June 2026, about 18% of 32.7 million people (share computed from the population given), against a 12 million target.", "as_of": "2026-06", "date_precision": "month", "system": "National digital ID (PRODIGY)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document does not say who operates or maintains the system."}}},
+"idregisters": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Madagascar is building its national digital ID under the World Bank-funded PRODIGY project ($143 million), with more than six million enrolled for the biometric scheme as of June 2026.", "as_of": "2026-06", "date_precision": "month", "system": "National digital ID (PRODIGY)", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

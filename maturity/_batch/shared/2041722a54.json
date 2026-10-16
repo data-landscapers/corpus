@@ -1,0 +1,13 @@
+{"slug":"2024-01-01-civil-services-faq-id-section","studies":{
+"authentication":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Card procedures only; no authentication service is stated."}}},
+"birthidlink":{"countries":{"SYC":{"facts":[],"systems":[],"note":"A birth certificate is a document required for the ID card, which is not a stated record exchange."}}},
+"idcoverage":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The Department of Immigration and Civil Status issues, replaces and amends the National Identity Card at its ID Card Offices in Victoria and Grand Anse Praslin, per its FAQ.","as_of":"2024","date_precision":"year","system":"National Identity Card","class":"idsystem"}
+],"systems":[{"system":"National Identity Card","country_label":"Seychelles","class":"idsystem","platform":"","owner":"Department of Immigration and Civil Status","tiers":"Seychellois and expatriate cards"}],"note":""}}},
+"idregisters":{"countries":{"SYC":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Department of Immigration and Civil Status issues National Identity Cards valid for ten years, free on first issue for Seychellois and SCR300 for expatriates, per its FAQ.","as_of":"2024","date_precision":"year","system":"National Identity Card","class":"idsystem"}
+],"systems":[{"system":"National Identity Card","country_label":"Seychelles","class":"idsystem","platform":"","owner":"Department of Immigration and Civil Status","tiers":"Seychellois and expatriate cards"}],"note":""}}}
+}}

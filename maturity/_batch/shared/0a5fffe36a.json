@@ -1,0 +1,59 @@
+{
+ "slug": "2026-04-22-lesotho-south-africa-border-crossing-id-cards",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

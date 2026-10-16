@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-22-ghana-nia-mandatory-biometric-verification-li-2523",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Ministry of the Interior says L.I. 2523, effective 9 June 2026, requires organisations to verify identities through the NIA biometric system or approved match-on-card devices, and urges banks, telecoms, hospitals, educational institutions and agencies to complete onboarding onto the IVSP, with a transition period from 27 July to 2 November 2026.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Identity Verification System Platform onboarding"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identity Verification System Platform (IVSP)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "NIA biometric verification against the National Identity Register",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Card biometric verification by organisations",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

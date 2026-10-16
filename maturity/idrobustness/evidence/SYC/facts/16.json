@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ics-civil-status-division",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Civil Status Division prepares and issues Identity Cards to all residents under the Civil Status Act and the ID Card Act.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Database / Identity Card",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-07-30-modernisation-etat-civil-atelier-cnt",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes a civil-register file interconnected with registration centres, with no link to an ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes a civil-register file interconnected with registration centres, with no link to an ID system."
+    }
+   }
+  }
+ }
+}

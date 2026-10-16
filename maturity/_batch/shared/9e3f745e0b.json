@@ -1,0 +1,68 @@
+{
+ "slug": "2026-05-14-minister-denies-id-backlog",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Zimbabwe that answers a question."
+    }
+   }
+  }
+ }
+}

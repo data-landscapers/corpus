@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it.",
+   "as_of": "2025-09-21",
+   "date_precision": "day",
+   "system": "NIA biometric verification",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital birth registration is launched; no link to an ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth registration is launched; no ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

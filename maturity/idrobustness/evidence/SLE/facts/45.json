@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-18-brokers-of-citizenship-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sierra Leone's National Civil Registration Authority enrols people biometrically for the new digital ID card, which costs 165 Leones (about US$8), seven times the old paper card, according to the study by Laura Lambert.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "digital ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital ID card",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Civil Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

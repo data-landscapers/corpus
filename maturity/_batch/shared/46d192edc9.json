@@ -1,0 +1,79 @@
+{
+ "slug": "2025-07-18-dedicated-digital-id-trade-policy-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Kenya has a national digital ID system, Maisha Namba, which the government considers the foundation of all digital transactions and which is in about its third year of implementation.",
+       "as_of": "2025-07-18",
+       "date_precision": "day",
+       "system": "Maisha Namba",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

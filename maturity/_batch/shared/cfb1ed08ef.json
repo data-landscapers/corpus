@@ -1,0 +1,9 @@
+{"slug":"2026-05-07-burundi-unveils-biometric-national-id-awaits-law","studies":{
+"authentication":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"BDI":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"Burundi Times reports the Ministry of the Interior presented on 6 May 2026 one digital platform to underpin the new civil status system and production of biometric national ID cards.","as_of":"2026-05-06","date_precision":"day","system":"digital civil registration platform and biometric national identity card system","class":"crvslink"}],"systems":[{"system":"Biometric national identity card system","country_label":"Burundi","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No count or share enrolled; old paper cards still in use and fresh registration required."}}},
+"idfrombirth":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Operation and maintenance are not described."}}},
+"idregisters":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is mentioned."}}},
+"idrobustness":{"countries":{"BDI":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Ministry of the Interior's Valentin Nahimana said on 6 May 2026 Burundi is technically ready to produce biometric national ID cards but awaits adoption of the law governing their use.","as_of":"2026-05-06","date_precision":"day","system":"biometric national identity card system","class":"idsystem"}],"systems":[{"system":"Biometric national identity card system","country_label":"Burundi","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}}
+}}

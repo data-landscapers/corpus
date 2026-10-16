@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-business-focus-nira-new-national-ids-fail-services",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA has issued new national identity cards, which remain inactive for SIM registration, banking and driving permits until partners connect, per a COSASE hearing on 9 September 2026.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Uganda new national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uganda new national ID card",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

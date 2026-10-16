@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21-zambia-ghai-crvs-budget-case-study",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national ID cards",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of National Registration, Passport and Citizenship",
+   "tiers": ""
+  }
+ ],
+ "note": "The document says Zambia is preparing to digitize its ID card system but does not say it is procured, piloted or issuing unique numbers."
+}

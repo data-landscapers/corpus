@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ERI,robustness,system,coverage,inservice,2026-03-02,ERI-002;ERI-003;ERI-004,ERI-001=none,
+ERI,robustness,biometric,coverage,,,,,nothing held
+ERI,robustness,assurance,coverage,,,,,nothing held

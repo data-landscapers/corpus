@@ -1,0 +1,9 @@
+{"slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa", "studies": {
+"authentication": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Djibouti is covered only for infrastructure and e-government; no authentication service is stated."}}},
+"birthidlink": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's civil register or ID."}}},
+"idcoverage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID enrolment."}}},
+"idfrombirth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID at birth."}}},
+"idmaintenance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID system."}}},
+"idregisters": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on Djibouti's registers."}}},
+"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Fayda is named for Ethiopia only; nothing stated on Djibouti's ID system."}}}
+}}

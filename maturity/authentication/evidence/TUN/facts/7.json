@@ -1,0 +1,60 @@
+{
+ "slug": "2025-03-01 Tunisia drives digitization agenda forward while navigating risks",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update says E-Houwiya has been integrated into the banking sector, allowing remote onboarding, KYC compliance and secure financial transactions; it gives no date for the integration.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "E-Houwiya"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "Biometric Update says E-Houwiya serves banking KYC and onboarding and works as single sign-on for the government portals E-Bawaba and E-CNAM; it gives no date.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "E-Houwiya"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Houwiya",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile ID",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "E-Bawaba",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-CNAM",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Uqudo identity verification",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "document verification against MRZ for KYC/AML",
+   "owner": "Uqudo",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

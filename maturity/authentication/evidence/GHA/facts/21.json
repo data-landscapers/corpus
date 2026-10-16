@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update reports the communications minister said the Ghana Card is integrated into the Ghana.gov portal, which has 1,500 to 2,000 services, to facilitate identity verification and authentication of individuals and businesses (as_of is the published date).",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "Ghana.gov portal Ghana Card verification"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update reports the government launched the CADIS mobile app in October 2024, which allows identity verification using the Ghana Card and the user's phone number.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CitizenApp Data Interoperability System (CADIS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana.gov portal Ghana Card verification",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "Ghana.gov",
+   "owner": "NITA",
+   "tiers": ""
+  },
+  {
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

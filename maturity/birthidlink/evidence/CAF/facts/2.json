@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-18-dgdec-etat-civil-digitalisation-egmrg",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC (Registre National de l'Etat Civil)",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "",
+   "owner": "DGDEC/MATDDL",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes a national civil-registry database (RNEC) and names no link to an ID system."
+}

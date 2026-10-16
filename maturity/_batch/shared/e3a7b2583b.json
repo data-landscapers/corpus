@@ -1,0 +1,15 @@
+{"slug":"2026-09-17-tza-nipashe-nida-yako-kuwa-jamii-namba-huduma-tisa-kuunganishwa","studies":{
+"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Only talks with the central bank on ID in payments are mentioned; no authentication service is stated."}}},
+"birthidlink":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"link","aspect":"link","value":"underway","fact":"The NIDA Director General said NIDA plans to connect the national ID with services including the birth certificate, from four services now to nine.","as_of":"2026-09-16","date_precision":"day","system":"Jamii Namba","class":"crvslink"}],
+"systems":[{"system":"Jamii Namba","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document gives no count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document does not mention a number at birth."}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document does not say who operates or maintains the system."}}},
+"idregisters":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"The NIDA Director General listed the taxpayer identification number (TIN) among the services NIDA plans to connect to the national ID.","as_of":"2026-09-16","date_precision":"day","system":"Jamii Namba","class":"register"}],
+"systems":[{"system":"Jamii Namba","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idrobustness":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The NIDA Director General said the current ID has four parts and will be upgraded to nine under the name Jamii Namba, with four services available now.","as_of":"2026-09-16","date_precision":"day","system":"NIDA national ID","class":"idsystem"}],
+"systems":[{"system":"Jamii Namba","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Le Sahel says Niger created the ANEI, the agency for registration and identification of persons, to administer the RNP and its associated registers, alongside operationalising a national civil-status register (ordonnance 2026-21).",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Registre National de la Population",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

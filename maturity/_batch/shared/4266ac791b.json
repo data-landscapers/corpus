@@ -1,0 +1,88 @@
+{
+ "slug": "2026-04-05-vehicle-registration-fully-digital-elmoudjahid",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "El Moudjahid reports the vehicle-registration file requires copies of the biometric national identity card of both parties, so a biometric national ID card is in service.",
+       "as_of": "2026-04-05",
+       "date_precision": "day",
+       "system": "carte nationale d'identite biometrique",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identite biometrique",
+       "country_label": "Algeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

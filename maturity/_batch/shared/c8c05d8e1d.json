@@ -1,0 +1,108 @@
+{
+ "slug": "2025-09-26-tchadinfos-anats-nni-bacheliers-rentree-universitaire",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people holding an NNI is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "ANATS's director general instructs its user reception centres and the Système Intégré Sécurisé director to enrol school leavers for the NNI with priority, so the national agency runs enrolment.",
+       "as_of": "2025-09-26",
+       "date_precision": "day",
+       "system": "NNI",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numéro National d'Identification (NNI)",
+       "country_label": "TCD",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANATS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education enrolment requiring the NNI is not stated as a public register keyed on it."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ANATS circular of 26 September 2025 says school leavers are enrolling to obtain their NNI, which the agency's centres issue.",
+       "as_of": "2025-09-26",
+       "date_precision": "day",
+       "system": "NNI",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numéro National d'Identification (NNI)",
+       "country_label": "TCD",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANATS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

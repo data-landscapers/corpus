@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-lumiernews-rdc-national-id-card-accountability",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Veille Citoyenne pour la Bonne Gouvernance says the President remains the only Congolese publicly issued the national ID card; no enrolment count is given, so only a claim of very low coverage, not a figure.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "ONIP national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national ID card",
+   "country_label": "DR Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,110 @@
+{
+ "slug": "2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "An expert quoted by the document described Madagascar's digital ID as linked with civil registration, under a retroactive civil registration framework letting undocumented people obtain foundational documents.",
+       "as_of": "2026-06-05",
+       "date_precision": "day",
+       "system": "Madagascar digital ID (PRODIGY)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "Government figures say 2.6 million people were enrolled in the digital ID system in two months, about 8% of the 32.7 million population (computed from the population given).",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Madagascar digital ID (PRODIGY)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Madagascar enrolled 2.6 million people into its digital identity system, under PRODIGY, using about 2,500 multimodal biometric kits with Laxton fingerprint scanners and IN Groupe database infrastructure.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Madagascar digital ID (PRODIGY)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Madagascar digital ID (PRODIGY)",
+       "country_label": "Madagascar",
+       "class": "idsystem",
+       "platform": "IN Groupe database; Laxton kits",
+       "owner": "Government of Madagascar",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

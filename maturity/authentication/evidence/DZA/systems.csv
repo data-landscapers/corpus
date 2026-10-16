@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,"National digital identity (enrolment via dzds.dz, biometric match)",Algeria,other,dzds.dz national digital services portal,High Commission for Digitalisation with the Interior Ministry,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,SDK for secure biometric documents,Algeria,other,,High Commission for Digitalisation,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,National interoperability system / secure digital link network,Algeria,other,,,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
+DZA,WADHIFATI,Algeria,other,National digital services platform,Ministry of Sports,,2026-08-12-algeria-sports-platforms-unified-digital-identity
+DZA,Unified national digital identity,Algeria,other,,Haut Commissariat a la Numerisation,,2026-08-12-algeria-sports-platforms-unified-digital-identity
+DZA,National electronic certification and signature,Algeria,authentication,public key certification,ARPCE (national certification authority),,2025-02-17-electronic-signatures-certification--wearetech
+DZA,Governmental Electronic Certification Authority (AGCE),Algeria,authentication,electronic certification,AGCE,,2025-02-17-electronic-signatures-certification--wearetech
+DZA,NIN / RNAEC,Algeria,other,,Ministère de l'Intérieur,,2026-07-01-dza-uneca-egmrg-crvs-digitalisation
+DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid
+DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk
+DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-08-29-algerie-banques-connaissez-votre-client

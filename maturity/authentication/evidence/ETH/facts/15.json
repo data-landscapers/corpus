@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-07-ethiopia-fayda-proof-of-identity-foreign-nationals",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": "Page lists registration documents only; no authentication service stated."
+}

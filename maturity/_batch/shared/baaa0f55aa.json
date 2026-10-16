@@ -1,0 +1,109 @@
+{
+ "slug": "2024-06-27 WURI digital ID project improving access to public services in Benin",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The World Bank blog, via Biometric Update, says about 99 percent of Beninese citizens hold a legal and digital identity; the WURI project enrolled 2.2 million more people, 4,000 of them abroad. The share is of citizens and no total count is given.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "Certificat NPI/fID",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "twothirds",
+       "fact": "The World Bank blog, via Biometric Update, says about 99 percent of Beninese citizens hold a legal and digital identity; the WURI project enrolled 2.2 million more people, 4,000 of them abroad. The share is of citizens and no total count is given.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "Certificat NPI/fID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Certificat NPI/fID (C'est moi)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "mobile application with QR code",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The World Bank blog, via Biometric Update, says Benin's foundational identity system is in place and its fID certificate lets citizens prove identity for services.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "Certificat NPI/fID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Certificat NPI/fID (C'est moi)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "mobile application with QR code",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

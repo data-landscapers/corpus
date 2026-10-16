@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-26-gabon-launches-electronic-national-id-card",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Gabon's government says the new electronic national ID card, issued from June 2024, carries a chip and a unique 14-digit personal identification number (NIP) issued on capture of biometric data.",
+   "as_of": "2024-06-24",
+   "date_precision": "day",
+   "system": "Electronic National Identity Card (CNIE)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte Nationale d'Identite Electronique (CNIE) with 14-digit NIP",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

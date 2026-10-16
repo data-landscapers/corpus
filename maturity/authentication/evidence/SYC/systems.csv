@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SYC,SeyID,Seychelles,other,SeyID portal and app with ID-Wallet,Government of Seychelles (DICT),,2026-01-01-seyid-idwallet
+SYC,Virtual ID Card,Seychelles,other,SeyID ID-Wallet,Department of Immigration and Civil Status,,2026-01-01-seyid-idwallet
+SYC,Digital Driving License,Seychelles,other,SeyID ID-Wallet; SLA System,Seychelles Licensing Authority,,2026-01-01-seyid-idwallet
+SYC,ASP Connect (Konekte Avek ASP),Seychelles,other,SeyID portal,Agency for Social Protection,,2025-10-21-asp-connect-digital-system-launch
+SYC,SeyID portal,Seychelles,other,,Government of Seychelles,,2025-10-21-asp-connect-digital-system-launch
+SYC,SeyID,Seychelles,other,WISeID (WISeKey),Department of Immigration and Civil Status,,2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders
+SYC,CertExpress,Seychelles,other,,Department of Immigration,,2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders
+SYC,SeyID,Seychelles,other,,Department of ICT with the Department of Immigration and Civil Status and the Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform
+SYC,SeyID-gated government e-services,Seychelles,other,,,,2024-01-01-seyid-seychelles-digital-identity-platform
+SYC,Digital Driving License,Seychelles,other,SeyID ID-Wallet,Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform
+SYC,SeyID Sign,Seychelles,other,SeyID,,,2024-01-01-seyid-seychelles-digital-identity-platform
+SYC,SLA online services on monServis,Seychelles,other,monServis,Seychelles Licensing Authority,,2023-04-19-sla-online-services-seyid-monservis
+SYC,monServis,Seychelles,other,,DICT,,2023-04-19-sla-online-services-seyid-monservis
+SYC,SeyID,Seychelles,other,,DICT,,2023-04-19-sla-online-services-seyid-monservis
+SYC,SEYID,Seychelles,authentication,SEYID website and app,Department of Immigration & Civil Status,virtual ID,2024-09-18-ics-transition-virtual-id-permit-holders

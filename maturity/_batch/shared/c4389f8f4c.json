@@ -1,0 +1,119 @@
+{
+ "slug": "2026-02-02 Benin reports 75% of identification services accessed through digital platforms",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Benin's digital civil registration system, linked with health facilities, issues a birth certificate and a Personal Identification Number at birth, in a pilot launched in October 2025 with UNICEF and the World Bank-funded WURI project.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Digital civil registration",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANIP national ID (fID)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 4 million citizens reached with digital ID services, not a count of people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "Benin piloted from October 2025 a digital civil registration that issues a newborn a Personal Identification Number on registration, supported by UNICEF and WURI.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Digital civil registration",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANIP national ID (fID)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ANIP, Benin's National Agency for the Identification of Persons, ran digital ID services in 2025 reaching four million citizens, and WURI let citizens obtain a foundational identity certificate (fID).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ANIP national ID (fID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANIP national ID (fID)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

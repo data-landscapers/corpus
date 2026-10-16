@@ -1,0 +1,108 @@
+{
+ "slug": "2026-08-19-tanzania-dira2050-security-digital-identity",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The Daily News says the Home Affairs budget continues the Jamii Namba rollout, a system designed to give every citizen a unique identification number from birth, kept for life.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Jamii Namba",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jamii Namba",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Daily News says Home Affairs' 2026/27 budget carries the continued rollout of Jamii Namba, a national digital identity system, with NIDA planning district registration offices and a Dodoma headquarters.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Jamii Namba",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jamii Namba",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

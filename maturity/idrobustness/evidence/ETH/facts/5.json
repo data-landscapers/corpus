@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-ethiopia-fayda-proof-of-identity-foreign-nationals",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National ID Program's own page lists the documents accepted for Fayda registration, including a witness route through an already registered resident and a USSD line 9779.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

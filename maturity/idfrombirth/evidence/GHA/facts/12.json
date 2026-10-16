@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-13-ghana-nia-24hr-ghana-card-registration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this question for the country."
+}

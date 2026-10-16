@@ -1,0 +1,13 @@
+{"slug": "2026-10-06-problem-with-plan-for-digital-ids-in-south-africa", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Home Affairs published draft identity regulation amendments in May 2026 introducing a digital-only ID locked behind the owner's biometric key with device binding, and its executive committee approved a supplier's hosting model in principle subject to supply chain processes, but the Q1 target to sign the procurement work order was missed.", "as_of": "2026-05", "date_precision": "month", "system": "Digital ID", "class": "authentication"}
+], "systems": [{"system": "Digital ID", "country_label": "South Africa", "class": "authentication", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No count or share of ID holders stated."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Hosting procurement for the digital ID is described, but no operator or owner of the national ID system is stated."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated; MyMzansi and the Reserve Bank payment system are named as future users of digital IDs only."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Home Affairs reported to Parliament that proposals for digital ID hosting infrastructure were received from one supplier in May 2026 and that digital IDs are expected to launch after 2030, but the Q1 target of signing the procurement work order was not achieved.", "as_of": "2026-05", "date_precision": "month", "system": "Digital ID", "class": "idsystem"}
+], "systems": [{"system": "Digital ID", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}}
+}}

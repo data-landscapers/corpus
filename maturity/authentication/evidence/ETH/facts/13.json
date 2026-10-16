@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The National Agricultural Finance Implementation Roadmap (NAFIR), newly established, incorporates the Fayda ID for farmers tied to a land registry of 18 million plots; no date given, published date 2026-03-03 used.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NAFIR (National Agricultural Finance Implementation Roadmap)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAFIR",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Programme (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

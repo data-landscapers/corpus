@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Statistics Botswana says the Births and Deaths Registration System is integrated with the National Identification System, which assigns a unique birth registration number to every citizen child at birth (introduced 2003).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Identification System",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification System (Omang)",
+   "country_label": "Botswana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Civil and National Registration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

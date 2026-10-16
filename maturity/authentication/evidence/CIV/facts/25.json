@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ONECI and La Poste launched MaPoste on 16 January 2026, an app for NNI holders that ONECI says runs within a certified digital identity based on the RNPP.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "MaPoste",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Cote d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "MaPoste",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI and La Poste de Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

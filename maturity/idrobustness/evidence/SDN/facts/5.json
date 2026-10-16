@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-sudan-cbos-deadline-extension-sudapass",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Central Bank of Sudan says the SudaPass digital identity is being introduced to facilitate bank clients' data updates.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "SudaPass",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SudaPass",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

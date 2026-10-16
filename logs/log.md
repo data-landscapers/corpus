@@ -13,6 +13,7 @@ title: Corpus process log
 
 <!-- newest first: a new entry goes directly below this line -->
 2026-10-16 · **MATURITY-STUDY** · unclocked · first-pass batch, Data Exchange: dataexchange, idverification, healthexchange, educationexchange, socialexchange prepared, read, staged, written and on the soft-launch map. 560 Sonnet calls plus 19 shared over 84 stories read once for several studies; 834 facts; 11 removed at the top-stage check (revenue, sign-ups, decrees and intentions read as use or links). Tokens 203M against a 200M ceiling, all reading. New shared counter `study_first_ladder.py` and writer `study-first-write.py`; `maturity-site.py` now skips a preview CSV locked open in Excel.
+2026-10-16 15:56 · **MATURITY-STUDY** · unclocked · first-pass batch, Digital Identity and CRVS: seven studies read, staged, written and mapped. 241 Sonnet calls over 741 stories, capped at 15 a country; 1,321 facts; 8 removed at the top-stage check. 68M of a 70M ceiling.
 2026-10-15 23:09 · **RENDER** · 19m · 251 documents, home, countries, regions, topics, catalogue, finance, datasets rendered; R2 2,757 uploaded; deployed 994ca35 — ok
 2026-10-15 22:49 · **REVIEW** · 3m · XSA: status 0 sections revised, progress 5 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-15 22:46 · **REVIEW** · 3m · XNA: status 0 sections revised, progress 2 cells, monthly 2 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
@@ -632,9 +633,6 @@ title: Corpus process log
 2026-09-15 17:32 · **CITE-REREAD** · 5h10m · paused at 33 of 54 baselines on session usage; about 3,100 claims repaired, each unit committed and gated; 21 owed; renders with next cycle — ok
 2026-09-15 13:21 · **RENDER** · 14m · 251 documents, 64 editions cut, home, 54 countries, 8 regions, 38 topics, progress, catalogue 21,672, finance 1,434 deals; prune 2; R2 3,382 uploaded; links clean; deployed — ok
 2026-09-15 13:07 · **BUILD** · 31m · catalogue 21,672, 24 units and 156 sources read, 119 rows minted and 5 moved, 1 gap settled, 7 baselines revised with ~70 misattributed claims repaired, scope 224 in and 1 XGL unverified, register 77, bulletin 80 items — ok
-2026-09-14 22:23 · **RENDER** · 12m · 251 documents, 122 editions cut, home, 54 countries, 8 regions, 38 topics, progress, catalogue 21,534, finance 1,432 deals; prune 5; R2 2,360 uploaded; links clean; deployed — ok
-2026-09-14 22:10 · **BUILD** · 23m · catalogue 21,534, 34 units and 104 sources read, 15 rows minted and 16 moved, NGA baseline revised, scope 308 in and 6 XGL unverified, register 77, XNA still under band, bulletin 65 items — ok
-2026-09-14 00:00 · **RENDER** · 14m · 251 documents, 68 editions cut, home, 54 countries, 8 regions, 38 topics, progress, catalogue 21,447, finance 1,432 deals; R2 1,959 uploaded, prune 0; links clean; deployed — ok
 2026-09-11 18:15 · **FILLER** · unclocked · regions baseline filler (XWA XEA XCA XSA XNA): 61 rows, 31 staged (29 files, new-queue regions-baseline, undelivered), 25 held, 5 nil; notes-for-osint 137
 2026-09-10 16:31 · **DOC** · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically
 2026-09-09 15:10 · **METHODOLOGY** · 35m · Process inventory reviewed against the week: r2-sync row added, region.py and methodology.py added to the publishing row, title index named beside the names index, deploy row now describes two hosts. Intersections 599 -> 1,049, monthly intake 2,000 -> 5,000

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Vipeoples reports that Senegal's ECOWAS biometric identity card is produced under a contract with a Malaysian firm, with bill 21/2026 amending the founding law before the National Assembly on 29 September 2026.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "ECOWAS biometric identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECOWAS biometric identity card",
+   "country_label": "Senegal",
+   "class": "idsystem",
+   "platform": "Malaysian contractor",
+   "owner": "Ministry of Interior (DAF)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

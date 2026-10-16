@@ -1,0 +1,9 @@
+{"slug": "2025-11-17 Angola begins issuance of ID cards to newborns", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No exchange of records between the civil register and the ID system stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No count or share stated."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "Biometric Update says Angola is beginning to issue national ID cards to newborns at maternity wards, starting in Mbanza Kongo municipality of Zaire province, then its 10 other municipalities.", "as_of": "2025-11-17", "date_precision": "day", "system": "newborn national ID issuance (Born with a birth certificate)", "class": "birthnumber"}], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No operator or maintainer stated."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update says Angola is issuing national ID cards, now to newborns in Zaire province; it hopes to model a digital ID on Aadhaar.", "as_of": "2025-11-17", "date_precision": "day", "system": "national ID card", "class": "idsystem"}], "systems": [{"system": "national ID card", "country_label": "Angola", "class": "idsystem", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": ""}], "note": ""}}}
+}}

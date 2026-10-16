@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,public and private services requiring identification,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalités (RNN),Niger,other,,Ministère de la justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3),Niger,other,,Ministère de l'Intérieur (WURI-Niger project),,2024-01-01-lesahel-wuri-niger-presentation-projet
+NER,Registre National de la Population,Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National d'État Civil,Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Niger national e-ID card,Niger,other,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport

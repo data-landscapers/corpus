@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The article says fewer than 16% of the population hold some form of government-issued ID, citing the 2022 Somali Integrated Household Budget Survey.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "government-issued ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (Tirsi Aqoonsi)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "certificate, digital mobile ID, physical card"
+  },
+  {
+   "system": "HUBIYE Verification Platform",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

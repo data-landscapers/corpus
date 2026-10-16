@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-myjoyonline-nia-revised-ghana-card-fees-parliament-approval",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ghana's NIA says its 276 district offices operate nationwide for Ghana Card registration, with card replacement at GH¢200 and record updates free under fees in force from 2 February 2026.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

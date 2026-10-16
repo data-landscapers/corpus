@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
+SDN,Omdurman National Bank digital channels,Sudan,other,,Omdurman National Bank,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-23-sudantribune-bank-of-sudan-sudapass-data-update
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-21-suna-sudan-baldna-trade-registry-integration
+SDN,Baldna platform,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-21-suna-sudan-baldna-trade-registry-integration
+SDN,SudaPass banking eKYC integration,Sudan,other,SudaPass,Ministry of Digital Transformation and Communications; Central Bank of Sudan; banks,,2026-08-20-sudan-sudapass-digital-id-banking-ekyc
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications; Sudanese Cybersecurity Authority,,2026-08-20-sudan-sudapass-digital-id-banking-ekyc
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-19-sudantribune-sudapass-digital-bank-data-update-launch
+SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-17-sudan-cbos-deadline-extension-sudapass
+SDN,Bank account opening with national number,Sudan,other,,Central Bank of Sudan (banks),,2024-12-02-cbos-national-number-bank-account-circular
+SDN,Civil Registry system (General Administration of Civil Registry),Sudan,other,,General Administration of the Civil Registry,,2024-12-02-cbos-national-number-bank-account-circular
+SDN,SUDAPASS,Sudan,authentication,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page
+SDN,Sudanese Digital Identity (SUDAPASS),Sudan,authentication,smartphone application and national platform,National Electronic Authentication Authority,"three trust levels: basic, intermediate, high",2026-05-21-sudan-sudapass-terms-and-conditions

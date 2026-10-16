@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,robustness,system,coverage,inservice,2026-10-09,ETH-001;ETH-002;ETH-003;ETH-004;ETH-005;ETH-006;ETH-007;ETH-008;ETH-009;ETH-010;ETH-011;ETH-012,,
+ETH,robustness,biometric,coverage,,,,,nothing held
+ETH,robustness,assurance,coverage,,,,,nothing held

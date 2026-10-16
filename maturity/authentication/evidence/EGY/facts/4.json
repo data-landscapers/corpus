@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update reports Egypt is rolling out mandatory facial verification for SIM registration, in which an automated system compares the applicant's selfie with the photograph associated with the national ID before the operator may issue the SIM.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Biometric SIM registration eKYC"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Biometric Update reports the NTRA began piloting, last year, a biometric eKYC system connected to Egypt's civil registry information, for identity verification at mobile operator branches.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Biometric SIM registration eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric SIM registration eKYC",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "National Telecommunications Regulatory Authority (NTRA)",
+   "tiers": ""
+  },
+  {
+   "system": "My Lines",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

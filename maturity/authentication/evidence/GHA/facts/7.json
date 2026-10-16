@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-13-ghana-2022-sim-biometric-never-authenticated-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "none",
+   "class": "authentication",
+   "fact": "The NIA Executive Secretary said fingerprints collected in the 2021-22 SIM re-registration were never used to verify or authenticate SIM owners against the NIA system.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SIM card re-registration (2021-22)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The NIA said work was under way on a new framework identifying SIM cards by linking them to the Ghana Card, to address payment fraud.",
+   "as_of": "2025-10-13",
+   "date_precision": "day",
+   "system": "SIM card to Ghana Card linkage framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM card re-registration (2021-22)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "telecommunications companies",
+   "tiers": ""
+  },
+  {
+   "system": "SIM card to Ghana Card linkage framework",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-20-som-hiiraan-national-id-1-5-million",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Somalia launched its first digital national ID system, eAqoonsi, through NIRA in September 2023 and has registered more than 1.5 million citizens, says the Hiiraan report.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-burundi-sim-registration-scams",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Connecting Africa reports mandatory SIM and eSIM registration in Burundi began in mid-June 2026, requiring registrants to present legible, up-to-date identification documents at a registration point, with ARCT interconnecting operators and state bodies for real-time monitoring of registration and user identity.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "SIM and eSIM registration (ARCT)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM and eSIM registration (ARCT)",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "ARCT; Ministry of Finance, Budget and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-09-03-zmb-lavushimanda-digital-civil-registration", "studies": {
+"birthidlink": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Zambia's national registration department runs birth registration, digital identification for adults and death certificates through one system, INRIS, deployed to 26 district offices in March 2022, says the Lavushimanda district officer.", "as_of": "2026-09-03", "date_precision": "day", "system": "INRIS", "class": "crvslink"}
+], "systems": [{"system": "Integrated National Registration Information System (INRIS)", "country_label": "Zambia", "class": "idsystem", "platform": "", "owner": "Department of National Registration, Passport and Citizenship", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Births are registered on INRIS but the document gives no identity number at birth."}}}
+}}

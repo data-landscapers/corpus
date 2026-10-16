@@ -1,0 +1,124 @@
+{
+ "slug": "2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": "The document says nothing on this for Mauritius."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": "The document says nothing on this for Mauritius."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": "The document says nothing on this for Mauritius."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": "The document says nothing on this for Mauritius."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": "The document says nothing on this for Mauritius."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The piece says Phase 1 of the national ID rollout, a new physical smart ID card with anti-fraud security features, launched in February 2024 under the National Identity Card Regulations 2024.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Mauritius National Identity Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mauritius National Identity Card (MNIC 3.0)",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": "smart ID card; Mobile ID app in development"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

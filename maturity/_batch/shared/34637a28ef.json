@@ -1,0 +1,17 @@
+{"slug":"2026-09-17-mwi-nation-national-ids-lifetime","studies":{
+"authentication":{"countries":{"MWI":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The Homeland Security Minister said verification will now rely on real-time biometrics against the National Registration Bureau database.","as_of":"2026-09-16","date_precision":"day","system":"National Registration Bureau database","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The Nzika Digital ID, launched in Lilongwe, lets citizens present verified credentials through the Nzika Wallet, and the NRB Principal Secretary said over 22,000 Malawians have already obtained it.","as_of":"2026-09-16","date_precision":"day","system":"Nzika Wallet","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"remote","value":"wallet","fact":"The Nzika Wallet lets citizens present verified credentials digitally and can be used to access services before receiving a physical card, per the Homeland Security Minister.","as_of":"2026-09-16","date_precision":"day","system":"Nzika Wallet","class":"authentication"}],
+"systems":[{"system":"Nzika Wallet","country_label":"Malawi","class":"authentication","platform":"","owner":"National Registration Bureau","tiers":""},{"system":"National ID system","country_label":"Malawi","class":"idsystem","platform":"","owner":"National Registration Bureau","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document counts children in civil registration but states no exchange between the civil register and the ID system."}}},
+"idcoverage":{"countries":{"MWI":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"The ICT Minister said the national ID system has over 13.5 million people registered, about 99 percent of citizens aged 16 and above; against the population of 22.2 million held (2025) that is about 61 percent of all ages.","as_of":"2026-09","date_precision":"month","system":"National ID system","class":"idsystem"}],
+"systems":[{"system":"National ID system","country_label":"Malawi","class":"idsystem","platform":"","owner":"National Registration Bureau","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not mention an ID number given at birth."}}},
+"idmaintenance":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not say who operates or maintains the ID system."}}},
+"idregisters":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not mention registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"MWI":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The ICT Minister said the national ID system has over 13.5 million people registered, and National ID cards no longer expire.","as_of":"2026-09-16","date_precision":"day","system":"National ID system","class":"idsystem"}],
+"systems":[{"system":"National ID system","country_label":"Malawi","class":"idsystem","platform":"","owner":"National Registration Bureau","tiers":""}],"note":""}}}
+}}

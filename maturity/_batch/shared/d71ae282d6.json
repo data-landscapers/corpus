@@ -1,0 +1,88 @@
+{
+ "slug": "2026-06-11-student-digital-id-program-mtn-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Student ID verification for payments is planned and sectoral, not a national authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Adults 18 and over must obtain the national digital ID, whose new generation was launched in February 2025.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "national digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital ID",
+       "country_label": "Cameroon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

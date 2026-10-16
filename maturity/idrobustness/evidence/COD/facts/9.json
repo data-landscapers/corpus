@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Agence Ecofin reports the ministry presents RDC-PASS, launched in June by President Tshisekedi, as a tool to identify Congolese, now in a first operational phase since September 2026 with 50 enrolment agents trained and rollout to widen gradually.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

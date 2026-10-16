@@ -1,0 +1,17 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "maintenance",
+   "stage": "3",
+   "operation": "national",
+   "maintenance": "",
+   "ownership": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-003;NGA-004",
+   "gaps": "No source held since October 2023 says national staff maintain the system or the foreign contract has ended.",
+   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article lists the HUBIYE Verification Platform for real-time authentication among NIRA's new components.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "HUBIYE Verification Platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The article says credentials may be provided as a digital mobile ID, with the e-Aqoonsi Mobile App among NIRA's new components.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "e-Aqoonsi Mobile App",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (Tirsi Aqoonsi)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "certificate, digital mobile ID, physical card"
+  },
+  {
+   "system": "HUBIYE Verification Platform",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

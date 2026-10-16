@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-lumiernews-rdc-national-id-card-accountability",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ONIP handed the first national ID card to the President on 2023-06-30 as the start of a national process; a civil-society group says mass enrolment has not reached provinces such as Tshopo and demands a delivery timetable.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "ONIP national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national ID card",
+   "country_label": "DR Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

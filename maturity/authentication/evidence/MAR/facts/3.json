@@ -1,0 +1,34 @@
+{
+ "slug": "2022-06-01-idemia-morocco-national-digital-id-case-study",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "IDEMIA's case study says the DGSN ran a three-stage pilot from 2019 that connected a limited number of service providers to the national digital ID authentication platform, which was officially launched on 25 April 2022 for all service providers to use in future offerings.",
+   "as_of": "2022-04-25",
+   "date_precision": "day",
+   "system": "National digital ID authentication platform (service-provider pilot)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National digital ID authentication platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "IDEMIA identity and access management platform on the eID card",
+   "owner": "DGSN with ADD",
+   "tiers": ""
+  },
+  {
+   "system": "Mon identité numérique",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "mobile application and portal identitenumerique.ma",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

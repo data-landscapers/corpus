@@ -1,0 +1,99 @@
+{
+ "slug": "2026-02-22-home-affairs-resumes-id-card-production",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Ministry of Home Affairs says it has resumed national ID card production after a temporary suspension over technical challenges, with services at ten government service centres.",
+       "as_of": "2026-02-22",
+       "date_precision": "day",
+       "system": "national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national identity card",
+       "country_label": "Eswatini",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Home Affairs says production of national ID cards has resumed and services are available at ten government service centres.",
+       "as_of": "2026-02-22",
+       "date_precision": "day",
+       "system": "national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national identity card",
+       "country_label": "Eswatini",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

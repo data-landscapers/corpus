@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "A Ministry update of 11 November 2022 said 30,011,082 people had completed phase-one SIM re-registration linking the Ghana Card to the SIM, of whom 20,892,970 (about 70%) had completed full biometric verification.",
+   "as_of": "2022-11-11",
+   "date_precision": "day",
+   "system": "SIM re-registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Communications Minister announced on 8 April 2025 that from June 2025 SIM re-registration would be fully online using the Ghana Card, with automatic verification replacing in-person checks.",
+   "as_of": "2025-04-08",
+   "date_precision": "day",
+   "system": "SIM re-registration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM re-registration",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "fully online platform",
+   "owner": "Ministry of Communication",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

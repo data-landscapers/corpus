@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers data-centre investment in Cameroon and states nothing on the national ID system or registers."
+    }
+   }
+  }
+ }
+}

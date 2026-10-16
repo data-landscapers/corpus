@@ -1,0 +1,41 @@
+{
+ "slug": "2024-01-01-e-sircev-portal",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "",
+       "owner": "Direccao Nacional dos Registos e Notariado",
+       "tiers": ""
+      }
+     ],
+     "note": "Landing page of the civil registry portal; it states no link to an ID system and no number at birth."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "",
+       "owner": "Direccao Nacional dos Registos e Notariado",
+       "tiers": ""
+      }
+     ],
+     "note": "Landing page of the civil registry portal; it states no link to an ID system and no number at birth."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-14-gmb-thepoint-gala-condemns-fresh-id-card-application",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

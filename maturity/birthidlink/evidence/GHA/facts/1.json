@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-12-nia-tests-registration-system-children-0-5",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana PIN",
+   "country_label": "Ghana",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Document speaks of coordination among NIA, Births and Deaths Registry and Health Service but states no record exchange or link between the registers."
+}

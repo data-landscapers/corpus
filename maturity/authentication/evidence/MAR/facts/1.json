@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05 Morocco boosts digital ID for government services (DGSN–Ministry partnership)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The DGSN and the Ministry of Digital Transition and Administration Reform signed a deal to let all government entities digitise services accessed through the national biometric digital ID, with a legal and organisational blueprint for identity verification through a trusted third-party service.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "trusted third-party identity verification service"
+  }
+ ],
+ "systems": [
+  {
+   "system": "trusted third-party identity verification service",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

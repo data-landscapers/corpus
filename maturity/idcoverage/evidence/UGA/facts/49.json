@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIRA completed migration of more than 28 million records to its new MOSIP platform while adding about 6.7 million new registrations; 28 million is about 54% of the 51.4 million population (share computed from the population held; records, not deduplicated people).",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "NIRA national identity platform on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national identity platform on MOSIP",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

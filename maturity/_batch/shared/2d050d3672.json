@@ -1,0 +1,63 @@
+{
+ "slug": "2026-03-25-semlex-hands-biometric-data-to-comoros-government-alwatwan",
+ "studies": {
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "Al-Watwan reports that on 24 March 2026 Semlex, producer of Comoros' biometric ID cards and passports since 2007, handed the data to the government, that Dutch firm GenKey takes over production and management of the documents, and that the Interior Ministry calls the handover control of the state's identification resources, with data hosted in Comoros.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Biometric national identity cards and passports",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Biometric national identity cards and passports",
+       "country_label": "Comoros",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Al-Watwan reports Semlex has produced Comoros' biometric national identity cards and passports since 2007, and that enrolment for new cards was suspended from 2 March 2026 for the transition to GenKey, expected to resume on 27 March.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Biometric national identity cards",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Biometric national identity cards and passports",
+       "country_label": "Comoros",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

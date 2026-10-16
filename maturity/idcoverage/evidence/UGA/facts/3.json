@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "About 10.9 million Ugandans remain off the register; against the 51.4 million population given, about 40.5 million are enrolled, 79% (computed, not stated).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "About 10.9 million Ugandans remain off the register; against the 51.4 million population given, about 40.5 million are enrolled, 79% (computed, not stated).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Register / national ID card",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

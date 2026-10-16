@@ -1,0 +1,13 @@
+{"slug": "2026-06-02-biometricupdate-morocco-national-id-renewal-online", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Morocco signed early in 2026 a cooperation framework agreement for a digital wallet project with iDakto and ShareID as technology partners.", "as_of": "2026", "date_precision": "year", "system": "national digital wallet", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Mon e-ID mobile application is already in use, per DGSN officials at the May 2026 DGSN Open Days in Rabat.", "as_of": "2026-05", "date_precision": "month", "system": "Mon e-ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Mon e-ID is already in use to let citizens carry the digital version of their national ID card, per DGSN officials.", "as_of": "2026-05", "date_precision": "month", "system": "Mon e-ID", "class": "authentication"}
+], "systems": [{"system": "CNIE", "country_label": "Maroc", "class": "idsystem", "platform": "", "owner": "DGSN", "tiers": ""}, {"system": "Mon e-ID", "country_label": "Maroc", "class": "authentication", "platform": "mobile app", "owner": "DGSN", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No count or share enrolled is given."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "DGSN leads the digital ID project but no operating or ownership statement is made."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Morocco's biometric national ID card (CNIE) is renewed through DGSN enrolment offices where biometrics are captured, and the system is being upgraded.", "as_of": "2026-05", "date_precision": "month", "system": "CNIE", "class": "idsystem"}], "systems": [{"system": "CNIE", "country_label": "Maroc", "class": "idsystem", "platform": "", "owner": "DGSN", "tiers": ""}], "note": ""}}}
+}}

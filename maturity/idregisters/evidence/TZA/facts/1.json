@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-tza-nipashe-nida-yako-kuwa-jamii-namba-huduma-tisa-kuunganishwa",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The NIDA Director General listed the taxpayer identification number (TIN) among the services NIDA plans to connect to the national ID.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Jamii Namba",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jamii Namba",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

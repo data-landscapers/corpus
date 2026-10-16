@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-nam-biometricupdate-mps-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Namibia launched its national public key infrastructure under the DigiNam initiative in August 2026, per Home Affairs Minister Lucia Iipumbu.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "national PKI (DigiNam)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

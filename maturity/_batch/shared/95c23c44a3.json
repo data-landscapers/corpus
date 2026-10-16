@@ -1,0 +1,9 @@
+{"slug": "2024-04-01-cnie-carte-nationale-identite-electronique", "studies": {
+"authentication": {"countries": {"GAB": {"facts": [], "systems": [{"system": "NIP / CNIE", "country_label": "Gabon", "class": "idsystem", "platform": "", "owner": "Ministere de l'Interieur", "tiers": ""}], "note": "The document describes number enrolment and the card, with no authentication service."}}},
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Enrolment has just begun and no count of people is given."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The NIP is given to citizens aged 16, not at birth."}}},
+"idmaintenance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document does not say who builds or maintains the system."}}},
+"idregisters": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No public register keyed on the NIP is stated."}}},
+"idrobustness": {"countries": {"GAB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Interior Ministry says it launched on 3 April 2024 the issue of a 14-character Numero d'Identification Personnel to each citizen after biometric enrolment, under law 027/2020, ahead of the electronic ID card.", "as_of": "2024-04-03", "date_precision": "day", "system": "NIP / CNIE", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-05 São Tomé and Principe pilots MOSIP-based national digital ID system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A Justice Ministry official says the country is in the pilot phase of a national digital ID on MOSIP, begun in 2024, with no fixed timeline for full-scale deployment.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "national digital ID system (MOSIP-based)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

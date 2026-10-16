@@ -1,0 +1,59 @@
+{
+ "slug": "2026-09-29-mwi-india-un-ekyc-digital-identity-review",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KYC and Digital Identity Project is not stated to be a national ID system; no fact on this question."
+    }
+   }
+  }
+ }
+}

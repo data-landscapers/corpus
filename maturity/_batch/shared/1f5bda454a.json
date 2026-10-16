@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-27-unhcr-tchad-lancement-enrolement-biometrique-anats-abeche",
+ "studies": {
+  "idcoverage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an excerpt: gives no enrolment count or system details for Chad."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Refugee enrolment launch only; no national ID system, numbers or biometric checks described."
+    }
+   }
+  }
+ }
+}

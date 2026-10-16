@@ -1,0 +1,113 @@
+{
+ "slug": "2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-01-13 Cameroon intros digital system for civil documents",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BUNEC civil registration digital system",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": "Council civil status digitalisation only; no link to an ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BUNEC civil registration digital system",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": "Digital birth certificates without an ID number stated."
+    }
+   }
+  }
+ }
+}

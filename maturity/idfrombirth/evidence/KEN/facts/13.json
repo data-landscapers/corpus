@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-kenya-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Kenya's Civil Registration Services list as next step the adoption of a Unique Personal Identifier, a lifelong identifier assigned at birth.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Unique Personal Identifier (UPI)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

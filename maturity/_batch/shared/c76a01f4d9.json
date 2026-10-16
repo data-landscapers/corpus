@@ -1,0 +1,79 @@
+{
+ "slug": "2026-07-01-barrow-inaugurates-national-data-centre-nims-standard",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "President Barrow launched The Gambia's National Identity Management System (NIMS) and became its first enrollee, with GICTA describing it as the first national biometric-based digital identity platform.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "National Identity Management System (NIMS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Management System (NIMS)",
+       "country_label": "The Gambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior with Margins ID Group (PPP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

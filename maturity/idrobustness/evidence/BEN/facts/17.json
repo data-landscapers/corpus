@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update says teams were dispatched abroad in 2023 to issue digital IDs to Beninese living abroad, and ePass registration uses the national digital ID.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national digital ID",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

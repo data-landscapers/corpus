@@ -1,0 +1,68 @@
+{
+ "slug": "2026-07-21-lesahel-editorial-passeports-biometriques-aes",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Editorial reports Niger's enrolment for the AES passport and ID card; it states nothing on Mali's ID system or services."
+    }
+   }
+  }
+ }
+}

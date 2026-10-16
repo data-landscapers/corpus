@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-03-bungoma-id-registration-hampered-by-staff-vehicle",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The National Registration Bureau produces identity cards at its Nairobi headquarters, taking three weeks to a month before cards return to the county (county registration officer).",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

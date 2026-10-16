@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,frombirth,number,none,"Mali's DNEC describes a paper community chain of village notebooks feeding birth registration and names a move to a digital model as a perspective, with no identity number given at birth.",2026-07-18,day,community declaration chain,birthnumber,2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-mali_0.pdf

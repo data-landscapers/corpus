@@ -1,0 +1,15 @@
+{"slug":"2026-09-17-tza-citizen-nida-number-digital-identity-jamii-namba","studies":{
+"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states no authentication, e-signature or digital ID service."}}},
+"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"It notes children have birth records but enter the ID system late; no exchange between the registers is stated."}}},
+"idcoverage":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"The Home Affairs Minister said 27,520,835 people had been registered and 23,515,667 had received identification numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here.","as_of":"2026-09","date_precision":"month","system":"NIDA national ID","class":"idsystem"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"frombirth","aspect":"number","value":"underway","fact":"The NIDA Director said a child-identification plan, registering children with NIDA from birth, is under pilot in three districts.","as_of":"2026-09-16","date_precision":"day","system":"NIDA national ID","class":"birthnumber"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document does not say who builds or maintains the system beyond NIDA as the authority."}}},
+"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"It names no public register keyed on the ID number, only a strategy to connect institutions."}}},
+"idrobustness":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Home Affairs Minister said 23,515,667 people had received identification numbers and 21,526,635 identity cards had been produced.","as_of":"2026-09","date_precision":"month","system":"NIDA national ID","class":"idsystem"}],
+"systems":[{"system":"NIDA national ID","country_label":"Tanzania","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}}
+}}

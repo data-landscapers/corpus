@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Unique Identification Number",
+   "class": "birthnumber"
+  },
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "national",
+   "value": "national",
+   "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Unique Identification Number",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

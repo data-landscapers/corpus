@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The DGPF, through its director, says it issues the biometric national ID card across the territory since 2025 and runs the enrolment centres and mobile biometric teams itself.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Carte nationale d'identite biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

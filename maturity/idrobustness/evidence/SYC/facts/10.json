@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-about-ekyc-seyid",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "The page says eKYC uses a valid ID card or passport but does not state that a national ID system issues unique identities."
+}

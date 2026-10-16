@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-04-national-id-program-reestablished-as-state-owned-enterprise-faydaverse",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Ethiopian Investment Holdings press release says the Fayda ecosystem has enabled over 150 enterprise eKYC integrations, with eKYC and single sign-on offered as services.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda eKYC",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Faydaverse",
+   "tiers": ""
+  },
+  {
+   "system": "Fayda single sign-on",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Faydaverse",
+   "tiers": ""
+  },
+  {
+   "system": "Fayda digital credential wallet",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Faydaverse",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

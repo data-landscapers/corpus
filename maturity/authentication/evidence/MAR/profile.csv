@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MAR,authentication,service,coverage,inservice,2026-05,MAR-002;MAR-005;MAR-008;MAR-013,MAR-007=underway;MAR-010=underway;MAR-012=underway;MAR-016=underway;MAR-017=underway;MAR-001=underway;MAR-004=underway,
+MAR,authentication,reach,coverage,several,2025-09-24,MAR-003;MAR-006;MAR-014,,
+MAR,authentication,remote,coverage,wallet,2026-05,MAR-009;MAR-011;MAR-015,,

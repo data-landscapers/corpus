@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-dpi-map-mali-country-profile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NINA",
+   "country_label": "Mali",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Status of implementation is NA; the page claims NINA as a digital ID but states no issuing, and records no ID act, regulation or enrolment rules."
+}

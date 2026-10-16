@@ -1,0 +1,12 @@
+{"slug": "2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate", "studies": {
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document states no link between the civil register and the ID system."}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given; nationwide enrolment starts 4 August 2026."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "MIDSA, a subsidiary of Ghana's Margins ID Group, was awarded the contract in January 2026 to design, deploy and operate the National Identity Management System under a Build, Operate and Transfer agreement.", "as_of": "2026-01", "date_precision": "month", "system": "National Identity Management System (NIMS)", "class": "idsystem"}
+], "systems": [{"system": "National Identity Management System (NIMS) / GAM ID", "country_label": "The Gambia", "class": "idsystem", "platform": "Margins ID Group (MIDSA)", "owner": "Government of The Gambia", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named; the system is said to link government agencies in general terms."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Gambia launched its National Identity Management System on 30 June 2026 with instant issuance of the GAM ID, a pilot for selected institutions from 6 to 29 July and nationwide enrolment from 4 August, per the Ministry of Information.", "as_of": "2026-06-30", "date_precision": "day", "system": "National Identity Management System (NIMS)", "class": "idsystem"}
+], "systems": [{"system": "National Identity Management System (NIMS) / GAM ID", "country_label": "The Gambia", "class": "idsystem", "platform": "Margins ID Group (MIDSA)", "owner": "Government of The Gambia", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Autentika page says a citizen may authenticate with the CNI at any Cabo Verdean public administration portal that has joined Autentika, and that any duly authorised application may integrate by OpenID Connect; no date is given, so as_of is the published year (proxy).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Autentika-joined public administration portals"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autentika",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "electronic identity management and authentication platform, OpenID Connect",
+   "owner": "State of Cabo Verde (NOSi support)",
+   "tiers": "basic;CMDCV;CNI"
+  },
+  {
+   "system": "Cartão Nacional de Identificação (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "smart card with middleware and reader",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Chave Móvel Digital de Cabo Verde (CMDCV)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "phone number, PIN and one-time code",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-03-16-etat-civil-enrolement-biometrique-national-lexpress", "studies": {
+"birthidlink": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document names a civil status and identity reform but states no record exchange between the two registers."}}},
+"idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No count of people enrolled; only 2,500 kits to be deployed."}}},
+"idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The steering committee unanimously validated the proof of concept and the Atsimondrano pilot of biometric enrolment under the civil status and identity reform (RECI), and agreed to roll out 2,500 kits nationally, per an Interior and Decentralisation ministry statement.", "as_of": "2026-03-16", "date_precision": "day", "system": "Réforme de l'état civil et de l'identité (RECI) biometric enrolment", "class": "idsystem"}], "systems": [{"system": "Réforme de l'état civil et de l'identité (RECI) biometric enrolment", "country_label": "Madagascar", "class": "idsystem", "platform": "", "owner": "Ministry of Interior and Decentralisation", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,4 @@
+{"slug": "2026-07-30-cote-divoire-oneci-civil-registry-digitisation-goh", "studies": {
+"birthidlink": {"countries": {"CIV": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "AIP reports that the civil-registry digitisation reform is piloted by ONECI, the national office for civil status and identification, with all civil registration centres equipped with Citiweb software at end 2025.", "as_of": "2026-07-30", "date_precision": "day", "system": "Citiweb", "class": "crvslink"}], "systems": [{"system": "Citiweb", "country_label": "Côte d'Ivoire", "class": "other", "platform": "Citiweb", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Citiweb records births digitally but no ID number at birth is stated."}}}
+}}

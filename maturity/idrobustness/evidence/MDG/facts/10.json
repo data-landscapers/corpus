@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank says nationwide biometric enrolment under PRODIGY began in April 2026 with over 2,000 teams and had enrolled over 3.25 million adults by 10 June.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "PRODIGY",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The World Bank says teams collect fingerprints and iris scans, and identity is confirmed against a de-duplicated biometric database.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "PRODIGY",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

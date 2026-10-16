@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "An MP told Parliament on 20 August 2026 that holders of new national IDs were turned away at banks and when registering or replacing SIM cards, services that require electronic verification of the card's QR code, which was not responding.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "SIM registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The MP's statement names banking and telecoms (SIM registration) as sectors requiring QR-code verification of the national ID.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "SIM registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "NIRA acknowledged on 9 February 2026, as the MP recounts, that QR-code functionality was not yet integrated into its digital system, and said it would be fixed by 31 March.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "SIM registration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "telecom providers",
+   "tiers": ""
+  },
+  {
+   "system": "Bank customer verification",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "banks",
+   "tiers": ""
+  },
+  {
+   "system": "National ID QR-code verification",
+   "country_label": "Uganda",
+   "class": "",
+   "platform": "QR code on new national ID card",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

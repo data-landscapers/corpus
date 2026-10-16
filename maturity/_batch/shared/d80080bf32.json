@@ -1,0 +1,9 @@
+{"slug": "2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No count or share of people enrolled is stated."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Identification posts sit in maternity wards but no number at birth is stated."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No operator or maintainer is stated."}}},
+"idregisters": {"countries": {"AGO": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Minister Marcy Lopes says the Bilhete de Identidade is the main document for the update of the electoral register (Registo Eleitoral Oficioso) running from 15 June 2026 to 31 March 2027.", "as_of": "2026-07-15", "date_precision": "day", "system": "Bilhete de Identidade", "class": "register"}], "systems": [{"system": "Bilhete de Identidade", "country_label": "Angola", "class": "idsystem", "platform": "", "owner": "Ministerio da Justica e dos Direitos Humanos", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"AGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Minister Marcy Lopes says more than 120,000 issued Bilhetes de Identidade remain uncollected at identification posts across the country.", "as_of": "2026-07-15", "date_precision": "day", "system": "Bilhete de Identidade", "class": "idsystem"}], "systems": [{"system": "Bilhete de Identidade", "country_label": "Angola", "class": "idsystem", "platform": "", "owner": "Ministerio da Justica e dos Direitos Humanos", "tiers": ""}], "note": ""}}}
+}}

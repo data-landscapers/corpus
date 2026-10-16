@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "URA announced at the opening of the filing season that the NIN will become the TIN ('soon and very soon') under the Tax Procedures Amendment Bill, with URSB registration numbers serving as TINs for businesses; no start date is given.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "URA tax identification (TIN to NIN)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA tax identification (TIN to NIN)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "URA taxpayer portal",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

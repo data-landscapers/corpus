@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-nia-nationwide-service-disruption-pki-system-updates",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIA district offices nationwide provide registration and identity services under the Ghana Card registration system, suspended temporarily for updates until 10 May 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

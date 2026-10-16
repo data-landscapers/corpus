@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Statistics Botswana says the National Identification System assigns a unique number to every citizen child at birth, which becomes the national identity (Omang) number at age 16.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Identification System (Omang)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-tgo-e-id-togo-6-millions-enregistres",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANID has produced about 5.9 million identification cards, nearly 80% reportedly distributed, and each person registered receives a Unique Identification Number (NIU), per data reported on 28 September 2026.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

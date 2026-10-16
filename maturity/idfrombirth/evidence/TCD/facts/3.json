@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national biometric register",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "No ID number at birth is stated; the operation registers births of children aged 4 months to 17 years."
+}

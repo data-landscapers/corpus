@@ -1,0 +1,90 @@
+{
+ "slug": "2026-02-24-senators-commend-digital-id-rollout",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The Minister of ICT and Innovation told the Senate that over 1.8 million people had submitted biometric data for the digital ID by 22 February 2026, against a target of 15 million; about 12% of the 14.6 million population (computed).",
+       "as_of": "2026-02-22",
+       "date_precision": "day",
+       "system": "e-Indangamuntu",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Indangamuntu",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Minister told the Senate the digital national ID (e-Indangamuntu), coordinated by NIDA, is being rolled out, with enrolment across all 30 districts expected to complete by 2026.",
+       "as_of": "2026-02-24",
+       "date_precision": "day",
+       "system": "e-Indangamuntu",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

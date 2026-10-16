@@ -1,0 +1,42 @@
+{
+ "slug": "2024-02-19-mauritius-national-identity-card-unit",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Unit says MNIC 3.0, a smart-card system, has been operational since 19 February 2024.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MNIC 3.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MNIC 3.0",
+   "country_label": "Mauritius",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Mauritius National Identity Card Unit",
+   "tiers": ""
+  },
+  {
+   "system": "MauPass",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MauSign",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

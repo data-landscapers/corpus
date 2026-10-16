@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-22-znbc-zambia-moves-ahead-digital-id-system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Zambia's national digital identification system has entered a key implementation phase, funded under the Digital Zambia Acceleration Project by a US$100 million IDA grant, with completion targeted for 2026, says ZNBC.",
+   "as_of": "2026-03-22",
+   "date_precision": "day",
+   "system": "national digital identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

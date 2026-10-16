@@ -1,0 +1,9 @@
+{"slug": "2026-09-17-600-000-secure-ids-after-government-drops-extra-vetting-in-border-counties", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a count of 600,000 newly registered in border counties is given, not a total or a share."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on operation or maintenance."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Services are named as needing ID, but no register keyed on the number is stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "National Registration Bureau secretary Gilbert Kitiyo said over 600,000 people without IDs have been registered since extra vetting in border counties ended, with first-time applications free.", "as_of": "2026-09-17", "date_precision": "day", "system": "National identity card (NRB)", "class": "idsystem"}], "systems": [{"system": "National identity card", "country_label": "Kenya", "class": "idsystem", "platform": "", "owner": "National Registration Bureau", "tiers": ""}], "note": ""}}}
+}}

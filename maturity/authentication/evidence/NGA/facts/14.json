@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-15-nigeria-national-database-still-fragmented",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Vanguard reported on 2026-07-15 that banks, telecom operators, insurers and fintechs authenticate customers by fingerprint or face against NIN records through NIMC's real-time verification platform, as the NIMC Director-General says, and a bank digital officer confirmed verifying identity against the national database.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "NIMC real-time verification platform"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The NIMC Director-General says agencies for taxation, immigration, education, health, security, aviation and social programmes rely on the NIN, alongside banks, telecoms and insurers; Vanguard states NIN enables verification across banking, telecommunications and immigration.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "NIMC real-time verification platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC real-time verification platform",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identity Management Commission (NIMC)",
+   "tiers": ""
+  },
+  {
+   "system": "Bank Verification Number (BVN)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

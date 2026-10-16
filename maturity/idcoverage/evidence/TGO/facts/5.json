@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-27-biometricupdate-togo-6m-niu-mosip",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "At least 6 million people had been issued a unique identification number (NIU) and biometric ID card as of December 2025, per the Togolese government report cited by Biometric Update; about 70% of the 8.6 million population (computed from the population given).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU (MOSIP-based national digital ID)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "At least 6 million people had been issued a unique identification number (NIU) and biometric ID card as of December 2025, per the Togolese government report cited by Biometric Update; about 70% of the 8.6 million population (computed from the population given).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU (MOSIP-based national digital ID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU / MOSIP-based national digital ID",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": "biometric card with QR code"
+  }
+ ],
+ "note": ""
+}

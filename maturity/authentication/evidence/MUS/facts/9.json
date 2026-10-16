@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-03-permis-de-conduire-numerique-compte-a-rebours",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "L'Express reports that since 29 September 2026 licence holders (about 884,000) can view their digital driving licence on the KOREK! app, with MauPass providing the identification and authentication and police systems the data.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "KOREK! Digital Driving Licence"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "maupass.govmu.org",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "KOREK! app",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "Google Play; App Store; Huawei AppGallery",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Driving Licence",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "KOREK!",
+   "owner": "Mauritius Police Force",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

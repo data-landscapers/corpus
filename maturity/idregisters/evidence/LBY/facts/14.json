@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-07-administrative-numbers-holders-anger-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The UN-backed advisory committee recommends limiting candidacy and voter registration in elections to holders of the national number, which administrative-number holders criticise.",
+   "as_of": "2025-06-07",
+   "date_precision": "day",
+   "system": "الرقم الوطني (national number)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

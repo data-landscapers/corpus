@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-06-problem-with-plan-for-digital-ids-in-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Home Affairs reported to Parliament that proposals for digital ID hosting infrastructure were received from one supplier in May 2026 and that digital IDs are expected to launch after 2030, but the Q1 target of signing the procurement work order was not achieved.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital ID",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

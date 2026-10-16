@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-nia-tests-registration-system-children-0-5",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The NIA, with the Births and Deaths Registry and Ghana Health Service, tested on 11 August 2026 a renewed application to register children aged 0-5 at selected health facilities and issue them Ghana PINs, a programme launched in March 2024 and suspended after a technical fault, with full rollout expected in the coming days.",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "Ghana PIN",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana PIN",
+   "country_label": "Ghana",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

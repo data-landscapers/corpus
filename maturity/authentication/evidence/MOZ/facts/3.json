@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Mozambique's ATDI says procurement of a national mobile digital ID and digital signature infrastructure, for identification, authentication and electronic signatures under the World Bank-financed EDGE project, has a shortlist submitted to the World Bank, with contracting planned for September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National mobile digital ID and digital signature infrastructure (EDGE)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National mobile digital ID and digital signature infrastructure (EDGE)",
+   "country_label": "Mozambique",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ATDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

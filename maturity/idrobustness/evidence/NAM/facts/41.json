@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Namibia's presentation says it is in the process of introducing an electronic identity card, expected to enhance security and authentication in digital services.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "electronic identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

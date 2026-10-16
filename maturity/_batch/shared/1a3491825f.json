@@ -1,0 +1,153 @@
+{
+ "slug": "2026-03-02-ugd-idms-audit-tdr",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": "The birth registration platform and IDMS are described, but no exchange of records is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The terms of reference say the IDMS has not entered mass enrolment and no significant volume of biometric or identity data is yet registered in production.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "IDMS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": "A unique population identifier is instituted by law, but no number given at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": "Who operates or maintains the IDMS is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The terms of reference say biometric enrolment equipment and solutions have been acquired for an integrated IDMS, which has not yet entered mass enrolment, and commission a two-phase audit.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "IDMS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IDMS",
+       "country_label": "MDG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Presidency / UGD (PRODIGY)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

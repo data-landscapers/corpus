@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-cip-cest-moi-130000-enroles",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "La Nation reports that the Cip and the C'est Moi card are issued by ANIP to people enrolled in RAVIP, and that over 130,000 people obtained a Cip through an NGO campaign between September 2025 and May 2026.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "C'est Moi card and Cip",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "C'est Moi card and Certificat d'identification personnelle (Cip)",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "RAVIP enrolment",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

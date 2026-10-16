@@ -1,0 +1,99 @@
+{
+ "slug": "2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "CNEDOGE, an autonomous public entity attached to the Ministry of National Security, issues the biometric national identity document (DIP) and installs, controls and manages the issuing and verifying devices nationwide.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Documento de identidad personal (DIP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Documento de identidad personal (DIP)",
+       "country_label": "Equatorial Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "CNEDOGE",
+       "tiers": "biometric security documents"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "CNEDOGE issues national identity documents (DIP) carrying a biometric security system, with an unwritten norm of about 30 working days per document.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Documento de identidad personal (DIP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Documento de identidad personal (DIP)",
+       "country_label": "Equatorial Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "CNEDOGE",
+       "tiers": "biometric security documents"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

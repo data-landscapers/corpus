@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "NIRA has completed migration of its national ID records to the open-source MOSIP platform.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "NIRA national identity platform on MOSIP",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "NIRA itself built into the system the capability to issue two distinct ID cards, one for citizens and one for foreign nationals, to comply with Ugandan law.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "NIRA national identity platform on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national identity platform on MOSIP",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

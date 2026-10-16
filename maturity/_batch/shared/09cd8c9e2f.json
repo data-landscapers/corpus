@@ -1,0 +1,99 @@
+{
+ "slug": "2026-02-12-darkreading-senegal-breach-security-maturity",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "IRIS says more than 7 million Senegalese obtained new biometric IDs in the couple of years after late 2016, about 37% of the 18.9 million population (computed from the population figure given).",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "national biometric ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Senegal's national biometric ID system, implemented by IRIS Corporation from late 2016, had issued biometric IDs to more than 7 million citizens by IRIS's account.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "national biometric ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "IRIS Corporation Berhad",
+       "owner": "Directorate of File Automation (DAF)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

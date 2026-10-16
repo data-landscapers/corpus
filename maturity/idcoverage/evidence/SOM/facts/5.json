@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-19-hassan-sheikh-10m-passports-id-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Hiiraan reports that about half a million Somalis have registered for the NIRA biometric card, about 2.5% of the 19.7 million population (divided by the population held), against a government goal of at least 20 million.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "NIRA e-Aqoonsi",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national ID (e-Aqoonsi, Hubiye)",
+   "country_label": "SOM",
+   "class": "idsystem",
+   "platform": "biometric platform",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-06-02-biometricupdate-morocco-national-id-renewal-online",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Morocco signed early in 2026 a cooperation framework agreement for a digital wallet project with iDakto and ShareID as technology partners.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "national digital wallet",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Mon e-ID mobile application is already in use, per DGSN officials at the May 2026 DGSN Open Days in Rabat.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Mon e-ID is already in use to let citizens carry the digital version of their national ID card, per DGSN officials.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIE",
+   "country_label": "Maroc",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "Mon e-ID",
+   "country_label": "Maroc",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

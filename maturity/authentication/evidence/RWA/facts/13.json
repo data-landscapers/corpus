@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "A pilot of biometric SIM registration was launched under the new RURA regulations, which require operators to verify customers' fingerprints and face against NIDA data and to link each SIM to the owner's unique identification number.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "Biometric SIM card registration and verification"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric SIM card registration and verification",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "NIDA database",
+   "owner": "RURA; telecom operators",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

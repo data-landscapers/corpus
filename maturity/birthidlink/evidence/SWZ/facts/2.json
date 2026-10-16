@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Vital Strategies/UNHCR study says Eswatini, with eight other Southern African countries, already operates an integrated identity system model linking civil registration and national identity systems.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "integrated identity system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "integrated identity system",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

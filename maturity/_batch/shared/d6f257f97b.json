@@ -1,0 +1,9 @@
+{"slug":"2026-01-28 The Gender Gap in Rural Niger State's Digital Identity","studies":{
+"authentication":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No civil register link is mentioned."}}},
+"idcoverage":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only the female share of NIN holders is given, not a count or share of the population."}}},
+"idfrombirth":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing is stated on a number at birth."}}},
+"idmaintenance":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Who operates the system is not stated beyond NIMC enrolment centres."}}},
+"idregisters":{"countries":{"NGA":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"inservice","fact":"In 2025 the Niger State government launched an initiative integrating the NIN into the Social Safety Register, to improve identity verification for poor and vulnerable households.","as_of":"2025","date_precision":"year","system":"NIN","class":"register"}],"systems":[],"note":""}}},
+"idrobustness":{"countries":{"NGA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"NIMC reports enrolled NIN holders as of June 2025, with 21 NIN enrolment centres in Niger State, as TechCity NG reports.","as_of":"2025-06","date_precision":"month","system":"NIN","class":"idsystem"}],"systems":[{"system":"National Identification Number (NIN)","country_label":"Nigeria","class":"idsystem","platform":"","owner":"NIMC","tiers":""}],"note":""}}}
+}}

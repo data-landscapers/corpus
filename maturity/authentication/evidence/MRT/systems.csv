@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,Houwiyeti,Mauritania,other,mobile app,ANRPTS,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
+MRT,Khadamati,Mauritania,other,app,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
+MRT,Private financial applications (unnamed),Mauritania,other,,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
+MRT,Houwiyeti,Mauritania,other,TECH5 biometric SDKs; SmartMS back-end and identity provider,MTNIMA,,"2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)"
+MRT,Government e-services portal,Mauritania,other,,MTNIMA,,"2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)"
+MRT,PKI de l'ANRPTS,Mauritania,authentication,,ANRPTS,,2026-04-28-wardip-mauritanie-ap01-identite-numerique-pki
+MRT,Houwiyeti,MRT,authentication,TECH5 / SmartMS IdP,MTNIMA,,2024-08-15-tech5-mauritania-digital-id-pilot-undp
+MRT,SIGPTS,Mauritania,other,,ANRPTS,,2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)
+MRT,Houwiyeti,Mauritania,authentication,,ANRPTS,,2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)

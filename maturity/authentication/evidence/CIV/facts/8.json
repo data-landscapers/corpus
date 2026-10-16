@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-30-cote-divoire-digital-identity-connected-not-identified",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Côte d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": "The op-ed names no authentication service."
+}

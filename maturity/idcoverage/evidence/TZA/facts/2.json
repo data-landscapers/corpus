@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-tza-citizen-nida-number-digital-identity-jamii-namba",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The Home Affairs Minister said 27,520,835 people had been registered and 23,515,667 had received identification numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

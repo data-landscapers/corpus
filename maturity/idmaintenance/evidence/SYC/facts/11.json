@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-civil-services-faq-id-section",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Department of Immigration and Civil Status issues, replaces and amends the National Identity Card at its ID Card Offices in Victoria and Grand Anse Praslin, per its FAQ.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": "Seychellois and expatriate cards"
+  }
+ ],
+ "note": ""
+}

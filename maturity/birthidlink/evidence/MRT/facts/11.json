@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-09-anrpts-houwiyeti-africa-t-awards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANRPTS",
+   "tiers": ""
+  }
+ ],
+ "note": "Mobile civil-status app only; no exchange between civil register and ID system stated."
+}

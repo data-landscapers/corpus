@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-tchadinfos-enrolement-personnes-handicapees-anats-ndjamena-kousseri",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Tchadinfos reports the national secure-titles agency ANATS said each beneficiary would receive a secure document tied to the Numero national d'identification (NNI), in an operation launched 27 July 2026.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Numero national d'identification (NNI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero national d'identification (NNI)",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

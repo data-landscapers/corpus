@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-namibian-sun-govt-dismisses-mark-of-the-beast-eid","studies":{
+"authentication":{"countries":{"NAM":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"The home affairs ministry is preparing to launch e-ID smart cards in September 2026, with banks to authenticate a customer by matching a fingerprint to the card chip and the Prime Minister's office describing identity federation ('one credential for all').","as_of":"2026-07-23","date_precision":"day","system":"e-ID","class":"authentication"}],"systems":[],"note":""}}},
+"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on civil register and ID exchange."}}},
+"idcoverage":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on who runs or maintains the system."}}},
+"idregisters":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on public registers keyed on the ID number; use by the private sector is only anticipated."}}},
+"idrobustness":{"countries":{"NAM":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The home affairs ministry is preparing to launch a new e-ID smart card storing biometric and demographic data in September 2026, with a unique digital identifier separate from the existing identity number, per ministry and Office of the Prime Minister officials.","as_of":"2026-07-23","date_precision":"day","system":"e-ID","class":"idsystem"}],"systems":[{"system":"e-ID (Namibia digital ID)","country_label":"Namibia","class":"idsystem","platform":"smart card with chip","owner":"Ministry of Home Affairs; Office of the Prime Minister","tiers":""}],"note":""}}}
+}}

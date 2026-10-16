@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "President Barrow said in the 2025 State of the Nation Address that ID cards will be integrated with the Electronic Civil Registration and Vital Statistics system, passport and other databases into a unified digital ID system.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "National ID system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID system (under concession contract)",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Civil Registration and Vital Statistics (ECRVS)",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "ITWeb says the UNDP puts biometric enrolment at roughly 1.5 million people in a population of around 20 million, about 7.5% (6.8% of the 21.9 million held).",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "biometric enrolment (INRIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

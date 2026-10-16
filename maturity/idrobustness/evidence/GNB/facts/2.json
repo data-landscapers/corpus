@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-11 Semlex Guinea-Bissau strengthens access to biometric identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Semlex says Guinea-Bissau has 18 production centres for biometric national ID cards nationwide, the newest at Safim opened 30 January 2026 with capacity of 100 cards a day.",
+   "as_of": "2026-01-30",
+   "date_precision": "day",
+   "system": "biometric national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

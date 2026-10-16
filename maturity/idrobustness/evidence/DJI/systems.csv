@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DJI,Numero National d'Identification (NNI) / Registre national des personnes physiques,Djibouti,idsystem,,DGPF,biometric national ID card,2026-07-23-lanation-carte-nationale-identite-biometrique
+DJI,Carte nationale d'identite biometrique,Djibouti,idsystem,,DGPF,,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
+DJI,ID Mobile,Djibouti,other,mobile phone,DGPF,in preparation,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
+DJI,Mobile ID,Djibouti,other,smartphone app,Ministry of Interior,,2026-02-10-interieur-mobile-id-lancement-officiel
+DJI,Mobile ID,Djibouti,other,smartphone app,Ministry of Interior,,2026-02-10-mobile-id-biometric-launch-biometricupdate
+DJI,Mobile ID,Djibouti,idsystem,smartphone and unique digital identifier,Interior Ministry,,2026-02-10-mobile-id-launch-wearetech
+DJI,Mobile ID,Djibouti,other,smartphone app,Ministry of Interior,,2026-02-09-mobile-id-national-digital-identity-forum-lanation
+DJI,Smart Wallet,Djibouti,other,"Visa, Tech5",Ministry of Digital Economy and Innovation,,2025-09-22-visa-tech5-smart-wallet-biometricupdate

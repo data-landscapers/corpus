@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-clubofmozambique-dnic-identity-cards-first-semester",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The National Directorate of Civil Identification (DNIC) itself received 813,307 applications, produced 856,101 national identity cards and ran 1,749 mobile capture units in the first half of 2026, per its spokesperson.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Identity Card (BI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

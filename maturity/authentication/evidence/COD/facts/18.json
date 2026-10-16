@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Agence Ecofin reports Minister Kibassa Maliba said on 28 September 2026 that RDC-PASS, launched in June to identify and authenticate Congolese for digital services, entered a first operational phase in September with 50 enrolment agents trained.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Agence Ecofin reports the Prime Minister has signed the decree creating the Agence nationale de certification électronique, which is to frame electronic certification, as the minister said on 28 September 2026.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Agence nationale de certification électronique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "DR Congo",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

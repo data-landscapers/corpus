@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,HUBIYE,Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,eAqoonsi app,Somalia,other,mobile app,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Certificate Delivery System (CDS),Somalia,,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Government payroll and Somali Financial Management Information System (SFMIS),Somalia,other,SFMIS,"Office of the Accountant General, Ministry of Finance",,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,National identification system,Somalia,other,,National Identification and Registration Authority (NIRA),,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,High School Certificate System (HSC),Somalia,other,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,Hubiye eKYC,Somalia,other,NIRA digital identity (Hubiye),NIRA with UNDP support,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,Commercial bank account opening and KYC (CBS eKYC regulation),Somalia,other,,Central Bank of Somalia with commercial banks,,2025-07-29-somalia-cbs-kyc-id-verification-banking
+SOM,eAqoonsi,Somalia,authentication,mobile app,NIRA,,2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate
+SOM,eAqoonsi,Somalia,authentication,,NIRA,app with OTP verification,2026-04-24-somalia-eaqoonsi-app-dpi
+SOM,National ID (11-digit number),Somalia,other,,NIRA,in-person registration,2026-04-24-somalia-eaqoonsi-app-dpi
+SOM,National Identification Number (Tirsi Aqoonsi),Somalia,other,,NIRA,"certificate, digital mobile ID, physical card",2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance
+SOM,HUBIYE Verification Platform,Somalia,authentication,,NIRA,,2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance
+SOM,Somalia national ID,Somalia,other,,NIRA,,2025-11-26-somalia-national-id-issuance-reaches-1m
+SOM,identity number issued by the National Identification and Registration Authority,Somalia,other,,National Identification and Registration Authority,,2026-09-09-som-somalidigest-nira-id-behind-every-social-media-account
+SOM,OpenCRVS Unified Digital Civil Registration System,Somalia,other,OpenCRVS,,,2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System

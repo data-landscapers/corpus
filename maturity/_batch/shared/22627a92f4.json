@@ -1,0 +1,9 @@
+{"slug": "2025-06-05 São Tomé and Principe pilots MOSIP-based national digital ID system", "studies": {
+"authentication": {"countries": {"STP": {"facts": [], "systems": [{"system": "national digital ID system (MOSIP-based)", "country_label": "São Tomé and Príncipe", "class": "idsystem", "platform": "MOSIP", "owner": "", "tiers": ""}], "note": "The document states no authentication, e-signature or PKI service."}}},
+"birthidlink": {"countries": {"STP": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "A Justice Ministry official says the MOSIP-based digital ID pilot is anchored on birth registration and that 'we started with civil registration'.", "as_of": "2025-06-05", "date_precision": "day", "system": "national digital ID system (MOSIP-based)", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "Gives 98% of the population with a birth certificate (World Bank, 2023), not people enrolled in the ID system."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "States no number given at birth."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "Pilot only; states no operator, maintainer or in-service ownership."}}},
+"idregisters": {"countries": {"STP": {"facts": [], "systems": [], "note": "States no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"STP": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "A Justice Ministry official says the country is in the pilot phase of a national digital ID on MOSIP, begun in 2024, with no fixed timeline for full-scale deployment.", "as_of": "2025-06-05", "date_precision": "day", "system": "national digital ID system (MOSIP-based)", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

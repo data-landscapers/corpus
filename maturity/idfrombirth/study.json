@@ -1,0 +1,169 @@
+{
+ "id": "idfrombirth",
+ "study_file": "maturity-study-idfrombirth.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--digital-id-from-birth"
+ ],
+ "carry": [
+  "dpi.id--digital-id-from-birth"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "birth registration",
+  "birth certificate",
+  "birth certificates",
+  "registered at birth",
+  "civil registration",
+  "civil registry",
+  "civil register",
+  "CRVS",
+  "vital statistics",
+  "death registration",
+  "population register",
+  "population registry",
+  "enregistrement des naissances",
+  "déclaration des naissances",
+  "acte de naissance",
+  "actes de naissance",
+  "état civil",
+  "état-civil",
+  "registre de la population",
+  "registo de nascimento",
+  "registo civil",
+  "registro civil",
+  "certidão de nascimento",
+  "assento de nascimento",
+  "تسجيل المواليد",
+  "شهادة الميلاد",
+  "الحالة المدنية",
+  "السجل المدني",
+  "NIN at birth",
+  "number at birth",
+  "numéro dès la naissance",
+  "identifiant à la naissance",
+  "numéro d'identification unique à la naissance"
+ ],
+ "sub_indicators": [
+  {
+   "key": "frombirth",
+   "label": "Digital id from birth",
+   "subject": "dpi.id",
+   "text": "Digital id from birth: digital id from birth",
+   "indicator_id": "dpi.id--digital-id-from-birth-digital-id-from-birth",
+   "class": "birthnumber",
+   "norm_short": "The African Union's Digital Transformation Strategy asks for a digital legal identity for every person from birth, through civil registration; the SDG target is all births and 80% of deaths registered.",
+   "criteria": [
+    "A source from the past three years says a birth creates no identity record: registration and ID are separate, or registration is on paper only.",
+    "A law or programme provides for a unique ID number at birth, or it is piloted in some districts or facilities.",
+    "Children receive a unique ID number when their birth is registered, in at least part of the country.",
+    "Every birth registered in the country receives the number, the birth record creating the identity record.",
+    "Birth registration reaches all births, each given the number, and death registration 80% or more."
+   ],
+   "criteria_of": "65d5667eabfc"
+  }
+ ],
+ "classes": [
+  "birthnumber",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "number",
+   "name": "Number given at birth",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "national",
+   "name": "Given nationally",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "national"
+   ],
+   "values": [
+    "national"
+   ]
+  },
+  {
+   "key": "complete",
+   "name": "All births registered",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "target"
+   ],
+   "values": [
+    "target"
+   ]
+  }
+ ],
+ "flags": []
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "2026-08-24-angola-med-matricula-escolas-sem-bi",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "AGO",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document gives no fact on the national ID system itself; it concerns undocumented children and school enrolment."
+    }
+   }
+  }
+ }
+}

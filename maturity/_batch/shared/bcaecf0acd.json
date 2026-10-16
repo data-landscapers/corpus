@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-05-sierra-leone-mch-handbook-valid-for-birth-registration",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only states the MCH Handbook will be recognised as valid for birth registration; no link between civil register and ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Recognition of a handbook for birth registration; no ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-07-nigeria-nin-62-5-million-gap-world-bank-id4d",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank report, as reported by TechCabal, says NIMC had issued NINs to 117.5 million people out of 134.6 million enrolments at 30 June 2026.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "TechCabal reports that enrolment captures demographic and biometric data and that issuance follows processing, validation and deduplication against the national database, as explained by two commentators.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank's August 2026 assessment says the NIMS 2.0 system integrator contract, built around MOSIP, was being finalised, with implementation expected to take about 18 months.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIMS 2.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "NIMS 2.0",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

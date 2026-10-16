@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-namibian-sun-govt-dismisses-mark-of-the-beast-eid",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The home affairs ministry is preparing to launch e-ID smart cards in September 2026, with banks to authenticate a customer by matching a fingerprint to the card chip and the Prime Minister's office describing identity federation ('one credential for all').",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "e-ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

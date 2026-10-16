@@ -1,0 +1,18 @@
+{"slug": "2026-08-05-faydaverse-ethiopia-dpi-soe", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Fayda handles up to 2 million authentication requests a day and has been used for over 190 million authentications, according to its executive director.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "One hundred and fifty enterprises have integrated Fayda to carry out biometric KYC checks, per the article.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda", "class": "authentication"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "Faydaverse (state-owned enterprise under Ethiopian Investment Holdings)", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document does not mention the civil register."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "Ethiopia's national digital ID system is nearing 50 million registrations per the government announcement; against the 135.5 million population given that is about 37%, calculated here, and unaudited.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document says nothing about numbers at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "Faydaverse, the former National ID Program, was inaugurated as a state-owned enterprise under Ethiopian Investment Holdings with a mandate to develop, operate and scale digital public infrastructure, and operates the national digital ID system.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Ethiopia's national digital ID system, Fayda, is nearing 50 million registrations and is operated by Faydaverse, per the government announcement.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda", "class": "idsystem"}],
+"systems": [], "note": ""}}}
+}}

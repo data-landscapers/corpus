@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update, citing a WISeKey announcement, reports the SeyID digital identity platform has been delivered and deployed for the Seychelles government, holding the National ID in a wallet with a QR-verifiable digital ID card.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

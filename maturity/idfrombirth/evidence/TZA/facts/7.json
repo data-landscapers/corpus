@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-tanzania-legislative-framework-infant-id-registration",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "NIDA's Director General says an Infant Registration Bill, to be tabled from 27 January 2026, would register children at birth and assign a unique identification number used to issue a national digital ID card at 18.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "NIDA national ID",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (NIDA)",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

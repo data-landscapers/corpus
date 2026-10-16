@@ -1,0 +1,68 @@
+{
+ "slug": "2026-02-09-ecowas-roadmap-foundational-id-to-enbic-consultation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention Guinea-Bissau by name."
+    }
+   }
+  }
+ }
+}

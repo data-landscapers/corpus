@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-26-amecc-civil-registry-computerisation-validation-workshop-alwatwan",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers computerising the civil register on its own and states no link to the ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No identity number at birth is mentioned; the project covers civil registry computerisation."
+    }
+   }
+  }
+ }
+}

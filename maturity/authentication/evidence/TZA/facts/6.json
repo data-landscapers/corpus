@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-02-tza-dailynews-who-protects-your-privacy-pdpc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Ministry of Home Affairs figures say NIDA connected 17 institutions to its Registration and Identification System between July 2025 and April 2026, bringing the total connected to 147.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NIDA Registration and Identification System"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The 147 connected institutions comprise 66 public and 81 private institutions, per the Ministry of Home Affairs.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NIDA Registration and Identification System"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA Registration and Identification System",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  },
+  {
+   "system": "SIM card registration",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "TCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

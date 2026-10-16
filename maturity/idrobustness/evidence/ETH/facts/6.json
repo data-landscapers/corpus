@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-04-ethioaffairs-fayda-digital-id-foreign-nationals-requirements",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ethio Affairs reports that foreign nationals residing in Ethiopia must present valid status documents when registering for the Fayda Digital ID, with fingerprints, iris scans and facial photographs captured in person.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Fayda Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda Digital ID",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

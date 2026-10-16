@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update quotes the DGSN digital ID head saying the national ID card management system has been used since the 1950s.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "national ID card management system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card management system",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,13 @@
+# Botswana
+
+## Authentication
+
+**Authentication service.** [Business Tech Africa reports that the Bankers' Association of Botswana has launched a national eKYC project that lets banks verify customer identities against the national citizen database](<https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier>). [Weekend Post reports a P423 million public key infrastructure for digital identity, encryption and electronic signatures was funded and handed to the Directorate of Intelligence and Security, but remains incomplete and non-operational, per the Permanent Secretary at a Public Accounts Committee hearing](<https://weekendpost.co.bw/p420-million-digital-bombshell/>). [The speech reports the Health Information Exchange's Client Registry, which identifies patients uniquely by Omang or passport number, as ready for deployment](<https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf>).
+
+**Used across services.** [The diagnostic names the electoral system, social benefits (SOBERS), government payroll and the transport system as linked to the national identity system, which is more than one sector (2015, before the three-year window)](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier>).
+
+***Noted, not assessed***. [National Identity Management System (NIS) / Omang](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>); [Electoral system](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>); [Social Benefit Registration System (SOBERS)](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>); [Government payroll](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>); [Transport system](<https://documents1.worldbank.org/curated/en/864651486101539760/pdf/Botswana-ID4D-DiagnosticWeb040418.pdf>); [National electronic Know-Your-Customer (eKYC) project](<https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier>).
+
+***Not held***. No source held since October 2023 says authentication is used across services or channels.

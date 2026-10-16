@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-lagazettedescomores-amecc-etat-civil-enterrer-registres-papier",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "none",
+   "fact": "The AMECC project says the Comorian civil registration system is still largely dependent on old paper registers, and some people, including children, still hold no birth extract in 2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "civil registration (AMECC project)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AMECC civil registration modernisation",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

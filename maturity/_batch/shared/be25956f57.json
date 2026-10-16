@@ -1,0 +1,79 @@
+{
+ "slug": "2024-01-01-social-security-services-mauritius",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Government Information Service says National Savings Fund employer returns must give each employee's National Identity Card number with contributions paid.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National Savings Fund returns",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

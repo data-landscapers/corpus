@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-06-som-somalia-moves-to-link-national-id-with-public-services",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIRA national identification",
+       "country_label": "SOM",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned link of NIRA services to the HALMEEL service centre; no stated service, register or figure."
+    }
+   }
+  }
+ }
+}

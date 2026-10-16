@@ -1,0 +1,88 @@
+{
+ "slug": "2026-09-29-nga-fmino-agrow-national-digital-farmers-register",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a farmers register; Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Nigeria's agriculture ministry has a partnership with NIMC to link farmers to their National Identity Number, building toward a national digital farmers register, per the minister.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "National Identity Number (NIN)",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Number (NIN)",
+       "country_label": "NGA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

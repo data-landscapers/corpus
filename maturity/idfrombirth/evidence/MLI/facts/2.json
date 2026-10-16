@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "none",
+   "fact": "Mali's DNEC describes a paper community chain of village notebooks feeding birth registration and names a move to a digital model as a perspective, with no identity number given at birth.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "community declaration chain",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

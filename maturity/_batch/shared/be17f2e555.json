@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-19-ssd-jubaecho-civil-registry-nigeria-ethiopia",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports study visits and interest in technical support, and states nothing on this."
+    }
+   }
+  }
+ }
+}

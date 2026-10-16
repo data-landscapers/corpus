@@ -1,0 +1,108 @@
+{
+ "slug": "2026-02-01-national-registration-bureau-malawi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The NRB homepage lists linkages of the National ID with Airtel Malawi for SIM registration and mobile money, and with Ecobank, National Bank of Malawi, NBS Bank, Standard Bank, First Capital Bank, Centenary Bank and Mukuru for KYC identity verification.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National ID KYC and SIM registration linkages"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The NRB homepage lists National ID linkages with public bodies (Malawi Revenue Authority, Immigration, Electoral Commission, Financial Intelligence Authority, Department of Human Resource, Ministry of Agriculture) and private telecoms and banks.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National ID linkages with public and private sectors"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Electoral Commission voter roll",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "FISP beneficiary identification (Ministry of Agriculture)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Malawi SIM registration and mobile money",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Bank KYC integrations",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ecobank; National Bank of Malawi; NBS Bank; Standard Bank; First Capital Bank; Centenary Bank; Mukuru",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Revenue Authority taxpayer identification",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Department of Immigration identity verification",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Financial Intelligence Authority KYC/AML link",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Department of Human Resource payroll verification",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NID-EMR Integration (Ministry of Health)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

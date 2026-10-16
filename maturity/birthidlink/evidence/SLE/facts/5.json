@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The NCRA, under the 2016 Act, is legally mandated to manage civil registration, vital statistics and national identity systems, per its Director-General.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NIN, National Biometric Identity Management System",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "One body, the NCRA, holds both civil registration and the national identity system, per its Director-General.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NIN, National Biometric Identity Management System",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identity Management System / NIN",
+   "country_label": "Sierra Leone",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

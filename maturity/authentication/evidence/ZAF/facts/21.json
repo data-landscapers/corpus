@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-zaf-citizen-green-id-book-end-digital-id-prototype",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Minister Leon Schreiber unveiled South Africa's first working digital identity credential, bound to his own smartphone, as a prototype.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Digital ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital ID",
+   "country_label": "South Africa",
+   "class": "authentication",
+   "platform": "smartphone credential",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

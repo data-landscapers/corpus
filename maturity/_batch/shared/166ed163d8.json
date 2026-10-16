@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-09-oneci-renforce-capacites-speakers-langues-locales-linfodrome",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes birth registration at health centres, not a link to the ID system or a number at birth."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes birth registration at health centres, not a link to the ID system or a number at birth."
+    }
+   }
+  }
+ }
+}

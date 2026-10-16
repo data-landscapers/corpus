@@ -1,1 +1,187 @@
-{"slug":"2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure","studies":{"dataexchange":{"countries":{"SLE":{"facts":[{"sub_indicator":"exchange","aspect":"platform","value":"underway","fact":"The NCRA Director-General said the Ministry of Finance is piloting a national Data Exchange Layer based on Estonia's X-Road; no figures given.","as_of":"2026-08-05","date_precision":"day","system":"national Data Exchange Layer (X-Road based)","class":"exchange"}],"systems":[{"system":"national Data Exchange Layer (X-Road based)","country_label":"Sierra Leone","class":"exchange","platform":"X-Road","owner":"Ministry of Finance","tiers":""}],"note":""}}},"idverification":{"countries":{"SLE":{"facts":[{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"The NCRA Director-General said the NCRA operates an eKYC platform integrated with multiple institutions (unnamed, uncounted) enabling identity verification against the NIN, which covers about 93 per cent of the population.","as_of":"2026-08-05","date_precision":"day","system":"NCRA eKYC platform","class":"relying"}],"systems":[{"system":"NCRA eKYC platform","country_label":"Sierra Leone","class":"relying","platform":"","owner":"NCRA","tiers":""},{"system":"National Biometric Identity Management System","country_label":"Sierra Leone","class":"other","platform":"","owner":"NCRA","tiers":""}],"note":""}}}}}
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The NCRA, under the 2016 Act, is legally mandated to manage civil registration, vital statistics and national identity systems, per its Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "crvslink"
+      },
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "One body, the NCRA, holds both civil registration and the national identity system, per its Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The NCRA's biometric system has registered about 93 per cent of the population, each with a NIN (about 8.2 million of 8.8 million), per the Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "twothirds",
+       "fact": "About 93 per cent of the population is registered with a NIN, per the Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": "Only a vision that every Sierra Leonean be registered at birth with a lifelong identity; no number at birth is stated as provided."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The NCRA has developed the National Biometric Identity Management System and a Tier III data centre and operates an eKYC platform, per its Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": "No public register keyed on the NIN is stated; the eKYC platform serves institutions and the X-Road pilot is a data exchange layer."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NCRA's National Biometric Identity Management System has registered about 93 per cent of the population, each assigned a unique NIN, per the Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The system is biometric and the NINs are described as secure and non-duplicable, per the Director-General.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "NIN, National Biometric Identity Management System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identity Management System / NIN",
+       "country_label": "Sierra Leone",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

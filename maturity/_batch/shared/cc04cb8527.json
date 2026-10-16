@@ -1,0 +1,68 @@
+{
+ "slug": "2025-12-05-ids-digital-id-in-africa-report-botswana-case-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."
+    }
+   }
+  }
+ }
+}

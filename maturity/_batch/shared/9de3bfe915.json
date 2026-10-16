@@ -1,0 +1,9 @@
+{"slug":"2026-04-30-uniph-crvs-technical-working-group","studies":{
+"authentication":{"countries":{"UGA":{"facts":[],"systems":[{"system":"National Security Information System (NSIS)","country_label":"Uganda","class":"other","platform":"","owner":"NIRA","tiers":""}],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Meeting item on health-facility death process and data sharing; no record exchange between civil register and ID system is stated."}}},
+"idcoverage":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No enrolment count or share."}}},
+"idfrombirth":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No operation or maintenance statement."}}},
+"idregisters":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No register keyed on the ID number is mentioned."}}},
+"idrobustness":{"countries":{"UGA":{"facts":[],"systems":[{"system":"National Security Information System (NSIS)","country_label":"Uganda","class":"other","platform":"","owner":"NIRA","tiers":""}],"note":"NSIS is only named as presented; nothing says it issues unique identities."}}}
+}}

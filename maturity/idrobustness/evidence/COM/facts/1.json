@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-genkey-officially-succeeds-semlex-biometric-production-alwatwan",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Al-Watwan reports that GenKey took over production of Comorian biometric documents, passports and national identity cards, on 31 March 2026 after Semlex held the concession from 2007.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Comoros biometric document production (passports and national identity cards)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

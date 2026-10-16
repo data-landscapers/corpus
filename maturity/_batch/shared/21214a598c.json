@@ -1,0 +1,8 @@
+{"slug": "2026-10-06-ken-kenyans-e-notification-birth-registration-sha-hospitals", "studies": {
+"birthidlink": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Immigration PS Belio Kipsang said on 6 October 2026 the Interior Ministry was finalising talks with the Ministry of Health to integrate the civil registration system with hospital management systems, and that the UPI system is being integrated with education and civil registration records.", "as_of": "2026-10-06", "date_precision": "day", "system": "Unique Personal Identifier (UPI)", "class": "crvslink"}
+], "systems": [{"system": "Unique Personal Identifier (UPI)", "country_label": "Kenya", "class": "birthnumber", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "PS Belio Kipsang said on 6 October 2026 that rolling out e-notification to SHA-contracted hospitals by December 2026 would enable children to receive a Unique Personal Identifier (UPI), intended as a common identifier across government systems.", "as_of": "2026-10-06", "date_precision": "day", "system": "Unique Personal Identifier (UPI)", "class": "birthnumber"}
+], "systems": [{"system": "Unique Personal Identifier (UPI)", "country_label": "Kenya", "class": "birthnumber", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}}
+}}

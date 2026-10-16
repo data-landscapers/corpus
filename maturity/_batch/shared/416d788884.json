@@ -1,0 +1,153 @@
+{
+ "slug": "2025-02-25-birth-registration-reforms-automatic-id-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": "Not stated for Kenya in this document."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": "Not stated for Kenya in this document."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": "Not stated for Kenya in this document."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": "Not stated for Kenya in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": "Not stated for Kenya in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Authorities say birth registration is being digitised and linked to the national ID system through Maisha Namba, and the Interior Secretary says the data for automatic ID issuance at 18 will come from the civil registry.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Maisha Namba",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The Interior Secretary says the coming system will give every Kenyan registered at birth a Unique Personal Identifier, serving as the birth certificate number and later the national ID identifier at 18.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Maisha Namba",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": "UPI at birth, national ID at 18"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

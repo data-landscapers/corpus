@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-03-som-from-e-visas-to-nira-mogadishus-bureaucratic-war-on-ordinary-travelers",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Federal authorities have made the NIRA card mandatory for domestic air travel and NIRA centres issue it in Mogadishu, but there is no NIRA office in Puntland (Warsame).",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "NIRA card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA card",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification and Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

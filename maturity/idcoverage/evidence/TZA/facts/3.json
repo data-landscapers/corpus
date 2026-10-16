@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIDA says it has registered 27,520,835 people and issued 23,515,667 National Identification Numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

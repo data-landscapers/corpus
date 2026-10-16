@@ -1,0 +1,17 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "link",
+   "stage": "2",
+   "link": "underway",
+   "events": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-003;TCD-004",
+   "gaps": "No source held since October 2023 says: is one link in service.",
+   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
+  }
+ ]
+}

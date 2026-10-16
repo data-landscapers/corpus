@@ -1,0 +1,79 @@
+{
+ "slug": "2025-07-26 Eritrea's population digital identity - challenges ahead",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "none",
+       "fact": "The profile states Eritrea has no operational foundational digital ID and no foundational ID exists yet.",
+       "as_of": "2025-07-26",
+       "date_precision": "day",
+       "system": "",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

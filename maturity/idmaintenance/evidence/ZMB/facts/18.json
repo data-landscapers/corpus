@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "ID Tech reports that SMART Zambia developers were trained on MOSIP by IHM's team, with the programme aimed at letting Zambian developers independently manage and maintain the platform.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based eKYC / digital ID",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

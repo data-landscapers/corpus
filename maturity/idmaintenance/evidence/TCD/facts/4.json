@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-tchadinfos-anats-nni-bacheliers-rentree-universitaire",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ANATS's director general instructs its user reception centres and the Système Intégré Sécurisé director to enrol school leavers for the NNI with priority, so the national agency runs enrolment.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numéro National d'Identification (NNI)",
+   "country_label": "TCD",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2025-05-12 Namibia to step up civil registration efforts with $9M budget",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The article describes Namibia's national digital ID rollout as imminent.",
+       "as_of": "2025-05-12",
+       "date_precision": "day",
+       "system": "Namibia digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

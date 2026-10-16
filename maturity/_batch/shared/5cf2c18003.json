@@ -1,68 +1,8 @@
-{
- "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE",
- "studies": {
-  "dataexchange": {
-   "countries": {
-    "LSO": {
-     "facts": [
-      {
-       "sub_indicator": "exchange",
-       "aspect": "platform",
-       "value": "underway",
-       "fact": "A progress review at MICSTI and the National University of Lesotho received a presentation of X-Road as a system to connect government ministries and enable electronic information sharing, among systems that 'will modernize' services; no service date or connected bodies are given.",
-       "as_of": "2026-02-20",
-       "date_precision": "day",
-       "system": "X-Road",
-       "class": "exchange"
-      }
-     ],
-     "systems": [
-      {
-       "system": "X-Road",
-       "country_label": "Lesotho",
-       "class": "exchange",
-       "platform": "X-Road",
-       "owner": "MICSTI",
-       "tiers": ""
-      },
-      {
-       "system": "MOSIP",
-       "country_label": "Lesotho",
-       "class": "other",
-       "platform": "MOSIP",
-       "owner": "MICSTI",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "idverification": {
-   "countries": {
-    "LSO": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "MOSIP",
-       "country_label": "Lesotho",
-       "class": "other",
-       "platform": "MOSIP",
-       "owner": "MICSTI",
-       "tiers": ""
-      },
-      {
-       "system": "X-Road",
-       "country_label": "Lesotho",
-       "class": "exchange",
-       "platform": "X-Road",
-       "owner": "MICSTI",
-       "tiers": ""
-      }
-     ],
-     "note": "MOSIP is a biometric ID system, not a relying system; the document states no other system checking people against the ID."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE", "studies": {
+"birthidlink": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The document states nothing about a civil register link."}}},
+"idcoverage": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No count of people enrolled is given."}}},
+"idfrombirth": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The document states nothing about a number at birth."}}},
+"idmaintenance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No statement on who operates, maintains or owns the system in service."}}},
+"idregisters": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No public register keyed on an ID number is named."}}},
+"idrobustness": {"countries": {"LSO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "MICSTI and the National University of Lesotho reviewed progress on MOSIP, which is to provide a secure biometric digital ID for public services.", "as_of": "2026-02-20", "date_precision": "day", "system": "MOSIP", "class": "idsystem"}], "systems": [{"system": "MOSIP", "country_label": "Lesotho", "class": "idsystem", "platform": "MOSIP", "owner": "MICSTI", "tiers": ""}], "note": ""}}}
+}}

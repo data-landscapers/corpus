@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-tza-mwananchi-nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Home Affairs minister Patrobas Katambi reported 27,520,835 people registered with NIDA and 23,515,667 issued a National Identification Number, which is 39% and 33% of the 70.5 million population (shares computed from the population held; figures as corrected in the record's summary, the body text differing).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Identification Number (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

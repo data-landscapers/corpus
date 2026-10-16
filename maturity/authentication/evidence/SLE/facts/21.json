@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Sierra Leone's Ministry of Communication, Technology and Innovation, Bhutan NDI and the Sign Foundation signed an MoU to design and implement a digital identity platform using W3C-compliant verifiable credentials.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Sierra Leone digital identity platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sierra Leone digital identity platform",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "Sign / Bhutan NDI open-source framework",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,164 @@
+{
+ "id": "birthidlink",
+ "study_file": "maturity-study-birthidlink.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--interoperability-of-birth-registration-and-digital-id"
+ ],
+ "carry": [
+  "dpi.id--interoperability-of-birth-registration-and-digital-id"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "birth registration",
+  "birth certificate",
+  "birth certificates",
+  "registered at birth",
+  "civil registration",
+  "civil registry",
+  "civil register",
+  "CRVS",
+  "vital statistics",
+  "death registration",
+  "population register",
+  "population registry",
+  "enregistrement des naissances",
+  "déclaration des naissances",
+  "acte de naissance",
+  "actes de naissance",
+  "état civil",
+  "état-civil",
+  "registre de la population",
+  "registo de nascimento",
+  "registo civil",
+  "registro civil",
+  "certidão de nascimento",
+  "assento de nascimento",
+  "تسجيل المواليد",
+  "شهادة الميلاد",
+  "الحالة المدنية",
+  "السجل المدني"
+ ],
+ "sub_indicators": [
+  {
+   "key": "link",
+   "label": "Interoperability of birth registration and digital id",
+   "subject": "dpi.id",
+   "text": "Interoperability of birth registration and digital id: interoperability of birth registration and digital id",
+   "indicator_id": "dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id",
+   "class": "crvslink",
+   "norm_short": "The African Union's interoperability framework and the African ministers responsible for civil registration ask that civil registration, vital statistics and the ID system work as one, each event updating the others.",
+   "criteria": [
+    "A source from the past three years says the civil register and the ID system do not exchange records.",
+    "A link between the civil register and the ID system is planned, contracted or piloted, or one body is made responsible for both.",
+    "Records pass one way or for one event, such as births feeding the ID system, or one body holds both registers.",
+    "Births enrol people in the ID system and deaths retire their ID numbers.",
+    "A source from the past three years gives a figure for records exchanged, numbers retired on death or records reconciled."
+   ],
+   "criteria_of": "c09617b9a25f"
+  }
+ ],
+ "classes": [
+  "crvslink",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "link",
+   "name": "Civil register linked to ID",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "events",
+   "name": "Both ways",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "both"
+   ],
+   "values": [
+    "both"
+   ]
+  },
+  {
+   "key": "reported",
+   "name": "Exchange reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2026-02-10-mobile-id-launch-wearetech",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Djibouti's President launched the Mobile ID digital identity platform on 9 February 2026, with biometric data held by the Interior Ministry.",
+       "as_of": "2026-02-09",
+       "date_precision": "day",
+       "system": "Mobile ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Djibouti",
+       "class": "idsystem",
+       "platform": "smartphone and unique digital identifier",
+       "owner": "Interior Ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

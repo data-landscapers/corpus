@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-26-govt-enhances-registration-new-technology",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "IPRS",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "IPRS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPRS",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

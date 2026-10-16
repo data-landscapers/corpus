@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-23-dha-npr-verification-service-pricing-correction",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Home Affairs says it has provided the Online Verification System since 2013, letting registered third parties such as banks and financial service providers check clients' identities against the National Population Register.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Online Verification System (OVS)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Home Affairs says an upgraded OVS rolls out to all companies and government users from 1 July 2025, with a failure rate below 1% against more than 50% before, at R10 real-time and R1 batch.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "Online Verification System (OVS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Verification System (OVS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "National Population Register",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

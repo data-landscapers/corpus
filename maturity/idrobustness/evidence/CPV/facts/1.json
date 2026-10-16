@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Cabo Verde issues a Unique Identification Number to every child born, within a national ID system its presenters call the backbone of future authentication.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Unique Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unique Identification Number / national ID system",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "IMIJ (Justice Ministry)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-02-cib-aes-lancement-traore-enrolement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Carte d'identité biométrique AES (CIB-AES)",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office national d'identification (ONI)",
+   "tiers": "card"
+  }
+ ],
+ "note": "Not stated for this country."
+}

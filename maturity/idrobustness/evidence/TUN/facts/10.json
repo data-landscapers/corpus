@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Mobile ID is described as a phone-linked login, not as a register issuing a unique identity per person."
+}

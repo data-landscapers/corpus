@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "SIGPTS assigns a unique National Identification Number to registered individuals after enrolment and deduplication, per We are Tech.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGPTS",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

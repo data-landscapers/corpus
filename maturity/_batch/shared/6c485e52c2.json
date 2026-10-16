@@ -1,0 +1,70 @@
+{
+ "slug": "2026-02-16 Comoros - Anjouan (Ndzuani) to produce its own biometric ID cards (Genkey replaces Semlex)",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Comoros issues biometric national ID cards, produced in Moroni, with printing to start on Ndzuani and Genkey replacing Semlex as producer from April 2026.",
+       "as_of": "2026-02-12",
+       "date_precision": "day",
+       "system": "biometric national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

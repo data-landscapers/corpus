@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-03-som-from-e-visas-to-nira-mogadishus-bureaucratic-war-on-ordinary-travelers",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The federal National Identification and Registration Authority runs the NIRA card, which a Mogadishu resident can obtain at a NIRA centre, with no NIRA registration office in Puntland (op-ed by Ismail H Warsame).",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "NIRA card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

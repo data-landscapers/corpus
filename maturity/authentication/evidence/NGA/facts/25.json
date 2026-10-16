@@ -1,0 +1,76 @@
+{
+ "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NIRSAL's farmer registration for subsidised inputs and loans required entering the National Identity Number, and the system failed to verify a rice farmer in Adamawa State (2024); a GEEP farmer likewise got a 'verification failed' message (reporter's account).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NIRSAL farmer registration"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Federal Ministry of Agriculture launched a National Digital Farmers Registry in 2025, said by the minister to be anchored and accessed through the NIN; the ministry has since noted duplications and inconsistencies in the records.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Digital Farmers Registry"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRSAL registration portal",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRSAL",
+   "tiers": ""
+  },
+  {
+   "system": "GEEP Growth Enhancement Support",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NSIPA",
+   "tiers": ""
+  },
+  {
+   "system": "National Digital Farmers Registry",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Ministry of Agriculture",
+   "tiers": ""
+  },
+  {
+   "system": "NIN",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "BVN",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "CBN",
+   "tiers": ""
+  },
+  {
+   "system": "SIM registration",
+   "country_label": "Nigeria",
+   "class": "",
+   "platform": "",
+   "owner": "mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "2026-08-06-sierra-leone-consults-private-sector-on-trusted-digital-id-framework",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "A July 2026 MoU with Bhutan and the Sign Foundation envisions citizens receiving W3C-compliant verifiable credentials to prove identity, and the government is consulting stakeholders on the governance framework.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "verifiable credentials ecosystem",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "Biometric Update says Sierra Leone's national ID system is based on MOSIP, an open-source platform.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national ID system",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update says Sierra Leone's national ID system is based on MOSIP and is the bedrock of its digital transformation.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national ID system",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

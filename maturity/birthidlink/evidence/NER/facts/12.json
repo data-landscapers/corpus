@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-niger-dosso-civil-status-tour-aneri-decrees",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Niger's deputy secretary general of the Interior ministry announced a forthcoming National Population Register that will be interoperable with civil-status management systems, the biometric national card and travel documents.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

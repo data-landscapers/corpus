@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-05-gha-myjoyonline-nia-ghana-card-children-north-east-upper-east",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NIA continues Ghana Card registration of children aged 6 to 14 in the North East and Upper East Regions from 5 October 2026, after Volta, Oti and Northern Regions, so the card is being issued.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

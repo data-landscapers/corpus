@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-06 Home Affairs on launch of world-class new identity verification service and cost",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Home Affairs says its relaunched verification service against the National Population Register went live on 1 July 2025, with the justice cluster (SASSA, SAPS, Justice) onboarded and three private-sector users already moved over.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "NPR identity verification service (OVS)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "Home Affairs says the service supports social grant payments (SASSA), policing and justice, banking and insurance, for government and private-sector users.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "NPR identity verification service (OVS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPR identity verification service (OVS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "National Population Register",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "SASSA grant payments",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SASSA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

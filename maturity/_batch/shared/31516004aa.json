@@ -1,0 +1,88 @@
+{
+ "slug": "2026-08-18-minjusdh-programa-universalizacao-bi-egito-praia",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Benguela justice delegation issued and delivered more than 4,000 Bilhetes de Identidade in 16 days in Egito Praia under the BI universalisation programme.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "platform": "",
+       "owner": "Ministerio da Justica e dos Direitos Humanos",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

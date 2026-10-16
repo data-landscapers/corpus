@@ -1,0 +1,164 @@
+{
+ "slug": "2026-05-26-new-digital-id-you-control-everything-ktpress",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "KT Press says the new Single Digital ID, held in a phone wallet with consent-based data sharing, is being phased in through June 2027 with enrolment under way.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Single Digital ID (SDID)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "KT Press says children receive their first digital ID from birth, with a facial photo from age four and fingerprints and iris at five.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Single Digital ID (SDID)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "KT Press says Rwanda is enrolling citizens by photo, fingerprint and iris for the new Single Digital ID, phased in through June 2027 with old cards deactivated after.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Single Digital ID (SDID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

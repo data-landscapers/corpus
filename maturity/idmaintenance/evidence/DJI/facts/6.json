@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The DGPF's own agents run enrolment, checks and duplicate resolution on the national register, according to the head of its central NNI service.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

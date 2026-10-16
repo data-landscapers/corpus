@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-mwi-digital-gap-nzika-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article refers to the existing physical National Identity Card, which the Nzika wallet complements, and says National Identity Cards will no longer have expiry dates.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-cm-civil-registration-funding-gap",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "BUNEC's director general says BUNEC is already deploying an inter-administrative platform to link the civil registration system and the national ID system.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "inter-administrative platform",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

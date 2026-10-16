@@ -1,0 +1,8 @@
+{"slug": "2026-05-21-sudan-launches-sudapass-digital-id", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry.", "as_of": "2026-05-21", "date_precision": "day", "system": "SUDAPASS", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Says who implements the project but not who operates, maintains or owns the platform."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No public register keyed on the ID is mentioned."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Ministry of Digital Transformation and Telecommunications officially launched the national digital identity project SUDAPASS in Khartoum on 21 May 2026 and officials demonstrated the system interface.", "as_of": "2026-05-21", "date_precision": "day", "system": "SUDAPASS", "class": "idsystem"}], "systems": [{"system": "SUDAPASS", "country_label": "Sudan", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Transformation and Telecommunications", "tiers": ""}], "note": ""}}}
+}}

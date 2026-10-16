@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-togo-civil-registration-law-review-togofirst",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Togo First says civil registration is becoming more closely integrated with the identification system through the rollout of the unique identification number.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "unique identification number",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "unique identification number",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

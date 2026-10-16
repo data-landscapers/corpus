@@ -1,0 +1,9 @@
+{"slug":"2026-09-02-anats-tchad-site-officiel-nni-sigpts","studies":{
+"authentication":{"countries":{"TCD":{"facts":[],"systems":[{"system":"SIGPTS","country_label":"Chad","class":"idsystem","platform":"","owner":"ANATS","tiers":""}],"note":"The page names no online authentication service."}}},
+"birthidlink":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The page lists civil-status services but states no exchange of records between the civil register and the ID system."}}},
+"idcoverage":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
+"idfrombirth":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The NNI is assigned after enrolment and deduplication; no number at birth is stated."}}},
+"idmaintenance":{"countries":{"TCD":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"ANATS, a public establishment created by Ordonnance N°001/PR/2016, states it is responsible for producing, managing and securing identity cards and other secure titles, and that it set up the SIGPTS.","as_of":"2026-09-02","date_precision":"day","system":"SIGPTS","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No public register keyed on the NNI is stated."}}},
+"idrobustness":{"countries":{"TCD":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The ANATS site states that the SIGPTS, after enrolment and deduplication, assigns every individual, including refugees and resident or transiting foreigners, a unique randomly generated NNI, with 29 enrolment centres listed.","as_of":"2026-09-02","date_precision":"day","system":"SIGPTS","class":"idsystem"}],"systems":[],"note":""}}}
+}}

@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-10-south-sudan-immigration-digital-reform-handover",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports stock of ID cards and a civil registration MoU; no statement answering this question."
+    }
+   }
+  }
+ }
+}

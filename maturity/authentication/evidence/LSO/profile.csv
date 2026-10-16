@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,authentication,service,coverage,inservice,2026-06,LSO-003,LSO-004=underway;LSO-002=underway;LSO-001=underway;LSO-005=none,
+LSO,authentication,reach,coverage,,,,,nothing held
+LSO,authentication,remote,coverage,,,,,nothing held

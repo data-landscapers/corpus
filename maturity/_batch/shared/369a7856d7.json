@@ -1,0 +1,9 @@
+{"slug": "2026-03-27-comoros-civil-registry-digitisation-pin-wearetech", "studies": {
+"authentication": {"countries": {"COM": {"facts": [], "systems": [], "note": "No authentication service, e-signature or PKI is mentioned."}}},
+"birthidlink": {"countries": {"COM": {"facts": [], "systems": [], "note": "The PIN reform centralises civil registry data, but no link to a separate national ID system is stated."}}},
+"idcoverage": {"countries": {"COM": {"facts": [], "systems": [], "note": "No count or share of people holding an ID is given."}}},
+"idfrombirth": {"countries": {"COM": {"facts": [], "systems": [], "note": "The PIN is not said to be given at birth registration."}}},
+"idmaintenance": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains an ID system."}}},
+"idregisters": {"countries": {"COM": {"facts": [], "systems": [], "note": "Interoperability with other state systems is planned but no register keyed on the PIN is named."}}},
+"idrobustness": {"countries": {"COM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "On 25 March 2026 Comoros authorities validated preparatory studies in Moroni for digitising the civil registry, introducing a unique Personal Identification Number as the cornerstone of citizen identity, under the Amecc programme funded by the French Embassy with UNICEF support.", "as_of": "2026-03-25", "date_precision": "day", "system": "Personal Identification Number (PIN)", "class": "idsystem"}], "systems": [{"system": "Personal Identification Number (PIN)", "country_label": "Comoros", "class": "idsystem", "platform": "", "owner": "Government of Comoros (Amecc programme)", "tiers": ""}], "note": ""}}}
+}}

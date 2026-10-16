@@ -1,0 +1,88 @@
+{
+ "slug": "2025-12-10 NBE launches full integration of Fayda digital ID with the banking system",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Banks harmonise accounts with Fayda and receive enrolment kits; no authentication service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Banks are private institutions; no public register keyed on Fayda is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Bank of Ethiopia directive requires all banks to link customer accounts under a single Fayda digital ID from 1 December 2025 to 30 March 2026, with 2,000 biometric kits given to banks for enrolment.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-02-ugd-idms-audit-tdr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IDMS",
+   "country_label": "MDG",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Presidency / UGD (PRODIGY)",
+   "tiers": ""
+  }
+ ],
+ "note": "The birth registration platform and IDMS are described, but no exchange of records is stated."
+}

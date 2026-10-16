@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-cameroon-birth-registration-drive-schools-legal-identity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BUNEC civil status registration",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "BUNEC",
+   "tiers": ""
+  }
+ ],
+ "note": "Birth certificates are issued but no identity number at birth is stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-14-ghana-card-number-at-birth-system-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification Register",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Who operates and maintains the system is not stated."
+}

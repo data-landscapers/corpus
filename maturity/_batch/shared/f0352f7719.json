@@ -1,0 +1,87 @@
+{
+ "slug": "2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The NCRA's deputy ICT director says Sierra Leone is piloting MOSIP open-source modules to develop and test a national digital ID system, which could be integrated into the existing infrastructure.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "MOSIP-based national digital ID pilot",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NCRA secure ID (introduced 2023)",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Civil Registration Authority",
+       "tiers": ""
+      },
+      {
+       "system": "MOSIP-based digital ID pilot",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National Civil Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Biometric Update reports that the Mon e-ID mobile app and citizen portal are in use, with 2.5 million active users and over 7 million digital-identity transactions since April 2022 according to DGSN.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Biometric Update reports that the ministries of Justice, Habitat and Youth, CNSS, DGI and TGR have adopted Mon e-ID, with banks and telecoms following.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Biometric Update reports that the Mon e-ID mobile app lets citizens use their digital identity, with native device biometrics for 1:1 verification and 2.5 million active users per DGSN.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mon e-ID",
+   "country_label": "MAR",
+   "class": "authentication",
+   "platform": "iDAKTO with Idemia Smart Identity by IN Group",
+   "owner": "ADD and DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

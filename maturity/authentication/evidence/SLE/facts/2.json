@@ -1,0 +1,42 @@
+{
+ "slug": "2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The World Bank blog says mobile operators and banks are now connecting their systems to the national ID; no date given, so the published date is used.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "Telecom and bank connections to national ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom and bank connections to national ID",
+   "country_label": "SLE",
+   "class": "other",
+   "platform": "",
+   "owner": "mobile operators and banks",
+   "tiers": ""
+  },
+  {
+   "system": "Digital farmer registry",
+   "country_label": "SLE",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Sierra Leone instant payments switch",
+   "country_label": "SLE",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

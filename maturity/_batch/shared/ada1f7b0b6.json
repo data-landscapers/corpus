@@ -1,0 +1,131 @@
+{
+ "slug": "2026-08-13-nigeria-cooperative-digital-id-mou",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CoopID / Cooperative Verification Number",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Seamfix",
+       "owner": "Federal Ministry of Agriculture and Food Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a sectoral cooperative ID, not the national ID system."
+    }
+   }
+  }
+ }
+}

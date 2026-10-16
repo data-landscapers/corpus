@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-07-new-biometric-id-card-center-garoua-northern-cameroon-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Cameroon launched its new biometric national ID card system in February 2025, and production centres in Douala and Garoua issue cards, about 2,000 a day at Garoua.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "new biometric national ID card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national ID card (Augentic contract)",
+   "country_label": "Cameroon",
+   "class": "idsystem",
+   "platform": "Augentic",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

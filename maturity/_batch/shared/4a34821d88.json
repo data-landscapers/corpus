@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Mchumanisi is a proposed general data exchange platform; no link between civil register and ID system or number at birth is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Mchumanisi is a proposed general data exchange platform; no link between civil register and ID system or number at birth is stated."
+    }
+   }
+  }
+ }
+}

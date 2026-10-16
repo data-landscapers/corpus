@@ -1,0 +1,9 @@
+{"slug": "2026-03-23-sao-tome-mne-emissao-passaporte-nao-presencial-diaspora", "studies": {
+"authentication": {"countries": {"STP": {"facts": [], "systems": [], "note": "Only a documentary check of a scanned ID copy by the migration service, not an authentication service."}}},
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No count or share stated."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "Operation and ownership of the ID system not stated."}}},
+"idregisters": {"countries": {"STP": {"facts": [], "systems": [], "note": "Passport application is not a register keyed on the ID number."}}},
+"idrobustness": {"countries": {"STP": {"facts": [], "systems": [], "note": "Document only says a valid Bilhete de Identidade copy is required; nothing on the system."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-16-namibia-expedites-electronic-ids-issuance-itweb",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The home affairs minister said Namibia's electronic identity document, an app or smart card that verifies a person online or in person, is expected to launch in the 2026/27 financial year, for use in government and the private sector.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "electronic identity documents (EID)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic identity documents (EID)",
+   "country_label": "Namibia",
+   "class": "authentication",
+   "platform": "app or smart card",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

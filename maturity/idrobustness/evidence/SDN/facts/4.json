@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-sudantribune-sudapass-digital-bank-data-update-launch",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sudan Tribune says SUDAPASS, a unified national digital identity and secure authentication system, was launched by the digital transformation ministry in May 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SUDAPASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SUDAPASS",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

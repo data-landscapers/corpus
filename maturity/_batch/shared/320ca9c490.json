@@ -1,0 +1,108 @@
+{
+ "slug": "2024-08-15-tech5-mauritania-digital-id-pilot-undp",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "TECH5 says it won a digital ID pilot tender from MTNIMA and UNDP in June 2022, demonstrated on 22 March 2023 and run until 1 October 2023, with biometric login to the eGovernment portal.",
+       "as_of": "2023-10-01",
+       "date_precision": "day",
+       "system": "Houwiyeti",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TECH5 says the Mauritanian government has released the Houwiyeti app, used to access services through biometric identification.",
+       "as_of": "2024-08-15",
+       "date_precision": "day",
+       "system": "Houwiyeti",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "TECH5 says a digital ID is created from a passport or ID card, stored on the holder's phone and verified by selfie to log in to the eGovernment portal; the app has been released.",
+       "as_of": "2024-08-15",
+       "date_precision": "day",
+       "system": "Houwiyeti",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Houwiyeti",
+       "country_label": "MRT",
+       "class": "authentication",
+       "platform": "TECH5 / SmartMS IdP",
+       "owner": "MTNIMA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

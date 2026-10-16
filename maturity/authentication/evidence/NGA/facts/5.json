@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-23-nga-ncw-nimc-ninauth-consent-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NIMC says individuals can use NINAuth to verify identity for SIM registration, immigration and passport processing, tax filings and financial transactions, with consent required before data is shared for KYC (published date used).",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "SIM registration, immigration and passport, tax and financial KYC via NINAuth"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The article names telecommunications, financial services, immigration and taxation as sectors using NIN verification through NINAuth (published date used).",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "NINAuth"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "web, API and mobile",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

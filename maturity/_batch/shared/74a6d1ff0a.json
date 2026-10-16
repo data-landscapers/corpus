@@ -1,0 +1,10 @@
+{"slug": "2026-06-13-presidence-lancement-rdc-pass", "studies": {
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "No civil register link mentioned."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "No operator or maintainer named."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No public register keyed on the number is stated; interoperability is only instructed."}}},
+"idrobustness": {"countries": {"COD": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Presidency says President Tshisekedi launched the national digital identification system RDC-Pass on 13 June 2026, giving each citizen a unique personal digital identifier, with deployment starting the following Monday and proceeding progressively across the country.", "as_of": "2026-06-13", "date_precision": "day", "system": "RDC-Pass", "class": "idsystem"}
+], "systems": [{"system": "RDC-Pass", "country_label": "COD", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Economy", "tiers": "digital identifier; not a national ID card"}], "note": ""}}}
+}}

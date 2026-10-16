@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-23-timeslive-za-home-affairs-id-theft-cases",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Home affairs minister Leon Schreiber said in a parliamentary reply that the department uses biometric enrolment and verification through HANIS, ABIS and the National Population Register to identify suspect identity documents, and is pushing the move from green ID books to smart ID cards.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "Minister Schreiber said HANIS and ABIS support the integrity of the National Population Register through biometric verification and the detection of duplicate, fraudulent, cancelled, blocked or otherwise invalid identity records.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "HANIS / ABIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "HANIS",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "ABIS",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

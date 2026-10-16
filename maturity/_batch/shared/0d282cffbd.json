@@ -1,0 +1,142 @@
+{
+ "slug": "2025-07-03-nec-hands-over-biometric-kits-to-nir",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The National Elections Commission handed over more than 500 biometric kits to the National Identification Registry to boost its enrolment capacity, and the NIR director said the kits still need licensing and technical modifications, following the NIR's May 2024 roadmap for comprehensive national enrollment.",
+       "as_of": "2025-07-02",
+       "date_precision": "day",
+       "system": "National Identification Registry",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

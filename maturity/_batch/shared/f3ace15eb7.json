@@ -1,0 +1,59 @@
+{
+ "slug": "2025-08-22-cross-border-digital-identity-framework",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Eswatini is not named in the text; only a regional SADC eKYC initiative is described."
+    }
+   }
+  }
+ }
+}

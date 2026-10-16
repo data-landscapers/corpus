@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-biometricupdate-ghana-card-digital-wallet-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The NIA Executive Secretary said the Ghana Card e-wallet, letting holders link bank accounts and load mobile money, will be activated in phases, with consultations including the Bank of Ghana at an advanced stage.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Ghana Card e-wallet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card e-wallet",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "Ghana Card",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

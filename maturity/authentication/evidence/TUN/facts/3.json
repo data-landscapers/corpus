@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-26-techafricanews-mobile-id-mandatory-investors",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "TechAfrica News reports the Tunisia Investment Authority made Mobile ID mandatory for all investment project declarations from 1 July 2026, so investors must hold a Mobile ID digital identity to access investment declaration services.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Mobile ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Investment project declaration service",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Tunisia Investment Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

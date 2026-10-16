@@ -1,0 +1,103 @@
+{
+ "slug": "2026-08-08-india-tech-sovereignty-push-africa-asean",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Mauritius only for UPI payments; nothing on ID."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Seychelles only for e-Sanjeevani, e-Office and e-Hospital consultations; nothing on ID."
+    }
+   }
+  }
+ }
+}

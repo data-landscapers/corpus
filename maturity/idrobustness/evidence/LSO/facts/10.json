@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Biometric Update reports that UNICEF and the Ministry of Information (MICSTI) signed a 2026 work plan to develop an integrated national digital ID ecosystem, with Lesotho building its DPI on MOSIP.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "integrated national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "integrated national digital ID",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National Biométrique des Populations",
+       "country_label": "Mauritania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State civil registration structure",
+       "tiers": ""
+      }
+     ],
+     "note": "The law amends civil-status articles and does not state a link, a number at birth or an issuing system in service."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National Biométrique des Populations",
+       "country_label": "Mauritania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State civil registration structure",
+       "tiers": ""
+      }
+     ],
+     "note": "The law amends civil-status articles and does not state a link, a number at birth or an issuing system in service."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National Biométrique des Populations",
+       "country_label": "Mauritania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State civil registration structure",
+       "tiers": ""
+      }
+     ],
+     "note": "The law amends civil-status articles and does not state a link, a number at birth or an issuing system in service."
+    }
+   }
+  }
+ }
+}

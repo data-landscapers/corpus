@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,registers,register,underway,"Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department.",2026-06-15,day,employee verification portal,register,2026-05-26-dha-treasury-employee-verification-platform,https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat

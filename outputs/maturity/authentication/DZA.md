@@ -1,0 +1,13 @@
+# Algeria
+
+## Authentication
+
+**Authentication service.** [The High Commission for Digitalisation presented an SDK for secure biometric documents (passport, national ID card, driving licence) to the Ministry of Knowledge Economy, Startups and Micro-enterprises, as components for digital solutions that require identity verification](<https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/>). [Echorouk reports CNEP-Banque, Housing Bank for Trade and Finance and Banque Nationale d'Algerie are verifying customers' identity and updating files, which can require a valid identity card; it does not say checks are made against the national ID register](<https://www.echoroukonline.com/توضيحات-أكبر-لـالبنوك-الجزائرية-حول>). [Algeria's Ministry of Interior presentation says a digital identity was launched at large scale in 2025 and integrated into the national digital services portal](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf>).
+
+**Used across services.** [About a month before the launch, the National People's Assembly and the Governmental Electronic Certification Authority (AGCE) signed a framework agreement to integrate electronic certification and signature services](<https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-adopts-electronic-signatures-and-certification>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-adopts-electronic-signatures-and-certification>).
+
+***Noted, not assessed***. [National digital identity (enrolment via dzds.dz, biometric match)](<https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/>); [SDK for secure biometric documents](<https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/>); [National interoperability system / secure digital link network](<https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/>); [WADHIFATI](<https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/>); [Unified national digital identity](<https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/>); [NIN / RNAEC](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

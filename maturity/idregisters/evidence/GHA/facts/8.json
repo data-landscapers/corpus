@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-gha-ghanaweb-nia-biometric-fraud-controls",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Bedzrah said persons enrolling in the National Service Scheme must undergo NIA verification and are verified again before payments are made.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

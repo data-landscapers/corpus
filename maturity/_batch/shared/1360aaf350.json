@@ -1,0 +1,118 @@
+{
+ "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only card issuance is described, no electronic authentication."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A birth certificate copy is a document for the application, not a stated record exchange."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The card is mandatory at 15; no number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Police Nationale page says the ONI runs the CNIB checking and issuing system, with its own production centre and intermediate data-processing centres.",
+       "as_of": "2026-08-25",
+       "date_precision": "day",
+       "system": "CNIB",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "Burkina Faso",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office Nationale d'Identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Police Nationale page describes the CNIB as a biometric ID card issued through the ONI, mandatory at 15 with 10 years validity.",
+       "as_of": "2026-08-25",
+       "date_precision": "day",
+       "system": "CNIB",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The ONI system checks for duplicates by fingerprint matching and, since 2009, facial biometrics, to detect identity fraud.",
+       "as_of": "2009",
+       "date_precision": "year",
+       "system": "CNIB",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "Burkina Faso",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office Nationale d'Identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

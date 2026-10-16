@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-11-guinee-decentralisation-etat-civil-npi",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The minister lists the deployment of a modern National Civil Register backed by the attribution of a unique personal identification number (NPI) among government priorities.",
+       "as_of": "2026-08-10",
+       "date_precision": "day",
+       "system": "NPI",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NPI (Numero personnel d'identification)",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Territorial Administration and Decentralisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The statement ties the NPI to the civil register but does not say a number is given at birth registration."
+    }
+   }
+  }
+ }
+}

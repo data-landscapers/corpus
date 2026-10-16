@@ -78,6 +78,69 @@ SHORT = {
         ["No source held since October 2023 says two or more programmes share one registry.",
          "No source held since October 2023 says the registry is linked to the national ID and to another sector."],
         "social protection systems exchanging data"),
+    "idrobustness": (
+        ["A {y} source says there is no national ID system with a unique number.",
+         "A national ID system was under way in {y}; none in service is on record.",
+         "The national ID system was issuing unique numbers in {y}; biometric checks are not known.",
+         "The national ID system checked people by biometrics in {y}; no certification or audit is known.",
+         "The national ID system's security was certified or audited in {y}."],
+        ["No source held since October 2023 says the system checks people by biometrics.",
+         "No source held since October 2023 reports a certification, audit or assurance level for the system."],
+        "a national ID system"),
+    "idcoverage": (
+        ["Fewer than a third of the population held a national ID in {y}.",
+         "A third of the population or more held a national ID in {y}.",
+         "Two-thirds of the population or more held a national ID in {y}.",
+         "Practically everyone held a national ID in {y}; birth and death registration at the target is not known.",
+         "Everyone held a national ID and births and deaths were registered at the target in {y}."],
+        ["No source held since October 2023 counts 99.9% of the population or more holding a national ID.",
+         "No source held since October 2023 puts birth registration at all births and deaths at 80% or more."],
+        "a count of people holding a national ID"),
+    "idmaintenance": (
+        ["A {y} source says a foreign supplier runs the national ID system.",
+         "A move to national operation of the ID system was under way in {y}.",
+         "The national authority ran the ID system day to day in {y}; who maintains it is not known.",
+         "National staff maintained the ID system in {y}; ownership of its code is not known.",
+         "The ID system ran in {y} on code the state owns."],
+        ["No source held since October 2023 says national staff maintain the system or the foreign contract has ended.",
+         "No source held since October 2023 says the system runs on code the state owns."],
+        "who operates the national ID system"),
+    "authentication": (
+        ["A {y} source says no digital authentication service exists.",
+         "An authentication or e-signature service was under way in {y}; none in service is on record.",
+         "An authentication service was in use in {y}; use across services is not known.",
+         "Authentication was used across services in {y}; remote proof of identity by a digital ID is not known.",
+         "People could prove who they are online with a digital ID in {y}."],
+        ["No source held since October 2023 says authentication is used across services or channels.",
+         "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service."],
+        "a digital authentication service"),
+    "idfrombirth": (
+        ["A {y} source says a birth creates no identity record.",
+         "A unique number at birth was provided for or piloted in {y}; none given in service is on record.",
+         "Children were given a unique ID number at birth registration in {y}, at least in part of the country.",
+         "Every registered birth was given a unique ID number in {y}; complete registration is not known.",
+         "All births were registered with a unique ID number in {y}."],
+        ["No source held since October 2023 says every registered birth across the country receives the number.",
+         "No source held since October 2023 puts birth registration at all births and deaths at 80% or more."],
+        "a unique number given at birth"),
+    "birthidlink": (
+        ["A {y} source says the civil register and the ID system exchange no records.",
+         "A link between the civil register and the ID system was under way in {y}.",
+         "The civil register and the ID system were linked one way or for one event in {y}.",
+         "Births and deaths passed between the civil register and the ID system in {y}; volumes are not known.",
+         "Exchange between the civil register and the ID system was reported with figures in {y}."],
+        ["No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+         "No source held since October 2023 gives a figure for records exchanged between the two."],
+        "a link between the civil register and the ID system"),
+    "idregisters": (
+        ["A {y} source says public registers do not use the national ID number.",
+         "A public register's use of the national ID number was under way in {y}.",
+         "A public register used the national ID number in {y}; use by three main registers is not known.",
+         "Three or more main public registers used the national ID number in {y}; no matching figures are known.",
+         "Matching of public registers against the national ID was reported with figures in {y}."],
+        ["No source held since October 2023 shows three or more main public registers using the national ID number.",
+         "No source held since October 2023 gives a figure from checking a register against the ID."],
+        "a public register using the national ID number"),
 }
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"
@@ -157,13 +220,16 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
                 near = link(top["url"], clean(top["fact"])) if not used else link(top["url"], "the one given above")
                 body = [f"{lead} The nearest held fact: {near}."]
                 used = True
-            if k == 0 and int(cell["stage"]) >= 4 and not any(r["value"] == "inservice" for r in mine):
+            if k == 0 and int(cell["stage"]) >= 4 and not any(r["value"] == ladder.firsts(study)[0] for r in mine):
                 body.append("A later answer places the country above that step.")   # method §3.3
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
         words = len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split())
         if words < 120:   # few facts held: say so in the first paragraph, as the statistics law study did
             n = len(rows)
             parts[4] += (" It is the only fact" if n == 1 else f" {n} facts are") + " held on the subject"                 + ": no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined."
+            if len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split()) < 120:
+                parts[4] += (" This is a first pass, which read at most fifteen stories a country; the nightly"
+                             " deep dive reads further and may move the stage either way.")
         short = shorts[int(cell["stage"]) - 1].format(y=top["as_of"][:4])
     elif cell["stage"] == "unplaced":
         short = f"Nothing held since 2023 names {thing}, so no stage is set."

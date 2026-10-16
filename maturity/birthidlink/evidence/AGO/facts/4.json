@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-angolanewswire-17-million-identity-cards",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Angola's Ministry of Justice and Human Rights runs a Universalisation of Civil Registration and Identity Cards Programme, whose plan aims to give identity cards to all adult citizens listed in the civil registry database by December 2026, per National Director Aristides Marques.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade (BI)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade (BI)",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

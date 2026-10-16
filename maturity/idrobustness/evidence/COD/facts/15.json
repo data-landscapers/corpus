@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-26-cod-onip-feuille-de-route-identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ONIP held its first board meeting on 20-21 August 2026 and defined a roadmap with issuance of the national identity card among its priorities, aiming for a further stage by December (ONIP communique).",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "ONIP national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national identity card",
+   "country_label": "DRC",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office national de l'identification de la population (ONIP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

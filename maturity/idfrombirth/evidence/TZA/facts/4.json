@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The Minister of Home Affairs told Parliament in the 2026/27 budget speech that NIDA expects to start registering children from birth to give a unique number called Jamii Namba.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Jamii Namba",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jamii Namba",
+   "country_label": "Tanzania",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

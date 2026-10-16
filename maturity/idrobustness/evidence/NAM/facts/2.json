@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-06-nam-economist-parliament-briefed-e-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Home Affairs officials noted that Cabinet approved an e-ID pilot project in 2023 and that the Identification and Authentication Act of 2024 provides the legal framework; the ministries briefed MPs on the rollout of the new electronic ID card.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Electronic Identification Card (e-ID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Identification Card (e-ID)",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

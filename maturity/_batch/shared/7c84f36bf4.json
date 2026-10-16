@@ -1,0 +1,144 @@
+{
+ "slug": "2026-01-07-nida-mulls-child-registration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "A draft Child Registration Act is announced but no link to a civil register is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of people enrolled; 309,603 cards awaiting collection is a card count."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The NIDA Director General says government plans a draft Child Registration Act in the next parliamentary session to empower NIDA to register children from birth.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIDA national ID",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing on who operates or maintains the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIDA's Director General says 309,603 identification cards are ready for collection at district offices.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NIDA national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

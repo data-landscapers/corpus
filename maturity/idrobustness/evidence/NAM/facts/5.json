@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-25-namibia-electronic-id-rollout-september-2026",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Officials say E-ID smart cards with a chip holding biometric and biographical data, including fingerprints, will be rolled out from September 2026 to new applicants.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Namibia E-ID (smart ID card)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Existing identity cards stay legally valid until withdrawn by gazette, and the E-ID is built on the national population register.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "National population register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

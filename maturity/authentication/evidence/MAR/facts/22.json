@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Morocco's digital transition ministry signed cooperation agreements, including with iDakto and ShareID, for a national digital wallet app on the Idarati platform, to be tested within six months.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Idarati X.0 digital wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

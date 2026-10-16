@@ -1,0 +1,44 @@
+{
+ "slug": "2024-02-16-national-identity-card-regulations-2024",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The regulations define the MNIC 3.0 card, issued from 19 February 2024 and carrying the holder's NIC number.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MNIC 3.0",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "assurance",
+   "value": "certified",
+   "fact": "The regulations require an independent security audit of the MNIC System every 3 years.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MNIC 3.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MNIC 3.0",
+   "country_label": "Mauritius",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identity Card Unit",
+   "tiers": ""
+  },
+  {
+   "system": "MauSign",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

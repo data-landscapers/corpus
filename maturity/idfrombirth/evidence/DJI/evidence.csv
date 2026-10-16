@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,frombirth,number,inservice,The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register.,2024,year,NNI,birthnumber,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques,https://numerique.gouv.dj/Articles/detailArticleAvancee/15

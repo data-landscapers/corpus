@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-angola-cabinda-decentralised-id-card-service",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Angop reports Cabinda province now issues more than 200 Bilhete de Identidade cards a day, delivered in under 24 hours since printing was decentralised in June 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade (BI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade (BI)",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministerio da Justica e dos Direitos Humanos",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2024-01-01-maupass",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MauPass",
+       "country_label": "Mauritius",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Information Technology, Communication and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": "MauPass validates user data against the Central Population Database; this is authentication, not records passing between civil and ID registers."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Central Population Database",
+       "country_label": "Mauritius",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Names a National ID and Central Population Database but does not state they issue unique credentials, check biometrics or are certified."
+    }
+   }
+  }
+ }
+}

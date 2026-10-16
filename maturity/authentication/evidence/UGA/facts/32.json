@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-21-techbuild-uganda-national-id-broken-qr-codes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID QR verification (NIRA)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "QR verification is stated as not working; no service is stated as in use or contracted."
+}

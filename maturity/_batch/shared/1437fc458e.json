@@ -1,0 +1,88 @@
+{
+ "slug": "2026-08-26-bwa-omang-fake-documents-cartel",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil register link stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No coverage figure stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator or maintainer stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No register keyed on the Omang stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The permanent secretary says the national ID, the Omang, continues to be hacked and the government is targeting a computer-generated Omang with distinct features; the minister says migrants hold fake Omang cards.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Omang",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

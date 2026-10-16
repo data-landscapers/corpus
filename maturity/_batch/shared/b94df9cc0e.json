@@ -1,0 +1,9 @@
+{"slug":"2026-08-05-civ-grand-bassam-carte-identite-calvaire","studies":{
+"authentication":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only an online stamp purchase is described, not authentication."}}},
+"birthidlink":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No civil register link is described."}}},
+"idcoverage":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No count or share enrolled is given."}}},
+"idfrombirth":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"CIV":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"ONECI, the Office national de l'etat civil et de l'identification, is the only body authorised to issue the secure national identity card, through enrolment centres such as Grand-Bassam.","as_of":"2026-08","date_precision":"month","system":"Carte nationale d'identite","class":"idsystem"}],"systems":[{"system":"Carte nationale d'identite","country_label":"Cote d'Ivoire","class":"idsystem","platform":"","owner":"ONECI","tiers":""}],"note":""}}},
+"idregisters":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"CIV":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"ONECI enrols applicants and issues the national identity card, with a stamp bought online, enrolment at an approved centre and a notification to collect the produced card.","as_of":"2026-08-03","date_precision":"day","system":"Carte nationale d'identite","class":"idsystem"}],"systems":[{"system":"Carte nationale d'identite","country_label":"Cote d'Ivoire","class":"idsystem","platform":"","owner":"ONECI","tiers":""}],"note":""}}}
+}}

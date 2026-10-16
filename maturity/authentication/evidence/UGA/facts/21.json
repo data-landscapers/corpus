@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NITA-U said the UGHub integration platform lets institutions verify citizens' identities against NIRA's national identification registry in real time.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NITA-U said UGHub connects NIRA's registry to more than 150 ministries, departments and agencies, plus banks and telecommunications companies, for identity verification.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "Uganda",
+   "class": "authentication",
+   "platform": "national data integration platform",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

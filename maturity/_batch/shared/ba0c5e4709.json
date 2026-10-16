@@ -1,0 +1,153 @@
+{
+ "slug": "2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Biometric Update reports, citing local media, that the Ministry of Home Affairs announced in May 2025 that digital ID issuance would begin in July in Harare and Bulawayo, with staff trained, but no start date was confirmed.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Digital ID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Biometric Update reports the government concluded an upgrade of the national population registry as the base for a national digital ID, with issuance announced but no confirmed start date.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital ID",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Registrar-General / Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

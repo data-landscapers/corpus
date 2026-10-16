@@ -1,0 +1,9 @@
+{"slug":"2026-10-01-cod-recensement-identification-et-enrolement-en-rdc-ce-quil-faut","studies":{
+"authentication":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on authentication services."}}},
+"birthidlink":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"COD":{"facts":[],"systems":[],"note":"No count of people holding an ID."}}},
+"idfrombirth":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on who operates the ID system."}}},
+"idregisters":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on registers keyed on an ID number."}}},
+"idrobustness":{"countries":{"COD":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Communication minister Patrick Muyaya said a population identification process is under way that will end in the grant of a national identity card.","as_of":"2026-09-30","date_precision":"day","system":"population identification process","class":"idsystem"}],"systems":[{"system":"population identification process","country_label":"DRC","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}}
+}}

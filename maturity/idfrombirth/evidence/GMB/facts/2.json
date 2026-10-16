@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The World Bank says the eCRVS issued birth certificates each carrying a unique national identification number, generated in real time at registration, during the Aug 2022 to Feb 2023 campaign.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "eCRVS",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

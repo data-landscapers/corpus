@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-27-multiuse-biometric-id-card-launch",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports that NIMC is enrolling people for the NIN, with biometrics of more than 115 million captured, and is about to launch a three-in-one NIN-linked chip card.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

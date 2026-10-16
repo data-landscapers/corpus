@@ -1,0 +1,124 @@
+{
+ "slug": "2026-09-29-gab-gabonreview-etat-civil-digital-reform-workshop",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Gabon Digital programme, World Bank financed and run by the digital economy ministry, includes a national digital identity system meant to modernise identification and access to public services.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Systeme national d'identite digitale",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "GAB",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale",
+       "country_label": "GAB",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Ministere de l'Economie numerique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Gabon Digital component 2 includes the biometric register of natural persons (RBPP) to record people living in Gabon, still at the preparatory stage with a workshop from 28 Sep to 8 Oct 2026.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "GAB",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale",
+       "country_label": "GAB",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Ministere de l'Economie numerique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

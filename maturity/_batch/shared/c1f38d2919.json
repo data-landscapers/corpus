@@ -1,0 +1,17 @@
+{"slug": "2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Nigeria's reforms under the NIMC Act, 2026 include the ID authority taking responsibility for the country's PKI system, per Biometric Update.", "as_of": "2026-08", "date_precision": "month", "system": "PKI", "class": "authentication"}],
+"systems": [{"system": "National Identification Number registry", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document does not mention the civil register."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The NIMC Director General said 136 million registrations had been reached, up from over 120 million on 10 July; against the 237.5 million population given that is about 57%, calculated here.", "as_of": "2026-07", "date_precision": "month", "system": "National Identity Database", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The learner ID is a student number, not a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Operation and maintenance are not stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "A planned integration of the national identity system with the National Health Insurance program is among the reforms, per the article.", "as_of": "2026-08", "date_precision": "month", "system": "National Health Insurance program", "class": "register"}],
+"systems": [], "note": ""}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC says 136 million Nigerians are registered in the National Identity Database.", "as_of": "2026-07", "date_precision": "month", "system": "National Identity Database", "class": "idsystem"}],
+"systems": [], "note": ""}}}
+}}

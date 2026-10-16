@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-08-cabinet-approves-revised-white-paper-citizenship",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "SAnews reports Cabinet approved a White Paper turning the National Population Register into an Intelligent Population Register using interoperability and real-time data integration as the foundation for a Digital ID, with mandatory digital birth and death registration.",
+       "as_of": "2026-04-08",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

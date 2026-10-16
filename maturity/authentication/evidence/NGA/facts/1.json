@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The article says the Nigeria Police Force's POSSAP platform leans on NIN as its verification backbone (published date used; no event date given).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "POSSAP"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The article says President Tinubu has ordered every ministry, department and agency to adopt NINAuth as the default verification layer; the directive's date is not stated (published date used).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "NINAuth mandate for MDAs"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The article says SIM registration, tax filing and banking now run through the same NINAuth identity rail, alongside police, road safety and immigration services (published date used).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "NINAuth"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "web, API and mobile",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "POSSAP",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Police Force",
+   "tiers": ""
+  },
+  {
+   "system": "FRSC contactless licensing system",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Road Safety Corps",
+   "tiers": ""
+  },
+  {
+   "system": "NIS passport renewal app",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Immigration Service",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

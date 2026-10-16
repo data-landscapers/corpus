@@ -1,0 +1,9 @@
+{"slug": "2026-03-21-republique-togolaise-se-faire-enregistrer-anid-plateaux-atakpame", "studies": {
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"TGO": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The national biometric identification agency ANID opened fifty enrolment centres at Atakpame, bringing the Plateaux region in after the Savanes, Grand Lome and Maritime, says the government portal.", "as_of": "2026-03-21", "date_precision": "day", "system": "ANID card", "class": "idsystem"}], "systems": [{"system": "ANID card", "country_label": "Togo", "class": "idsystem", "platform": "", "owner": "Agence Nationale d'Identification Biometrique", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ANID is enrolling residents, Togolese or foreign, for its card and a Numero d'Identification Unique across four regions, the Plateaux joining with fifty centres at Atakpame, says the government portal.", "as_of": "2026-03-21", "date_precision": "day", "system": "ANID card", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

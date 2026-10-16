@@ -1,0 +1,108 @@
+{
+ "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The January 2026 pilot enrolled nearly 130,000 people, about 0.4% of Madagascar's 32.7 million (share computed from the held population), per Biometric Update.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "PRODIGY",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PRODIGY national ID",
+       "country_label": "Madagascar",
+       "class": "idsystem",
+       "platform": "Laxton enrolment kits; IN Groupe database management",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Madagascar's national digital ID project PRODIGY ran a January 2026 pilot enrolling nearly 130,000 people through 116 centres in 26 communes, with the project closing on 30 June 2026, per Biometric Update.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "PRODIGY",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PRODIGY national ID",
+       "country_label": "Madagascar",
+       "class": "idsystem",
+       "platform": "Laxton enrolment kits; IN Groupe database management",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

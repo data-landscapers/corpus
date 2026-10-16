@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-01-egypte-parquet-service-electronique-affaires-familiales",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Egypt's Public Prosecution announced on 1 September 2026 an electronic enquiry service on family cases and judgments, entry restricted to users whose identity is verified through the Digital Egypt portal's digital identity.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Public Prosecution electronic portal"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Prosecution electronic portal",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Public Prosecution",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Egypt portal digital identity",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "Digital Egypt portal",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

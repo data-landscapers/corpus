@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-02-cbos-national-number-bank-account-circular",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Central Bank of Sudan issued a circular adopting the national number for opening bank accounts and requiring banks to check the number the customer gives against the Civil Registry's system.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "Bank account opening with national number"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank account opening with national number",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Sudan (banks)",
+   "tiers": ""
+  },
+  {
+   "system": "Civil Registry system (General Administration of Civil Registry)",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "General Administration of the Civil Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

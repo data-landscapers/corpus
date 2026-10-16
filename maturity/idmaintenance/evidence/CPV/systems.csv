@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Autentika,Cabo Verde,other,,Estado de Cabo Verde,email and password; CMDCV; CNI with smart card,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,idsystem,,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao

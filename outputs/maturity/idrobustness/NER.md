@@ -1,0 +1,13 @@
+# Niger
+
+## Robustness of system
+
+**National ID in service.** [ActuNiger says the AES passport launch came a few months after the launch of the biometric national identity card (CNIB)](<https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html>). [Niger opened enrolment for the biometric national identity card CNIB AES in Agadez, collecting fingerprints and biometrics locally and sending files to Niamey for printing, with a five-year validity, per the Journal du Niger](<https://www.journalduniger.com/agadez-lancement-enrolement-carte-identite-biometrique-cnib-aes/>). [Niger launched a new-generation national identity card for which President Tiani enrolled first, shortly before the passport launch reported 11 September 2026](<https://www.modernghana.com/news/1526691/from-ecowas-to-aes-niger-completes-its-passport.html>). [Niger created ANEI by decree n°2026-242 and announced a forthcoming National Population Register, a central secured database to give each citizen a unique identifier](<https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/>).
+
+**Biometric checks.** No source held since October 2023 says the system checks people by biometrics. The nearest held fact: [the one given above](<https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html>).
+
+**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says the system checks people by biometrics.

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA's World Bank-funded biometric national ID project, under way since 2023, had issued more than one million digital IDs as of November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Somalia national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia national ID",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

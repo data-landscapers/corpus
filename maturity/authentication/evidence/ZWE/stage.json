@@ -1,0 +1,17 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "authentication",
+   "stage": "3",
+   "service": "inservice",
+   "reach": "",
+   "remote": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-006;ZWE-001",
+   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
+  }
+ ]
+}

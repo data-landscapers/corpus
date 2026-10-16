@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,robustness,system,coverage,inservice,2026-09,MWI-001;MWI-002;MWI-003;MWI-004;MWI-005;MWI-006;MWI-007;MWI-008;MWI-009;MWI-010;MWI-011,,
+MWI,robustness,biometric,coverage,,,,,nothing held
+MWI,robustness,assurance,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NCRA runs a biometric digital ID and National Identification Number (NIN) system, with a Tier 3 data centre housing the civil registration and ID systems.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "NIN (NCRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN / Biometrics Digital ID",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "2026-07-25-cd-walikale-registres-naissance-identite",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a missing birth register at one local office; nothing on this question."
+    }
+   }
+  }
+ }
+}

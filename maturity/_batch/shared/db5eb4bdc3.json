@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-17-anats-etat-civil-numerique-lancement",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Le N'Djam Post reports that ANATS, the secure-titles agency, officially launched digitisation of civil-registration on 2025-09-16, its mission being to identify every birth systematically and issue civil status acts.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "digital civil registration (ANATS)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Mission to identify every birth is stated but no unique number at birth is."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-27-multiuse-biometric-id-card-launch",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Biometric Update reports that NIMC says its multipurpose NIN-linked card will be linked to a farmer registry under a G2P programme, crucial for creating a farmer digital ID registry.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "NIN",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,174 @@
+{
+ "id": "authentication",
+ "study_file": "maturity-study-authentication.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--authentication"
+ ],
+ "carry": [
+  "dpi.id--authentication"
+ ],
+ "carry_studies": [
+  "idverification"
+ ],
+ "carry_map": {
+  "idverification": {
+   "sub_indicator": "authentication",
+   "class": "authentication",
+   "aspects": {
+    "use": {
+     "to": "service"
+    },
+    "sectors": {
+     "to": "reach"
+    }
+   }
+  }
+ },
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "authentication",
+  "e-signature",
+  "electronic signature",
+  "digital signature",
+  "PKI",
+  "public key infrastructure",
+  "certification authority",
+  "certificate authority",
+  "trust services",
+  "trust service provider",
+  "mobile ID",
+  "ID wallet",
+  "identity wallet",
+  "signature électronique",
+  "certification électronique",
+  "autorité de certification",
+  "infrastructure à clés publiques",
+  "assinatura digital",
+  "assinatura electrónica",
+  "assinatura eletrônica",
+  "التوقيع الإلكتروني",
+  "المصادقة الإلكترونية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "authentication",
+   "label": "Authentication",
+   "subject": "dpi.id",
+   "text": "Authentication: authentication",
+   "indicator_id": "dpi.id--authentication-authentication",
+   "class": "authentication",
+   "norm_short": "The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask for authentication and e-signature services in layers, up to remote authentication recognised across borders.",
+   "criteria": [
+    "A source from the past three years says no digital authentication service exists; credentials are checked by eye.",
+    "An authentication, e-signature or PKI service is authorised, contracted or piloted.",
+    "An authentication service is in use for one purpose: a certification authority operating, or an online check of the ID for one system.",
+    "Authentication is used across services or channels: licensed trust service providers, a verification service used by several bodies, mobile ID.",
+    "People prove who they are online with a mobile ID app, a digital ID wallet or signed digital credentials in service."
+   ],
+   "criteria_of": "25cf37caa6b6"
+  }
+ ],
+ "classes": [
+  "authentication",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "service",
+   "name": "Authentication service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "Used across services",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "remote",
+   "name": "Remote proof of identity",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "wallet"
+   ],
+   "values": [
+    "wallet"
+   ]
+  }
+ ],
+ "flags": []
+}

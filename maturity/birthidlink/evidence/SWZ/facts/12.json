@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-28-digital-eswatini-project-pid",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Register (NPR)",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": "Says the digital ID must be supported by the Population Register, which is mostly manual paper records; no exchange with the civil register is stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-13-decision-hcc-loi-2026-001-enregistrement-naissances-derogatoire",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The High Constitutional Court's decision of 13 May 2026 found law 2026-001 conforming, a law authorising retroactive birth registration within the mass biometric enrolment operation.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "mass biometric enrolment operation",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

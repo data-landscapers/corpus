@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Algeria's Ministry of Interior presentation says a digital identity was launched at large scale in 2025 and integrated into the national digital services portal.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "identité numérique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN / RNAEC",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

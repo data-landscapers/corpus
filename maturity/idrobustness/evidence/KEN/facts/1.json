@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-28-kenyans-to-soon-access-their-national-ids-electronically-murkomen-confirms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Maisha Card",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "The physical ID card is mentioned only as the thing the digital card will complement; nothing is said of how it is issued or checked."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-24-senators-commend-digital-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Minister told the Senate the digital national ID (e-Indangamuntu), coordinated by NIDA, is being rolled out, with enrolment across all 30 districts expected to complete by 2026.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "e-Indangamuntu",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

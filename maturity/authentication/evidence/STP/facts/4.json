@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The World Bank mission reports a contracted System Integrator (Ooru) building a digital ID with working prototypes of a Verifiable Credentials Infrastructure and an electronic Signature service, with e-signature planned for May 2026.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Verifiable Credentials Infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STP Digital Identity (bilhete de identidade, digital ID)",
+   "country_label": "STP",
+   "class": "idsystem",
+   "platform": "Verifiable Credentials Infrastructure by Ooru",
+   "owner": "INIC and DGRN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-burundi-crvs-transformation-journey",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "none",
+   "fact": "Burundi's presentation says the civil registration system is 'not yet fully interoperable' with the future national digital identification system.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "future national digital identification system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "future national digital identification system",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

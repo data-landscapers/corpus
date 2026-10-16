@@ -1,0 +1,153 @@
+{
+ "slug": "2026-07-29-botswana-national-id-replacement-delays",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Minister said the ministry runs card production with its own personnel and extended hours, engaging suppliers only on equipment maintenance.",
+       "as_of": "2026-07-29",
+       "date_precision": "day",
+       "system": "Omang",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Minister of Labour and Home Affairs told Parliament that replacement national identity cards (Omang) are in production with a backlog, which he said was falling as production improved.",
+       "as_of": "2026-07-29",
+       "date_precision": "day",
+       "system": "Omang",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "Botswana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

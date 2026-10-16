@@ -1,0 +1,17 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "link",
+   "stage": "no evidence",
+   "link": "",
+   "events": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether the civil register and the ID system are linked.",
+   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-28-tgo-e-id-togo-6-millions-enregistres",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "ANID reports more than six million people registered in the e-ID Togo national identification register as of 28 September 2026, about 70% of the 8.6 million population (share computed from the held population).",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "The same figure of more than six million people registered is about 70% of the held population of 8.6 million, above two-thirds (share computed from the held population).",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

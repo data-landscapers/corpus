@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-adjinacou-maternite-identite-legale",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ANIP director Aristide Adjinacou says the single birth-registration desk, piloted in ten health facilities, improves the national register of persons through better identification of parents and is to be extended to all facilities.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Registre national des personnes physiques",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

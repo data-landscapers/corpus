@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIDA National Identification Number",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": "NIDA is connected to 138 institutions for e-KYC, which is private-sector checking, not public registers keyed on the number."
+}

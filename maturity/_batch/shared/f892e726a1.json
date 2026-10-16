@@ -1,52 +1,8 @@
-{
- "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
- "studies": {
-  "dataexchange": {
-   "countries": {
-    "CPV": {
-     "facts": [
-      {
-       "sub_indicator": "exchange",
-       "aspect": "platform",
-       "value": "inservice",
-       "fact": "Biometric Update says Cabo Verde launched the Autentika interoperability platform, linking its civil registration and national identity systems, within the past five years, with birth registration at 99 percent and registration of deaths in health facilities at 100 percent.",
-       "as_of": "2026-05",
-       "date_precision": "month",
-       "system": "Autentika",
-       "class": "exchange"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Autentika",
-       "country_label": "Cabo Verde",
-       "class": "exchange",
-       "platform": "",
-       "owner": "IMIJ (Institute for Justice Modernization and Innovation)",
-       "tiers": ""
-      }
-     ],
-     "note": "as_of is the published date; the launch date is given only as within five years."
-    }
-   }
-  },
-  "idverification": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Autentika",
-       "country_label": "Cabo Verde",
-       "class": "other",
-       "platform": "",
-       "owner": "IMIJ (Institute for Justice Modernization and Innovation)",
-       "tiers": ""
-      }
-     ],
-     "note": "Autentika links civil registration and ID; the document names no other system checking people against the national ID, only planned expansion of use across public services."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate", "studies": {
+"birthidlink": {"countries": {"CPV": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Biometric Update reports Cabo Verde linked its civil registration and national identity systems through the Autentika interoperability platform, presented by the IMIJ executive administrator.", "as_of": "2026-05", "date_precision": "month", "system": "Autentika", "class": "crvslink"}], "systems": [{"system": "Autentika", "country_label": "Cabo Verde", "class": "crvslink", "platform": "interoperability platform", "owner": "IMIJ (Justice Ministry)", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Gives birth registration at 99% and deaths in health facilities at 100%, but no count or share of people enrolled in the ID, and birth registration is not at all births."}}},
+"idfrombirth": {"countries": {"CPV": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth.", "as_of": "2026-05", "date_precision": "month", "system": "Unique Identification Number", "class": "birthnumber"}, {"sub_indicator": "frombirth", "aspect": "national", "value": "national", "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms.", "as_of": "2026-05", "date_precision": "month", "system": "Unique Identification Number", "class": "birthnumber"}], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Says only that reforms used national capacity building rather than imported models; no statement of who operates or owns the system."}}},
+"idregisters": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"CPV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports Cabo Verde issues a Unique Identification Number to every child born, within a national ID system its presenters call the backbone of future authentication.", "as_of": "2026-05", "date_precision": "month", "system": "Unique Identification Number", "class": "idsystem"}], "systems": [{"system": "Unique Identification Number / national ID system", "country_label": "Cabo Verde", "class": "idsystem", "platform": "", "owner": "IMIJ (Justice Ministry)", "tiers": ""}], "note": ""}}}
+}}

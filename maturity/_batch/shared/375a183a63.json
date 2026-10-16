@@ -1,0 +1,88 @@
+{
+ "slug": "2026-03-02-uk-gov-eritrea-knowledge-base-profile",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a documentary dependency between civil documents and the ID; no record exchange stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth certificates are issued at registration; no ID number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The UK Home Office guidance says Eritrea issues national ID cards, which are required for an Eritrean passport.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card",
+       "country_label": "Eritrea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

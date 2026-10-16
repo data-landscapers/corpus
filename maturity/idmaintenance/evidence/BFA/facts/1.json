@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Police Nationale page says the ONI runs the CNIB checking and issuing system, with its own production centre and intermediate data-processing centres.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "CNIB",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office Nationale d'Identification (ONI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-16-gabon-digital-identity-governance-milestone",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "GabonReview says the SNID will give every resident a digital identity with the same legal value as physical identity, with signatures, payments and validations authenticated.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "SNID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

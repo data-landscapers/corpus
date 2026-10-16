@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-27-zaf-smart-id-bank-partnership-home-affairs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "The bank partnership is for smart ID applications and replacement, not remote authentication."
+}

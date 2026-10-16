@@ -1,0 +1,9 @@
+{"slug": "2026-09-19-zmb-lusakatimes-njapau-id-invalidation-critics", "studies": {
+"authentication": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document reports ID documents invalidated for critics; states no authentication service."}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Who operates the ID system is not stated."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document says IDs were invalidated for some people but describes no system issuing unique credentials."}}}
+}}

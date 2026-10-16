@@ -1,52 +1,8 @@
-{
-  "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
-  "studies": {
-    "dataexchange": {
-      "countries": {
-        "DJI": {
-          "facts": [
-            {"sub_indicator": "exchange", "aspect": "platform", "value": "underway",
-             "fact": "The director general of the population directorate says it is working on an interoperability system that will let public administrations, and some institutions such as banks and social protection bodies, check a national ID card's authenticity in real time; no launch is stated.",
-             "as_of": "2026-07-23", "date_precision": "day", "system": "système d'interopérabilité (DGPF)", "class": "exchange"}
-          ],
-          "systems": [
-            {"system": "système d'interopérabilité (DGPF)", "country_label": "Djibouti", "class": "exchange", "platform": "", "owner": "Direction générale de la Population et de la Famille", "tiers": "public administrations, banks, social protection bodies"}
-          ],
-          "note": "Date is the document's published date, which the interview gives no separate event date for."
-        }
-      }
-    },
-    "idverification": {
-      "countries": {
-        "DJI": {
-          "facts": [
-            {"sub_indicator": "use", "aspect": "use", "value": "underway",
-             "fact": "The director general says the directorate is working on an interoperability system so that administrations, banks and social protection bodies can verify the authenticity of a national ID card in real time; the document speaks of this in the future tense (they 'will be able to verify').",
-             "as_of": "2026-07-23", "date_precision": "day", "system": "système d'interopérabilité (DGPF)", "class": "relying"}
-          ],
-          "systems": [
-            {"system": "carte nationale d'identité biométrique", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Direction générale de la Population et de la Famille", "tiers": ""},
-            {"system": "ID Mobile", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Direction générale de la Population et de la Famille", "tiers": ""},
-            {"system": "système d'interopérabilité (DGPF)", "country_label": "Djibouti", "class": "relying", "platform": "", "owner": "Direction générale de la Population et de la Famille", "tiers": "public administrations, banks, social protection bodies"}
-          ],
-          "note": "Date is the document's published date."
-        }
-      }
-    },
-    "socialexchange": {
-      "countries": {
-        "DJI": {
-          "facts": [
-            {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
-             "fact": "The director general says an interoperability system is being worked on that will let social protection bodies, among others, verify a national ID card's authenticity in real time.",
-             "as_of": "2026-07-23", "date_precision": "day", "system": "système d'interopérabilité (DGPF)", "class": "exchange"}
-          ],
-          "systems": [
-            {"system": "système d'interopérabilité (DGPF)", "country_label": "Djibouti", "class": "exchange", "platform": "", "owner": "Direction générale de la Population et de la Famille", "tiers": "social protection bodies named among users"}
-          ],
-          "note": "Social protection is one named user of a planned ID-verification link; no social registry or programme system is described. Date is the published date."
-        }
-      }
-    }
-  }
-}
+{"slug":"2026-07-23-lanation-dgpf-administration-modernisee-interconnectee","studies":{
+"birthidlink":{"countries":{"DJI":{"facts":[{"sub_indicator":"link","aspect":"link","value":"inservice","fact":"The DGPF director says one directorate handles both the biometric ID card and civil-status records, with birth and marriage certificates being integrated into a digital database, and an integrated identity and civil-status system as the long-term aim.","as_of":"2026-07-23","date_precision":"day","system":"DGPF digital database","class":"crvslink"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"DJI":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The DGPF, through its director, says it issues the biometric national ID card across the territory since 2025 and runs the enrolment centres and mobile biometric teams itself.","as_of":"2025","date_precision":"year","system":"Carte nationale d'identite biometrique","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Interoperability for verifying the card is only being worked on; no register is stated as keyed on the ID number."}}},
+"idrobustness":{"countries":{"DJI":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The DGPF director says the biometric national ID card, with a chip holding the holder's fingerprints, has been issued across the national territory since 2025.","as_of":"2025","date_precision":"year","system":"Carte nationale d'identite biometrique","class":"idsystem"}],"systems":[{"system":"Carte nationale d'identite biometrique","country_label":"Djibouti","class":"idsystem","platform":"","owner":"DGPF","tiers":""},{"system":"ID Mobile","country_label":"Djibouti","class":"other","platform":"mobile phone","owner":"DGPF","tiers":"in preparation"}],"note":""}}}
+}}

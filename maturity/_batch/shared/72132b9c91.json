@@ -1,0 +1,9 @@
+{"slug": "2026-03-19-sao-tome-campanha-nacional-bilhete-de-identidade-gratuito", "studies": {
+"authentication": {"countries": {"STP": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "No exchange between civil register and ID stated."}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No count or share of people holding the ID stated."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "Operation and ownership of the system not stated."}}},
+"idregisters": {"countries": {"STP": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Bilhete de Identidade is to become the base document for automatic and permanent voter registration, updating the electoral rolls from civil registry data, says the Camoes institute on the PReSE project.", "as_of": "2026-03-19", "date_precision": "day", "system": "Bilhete de Identidade", "class": "register"}], "systems": [{"system": "Bilhete de Identidade", "country_label": "Sao Tome and Principe", "class": "idsystem", "platform": "", "owner": "Direcao-Geral dos Registos e Notariado", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"STP": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "A campaign running until 15 March 2026 gave a free Bilhete de Identidade to citizens over 17 without a valid one, implemented by the Direcao-Geral dos Registos e Notariado with PReSE support.", "as_of": "2026-03-15", "date_precision": "day", "system": "Bilhete de Identidade", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

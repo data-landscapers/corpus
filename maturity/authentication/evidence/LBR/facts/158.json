@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-09 Liberia appoints steering committee for NBIS rollout by April 2026",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "A presidential steering committee was appointed on the National Biometric Identification System with a rollout deadline of 13 April 2026, the system being designed to support social welfare, banking and SIM registration.",
+   "as_of": "2025-07-09",
+   "date_precision": "day",
+   "system": "National Biometric Identification System (NBIS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System (NBIS)",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

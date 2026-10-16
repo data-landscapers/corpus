@@ -1,0 +1,9 @@
+{"slug":"2026-09-02-use-of-ghana-card-for-all-financial-transactions","studies":{
+"authentication":{"countries":{"GHA":{"facts":[],"systems":[{"system":"Ghana Card","country_label":"Ghana","class":"idsystem","platform":"","owner":"","tiers":""}],"note":"The directive requires the card for transactions; no authentication service is stated."}}},
+"birthidlink":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idcoverage":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No count or share is given."}}},
+"idfrombirth":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idmaintenance":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idregisters":{"countries":{"GHA":{"facts":[],"systems":[],"note":"The directive covers licensed financial institutions, not a public register keyed on the number."}}},
+"idrobustness":{"countries":{"GHA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Bank of Ghana directs that from 1 July 2022 the Ghana Card is the only identification card for transactions at all Bank of Ghana licensed and regulated financial institutions, under Regulation 7 of L.I. 2111.","as_of":"2022-07-01","date_precision":"day","system":"Ghana Card","class":"idsystem"}],"systems":[],"note":""}}}
+}}

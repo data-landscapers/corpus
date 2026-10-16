@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "CNEDOGE, an autonomous public entity attached to the Ministry of National Security, issues the biometric national identity document (DIP) and installs, controls and manages the issuing and verifying devices nationwide.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Documento de identidad personal (DIP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Documento de identidad personal (DIP)",
+   "country_label": "Equatorial Guinea",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "CNEDOGE",
+   "tiers": "biometric security documents"
+  }
+ ],
+ "note": ""
+}

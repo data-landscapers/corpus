@@ -1,0 +1,79 @@
+{
+ "slug": "2025-11-05 Algeria approves draft law on national digital ID and trust services",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Algeria's Council of Ministers approved a draft law on 2 November 2025 creating a national digital identification system linked to the biometric national ID card, which moves to the next legislative stage.",
+       "as_of": "2025-11-02",
+       "date_precision": "day",
+       "system": "national digital identification system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital identification system",
+       "country_label": "Algeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

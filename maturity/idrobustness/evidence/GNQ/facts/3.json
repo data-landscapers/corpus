@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "none",
+   "fact": "The World Bank diagnostic says digital identity is not yet implemented in Equatorial Guinea.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "",
+   "class": "other"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

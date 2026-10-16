@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-gabon-dus-tournant-numerique-transparence-salariale",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Gabonreview reports that on 28 April 2026 the DGI, CNSS and CNAMGS launched work on the Declaration unique des salaires, in which the NIF for employers and the NIP for employees becomes compulsory, with operation targeted for July 2026.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Declaration unique des salaires (DUS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Declaration unique des salaires (DUS)",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "Gabon Connect (built with Ika Technology)",
+   "owner": "DGI, CNSS, CNAMGS",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

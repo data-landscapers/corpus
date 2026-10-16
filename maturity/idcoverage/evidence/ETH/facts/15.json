@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-faydaverse-ethiopia-dpi-soe",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Ethiopia's national digital ID system is nearing 50 million registrations per the government announcement; against the 135.5 million population given that is about 37%, calculated here, and unaudited.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

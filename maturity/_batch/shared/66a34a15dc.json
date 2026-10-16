@@ -1,0 +1,88 @@
+{
+ "slug": "2025-08-11-comoresinfos-controle-identite-obligatoire-12-aout",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Interior Minister said from 12 August 2025 all Comorians must carry and show their national identity card at checks, under an existing law on the national identity card.",
+       "as_of": "2025-08-09",
+       "date_precision": "day",
+       "system": "carte nationale d'identité",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identité",
+       "country_label": "Comoros",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

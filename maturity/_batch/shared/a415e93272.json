@@ -1,0 +1,13 @@
+{"slug":"2025-06-01-nir-relevance-national-special-elections","studies":{
+"authentication":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No link between civil register and the NIR stated."}}},
+"idcoverage":{"countries":{"LBR":{"facts":[],"systems":[],"note":"The paper names nationwide NIR coverage as a challenge but gives no enrolment count."}}},
+"idfrombirth":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No operation or maintenance arrangement stated."}}},
+"idregisters":{"countries":{"LBR":{"facts":[
+{"sub_indicator":"registers","aspect":"register","value":"none","fact":"The paper's findings state the NEC and NIR databases operate as two separate databases, so the voter register is not drawn from the NIR.","as_of":"2025-06","date_precision":"month","system":"National Identification Registry","class":"register"}],
+"systems":[],"note":""}}},
+"idrobustness":{"countries":{"LBR":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The National Identification Registry, established in 2011 after the rollout of national biometric ID cards, registers citizens and non-citizens with a unique identification number, fingerprint data and photo.","as_of":"2025-06","date_precision":"month","system":"National Identification Registry","class":"idsystem"}],
+"systems":[{"system":"National Identification Registry (NIR)","country_label":"Liberia","class":"idsystem","platform":"","owner":"NIR","tiers":""}],"note":""}}}
+}}

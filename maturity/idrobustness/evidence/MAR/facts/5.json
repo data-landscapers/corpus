@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-02-biometricupdate-morocco-national-id-renewal-online",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Morocco's biometric national ID card (CNIE) is renewed through DGSN enrolment offices where biometrics are captured, and the system is being upgraded.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIE",
+   "country_label": "Maroc",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

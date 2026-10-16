@@ -1,0 +1,128 @@
+{
+ "slug": "2026-09-19-som-sonna-national-identification-week-2026",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "NIRA's director general says 1.5 million Somali citizens are registered, about 7.6% of the 19.7 million population (computed from the stated population).",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIRA, the national authority, runs registration: 59 centres, 17 mobile teams and 31 embassy centres, per its director general.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Somalia's National Identification and Registration Authority has registered 1.5 million citizens for the National ID, per its director general.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

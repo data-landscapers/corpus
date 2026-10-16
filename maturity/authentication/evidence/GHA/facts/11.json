@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-15-photocopying-ghana-card-illegal-fines-graphic",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Graphic Online reports that the Bank of Ghana's revised Supervisory Guidance Note, effective October 2025, directs regulated financial institutions to use only the Ghana Card to identify and verify customers, with biometric liveness checks for digital account opening.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Bank of Ghana customer identification via Ghana Card"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Graphic Online reports the NIA Executive Secretary said on 15 July 2026 that the L.I. 2111 amendment extends biometric verification beyond banking to all organisations using the Ghana Card, and urged those not yet connected to the NIA platform to start onboarding.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Identity Verification System Platform onboarding"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identity Verification System Platform (IVSP)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "NIA biometric verification against the National Identity Register",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Bank of Ghana customer identification via Ghana Card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

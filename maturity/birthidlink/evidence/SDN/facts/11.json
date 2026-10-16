@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-sudan-launches-sudapass-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "SUDAPASS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

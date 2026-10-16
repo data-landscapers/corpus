@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-sierra-leone-consults-private-sector-on-trusted-digital-id-framework",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "Biometric Update says Sierra Leone's national ID system is based on MOSIP, an open-source platform.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national ID system",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-bwa-2026-0400-0411",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Botswana Committee of Supply speech for 2026/2027 says P108,505,050 is requested to cover production of the National Identity Cards (Omang) and maintenance of the National Identification System.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "National Identification System (Omang)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

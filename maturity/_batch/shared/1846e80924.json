@@ -1,0 +1,16 @@
+{"slug": "2026-08-20-parliament-uganda-new-id-system-questions-digital-verification", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [{"system": "National Identification Register (NIRA)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NIRA", "tiers": ""}], "note": "QR verification on the new cards is stated as failing; no service is stated as authorised, piloted or in use."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The Prime Minister said 11.9 million Ugandans are unregistered for the national ID; against the population of 51.4 million this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"},
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The Prime Minister said 11.9 million Ugandans are unregistered for the national ID; against the population of 51.4 million this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The release says NIRA is mandated under the Registration of Persons Act, 2015 to create, manage, maintain and operate the National Identification Register, and the Prime Minister said its staff structure will grow from 571 to 997.", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA has issued new national ID cards carrying QR codes, with the Prime Minister citing 11.9 million unregistered and seven million unissued cards ahead of a mass registration drive.", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

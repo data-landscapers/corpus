@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The World Bank says a law passed on 28 May 2026 allows births to be registered en masse within the mass biometric enrolment operation (PRODIGY).",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "PRODIGY",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PRODIGY",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-26-somalia-national-id-issuance-reaches-1m",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIRA's director general said at least one million citizens were enrolled for the national ID, about 5% of Somalia's 19.7 million people (share calculated here from the population held, not stated by the document).",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "Somalia national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

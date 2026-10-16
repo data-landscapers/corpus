@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-17-newtimes-rwanda-digital-id-enrollment-8-million",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIDA's nationwide Digital ID registration began in October 2025 and had registered more than 8 million people and photographed more than 7 million by mid-August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital ID",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA's director general referred to the current physical ID cards, which are to be phased out in June 2027.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "physical ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital ID",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

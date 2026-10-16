@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-19-mauritius-national-identity-card-unit",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Mauritius National Identity Card Unit provides registration and issuance of the national identity card and mobile ID, and card-reading services to agencies.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MNIC 3.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

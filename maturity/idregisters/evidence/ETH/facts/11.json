@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The ID system is being integrated with tax administration, per officials.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "platform": "",
+   "owner": "Faydaverse (state-owned enterprise under Ethiopian Investment Holdings)",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

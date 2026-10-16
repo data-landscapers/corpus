@@ -1,0 +1,13 @@
+{"slug":"2026-05-23-wearetech-morocco-digitizes-national-id-renewal","studies":{
+"authentication":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"The DGSN announced the upcoming launch of a \"Mon e-ID\" mobile app to hold a digital copy of the national ID card, including on phones without NFC.","as_of":"2026-05-22","date_precision":"day","system":"Mon e-ID","class":"authentication"}],
+"systems":[{"system":"CNIE electronic national identity card","country_label":"Morocco","class":"idsystem","platform":"","owner":"DGSN","tiers":""},{"system":"Mon e-ID","country_label":"Morocco","class":"authentication","platform":"mobile app","owner":"DGSN","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No link between the civil register and the ID system is stated."}}},
+"idcoverage":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No count or share of people holding the ID is given."}}},
+"idfrombirth":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Who operates and maintains the system beyond DGSN running the renewal platforms is not stated."}}},
+"idregisters":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The document describes the electronic national identity card (CNIE) as in use, with renewal ending in an in-person appointment for biometric verification, per the DGSN.","as_of":"2026-05-22","date_precision":"day","system":"CNIE electronic national identity card","class":"idsystem"}],
+"systems":[],"note":""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-eth-biometricupdate-fayda-developer-sandbox",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Biometric Update says Ethiopia's National ID Program, re-established in August as the public entity Faydaverse Digital Solutions, runs the Fayda Partner Portal sandbox and the VeriFayda authentication platform.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-11-anid-plateaux-ouest-enregistrement",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANID has assigned a unique identification number (NIU) to more than 6 million Togolese by end 2025, with enrolment extending to Kloto and Wawa prefectures from May 2026 under WURI-Togo.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

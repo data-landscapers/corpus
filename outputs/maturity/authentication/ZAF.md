@@ -1,0 +1,13 @@
+# South Africa
+
+## Authentication
+
+**Authentication service.** [Minister Leon Schreiber unveiled South Africa's first working digital identity credential, bound to his own smartphone, as a prototype](<https://www.citizen.co.za/news/end-of-the-line-heres-when-the-old-sa-green-id-book-will-be-discontinued/>). [Minister Leon Schreiber demonstrated a working MyMzansi digital ID credential issued through the population register, but gave no public date; the annual performance plan targets hosting by 31 March 2027 and citizen credentials in a mobile wallet in 2027/2028](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>). [Mobile operators and the Department of Justice propose reforms to SIM registration under RICA that add real-time checks against the Home Affairs database; ACT has not disclosed how the new process will work](<https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/>).
+
+**Used across services.** [Mobile network operators verify identities against the Home Affairs database and that Home Affairs verification systems are already used by banks, so telecoms and banking both check against it](<https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/>). [The article names banks (TymeBank, Capitec), mobile networks (Vodacom, MTN) and insurers as users of the NPR verification check](<https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/>).
+
+***Noted, not assessed***. [NPR identity verification service (OVS)](<https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost>); [SASSA grant payments](<https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost>); [Online Verification System (OVS)](<https://www.gov.za/news/media-statements/home-affairs-corrects-unsustainable-under-pricing-national-population>); [SIM registration (RICA)](<https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/>); [Home Affairs identity verification](<https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/>); [SASSA biometric verification](<https://pmg.org.za/committee-question/37674/>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

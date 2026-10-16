@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-20-maposte-app-postal-digital-id-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update describes the RNPP as ONECI's biometric register of natural persons, to which MaPoste is linked.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Cote d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "MaPoste",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI and La Poste de Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

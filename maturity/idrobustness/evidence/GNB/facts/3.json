@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Guinea-Bissau already has a functional biometric national ID card system, being modernised under a Swiss-financed UNDP 'Building National ID' project, and has fully operationalised the ECOWAS ENBIC biometric ID card.",
+   "as_of": "2025-06-10",
+   "date_precision": "day",
+   "system": "national biometric ID card (ENBIC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

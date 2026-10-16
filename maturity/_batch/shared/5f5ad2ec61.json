@@ -1,0 +1,11 @@
+{"slug": "2026-06-16-cni-extortion-discrimination-ndele-corbeaunews", "studies": {
+"authentication": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No authentication service mentioned."}}},
+"birthidlink": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No operator or maintainer named."}}},
+"idregisters": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number mentioned."}}},
+"idrobustness": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Corbeau News Centrafrique reports that national identity cards (CNI) are being issued through police and registry offices in Ndele and other towns including Bangui, with applicants demanding payment of 100,000 to 200,000 CFA francs.", "as_of": "2026-06-15", "date_precision": "day", "system": "carte nationale d'identite", "class": "idsystem"}
+], "systems": [{"system": "carte nationale d'identite (CNI)", "country_label": "CAF", "class": "idsystem", "platform": "", "owner": "police", "tiers": "national ID card"}], "note": ""}}}
+}}

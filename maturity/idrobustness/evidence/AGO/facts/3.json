@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-impressao-do-bi-abrange-todas-as-provincias",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Angola's Justice Minister says the Bilhete de Identidade is now printed in all 21 provinces under the Universalisation Plan.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

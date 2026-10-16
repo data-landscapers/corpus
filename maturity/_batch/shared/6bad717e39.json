@@ -1,0 +1,142 @@
+{
+ "slug": "2026-03-25-lesotho-digital-service-id-pilot-govls",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes enrolment in a pilot identification system, not an authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a pilot of about 10,000 participants is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "No operator or owner of the system is named."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Lesotho's Ministry of Information (MICSTI) says a pilot of the new digital/service identification system begins on 2 April 2026 with about 10,000 participants, who enrol with a valid national ID document, a registered SIM and biometric registration.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "Digital/service identification system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital/service identification system",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

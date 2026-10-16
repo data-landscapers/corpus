@@ -1,0 +1,8 @@
+{"slug": "2026-07-31-interoperable-birth-registration-digital-id-plans", "studies": {
+"birthidlink": {"countries": {"SSD": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "South Sudan's Directorate of Civil Registry, Nationality, Passport and Immigration says it is planning to digitise civil registration and link it with the national ID system, with Justice, Interior and Health ministries involved, per Biometric Update.", "as_of": "2026-07-31", "date_precision": "day", "system": "", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Only 'one of the lowest national ID rates' is stated, with no figure."}}},
+"idfrombirth": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Plan to link only; no number at birth stated."}}},
+"idmaintenance": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on who operates the system."}}},
+"idregisters": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No statement of the ID system's state beyond low coverage."}}}
+}}

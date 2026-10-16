@@ -1,0 +1,9 @@
+{"slug": "2024-09-25-libre-circulation-ouverture-frontieres-cemac", "studies": {
+"authentication": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The document is about border-crossing documents; no authentication service is stated."}}},
+"birthidlink": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No count or share is given."}}},
+"idfrombirth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No operation of the ID system is described."}}},
+"idregisters": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is mentioned."}}},
+"idrobustness": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A police circular lists a biometric national ID card among accepted border documents, but the document does not say the country issues one."}}}
+}}

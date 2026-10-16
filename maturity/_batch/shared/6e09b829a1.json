@@ -1,0 +1,9 @@
+{"slug": "2026-08-27-timeslive-home-affairs-id-fraud-smart-id", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only an electronic travel authorisation is mentioned, which is not an identity authentication service."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No exchange between the civil register and the ID system is stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only about 16 million green ID book holders are counted, not total people enrolled."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on who operates or owns the system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Home affairs minister Leon Schreiber said the department is expanding access to the smart ID card to replace the manual green ID book, which about 16 million people still hold, and that about 300,000 IDs are blocked where duplicate IDs were detected.", "as_of": "2026-08-27", "date_precision": "day", "system": "smart ID card", "class": "idsystem"}], "systems": [{"system": "smart ID card", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": "smart ID card; green ID book"}], "note": ""}}}
+}}

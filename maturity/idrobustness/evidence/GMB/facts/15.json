@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Public registration for the new biometric national ID card opened on 4 August 2026 in Greater Banjul under the National Identity Management System launched 30 June 2026, with phased expansion to other regions from 7 September 2026.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The government says the system combines a national identity register with biometric technology to reduce duplicate identities and fraud.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Margins ID Group",
+   "owner": "Ministry of Interior; Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

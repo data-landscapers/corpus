@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Registration System (NPRS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "The link described is between the population register and social protection, not between a civil register and a separate ID system."
+}

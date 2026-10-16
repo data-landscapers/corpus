@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "robustness",
+   "stage": "4",
+   "system": "inservice",
+   "biometric": "checked",
+   "assurance": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TZA-002",
+   "gaps": "No source held since October 2023 reports a certification, audit or assurance level for the system.",
+   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
+  }
+ ]
+}

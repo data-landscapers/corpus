@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-03-bungoma-id-registration-hampered-by-staff-vehicle",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau registers residents in Bungoma and elsewhere and produces national identity cards at its headquarters, with 19,361 registrations under the new programme in July to September 2026.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national ID card",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

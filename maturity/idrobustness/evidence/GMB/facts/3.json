@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-thepoint-gambia-biometric-id-rollout-schedule",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Government says registration and issuance of the new Biometric National Identity Card for citizens 18 and over began on 4 August 2026 at seven Greater Banjul centres, with further regions from 7 to 21 September 2026 (Ministry of Interior announcement).",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Biometric National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric National Identity Card",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior; Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

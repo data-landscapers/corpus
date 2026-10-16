@@ -1,60 +1,8 @@
-{
- "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
- "studies": {
-  "dataexchange": {
-   "countries": {
-    "NAM": {
-     "facts": [
-      {
-       "sub_indicator": "exchange",
-       "aspect": "platform",
-       "value": "underway",
-       "fact": "The government is deploying NamX, a data-exchange platform for secure inter-ministry sharing, per UNDP Namibia.",
-       "as_of": "2025-09",
-       "date_precision": "month",
-       "system": "NamX",
-       "class": "exchange"
-      }
-     ],
-     "systems": [
-      {
-       "system": "NamX",
-       "country_label": "Namibia",
-       "class": "exchange",
-       "platform": "",
-       "owner": "Government of Namibia",
-       "tiers": ""
-      }
-     ],
-     "note": "as_of is the document's published date, 2025-09-03; it gives no event date."
-    }
-   }
-  },
-  "idverification": {
-   "countries": {
-    "NAM": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "e-ID",
-       "country_label": "Namibia",
-       "class": "other",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      },
-      {
-       "system": "National Population Register",
-       "country_label": "Namibia",
-       "class": "other",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "The e-ID is not yet launched (planned 2026); no other system is stated to check people against it."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)", "studies": {
+"birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The 2024 Act consolidates civil records by law, but no exchange with the ID system is stated."}}},
+"idcoverage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No coverage figure stated."}}},
+"idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NAM": {"facts": [], "systems": [{"system": "National Population Register", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "MHAISS", "tiers": ""}], "note": "The register was built by Namibia with support, but it is not stated to be in service or who maintains it."}}},
+"idregisters": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"NAM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "UNDP says Namibia built its own National Population Register, tested remote biometric enrolment on hand-held devices and is finalising preparations to launch the e-ID in 2026.", "as_of": "2025-09-03", "date_precision": "day", "system": "Namibia digital ID (e-ID)", "class": "idsystem"}], "systems": [{"system": "National Population Register", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "MHAISS", "tiers": ""}, {"system": "Namibia digital ID (e-ID)", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "MHAISS", "tiers": ""}], "note": ""}}}
+}}

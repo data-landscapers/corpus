@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital identity ecosystem",
+   "country_label": "LSO",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil registration is named alongside digital identity but no exchange of records is stated."
+}

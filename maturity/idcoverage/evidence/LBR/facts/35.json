@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIR says it had enrolled 740,000 people by December 2024, about 13% of Liberia's 5.7 million (computed from the population given).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "NBIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System (NBIS)",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

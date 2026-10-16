@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Civil Service Agency uses the NIR's e-verification portal under a May 2024 MOU, per NIR media relations head Sargbe.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "NIR e-verification portal",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System (NBIS)",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

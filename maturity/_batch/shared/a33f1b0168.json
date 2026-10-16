@@ -1,0 +1,9 @@
+{"slug":"2026-09-02-wearetech-benin-expert-identite-numerique","studies":{
+"authentication":{"countries":{"BEN":{"facts":[],"systems":[{"system":"ANIP identification system","country_label":"Benin","class":"idsystem","platform":"","owner":"ANIP","tiers":""}],"note":"No authentication service is stated."}}},
+"birthidlink":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idcoverage":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No count or share is given."}}},
+"idfrombirth":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idmaintenance":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The call seeks a business model and roadmap covering ANIP operation and maintenance; it states no operator, transfer or ownership."}}},
+"idregisters":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"idrobustness":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The call names ANIP as the agency in charge of the system but states no issuance, build or biometrics."}}}
+}}

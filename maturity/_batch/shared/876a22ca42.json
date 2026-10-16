@@ -1,0 +1,9 @@
+{"slug":"2026-08-03-niger-mission-technique-burkina-identite-numerique","studies":{
+"authentication":{"countries":{"BFA":{"facts":[],"systems":[{"system":"Office national d'identification","country_label":"Burkina Faso","class":"idsystem","platform":"","owner":"ONI","tiers":""}],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Interconnection of administrations is discussed without any civil register to ID link stated."}}},
+"idcoverage":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
+"idfrombirth":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Who operates or owns the system is not stated."}}},
+"idregisters":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"BFA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Niger's delegation visited Burkina Faso, described as recognised in the sub-region for the advances of its identification system, including the Office national d'identification.","as_of":"2026-07-30","date_precision":"day","system":"Office national d'identification","class":"idsystem"}],"systems":[{"system":"Office national d'identification","country_label":"Burkina Faso","class":"idsystem","platform":"","owner":"ONI","tiers":""}],"note":""}}}
+}}

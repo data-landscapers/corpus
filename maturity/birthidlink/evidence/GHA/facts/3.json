@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-14-ghana-card-number-at-birth-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Ghana Card Number at Birth system, launched by the Vice President, integrates the Births and Deaths Registry, Ghana Health Service and National Identification Authority systems so a newborn's birth notification goes to the registry, which returns a birth registration number, and the child receives a unique ID number linked to the mother's identity.",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "Ghana Card Number at Birth",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification Register",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

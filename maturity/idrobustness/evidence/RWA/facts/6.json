@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-08-rwa-nida-temporarily-suspends-photography-exercise-for-e-ids",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIDA suspended the photography exercise for the e-Indangamuntu digital ID on 8 October 2026, with more than seven million people already photographed by August 2026.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "e-Indangamuntu",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Indangamuntu",
+   "country_label": "RWA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

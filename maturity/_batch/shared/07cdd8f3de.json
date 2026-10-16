@@ -1,0 +1,130 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "An interoperability platform is mentioned but no authentication service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Ministry of Digital Affairs says the National Identification Number (NNI) is attributed to every person entered in a civil register, under Law 39/AN/19 of 21 January 2019.",
+       "as_of": "2019-01-21",
+       "date_precision": "day",
+       "system": "RNPP / NNI",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Djibouti",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Direction Generale de la Population et de la Famille, ANSIE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NNI",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Djibouti",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Direction Generale de la Population et de la Famille, ANSIE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Ministry of Digital Affairs says use of the NNI is obligatory for all institutions to exchange data between public bodies, and an interoperability platform with ANSIE is being set up.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NNI",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of Digital Affairs says Law 39/AN/19 of 21 January 2019 created the biometric National Register of Natural Persons (RNPP) and the NNI, a project to deploy a new single biometric system.",
+       "as_of": "2019-01-21",
+       "date_precision": "day",
+       "system": "RNPP / NNI",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

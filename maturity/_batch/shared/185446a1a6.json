@@ -1,0 +1,4 @@
+{"slug": "2026-02-18-cog-sifec-validation-etat-civil-mfbpp", "studies": {
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "SIFEC is a civil-status software on its own; no exchange with an ID system is stated."}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "SIFEC is said to guarantee each child a right to identity, but no ID number at birth is stated."}}}
+}}

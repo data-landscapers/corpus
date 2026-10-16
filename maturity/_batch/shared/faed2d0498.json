@@ -1,0 +1,164 @@
+{
+ "slug": "2026-09-18-sle-calabash-ncra-identity-day-inmates",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The National Civil Registration Authority is the single body described as handling both civil registration and national identification.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "National Identification Number and National ID card",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The National Civil Registration Authority registered 100 inmates for National Identification Numbers and ID cards, with mobile registration teams and decentralised services.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "National Identification Number and National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NCRA registered 100 inmates for National Identification Numbers and National ID cards, issued free by Government.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "National Identification Number and National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number and National ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

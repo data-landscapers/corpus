@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-24-somalia-eaqoonsi-app-dpi",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA registers people at its centers and gives them an 11-digit national ID number, with nearly two million registered, per NIRA's director and Hiiraan Online.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

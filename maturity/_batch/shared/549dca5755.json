@@ -1,0 +1,9 @@
+{"slug": "2026-07-27-mozambique-national-id-legal-framework-dnic", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports Mozambique recently tendered a mobile ID and digital signature infrastructure project.", "as_of": "2026-07-27", "date_precision": "day", "system": "mobile ID and digital signature infrastructure project", "class": "authentication"}], "systems": [{"system": "National identity card (DNIC)", "country_label": "Mozambique", "class": "idsystem", "platform": "", "owner": "DNIC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No link between civil register and ID is described."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Gives cards issued in H1 2026 (856,101), not people enrolled or a share of the population."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States DNIC issues the cards but not who operates or maintains the platform."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No public register using the ID number is mentioned."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update, citing the National Directorate of Civil Identification (DNIC), reports 856,101 national ID cards issued between January and June 2026, with biometric data collected for issuance.", "as_of": "2026-06", "date_precision": "month", "system": "National identity card (DNIC)", "class": "idsystem"}], "systems": [{"system": "National identity card (DNIC)", "country_label": "Mozambique", "class": "idsystem", "platform": "", "owner": "DNIC", "tiers": ""}], "note": ""}}}
+}}

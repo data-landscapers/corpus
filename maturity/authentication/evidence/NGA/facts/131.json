@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-16-fij-npc-vitalreg-wrong-family-records",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A Lagos man verified his National Identification Number (NIN) and account on the NPC's VitalReg birth-registration platform before reaching the Birth Section, as he told FIJ.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "VitalReg",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VitalReg",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

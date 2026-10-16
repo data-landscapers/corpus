@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-02 Benin reports 75% of identification services accessed through digital platforms",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "ANIP's data sheet reports 3.8 million authentications done by telecommunications operators in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Telecom operator authentication against ANIP"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom operator authentication against ANIP",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "ANIP identity platforms",
+   "owner": "Telecom operators",
+   "tiers": ""
+  },
+  {
+   "system": "ANIP eKYC platform",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "ANIP",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "ePass",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "Seamfix GovSmart",
+   "owner": "Ministry of Foreign Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

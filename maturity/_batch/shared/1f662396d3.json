@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-clubofmozambique-dnic-identity-cards-first-semester","studies":{
+"authentication":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Online appointment scheduling is not an authentication service."}}},
+"birthidlink":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on civil register and ID exchange."}}},
+"idcoverage":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Counts cards produced and applications, not people enrolled."}}},
+"idfrombirth":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"MOZ":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The National Directorate of Civil Identification (DNIC) itself received 813,307 applications, produced 856,101 national identity cards and ran 1,749 mobile capture units in the first half of 2026, per its spokesperson.","as_of":"2026-06","date_precision":"month","system":"National Identity Card (BI)","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"MOZ":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"DNIC produced 856,101 National Identity Cards (BI) in the first half of 2026, with free first-time issuance nationwide since 13 November 2023, per its spokesperson.","as_of":"2026-06","date_precision":"month","system":"National Identity Card (BI)","class":"idsystem"}],"systems":[{"system":"National Identity Card (BI)","country_label":"Mozambique","class":"idsystem","platform":"","owner":"DNIC","tiers":""}],"note":""}}}
+}}

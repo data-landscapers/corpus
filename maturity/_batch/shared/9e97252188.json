@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-31-tgo-national-id-mobile-registration-teams",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile enrolment and a 2028 majority-coverage aim are stated; no count, operator or system detail."
+    }
+   }
+  }
+ }
+}

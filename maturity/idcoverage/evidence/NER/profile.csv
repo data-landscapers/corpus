@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,coverage,share,coverage,third,2026-08-28,NER-002,NER-001=below,
+NER,coverage,everyone,coverage,,,,,nothing held
+NER,coverage,births,coverage,,,,,nothing held

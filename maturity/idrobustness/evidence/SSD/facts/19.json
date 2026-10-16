@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Hold the Child says that over five years its work with the Directorate of Civil Registry and UNHCR has piloted National ID processing, while National ID cards are not yet issued at scale.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Civil Registry, Nationality, Passport and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

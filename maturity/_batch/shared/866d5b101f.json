@@ -1,0 +1,88 @@
+{
+ "slug": "2024-01-01 Building a National Identification System - Scanning and Digitizing the Civil Registry Books in Guinea-Bissau",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "UNDP and the Swiss Confederation support a project to build a national identification system in Guinea-Bissau, digitising the civil registry books as the main national platform, with the Ministry of Justice and Human Rights as beneficiary.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National identification system (UNDP project)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil registry digitisation platform",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": "births, deaths, marriages, annotations"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

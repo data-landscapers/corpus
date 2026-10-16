@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-07-sudan-invisible-children-bbc",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question; the article covers registration of children born in war."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-08-rwa-nida-temporarily-suspends-photography-exercise-for-e-ids",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Irembo pre-enrolment is not an authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only civil-record corrections ahead of photography; no link stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Photographed is not enrolled or holding; no holder count stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator or ownership stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No register keyed on the ID stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "NIDA suspended the photography exercise for the e-Indangamuntu digital ID on 8 October 2026, with more than seven million people already photographed by August 2026.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "e-Indangamuntu",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Indangamuntu",
+       "country_label": "RWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

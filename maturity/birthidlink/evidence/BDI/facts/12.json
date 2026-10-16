@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Burundi Eco reports the Ministry of the Interior presented on 6 May 2026 one digital platform for managing civil status documents and producing the future biometric national ID card.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "plateforme numerique d'etat civil and carte nationale d'identite biometrique",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identite biometrique",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

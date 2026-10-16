@@ -1,0 +1,9 @@
+{"slug": "2026-09-17-lbr-allafrica-nir-free-id-cards-disadvantaged-only", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only that the registry keeps custody of data while OSD invests; no operating role stated."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No public register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Liberia's National Identification Registry says it is seeking about US$54.7 million to fund free national ID cards for disadvantaged citizens, to start once the agreement before the Legislature is ratified, and that county mapping for registration has begun.", "as_of": "2026-09-15", "date_precision": "day", "system": "National identification card", "class": "idsystem"}], "systems": [{"system": "National identification card", "country_label": "Liberia", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-11-bwa-businesstechafrica-national-ekyc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Business Tech Africa reports that the Bankers' Association of Botswana has launched a national eKYC project that lets banks verify customer identities against the national citizen database; the article gives no launch date.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National electronic Know-Your-Customer (eKYC) project"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The article says the Bankers' Association launched an eKYC system in 2021 that allowed commercial banks to verify identity cards against the national citizen database.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Bankers' Association of Botswana eKYC system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National electronic Know-Your-Customer (eKYC) project",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bankers' Association of Botswana",
+   "tiers": ""
+  },
+  {
+   "system": "Bankers' Association of Botswana eKYC system (2021)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Bankers' Association of Botswana",
+   "tiers": ""
+  },
+  {
+   "system": "Botswana Savings Bank eKYC and anti-money-laundering automation system",
+   "country_label": "Botswana",
+   "class": "",
+   "platform": "",
+   "owner": "Botswana Savings Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

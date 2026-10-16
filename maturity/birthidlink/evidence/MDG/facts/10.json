@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "An expert quoted by the document described Madagascar's digital ID as linked with civil registration, under a retroactive civil registration framework letting undocumented people obtain foundational documents.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "Madagascar digital ID (PRODIGY)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

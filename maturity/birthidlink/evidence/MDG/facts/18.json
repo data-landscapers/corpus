@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-30-national-biometric-enrolment-begins",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Madagascar's Digital Governance Unit ensures interoperability between the Justice Department, the Civil Registry and other public services for the new Unique Identifier Number (NUI) programme, as TechAfrica News reports.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "Unique Identifier Number (NUI)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unique Identifier Number (NUI)",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior and Decentralization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

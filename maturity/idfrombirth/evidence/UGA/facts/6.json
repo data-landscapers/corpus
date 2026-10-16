@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-07-monitor-21-million-transferred-new-nira-system",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "NIRA says about 636,000 children have been enrolled and it has registration centres in most major hospitals where parents register newborns.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "NIRA national ID system",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification and Registration Authority (NIRA) new ID system",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

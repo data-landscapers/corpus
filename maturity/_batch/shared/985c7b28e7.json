@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-06-biometric-document-production-suspended-semlex-genkey-transition-alwatwan",
+ "studies": {
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Supplier change from Semlex to GenKey and data held in Comoros; nothing on who operates or maintains the ID system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Al-Watwan reports the Interior Ministry suspended production of biometric documents, including national cards, from 2 and 6 March to 26 March 2026 for a change of production provider, Semlex (17 years) to GenKey.",
+       "as_of": "2026-03-06",
+       "date_precision": "day",
+       "system": "national biometric card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

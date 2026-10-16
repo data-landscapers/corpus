@@ -1,0 +1,99 @@
+{
+ "slug": "2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "Zimbabwe's Civil Registry Department registers births and deaths and issues national identity documents, so one body holds both functions, per the home affairs minister.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "Civil Registry Department",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Civil Registry Department issues national identity documents, per the home affairs minister.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "national identity documents",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national identity documents",
+       "country_label": "Zimbabwe",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Civil Registry Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

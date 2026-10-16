@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-19-fake-national-numbers-for-sale-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Alwasat reports the civil registry's national number system is issuing national numbers, with about 1,703 forged-number cases caught from January to April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National Number system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Interior Minister of the Government of National Unity said in July 2024 that projects were adopted, chiefly an electronic ID card issuance system.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Electronic ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Number system",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

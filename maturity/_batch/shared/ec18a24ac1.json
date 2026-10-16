@@ -1,0 +1,142 @@
+{
+ "slug": "2026-07-30-botswana-p423m-pki-project-collapse",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Weekend Post reports a P423 million public key infrastructure for digital identity, encryption and electronic signatures was funded and handed to the Directorate of Intelligence and Security, but remains incomplete and non-operational, per the Permanent Secretary at a Public Accounts Committee hearing.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "Public Key Infrastructure",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Public Key Infrastructure",
+       "country_label": "Botswana",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Directorate of Intelligence and Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  }
+ }
+}

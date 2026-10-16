@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-25-namibia-electronic-id-rollout-september-2026",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "OPM's Director of Architecture said government has already saved about N$16 million on social grants through electronic identity verification, including preventing payments to deceased beneficiaries.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Social grants identity verification"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Officials said the E-ID will let different government systems share verified identity information and that government is developing authentication tools, standards and support so businesses including SMEs can use the E-ID infrastructure, with rollout set for September 2026.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "E-ID authentication tools for government and business systems"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic identity (E-ID) card",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",
+   "tiers": ""
+  },
+  {
+   "system": "Social grants identity verification",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

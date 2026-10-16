@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-03-niger-mission-technique-burkina-identite-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Office national d'identification",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": "No authentication service is described."
+}

@@ -1,0 +1,99 @@
+{
+ "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Le Sahel says Niger created the ANEI, the agency for registration and identification of persons, to administer the RNP and its associated registers, alongside operationalising a national civil-status register (ordonnance 2026-21).",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Registre National de la Population",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Le Sahel quotes a Interior Ministry official saying the Registre National de la Population will enrol people and assign a unique identifier, with a first enrolment phase in Niamey's five communal districts and extension to other regions in 2027, alongside a new biometric national ID card.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Registre National de la Population",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

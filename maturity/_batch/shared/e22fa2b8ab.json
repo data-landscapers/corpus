@@ -1,0 +1,88 @@
+{
+ "slug": "2026-04-29-bi-documento-unico-valido-identificacao",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Angola's Bilhete de Identidade is issued to citizens (first issue free) with QR code, barcode and microchip; the Justice Minister says a bill would make it the sole valid ID.",
+       "as_of": "2026-04-29",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

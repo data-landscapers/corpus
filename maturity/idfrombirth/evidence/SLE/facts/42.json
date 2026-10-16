@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-sle-calabash-ncra-identity-day-inmates",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identification Number and National ID card",
+   "country_label": "SLE",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this question."
+}

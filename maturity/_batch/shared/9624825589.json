@@ -1,0 +1,10 @@
+{"slug":"2026-05-26-dha-treasury-employee-verification-platform","studies":{
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No link with the civil register is stated."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department.","as_of":"2026-06-15","date_precision":"day","system":"employee verification portal","class":"register"}],
+"systems":[{"system":"population register","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Home Affairs says its digital identity verification capabilities, linked to the population register, enable liveness tests and real-time biometric verification of employee records.","as_of":"2026-05-26","date_precision":"day","system":"population register","class":"idsystem"}],
+"systems":[],"note":""}}}
+}}

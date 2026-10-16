@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-kenya-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Kenya's Civil Registration Services say interoperability between CRVS and National ID systems is established: parents' national ID details are in birth records and the Birth Entry Number is in National ID registration, with birth records used to verify identity at ID registration.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "IPRS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPRS (Integrated Population Registration System)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Registration Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

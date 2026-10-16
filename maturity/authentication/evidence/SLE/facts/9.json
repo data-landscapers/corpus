@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-05-sierra-leone-bsl-nin-deadline-for-banks",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Bank of Sierra Leone directive of 2 September 2025 set 31 December 2025 as the deadline for all commercial banks and financial institutions to require a valid NCRA-issued NIN for account opening, deposits, withdrawals and transfers, to strengthen identity verification and KYC.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "Bank NIN requirement (BSL directive)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The article says the telecommunications sector had an earlier NIN compliance deadline of 31 October 2025.",
+   "as_of": "2025-09-05",
+   "date_precision": "day",
+   "system": "Telecom NIN requirement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank NIN requirement (BSL directive)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Sierra Leone; commercial banks",
+   "tiers": ""
+  },
+  {
+   "system": "Telecom NIN requirement",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "telecommunications sector",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "registers",
+   "stage": "no evidence",
+   "register": "",
+   "several": "",
+   "matching": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether public registers use the national ID number.",
+   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
+  }
+ ]
+}

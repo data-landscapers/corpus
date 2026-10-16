@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-namibia-id-registration-taken-to-khomas-schools",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Ministry of Home Affairs itself takes applications, prints and distributes national identity documents, printing 166,237 between 1 April 2025 and 30 June 2026, per its spokesperson.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National identity document",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

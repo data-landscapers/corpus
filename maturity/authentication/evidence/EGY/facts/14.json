@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The NTRA, with ITIDA, CyShield and licensed e-signature companies, launched a biometric verification and electronic signature system for remote telecoms services, running in a pilot phase that licensed mobile operators will make available gradually in their apps.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "biometric verification and e-signature system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NTRA biometric verification and e-signature system",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "integration platform connected to the Interior Ministry's Civil Status Sector",
+   "owner": "NTRA",
+   "tiers": "pilot"
+  }
+ ],
+ "note": ""
+}

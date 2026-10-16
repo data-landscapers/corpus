@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-27-dmap-tors-data-centre-cloud-architect",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Digital Malawi Acceleration Project's Component 2 (US$150 million project, World Bank-financed) covers Next Generation Digital ID and identity verification services including electronic KYC, with the Bomalathu data exchange to be expanded to face government agencies and private players including financial institutions.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "DMAP Component 2 identity verification services and eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DMAP Component 2 identity verification services and eKYC",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalization; PPPC implementing",
+   "tiers": ""
+  },
+  {
+   "system": "Bomalathu data exchange platform",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-zwe-crvs-health-integration-egmrg-presentation",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Zimbabwe's Civil Registry Department says it has introduced automated validation and synchronization with the National Population Register, and a pilot of CRVS-Health interoperability in 3 provinces is planned for Q1-Q2 2027.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

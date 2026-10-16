@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-egypt-national-id-system-citc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID System (national number project)",
+   "country_label": "EGY",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Status Organization",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this question."
+}

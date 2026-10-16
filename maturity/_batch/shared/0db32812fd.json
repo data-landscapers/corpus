@@ -1,0 +1,68 @@
+{
+ "slug": "2024-05-24 Burundi - biometric national ID card will not be available for 2025 voter enrolment",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only that the biometric ID card will not be ready for 2025 voter enrolment; nothing answers this question."
+    }
+   }
+  }
+ }
+}

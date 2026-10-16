@@ -1,0 +1,9 @@
+{"slug": "2026-05-29-cod-actualitecd-onip-identification-nationale-ppp", "studies": {
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "No link between civil register and ID is stated."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given; the last national identification was 1984."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "The private partner is unnamed and no operating or maintenance role is stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No public register keyed on an ID number is stated."}}},
+"idrobustness": {"countries": {"COD": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "ONIP, the DRC national identification office, announced the start of operations of the second national identification of the population coupled with national identity card issuance, to be carried out through a public-private partnership, according to ONIP jurist Serge Mulindwa.", "as_of": "2026-05", "date_precision": "month", "system": "deuxieme identification nationale de la population / carte d'identite nationale", "class": "idsystem"}], "systems": [{"system": "Identification nationale de la population / carte d'identite nationale", "country_label": "RDC", "class": "idsystem", "platform": "", "owner": "ONIP", "tiers": ""}], "note": ""}}}
+}}

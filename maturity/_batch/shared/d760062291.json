@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-13-unicef-zimbabwe-civil-registry-eight-districts",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers computerising civil registry offices and mobile registration, with no ID link or number at birth stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers computerising civil registry offices and mobile registration, with no ID link or number at birth stated."
+    }
+   }
+  }
+ }
+}

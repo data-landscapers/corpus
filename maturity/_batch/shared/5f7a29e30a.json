@@ -1,0 +1,8 @@
+{"slug":"2026-08-25-eswatini-crvs-gains-2025-report","studies":{
+"authentication":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Document gives birth and death registration rates only; no link to the ID system."}}},
+"idcoverage":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Gives birth registration at 61% and death at 62% (2025), not all births and not ID enrolment."}}},
+"idfrombirth":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No ID number at birth is stated."}}},
+"idmaintenance":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No ID system operation is stated."}}},
+"idregisters":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No national ID system is described."}}}}}

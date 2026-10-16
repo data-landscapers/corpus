@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-28-tgo-e-id-togo-6-millions-enregistres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-ID Togo",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": "Authentication and verification mechanisms are described as a future need, not as under way or in service."
+}

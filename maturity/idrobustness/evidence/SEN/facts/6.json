@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-sen-senegaldirect-cartes-identite-prorogation-exceptionnelle",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Senegal's ECOWAS biometric ID card is in circulation, with card production resumed from 1 April 2026 after a cyberattack on the DAF and about 700,000 cards due for renewal, per the interior minister.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Carte d'identite biometrique CEDEAO",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte d'identite biometrique CEDEAO",
+   "country_label": "SEN",
+   "class": "idsystem",
+   "platform": "Iris (Malaysia) production contract",
+   "owner": "Ministere de l'Interieur / DAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

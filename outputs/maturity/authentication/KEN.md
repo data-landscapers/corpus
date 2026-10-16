@@ -1,0 +1,13 @@
+# Kenya
+
+## Authentication
+
+**Authentication service.** [Kenya's Civil Registration Services says its CRVS system is integrated with the National ID system, so parents' National ID details are held in birth registration records and parents' details are verified during birth registration](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>). [IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification](<https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/>). [Tech-ish reports that Starlink Kenya recently enforced ID verification so subscribers meet the national KYC requirements set by the Communications Authority; it does not say what the ID is checked against](<https://tech-ish.com/2026/06/19/starlink-hits-25000-subscribers-in-kenya/>).
+
+**Used across services.** [IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification](<https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/>). [The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC](<https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/>).
+
+***Noted, not assessed***. [Kenya CRVS-National ID integration](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>); [IPRS](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>); [Social Health Authority (SHA) system](<https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout>); [Maisha Namba](<https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout>); [SIM card registration](<https://usajili.go.ke/refugees-can-now-register-sim-cards-using-refugee-id-new-telecom-regulations-affirm>); [Maisha Integrated Database eKYC layer](<https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

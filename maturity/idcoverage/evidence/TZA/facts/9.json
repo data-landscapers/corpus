@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-tanzania-pushes-crvs-id-integration-as-birth-registration-becomes-a-dpi-layer",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Over 22 million Tanzanians held a National Identification Number as of April 2026, per an FSDT analysis; against 70.5 million people this is about 31 percent or a little more (derived, 'over' is a lower bound).",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

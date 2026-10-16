@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-11-sle-sierraloaded-ncra-2025-vital-statistics-validation",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers vital statistics validation only; no link to the ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number at birth stated."
+    }
+   }
+  }
+ }
+}

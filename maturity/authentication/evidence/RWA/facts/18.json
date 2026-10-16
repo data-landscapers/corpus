@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-rwa-umunota-nida-digital-id-10-million-registered",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "NIDA says the new digital identity system will let citizens use a digital version of their ID through a QR code on a phone or computer and a token, separate from the national ID number, to access personal information.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Rwanda digital identity system (NIDA)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The DGSN 2024 annual report says more than 30 public and private institutions were authorised to use its Trusted Third Party Identity Verification platform, integrating criminal records, prison administration and foreign trade.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Trusted Third Party Identity Verification"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The DGSN says its verification platform has 17 framework agreements covering Bank Al-Maghrib, banking groups and healthcare providers, and authorised institutions in criminal records, prison administration and foreign trade.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Trusted Third Party Identity Verification"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trusted Third Party Identity Verification",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

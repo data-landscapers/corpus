@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "FaydaVerse (formerly the National ID Program) has registered more than 51 million citizens, about 37.6% of 135.5 million people (share computed from the held population figure).",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

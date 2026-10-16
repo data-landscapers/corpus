@@ -1,0 +1,23 @@
+{
+ "slug": "2025-08-05-ang-acordo-justica-educacao-registo-nascimento-matricula",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document links birth registration to school enrolment; no ID number or ID system link is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document links birth registration to school enrolment; no ID number or ID system link is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Liberia's National Identification Registry executive director says it plans to link national ID with civil registration and vital statistics in one NID-CRVS system under a signed $54 million agreement with OSD that awaits parliamentary approval.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "NID-CRVS system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry national ID",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

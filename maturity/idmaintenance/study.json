@@ -1,0 +1,150 @@
+{
+ "id": "idmaintenance",
+ "study_file": "maturity-study-idmaintenance.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--national-maintenance-of-id-and-credentials-systems"
+ ],
+ "carry": [
+  "dpi.id--national-maintenance-of-id-and-credentials-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "IDEMIA",
+  "Thales",
+  "Gemalto",
+  "Semlex",
+  "Zetes",
+  "Laxton",
+  "Veridos",
+  "IRIS Corporation",
+  "Muehlbauer",
+  "Mühlbauer",
+  "OT-Morpho",
+  "Morpho",
+  "vendor lock-in",
+  "source code"
+ ],
+ "sub_indicators": [
+  {
+   "key": "maintenance",
+   "label": "National maintenance of id and credentials systems",
+   "subject": "dpi.id",
+   "text": "National maintenance of id and credentials systems: national maintenance of id and credentials systems",
+   "indicator_id": "dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems",
+   "class": "idsystem",
+   "norm_short": "The African Union's interoperability framework asks that countries own and operate their identity systems on open standards, with no vendor lock-in and sustainable finance.",
+   "criteria": [
+    "A source from the past three years says a foreign supplier builds, hosts and runs the national ID system, with no national capacity.",
+    "National operation of the ID system is a stated goal, or a transfer of skills is announced, while a supplier still runs it.",
+    "The national authority operates the ID system day to day, even on a platform built abroad.",
+    "The authority's own staff or a national company maintain and upgrade the ID system, or the foreign contract has ended.",
+    "The ID system in service runs on code the state owns: built in-house, on open source such as MOSIP, or with the code handed over."
+   ],
+   "criteria_of": "76daf3c0cacc"
+  }
+ ],
+ "classes": [
+  "idsystem",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "operation",
+   "name": "Operated nationally",
+   "role": "coverage",
+   "defer": [
+    "supplier"
+   ],
+   "prefer": [
+    "national",
+    "transfer"
+   ],
+   "values": [
+    "national",
+    "transfer",
+    "supplier"
+   ]
+  },
+  {
+   "key": "maintenance",
+   "name": "Maintained nationally",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "national"
+   ],
+   "values": [
+    "national"
+   ]
+  },
+  {
+   "key": "ownership",
+   "name": "Platform owned",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "owned"
+   ],
+   "values": [
+    "owned"
+   ]
+  }
+ ],
+ "flags": []
+}

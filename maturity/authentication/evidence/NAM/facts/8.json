@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Namibia's Chief Registrar reports that the home affairs and social protection ministries integrated the National Population Registration System with the social protection system, which verifies beneficiaries' existence and live status against the population register and eliminated ghost beneficiaries.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "NPRS-social protection integration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPRS-social protection integration",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "National Population Registration System",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare",
+   "tiers": ""
+  },
+  {
+   "system": "Emergency Income Grant verification against NPRS",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "National Population Registration System",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Population Registration System (NPRS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  },
+  {
+   "system": "electronic identity card",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

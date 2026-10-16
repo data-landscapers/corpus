@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-zaf-citizen-green-id-book-end-digital-id-prototype",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "More than 515 bank branches offer biometric Smart ID replacements and more than 822,000 citizens already use the service, per Minister Schreiber.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Smart ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

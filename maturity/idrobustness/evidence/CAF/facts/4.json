@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Journal de Bangui reports that Al-Madina's team is enrolling applicants for the secure national identity card in Birao, capturing biometric data, photos and personal information, after Bouar and Berberati.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "carte nationale d'identite",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "carte nationale d'identite",
+   "country_label": "Central African Republic",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

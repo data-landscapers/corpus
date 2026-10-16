@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-29-gab-gabonreview-etat-civil-digital-reform-workshop",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Gabon Digital programme, World Bank financed and run by the digital economy ministry, includes a national digital identity system meant to modernise identification and access to public services.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Systeme national d'identite digitale",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre biometrique des personnes physiques (RBPP)",
+   "country_label": "GAB",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme national d'identite digitale",
+   "country_label": "GAB",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministere de l'Economie numerique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

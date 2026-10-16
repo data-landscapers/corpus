@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-21-techbuild-uganda-national-id-broken-qr-codes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Uganda's newly issued national ID cards carry QR codes meant for electronic verification, and the Prime Minister cited 11.9 million unregistered and seven million unissued cards.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

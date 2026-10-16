@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Government Notice 28 of 2024 regulates application for, issuance and use of the Mauritius Mobile ID of the National Identity Card (MNIC), backed by a mID Certification Authority System.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mauritius National Identity Card (MNIC) and Mobile ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius National Identity Card (MNIC) / Mobile ID",
+   "country_label": "Mauritius",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": "mID Certification Authority System"
+  }
+ ],
+ "note": ""
+}

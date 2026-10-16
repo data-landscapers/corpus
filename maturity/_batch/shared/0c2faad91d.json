@@ -1,0 +1,124 @@
+{
+ "slug": "2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "No civil register link is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "The 81% is of eligible adults and the 21 million is IDs issued, not people enrolled; neither is a share of the whole population."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "No number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "No operator or owner detail beyond NIDA issuing is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "NIDA is connected to 138 institutions for e-KYC, which is private-sector checking, not public registers keyed on the number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Identification Authority (NIDA) has issued more than 21 million National Identification Numbers, about 81 percent of eligible adults, per the NCFI annual report.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NIDA National Identification Number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

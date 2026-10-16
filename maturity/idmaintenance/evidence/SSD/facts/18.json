@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-yei-nationality-cards-distribution",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Directorate of Nationality, Passports and Immigration processed the national identity cards and issues them from its Yei office, with European Union support.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "South Sudan national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "South Sudan national identity card",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Directorate of Nationality, Passports and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Police Nationale page describes the CNIB as a biometric ID card issued through the ONI, mandatory at 15 with 10 years validity.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "CNIB",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The ONI system checks for duplicates by fingerprint matching and, since 2009, facial biometrics, to detect identity fraud.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "CNIB",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office Nationale d'Identification (ONI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug":"2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement","studies":{
+"birthidlink":{"countries":{"NER":{"facts":[],"systems":[],"note":"No civil register link is stated."}}},
+"idcoverage":{"countries":{"NER":{"facts":[],"systems":[],"note":"No enrolment count or share is given."}}},
+"idfrombirth":{"countries":{"NER":{"facts":[],"systems":[],"note":"No number at birth is stated; a birth certificate is only a required document."}}},
+"idrobustness":{"countries":{"NER":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Niger opened enrolment for the biometric national identity card CNIB AES in Agadez, collecting fingerprints and biometrics locally and sending files to Niamey for printing, with a five-year validity, per the Journal du Niger.","as_of":"2026-09-15","date_precision":"day","system":"CNIB AES","class":"idsystem"}],"systems":[{"system":"CNIB AES","country_label":"Niger","class":"idsystem","platform":"","owner":"Police nationale","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,maintenance,operation,national,"The Department of Home Affairs runs the smart ID card programme and, with banking partners, issues smart IDs through 372 participating bank branches.",2026-08,month,Smart ID card,idsystem,2026-08-05-dha-smart-id-bank-branch-locator,https://www.itweb.co.za/article/online-tool-finds-nearest-smart-id-issuing-bank/nWJadvbNDZDvbjO1

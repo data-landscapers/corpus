@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-rwa-umunota-nida-digital-id-10-million-registered",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIDA said the digital identity project, launched in 2023 with the World Bank at about Rwf200 billion, is being rolled out district by district, with biometric registration opening in Rusizi on 2026-09-16.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Rwanda digital identity system (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda digital identity system",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": "physical card, QR digital version, token"
+  }
+ ],
+ "note": ""
+}

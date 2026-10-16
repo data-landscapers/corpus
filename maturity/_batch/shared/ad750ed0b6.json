@@ -1,0 +1,9 @@
+{"slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a link to the ID system."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Universal birth registration is stated but death registration is not, and no ID enrolment count."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Universal birth registration is stated with no ID number given at birth."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on the ID system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on registers."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}}
+}}

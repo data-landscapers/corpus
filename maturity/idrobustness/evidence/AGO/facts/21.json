@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-17 Angola begins issuance of ID cards to newborns",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update says Angola is issuing national ID cards, now to newborns in Zaire province; it hopes to model a digital ID on Aadhaar.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national ID card",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

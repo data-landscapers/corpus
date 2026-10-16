@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Lesotho's NICR says a unique personal identification number is issued upon birth registration.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "NICR integrated system",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

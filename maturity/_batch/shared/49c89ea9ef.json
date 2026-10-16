@@ -1,0 +1,99 @@
+{
+ "slug": "2026-10-03-som-from-e-visas-to-nira-mogadishus-bureaucratic-war-on-ordinary-travelers",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on authentication services."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The federal National Identification and Registration Authority runs the NIRA card, which a Mogadishu resident can obtain at a NIRA centre, with no NIRA registration office in Puntland (op-ed by Ismail H Warsame).",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "NIRA card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on registers keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Federal authorities have made the NIRA card mandatory for domestic air travel and NIRA centres issue it in Mogadishu, but there is no NIRA office in Puntland (Warsame).",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "NIRA card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIRA card",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-14-somalia-civil-registration-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "Hiiraan Online reports that Somalia's 2018 partnership with Pakistan's NADRA included a $10.5 million grant and a comprehensive transfer of technology and expertise.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "NIMS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

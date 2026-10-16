@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "WeeTracker says banks, mobile operators and insurers use the Online Verification System to check customers' identity against the National Population Register for anti-money-laundering compliance, at R10 per real-time check from 1 July 2025 (previously 15 cents).",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "Online Verification System (OVS)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The article names banks (TymeBank, Capitec), mobile networks (Vodacom, MTN) and insurers as users of the NPR verification check.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "Online Verification System (OVS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Verification System (OVS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "National Population Register",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

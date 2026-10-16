@@ -1,0 +1,8 @@
+{"slug": "2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement", "studies": {
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [{"system": "RDC-Pass", "country_label": "DR Congo", "class": "other", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": "The minister says RDC-Pass is not a national ID card and replaces no civil registration body; no link to the civil register is stated."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [{"system": "RDC-Pass", "country_label": "DR Congo", "class": "other", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": "No count of people enrolled is given; the first 50 agents are only in training."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [{"system": "RDC-Pass", "country_label": "DR Congo", "class": "other", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": "RDC-Pass is stated not to be a national ID card; Tridentity RDC SAS attended but its role is not stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No public register keyed on a national ID number is mentioned."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [{"system": "RDC-Pass", "country_label": "DR Congo", "class": "other", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": "The minister states RDC-Pass is not a national identity card, so it is not the national ID system."}}}
+}}

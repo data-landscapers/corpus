@@ -1,0 +1,17 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "registers",
+   "stage": "unplaced",
+   "register": "",
+   "several": "",
+   "matching": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether public registers use the national ID number.",
+   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
+  }
+ ]
+}

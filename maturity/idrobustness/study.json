@@ -1,0 +1,147 @@
+{
+ "id": "idrobustness",
+ "study_file": "maturity-study-idrobustness.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--robustness-of-system"
+ ],
+ "carry": [
+  "dpi.id--robustness-of-system"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "biometric",
+  "biometrics",
+  "deduplication",
+  "de-duplication",
+  "ABIS",
+  "ISO 27001",
+  "biométrique",
+  "biométriques",
+  "déduplication",
+  "biométrico",
+  "biométrica"
+ ],
+ "sub_indicators": [
+  {
+   "key": "robustness",
+   "label": "Robustness of system",
+   "subject": "dpi.id",
+   "text": "Robustness of system: robustness of system",
+   "indicator_id": "dpi.id--robustness-of-system-robustness-of-system",
+   "class": "idsystem",
+   "norm_short": "The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust.",
+   "criteria": [
+    "A source from the past three years says there is no national ID system, or only a paper one with no unique number.",
+    "A national ID system is procured, being built or piloted, or is ready and waiting on its law.",
+    "The national ID system is in service, issuing each person a unique number or credential.",
+    "The system checks fingerprints, face or iris to stop one person enrolling twice.",
+    "A source from the past three years reports a security certification, a published audit or a level of assurance set for the system."
+   ],
+   "criteria_of": "bb5119a62ec3"
+  }
+ ],
+ "classes": [
+  "idsystem",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "National ID in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "biometric",
+   "name": "Biometric checks",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "checked"
+   ],
+   "values": [
+    "checked"
+   ]
+  },
+  {
+   "key": "assurance",
+   "name": "Security certified or audited",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "certified"
+   ],
+   "values": [
+    "certified"
+   ]
+  }
+ ],
+ "flags": []
+}

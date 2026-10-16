@@ -1,0 +1,9 @@
+{"slug":"2026-08-17-egypt-mp-facial-recognition-concerns","studies":{
+"authentication":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Facial recognition is for mobile line registration; the digital identity system is only asked about, not stated."}}},
+"birthidlink":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idcoverage":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idfrombirth":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idmaintenance":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idregisters":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"idrobustness":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Digital identity is only mentioned as a possible preparation by the state, not stated as built."}}}
+}}

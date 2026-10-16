@@ -1,0 +1,79 @@
+{
+ "slug": "2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "IPRES requires Senegalese pensioners to hold their ECOWAS national identity card to complete its proof-of-life campaign from 1 July 2026.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "carte nationale d'identité CEDEAO",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identité CEDEAO",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-nga-thisday-fg-december-deadline-95-percent-nin-coverage",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIMC's director-general said the national register holds more than 140 million Nigerians and legal residents, about 59% of the 237.5 million population (share computed from the population held).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

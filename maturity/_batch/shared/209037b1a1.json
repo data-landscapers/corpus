@@ -1,0 +1,251 @@
+{
+ "slug": "2026-05-28 Why decentralized digital identity looks different in every country",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "Biometric Update says Morocco was the first country to implement MOSIP, the open-source identity platform.",
+       "as_of": "2026-05-28",
+       "date_precision": "day",
+       "system": "MOSIP-based national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national ID",
+       "country_label": "Morocco",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Biometric Update says MOSIP has MoUs with 29 countries for rollouts and pilots, including Togo.",
+       "as_of": "2026-05-28",
+       "date_precision": "day",
+       "system": "MOSIP-based digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based digital ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "slug": "2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No link to civil register stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only uncollected card counts for one city; cards are not people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A police commander supervises the NIU project locally, but who operates or maintains the system is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The cards are tied to electoral roll revision as a requirement, not stated as keyed on the number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Les Depeches de Brazzaville reports that 25,549 NIU (unique identification number) cards issued from 2020 to 2024 were uncollected in Pointe-Noire.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NIU",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIU (numero d'identification unique)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CNI (carte nationale d'identite)",
+       "country_label": "Congo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

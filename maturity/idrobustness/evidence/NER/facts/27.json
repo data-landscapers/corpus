@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Niger's Interior Minister signed an MoU on 27 June 2025 under a public-private partnership to launch a new electronic national ID card meeting international security standards.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "Niger national e-ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Niger national e-ID card",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior, Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

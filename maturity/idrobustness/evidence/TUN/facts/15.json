@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The law states the national ID card, carrying a card number, is issued by Ministry of the Interior services after fingerprint and photo capture, with a new encrypted-chip card replacing earlier cards on renewal.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Carte nationale d'identité",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identité (chip card)",
+   "country_label": "Tunisia",
+   "class_": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior specialized services",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-lbr-apo-boakai-national-identification-day-proclamation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Biometric Identification System (NBIS)",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a commitment to improve information gathered for birth registration and ID documents; no link between the registers."
+}

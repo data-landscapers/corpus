@@ -1,0 +1,122 @@
+{
+ "slug": "2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The World Bank blog says progress is underway with civil registration integrating with the national ID.",
+       "as_of": "2025-12-09",
+       "date_precision": "day",
+       "system": "national ID",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The World Bank blog says 6.4 million people hold a national ID number, about 8 in 10 of the 8.8 million target population (6.4/8.8 = 73%).",
+       "as_of": "2025-12-09",
+       "date_precision": "day",
+       "system": "national ID number",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "twothirds",
+       "fact": "The World Bank blog says 6.4 million people hold a national ID number, about 8 in 10 of the 8.8 million target population (6.4/8.8 = 73%).",
+       "as_of": "2025-12-09",
+       "date_precision": "day",
+       "system": "national ID number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number given at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator or owner of the system is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The World Bank blog says a digital farmer registry is being planned, integrated with the national ID system.",
+       "as_of": "2025-12-09",
+       "date_precision": "day",
+       "system": "national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The World Bank blog says 6.4 million people now have a national ID number, with fewer than half a million cards issued as of 2024.",
+       "as_of": "2025-12-09",
+       "date_precision": "day",
+       "system": "national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national ID",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "open-source biometric platform (piloted)",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

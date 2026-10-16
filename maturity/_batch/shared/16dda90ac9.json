@@ -1,23 +1,5 @@
-{
- "slug": "2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps",
- "studies": {
-  "educationexchange": {
-   "countries": {
-    "MLI": {
-     "facts": [],
-     "systems": [],
-     "note": "The Mali section states nothing on education systems."
-    }
-   }
-  },
-  "socialexchange": {
-   "countries": {
-    "MLI": {
-     "facts": [],
-     "systems": [],
-     "note": "The Mali section states nothing on social protection systems."
-    }
-   }
-  }
- }
-}
+{"slug":"2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps","studies":{
+"birthidlink":{"countries":{"MLI":{"facts":[],"systems":[],"note":"The Mali section describes civil registration only; no link to an ID system is stated."}}},
+"idfrombirth":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Birth registration rate is given but no identity number at birth."}}},
+"idrobustness":{"countries":{"MLI":{"facts":[],"systems":[],"note":"The Mali section names no national ID system; ANSAEC secures civil status documents."}}}
+}}

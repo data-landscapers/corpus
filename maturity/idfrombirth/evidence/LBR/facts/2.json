@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-21-liberianinvestigator-nir-national-id-documents-children-under-six",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The Liberian Investigator reports that in June 2023 the NIR modified its system to assign unique identification numbers to children under six, in a programme now called 'Enrolment at Birth', with a pilot in Montserrado, Grand Bassa and Gbarpolu.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "NIR national ID",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry (NIR) national ID",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

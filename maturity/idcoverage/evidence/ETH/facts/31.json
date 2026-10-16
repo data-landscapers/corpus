@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Biometric Update reports Fayda registrations at 40 million, about 29.5% of Ethiopia's 135.5 million population (divided by the population held, not stated in the document), below a third.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

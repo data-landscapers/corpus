@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+DJI,authentication,service,coverage,inservice,2026-02-10,DJI-002,DJI-001=underway;DJI-005=underway;DJI-006=underway,
+DJI,authentication,reach,coverage,several,2026-02-10,DJI-003,,
+DJI,authentication,remote,coverage,wallet,2026-02-10,DJI-004,,

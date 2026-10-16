@@ -1,0 +1,44 @@
+{
+ "slug": "2023-08-10-sierra-leone-ncra-6th-africa-crvs-day-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NCRA's Director General states that since March 2022 access to services including SIM card registration and e-KYC for financial institutions is linked to the National Identification Number of people enrolled in the CRVS and identity management system.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "NIN-linked services (SIM card registration, e-KYC)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "NCRA states that since March 2022 services in telecoms (SIM card registration), finance (e-KYC, credit reference checks), social security, tax, immigration, land, education and payroll are linked to the NIN; it says the voter register has been extracted from the civil register since 2018.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "NIN-linked services (SIM card registration, e-KYC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-linked services (SIM card registration, e-KYC)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Registration and issuance of Securitized Certificate system / ID Management system",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

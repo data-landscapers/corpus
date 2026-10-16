@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The RBZ Governor said all mobile money providers have been integrated with the Civil Registry system to verify customer identity at onboarding and in ongoing KYC reviews, and all wallets were rescreened with the Civil Registry by 30 June 2026.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Civil Registry integration for mobile money KYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registry integration for mobile money KYC",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

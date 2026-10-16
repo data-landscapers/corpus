@@ -1,0 +1,9 @@
+{"slug": "2026-09-23-lbr-thenewdawn-gongloe-national-id-concession-oesd", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [{"system": "National ID system", "country_label": "Liberia", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": "Concession to OeSD is proposed, not in force; no supplier or national operation of a system in service is stated."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [{"system": "National ID system", "country_label": "Liberia", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": "Document discusses a proposed concession; it does not say the system is issuing, being built or piloted."}}}
+}}

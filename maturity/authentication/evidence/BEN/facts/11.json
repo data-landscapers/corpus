@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-wearetech-benin-expert-identite-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANIP identification system",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "No authentication service is stated."
+}

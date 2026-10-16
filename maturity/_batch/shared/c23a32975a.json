@@ -1,0 +1,88 @@
+{
+ "slug": "2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Tanzania has published tenders and begun selecting contractors for Phase II of the Jamii Namba national digital ID project, adding iris and facial recognition, funded by an estimated $70 million Export-Import Bank of Korea loan, per the Deputy Home Affairs Minister.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Jamii Namba",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jamii Namba",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

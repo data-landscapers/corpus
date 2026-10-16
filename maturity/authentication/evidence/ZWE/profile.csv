@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,authentication,service,coverage,inservice,2026-09-10,ZWE-001;ZWE-002;ZWE-003;ZWE-006,ZWE-007=underway;ZWE-004=underway;ZWE-005=underway,
+ZWE,authentication,reach,coverage,,,,,nothing held
+ZWE,authentication,remote,coverage,,,,,nothing held

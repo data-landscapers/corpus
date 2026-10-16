@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Republic Online reports that the National Identification System is in operation under a 15-year PPP contract with Margins ID Group for Ghana Cards and biometric verification, and that NIA staff speak of fingerprint verification.",
+   "as_of": "2025-09-21",
+   "date_precision": "day",
+   "system": "Ghana Card / National Identification System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

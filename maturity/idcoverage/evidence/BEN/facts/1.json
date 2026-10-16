@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-20 Transforming lives in Benin a unique identification system",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The World Bank says more than 7.7 million people have their NPI as of the end of May 2025, about 52% of the 14.8 million population (divided by the population given, not stated in the document).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NPI (Personal Identification Number)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "The World Bank says nearly 99% of Benin's population is now biometrically enrolled.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "NPI (Personal Identification Number)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPI and C'est Moi card",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "WURI project",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

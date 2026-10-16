@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-10-macra-undp-ai-digital-id-collaboration-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity system",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+}

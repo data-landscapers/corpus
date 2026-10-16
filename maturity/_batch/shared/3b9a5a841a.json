@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-egypt-unsd-vital-statistics-questionnaire-2024",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Questionnaire gives registration completeness only; no link to an ID system and no number at birth."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Questionnaire gives registration completeness only; no link to an ID system and no number at birth."
+    }
+   }
+  }
+ }
+}

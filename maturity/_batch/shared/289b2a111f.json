@@ -1,0 +1,17 @@
+{"slug":"2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)","studies":{
+"authentication":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The Houwiyeti digital ID and digital-government platform, launched in 2023, handles 70 percent of passport requests, per the ANRPTS director at ID4Africa 2025.","as_of":"2025-05","date_precision":"month","system":"Houwiyeti","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"reach","value":"several","fact":"Houwiyeti is used for passport requests and for more than 622,000 document extracts processed in the year.","as_of":"2025-05","date_precision":"month","system":"Houwiyeti","class":"authentication"}],
+"systems":[{"system":"SIGPTS","country_label":"Mauritania","class":"idsystem","platform":"","owner":"ANRPTS","tiers":""},{"system":"Houwiyeti","country_label":"Mauritania","class":"authentication","platform":"","owner":"ANRPTS","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document states no exchange between civil register and ID system."}}},
+"idcoverage":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"More than 94 percent of the population is enrolled for national ID since the new system of 2020, per the ANRPTS director.","as_of":"2025-05","date_precision":"month","system":"SIGPTS","class":"idsystem"},
+{"sub_indicator":"coverage","aspect":"share","value":"twothirds","fact":"More than 94 percent of the population is enrolled for national ID since the new system of 2020, per the ANRPTS director.","as_of":"2025-05","date_precision":"month","system":"SIGPTS","class":"idsystem"}],
+"systems":[],"note":""}}},
+"idfrombirth":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document says nothing of a number at birth."}}},
+"idmaintenance":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document does not say who operates or maintains the system."}}},
+"idregisters":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document names no register keyed on the ID number."}}},
+"idrobustness":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"A new national ID system, SIGPTS, integrating all government structures that issue ID documents, has been in place since 2020 and has enrolled over 94 percent of the population.","as_of":"2025-05","date_precision":"month","system":"SIGPTS","class":"idsystem"}],
+"systems":[],"note":""}}}
+}}

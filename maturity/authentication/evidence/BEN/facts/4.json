@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The ePass passport-renewal app, launched in October 2025, is integrated with Benin's national ID and immigration systems for real-time identity verification, per a Seamfix announcement.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "ePass"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ePass",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "Seamfix GovSmart",
+   "owner": "Ministry of Foreign Affairs / DEI",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

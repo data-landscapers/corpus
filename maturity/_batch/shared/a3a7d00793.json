@@ -1,0 +1,9 @@
+{"slug": "2026-09-25-rwanda-jordan-digital-cooperation-mou", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The digital identity in the document is Jordan's Sanad; nothing is stated of a Rwandan authentication service."}}},
+"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No civil register to ID link is stated."}}},
+"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No statement of who operates the ID system."}}},
+"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The national ID system is not described; IremboGov is a service portal."}}}
+}}

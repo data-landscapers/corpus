@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-25-lesotho-digital-service-id-pilot-govls",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital/service identification system",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes enrolment in a pilot identification system, not an authentication service."
+}

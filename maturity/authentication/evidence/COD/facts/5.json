@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Biometric Update reports RDC-Pass, launched in Kinshasa on 13 June 2026, includes biometric SIM card registration and automated identity verification for financial institutions, with rollout in phases starting with technical audits and pilot testing.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "biometric SIM card registration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "RDC-Pass",
+   "owner": "Government of DRC with Trident Digital Tech DRC Africa SAS",
+   "tiers": ""
+  },
+  {
+   "system": "biometric SIM card registration",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "RDC-Pass",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "automated identity verification for financial institutions",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "RDC-Pass",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

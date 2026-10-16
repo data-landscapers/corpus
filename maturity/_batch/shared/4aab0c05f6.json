@@ -1,0 +1,174 @@
+{
+ "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The minister said the Electronic Identification System had evolved into a broader Digital ID project aiming to integrate digital IDs, a national e-wallet and e-government services.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Digital ID project",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "No exchange between civil and ID registers is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "No enrolment count or share is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The ministry's Civil and National Registration department is funded with P105 million to produce Omang cards and maintain the Births and Deaths Registration System.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Omang",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The 2026/27 budget allocates P105 million to production of Omang national identity cards, which the ministry says it is issuing.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Omang",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "P42 million of the development budget goes to computerisation projects including the Biometric Omang system, alongside a wider Digital ID project.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Biometric Omang",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Omang",
+       "country_label": "BWA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Labour and Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

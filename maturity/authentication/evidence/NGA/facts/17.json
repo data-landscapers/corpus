@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-10-nimc-nhia-digital-id-health-mou",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "NIMC and the National Health Insurance Authority signed an MoU to build a framework linking citizens' national identity data with health insurance records to streamline verification and reduce fraud; no verification volumes given.",
+   "as_of": "2025-10-10",
+   "date_precision": "day",
+   "system": "NIMC-NHIA identity and health insurance linkage"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC-NHIA identity and health insurance linkage",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC; NHIA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

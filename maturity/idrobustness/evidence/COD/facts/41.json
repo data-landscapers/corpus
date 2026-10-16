@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-cod-recensement-identification-et-enrolement-en-rdc-ce-quil-faut",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Communication minister Patrick Muyaya said a population identification process is under way that will end in the grant of a national identity card.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "population identification process",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "population identification process",
+   "country_label": "DRC",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,219 @@
+{
+ "slug": "2026-09-16-mwi-malawi24-drops-expiry-dates-national-ids",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Nzika Digital ID Wallet launched in Lilongwe on 2026-09-16, letting citizens store and present government-issued credentials on a phone, per Malawi24.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "Nzika Digital ID Wallet",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "Malawi24 reports the official wallet holds credentials including the Citizen Identification and presents them by QR code from a mobile phone.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "Nzika Digital ID Wallet",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Malawi24 reports the National Registration Bureau issues national identity cards, now without expiry dates from 2026-09-16 on a directive of the Homeland Security Minister.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "National Identity Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      },
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

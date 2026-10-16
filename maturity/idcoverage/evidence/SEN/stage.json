@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "coverage",
+   "stage": "unplaced",
+   "share": "",
+   "everyone": "",
+   "births": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 counts the people holding a national ID.",
+   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
+  }
+ ]
+}

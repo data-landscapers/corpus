@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-18-liberia-ppp-digital-id-osd",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Biometric Update says Liberia's national ID coverage is less than 15 percent of a population of more than five million.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,121 @@
+{
+ "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Farmer Registry system will authenticate and verify farmers' identities against the NIN, as agreed with NCRA.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "NIN (NCRA)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "One body, NCRA, holds Sierra Leone's civil registration and national ID infrastructure.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "NIN (NCRA)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "NCRA and the Ministry of Agriculture agreed to integrate the National Digital Farmer Registry with the NIN database to verify and de-duplicate farmers.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "NIN (NCRA)",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NCRA runs a biometric digital ID and National Identification Number (NIN) system, with a Tier 3 data centre housing the civil registration and ID systems.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "NIN (NCRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIN / Biometrics Digital ID",
+       "country_label": "Sierra Leone",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "slug": "2026-01-01-ics-civil-status-division",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The Civil Status Division registers births, deaths and marriages, has custody of the National Population Database, and issues Identity Cards to all residents.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National Population Database",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Database / Identity Card",
+       "country_label": "Seychelles",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Database / Identity Card",
+       "country_label": "Seychelles",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": "States ID cards are issued to all residents but gives no count or share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Database / Identity Card",
+       "country_label": "Seychelles",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Civil Status Division of the Department of Immigration and Civil Status prepares and issues Identity Cards to all residents and holds the National Population Database.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National Population Database",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Database / Identity Card",
+       "country_label": "Seychelles",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Civil Status Division prepares and issues Identity Cards to all residents under the Civil Status Act and the ID Card Act.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Identity Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Database / Identity Card",
+       "country_label": "Seychelles",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

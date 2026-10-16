@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-mozambique-tablu-tech-digital-trust-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ATDI launched a tender in May 2026 for a National Mobile Digital Identity and Electronic Signature Infrastructure, and INTIC is in discussions with Tablu Tech on the MoDi Sign advanced digital signature and PKI platform (Biometric Update, citing Tech Review Africa).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "MoDi Sign",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A February 2026 MoU with Brazil's ITI covers credentialing, auditing, training and technical assistance for operating a Root Certification Authority for the Digital Certification System.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Digital Certification System",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Certification System",
+   "country_label": "Mozambique",
+   "class": "authentication",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

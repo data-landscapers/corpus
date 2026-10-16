@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-anats-tchad-site-officiel-nni-sigpts",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGPTS",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "The page names no online authentication service."
+}

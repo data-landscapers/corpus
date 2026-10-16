@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-01-nir-relevance-national-special-elections",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "none",
+   "fact": "The paper's findings state the NEC and NIR databases operate as two separate databases, so the voter register is not drawn from the NIR.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Identification Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,142 @@
+{
+ "slug": "2026-01-16-birth-registration-campaign-4.6m-children-malawi24",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Birth registration campaign and a count of cards issued; nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Registration Bureau has issued over 12.8 million national IDs to citizens aged 16 and above, says the Minister of Homeland Security.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (National Registration Bureau)",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

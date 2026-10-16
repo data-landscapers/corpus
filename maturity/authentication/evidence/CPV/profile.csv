@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,authentication,service,coverage,inservice,2026,CPV-001;CPV-002;CPV-003;CPV-004;CPV-006;CPV-009;CPV-010,,
+CPV,authentication,reach,coverage,several,2024,CPV-005;CPV-007,,
+CPV,authentication,remote,coverage,wallet,2024,CPV-008,,

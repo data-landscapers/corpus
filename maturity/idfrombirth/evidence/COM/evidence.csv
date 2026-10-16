@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COM-001,COM,frombirth,number,none,"The AMECC project says the Comorian civil registration system is still largely dependent on old paper registers, and some people, including children, still hold no birth extract in 2026.",2026-08-28,day,civil registration (AMECC project),birthnumber,2026-08-28-lagazettedescomores-amecc-etat-civil-enterrer-registres-papier,https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html

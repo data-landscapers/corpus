@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-lbr-newdawn-nir-appeals-legislature-oesd-bot-ratification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The National Identification Registry says a proposed US$54.7 million investment by OeSD International for nationwide biometric enrolment and national identity infrastructure has reached the Legislature and awaits ratification.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National identity infrastructure",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity infrastructure",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

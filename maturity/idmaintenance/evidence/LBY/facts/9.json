@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Civil Registry Authority, a national body, issues the unique National ID Number to all Libyan nationals, per the Libya Herald.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "National ID Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID Number",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

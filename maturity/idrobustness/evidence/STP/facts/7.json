@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-campanha-bi-gratuito-ilheu-das-rolas",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Direcao-Geral dos Registos e Notariado is issuing the free Bilhete de Identidade through a brigade in Porto Alegre, Caue district, after Ilheu das Rolas, with EU-funded PReSE supplying Starlink and a generator.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Sao Tome and Principe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Direcao-Geral dos Registos e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

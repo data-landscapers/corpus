@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-ics-civil-status-division",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Database / Identity Card",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on this."
+}

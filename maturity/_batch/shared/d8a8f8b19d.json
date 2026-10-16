@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-07-tun-lapresse-chu-sahloul-identifiant-unique-sante-180000",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a sectoral health identifier (Identifiant unique de sante); not a national ID."
+    }
+   }
+  }
+ }
+}

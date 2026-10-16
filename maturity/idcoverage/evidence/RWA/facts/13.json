@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Agency (NIDA)",
+   "tiers": "SDIN, token, SDID card"
+  }
+ ],
+ "note": "No count or share of people enrolled is given; the current system is said to mainly cover those aged 16 and above."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-29-niger-agadez-reformes-etat-civil-identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Governor and the DGATDD say the restructuring has entered its operational phase, with biometric enrolment, a National Population Register whose first phase starts in Niamey, a new biometric national ID card, and three decrees creating the ANEI.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Registre National de la Population / CNI biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

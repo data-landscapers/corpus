@@ -1,0 +1,9 @@
+{"slug":"2026-04-01-bwa-2026-0400-12061","studies":{
+"authentication":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Mentions a broader digital identity ecosystem only as a change of scope; no authentication service stated."}}},
+"birthidlink":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Mentions maintenance of the Births and Deaths Registration System only in passing; no link stated."}}},
+"idcoverage":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No operator or owner of the ID system stated."}}},
+"idregisters":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"BWA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The 2026/2027 Botswana development estimates fund the Electronic National Identification System (Biometric Omang) at P31,700,000 within project 12061, though the Committee of Supply speech says the Electronic Identification System project has not progressed due to a change of scope to a broader digital identity ecosystem.","as_of":"2026-02-24","date_precision":"day","system":"Electronic National Identification System (Biometric Omang)","class":"idsystem"}],"systems":[{"system":"Electronic National Identification System (Biometric Omang)","country_label":"Botswana","class":"idsystem","platform":"","owner":"Ministry of Labour and Home Affairs","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national", "studies": {
+"authentication": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No authentication service, e-signature or PKI is stated."}}},
+"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No exchange of records between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only refugees registered (about 185,000) are counted, not the population enrolled."}}},
+"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Birth certificates are mentioned for refugee children; no number at birth is stated."}}},
+"idmaintenance": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MRT": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "UNHCR says registered refugees in Hodh Chargui receive a National Identification Number, enabling access to essential services with ANRPTS.", "as_of": "2025-12", "date_precision": "month", "system": "National Identification Number (ANRPTS)", "class": "idsystem"}], "systems": [{"system": "National Identification Number", "country_label": "Mauritania", "class": "idsystem", "platform": "", "owner": "ANRPTS", "tiers": ""}], "note": ""}}}
+}}

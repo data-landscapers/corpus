@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Access to the e-Senegal platform, launched 24 March 2026 by SENUM SA, rests on authentication with the Numero d'Identification Nationale (NIN) carried on the biometric identity card, per Ndarinfo.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Numero d'Identification Nationale (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification Nationale (NIN) and biometric identity card",
+   "country_label": "Senegal",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Senegal",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "SENUM SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

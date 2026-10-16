@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Addis Fortune reports banks retrieve KYC information and obtain biometric authentication from Fayda, and FaydaVerse has sent them a contract charging 10-20 Br per retrieval and 20-40 Br per authentication.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "VeriFayda eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VeriFayda eKYC",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "FaydaVerse",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

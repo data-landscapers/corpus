@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-sierra-leone-consults-private-sector-on-trusted-digital-id-framework",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A July 2026 MoU with Bhutan and the Sign Foundation envisions citizens receiving W3C-compliant verifiable credentials to prove identity, and the government is consulting stakeholders on the governance framework.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "verifiable credentials ecosystem",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

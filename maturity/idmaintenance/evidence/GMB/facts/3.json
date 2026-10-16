@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The new biometric card is rolled out by the Gambia Immigration Department, whose officers run the enrolment centres, under the system launched through the Ministry of Interior with Margins ID Group.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Margins ID Group",
+   "owner": "Ministry of Interior; Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

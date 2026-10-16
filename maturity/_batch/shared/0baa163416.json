@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-07-cameroon-undp-civil-status-digitisation-equipment",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "UNDP tender is for civil registration equipment at three pilot centres; no link to an ID system or birth number stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "UNDP tender is for civil registration equipment at three pilot centres; no link to an ID system or birth number stated."
+    }
+   }
+  }
+ }
+}

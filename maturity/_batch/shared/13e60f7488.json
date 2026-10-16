@@ -1,0 +1,142 @@
+{
+ "slug": "2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No link between birth certificate and ID is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No enrolment count or share is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No operator or owner is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No register keyed on the ID is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The government extended free issuance of the national identity card (BI), with the birth certificate and personal registration booklet, to 2027 for children and adults, as announced by the President.",
+       "as_of": "2026-07-28",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade (BI)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade (BI)",
+       "country_label": "Mozambique",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

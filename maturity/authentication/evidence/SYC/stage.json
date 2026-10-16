@@ -1,0 +1,17 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "authentication",
+   "stage": "3",
+   "service": "inservice",
+   "reach": "",
+   "remote": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SYC-002;SYC-004",
+   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
+  }
+ ]
+}

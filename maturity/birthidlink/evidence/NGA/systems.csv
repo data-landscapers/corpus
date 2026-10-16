@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,VitalReg,Nigeria,other,,National Population Commission,,2026-08-18-fij-npc-corrects-vitalreg-records
+NGA,National Identification Number (NIN),Nigeria,other,,,,2026-08-18-fij-npc-corrects-vitalreg-records
+NGA,CoopID / Cooperative Verification Number,Nigeria,other,Seamfix,Federal Ministry of Agriculture and Food Security,,2026-08-13-nigeria-cooperative-digital-id-mou
+NGA,NIMC national identity and biometric-enabled G2PS card,Nigeria,other,,NIMC,G2PS card for loan beneficiaries,2025-03-08-nimc-nelfund-biometric-cards-mou

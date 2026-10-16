@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-12-algeria-sports-platforms-unified-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Sports Ministry says holders of the national digital identity issued by the HCN can now access its WADHIFATI platform without creating an account, the user being identified through the unified digital identity.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "WADHIFATI"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WADHIFATI",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "National digital services platform",
+   "owner": "Ministry of Sports",
+   "tiers": ""
+  },
+  {
+   "system": "Unified national digital identity",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Haut Commissariat a la Numerisation",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

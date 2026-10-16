@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenCRVS Unified Digital Civil Registration System",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "OpenCRVS",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+}

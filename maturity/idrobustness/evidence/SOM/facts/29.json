@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-19-hassan-sheikh-10m-passports-id-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Hiiraan reports that NIRA is issuing a biometric national ID card, with about half a million people registered, and that the president ordered all agencies and businesses to link to it.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "NIRA e-Aqoonsi",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

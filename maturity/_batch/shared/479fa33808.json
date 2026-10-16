@@ -1,0 +1,108 @@
+{
+ "slug": "2026-07-10-yei-nationality-cards-distribution",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Counts cards distributed, not people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Directorate of Nationality, Passports and Immigration processed the national identity cards and issues them from its Yei office, with European Union support.",
+       "as_of": "2026-07-10",
+       "date_precision": "day",
+       "system": "South Sudan national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "South Sudan national identity card",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Nationality, Passports and Immigration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Authorities began distributing more than 4,000 newly processed South Sudan national identity cards in Yei River County, reported by the Directorate of Nationality, Passports and Immigration.",
+       "as_of": "2026-07-10",
+       "date_precision": "day",
+       "system": "South Sudan national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "South Sudan national identity card",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Nationality, Passports and Immigration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

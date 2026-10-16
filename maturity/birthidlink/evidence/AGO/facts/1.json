@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-impressao-do-bi-abrange-todas-as-provincias",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Angola's Justice Minister says the Bilhete de Identidade results from integrating data in the birth record through interoperability between the respective computer systems.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministério da Justiça e dos Direitos Humanos",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

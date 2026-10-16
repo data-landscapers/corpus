@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-18-lapresse-tn-modernisation-administrative-passeports-cin",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives only passport and ID card turnaround; no online identity check, link, coverage, number at birth, operator, register or system facts."
+    }
+   }
+  }
+ }
+}

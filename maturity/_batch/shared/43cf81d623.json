@@ -1,0 +1,59 @@
+{
+ "slug": "2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."
+    }
+   }
+  }
+ }
+}

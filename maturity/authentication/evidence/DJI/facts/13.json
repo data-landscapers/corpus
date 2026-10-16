@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The IEG review says the Public Administration Modernization Project, approved April 2018, included creating a Public Key Infrastructure (PKI); the e-ID subcomponent was removed at the 2022 restructuring, and the PKI's fate is not stated.",
+   "as_of": "2018-04-25",
+   "date_precision": "day",
+   "system": "Public Key Infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

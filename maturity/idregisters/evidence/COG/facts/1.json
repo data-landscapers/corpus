@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The NIU began as a mandatory taxpayer registration for the DGID (Décret 2004-469) and Order 25550 (Oct 2022) makes it mandatory for tax and customs declarations and social-security registration, per the Finance Ministry.",
+   "as_of": "2022-10-12",
+   "date_precision": "day",
+   "system": "Numéro d'Identification Unique (NIU)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

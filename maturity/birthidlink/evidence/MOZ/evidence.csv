@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,link,link,underway,"The Civil Registration Code as revised by Law 12/2018 established the e-SIRCEV electronic system, said to be integrated with the national ID and health systems (CRVS Law and Policy Compendium).",2018,year,e-SIRCEV,crvslink,2024-01-01-mozambique-crvs-law-policy-summary,https://www.crvslaws.org/mozambique/summary

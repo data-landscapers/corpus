@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Autentika,Cabo Verde,other,"electronic identity management and authentication platform, OpenID Connect",State of Cabo Verde (NOSi support),basic;CMDCV;CNI,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,other,smart card with middleware and reader,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,"phone number, PIN and one-time code",,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Portal de Justiça,Cabo Verde,other,"justice and registry services portal, linked to SIJ",Ministry of Justice,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Autentika,Cabo Verde,other,state single sign-on,State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,SNIAC / Cartão Nacional de Identificação (CNI),Cabo Verde,authentication,card with middleware and SDK,SNIAC / DGRNI,,2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9
+CPV,Autentika,Cabo Verde,authentication,"Electronic identity, authentication and digital signature platform with single sign-on",Government of Cabo Verde,email and password; Mobile Digital Key; CNI smart card with PIN,2024-01-01-autentika-authentication-platform
+CPV,Cabo Verde Mobile Digital Key (CMDCV),Cabo Verde,authentication,"Mobile authentication by phone number, PIN and temporary code",Government of Cabo Verde,,2024-01-01-autentika-authentication-platform
+CPV,National Identification Card (CNI),Cabo Verde,other,"Electronic ID smart card, part of SNIAC",Government of Cabo Verde,,2024-01-01-autentika-authentication-platform
+CPV,Cabo Verde Mobile Digital Key (CMDCV),Cabo Verde,authentication,Autentika,Government of Cabo Verde,PIN plus one-time code,2024-01-01-cabo-verde-mobile-digital-key
+CPV,National Identification Card (CNI),Cabo Verde,other,,,,2024-01-01-cabo-verde-mobile-digital-key
+CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,chip card,State of Cabo Verde,,2024-01-01-cartao-nacional-de-identificacao
+CPV,PDEX,Cabo Verde,other,API publication and subscription platform,NOSi,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,Portal Consular de Cabo Verde,Cabo Verde,other,,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,Citizen and company data validation APIs,Cabo Verde,other,PDEX,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado

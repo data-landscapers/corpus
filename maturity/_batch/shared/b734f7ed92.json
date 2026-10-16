@@ -1,0 +1,99 @@
+{
+ "slug": "2026-06-03-gabon-cnie-enrolment-figures-assembly",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The Interior Minister told the National Assembly that 335,384 people have been enrolled in the CNIE campaign since 2024, about 12.9% of the 2.6 million population (computed from the population given).",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "CNIE",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Interior Minister told the National Assembly that 164,944 CNIE cards have been produced and 147,224 collected by holders, from the enrolment campaign begun in 2024.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "CNIE",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité électronique (CNIE)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

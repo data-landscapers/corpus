@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANIP identity system",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated."
+}

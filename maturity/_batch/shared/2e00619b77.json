@@ -1,0 +1,9 @@
+{"slug": "2026-09-16-dpi-map-mali-country-profile", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "none", "fact": "DPI Map records that NINA has no digital authentication function and no authentication through a government portal.", "as_of": "2025-06-17", "date_precision": "day", "system": "NINA", "class": "authentication"}], "systems": [{"system": "NINA", "country_label": "Mali", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [{"system": "NINA", "country_label": "Mali", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "Relationship with feeder documents is marked NO, which does not say whether records are exchanged."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [{"system": "NINA", "country_label": "Mali", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "No enrolment count is given."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [{"system": "NINA", "country_label": "Mali", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "Governing entity and technical support are marked NA."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [{"system": "NINA", "country_label": "Mali", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "Status of implementation is NA; the page claims NINA as a digital ID but states no issuing, and records no ID act, regulation or enrolment rules."}}}
+}}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Finance Ministry says the NIU is issued to every foreign resident and Congolese citizen from age 6, valid 10 years, free for individuals.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "Numéro d'Identification Unique (NIU)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The NIU modernised in 2020 (order 5327) captures iris and fingerprints in physical presence, and Minister Christian Yoka frames it as curbing duplicates and fraud.",
+   "as_of": "2020-03-12",
+   "date_precision": "day",
+   "system": "Numéro d'Identification Unique (NIU)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numéro d'Identification Unique (NIU)",
+   "country_label": "Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministère des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

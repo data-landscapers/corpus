@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mauritius National Identity Card (MNIC 3.0)",
+   "country_label": "Mauritius",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": "smart ID card; Mobile ID app in development"
+  }
+ ],
+ "note": "The document says nothing on this for Mauritius."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-adjinacou-maternite-identite-legale",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "ANIP director Aristide Adjinacou says the single-desk pilot in ten health facilities registered over 13,000 births in six months (over 76%), with the aim that every child receive a personal identification number (NPI) and birth certificate in the first days of life.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Numero personnel d'identification (NPI)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

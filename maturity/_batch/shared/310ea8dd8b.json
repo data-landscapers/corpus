@@ -1,0 +1,9 @@
+{"slug":"2025-09-19-hassan-sheikh-10m-passports-id-overhaul","studies":{
+"authentication":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No link to the civil register is stated; birth certificates are still required beside the ID."}}},
+"idcoverage":{"countries":{"SOM":{"facts":[{"sub_indicator":"coverage","aspect":"share","value":"below","fact":"Hiiraan reports that about half a million Somalis have registered for the NIRA biometric card, about 2.5% of the 19.7 million population (divided by the population held), against a government goal of at least 20 million.","as_of":"2025-09-19","date_precision":"day","system":"NIRA e-Aqoonsi","class":"idsystem"}],"systems":[{"system":"NIRA national ID (e-Aqoonsi, Hubiye)","country_label":"SOM","class":"idsystem","platform":"biometric platform","owner":"NIRA","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Only donor support is mentioned; no operating or maintenance arrangement is stated."}}},
+"idregisters":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The president ordered institutions to link to the ID but no register is stated to be keyed on it."}}},
+"idrobustness":{"countries":{"SOM":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Hiiraan reports that NIRA is issuing a biometric national ID card, with about half a million people registered, and that the president ordered all agencies and businesses to link to it.","as_of":"2025-09-19","date_precision":"day","system":"NIRA e-Aqoonsi","class":"idsystem"}],"systems":[],"note":""}}}
+}}

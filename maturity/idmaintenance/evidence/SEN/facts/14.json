@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-05-aps-daf-suspension-cni-communique",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Senegal's Direction de l'Automatisation des fichiers (DAF) runs national ID card production and its technical services are restoring the system after an incident, per its 5 February 2026 communique.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "National identity card production",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card (CNI)",
+   "country_label": "Senegal",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

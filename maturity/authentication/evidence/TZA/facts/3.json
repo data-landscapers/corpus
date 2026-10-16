@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "NIDA said it had received 56 institution applications from January to 12 April 2025 and expected 200 institutions connected to its systems by December 2025.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "NIDA institution connections"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA institution connections",
+   "country_label": "TZA",
+   "class": "other",
+   "platform": "NIDA",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

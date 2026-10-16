@@ -1,0 +1,13 @@
+# Senegal
+
+## Authentication
+
+**Authentication service.** [IPRES, the pension institution, opened its three-month periodic proof-of-life campaign on 1 July 2026 on the Maa ngi nii platform, where Senegalese pensioners must hold their ECOWAS national identity card to complete the proof of life](<https://aps.sn/lipres-annonce-le-debut-de-la-campagne-periodique-de-collecte-de-preuve-de-vie-ce-mercredi/>). [The e-Sénégal single-window app, launched 24 March 2026 and built by SENUM SA, gives access through authentication on the NIN carried on the biometric identity card, with judicial-record, nationality-certificate and similar procedures live at launch](<https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html>).
+
+**Used across services.** No source held since October 2023 says authentication is used across services or channels. The nearest held fact: [the one given above](<https://aps.sn/lipres-annonce-le-debut-de-la-campagne-periodique-de-collecte-de-preuve-de-vie-ce-mercredi/>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://aps.sn/lipres-annonce-le-debut-de-la-campagne-periodique-de-collecte-de-preuve-de-vie-ce-mercredi/>).
+
+***Noted, not assessed***. [e-Sénégal](<https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html>); [GovStack](<https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html>); [Maa ngi nii (pdv.ipres.sn)](<https://aps.sn/lipres-annonce-le-debut-de-la-campagne-periodique-de-collecte-de-preuve-de-vie-ce-mercredi/>); [Electoral register (listes électorales)](<https://dge.sn/decret-n-2016-1536-du-29-septembre-2016-portant-application-de-la-loi-n-2016-09-du-14-mars-2016-instituant-une-carte-didentite-biometrique-cedeao-publie-au-jors-n-6965-du-5/>).
+
+***Not held***. No source held since October 2023 says authentication is used across services or channels.

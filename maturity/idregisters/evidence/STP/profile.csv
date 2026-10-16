@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+STP,registers,register,coverage,underway,2026-03-19,STP-001;STP-002,,
+STP,registers,several,coverage,,,,,nothing held
+STP,registers,matching,coverage,,,,,nothing held

@@ -1,0 +1,142 @@
+{
+ "slug": "2026-01-16 Juba - Passport, ID card issuance resumes",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a stock of 380,000 cards held, not people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "New ID cards are issued only to adults 18 and above; no number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "A card-supply contract is stated, not who operates or maintains the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": "No fact in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DNPI says it has resumed issuing personal ID cards (Butaka Shakhsia), holds 380,000 cards, and processing takes no more than two days.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal identity card (Butaka Shakhsia)",
+       "country_label": "South Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

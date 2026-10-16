@@ -1,0 +1,44 @@
+{
+ "slug": "2024-05-01-sierra-leone-ncra-id4africa-2024-country-presentation",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NCRA's ID4Africa 2024 presentation says services are linked to the NIN and a centralized ID verification system checks against the national ID by API or portal, read-only and consent-driven.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Centralized ID Verification System against National ID"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "NCRA's presentation shows the verification ecosystem linked to health care, social protection, banks, social security, payroll, drivers licence, passport, pensions, FIU/ML, education, immigration, elections, tax/revenue and SIM card registration.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Centralized ID Verification System against National ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centralized ID Verification System against National ID",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated CRVS and ID Management System",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "Open source/DPG piloted to upgrade the ID system (IDMS)",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

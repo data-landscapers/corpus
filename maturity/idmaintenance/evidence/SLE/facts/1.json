@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The NCRA has developed the National Biometric Identity Management System and a Tier III data centre and operates an eKYC platform, per its Director-General.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NIN, National Biometric Identity Management System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identity Management System / NIN",
+   "country_label": "Sierra Leone",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NIRA's eAqoonsi app, on Google Play and the Apple app store, lets citizens carry their national ID on a smartphone as a digital credential with the same legal validity as the physical card; it has passed 50,000 downloads.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The eAqoonsi digital ID app, launched in 2025 by NIRA, is in use with more than 50,000 downloads.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

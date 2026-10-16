@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-24-somalia-eaqoonsi-app-dpi",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Nearly two million people had registered for the national ID by April 2026 against a target of 15 million IDs by 2029, per Hiiraan Online; about 10% of the 19.7 million population (computed from the population given).",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

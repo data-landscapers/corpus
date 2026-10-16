@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "robustness",
+   "stage": "2",
+   "system": "underway",
+   "biometric": "",
+   "assurance": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-010;COD-004",
+   "gaps": "No source held since October 2023 says: is it in service.",
+   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
+  }
+ ]
+}

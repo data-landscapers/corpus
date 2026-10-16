@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-angolanewswire-17-million-identity-cards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade (BI)",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a count of cards issued (17,166,000) is given, not people enrolled; a card count is not recorded."
+}

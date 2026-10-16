@@ -1,0 +1,16 @@
+{"slug": "2026-08-21-techbuild-uganda-national-id-broken-qr-codes", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [{"system": "National ID QR verification (NIRA)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NIRA", "tiers": ""}], "note": "QR verification is stated as not working; no service is stated as in use or contracted."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The article reports the Prime Minister's figure of 11.9 million unregistered Ugandans; against 51.4 million people this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"},
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The article reports the Prime Minister's figure of 11.9 million unregistered Ugandans; against 51.4 million people this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The article reports the Prime Minister's plan to expand NIRA's staff from 571 to 997 employees, three officers per district; NIRA itself acknowledged the QR code had not been integrated into its digital operational system.", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only banks and telecoms are named as users; no public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Uganda's newly issued national ID cards carry QR codes meant for electronic verification, and the Prime Minister cited 11.9 million unregistered and seven million unissued cards.", "as_of": "2026-08-20", "date_precision": "day", "system": "National Identification Register", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "ID Tech Wire reports MACRA would launch mandatory biometric SIM registration from 1 July 2025, with the NRB authenticating identities against Malawi's biometric ID system; as_of is the article's published date.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "biometric SIM registration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric SIM registration",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "MACRA; National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

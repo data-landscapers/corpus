@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-ssd-nec-chiefs-verify-voters-without-ids",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The Sudan Independent, citing a July World Bank report, says nearly 90% of South Sudan's population lacked government-recognised identification of any kind, so about 10% hold one (below the 12.2 million population share of a third).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "government-recognised identification",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

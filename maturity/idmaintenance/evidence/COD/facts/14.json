@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-26-lumiernews-rdc-national-id-card-accountability",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ONIP national ID card",
+   "country_label": "DR Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Operation and maintenance of the system are not described."
+}

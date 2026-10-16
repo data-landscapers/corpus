@@ -1,0 +1,41 @@
+{
+ "slug": "2025-09-04-gnb-unicef-nascer-com-identidade-registo-nascimento-saude",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sistema Integrado de Registo e Estatisticas do Cidadao",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Interoperability described is between civil registration and the health sector, not with an ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sistema Integrado de Registo e Estatisticas do Cidadao",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Births are registered with certificates; no unique ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-11 DZAP World Bank PAD",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The World Bank appraisal says INRIS has registered 15 percent of adults using biometrics, a coverage gap of about 85 percent (an adults share, so below a third of the whole population).",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

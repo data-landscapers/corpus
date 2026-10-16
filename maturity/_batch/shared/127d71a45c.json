@@ -1,0 +1,68 @@
+{
+ "slug": "2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "2026-06-22-decret-2026-0161-plateforme-certification-identite-sim",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the decree title and date appear; it concerns SIM-holder identity certification, and no national ID system content is stated."
+    }
+   }
+  }
+ }
+}

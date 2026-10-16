@@ -1,0 +1,85 @@
+{
+ "slug": "2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGEC",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC with UNDP support",
+       "tiers": ""
+      },
+      {
+       "system": "SANEC",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGEC interfaces with SANEC, both civil-registration systems; no link to an ID system stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registration digitisation only; no national ID stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registration digitisation only; no national ID stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registration digitisation only; no national ID stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registration digitisation only; no national ID stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registration digitisation only; no national ID stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2026-10-09-dza-capdz-sayoud-identite-numerique-modernisation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Verification mechanisms and trust services were debate topics only; no service is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The Interior minister said his ministry has a central role in citizens' legal identity through both the civil register (etat civil) and the issue of identity documents.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "Interior ministry civil status and identity documents",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on who operates or maintains the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on public registers using the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Biometric documents are mentioned only as an SDK subject; no ID system issuing unique identities is described."
+    }
+   }
+  }
+ }
+}

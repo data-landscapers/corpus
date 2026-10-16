@@ -1,0 +1,13 @@
+# Djibouti
+
+## Digital id from birth
+
+**Number given at birth.** [The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register](<https://numerique.gouv.dj/Articles/detailArticleAvancee/15>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+
+**Given nationally.** No source held since October 2023 says every registered birth across the country receives the number. The nearest held fact: [the one given above](<https://numerique.gouv.dj/Articles/detailArticleAvancee/15>).
+
+**All births registered.** No source held since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://numerique.gouv.dj/Articles/detailArticleAvancee/15>).
+
+***Noted, not assessed***. [RNPP / NNI](<https://numerique.gouv.dj/Articles/detailArticleAvancee/15>).
+
+***Not held***. No source held since October 2023 says every registered birth across the country receives the number.

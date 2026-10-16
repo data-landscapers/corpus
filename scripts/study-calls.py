@@ -22,7 +22,7 @@ workflow as it stands:
   "countries": {"KEN": 14, …}}, …]}` — regional stories within the same bounds, each with
   its number in each country's list.
 
-Only rows of pass `0` and `about` are planned, and a row whose facts file already exists is
+Only rows of pass `0` and `about` are planned (`about` alone for a study whose `pass` is `first`), and a row whose facts file already exists is
 not: a carry or an earlier call has answered it. A regional drafter writes one file per story,
 `maturity/{id}/regional/{key}.json`, `{"slug", "countries": {ISO3: {"facts", "systems",
 "note"}}}`; **`--fan` writes each country's part as `evidence/{ISO3}/facts/{n}.json`**, the
@@ -56,12 +56,24 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_lib  # noqa: E402
 
 PASSES = ("0", "about")
+FIRST = ("about",)   # a first pass reads the `about` rows only (`first-pass-batch.md`, 2026-10-16)
+
+
+def passes_of(study: dict) -> tuple[str, ...]:
+    return FIRST if study.get("pass") == "first" else PASSES
+
+
+def since_of(study: dict) -> str:
+    """`window_from`: a story published before it can give no fact the ladder counts, so it is
+    not planned. The Digital Identity batch (2026-10-16) set it to the three-year window's start."""
+    return study.get("window_from", "")
 CALL_DOCS, CALL_WORDS = 5, 15_000   # as `study-select.py` bounds a call
 
 
-def plan(lists: dict[str, list[dict]], answered: set[tuple[str, str]]) -> list[dict]:
+def plan(lists: dict[str, list[dict]], answered: set[tuple[str, str]], passes=PASSES, since: str = "") -> list[dict]:
     """The calls for `{iso: readlist rows}`, less the `(iso, n)` already answered."""
-    todo = {iso: [r for r in rows if r.get("kind") == "raw" and r.get("pass") in PASSES
+    todo = {iso: [r for r in rows if r.get("kind") == "raw" and r.get("pass") in passes
+                  and (r.get("published") or "9999") >= since
                   and r.get("slice") and (iso, str(r["n"])) not in answered]
             for iso, rows in lists.items()}
     where = collections.defaultdict(dict)
@@ -123,18 +135,42 @@ def todo_and_answered(study: str) -> tuple[dict[str, list[dict]], set[tuple[str,
     return lists, answered
 
 
-def plan_batch(studies: list[str]) -> tuple[list[dict], dict[str, list[dict]]]:
+def capped(lists: dict[str, dict[str, list[dict]]], reads: dict, since: dict, cap: int) -> None:
+    """Keep each country's `cap` best-ranked stories across the batch, in place.
+
+    *(Digital Identity batch, 2026-10-16: 2,421 stories would have been about 500 calls.)* A
+    story's rank in a country is its best `n` in any study's list, which `study-select.py`
+    ranked; the rest of the rows are dropped from the plan, not from the lists."""
+    best: dict[str, dict[str, int]] = collections.defaultdict(dict)
+    for sid, by_iso in lists.items():
+        for iso, rows in by_iso.items():
+            for r in rows:
+                if r.get("kind") == "raw" and r.get("pass") in reads[sid] and (r.get("published") or "9999") >= since[sid]:
+                    best[iso][r["slug"]] = min(best[iso].get(r["slug"], 10**6), int(r["n"]))
+    keep = {iso: set(sorted(d, key=d.get)[:cap]) for iso, d in best.items()}
+    for by_iso in lists.values():
+        for iso, rows in by_iso.items():
+            by_iso[iso] = [r for r in rows if r.get("kind") != "raw" or r["slug"] in keep.get(iso, ())]
+
+
+def plan_batch(studies: list[str], cap: int = 0) -> tuple[list[dict], dict[str, list[dict]]]:
     """`(shared calls, {study: its own calls})` for a batch.
 
     A row is shared when its story is read whole and listed by two studies or more; each such
     row is taken out of its study's own plan by marking it answered for the planning only."""
-    lists, answered = {}, {}
+    lists, answered, reads, since = {}, {}, {}, {}
     where = collections.defaultdict(lambda: collections.defaultdict(dict))
     for sid in studies:
         lists[sid], answered[sid] = todo_and_answered(sid)
+        reads[sid] = passes_of(study_lib.load(sid))
+        since[sid] = since_of(study_lib.load(sid))
+    if cap:
+        capped(lists, reads, since, cap)
+    for sid in studies:
         for iso, rows in lists[sid].items():
             for r in rows:
-                if (r.get("kind") == "raw" and r.get("pass") in PASSES and r.get("slice")
+                if (r.get("kind") == "raw" and r.get("pass") in reads[sid] and r.get("slice")
+                        and (r.get("published") or "9999") >= since[sid]
                         and r.get("read") == "whole" and (iso, str(r["n"])) not in answered[sid]):
                     where[r["slug"]][sid][iso] = r
     shared = {slug for slug, by in where.items() if len(by) >= 2}
@@ -155,7 +191,7 @@ def plan_batch(studies: list[str]) -> tuple[list[dict], dict[str, list[dict]]]:
     own = {}
     for sid in studies:
         taken = {(iso, str(r["n"])) for slug in shared for iso, r in where[slug].get(sid, {}).items()}
-        own[sid] = plan(lists[sid], answered[sid] | taken)
+        own[sid] = plan(lists[sid], answered[sid] | taken, reads[sid], since[sid])
     return calls, own
 
 
@@ -200,7 +236,7 @@ def fan_batch(studies: list[str], dry: bool) -> int:
     return 1 if missing else 0
 
 
-def main_batch(studies: list[str], dry: bool, do_fan: bool) -> int:
+def main_batch(studies: list[str], dry: bool, do_fan: bool, cap: int = 0) -> int:
     for sid in studies:
         try:
             study_lib.load(sid)
@@ -209,7 +245,7 @@ def main_batch(studies: list[str], dry: bool, do_fan: bool) -> int:
             return 2
     if do_fan:
         return fan_batch(studies, dry)
-    shared, own = plan_batch(studies)
+    shared, own = plan_batch(studies, cap)
     if not dry:
         write_json(os.path.join(BATCH, "calls.json"), shared)
         os.makedirs(os.path.join(BATCH, "shared"), exist_ok=True)
@@ -229,11 +265,12 @@ def main(argv=None) -> int:
     ap.add_argument("study", nargs="?")
     ap.add_argument("--batch", nargs="+", metavar="STUDY",
                     help="plan (or with --fan, fan out) a first-pass batch of studies together")
+    ap.add_argument("--cap", type=int, default=0, help="with --batch: plan each country's best N stories only")
     ap.add_argument("--dry", action="store_true", help="print the counts, write nothing")
     ap.add_argument("--fan", action="store_true", help="write the regional answers into facts files")
     a = ap.parse_args(argv)
     if a.batch:
-        return main_batch(a.batch, a.dry, a.fan)
+        return main_batch(a.batch, a.dry, a.fan, a.cap)
     if not a.study:
         ap.error("name a study, or --batch and the studies")
     try:
@@ -277,7 +314,8 @@ def main(argv=None) -> int:
         folder = os.path.join(base, iso, "facts")
         if os.path.isdir(folder):
             answered |= {(iso, f[:-5]) for f in os.listdir(folder) if f.endswith(".json")}
-    calls = plan(lists, answered)
+    study = study_lib.load(a.study)
+    calls = plan(lists, answered, passes_of(study), since_of(study))
     regional = [st for c in calls if c["kind"] == "regional" for st in c["stories"]]
     readings = sum(len(c["countries"]) for c in regional) + sum(len(c["ns"]) for c in calls if c["kind"] == "country")
     reads = len(regional) + sum(len(c["ns"]) for c in calls if c["kind"] == "country")

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Registre National des Entreprises states that from 1 July 2026 all its procedures are online only and access requires a digital identity, Mobile ID for natural persons and DigiGO for legal persons.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises online services"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DigiGO",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Entreprises online services",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Registre National des Entreprises",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

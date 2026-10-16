@@ -1,0 +1,52 @@
+{
+ "slug": "2025-08-29-drc-digital-id-phased-deployment-contract-do-over-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Biometric Update reports that DRC Pass lets citizens register SIM cards by linking their biometrics, and that its phased deployment is already underway.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "SIM card registration through DRC Pass"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Biometric Update reports that Trident was named exclusive e-KYC provider in the June 2025 PPP and that DRC Pass is used to verify identities for digital payments and credit risk assessments.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "DRC Pass e-KYC for digital payments and credit risk assessment"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DRC Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "Tridentity (blockchain)",
+   "owner": "Trident Digital Tech under PPP with the DRC government",
+   "tiers": ""
+  },
+  {
+   "system": "SIM card registration through DRC Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "DRC Pass",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DRC Pass e-KYC for digital payments and credit risk assessment",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "DRC Pass",
+   "owner": "Trident Digital Tech",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

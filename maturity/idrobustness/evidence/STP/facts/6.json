@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-19-sao-tome-campanha-nacional-bilhete-de-identidade-gratuito",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A campaign running until 15 March 2026 gave a free Bilhete de Identidade to citizens over 17 without a valid one, implemented by the Direcao-Geral dos Registos e Notariado with PReSE support.",
+   "as_of": "2026-03-15",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

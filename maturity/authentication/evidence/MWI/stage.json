@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "authentication",
+   "stage": "5",
+   "service": "inservice",
+   "reach": "several",
+   "remote": "wallet",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-026;MWI-028",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
+  }
+ ]
+}

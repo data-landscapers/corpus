@@ -1,0 +1,4 @@
+{"slug": "2025-11-05 Review of Djibouti Data Protection Law", "studies": {
+"authentication": {"countries": {"DJI": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "TechHive Advisory says a Mobile ID is being rolled out in Djibouti and relies on the national identification number.", "as_of": "2025-11-05", "date_precision": "day", "system": "Mobile ID", "class": "authentication"}], "systems": [{"system": "Mobile ID", "country_label": "Djibouti", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The document names a national identification number only in a data-protection context and says nothing of a register issuing it."}}}
+}}

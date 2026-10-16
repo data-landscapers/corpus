@@ -1,0 +1,118 @@
+{
+ "slug": "2026-05-11-anid-plateaux-ouest-enregistrement",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "More than 6 million Togolese held a NIU at end 2025 per official figures, which is at least 69.8% of the 8.6 million population (divided by the study population figure).",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "NIU",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "twothirds",
+       "fact": "More than 6 million Togolese held a NIU at end 2025 per official figures, which is at least 69.8% of the 8.6 million population (divided by the study population figure).",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "NIU",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIU",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ANID has assigned a unique identification number (NIU) to more than 6 million Togolese by end 2025, with enrolment extending to Kloto and Wawa prefectures from May 2026 under WURI-Togo.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "NIU",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIU",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

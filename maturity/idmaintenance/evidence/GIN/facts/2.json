@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-25-mediaguinee-oneci-ng-tech-rnpp",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "NG Tech Innovation says teams are already mobilised in Conakry to train national cadres and transfer skills, with the register's infrastructure developed by Guinean engineers.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Registre national d'identité (RNPP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

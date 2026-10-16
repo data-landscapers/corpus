@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-14 Uganda financial institutions sign on for digital KYC through national ID",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Bank of Uganda's 2023 annual report, as reported, lists 74 financial institutions with access to the NIRA database for digital KYC verification as of June 2024, some at full operation and others in a trial phase.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Digital KYC via NIRA database"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The Bank of Uganda lists the 74 institutions with NIRA database access as commercial banks, microfinance institutions, a forex bureau, fintechs, insurance companies and one telecommunications company.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Digital KYC via NIRA database"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital KYC via NIRA database",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Uganda-regulated financial institutions",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

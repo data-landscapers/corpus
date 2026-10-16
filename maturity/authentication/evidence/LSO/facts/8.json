@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Lesotho digital identity card"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho digital identity card",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lesotho Exemption Permit electronic verification",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "South Africa Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

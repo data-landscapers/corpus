@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-codevelop-sadc-cross-border-digital-identity-framework",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Co-Develop and FinMark Trust state that in a pilot Lesotho migrants in South Africa accessed formal remittance services using their national digital IDs, verified in real time across the border.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Lesotho national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho national digital ID",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

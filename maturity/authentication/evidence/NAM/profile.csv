@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,authentication,service,coverage,inservice,2026-08,NAM-001;NAM-003;NAM-005,NAM-002=underway;NAM-006=underway;NAM-007=underway;NAM-008=underway;NAM-004=underway,
+NAM,authentication,reach,coverage,,,,,nothing held
+NAM,authentication,remote,coverage,,,,,nothing held

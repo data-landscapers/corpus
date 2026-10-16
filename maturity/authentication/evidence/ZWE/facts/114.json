@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-zwe-businesstimes-rbz-ghost-wallets-civil-registry-linkage",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Reserve Bank of Zimbabwe shut down ghost, fictitious and duplicate mobile money wallets after linking the Civil Registry's national database with mobile financial services subscriber records.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Mobile financial services subscriber records"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile financial services subscriber records",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

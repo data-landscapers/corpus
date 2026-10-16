@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-eswatini-national-ekyc-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Times of Eswatini reports a national e-KYC system, set to roll out soon, to digitise identity verification for financial services, with commercial banks, financial service providers, regulators and ministries meeting to coordinate implementation of the national e-KYC registry and the Royal Science and Technology Park providing the infrastructure for a national identity verification platform; the article does not say the platform checks against the national ID database.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "national e-KYC system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national e-KYC system",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "national identity verification platform / e-KYC registry",
+   "owner": "Central Bank of Eswatini",
+   "tiers": "Royal Science and Technology Park provides infrastructure"
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

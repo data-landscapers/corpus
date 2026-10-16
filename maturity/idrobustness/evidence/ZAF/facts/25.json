@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-26-dha-treasury-employee-verification-platform",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Home Affairs says its digital identity verification capabilities, linked to the population register, enable liveness tests and real-time biometric verification of employee records.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "population register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

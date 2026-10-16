@@ -1,0 +1,68 @@
+{
+ "slug": "2025-06-30 Libyan firm Al Itissan Al-Jadeed wins Niger biometric passport national ID contract",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Libya is only the contractor's home; the document describes Niger's systems, not Libya's."
+    }
+   }
+  }
+ }
+}

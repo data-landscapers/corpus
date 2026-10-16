@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-18-liberia-ppp-digital-id-osd",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "Under the proposed concession OSD would finance enrolment and card issuance, recover its investment over time and ultimately transfer the system to the government, per the NIR Executive Director.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "national ID (NIR)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,21 +1,68 @@
 {
  "slug": "2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps",
  "studies": {
-  "dataexchange": {
+  "birthidlink": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "Names no data exchange platform; mentions only a civil-registry pilot and a recommended national digital public platforms strategy."
+     "note": "Digital civil-registry pilot mentioned; no link to an ID system stated."
     }
    }
   },
-  "idverification": {
+  "idcoverage": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "States digital identity is not yet implemented; says nothing of other systems checking people against a national ID."
+     "note": "No coverage figure given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "none",
+       "fact": "The World Bank diagnostic says digital identity is not yet implemented in Equatorial Guinea.",
+       "as_of": "2024-06-25",
+       "date_precision": "day",
+       "system": "",
+       "class": "other"
+      }
+     ],
+     "systems": [],
+     "note": ""
     }
    }
   }

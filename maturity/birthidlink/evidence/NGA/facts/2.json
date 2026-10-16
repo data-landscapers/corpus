@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-18-fij-npc-corrects-vitalreg-records",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "FIJ reports that a birth record on the NPC's VitalReg digital birth registration portal was found registered under a Lagos man's National Identification Number (NIN), linking birth records to the NIN.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "VitalReg",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VitalReg",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

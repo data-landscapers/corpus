@@ -1,0 +1,9 @@
+{"slug": "2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No count of people holding the ID is given."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Who operates the system is not stated."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No register keyed on the ID is mentioned."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Prime Ministry says a steering committee decided on 22 April 2024 to start actual use of the biometric national identity card in the first six months of 2025, after Organic Laws 22 and 23 of 2024 were approved.", "as_of": "2024-04-22", "date_precision": "day", "system": "Biometric national identity card", "class": "idsystem"}], "systems": [{"system": "Biometric national identity card", "country_label": "Tunisia", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}}
+}}

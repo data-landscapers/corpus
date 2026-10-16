@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-07-nida-mulls-child-registration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of people enrolled; 309,603 cards awaiting collection is a card count."
+}

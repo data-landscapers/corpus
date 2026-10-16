@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-17 Angola begins issuance of ID cards to newborns",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Biometric Update says Angola is beginning to issue national ID cards to newborns at maternity wards, starting in Mbanza Kongo municipality of Zaire province, then its 10 other municipalities.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "newborn national ID issuance (Born with a birth certificate)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-10-nga-timeexpressnigeria-gov-radda-seeks-nimc-partnership-to-strengthen-identity-mana",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National identity architecture (NIMC)",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": "Says a significant percentage of Katsina citizens are not yet captured, with no count or share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for Nigeria."
+    }
+   }
+  }
+ }
+}

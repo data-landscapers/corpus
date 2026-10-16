@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-19-fake-national-numbers-for-sale-alwasat",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Attorney General's investigations announced on 17 August 2022 found 8,690 citizens drawing salaries under national numbers that were forged and not in the civil registry system, showing public payroll keyed on the national number.",
+   "as_of": "2022-08-17",
+   "date_precision": "day",
+   "system": "National Number (civil registry)",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "The Attorney General announced on 17 August 2022 that checking the national number system found 88,819 incorrect numbers, 63,986 of them absent from the civil registry system.",
+   "as_of": "2022-08-17",
+   "date_precision": "day",
+   "system": "National Number (civil registry)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Number system",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

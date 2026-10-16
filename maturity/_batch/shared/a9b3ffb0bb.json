@@ -1,0 +1,9 @@
+{"slug":"2026-07-23-namibia-id-registration-taken-to-khomas-schools","studies":{
+"authentication":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on authentication."}}},
+"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Birth certificate is only a required application document; no exchange stated."}}},
+"idcoverage":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Counts documents printed (166,237) and collected (125,999), not people enrolled."}}},
+"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"NAM":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The Ministry of Home Affairs itself takes applications, prints and distributes national identity documents, printing 166,237 between 1 April 2025 and 30 June 2026, per its spokesperson.","as_of":"2026-06","date_precision":"month","system":"National identity document","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"NAM":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Ministry of Home Affairs printed 166,237 national identity documents between 1 April 2025 and 30 June 2026, of which 125,999 were collected.","as_of":"2026-06","date_precision":"month","system":"National identity document","class":"idsystem"}],"systems":[{"system":"National identity document","country_label":"Namibia","class":"idsystem","platform":"","owner":"Ministry of Home Affairs, Immigration, Safety and Security","tiers":""}],"note":""}}}
+}}

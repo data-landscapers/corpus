@@ -1,0 +1,118 @@
+{
+ "slug": "2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth registration campaign described with no link to the ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives full coverage of the adult population only, with no count or population share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth registration campaign for 4.6 million children states no ID number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National ID",
+       "class": "register"
+      },
+      {
+       "sub_indicator": "registers",
+       "aspect": "several",
+       "value": "several",
+       "fact": "The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management, three main registers.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National ID",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The EU Delegation says Malawi achieved full national ID registration coverage of the adult population in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

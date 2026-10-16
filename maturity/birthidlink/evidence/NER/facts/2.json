@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-mot-du-coordonnateur-wuri-niger",
+ "facts": [],
+ "systems": [
+  {
+   "system": "fID (NIU unique identifier system)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Ministry of the Interior (WURI-Niger project)",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated."
+}

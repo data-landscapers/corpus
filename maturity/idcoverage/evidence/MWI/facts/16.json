@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-27-mwi-nzika-digital-id-public-trust",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Malawi's national identity system holds information on more than 13.5 million registered people, per current reporting cited by the column; against 22.2 million population that is about 61% (share computed from the held population).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

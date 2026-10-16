@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of Digital Affairs says use of the NNI is obligatory for all institutions to exchange data between public bodies, and an interoperability platform with ANSIE is being set up.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NNI",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

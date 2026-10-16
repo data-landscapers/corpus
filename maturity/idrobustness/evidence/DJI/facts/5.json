@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-mobile-id-launch-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Djibouti's President launched the Mobile ID digital identity platform on 9 February 2026, with biometric data held by the Interior Ministry.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Djibouti",
+   "class": "idsystem",
+   "platform": "smartphone and unique digital identifier",
+   "owner": "Interior Ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-27-hespress-interieur-walis-numerisation-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Hespress says Law 36-21 provides for a national digital platform with a civil and social identifier assigned to every birth, Moroccan or foreign resident.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "identifiant civil et social",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

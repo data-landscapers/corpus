@@ -1,0 +1,60 @@
+{
+ "slug": "2024-12-24-barlamane-dgsn-recap-cnie-2-0",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The DGSN's end-of-2024 report says its Trusted Third-Party Identity Verification system, integrated with the Digital Identity Platform, lets citizens verify their identity in real time for administrative and financial transactions, and over 30 public and private institutions were approved in 2024 for direct use of it.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Trusted Third-Party Identity Verification platform"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The DGSN reports that institutions approved for direct use of the Trusted Third-Party platform include the Ministry of Justice, the Directorate General of Taxes, Customs, national banks and financial institutions, and that its 17 framework agreements cover insurance, education, transportation safety, retirement funds and health.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Trusted Third-Party Identity Verification platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trusted Third-Party Identity Verification platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Identity Platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "CNIE 2.0 chip and mobile application",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "My Digital Identity app",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "mobile application",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "E-Police",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "service portal",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

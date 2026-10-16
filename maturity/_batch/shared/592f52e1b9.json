@@ -1,0 +1,10 @@
+{"slug": "2026-06-15-deskeco-rdc-pass-lancement-agents", "studies": {
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "No civil register link mentioned."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "Ministry leads with Trident technology support, but day-to-day operation and maintenance are not stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No public register keyed on the number is stated."}}},
+"idrobustness": {"countries": {"COD": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "DeskEco reports the official launch on 13 June 2026 of the national digital identification system RDC-PASS, led by the Ministry of Digital Economy with technology support from Trident Digital Tech DRC Africa SAS, giving citizens a unique identifier to be used progressively; the President says it is not a national ID card.", "as_of": "2026-06-13", "date_precision": "day", "system": "RDC-PASS", "class": "idsystem"}
+], "systems": [{"system": "RDC-PASS", "country_label": "COD", "class": "idsystem", "platform": "Trident Digital Tech DRC Africa SAS", "owner": "Ministry of Digital Economy", "tiers": "digital identifier; not a national ID card"}], "note": ""}}}
+}}

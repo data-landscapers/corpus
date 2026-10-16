@@ -1,0 +1,17 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "robustness",
+   "stage": "5",
+   "system": "inservice",
+   "biometric": "checked",
+   "assurance": "certified",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-011",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
+  }
+ ]
+}

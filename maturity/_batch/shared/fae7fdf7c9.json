@@ -1,12 +1,111 @@
-{"slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted", "studies": {
-"dataexchange": {"countries": {"NGA": {"facts": [], "systems": [
-{"system": "NIMC national identity database and API", "country_label": "Nigeria", "class": "other", "platform": "identity database with an application programming interface for agencies", "owner": "NIMC", "tiers": ""}
-], "note": "The story describes the identity system's own API and agency integrations, not a platform exchanging data between public bodies' systems."}}},
-"idverification": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIMC's Alvan Ikoku said about 63 government agencies had integrated with NIMC, including bodies in examinations, student finance, consumer credit and health insurance, through its API for verification services; the story dates it to the 2026-10-14 briefing.", "as_of": "2026-10-14", "date_precision": "day", "system": "NIMC identity verification API", "class": "relying"},
-{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The story names integrated agencies in examinations, student finance, consumer credit and health insurance as part of the roughly 63 connected to NIMC, per NIMC at the 2026-10-14 briefing.", "as_of": "2026-10-14", "date_precision": "day", "system": "NIMC identity verification API", "class": "relying"},
-{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "NIMC said about 63 government agencies had integrated with it and that 142 million people held NINs as of September 2026; no count of verifications is given.", "as_of": "2026-10-14", "date_precision": "day", "system": "NIMC identity verification API", "class": "relying"}
-], "systems": [
-{"system": "NIMC identity verification API", "country_label": "Nigeria", "class": "relying", "platform": "API offered by NIMC to agencies and licensed partners for verification", "owner": "NIMC", "tiers": ""}
-], "note": ""}}}
-}}
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "About 63 agencies integrated, but no public register keyed on the NIN is named."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "NIMC says 142 million people had registered for NINs as of September 2026, about 60% of the 237.5 million population (share computed from the population held).",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "National Identification Number (NIN)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIMC's Alvan Ikoku says the identity database is hosted in Nigeria and managed by NIMC employees, not vendors.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "NIMC national identity database",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "maintenance",
+       "value": "national",
+       "fact": "Ikoku says NIMC maintains its core database internally with its own staff.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "NIMC national identity database",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIMC says 142 million people have registered for National Identification Numbers as of September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "National Identification Number (NIN)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (NIN)",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

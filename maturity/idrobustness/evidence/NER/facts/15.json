@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Interior Ministry said on 12 August 2026 that the Registre National de la Population will become the single base to identify and authenticate each citizen by a personal identifier, with deployment starting in Niamey in the coming weeks and national extension from 2027 under the future ANEI.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "future ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

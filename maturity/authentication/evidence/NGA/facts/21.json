@@ -1,0 +1,52 @@
+{
+ "slug": "2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "As of December 2023 about 12.4 million SIM lines were yet to be NIN-linked, and the NCC set a barring ultimatum of 28 February 2024.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "SIM registration linked to NIN"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The CBN said that from April 2024 it would freeze bank accounts not linked to BVNs and NINs.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Bank account NIN linkage"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration linked to NIN",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NCC",
+   "tiers": ""
+  },
+  {
+   "system": "Bank Verification Number (BVN)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "NIBSS",
+   "owner": "CBN",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Biometric Update says Rwanda is digitizing its national ID system and in May 2024 received bids for a single digital ID core and support modules.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update says NIDA holds fingerprint and face data against which people are matched, and each SIM is to be linked to the owner's unique identification number.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

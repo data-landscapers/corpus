@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Algeria's Ministry of Interior says that since 2018 the NIN is generated automatically from the civil register (RNAEC) when a birth is registered.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "RNAEC / NIN",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

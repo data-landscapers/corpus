@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-tza-6-308-nida-cards-remain-uncollected-in-zanzibar",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Home Affairs Minister Patrobas Katambi credited NIDA with registering 943,284 Tanzanians, about 1.3% of the 70.5 million population (share calculated here from the population held), with 6,308 printed Zanzibar cards uncollected.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "NIDA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

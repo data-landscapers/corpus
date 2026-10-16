@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DIAL case study says Fayda, launched in 2021 by the National ID Program, has over 42 million registrations and integrations with over 130 agencies.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

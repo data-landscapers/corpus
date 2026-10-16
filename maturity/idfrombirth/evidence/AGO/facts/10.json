@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Angola says its civil registration process includes assigning the Numero Unico do Cidadao (NUC), described as the structuring element enabling the identity card, from the first weeks of life; the document describes this as part of a phased target architecture.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Numero Unico do Cidadao (NUC)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

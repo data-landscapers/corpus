@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-national-identity-card-application-botswana",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Department of Civil and National Registration registers citizens aged 16 and over, taking fingerprints, and issues the National Identity Document (Omang) from a centralized production center.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Omang",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Omang",
+   "country_label": "Botswana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Civil and National Registration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

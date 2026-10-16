@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-25-birth-registration-reforms-automatic-id-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Authorities say birth registration is being digitised and linked to the national ID system through Maisha Namba, and the Interior Secretary says the data for automatic ID issuance at 18 will come from the civil registry.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Maisha Namba",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": "UPI at birth, national ID at 18"
+  }
+ ],
+ "note": ""
+}

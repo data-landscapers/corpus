@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-20-south-africa-sim-registration-rica-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The telecoms industry body ACT says its members verify customer identities against the Department of Home Affairs database under existing arrangements with mobile network operators, and the Home Affairs minister said its verification systems are already used by banks.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "DHA identity verification used for SIM registration and bank checks"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Mobile operators and the Department of Justice propose reforms to SIM registration under RICA that add real-time checks against the Home Affairs database; ACT has not disclosed how the new process will work.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "SIM registration (RICA) reform"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The document says mobile network operators verify identities against the Home Affairs database and that Home Affairs verification systems are already used by banks, so telecoms and banking both check against it.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "DHA identity verification used for SIM registration and bank checks"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration (RICA)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "mobile network operators; ACT; Department of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "Home Affairs identity verification",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "DHA database",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

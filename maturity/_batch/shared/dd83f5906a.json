@@ -1,0 +1,182 @@
+{
+ "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The organic law 2024-22 provides that the national ID card carries an electronic authentication certificate allowing identity verification and creation of an electronic signature, with existing cards replaced by chip cards under a renewal programme set by ministerial order.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "Carte nationale d'identité",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The law requires administrative services to inform the national security directorate of a cardholder's death within thirty days, whereupon the card chip is deactivated, and requires civil-status changes to be notified for the card within 90 days of entry in the civil register.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "Carte nationale d'identité",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": "No count or share of people holding the ID is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": "The card is mandatory from age 15; no number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The law states the national ID card is issued by the specialized services of the Ministry of the Interior after taking fingerprint and photo.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "Carte nationale d'identité",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The law states the national ID card, carrying a card number, is issued by Ministry of the Interior services after fingerprint and photo capture, with a new encrypted-chip card replacing earlier cards on renewal.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "Carte nationale d'identité",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identité (chip card)",
+       "country_label": "Tunisia",
+       "class_": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior specialized services",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-18-home-affairs-chief-codes-verification",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Ministry of Home Affairs spokesperson says Chief Codes are updated in the ministry's own system before a replacement ID card is applied for.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national identity card",
+   "country_label": "Eswatini",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": "",
+   "class": "other"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-16 Juba - Passport, ID card issuance resumes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DNPI says it has resumed issuing personal ID cards (Butaka Shakhsia), holds 380,000 cards, and processing takes no more than two days.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Personal identity card (Butaka Shakhsia)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal identity card (Butaka Shakhsia)",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

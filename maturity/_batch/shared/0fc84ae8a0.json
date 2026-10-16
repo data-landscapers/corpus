@@ -1,0 +1,41 @@
+{
+ "slug": "2026-01-12-councils-begin-issuance-digital-birth-certificates-biometricupdate",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BUNEC civil registration digital system",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": "Digital birth certificates in councils; no exchange with an ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BUNEC civil registration digital system",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": "A parent's remark that the child has an identity from the start is not a number; no ID number at birth stated."
+    }
+   }
+  }
+ }
+}

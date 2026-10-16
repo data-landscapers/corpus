@@ -1,0 +1,143 @@
+{
+ "id": "idcoverage",
+ "study_file": "maturity-study-idcoverage.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "subjects": [
+  "dpi.id"
+ ],
+ "stage_topic": "dpi.id",
+ "redraws": [
+  "dpi.id--registration-of-entire-population"
+ ],
+ "carry": [
+  "dpi.id--registration-of-entire-population"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 10000000,
+ "terms": [
+  "national ID",
+  "national IDs",
+  "national identity card",
+  "national identity cards",
+  "national identity",
+  "national identification",
+  "identity card",
+  "identity cards",
+  "ID card",
+  "ID cards",
+  "digital ID",
+  "digital identity",
+  "national identification number",
+  "national ID number",
+  "NIN",
+  "NIDA",
+  "NIRA",
+  "NIMC",
+  "NIDS",
+  "ID4D",
+  "MOSIP",
+  "foundational ID",
+  "legal identity",
+  "Ghana Card",
+  "Fayda",
+  "Maisha Namba",
+  "Huduma Namba",
+  "Omang",
+  "e-ID",
+  "eID",
+  "carte nationale d'identité",
+  "cartes nationales d'identité",
+  "carte d'identité",
+  "identité numérique",
+  "identité légale",
+  "identifiant unique",
+  "numéro d'identification",
+  "numéro national d'identification",
+  "NINA",
+  "RNPP",
+  "NNI",
+  "bilhete de identidade",
+  "identidade digital",
+  "identidade legal",
+  "cartão de identidade",
+  "بطاقة الهوية",
+  "الهوية الرقمية",
+  "الرقم الوطني",
+  "الرقم القومي",
+  "ID enrolment",
+  "ID enrollment",
+  "identity enrolment",
+  "identity enrollment",
+  "enrôlement",
+  "enrôlés",
+  "recensement biométrique"
+ ],
+ "sub_indicators": [
+  {
+   "key": "coverage",
+   "label": "Registration of entire population",
+   "subject": "dpi.id",
+   "text": "Registration of entire population: registration of entire population",
+   "indicator_id": "dpi.id--registration-of-entire-population-registration-of-entire-population",
+   "class": "idsystem",
+   "norm_short": "The African Union's Digital Transformation Strategy sets a target of 99.9% of people in Africa holding a digital legal identity by 2030, from birth.",
+   "criteria": [
+    "A source from the past three years counts fewer than a third of the population holding a national ID.",
+    "A source from the past three years counts a third of the population or more holding a national ID.",
+    "A source from the past three years counts two-thirds of the population or more holding a national ID.",
+    "A source from the past three years counts 99.9% of the population or more holding a national ID.",
+    "A source from the past three years puts birth registration at all births and death registration at 80% or more."
+   ],
+   "criteria_of": "4b78a1f8c396"
+  }
+ ],
+ "classes": [
+  "idsystem",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "share",
+   "name": "Share holding an ID",
+   "role": "coverage",
+   "defer": [
+    "below"
+   ],
+   "prefer": [
+    "twothirds",
+    "third"
+   ],
+   "values": [
+    "twothirds",
+    "third",
+    "below"
+   ]
+  },
+  {
+   "key": "everyone",
+   "name": "Everyone holds one",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "all"
+   ],
+   "values": [
+    "all"
+   ]
+  },
+  {
+   "key": "births",
+   "name": "Births and deaths registered",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "target"
+   ],
+   "values": [
+    "target"
+   ]
+  }
+ ],
+ "flags": []
+}

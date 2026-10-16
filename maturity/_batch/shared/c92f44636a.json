@@ -1,21 +1,57 @@
 {
  "slug": "2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea",
  "studies": {
-  "dataexchange": {
+  "birthidlink": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "Mentions only a recommended, currently absent national interoperability framework; no platform."
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
     }
    }
   },
-  "idverification": {
+  "idcoverage": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "Recommends setting up a digital ID system; a 2023 biometric enrolment of public servants for payroll is not a check against a national ID."
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only recommends a digital ID system and civil registry; it states no existing link, register or system."
     }
    }
   }

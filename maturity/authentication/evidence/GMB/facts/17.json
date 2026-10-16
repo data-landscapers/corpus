@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The government says the National Identity Management System, launched 30 June 2026, combines a national identity register with biometric technology and real-time verification to give a verifiable digital identity.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (GAM ID/NIMS)",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Margins ID Group",
+   "owner": "Ministry of Interior; Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-nigeria-nin-62-5-million-gap-world-bank-id4d",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports that NINAuth, NIMC's digital identity authentication service, launched in 2025 and is still being refined, with full integration dependent on the NIMS 2.0 rollout.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NINAuth",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

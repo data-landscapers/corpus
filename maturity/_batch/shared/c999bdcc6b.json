@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-08-zimbabwe-unicef-china-birth-registration-digitisation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Computerising civil registry sub-offices and birth registration outreach; no ID number, link or ID system stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "slug": "2024-02-19-mauritius-national-identity-card-unit",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Unit says MauPass, a National Authentication Framework giving citizens a digital identity for online government services, was launched in December 2020.",
+       "as_of": "2020-12",
+       "date_precision": "month",
+       "system": "MauPass",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Unit says MauSign is a Certification Authority licensed under the National Public Key Infrastructure, issuing digital certificates and digital signing services to citizens and organisations.",
+       "as_of": "2024-02-19",
+       "date_precision": "day",
+       "system": "MauSign",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The Unit says MauPass gives access to government services online, and registered public and private entities will be authorised to read card and mobile ID data.",
+       "as_of": "2024-02-19",
+       "date_precision": "day",
+       "system": "MauPass",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Unit says a digital wallet with a mobile ID, usable for online authentication and digital signing, will be available.",
+       "as_of": "2024-02-19",
+       "date_precision": "day",
+       "system": "Mobile ID digital wallet",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Mauritius National Identity Card Unit provides registration and issuance of the national identity card and mobile ID, and card-reading services to agencies.",
+       "as_of": "2024-02-19",
+       "date_precision": "day",
+       "system": "MNIC 3.0",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Unit says MNIC 3.0, a smart-card system, has been operational since 19 February 2024.",
+       "as_of": "2024-02-19",
+       "date_precision": "day",
+       "system": "MNIC 3.0",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MNIC 3.0",
+       "country_label": "Mauritius",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Mauritius National Identity Card Unit",
+       "tiers": ""
+      },
+      {
+       "system": "MauPass",
+       "country_label": "Mauritius",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "MauSign",
+       "country_label": "Mauritius",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

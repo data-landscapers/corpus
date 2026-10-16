@@ -1,0 +1,17 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "registers",
+   "stage": "2",
+   "register": "underway",
+   "several": "",
+   "matching": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-005",
+   "gaps": "No source held since October 2023 says: is one public register keyed on it.",
+   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
+  }
+ ]
+}

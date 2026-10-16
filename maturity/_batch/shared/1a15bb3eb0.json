@@ -1,0 +1,4 @@
+{"slug": "2026-02-20-cog-sifec-cloture-recommandations-mfbpp", "studies": {
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "Only prospective uses of civil-status data (NIU identity checks, purging the dead from payroll) are listed; no link is planned, contracted or piloted."}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "The document states no ID number given at birth."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-uga-newvision-uspc-secure-documents-printed-locally",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "New Vision reports that the Uganda Security Printing Company prints Uganda's National Identification cards, which carry more than 20 security features in seven layers, with the features supplied by NIRA.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "National Identification card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification card",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

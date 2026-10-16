@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-28-rwanda-completes-digitalisation-crvs-modules",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Civil Registration and Vital Statistics system",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "MINALOC",
+   "tiers": ""
+  }
+ ],
+ "note": "Digitalises the civil register's nine modules; states no link to an ID system."
+}

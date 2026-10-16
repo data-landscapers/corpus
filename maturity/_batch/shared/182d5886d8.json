@@ -1,0 +1,68 @@
+{
+ "slug": "2025-09-09-sao-tome-prese-plataforma-recenseamento-automatico-registo-civil",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-30-uniph-crvs-technical-working-group",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Security Information System (NSIS)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "No authentication service is described."
+}

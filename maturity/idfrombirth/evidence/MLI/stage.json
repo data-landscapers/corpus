@@ -1,0 +1,17 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "frombirth",
+   "stage": "1",
+   "number": "none",
+   "national": "",
+   "complete": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-001",
+   "gaps": "No source held since October 2023 says: is a number at birth provided for or piloted.",
+   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NNI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Djibouti",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Direction Generale de la Population et de la Famille, ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

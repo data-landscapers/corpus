@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Liberia Telecommunications Authority and the National Identification Registry signed an MoU to link SIM cards to NIR-issued IDs through biometric registration, with a 10 July 2025 deadline after which unregistered SIMs would be deactivated and completion expected by end 2026.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "SIM registration linked to national ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration linked to national ID",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Liberia Telecommunications Authority",
+   "tiers": ""
+  },
+  {
+   "system": "NIR national ID database",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

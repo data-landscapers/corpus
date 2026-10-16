@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Linfodrome reports ONECI's director general presenting Cote d'Ivoire's identification system, run by the single office ONECI, as a strategic state infrastructure.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "ONECI identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONECI identification system",
+   "country_label": "Cote d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

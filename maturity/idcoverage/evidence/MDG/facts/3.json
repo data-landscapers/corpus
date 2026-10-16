@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The January 2026 pilot enrolled nearly 130,000 people, about 0.4% of Madagascar's 32.7 million (share computed from the held population), per Biometric Update.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "PRODIGY",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PRODIGY national ID",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "Laxton enrolment kits; IN Groupe database management",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

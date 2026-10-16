@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The NCRA has been migrating its enrolled identity records to the MOSIP platform since completing a pilot in early 2024, according to its Deputy Director.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NCRA identity system on MOSIP",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sierra Leone has an existing identity system that stakeholders already use for service delivery and which MOSIP is replacing, according to the NCRA Deputy Director.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NCRA identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NCRA identity system on MOSIP",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

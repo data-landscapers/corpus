@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The NCRA's biometric system has registered about 93 per cent of the population, each with a NIN (about 8.2 million of 8.8 million), per the Director-General.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NIN, National Biometric Identity Management System",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "About 93 per cent of the population is registered with a NIN, per the Director-General.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NIN, National Biometric Identity Management System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identity Management System / NIN",
+   "country_label": "Sierra Leone",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": "",
+   "class": "idsystem"
+  }
+ ],
+ "note": ""
+}

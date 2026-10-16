@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-maupass",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central Population Database",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names a National ID and Central Population Database but does not state they issue unique credentials, check biometrics or are certified."
+}

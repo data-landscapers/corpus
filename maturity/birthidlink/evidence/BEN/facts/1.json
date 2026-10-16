@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-04-ben-beninwebtv-anip-50109-actes-de-naissance-septembre",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "ANIP, the national identification agency, issued 50,109 free birth certificates to children under 14 in September 2026 and enrolled 814 children in Agonve, one body doing both civil and identity work.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "ANIP",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIP",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "ANIP BJ app and portal",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

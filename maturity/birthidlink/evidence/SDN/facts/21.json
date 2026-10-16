@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-02-cbos-national-number-bank-account-circular",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National number (General Administration of Civil Registry)",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "General Administration of Civil Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "Only banks checking the number against the civil registry system; no exchange between civil register and ID."
+}

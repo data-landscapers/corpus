@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-sidwaya-digitalisation-identite-identifiant-unique-electronique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Council of Ministers adopted on 30 July 2026 a decree organising mass enrolment for the unique electronic identifier of each person under the WURI project, with enrolment launching soon, per Minister Aminata Zerbo/Sabané.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Identifiant unique électronique (WURI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant unique électronique (WURI)",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-07-28-guinee-mgg-denonce-racket-etat-civil-biometrique",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Enrolment centres of the biometric civil status reform are operating in Guinea, with MGG as the state's technical partner, and users are being enrolled for biometric documents, which the authorities announced as free, per MGG.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Biometric civil status (etat civil biometrique)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Etat civil biometrique",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

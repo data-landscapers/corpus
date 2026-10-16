@@ -1,0 +1,79 @@
+{
+ "slug": "2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says the e-ID subcomponent was dropped in 2022; it does not say whether any national ID system exists."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The IEG review says the Public Administration Modernization Project, approved April 2018, included creating a Public Key Infrastructure (PKI); the e-ID subcomponent was removed at the 2022 restructuring, and the PKI's fate is not stated.",
+       "as_of": "2018-04-25",
+       "date_precision": "day",
+       "system": "Public Key Infrastructure",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

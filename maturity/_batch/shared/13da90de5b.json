@@ -1,0 +1,79 @@
+{
+ "slug": "2026-08-14-angola-digital-identity-platform-usd28m-pti",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Presidential Despacho 300/26 authorised US$28 million and opened a public tender for a National Digital Identity and Electronic Signature Platform designed for up to 30 million digital identities.",
+       "as_of": "2026-08-13",
+       "date_precision": "day",
+       "system": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Instituto de Modernização Administrativa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

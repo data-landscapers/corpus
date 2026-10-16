@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identification Number (Tirsi Aqoonsi)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "certificate, digital mobile ID, physical card"
+  },
+  {
+   "system": "HUBIYE Verification Platform",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Number at birth not mentioned."
+}

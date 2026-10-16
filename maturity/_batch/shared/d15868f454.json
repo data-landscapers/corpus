@@ -1,0 +1,88 @@
+{
+ "slug": "2026-08-19-myjoyonline-nia-labone-prestige-centre-optional-district-offices",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Ghana's NIA says its 276 district offices remain fully operational providing Ghana Card registration and related services, with first-time registration free under 25 and GH¢30 from 25.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-use-of-ghana-card-for-all-financial-transactions",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Bank of Ghana directs that from 1 July 2022 the Ghana Card is the only identification card for transactions at all Bank of Ghana licensed and regulated financial institutions, under Regulation 7 of L.I. 2111.",
+   "as_of": "2022-07-01",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

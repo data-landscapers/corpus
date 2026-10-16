@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-new-id-card-10-years-validity-standard",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "Margins ID Systems Ltd will design, build, co-operate and fund the new ID system for eight years under a build, co-operate and transfer model, sharing revenue 70/30 with the Government, with all assets transferred to the Government at the end.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Gambia national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

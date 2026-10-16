@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-16-national-identity-card-regulations-2024",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The 2024 regulations provide for the MauSign Certification Authority system to issue digital certificates stored on the identity card, and one-time certificates for MauPass users to sign electronically on the mobile ID.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "MauSign / MauPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

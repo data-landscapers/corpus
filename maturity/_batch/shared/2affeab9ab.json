@@ -1,0 +1,152 @@
+{
+ "slug": "2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Biometric Update says Mauritius launched a mobile digital ID system in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Mobile digital ID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "Biometric Update says Mauritius launched a mobile digital ID system in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Mobile digital ID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile digital ID",
+       "country_label": "Mauritius",
+       "class": "authentication",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

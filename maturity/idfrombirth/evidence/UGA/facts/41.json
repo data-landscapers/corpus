@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-nira-crvs-national-id-integration-egmrg",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "NIRA says the NIN is issued automatically once a birth notification is made and certification is immediate, with no biometrics needed for a child 9 months or under; deploying crvs.nsis.nira.go.ug for birth registration and instant NIN generation is still a next step.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

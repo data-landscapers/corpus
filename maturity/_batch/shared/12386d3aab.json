@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-01-mozambique-crvs-law-policy-summary",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Civil Registration Code as revised by Law 12/2018 established the e-SIRCEV electronic system, said to be integrated with the national ID and health systems (CRVS Law and Policy Compendium).",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "e-SIRCEV",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth registration is mandated but no ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

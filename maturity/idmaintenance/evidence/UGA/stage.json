@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "maintenance",
+   "stage": "5",
+   "operation": "national",
+   "maintenance": "national",
+   "ownership": "owned",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-008",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
+  }
+ ]
+}

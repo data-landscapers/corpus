@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-07-guinea-secure-paper-shortage-birth-certificates",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a secure-paper shortage for digital birth certificates; no ID link or number at birth stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a secure-paper shortage for digital birth certificates; no ID link or number at birth stated."
+    }
+   }
+  }
+ }
+}

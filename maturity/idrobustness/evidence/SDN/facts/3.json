@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-sudan-sudapass-digital-id-banking-ekyc",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sudan launched its SudaPass national digital ID on 21 May 2026, after preparations overseen by the Sudanese Cybersecurity Authority, per Biometric Update.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "SudaPass",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

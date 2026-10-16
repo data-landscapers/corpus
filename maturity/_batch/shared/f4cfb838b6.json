@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-05-unicef-lesotho-sms-birth-registration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers SMS birth registration stations only; says nothing on this question."
+    }
+   }
+  }
+ }
+}

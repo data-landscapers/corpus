@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "RDC-Pass is stated to be an authentication credential, not a national ID card; nothing on this question."
+}

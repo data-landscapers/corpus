@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-dgat-interieur-bilan-premier-semestre-2026-interconnexion-biometrique-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Interior Ministry's first-half 2026 report lists as an achievement the update of the biometric databases and their interconnection with the civil-status system.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "bases de donnees biometriques",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bases de donnees biometriques",
+   "country_label": "Mauritanie",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministere de l'Interieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

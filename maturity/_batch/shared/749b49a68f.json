@@ -1,0 +1,9 @@
+{"slug":"2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data","studies":{
+"authentication":{"countries":{"GMB":{"facts":[],"systems":[],"note":"GID says it answers requests to verify identity documents, but no electronic service is described."}}},
+"birthidlink":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on civil register links."}}},
+"idcoverage":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"GMB":{"facts":[],"systems":[{"system":"National ID card (Semlex contract)","country_label":"The Gambia","class":"idsystem","platform":"","owner":"Gambia Immigration Department","tiers":""}],"note":"GID says Semlex-contract servers remain in The Gambia and the data is accessible, but who operates and maintains the system is not stated."}}},
+"idregisters":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"GMB":{"facts":[],"systems":[{"system":"National ID card (Semlex contract)","country_label":"The Gambia","class":"idsystem","platform":"","owner":"Gambia Immigration Department","tiers":""}],"note":"Document says ID card data exists and is accessible but not that credentials are issued or checked by biometrics."}}}
+}}

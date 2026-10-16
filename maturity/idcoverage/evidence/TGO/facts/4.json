@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-11-togofirst-togo-expands-biometric-identification-plateaux-region",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "More than 6 million Togolese held a NIU at end 2025 per official figures, which is at least 69.8% of the 8.6 million population (divided by the study population figure).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "More than 6 million Togolese held a NIU at end 2025 per official figures, which is at least 69.8% of the 8.6 million population (divided by the study population figure).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

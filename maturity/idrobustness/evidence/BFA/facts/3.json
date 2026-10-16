@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-02-cib-aes-lancement-traore-enrolement",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The article says the CIB-AES was officially launched in Burkina Faso with the head of state's enrolment on 1 December 2025, mass production to start January 2026.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "Carte d'identité biométrique AES (CIB-AES)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte d'identité biométrique AES (CIB-AES)",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Office national d'identification (ONI)",
+   "tiers": "card"
+  }
+ ],
+ "note": ""
+}

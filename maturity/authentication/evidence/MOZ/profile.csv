@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,authentication,service,coverage,underway,2026-09,MOZ-001;MOZ-002;MOZ-003;MOZ-004;MOZ-005,,
+MOZ,authentication,reach,coverage,,,,,nothing held
+MOZ,authentication,remote,coverage,,,,,nothing held

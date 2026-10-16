@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Houwiyeti digital ID and digital-government platform, launched in 2023, handles 70 percent of passport requests, per the ANRPTS director at ID4Africa 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Houwiyeti",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Houwiyeti is used for passport requests and for more than 622,000 document extracts processed in the year.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Houwiyeti",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGPTS",
+   "country_label": "Mauritania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANRPTS",
+   "tiers": ""
+  },
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ANRPTS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

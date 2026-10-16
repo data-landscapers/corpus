@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGPTS",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "No authentication service is stated."
+}

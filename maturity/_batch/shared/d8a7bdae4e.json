@@ -1,0 +1,135 @@
+{
+ "slug": "2025-11-28-car-systeme-national-identite-numerique-snid",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The article says the SNID will unify the country's existing biometric and civil status databases, with implementation set for 2027-2032.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Système national d'identité numérique (SNID)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": "No enrolment count; system not yet built."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": "Number at birth not stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": "ONI newly created; no operation or transfer stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": "No register keyed on the number stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The article says the $13m SNID, built around a unique identification number, has feasibility studies done and an international tender and procurement ahead, with implementation 2027-2032.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Système national d'identité numérique (SNID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système national d'identité numérique (SNID)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office national d'identification (ONI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

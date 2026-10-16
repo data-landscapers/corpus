@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26-dha-treasury-employee-verification-platform",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "employee verification portal",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "population register",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

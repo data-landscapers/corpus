@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28 Why decentralized digital identity looks different in every country",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "Biometric Update says Morocco was the first country to implement MOSIP, the open-source identity platform.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "MOSIP-based national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based national ID",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

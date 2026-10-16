@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-17-mwi-nation-national-ids-lifetime",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Homeland Security Minister said verification will now rely on real-time biometrics against the National Registration Bureau database.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Registration Bureau database",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Nzika Digital ID, launched in Lilongwe, lets citizens present verified credentials through the Nzika Wallet, and the NRB Principal Secretary said over 22,000 Malawians have already obtained it.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Nzika Wallet",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The Nzika Wallet lets citizens present verified credentials digitally and can be used to access services before receiving a physical card, per the Homeland Security Minister.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Nzika Wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nzika Wallet",
+   "country_label": "Malawi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "National ID system",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

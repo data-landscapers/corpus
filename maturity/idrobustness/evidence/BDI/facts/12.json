@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "We Are Tech Africa reports Burundian authorities said they have nearly completed the infrastructure for the biometric national ID and await a decree to govern its use.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "biometric national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national identity card",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

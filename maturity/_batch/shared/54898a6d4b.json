@@ -1,0 +1,4 @@
+{"slug": "2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation", "studies": {
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "SIFEC is a civil-status system; no link to an ID system is stated."}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "No identity number at birth is stated."}}}
+}}

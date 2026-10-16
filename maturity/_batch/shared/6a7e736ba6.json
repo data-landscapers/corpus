@@ -1,0 +1,9 @@
+{"slug":"2026-05-21-zambia-ghai-crvs-budget-case-study","studies":{
+"authentication":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No exchange of records between the civil register and the ID system is stated."}}},
+"idcoverage":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No count or share of people holding a national ID is given."}}},
+"idfrombirth":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Only birth registration rates are given (22% of under-fives); no ID number at birth is stated."}}},
+"idmaintenance":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Who operates or maintains the ID system is not stated."}}},
+"idregisters":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"ZMB":{"facts":[],"systems":[{"system":"national ID cards","country_label":"Zambia","class":"idsystem","platform":"","owner":"Department of National Registration, Passport and Citizenship","tiers":""}],"note":"The document says Zambia is preparing to digitize its ID card system but does not say it is procured, piloted or issuing unique numbers."}}}
+}}

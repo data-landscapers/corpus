@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The portal offers civil certificates and ID card renewal online; no exchange of records between the registers is stated."
+}

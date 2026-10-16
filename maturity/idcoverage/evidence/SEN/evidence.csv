@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,coverage,share,third,"IRIS says more than 7 million Senegalese obtained new biometric IDs in the couple of years after late 2016, about 37% of the 18.9 million population (computed from the population figure given).",2018,year,national biometric ID,idsystem,2026-02-12-darkreading-senegal-breach-security-maturity,https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database

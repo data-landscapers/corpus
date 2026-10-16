@@ -1,0 +1,9 @@
+{"slug": "2026-06-29-lesotho-home-affairs-digital-id-modernization", "studies": {
+"authentication": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No authentication, e-signature or PKI service is mentioned."}}},
+"birthidlink": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The framework covers civil registration and identity services, but no link or single body holding both registers is stated."}}},
+"idcoverage": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No number given at birth is stated."}}},
+"idmaintenance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"LSO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Ministry of Home Affairs engaged AAM Consultancy to assess existing systems and develop a systems architecture and modernization framework for an integrated digital identity system, presented at a workshop from 29 June to 3 July 2026, per the Government of Lesotho.", "as_of": "2026-06-29", "date_precision": "day", "system": "National identity management system", "class": "idsystem"}], "systems": [{"system": "National identity management system (National Identity and Civil Registry)", "country_label": "Lesotho", "class": "idsystem", "platform": "", "owner": "Ministry of Home Affairs", "tiers": ""}], "note": ""}}}
+}}

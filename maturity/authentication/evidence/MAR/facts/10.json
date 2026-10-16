@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-23-wearetech-morocco-digitizes-national-id-renewal",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The DGSN announced the upcoming launch of a \"Mon e-ID\" mobile app to hold a digital copy of the national ID card, including on phones without NFC.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIE electronic national identity card",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "Mon e-ID",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

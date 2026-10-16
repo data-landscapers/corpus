@@ -1,0 +1,9 @@
+{"slug":"2026-08-04-immigration-directorate-launches-school-based-national-id-registration","studies":{
+"authentication":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No civil register link is described."}}},
+"idcoverage":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No count or share enrolled is given."}}},
+"idfrombirth":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"SSD":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The Directorate of Civil Registry, Nationality, Passports, and Immigration runs a school-based National ID registration campaign for Primary Eight and Senior Four candidates, launched 4 August 2026 at Juba Day Secondary School.","as_of":"2026-08-04","date_precision":"day","system":"National ID","class":"idsystem"}],"systems":[{"system":"National ID","country_label":"South Sudan","class":"idsystem","platform":"","owner":"Directorate of Civil Registry, Nationality, Passports and Immigration","tiers":""}],"note":""}}},
+"idregisters":{"countries":{"SSD":{"facts":[],"systems":[],"note":"No register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"SSD":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Directorate is registering examination candidates for National IDs in schools, launched 4 August 2026, with expansion to more schools planned.","as_of":"2026-08-04","date_precision":"day","system":"National ID","class":"idsystem"}],"systems":[{"system":"National ID","country_label":"South Sudan","class":"idsystem","platform":"","owner":"Directorate of Civil Registry, Nationality, Passports and Immigration","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-27-new-id-card-10-years-validity-standard",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry for the Interior says the first phase of its contract with Margins ID Systems covers mass enrolment of citizens and residents on a new biometric ID system, replacing all valid cards free with ten-year cards.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Gambia national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gambia national ID system",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Margins ID Systems Ltd",
+   "owner": "Ministry for the Interior",
+   "tiers": "national ID card; resident permits"
+  }
+ ],
+ "note": ""
+}

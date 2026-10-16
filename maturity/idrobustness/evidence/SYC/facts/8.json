@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-ics-national-identity-card",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Seychelles Department of Immigration and Civil Status says holding a valid National Identity Card, with a National Identity Number, is mandatory for all residents and serves as proof of identity.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card (NIN)",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": "physical card"
+  },
+  {
+   "system": "SeyID virtual ID",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "SeyID app",
+   "owner": "",
+   "tiers": "virtual ID"
+  }
+ ],
+ "note": ""
+}

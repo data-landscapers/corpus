@@ -1,0 +1,50 @@
+{
+ "slug": "2025-02-01-mwi-cuci-impact-evaluation-report",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The evaluation says Airtel Malawi and TNM Malawi ran KYC exercises for the CUCI cash transfer, comparing beneficiary details with mobile money records and the names on National ID cards, over about three months, outside their contracts.",
+   "as_of": "2021-08",
+   "date_precision": "month",
+   "system": "Mobile money KYC for CUCI cash transfer"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money KYC for CUCI cash transfer",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Malawi; TNM Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "COVID-19 Urban Cash Intervention (CUCI)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "Unified Beneficiary Registry",
+   "owner": "Ministry of Gender, Community Development and Social Welfare",
+   "tiers": ""
+  },
+  {
+   "system": "National Registry (National IDs)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Unified Beneficiary Registry",
+   "country_label": "Malawi",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

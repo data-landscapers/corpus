@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Lesotho's action timeline lists implementing an Integrated National Digital Identity Ecosystem for 2026-2030 with MICSTI and UNICEF.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Integrated National Digital Identity Ecosystem",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

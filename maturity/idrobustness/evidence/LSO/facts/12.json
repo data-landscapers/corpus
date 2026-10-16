@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "MICSTI and the National University of Lesotho reviewed progress on MOSIP, which is to provide a secure biometric digital ID for public services.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

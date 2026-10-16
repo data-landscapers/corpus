@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-cnie-carte-nationale-identite-electronique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Interior Ministry says it launched on 3 April 2024 the issue of a 14-character Numero d'Identification Personnel to each citizen after biometric enrolment, under law 027/2020, ahead of the electronic ID card.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "NIP / CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

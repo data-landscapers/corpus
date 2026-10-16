@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-01-eritrea-2025-vital-statistics-metadata-questionnaire",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only there is no functional CRVS system; nothing on an ID system, a link or a number at birth."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only there is no functional CRVS system; nothing on an ID system, a link or a number at birth."
+    }
+   }
+  }
+ }
+}

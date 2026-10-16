@@ -1,0 +1,251 @@
+{
+ "slug": "2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists the HUBIYE Verification Platform for real-time authentication among NIRA's new components.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "HUBIYE Verification Platform",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "The article says credentials may be provided as a digital mobile ID, with the e-Aqoonsi Mobile App among NIRA's new components.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "e-Aqoonsi Mobile App",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Civil register link not mentioned."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The article says fewer than 16% of the population hold some form of government-issued ID, citing the 2022 Somali Integrated Household Budget Survey.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "government-issued ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Number at birth not mentioned."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The article says NIRA, the national authority, operates three registration centres and issues the National Identification Number.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "No register keyed on the NIN mentioned."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The article says NIRA issues every citizen and legal resident a unique 11-digit National Identification Number after validation and deduplication.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The article says fingerprints and a photograph are captured and all information is deduplicated before the NIN is issued, using fingerprint and facial recognition.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (Tirsi Aqoonsi)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "certificate, digital mobile ID, physical card"
+      },
+      {
+       "system": "HUBIYE Verification Platform",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

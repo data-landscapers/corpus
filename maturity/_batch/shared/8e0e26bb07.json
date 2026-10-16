@@ -1,0 +1,23 @@
+{
+ "slug": "2025-07-01-annuaire-statistique-etat-civil-2024-fratmat",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil register statistics only; no link to the ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports on-time birth registration rates (55.4 percent in 2024) but no ID number given at birth."
+    }
+   }
+  }
+ }
+}

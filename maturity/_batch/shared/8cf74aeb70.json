@@ -1,0 +1,128 @@
+{
+ "slug": "2026-10-05-civ-aip-parae-confiance-services-publics-numeriques",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "A feasibility study for a national digital authentication platform and digital identity access point was launched on 5 October 2026 under the AfDB-cofinanced PARAE, with results due by January 2027, per the government and PARAE coordinator.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "national digital authentication platform",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "ONECI, under the Interior Ministry, manages the RNPP and attributes the national identification number, per the PARAE coordinator.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ONECI manages the RNPP and assigns the national identification number, per the PARAE coordinator.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

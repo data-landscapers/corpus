@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The World Bank says the eCRVS has become the foundational interoperability system across ministries, using the unique national identification number as the common key.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "eCRVS",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

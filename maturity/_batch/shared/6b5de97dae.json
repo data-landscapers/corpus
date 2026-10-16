@@ -1,0 +1,91 @@
+{
+ "slug": "2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Ministry of Home Affairs says it is implementing end-to-end automation of birth and death notifications through the INRIS API Manager, with real-time updates to population records.",
+       "as_of": "2025-12-28",
+       "date_precision": "day",
+       "system": "INRIS",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INRIS",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of National Registration, Passport and Citizenship",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "INRIS",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of National Registration, Passport and Citizenship",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "About 1.3 million citizens have been enrolled onto the National Registration Information System (INRIS), per the Home Affairs spokesperson.",
+       "as_of": "2025-12-28",
+       "date_precision": "day",
+       "system": "INRIS",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The government is procuring smart card printers and blank cards to issue secure biometric National Registration Cards after the 2026 General Elections.",
+       "as_of": "2025-12-28",
+       "date_precision": "day",
+       "system": "INRIS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INRIS",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of National Registration, Passport and Citizenship",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

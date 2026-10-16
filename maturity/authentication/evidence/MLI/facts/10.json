@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-dpi-map-mali-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "none",
+   "fact": "DPI Map records that NINA has no digital authentication function and no authentication through a government portal.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "NINA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINA",
+   "country_label": "Mali",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

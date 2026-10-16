@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Techpoint Africa reports the National Identification Registry (NIR) issues unique ID cards to Liberians and has registration centres in every district and some townships.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "NIR ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIR ID",
+   "country_label": "LBR",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

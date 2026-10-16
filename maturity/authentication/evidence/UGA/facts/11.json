@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-01-businesstimesug-uganda-nin-replace-tin",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Cabinet approved on 31 August 2026 using the NIRA-issued NIN as the individual's tax identification number in place of the URA TIN, with no start date or transition timetable published.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "URA tax identification (TIN to NIN)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The article says that in May 2026 URA told taxpayers to link their NIN to their portal profile or lose filing access, and had begun blocking those who had not.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "URA tax identification (TIN to NIN)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA tax identification (TIN to NIN)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "URA taxpayer portal",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

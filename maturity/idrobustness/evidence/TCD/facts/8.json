@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-tchadinfos-anats-nni-bacheliers-rentree-universitaire",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANATS circular of 26 September 2025 says school leavers are enrolling to obtain their NNI, which the agency's centres issue.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numéro National d'Identification (NNI)",
+   "country_label": "TCD",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ANATS, the National Agency for Secure Documents, already operates SIGPTS, the Integrated Population and Secure Document Management System, per We are Tech.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGPTS",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

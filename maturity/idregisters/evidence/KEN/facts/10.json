@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-govt-enhances-registration-new-technology",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IPRS",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Only private and mixed organisations verifying identity; no public register keyed on the ID number stated."
+}

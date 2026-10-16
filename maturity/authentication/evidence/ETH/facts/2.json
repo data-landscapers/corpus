@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update, citing the National ID Program, reports 150 agencies integrated with Fayda and over 194 million eKYC verifications to date as of 24 August 2026.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "VeriFayda eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda eKYC",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Ethiopia National ID Program (now Faydaverse)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

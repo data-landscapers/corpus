@@ -1,0 +1,70 @@
+{
+ "slug": "2024-01-01-kenya-country-presentation-id4africa-2024",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Kenyan State Department for Immigration and Citizen Services says the electronic ID card introduced on 1 November 2023 can be validated through KYC to support SIM card registration and opening bank accounts.",
+   "as_of": "2023-11-01",
+   "date_precision": "day",
+   "system": "Maisha Card"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC.",
+   "as_of": "2023-11-01",
+   "date_precision": "day",
+   "system": "Maisha Card"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The presentation says the Maisha Integrated Database has an eKYC layer through which relying agencies request validation, answered only with Boolean yes/no values, and that data goes only to whitelisted relying agencies.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Maisha Integrated Database eKYC layer"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Integrated Database eKYC layer",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "Maisha Integrated Database",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  },
+  {
+   "system": "Maisha Card",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "electronic National Identity Card",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  },
+  {
+   "system": "Maisha Namba (UPI)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  },
+  {
+   "system": "Maisha Digital ID",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

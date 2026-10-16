@@ -1,0 +1,23 @@
+{
+ "slug": "2025-03-16-cniapge-app-rc-digitalizacion-registro-civil-egob",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil registry digitisation and hospital birth pre-registration are named; no link to an ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Pre-registro de Nacimientos is for registering newborns; no ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

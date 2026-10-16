@@ -1,0 +1,84 @@
+{
+ "slug": "2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The former communications technology minister who led its design writes that E-Houwiya is open to the banking sector for remote onboarding and KYC compliance under Central Bank of Tunisia rules published 28 February 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "E-Houwiya"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The author describes E-Houwiya as used in banking (onboarding, wire transfers) and in government portals, including E-CNAM, E-CNSS and Madrassati.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "E-Houwiya"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Houwiya",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile ID with X.509 certificate",
+   "owner": "ICT ministry with National Digital Certification Agency and National Computer Center",
+   "tiers": ""
+  },
+  {
+   "system": "E-Bawaba",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-CNAM",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-People",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-CNSS",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Madrassati",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "government portal",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Bank remote onboarding (KYC)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "banks, under Central Bank of Tunisia rules",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "SZI National Coordinator Percy Chinyama says the system is being implemented by Zambians in a home-grown approach, with an international system integrator being sought to provide additional expertise, and open standards so Zambia is not locked in.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "MOSIP-based digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based digital ID",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

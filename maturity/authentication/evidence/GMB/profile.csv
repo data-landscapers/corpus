@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,authentication,service,coverage,inservice,2025,GMB-001;GMB-002;GMB-003,GMB-006=underway;GMB-007=underway;GMB-005=underway;GMB-004=underway,
+GMB,authentication,reach,coverage,,,,,nothing held
+GMB,authentication,remote,coverage,,,,,nothing held

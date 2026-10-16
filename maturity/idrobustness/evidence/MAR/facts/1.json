@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports that Morocco's national digital identity is in service with contactless national ID cards supplied by Idemia under contract to ADD and DGSN.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "iDAKTO says the system uses server-side 1:N biometric matching for proofing and native device biometrics for 1:1 verification.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "Mon e-ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

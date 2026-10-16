@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIMC says 142 million people had registered for NINs as of September 2026, about 60% of the 237.5 million population (share computed from the population held).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

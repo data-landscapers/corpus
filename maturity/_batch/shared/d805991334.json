@@ -1,0 +1,153 @@
+{
+ "slug": "2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "Ethio Telecom says it registered nearly 32 million citizens for Fayda, 69 percent of total registrations nationwide, implying about 46 million enrolled, about 34 percent of 135.5 million (derived).",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Ethio Telecom says it generated 27.1 million Foundational Identification Numbers, the unique identifiers issued under Fayda, and printed 9.35 million cards.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

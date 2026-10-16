@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "The minister states RDC-Pass is not a national identity card, so it is not the national ID system."
+}

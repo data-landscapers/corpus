@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-18-ics-transition-virtual-id-permit-holders",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ICS says it issues the National Identity Number, and permit holders from 17 September 2024 receive a SEYID virtual ID, which has existed since 2022.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "SEYID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEYID",
+   "country_label": "Seychelles",
+   "class": "authentication",
+   "platform": "SEYID website and app",
+   "owner": "Department of Immigration & Civil Status",
+   "tiers": "virtual ID"
+  }
+ ],
+ "note": ""
+}

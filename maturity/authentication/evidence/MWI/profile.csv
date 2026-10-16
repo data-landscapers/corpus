@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,authentication,service,coverage,inservice,2026-09-16,MWI-001;MWI-005;MWI-011;MWI-013;MWI-018;MWI-020;MWI-022;MWI-024;MWI-025;MWI-027;MWI-029;MWI-031;MWI-033,MWI-009=underway;MWI-035=underway;MWI-017=underway;MWI-002=underway;MWI-003=underway;MWI-010=underway;MWI-006=underway;MWI-007=underway;MWI-019=underway;MWI-015=underway;MWI-016=underway,
+MWI,authentication,reach,coverage,several,2026-07-31,MWI-004;MWI-008;MWI-012;MWI-014;MWI-021;MWI-023,,
+MWI,authentication,remote,coverage,wallet,2026-09-16,MWI-026;MWI-028;MWI-030;MWI-032;MWI-034,,

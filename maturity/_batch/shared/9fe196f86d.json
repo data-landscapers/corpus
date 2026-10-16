@@ -1,0 +1,68 @@
+{
+ "slug": "2025-10-10-nigeria-zimbabwe-farmer-digital-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers sectoral farmer ID registries only, not the national ID."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-14-somalia-civil-registration-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Hiiraan Online reports that the National Identity Management System was inaugurated in September 2023 and that biometric ID cards have been issued, the first in more than three decades, per the Prime Minister.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "NIMS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

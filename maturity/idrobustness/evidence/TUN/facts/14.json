@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23 Tunisia to Get Biometric IDs in H1 of 2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ID Tech reports a ministerial working session set a target to start the biometric ID card rollout in the first half of 2025, made possible by Organic Laws 22 and 23 of 2024.",
+   "as_of": "2024-04-22",
+   "date_precision": "day",
+   "system": "Biometric national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national identity card",
+   "country_label": "Tunisia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

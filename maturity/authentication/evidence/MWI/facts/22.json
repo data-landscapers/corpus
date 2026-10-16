@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-16-mwi-undp-nzika-digital-id-wallet-national-id-expiry-removed",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "UNDP says Malawi launched the Nzika Digital ID Wallet on 2026-09-16 and became the fifth African country to operationalise an ID wallet.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Nzika Digital ID Wallet",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "UNDP says the wallet gives citizens a platform to access and manage official credentials including National IDs, birth, marriage and death certificates.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Nzika Digital ID Wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Nzika Digital ID Wallet",
+   "country_label": "Malawi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

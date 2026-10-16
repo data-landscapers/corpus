@@ -1,0 +1,13 @@
+# Ethiopia
+
+## Authentication
+
+**Authentication service.** [Biometric Update, citing Faydaverse, reports 150 integrated partners and over 208 million eKYC verifications on Fayda as of 9 October 2026](<https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration>). [Addis Fortune reports banks retrieve KYC information and obtain biometric authentication from Fayda, and FaydaVerse has sent them a contract charging 10-20 Br per retrieval and 20-40 Br per authentication](<https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial>). [Commercial Bank of Ethiopia customers can link their accounts to Fayda online at cbefayda.cbe.com.et with a Fayda number, and the restriction is lifted once identity is verified and linked, per Birr Metrics reporting the bank's notice](<https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/>).
+
+**Used across services.** [One hundred and fifty enterprises have integrated Fayda to carry out biometric KYC checks, per the article](<https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market>).
+
+***Noted, not assessed***. [VeriFayda eKYC](<https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration>); [Fayda eKYC](<https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy>); [Fayda (bank account opening)](<https://www.biometricupdate.com/202608/digital-id-assessments-highlight-financial-inclusion-gains-across-africa>); [Tax administration integration with Faydaverse ID](<https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/>); [Faydaverse digital wallet and credential management](<https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/>); [Fayda single sign-on](<https://eih.et/national-id-program-reestablished-as-state-owned-enterprise-faydaverse-to-anchor-nationwide-digital-public-infrastructure-and-joins-ethiopian-investment-holdings-portfolio/>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

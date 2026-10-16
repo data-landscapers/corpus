@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Algeria's Ministry of Interior says that in 2023 the NIN was adopted by all government authorities and partner sectors including justice, banking, social security, taxation and education.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "NIN",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

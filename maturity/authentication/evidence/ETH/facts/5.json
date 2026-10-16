@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Capital reports officials say the national ID program's wallet is being integrated with tax administration, and that financial-compliance functions including Know Your Customer requirements are planned to be added.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "Tax administration integration with Faydaverse ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tax administration integration with Faydaverse ID",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Tax administration",
+   "tiers": ""
+  },
+  {
+   "system": "Faydaverse digital wallet and credential management",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda",
+   "owner": "Faydaverse",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

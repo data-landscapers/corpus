@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-11 DZAP World Bank PAD",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The World Bank appraisal says the planned homegrown foundational ID will let the Government manage its infrastructure independently and reduce reliance on external vendors.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "planned foundational ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

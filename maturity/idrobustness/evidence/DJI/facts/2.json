@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DGPF director says the biometric national ID card, with a chip holding the holder's fingerprints, has been issued across the national territory since 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Carte nationale d'identite biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identite biometrique",
+   "country_label": "Djibouti",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGPF",
+   "tiers": ""
+  },
+  {
+   "system": "ID Mobile",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "mobile phone",
+   "owner": "DGPF",
+   "tiers": "in preparation"
+  }
+ ],
+ "note": ""
+}

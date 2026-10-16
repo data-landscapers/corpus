@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-30-sierra-leone-ncra-biometric-id-verification-platform-launch",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "NCRA says the President launched an Identity Verification Platform on 30 January 2023 to authenticate biometric identity data for banks and microfinance institutions for electronic KYC, and for ministries and agencies verifying identity for vehicle, land and property registration, health care and foreign missions, and that NCRA negotiated an electronic KYC facility with the Central Bank and commercial banks.",
+   "as_of": "2023-01-30",
+   "date_precision": "day",
+   "system": "Identity Verification Platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identity Verification Platform",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "Constrat Systems (SL) Limited",
+   "owner": "National Civil Registration Authority (NCRA)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

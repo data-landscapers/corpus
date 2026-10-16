@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Biometric Update reports Benin's ePass app lets citizens abroad register with their national digital ID and consular number and submit fingerprint and face biometrics for subsequent authentication.",
+   "as_of": "2025-10-24",
+   "date_precision": "day",
+   "system": "ePass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ePass",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

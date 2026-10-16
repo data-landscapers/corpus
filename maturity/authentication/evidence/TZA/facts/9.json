@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-02-tanzania-itu-innovation-center-launch",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update reports, citing a Daily News article, that Tanzania requires SIM registration with biometric identity verification using national ID cards to prevent fraud; no date is given for the requirement, so the published date is used.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "SIM registration with biometric verification against national ID"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration with biometric verification against national ID",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Jamii Namba",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-21-sudan-sudapass-terms-and-conditions",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The terms govern use of the Sudanese Digital Identity, which gives each registered user a unique digital account after registration and verification.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "assurance",
+   "value": "certified",
+   "fact": "Identities are classified into three trust levels by strength of verification: basic, intermediate, and high with in-person biometric verification.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "smartphone application and national platform",
+   "owner": "National Electronic Authentication Authority",
+   "tiers": "three trust levels: basic, intermediate, high"
+  }
+ ],
+ "note": ""
+}

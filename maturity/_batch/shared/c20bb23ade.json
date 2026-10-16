@@ -1,0 +1,88 @@
+{
+ "slug": "2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Radio Ndeke Luka reports that the firm Al Madina produces the national identity card, enrolling applicants (photo, fingerprint, signature) and printing cards in Bangui, with 2,500 applicants targeted at Bossangoa.",
+       "as_of": "2023-10-07",
+       "date_precision": "day",
+       "system": "Carte nationale d'identite (CNI)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite (CNI)",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": "produced by Al Madina; enrolment at police station, cards printed in Bangui"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

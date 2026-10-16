@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-18-tun-tunisietribune-ministere-agriculture-integre-identite-numerique-e-houwiya",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "A circular of the Ministry of Agriculture, Water Resources and Fisheries requires the bodies under its tutelage to integrate E-Houwiya, the standard for authenticating users, into their platforms and online services by 15 November 2026, building on a pilot that put authorisations for the public hydraulic domain through E-Houwiya.",
+   "as_of": "2026-09-18",
+   "date_precision": "day",
+   "system": "E-Houwiya"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Houwiya",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ministry of Agriculture online platforms and services",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Agriculture, Water Resources and Fisheries",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

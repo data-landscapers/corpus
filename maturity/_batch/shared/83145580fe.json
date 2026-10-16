@@ -1,0 +1,101 @@
+{
+ "slug": "2026-10-09-eth-biometricupdate-fayda-developer-sandbox",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "Fayda has recorded more than 52 million registrations as of 9 October 2026 (Biometric Update); against a population of 135.5 million that is about 38 percent (share computed by us).",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "Biometric Update says Ethiopia's National ID Program, re-established in August as the public entity Faydaverse Digital Solutions, runs the Fayda Partner Portal sandbox and the VeriFayda authentication platform.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Partners and eKYC checks are stated, but no public register keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Fayda, launched at scale in 2023, has recorded more than 52 million registrations and over 208 million eKYC verifications as of 9 October 2026.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "eSignet, VeriFayda",
+       "owner": "Faydaverse Digital Solutions (ex National ID Program)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

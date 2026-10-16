@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-08-nam-biometricupdate-mps-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The planned digital ID rollout, set for September 2026, was delayed because the legal framework needed for implementation was not yet finalized.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Namibia digital ID (e-ID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Namibia digital ID (e-ID)",
+   "country_label": "NAM",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs (National Registration Bureau)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

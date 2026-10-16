@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Gambia launched its National Identity Management System on 30 June 2026 with instant issuance of the GAM ID, a pilot for selected institutions from 6 to 29 July and nationwide enrolment from 4 August, per the Ministry of Information.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National Identity Management System (NIMS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS) / GAM ID",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "Margins ID Group (MIDSA)",
+   "owner": "Government of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

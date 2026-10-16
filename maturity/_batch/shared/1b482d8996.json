@@ -1,0 +1,14 @@
+{"slug":"2026-04-23-togo-6-millions-niu-fin-2025","studies":{
+"authentication":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The QR code is mentioned only as a card feature; no authentication service is stated."}}},
+"birthidlink":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No civil register link is stated."}}},
+"idcoverage":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"coverage","aspect":"share","value":"third","fact":"More than 6 million Togolese citizens held a unique identification number (NIU) at end December 2025, per the Permanent Secretariat for reform monitoring; about 70% of the 8.6 million population (computed from the population given).","as_of":"2025-12","date_precision":"month","system":"NIU (e-ID Togo)","class":"idsystem"},
+{"sub_indicator":"coverage","aspect":"share","value":"twothirds","fact":"More than 6 million Togolese citizens held a unique identification number (NIU) at end December 2025, per the Permanent Secretariat for reform monitoring; about 70% of the 8.6 million population (computed from the population given).","as_of":"2025-12","date_precision":"month","system":"NIU (e-ID Togo)","class":"idsystem"}],
+"systems":[{"system":"NIU / e-ID Togo","country_label":"Togo","class":"idsystem","platform":"","owner":"ANID","tiers":"biometric card with QR code"}],"note":""}}},
+"idfrombirth":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No number at birth is stated."}}},
+"idmaintenance":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Who operates or maintains the system is not stated; only enrolment campaigns by ANID."}}},
+"idregisters":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Only a future aim of access to services; no register keyed on the NIU is stated."}}},
+"idrobustness":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"By end 2025 the e-ID Togo project had issued over 6 million citizens a unique identification number (NIU) with a biometric card with secure QR code, enrolled by ANID campaigns.","as_of":"2025-12","date_precision":"month","system":"NIU (e-ID Togo)","class":"idsystem"}],
+"systems":[{"system":"NIU / e-ID Togo","country_label":"Togo","class":"idsystem","platform":"","owner":"ANID","tiers":"biometric card with QR code"}],"note":""}}}
+}}

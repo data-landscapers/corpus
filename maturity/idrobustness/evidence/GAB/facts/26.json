@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-gabon-digital-identity-governance-milestone",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "GabonReview says the SNID is being set up under a law on the NIP number integrated in the electronic national ID card and the IBOGA biometric base of fingerprints and facial recognition.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "SNID / IBOGA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNID (Système national d'identité digitale)",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "IBOGA",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

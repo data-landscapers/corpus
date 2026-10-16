@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "SMART Zambia developers were trained on integrating MOSIP with the SmartCarePro electronic health record system, aimed at identity verification using National Registration Card data, and Zambia is preparing to launch an open-source eKYC system on MOSIP, per ID Tech.",
+   "as_of": "2025-01-17",
+   "date_precision": "day",
+   "system": "MOSIP-SmartCarePro integration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartCarePro Electronic Health Record System",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "MOSIP integration",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  },
+  {
+   "system": "MOSIP-based eKYC system",
+   "country_label": "Zambia",
+   "class": "",
+   "platform": "MOSIP",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Algeria's Ministry of Interior says the NIN was set up in 2010 and is associated with each individual's biometric data, guaranteeing its unique character.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "NIN",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The presentation says the NIN is tied to each person's biometric data to guarantee definitive uniqueness.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

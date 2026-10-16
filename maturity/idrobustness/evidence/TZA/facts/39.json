@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-06-tanzania-legislative-framework-infant-id-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA's Director General says more than 300,000 printed national ID cards await collection in district offices, so the authority is issuing national ID cards.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "National ID (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

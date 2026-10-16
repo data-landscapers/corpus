@@ -1,0 +1,9 @@
+{"slug":"2026-07-25-mediaguinee-oneci-ng-tech-rnpp","studies":{
+"authentication":{"countries":{"GIN":{"facts":[],"systems":[{"system":"Registre national d'identité (RNPP)","country_label":"Guinea","class":"other","platform":"","owner":"ONECI","tiers":""}],"note":"The article body names no authentication service in service or contracted."}}},
+"birthidlink":{"countries":{"GIN":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"ONECI, the national civil-status and identification office, signed an MoU with NG Tech Innovation on 24 July 2026 for the digital transformation of identification and civil-registration services.","as_of":"2026-07-24","date_precision":"day","system":"ONECI","class":"crvslink"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No count or share of people enrolled is stated."}}},
+"idfrombirth":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"GIN":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"transfer","fact":"NG Tech Innovation says teams are already mobilised in Conakry to train national cadres and transfer skills, with the register's infrastructure developed by Guinean engineers.","as_of":"2026-07-24","date_precision":"day","system":"Registre national d'identité (RNPP)","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"GIN":{"facts":[],"systems":[],"note":"The national identity register is named but nothing states it is issuing, being built or piloted."}}}
+}}

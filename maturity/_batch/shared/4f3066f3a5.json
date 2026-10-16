@@ -1,0 +1,41 @@
+{
+ "slug": "2024-03-15 The Executive invites parents to register children in the Civil Registry and adults over 18 to obtain the DIP",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DIP (personal identity document)",
+       "country_label": "Equatorial Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Civil registration of minors and the DIP are mentioned but no link between them is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DIP (personal identity document)",
+       "country_label": "Equatorial Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The DIP is obligatory from age 18; no number at birth is stated."
+    }
+   }
+  }
+ }
+}

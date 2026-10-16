@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-gabon-cnie-enrolment-figures-assembly",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The Interior Minister told the National Assembly that 335,384 people have been enrolled in the CNIE campaign since 2024, about 12.9% of the 2.6 million population (computed from the population given).",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

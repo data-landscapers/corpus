@@ -1,0 +1,9 @@
+{"slug":"2026-04-08-no-financial-transactions-with-ghana-card-yet-says-nia","studies":{
+"authentication":{"countries":{"GHA":{"facts":[],"systems":[{"system":"Ghana Card / National Identification System","country_label":"Ghana","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":"Only states the card is not active for financial transactions; no authentication service stated."}}},
+"birthidlink":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No civil register link mentioned."}}},
+"idcoverage":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No number at birth mentioned."}}},
+"idmaintenance":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No operator or ownership detail given."}}},
+"idregisters":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No public register keyed on the ID number mentioned."}}},
+"idrobustness":{"countries":{"GHA":{"facts":[],"systems":[{"system":"Ghana Card / National Identification System","country_label":"Ghana","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":""}],"note":"Refers to the National Identification System by name but says nothing on issuance, biometrics or assurance."}}}
+}}

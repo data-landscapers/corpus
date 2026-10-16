@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-zambia-from-rails-to-routine-national-financial-switch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital ID cards are said to be due by end 2026; no authentication, e-signature or PKI service is described."
+}

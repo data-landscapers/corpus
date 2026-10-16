@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "NCRA Director General Massaquoi said NCRA has integrated civil registration with identity management, one body holding both functions.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "NCRA",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

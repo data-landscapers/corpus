@@ -1,0 +1,52 @@
+{
+ "slug": "2026-05-20 Transforming lives in Benin a unique identification system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The World Bank feature says holders of the 'C'est Moi' ID card have used it to open bank accounts and a Mobile Money account and to take loans, and ANIP's director general says the ID lets people open an account and own a mobile phone; it gives no figure and does not describe the check itself.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Bank and Mobile Money account opening"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The World Bank feature says the WURI project supports the government's safety net programmes and the operationalisation of the Single Social Registry, without saying that the registry checks people against the ID.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Single Social Registry"
+  }
+ ],
+ "systems": [
+  {
+   "system": "C'est Moi card / NPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "WURI project",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "Single Social Registry",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  },
+  {
+   "system": "Bank and Mobile Money account opening",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

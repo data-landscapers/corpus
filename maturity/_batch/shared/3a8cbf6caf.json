@@ -1,0 +1,9 @@
+{"slug": "2026-01-02-attorney-general-civil-registry-id-fraud-crackdown-libyaherald", "studies": {
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No count or share enrolled is stated."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Grants and public jobs are mentioned, but no register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"LBY": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Libyan Attorney General's Office says transfers of 61 family records between Civil Registry offices led to National Identification Numbers being issued to 225 foreign nationals of Malian origin.", "as_of": "2026-01-02", "date_precision": "day", "system": "National Identification Number", "class": "idsystem"}], "systems": [{"system": "National Identification Number", "country_label": "Libya", "class": "idsystem", "platform": "", "owner": "Civil Registry Authority", "tiers": ""}], "note": ""}}}
+}}

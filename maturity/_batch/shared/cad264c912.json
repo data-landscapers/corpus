@@ -1,0 +1,59 @@
+{
+ "slug": "2025-01-01-eritel-apply-for-services",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom application page; an identity card copy is required but no ID system is described."
+    }
+   }
+  }
+ }
+}

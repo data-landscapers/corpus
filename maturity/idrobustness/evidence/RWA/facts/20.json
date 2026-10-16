@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-nida-southern-province-digital-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIDA says it launched Digital ID enrolment in the Southern Province, with ten fingerprints, face and iris capture, as part of the nationwide rollout of the new e-ID.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital ID",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

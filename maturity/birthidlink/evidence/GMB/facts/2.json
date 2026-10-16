@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The World Bank says the Interior Ministry's national ID system was integrated with the Health Ministry's civil registration through an eCRVS that generates a unique national identification number at registration.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "eCRVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCRVS",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "National ID system",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

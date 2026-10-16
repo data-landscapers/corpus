@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-20 Transforming lives in Benin a unique identification system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank says Benin has issued the Personal Identification Number (NPI) to more than 7.7 million people as of end May 2025, with the C'est Moi card issued through ANIP.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NPI and C'est Moi card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

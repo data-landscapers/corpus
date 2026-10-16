@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-tza-6-308-nida-cards-remain-uncollected-in-zanzibar",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Home Affairs Minister Patrobas Katambi said NIDA has registered 943,284 Tanzanians, that identity cards have been printed (6,308 uncollected in Zanzibar) and that NIDA numbers are accepted for some services.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "NIDA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

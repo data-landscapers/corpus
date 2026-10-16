@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-cote-divoire-digital-identity-connected-not-identified",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The RNPP holds citizens' biometric and civil data and assigns each person a national identification number (NNI), according to the article.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "RNPP / NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Côte d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

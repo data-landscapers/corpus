@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-06-nam-economist-parliament-briefed-e-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Identification Card (e-ID)",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  }
+ ],
+ "note": "The document names an e-ID card pilot and an Identification and Authentication Act but states no authentication service."
+}

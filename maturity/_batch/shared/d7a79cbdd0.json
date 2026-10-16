@@ -1,0 +1,9 @@
+{"slug":"2026-10-13-lby-libyaobserver-315000-unlawful-national-ids","studies":{
+"authentication":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Reports discrepancies between Civil Registry Authority and national number databases but no exchange of records."}}},
+"idcoverage":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on who operates the system."}}},
+"idregisters":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Salaries and pensions frozen and voter-card withdrawals are reported, but the document does not say the registers are keyed on the number."}}},
+"idrobustness":{"countries":{"LBY":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Libya's Attorney General Al-Siddiq Al-Sour said a review found more than 315,000 national identification numbers issued unlawfully, with 8,662 numbers suspended.","as_of":"2026-10-13","date_precision":"day","system":"national identification number database","class":"idsystem"}],"systems":[{"system":"National Number database","country_label":"Libya","class":"idsystem","platform":"","owner":"","tiers":""},{"system":"Civil Registry Authority database","country_label":"Libya","class":"other","platform":"","owner":"Civil Registry Authority","tiers":""}],"note":""}}}
+}}

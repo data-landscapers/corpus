@@ -1,0 +1,153 @@
+{
+ "slug": "2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The DIAL case study reports over 42 million total registrations in Fayda, about 31% of Ethiopia's 135.5 million people (share computed from the population given), below a third.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The DIAL case study says Fayda, launched in 2021 by the National ID Program, has over 42 million registrations and integrations with over 130 agencies.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

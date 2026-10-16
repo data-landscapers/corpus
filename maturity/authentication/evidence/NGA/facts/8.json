@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-25-nin-contradiction-high-cost-of-false-integration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The NIMC director general says banks, telecom operators, insurance companies and fintechs already authenticate customers through NIMC's real-time verification platform by matching fingerprint or face against the NIN record; a bank digital officer confirms onboarding verifies identity against the national database.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "NIMC real-time verification platform (NIN authentication platform)"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "NIMC says agencies for taxation, immigration, education, healthcare, security, aviation and social intervention rely on the NIN alongside banks and telecoms; the newspaper itself says the NIN enables verification across banking, telecommunications and immigration, while experts say adoption is uneven and updates are not automatic.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "NIMC real-time verification platform (NIN authentication platform)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC real-time verification platform (NIN authentication platform)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identity Management Commission",
+   "tiers": "banks, telecom operators, insurers, fintechs, tax, immigration, education, health, security, aviation, social intervention"
+  },
+  {
+   "system": "Bank Verification Number (BVN)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "financial sector"
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

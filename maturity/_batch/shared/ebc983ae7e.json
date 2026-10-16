@@ -1,0 +1,9 @@
+{"slug":"2026-04-01-gabon-nationalite-commission-administrative-situations-litigieuses","studies":{
+"authentication":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No civil register link stated."}}},
+"idcoverage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Names the DGDI as processing identity card applications but says nothing of who operates or owns the system."}}},
+"idregisters":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Reports a backlog of nationality files blocking national identity card applications; does not describe the ID system or that it issues unique credentials."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26-new-digital-id-you-control-everything-ktpress",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "KT Press says children receive their first digital ID from birth, with a facial photo from age four and fingerprints and iris at five.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Single Digital ID (SDID)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

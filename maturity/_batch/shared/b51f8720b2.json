@@ -1,0 +1,142 @@
+{
+ "slug": "2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ANIP says the biometric national identity card (CNIB) is issued, certifying identity from the holder's personal identification number, and renewal can now be started online.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "CNIB",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNIB",
+       "country_label": "BEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug":"2026-01-25-nia-approved-fees-and-charges-2026","studies":{
+"authentication":{"countries":{"GHA":{"facts":[],"systems":[],"note":"The fee schedule states nothing on authentication."}}},
+"birthidlink":{"countries":{"GHA":{"facts":[],"systems":[],"note":"The fee schedule states nothing on civil register links."}}},
+"idcoverage":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No count or share enrolled is given."}}},
+"idfrombirth":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing is stated on a number at birth."}}},
+"idmaintenance":{"countries":{"GHA":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The National Identification Authority itself sets fees and runs first-time registration, card replacement, record updates and mobile registration at its district offices and Premium Centres.","as_of":"2026-01-25","date_precision":"day","system":"Ghana Card","class":"idsystem"}],"systems":[],"note":""}}},
+"idregisters":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No register keyed on the ID number is mentioned."}}},
+"idrobustness":{"countries":{"GHA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The NIA publishes approved fees for registration, card replacement and personal information updates at district offices and Premium Centres, showing the national ID is in service.","as_of":"2026-01-25","date_precision":"day","system":"Ghana Card","class":"idsystem"}],"systems":[{"system":"Ghana Card / National Identity Register","country_label":"Ghana","class":"idsystem","platform":"","owner":"National Identification Authority","tiers":"district office, Premium Centre, mobile"}],"note":""}}}
+}}

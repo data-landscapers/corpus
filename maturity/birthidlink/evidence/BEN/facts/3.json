@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-guichet-unique-naissances-bilan-six-mois",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The national identification agency ANIP and the Health Ministry piloted a single window for birth declaration and registration in 10 health facilities, with ANIP aiming to scale it nationally.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "BEN",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

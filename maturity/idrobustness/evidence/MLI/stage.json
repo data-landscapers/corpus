@@ -1,0 +1,17 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "robustness",
+   "stage": "no evidence",
+   "system": "",
+   "biometric": "",
+   "assurance": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a national ID system, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
+  }
+ ]
+}

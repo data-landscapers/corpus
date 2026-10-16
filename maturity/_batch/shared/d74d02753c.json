@@ -1,0 +1,8 @@
+{"slug":"2026-09-11-gabon-digital-id-interoperability-implementation","studies":{
+"authentication":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No authentication service, PKI or wallet stated."}}},
+"birthidlink":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on civil register links."}}},
+"idcoverage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No enrolment count or share."}}},
+"idfrombirth":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Operator and owner of the ID system not stated."}}},
+"idregisters":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The payroll Single Master File is not said to use the ID number."}}},
+"idrobustness":{"countries":{"GAB":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Gabon launched a new generation national digital ID system in July 2024, which the government says it is now moving to operationalise.","as_of":"2024-07","date_precision":"month","system":"Gabon national digital ID system","class":"idsystem"}],"systems":[{"system":"Gabon national digital ID system","country_label":"Gabon","class":"idsystem","platform":"","owner":"Government of Gabon","tiers":""}],"note":""}}}}}

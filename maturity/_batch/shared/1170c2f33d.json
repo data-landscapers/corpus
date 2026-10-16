@@ -1,25 +1,23 @@
 {
-  "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
-  "studies": {
-    "idverification": {
-      "countries": {
-        "COG": {
-          "facts": [],
-          "systems": [
-            {"system": "identité numérique sécurisée", "country_label": "Congo", "class": "other", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": ""}
-          ],
-          "note": "A ministry adviser names a secure digital identity as a planned foundation; no system checking people against it is described."
-        }
-      }
-    },
-    "socialexchange": {
-      "countries": {
-        "COG": {
-          "facts": [],
-          "systems": [],
-          "note": "The document does not mention social protection systems."
-        }
-      }
+ "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Plans a secure digital identity and inter-administration data exchange but states no link between civil register and ID system."
     }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is mentioned."
+    }
+   }
   }
+ }
 }

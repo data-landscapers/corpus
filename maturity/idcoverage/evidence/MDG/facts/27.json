@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-10-ami-idms-audit-firm-digital-gov-mg",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IDMS",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Madagascar (PRODIGY/UGD)",
+   "tiers": ""
+  }
+ ],
+ "note": "The notice gives no enrolment count or share."
+}

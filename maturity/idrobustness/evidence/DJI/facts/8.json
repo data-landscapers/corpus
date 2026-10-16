@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Digital Affairs says Law 39/AN/19 of 21 January 2019 created the biometric National Register of Natural Persons (RNPP) and the NNI, a project to deploy a new single biometric system.",
+   "as_of": "2019-01-21",
+   "date_precision": "day",
+   "system": "RNPP / NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

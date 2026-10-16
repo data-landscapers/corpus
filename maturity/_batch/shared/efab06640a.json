@@ -1,0 +1,68 @@
+{
+ "slug": "2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers Mauritius data protection only; nothing on this study."
+    }
+   }
+  }
+ }
+}

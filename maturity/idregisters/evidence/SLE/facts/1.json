@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "NCRA and the Ministry of Agriculture agreed to integrate the National Digital Farmer Registry with the NIN database to verify and de-duplicate farmers.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "NIN (NCRA)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

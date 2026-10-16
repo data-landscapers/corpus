@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Idarati platform is linked to Morocco's existing electronic national identity card system, developed by iDakto with Idemia and the DGSN.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "electronic national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic national identity card",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "iDakto with Idemia",
+   "owner": "DGSN",
+   "tiers": ""
+  },
+  {
+   "system": "Idarati X.0",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "Idarati",
+   "owner": "Ministry of Digital Transition and Administrative Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

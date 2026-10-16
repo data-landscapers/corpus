@@ -1,0 +1,97 @@
+{
+ "slug": "2026-01-01-lab-mosip-wuri-niger",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "fID (NIU unique identifier system)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Ministry of the Interior (WURI-Niger project)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator or ownership of a system in service stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Integration with the national population register is listed as a prospect only."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The WURI-Niger project says its MOSIP-based identification pilot in Tanout commune, Zinder region, enrolled 500 people ahead of national implementation, financed by the World Bank.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Lab MOSIP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fID (NIU unique identifier system)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Ministry of the Interior (WURI-Niger project)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

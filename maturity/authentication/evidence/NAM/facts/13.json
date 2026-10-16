@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-01-new-e-id-expiry-date-to-boost-security",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-ID",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a statement that service providers would need CRAN certification; no authentication service is stated."
+}

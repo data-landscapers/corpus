@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BFA,CNIB,Burkina Faso,idsystem,,Office Nationale d'Identification (ONI),,2026-08-25-cnib-carte-nationale-identite-burkinabe
+BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
+BFA,CIB-AES,Burkina Faso,idsystem,,ONI,,2026-09-15-fasoamazone-oni-cib-aes-enrolment
+BFA,CIB-AES,Burkina Faso,idsystem,,Office national d'identification (ONI),,2026-09-09-sidwaya-carte-identite-biometrique-aes-koudougou

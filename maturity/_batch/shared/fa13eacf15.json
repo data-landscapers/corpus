@@ -1,0 +1,79 @@
+{
+ "slug": "2026-05-14-communique-enregistrement-electeurs-2026",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Electoral Commissioner's office says voters can check the electoral register on its website by entering their national identity card number.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "electoral register",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Mauritius."
+    }
+   }
+  }
+ }
+}

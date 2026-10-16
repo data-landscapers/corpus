@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-08-egypt-ntra-my-numbers-facial-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The regulator is adding face-recognition verification to the My NTRA app so only the data subject sees lines registered against their national number.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "My NTRA facial verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

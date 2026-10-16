@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-communique-enregistrement-electeurs-2026",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Electoral Commissioner's office says voters can check the electoral register on its website by entering their national identity card number.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "electoral register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-06-27 WURI digital ID project improving access to public services in Benin",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Biometric Update, citing the World Bank blog, says the fID is carried on a mobile application linked to a variety of services in Benin and authenticates identity by QR code.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "fID mobile application"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "Biometric Update says about 99 percent of Beninese hold a legal and digital identity with which they can access services in education, finance and government social assistance programmes.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "fID mobile application"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Certificat NPI/fID (C'est moi)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "WURI project",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "fID mobile application",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "mobile application",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

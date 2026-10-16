@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-cameroon-yaounde-5-national-id-cards-delivered",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Yaounde 5 mayor handed out 4,000 free national identity cards on 27 July 2026, after DGSN police officers worked on site to clear double-identity cases some people had been blocked by for over fifteen years.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Carte nationale d'identité (DGSN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte nationale d'identité",
+   "country_label": "Cameroon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,link,link,inservice,"The Civil Status Division registers births, deaths and marriages, has custody of the National Population Database, and issues Identity Cards to all residents.",2026,year,National Population Database,crvslink,2026-01-01-ics-civil-status-division,https://www.ics.gov.sc/about/department/civil-status-division

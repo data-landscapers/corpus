@@ -1,0 +1,131 @@
+{
+ "slug": "2026-07-10-macra-undp-ai-digital-id-collaboration-itweb",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identity system",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
+    }
+   }
+  }
+ }
+}

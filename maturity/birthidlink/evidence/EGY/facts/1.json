@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-egypt-crvs-journey-2017-2026",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Egypt's CRVS presentation says a central births and deaths database operates as an interoperable platform that includes identity management.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "central births and deaths database",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

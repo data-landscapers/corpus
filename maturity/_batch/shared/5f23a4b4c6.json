@@ -1,0 +1,97 @@
+{
+ "slug": "2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The Vital Strategies/UNHCR study says Eswatini, with eight other Southern African countries, already operates an integrated identity system model linking civil registration and national identity systems.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "integrated identity system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "integrated identity system",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "integrated identity system",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

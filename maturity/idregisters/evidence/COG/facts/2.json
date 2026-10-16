@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIU (numero d'identification unique)",
+   "country_label": "Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CNI (carte nationale d'identite)",
+   "country_label": "Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The cards are tied to electoral roll revision as a requirement, not stated as keyed on the number."
+}

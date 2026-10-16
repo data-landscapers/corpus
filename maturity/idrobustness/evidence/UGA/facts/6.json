@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA completed the migration of more than 28 million records to its new MOSIP-based identity platform and added about 6.7 million new registrations, issuing new IDs.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "NIRA national identity platform on MOSIP",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "NIRA deduplicated multiple biometric databases during the migration and found about 200,000 duplicates over about seven months.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "NIRA national identity platform on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national identity platform on MOSIP",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

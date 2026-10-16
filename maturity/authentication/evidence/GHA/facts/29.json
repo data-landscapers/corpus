@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-use-of-ghana-card-for-all-financial-transactions",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The directive requires the card for transactions; no authentication service is stated."
+}

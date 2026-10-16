@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-egypt-national-id-system-citc",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "CITC (Egypt) provides technical support, database updating and 24-hour customer support for the national number project, managed with technicians of the Civil Status Organization.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID System (national number project)",
+   "country_label": "EGY",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Status Organization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

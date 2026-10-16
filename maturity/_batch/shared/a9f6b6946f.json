@@ -1,0 +1,9 @@
+{"slug": "2026-01-06-tanzania-legislative-framework-infant-id-registration", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "eRITA is an online application platform for certificates; no authentication service is stated."}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system is stated."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only cards printed and uncollected (over 300,000) are given, not people enrolled."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "NIDA's Director General says an Infant Registration Bill, to be tabled from 27 January 2026, would register children at birth and assign a unique identification number used to issue a national digital ID card at 18.", "as_of": "2026-01-06", "date_precision": "day", "system": "NIDA national ID", "class": "birthnumber"}], "systems": [{"system": "National ID (NIDA)", "country_label": "Tanzania", "class": "idsystem", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIDA's Director General says more than 300,000 printed national ID cards await collection in district offices, so the authority is issuing national ID cards.", "as_of": "2026-01-06", "date_precision": "day", "system": "National ID (NIDA)", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

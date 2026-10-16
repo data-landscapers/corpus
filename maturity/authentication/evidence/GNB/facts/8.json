@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national biometric ID card (ENBIC)",
+   "country_label": "Guinea-Bissau",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SIREC (Integrated System of Citizen Registers and Statistics)",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Registration Office, Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "No authentication service stated."
+}

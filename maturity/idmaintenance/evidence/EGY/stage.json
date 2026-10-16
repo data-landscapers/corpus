@@ -1,0 +1,17 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "maintenance",
+   "stage": "4",
+   "operation": "national",
+   "maintenance": "national",
+   "ownership": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-001",
+   "gaps": "No source held since October 2023 says the system runs on code the state owns.",
+   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-gha-ghanaweb-nia-biometric-fraud-controls",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Bedzrah said NIA was extending the system to children from birth and would begin registering children aged 0-5 the following week, after the ongoing registration of ages 6-14.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

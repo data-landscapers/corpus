@@ -1,0 +1,42 @@
+{
+ "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Government of Cabo Verde says the Portal de Justiça, launched on 18 December 2024, is integrated with the state's Autentika platform and supports several user authentication methods for services including certificates and online renewal of the CNI.",
+   "as_of": "2024-12-18",
+   "date_precision": "day",
+   "system": "Portal de Justiça"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal de Justiça",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "justice and registry services portal, linked to SIJ",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "Autentika",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "state single sign-on",
+   "owner": "State of Cabo Verde",
+   "tiers": ""
+  },
+  {
+   "system": "Portal de Serviços Públicos Digitais Integrados do Estado",
+   "country_label": "Cabo Verde",
+   "class": "",
+   "platform": "single national services portal, in advanced development",
+   "owner": "State of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

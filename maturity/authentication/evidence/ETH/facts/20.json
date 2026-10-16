@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Commercial Bank of Ethiopia customers can link their accounts to Fayda online at cbefayda.cbe.com.et with a Fayda number, and the restriction is lifted once identity is verified and linked, per Birr Metrics reporting the bank's notice.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

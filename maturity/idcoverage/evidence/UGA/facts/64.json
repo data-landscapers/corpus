@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-14 Uganda financial institutions sign on for digital KYC through national ID",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIRA national ID database",
+   "country_label": "UGA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated on this question; access is by private financial institutions."
+}

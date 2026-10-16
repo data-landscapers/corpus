@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DigiGO",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers business registry login, no civil register link."
+}

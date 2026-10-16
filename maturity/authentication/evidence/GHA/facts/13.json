@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Radio Tamale reports the Bank of Ghana's revised guidance note requires all licensed financial institutions to onboard customers with the Ghana Card only and verify them biometrically, with liveness checks for digital onboarding, effective immediately (as_of is the published date, the document giving none other).",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Bank of Ghana KYC onboarding against the Ghana Card"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Ghana KYC onboarding against the Ghana Card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "NIA database",
+   "owner": "Bank of Ghana (regulator); financial institutions",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

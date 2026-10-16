@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "link",
+   "stage": "unplaced",
+   "link": "",
+   "events": "",
+   "reported": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether the civil register and the ID system are linked.",
+   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
+  }
+ ]
+}

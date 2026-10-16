@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-26 Eritrea's population digital identity - challenges ahead",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "none",
+   "fact": "The profile states Eritrea has no operational foundational digital ID and no foundational ID exists yet.",
+   "as_of": "2025-07-26",
+   "date_precision": "day",
+   "system": "",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

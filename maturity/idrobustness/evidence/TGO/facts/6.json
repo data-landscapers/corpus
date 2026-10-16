@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-togo-6-millions-niu-fin-2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "By end 2025 the e-ID Togo project had issued over 6 million citizens a unique identification number (NIU) with a biometric card with secure QR code, enrolled by ANID campaigns.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NIU (e-ID Togo)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU / e-ID Togo",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": "biometric card with QR code"
+  }
+ ],
+ "note": ""
+}

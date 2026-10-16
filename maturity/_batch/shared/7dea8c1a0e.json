@@ -1,0 +1,8 @@
+{"slug": "2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders", "studies": {
+"birthidlink": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Certificates are delivered by CertExpress, but no exchange of records between the civil register and the ID system is stated."}}},
+"idcoverage": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No count or share of people holding an ID is given."}}},
+"idfrombirth": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"SYC": {"facts": [], "systems": [{"system": "SeyID", "country_label": "Seychelles", "class": "idsystem", "platform": "WISeID", "owner": "Government of Seychelles", "tiers": "virtual ID"}], "note": "WISeKey developed SeyID, but the document does not say who operates or maintains it."}}},
+"idregisters": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is mentioned."}}},
+"idrobustness": {"countries": {"SYC": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ID Tech, citing Seychelles News Agency, reports SeyID was officially launched on 1 November 2022 and from 17 September 2024 is mandatory as a virtual ID for new work permit holders, valid for the permit's duration.", "as_of": "2022-11-01", "date_precision": "day", "system": "SeyID", "class": "idsystem"}], "systems": [{"system": "SeyID", "country_label": "Seychelles", "class": "idsystem", "platform": "WISeID", "owner": "Government of Seychelles", "tiers": "virtual ID"}], "note": ""}}}
+}}

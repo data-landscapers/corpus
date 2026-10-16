@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-24-angolanewswire-17-million-identity-cards",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Angola's National Director of Registries and Notary Services said all 21 provinces have installed capacity to issue and print identity cards locally, with national daily production raised from 12,000 to 60,000 cards after technological upgrades.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade (BI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

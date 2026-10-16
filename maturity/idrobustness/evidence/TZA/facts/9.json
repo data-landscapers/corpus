@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-tza-mwananchi-nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Minister Katambi said 23,515,667 people have been issued a National Identification Number and 21,526,635 cards have been produced, with 2,027,103 finished cards uncollected.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National ID (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number and National ID card",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

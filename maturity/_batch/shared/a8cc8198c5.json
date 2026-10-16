@@ -1,0 +1,32 @@
+{
+ "slug": "2026-03-01-lana-alnaib-alaam-qaidat-bayanat-alsijil-almadani-aliliktruniyya",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "electronic civil registry database",
+       "country_label": "LBY",
+       "class": "other",
+       "platform": "",
+       "owner": "Civil Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "The civil registry database project is described alone; no link to an ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is stated."
+    }
+   }
+  }
+ }
+}

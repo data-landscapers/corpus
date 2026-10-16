@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-12-cote-divoire-oneci-civil-registry-biometric-terminals",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Terminals link maternities to civil registry offices only; no link to an ID system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth registration terminals are described but no identity number at birth is stated."
+    }
+   }
+  }
+ }
+}

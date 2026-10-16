@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Bank and mobile money account-opening KYC,Burundi,other,,"commercial banks and mobile money operators (Ecocash, Lumicash)",,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
+BDI,National identity card,Burundi,other,non-biometric card,Republic of Burundi,,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
+BDI,SIM card registration (ARCT),Burundi,other,,ARCT,,2026-06-05-ecofin-burundi-identification-cartes-sim-obligatoire
+BDI,SIM and eSIM registration (ARCT),Burundi,other,,"ARCT; Ministry of Finance, Budget and Digital Economy",,2026-10-02-burundi-sim-registration-scams

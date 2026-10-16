@@ -1,0 +1,46 @@
+{
+ "slug": "2026-02-10-interieur-mobile-id-lancement-officiel",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Interior Ministry says Mobile ID, launched officially on 10 February 2026, lets citizens authenticate electronically to reach public services and do procedures remotely.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The Interior Ministry says partner administrations use Mobile ID's authentication services, without direct access to the databases.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The Interior Ministry says Mobile ID, a smartphone digital identity, lets citizens carry out administrative procedures remotely.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Djibouti",
+   "class": "authentication",
+   "platform": "smartphone app",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

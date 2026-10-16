@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-accelerates-biometric-enrollment-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "More than 4.4 million people biometrically enrolled in the digital ID system, about 30% of 14.6 million population (computed), per NIDA.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National digital ID",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

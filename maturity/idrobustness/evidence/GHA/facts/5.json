@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-05-xwa-biometricupdate-ecowas-biometric-id-border-acceptance-december",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ECOWAS biometric identity card (ENBIC)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "ECOWAS",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers the regional ENBIC travel card, not Ghana's national ID system."
+}

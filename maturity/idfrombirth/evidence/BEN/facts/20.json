@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-02 Benin reports 75% of identification services accessed through digital platforms",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Benin piloted from October 2025 a digital civil registration that issues a newborn a Personal Identification Number on registration, supported by UNICEF and WURI.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Digital civil registration",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIP national ID (fID)",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

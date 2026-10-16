@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-national-identity-card-consular-services-embassy-washington",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Embassy of Algeria in Washington processes applications for a biometric National Identity Card, with a National Identification Number, for Algerians abroad.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card (biometric)",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs (consular processing)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

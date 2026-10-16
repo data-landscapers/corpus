@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-21-liberianinvestigator-nir-national-id-documents-children-under-six",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Liberian Investigator reports that the NIR issues national ID cards at a US$5 fee and assigns unique identification numbers, as part of the government's national biometric identification system.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "NIR national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-17-eritrea-embassy-national-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Eritrean embassy in Washington says Eritreans aged 18 or above must obtain a national ID and describes how new and replacement IDs are issued.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Eritrean National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eritrean National ID",
+   "country_label": "ERI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of Eritrea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

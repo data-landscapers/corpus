@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The New Times reports a nationwide enrolment campaign is underway for Rwanda's Single Digital ID, built on a unique Single Digital Identification Number, with old national ID cards to be phased out by June 2027.",
+   "as_of": "2026-03-26",
+   "date_precision": "day",
+   "system": "Single Digital ID (SDID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Agency (NIDA)",
+   "tiers": "SDIN, token, SDID card"
+  }
+ ],
+ "note": ""
+}

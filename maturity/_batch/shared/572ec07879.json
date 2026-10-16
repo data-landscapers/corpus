@@ -1,0 +1,9 @@
+{"slug":"2026-08-05-dha-smart-id-bank-branch-locator","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A branch locator is not an authentication service."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No civil register link is described."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only about 16 million still on the green book and over half a million switched via banks are given, not people enrolled."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The Department of Home Affairs runs the smart ID card programme and, with banking partners, issues smart IDs through 372 participating bank branches.","as_of":"2026-08","date_precision":"month","system":"Smart ID card","class":"idsystem"}],"systems":[{"system":"Smart ID card","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"Smart ID cards, first introduced in 2013, are issued by Home Affairs including through 372 bank branches, with over half a million switches from the green ID book.","as_of":"2026-08","date_precision":"month","system":"Smart ID card","class":"idsystem"}],"systems":[{"system":"Smart ID card","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}}
+}}

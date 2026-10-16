@@ -1,0 +1,90 @@
+{
+ "slug": "2026-10-08-cm-civil-registration-funding-gap",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on authentication."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "BUNEC's director general says BUNEC is already deploying an inter-administrative platform to link the civil registration system and the national ID system.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "inter-administrative platform",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of ID holders stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated; civil registration is mostly paper."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No operator stated; ID cards are issued by the General Delegation for National Security."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "BUNEC's director general says the civil registration interoperability is expected to extend to the Ministry of Finance for payroll ghost-worker control, and plans links to CNPS and the electoral register.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "inter-administrative platform",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "ID card system not described beyond its issuer."
+    }
+   }
+  }
+ }
+}

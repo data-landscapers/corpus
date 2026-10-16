@@ -1,0 +1,42 @@
+{
+ "slug": "2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA's national ID records include fingerprint and face biometrics, which are used to issue a National Identification Number (NIN), per Biometric Update.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (NIN)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "HUBIYE",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

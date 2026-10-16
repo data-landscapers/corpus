@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-fasoamazone-oni-cib-aes-enrolment",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Office national d'identification (ONI) runs the enrolment of the AES biometric identity card (CIB-AES), opening nine extra sites in Ouagadougou beside its main centre and setting delivery at 48 hours, per an ONI communiqué.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "CIB-AES",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIB-AES",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

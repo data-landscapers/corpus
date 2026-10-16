@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-13-birth-registration-emerges-as-foundation-for-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vital Strategies says Rwanda's digitised birth registration integrated with the national ID system has led to real-time identity verification across previously siloed sectors.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Rwanda national ID and civil registration integration",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Vital Strategies says Rwanda's digital system connects with hospitals, government agencies and businesses and supports access to around 200 essential services.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Rwanda national ID and civil registration integration",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

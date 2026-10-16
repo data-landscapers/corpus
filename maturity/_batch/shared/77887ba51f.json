@@ -1,0 +1,9 @@
+{"slug":"2026-04-14-home-affairs-40-years-closing-of-the-tap","studies":{
+"authentication":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No authentication service mentioned."}}},
+"birthidlink":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Birth registration and ID cards described separately; no exchange between them stated."}}},
+"idcoverage":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No ID enrolment count or share; only 30,000 birth certificates issued."}}},
+"idfrombirth":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Closing of the Tap registers newborns at health facilities but no ID number at birth is stated."}}},
+"idmaintenance":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No operator or ownership detail given."}}},
+"idregisters":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No register keyed on the ID number mentioned."}}},
+"idrobustness":{"countries":{"SWZ":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Ministry of Home Affairs says national identity cards were introduced in 2005 under the Identification Order of 1998 and the systems were later automated.","as_of":"2005","date_precision":"year","system":"National identity cards","class":"idsystem"}],"systems":[{"system":"National identity cards","country_label":"Eswatini","class":"idsystem","platform":"","owner":"Ministry of Home Affairs","tiers":""}],"note":""}}}
+}}

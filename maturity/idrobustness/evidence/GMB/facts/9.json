@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "President Barrow said ID cards will be integrated with civil registration and passport databases to create a unified digital ID system, and that digitalisation of national documents is in progress.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "National ID system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "President Barrow referred to the existing National ID system run under a concession contract that the government will soon replace.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "National ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-sao-tome-afap-kits-biometricos-identidade-digital",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The AFAP, under the World Bank-financed Sao Tome and Principe Digital project, announced a tender for biometric kits for digital identity registration.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Sao Tome and Principe digital identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sao Tome and Principe digital identity",
+   "country_label": "Sao Tome and Principe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

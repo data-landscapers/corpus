@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-egypt-national-id-system-citc",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "CITC supports integration of the National ID database with external parties including the Labor Permits Department, General Organization for Social Insurance, Ministry of Social Solidarity and Central Bank, and the databases include elections.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID System (national number project)",
+   "country_label": "EGY",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Status Organization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

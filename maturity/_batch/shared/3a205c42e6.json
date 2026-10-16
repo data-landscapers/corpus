@@ -1,0 +1,68 @@
+{
+ "slug": "2026-08-22-lestimes-refugees-trapped-lesotho-id-freeze",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Biometric Update quotes ANIP's Director General saying ANIP, attached to the presidency, is in charge of all identity matters in Benin.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "ANIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIP identity system",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

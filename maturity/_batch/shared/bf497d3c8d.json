@@ -1,0 +1,128 @@
+{
+ "slug": "2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "ID Tech Wire reports that ONECI, Guinea's National Office for Civil Registration and Identification, handles both biometric birth certificates and the biometric national ID card, with the birth certificate the foundational document for the ID.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "ONECI civil registration and national ID",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID card",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "MOSIP and TECH5",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The birth certificate is the foundation for the ID, but no ID number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "ID Tech Wire says Guinea's national ID programme is built on the open-source MOSIP platform with TECH5 biometric infrastructure, with enrolment in service in Sanoyah.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "national biometric ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID card",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "MOSIP and TECH5",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ID Tech Wire reports that biometric national ID card enrolment, free for first-time applicants aged 16 and over, began in Sanoyah commune on MOSIP and TECH5 infrastructure.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "national biometric ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID card",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "MOSIP and TECH5",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

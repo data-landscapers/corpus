@@ -1,0 +1,17 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "coverage",
+   "stage": "no evidence",
+   "share": "",
+   "everyone": "",
+   "births": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held counts the people holding a national ID.",
+   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
+  }
+ ]
+}

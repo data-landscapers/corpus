@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The Ministry of Social Solidarity launched on 29 August 2026 phase one of its digital foster-family services system, which the ICT ministry says is linked to the digital identity system so citizens can sign in securely.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Social care services platform (digital.moss.gov.eg)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social care services platform (digital.moss.gov.eg)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  },
+  {
+   "system": "Government digital exchange",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital identity system",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

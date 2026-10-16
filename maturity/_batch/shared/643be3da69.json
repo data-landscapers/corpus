@@ -1,0 +1,101 @@
+{
+ "slug": "2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "FaydaVerse (formerly the National ID Program) has registered more than 51 million citizens, about 37.6% of 135.5 million people (share computed from the held population figure).",
+       "as_of": "2026-10-03",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The state-owned enterprise FaydaVerse, under Ethiopian Investment Holdings, runs the national digital ID system and bills banks for record retrievals and authentications.",
+       "as_of": "2026-10-03",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only banks, private users, are named; no public register keyed on the ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Fayda has registered more than 51 million citizens, issued nearly 14 million printed cards and integrated about 150 institutions, each person assigned a unique identification number (Addis Fortune).",
+       "as_of": "2026-10-03",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "FaydaVerse (Ethiopian Investment Holdings)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

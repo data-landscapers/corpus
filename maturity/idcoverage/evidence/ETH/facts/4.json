@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The Ethiopia National ID Program reports 49.1 million Fayda enrolments as of 24 August 2026, about 36% of Ethiopia's 135.5 million people (share computed from the held population figure).",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "ETH",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program / Faydaverse",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

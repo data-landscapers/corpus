@@ -1,0 +1,99 @@
+{
+ "slug": "2025-10-01-zwe-civil-registry-computerise-sub-offices",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The Civil Registry Department issues birth and death certificates and national identity cards and is custodian of the national citizens' database, so one body holds both.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "national identity card",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people holding an ID is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Operation or maintenance of the ID system is not described beyond a plan to computerise sub-offices."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Civil Registry Department issues national identity cards, per the Home Affairs minister.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card",
+       "country_label": "ZWE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Civil Registry Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

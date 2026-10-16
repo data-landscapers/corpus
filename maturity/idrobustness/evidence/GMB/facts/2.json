@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-standard-gm-new-biometric-id-card-issuance-starts",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The government announced that public registration and issuance of new Biometric National Identity Cards for citizens aged 18 and over started on 4 August 2026 in Banjul, Kanifing and Brikama areas, with rollout to other regions through September.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Biometric National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric National Identity Card",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

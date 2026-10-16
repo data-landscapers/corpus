@@ -1,0 +1,9 @@
+{"slug":"2026-10-01-zaf-citizen-green-id-book-end-digital-id-prototype","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"Minister Leon Schreiber unveiled South Africa's first working digital identity credential, bound to his own smartphone, as a prototype.","as_of":"2026-10-01","date_precision":"day","system":"Digital ID","class":"authentication"}],"systems":[{"system":"Digital ID","country_label":"South Africa","class":"authentication","platform":"smartphone credential","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only a count of smart ID replacement users, not people enrolled."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"More than 515 bank branches offer biometric Smart ID replacements and more than 822,000 citizens already use the service, per Minister Schreiber.","as_of":"2026-10-01","date_precision":"day","system":"Smart ID card","class":"idsystem"}],"systems":[{"system":"Smart ID card","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}}
+}}

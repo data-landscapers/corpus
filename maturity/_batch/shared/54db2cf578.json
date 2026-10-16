@@ -1,0 +1,5 @@
+{"slug": "2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization", "studies": {
+"birthidlink": {"countries": {"CMR": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "BUNEC partnered with Liber Technologies in October 2025 to build a fully digital civil registration system by 2029, integrated with the new biometric national ID, per Biometric Update.", "as_of": "2025-10", "date_precision": "month", "system": "BUNEC CRVS", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Law 2024/016 provides a UPIN for every citizen, but the document does not tie it to birth registration."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a mention of the 'new biometric national ID' with no status stated."}}}
+}}

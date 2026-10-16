@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-ics-national-identity-card",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Card (NIN)",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Immigration and Civil Status",
+   "tiers": "physical card"
+  },
+  {
+   "system": "SeyID virtual ID",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "SeyID app",
+   "owner": "",
+   "tiers": "virtual ID"
+  }
+ ],
+ "note": "Nothing stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The DGPF holds both registers: birth, marriage and death records are being archived electronically in the national database it also uses for identity-card enrolment, and children born abroad must have their birth transcribed before applying for the card.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

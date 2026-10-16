@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-business-focus-nira-new-national-ids-fail-services",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIRA's executive director said NIRA began an information-exchange module on 31 March 2026 and onboards partners onto its new production system as they become ready, MTN first.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "NIRA new national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA new national ID system",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

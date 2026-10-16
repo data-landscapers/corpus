@@ -1,0 +1,163 @@
+{
+ "slug": "2026-06-26-govt-enhances-registration-new-technology",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "IPRS",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "IPRS",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "No exchange between civil register and ID stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "No count or share of people holding an ID given; only birth registration 77% and death registration 46%."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "No operator, maintainer or owner of the ID system stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Only private and mixed organisations verifying identity; no public register keyed on the ID number stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Principal Secretary Belio Kipsang said 600 live-capture biometric devices let new national identity cards be issued in 10 days, one day in Nairobi.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "national identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

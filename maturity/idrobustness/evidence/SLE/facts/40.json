@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NCRA Director General Massaquoi said NCRA has strengthened the national identity infrastructure and issued secure identity documents, and the Bank of Sierra Leone referred to the unique National Identification Number.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

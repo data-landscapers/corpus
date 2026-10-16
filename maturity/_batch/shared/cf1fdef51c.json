@@ -1,0 +1,11 @@
+{"slug":"2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba","studies":{
+"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No exchange with the civil register is stated."}}},
+"idcoverage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"frombirth","aspect":"number","value":"underway","fact":"The Minister of Home Affairs told Parliament in the 2026/27 budget speech that NIDA expects to start registering children from birth to give a unique number called Jamii Namba.","as_of":"2026-05-25","date_precision":"day","system":"Jamii Namba","class":"birthnumber"}],
+"systems":[{"system":"Jamii Namba","country_label":"Tanzania","class":"birthnumber","platform":"","owner":"NIDA","tiers":""}],"note":""}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Who operates and maintains the system is not stated."}}},
+"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Only the continued registration of people aged 18 and over is stated; nothing on uniqueness, biometrics or assurance."}}}
+}}

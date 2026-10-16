@@ -1,0 +1,8 @@
+{"slug": "2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Names the Civil Registry only as the Interior Ministry partner in the launch; no exchange of records is stated."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Says who implements the launch but not who operates, maintains or owns the platform."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No public register keyed on the ID is mentioned."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Ministry of Digital Transformation and Telecommunications launched SUDAPASS, the national digital identity, on 21 May 2026, implemented through the Cybersecurity Authority and the National Electronic Certification Authority with the Interior Ministry's Civil Registry.", "as_of": "2026-05-21", "date_precision": "day", "system": "SUDAPASS", "class": "idsystem"}], "systems": [{"system": "SUDAPASS", "country_label": "Sudan", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Transformation and Telecommunications", "tiers": ""}], "note": ""}}}
+}}

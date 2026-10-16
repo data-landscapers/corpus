@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The advocacy author (DRAA) states about 18 million people, about 40 percent of the population, lack a National ID, implying roughly 60 percent hold one; the estimate carries no cited source.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "National ID (Ndaga Muntu)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

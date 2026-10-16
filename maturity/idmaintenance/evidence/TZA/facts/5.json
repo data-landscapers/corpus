@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-12-tza-6-308-nida-cards-remain-uncollected-in-zanzibar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIDA national ID",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "NIDA is said to notify citizens by text message, but who builds and maintains the system is not stated."
+}

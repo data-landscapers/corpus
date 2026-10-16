@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Ministry of Communications and IT, with the Ministry of Interior, launched a biometric electronic verification and e-signature system for licensed telecom companies' apps, in a trial operating period.",
+   "as_of": "2026-09-18",
+   "date_precision": "day",
+   "system": "Biometric electronic verification system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric electronic verification system",
+   "country_label": "EGY",
+   "class": "authentication",
+   "platform": "Sci Shield",
+   "owner": "MCIT with Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

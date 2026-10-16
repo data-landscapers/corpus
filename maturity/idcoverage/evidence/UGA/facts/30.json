@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-21-techbuild-uganda-national-id-broken-qr-codes",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The article reports the Prime Minister's figure of 11.9 million unregistered Ugandans; against 51.4 million people this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "The article reports the Prime Minister's figure of 11.9 million unregistered Ugandans; against 51.4 million people this leaves about 39.5 million enrolled, about 77 percent (derived by subtraction, not stated).",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

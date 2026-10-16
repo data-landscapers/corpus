@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "President Barrow said the unified digital ID system will be locally designed, built, operated and managed by government services to ensure knowledge transfer and ownership, and that the concession contract for the National ID system will soon be replaced.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "National ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

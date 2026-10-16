@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-gha-ghanaweb-nia-biometric-fraud-controls",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Bedzrah said the system would facilitate deactivating the identity of deceased persons once their deaths are properly registered and verified.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Unique Identification Number / national ID system,Cabo Verde,idsystem,,IMIJ (Justice Ministry),,2026-05-19-crvs-id-reforms-birth-registration-biometricupdate
+CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,idsystem,smart card,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Autentika,Cabo Verde,other,electronic identity management and authentication platform,Estado de Cabo Verde,"basic (email and password), CNI, CMDCV",2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,"mobile phone number, PIN and temporary code",,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,idsystem,chip card,State of Cabo Verde,,2024-01-01-cartao-nacional-de-identificacao
+CPV,Cartao Nacional de Identificacao (CNI),CPV,idsystem,,,,2024-01-01-cni-fees-and-exemptions

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-10-01-namibia-mobile-id-prototype-birth-registration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Home Affairs ministry with UNDP tested a mobile ID prototype at Otjimbingwe letting mothers sign birth-registration approval digitally in an app, with rollout planned for 2026 after consultations.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "mobile ID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile ID prototype",
+       "country_label": "NAM",
+       "class": "authentication",
+       "platform": "mobile app",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No exchange between civil register and ID system is described."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number given at birth is mentioned."
+    }
+   }
+  }
+ }
+}

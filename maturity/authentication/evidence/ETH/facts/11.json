@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-ethiopia-fayda-digital-id-90-million-2027",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "ID Tech reports that the Cooperative Bank of Oromia is the first financial institution to integrate with the Fayda Wallet, opening new accounts through biometric eKYC verification without physical documents.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Fayda eKYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda eKYC",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Fayda Wallet",
+   "owner": "Cooperative Bank of Oromia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

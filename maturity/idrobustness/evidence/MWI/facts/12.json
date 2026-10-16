@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-16-mwi-malawi24-drops-expiry-dates-national-ids",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Malawi24 reports the National Registration Bureau issues national identity cards, now without expiry dates from 2026-09-16 on a directive of the Homeland Security Minister.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Nzika Digital ID Wallet",
+   "country_label": "Malawi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

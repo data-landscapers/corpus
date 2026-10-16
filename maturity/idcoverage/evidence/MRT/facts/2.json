@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "More than 94 percent of the population is enrolled for national ID since the new system of 2020, per the ANRPTS director.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "More than 94 percent of the population is enrolled for national ID since the new system of 2020, per the ANRPTS director.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

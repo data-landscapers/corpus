@@ -1,0 +1,13 @@
+# Tanzania
+
+## Authentication
+
+**Authentication service.** [The Prime Minister directed NIDA to deepen integration with institutions for employment, social services and economic activities, saying all institutions dealing with important services should join the system so data can be cross-checked](<https://dailynews.co.tz/unclaimed-ids-law-in-offing/>). [Prime Minister Nchemba said on International Identity Day that national identity cards enable citizens to access banking, employment, SIM card registration and other government services](<https://dailynews.co.tz/unclaimed-ids-law-in-offing/>). [TCRA's monitoring manager said biometric SIM registration identifies people registering lines and that national identification details linked to lines used in fraud can be blocked](<https://www.thecitizen.co.tz/tanzania/news/national/new-push-for-tighter-sim-registration-to-curb-cyber-fraud-5590718>).
+
+**Used across services.** [The 147 connected institutions comprise 66 public and 81 private institutions, per the Ministry of Home Affairs](<https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/>). [The report names banks, insurance companies and social security institutions as using NIDA-connected e-KYC processes](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/>).
+
+***Noted, not assessed***. [e-KYC against the NIDA database](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>); [NIDA institution connections](<https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-kutoa-namba-kwa-watoto-na-wageni-kuzifuta-hizi--5002542>); [SIM card registration](<https://dailynews.co.tz/unclaimed-ids-law-in-offing/>); [National Identification Authority (NIDA) system](<https://dailynews.co.tz/unclaimed-ids-law-in-offing/>); [NIDA Registration and Identification System](<https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/>); [SIM registration](<https://www.thecitizen.co.tz/tanzania/news/national/new-push-for-tighter-sim-registration-to-curb-cyber-fraud-5590718>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

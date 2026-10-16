@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The NIMC Director General said 136 million registrations had been reached, up from over 120 million on 10 July; against the 237.5 million population given that is about 57%, calculated here.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Identity Database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

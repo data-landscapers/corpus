@@ -1,0 +1,88 @@
+{
+ "slug": "2025-12-08 Libyan Parliament warns of breaches in Civil Registry national ID system",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Libya's House Defence and National Security Committee says breaches in the Civil Registry Authority let foreign nationals unlawfully obtain Libyan national ID numbers, which implies national ID numbers are being issued.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "national ID number (Civil Registry Authority)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national ID number",
+       "country_label": "Libya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Civil Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

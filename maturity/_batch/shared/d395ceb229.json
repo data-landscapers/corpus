@@ -1,0 +1,9 @@
+{"slug": "2026-03-16 Women traders receive ECOWAS biometric ID in Sao Domingos, Guinea-Bissau", "studies": {
+"authentication": {"countries": {"GNB": {"facts": [], "systems": [{"system": "ECOWAS biometric Identity Card (ENBIC)", "country_label": "Guinea-Bissau", "class": "other", "platform": "", "owner": "ECOWAS", "tiers": ""}], "note": "The document describes a regional travel ID card handed out; it states no authentication service."}}},
+"birthidlink": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Only 262 regional cards handed out in a pilot; no national enrolment count or share."}}},
+"idfrombirth": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on who operates a national ID system."}}},
+"idregisters": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"GNB": {"facts": [], "systems": [], "note": "The ECOWAS card is a regional travel document, not a national ID system."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ActuNiger says the AES passport launch came a few months after the launch of the biometric national identity card (CNIB).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CNIB",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-24-vital-strategies-d4h-stronger-together-namibia-lesotho-crvs",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho's CRVS reforms are mentioned, with no link between civil register and ID stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated for Lesotho."
+    }
+   }
+  }
+ }
+}

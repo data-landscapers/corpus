@@ -1,0 +1,12 @@
+{"slug":"2026-05-22-national-ids-stay-under-centralised-printing","studies":{
+"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No authentication service is described."}}},
+"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No civil register link is mentioned."}}},
+"idcoverage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
+"idfrombirth":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Central printing is described, but who operates and maintains the system is not stated."}}},
+"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is mentioned."}}},
+"idrobustness":{"countries":{"TZA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Deputy Minister for Home Affairs told the National Assembly that National Identification Numbers and national identity cards are generated at the main data processing centre.","as_of":"2026-05-22","date_precision":"day","system":"National Identification Number and national identity card","class":"idsystem"},
+{"sub_indicator":"robustness","aspect":"biometric","value":"checked","fact":"The Deputy Minister said the centre can verify applicants and match fingerprints so that each applicant is uniquely identified.","as_of":"2026-05-22","date_precision":"day","system":"National Identification Number and national identity card","class":"idsystem"}],
+"systems":[{"system":"National Identification Number and national identity card","country_label":"Tanzania","class":"idsystem","platform":"","owner":"NIDA (Ministry of Home Affairs)","tiers":""}],"note":""}}}
+}}

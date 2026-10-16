@@ -1,0 +1,32 @@
+{
+ "slug": "2024-04-28-villededjibouti-sigec-diagnostic",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGEC",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "",
+       "owner": "Ville de Djibouti",
+       "tiers": ""
+      }
+     ],
+     "note": "SIGEC is a civil-status system on its own; no link to an ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "No identity number at birth stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "BUNEC partnered with Liber Technologies in October 2025 to build a fully digital civil registration system by 2029, integrated with the new biometric national ID, per Biometric Update.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "BUNEC CRVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

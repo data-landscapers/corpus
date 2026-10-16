@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-27-lby-alwasat-national-number-fraud-civil-registry",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Number (Rakam Watani) system",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "unified electronic system",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The article covers forged national numbers and registry gaps, and states no exchange of records between civil register and ID system."
+}

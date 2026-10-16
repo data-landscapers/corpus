@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Niger is working to implement a MOSIP-based national digital ID programme, with a pilot powered by BioEnable already completed.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "MOSIP-based national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital ID",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

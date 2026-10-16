@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-25-mediaguinee-oneci-ng-tech-rnpp",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ONECI, the national civil-status and identification office, signed an MoU with NG Tech Innovation on 24 July 2026 for the digital transformation of identification and civil-registration services.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "ONECI",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

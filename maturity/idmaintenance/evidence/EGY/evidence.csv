@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+EGY-001,EGY,maintenance,maintenance,national,"CITC (Egypt) provides technical support, database updating and 24-hour customer support for the national number project, managed with technicians of the Civil Status Organization.",2024,year,National ID System,idsystem,2024-01-01-egypt-national-id-system-citc,https://www.citc.com.eg/National%20ID%20SYSTEM.html

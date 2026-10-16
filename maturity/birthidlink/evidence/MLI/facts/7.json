@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-dpi-map-mali-country-profile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NINA",
+   "country_label": "Mali",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Relationship with feeder documents is marked NO, which does not say whether records are exchanged."
+}

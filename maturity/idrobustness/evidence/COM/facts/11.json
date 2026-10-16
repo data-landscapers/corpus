@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ANADEN states the national Data Center inaugurated on 19 May 2025 will support projects including digital identity.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "identité numérique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "identité numérique",
+   "country_label": "Comoros",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANADEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

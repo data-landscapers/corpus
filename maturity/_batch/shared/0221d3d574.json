@@ -1,0 +1,146 @@
+{
+ "slug": "2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The decree requires civil registration officers drawing up a death certificate for a Congolese over 16 to collect the holder's ID card and pass it to the direction de l'identification civile.",
+       "as_of": "2024-11-13",
+       "date_precision": "day",
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The decree has the cards produced only by the national production centres at Brazzaville, Pointe-Noire and Oyo and issued by departmental section heads under the Interior Ministry.",
+       "as_of": "2024-11-13",
+       "date_precision": "day",
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Decree 2024-2692 creates the computerised secure national identity card, issued to all Congolese aged 16 and over, carrying a national number.",
+       "as_of": "2024-11-13",
+       "date_precision": "day",
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte nationale d'identite informatisee et securisee",
+       "country_label": "COG",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": "Issue from birth is stated, but no exchange with the civil register is described."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": "No count or share of people enrolled is given; the current system is said to mainly cover those aged 16 and above."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "NIDA Director General Josephine Mukesha says the Single Digital ID will be issued from birth, extending identification to all citizens, unlike the current system that mainly covers those aged 16 and above.",
+       "as_of": "2026-03-26",
+       "date_precision": "day",
+       "system": "Single Digital ID (SDID)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": "Banks, hospitals and telecoms are expected to use SDID authentication by 2027, but no public register keyed on the number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The New Times reports a nationwide enrolment campaign is underway for Rwanda's Single Digital ID, built on a unique Single Digital Identification Number, with old national ID cards to be phased out by June 2027.",
+       "as_of": "2026-03-26",
+       "date_precision": "day",
+       "system": "Single Digital ID (SDID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single Digital ID (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Agency (NIDA)",
+       "tiers": "SDIN, token, SDID card"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

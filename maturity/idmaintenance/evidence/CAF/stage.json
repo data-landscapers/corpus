@@ -1,0 +1,17 @@
+{
+ "iso3": "CAF",
+ "cells": [
+  {
+   "sub_indicator": "maintenance",
+   "stage": "no evidence",
+   "operation": "",
+   "maintenance": "",
+   "ownership": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says who operates the national ID system.",
+   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
+  }
+ ]
+}

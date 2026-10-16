@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ID Tech reports that Zambia is preparing to launch an open-source eKYC system based on the MOSIP framework, funded by a $100 million World Bank grant through DZAP.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "MOSIP-based eKYC / digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

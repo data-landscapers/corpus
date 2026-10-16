@@ -1,0 +1,9 @@
+{"slug": "2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports the Idarati X.0 national digital wallet project, for which eight partnership conventions were signed in February.", "as_of": "2026-02", "date_precision": "month", "system": "Idarati X.0", "class": "authentication"}], "systems": [{"system": "Idarati X.0", "country_label": "Morocco", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states no exchange between civil register and ID system."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No count or share of people holding the national ID is stated."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Thales customisation for DGSN is named, but no operating or maintenance arrangement for the ID system is stated."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update says the DGSN issues the country's national identity cards.", "as_of": "2026-07-15", "date_precision": "day", "system": "national identity card", "class": "idsystem"}], "systems": [{"system": "national identity card", "country_label": "Morocco", "class": "idsystem", "platform": "", "owner": "DGSN", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "NCRA identity system",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

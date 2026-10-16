@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "idsystem",
+   "platform": "WISeID (WISeKey)",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "No civil register link is mentioned."
+}

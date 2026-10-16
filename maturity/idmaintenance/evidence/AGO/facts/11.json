@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Angola says the government implemented a multifunctional database under management of the Ministry of Justice as the centre of the digital identity.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Identidade Digital multifunctional database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

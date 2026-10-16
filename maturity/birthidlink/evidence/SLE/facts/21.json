@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "One body, NCRA, holds Sierra Leone's civil registration and national ID infrastructure.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "NIN (NCRA)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

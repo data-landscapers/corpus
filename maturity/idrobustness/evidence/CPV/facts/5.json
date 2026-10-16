@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-cartao-nacional-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Card was created by the State through Decree-Law 19/2014 and is compulsory for all Cabo Verdean citizens from age 4, with applications taking 7 to 15 days, per the Consular Portal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "chip card",
+   "owner": "State of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

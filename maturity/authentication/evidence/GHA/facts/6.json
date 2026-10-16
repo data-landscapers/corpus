@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-05-ghana-new-sim-registration-2026-telecomreview",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Communications Minister said a new nationwide SIM registration would start in the first quarter of 2026, with system integration with the National Identification Authority finalised for biometric verification and a service provider being selected through the Public Procurement Authority.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "New nationwide SIM registration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "New nationwide SIM registration",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

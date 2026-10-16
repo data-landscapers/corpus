@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-tza-mwananchi-nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

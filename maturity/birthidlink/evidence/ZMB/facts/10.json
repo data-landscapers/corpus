@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Zambia's Smart Zambia Institute is seeking a system integrator to integrate the MOSIP-based digital ID system with the national civil registration architecture.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "MOSIP-based digital ID",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based digital ID",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

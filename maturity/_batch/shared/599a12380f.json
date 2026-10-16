@@ -1,0 +1,124 @@
+{
+ "slug": "2026-03-04 NIMC Intensifies Ward-Level NIN Enrolment Nationwide",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Arise News reports NIMC encourages Nigerians to download the NIN Authentication (NINAuth) app for secure digital verification.",
+       "as_of": "2026-03-04",
+       "date_precision": "day",
+       "system": "NINAuth",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIN / National Identity Database",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      },
+      {
+       "system": "NINAuth",
+       "country_label": "Nigeria",
+       "class": "authentication",
+       "platform": "mobile app",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Arise News reports NIMC is running a nationwide ward-level drive, begun 16 February 2026, enrolling people for the National Identification Number.",
+       "as_of": "2026-03-04",
+       "date_precision": "day",
+       "system": "NIN",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIN / National Identity Database",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      },
+      {
+       "system": "NINAuth",
+       "country_label": "Nigeria",
+       "class": "authentication",
+       "platform": "mobile app",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

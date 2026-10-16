@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-14-somalia-civil-registration-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Hiiraan Online reports that the Civil Registration Management and Vital Statistics System (CRMVS), delivered in November with NADRA funding, is a cornerstone of Somalia's National Identification System project, and that NIRA is tasked with managing the system.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "CRMVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CRMVS",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "NADRA-supplied",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "NIMS",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "NADRA-supplied",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "2024-01-01-seyid-seychelles-digital-identity-platform",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The SeyID page says government e-services that require SeyID need a 60% validation level, which is reached by checking the holder's NIN card or passport video against the Civil Status System.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "SeyID-gated government e-services"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The Seychelles Licensing Authority, DICT and the Seychelles Police launched a pilot digital driving licence on 15 December 2023, which a citizen holding a SeyID and an SLA-issued licence activates in the SeyID app's ID-Wallet.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "Digital Driving License"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of ICT with the Department of Immigration and Civil Status and the Seychelles Licensing Authority",
+   "tiers": ""
+  },
+  {
+   "system": "SeyID-gated government e-services",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Driving License",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "SeyID ID-Wallet",
+   "owner": "Seychelles Licensing Authority",
+   "tiers": ""
+  },
+  {
+   "system": "SeyID Sign",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "SeyID",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

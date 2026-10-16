@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Système national d'identification,Niger,idsystem,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National de la Population,Niger,idsystem,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National d'État Civil,Niger,other,plateforme souveraine (planned),,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Niger national e-ID card,Niger,idsystem,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport

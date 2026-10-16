@@ -1,0 +1,84 @@
+{
+ "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The NRB strategic plan says banks and microfinance institutions integrated NRB's ID verification (KYC) into their systems, and the Reserve Bank of Malawi pushed financial institutions to adopt e-KYC using the national ID database.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bank and microfinance KYC against NRIS"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The plan says the national ID became the backbone for identification in banking, telecommunication, voting, taxation, immigration and social services by the end of the 2019-2024 plan period.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID (NRIS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRIS (National Registration and Identification System)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "Bank and microfinance KYC against NRIS",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Banks; Reserve Bank of Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "SIM card registration",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Mobile network operators; MACRA",
+   "tiers": ""
+  },
+  {
+   "system": "Social Cash Transfer Program",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Voter registration",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Malawi Electoral Commission",
+   "tiers": ""
+  },
+  {
+   "system": "Malawi Revenue Authority",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Digital ID wallet",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

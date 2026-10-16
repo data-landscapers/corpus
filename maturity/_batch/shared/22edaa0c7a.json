@@ -1,0 +1,4 @@
+{"slug":"2026-07-27-cote-divoire-oneci-formation-citiweb-agents-etat-civil-goh","studies":{
+"birthidlink":{"countries":{"CIV":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"ONECI, the national civil-status and identification office, is training 44 civil-registry agents in the Goh region from 27 July 2026 on its Citiweb software for capturing births, marriages and deaths.","as_of":"2026-07-27","date_precision":"day","system":"Citiweb","class":"crvslink"}],"systems":[{"system":"Citiweb","country_label":"Cote d'Ivoire","class":"other","platform":"","owner":"ONECI","tiers":""}],"note":""}}},
+"idfrombirth":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Citiweb captures births but no identity number at birth is stated."}}}
+}}

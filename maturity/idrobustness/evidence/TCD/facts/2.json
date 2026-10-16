@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "SIGPTS, with technology from Idemia, enrolled Chadians in the National Biometric Population Register and issued National Identification Numbers (NNIs).",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The system launched in 2020 able to deduplicate biometrics against a database of 15 million people within 10 seconds, per ChadInfos.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGPTS / National Biometric Population Register",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "Idemia",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

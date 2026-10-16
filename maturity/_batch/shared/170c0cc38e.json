@@ -1,0 +1,79 @@
+{
+ "slug": "2026-08-09-sierra-leone-citizens-barray-national-id-cost-critique",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this; NIN-SIM is SIM registration."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this; NIN-SIM is SIM registration."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this; NIN-SIM is SIM registration."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this; NIN-SIM is SIM registration."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this; NIN-SIM is SIM registration."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Citizens' Barray says Sierra Leone's National ID system is in use for NIN-SIM telecom registration and that NCRA lists the National ID card at NLe140.",
+       "as_of": "2026-08-09",
+       "date_precision": "day",
+       "system": "National ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

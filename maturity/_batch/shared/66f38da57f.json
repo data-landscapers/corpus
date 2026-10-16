@@ -1,0 +1,9 @@
+{"slug": "2024-09-24 Egypt deploys automated civil-registry kiosks (birth certificates and national ID)", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Ministry of Interior's civil-registry kiosks, at 16 locations in 2024, have users enter their national-ID number and confirm identity by fingerprint or facial recognition before issuing documents.", "as_of": "2024-09", "date_precision": "month", "system": "Automated civil-registry machines", "class": "authentication"}], "systems": [{"system": "Automated civil-registry machines", "country_label": "Egypt", "class": "other", "platform": "kiosk", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The kiosks issue certificates and ID application forms, but no exchange of records between the registers is stated."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No count or share is given."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The kiosks take national-ID applications, but the document does not say who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is mentioned."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no national ID system's operation or deduplication; kiosk biometric confirmation is not stated to stop double enrolment."}}}
+}}

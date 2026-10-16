@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-10-digital-id-trust-services-draft-law--biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update, citing the government, says a biometric ID card system is currently in place in Algeria.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "biometric ID card system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Biometric Update, citing the government, says the council of ministers approved a draft law on digital identity, with the ID system to be introduced linked to the biometric ID card system.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric ID card system",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "digital ID (draft law)",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,142 @@
+{
+ "slug": "2024-10-08 Central African Republic in full biometric voter registration preparations",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question; the document is about voter registration."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports national ID cards are issued in Central African Republic, but only in the capital because of insecurity, with an enrolment centre opened in Bambari.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNI",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNI (national ID card)",
+       "country_label": "CAF",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

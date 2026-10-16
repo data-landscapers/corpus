@@ -1,0 +1,60 @@
+{
+ "slug": "2026-09-11-business-focus-nira-new-national-ids-fail-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NIRA's Executive Director told the COSASE committee that MTN was the first partner onboarded to the new production system and that a client interacting with MTN succeeds, while another operator may fail; the article ties the new IDs' failure to SIM registration to partners' incomplete connection.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "SIM registration (MTN Uganda) against NIRA data-exchange module"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "NIRA says it began a module for exchange of information with partners on 31 March 2026 and that other partners, including some banks and telecoms, are onboarding as they develop on their side; the article reports new IDs not working yet for SIM registration, banks and driving permits.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "NIRA information-exchange module"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration (MTN Uganda) against NIRA data-exchange module",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "NIRA information-exchange module",
+   "owner": "MTN Uganda",
+   "tiers": ""
+  },
+  {
+   "system": "Bank and telecom partner connections to NIRA information-exchange module",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "NIRA information-exchange module",
+   "owner": "partner banks and telecoms",
+   "tiers": ""
+  },
+  {
+   "system": "Driving permit application",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NIRA information-exchange module",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-20-maposte-app-postal-digital-id-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNPP / NNI",
+   "country_label": "Cote d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "MaPoste",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI and La Poste de Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated on this question."
+}

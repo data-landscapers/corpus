@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Liberia has signed a $54 million agreement with OSD for a national identity infrastructure upgrade that still requires parliamentary approval, while national ID issuance has been suspended since June 2025.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

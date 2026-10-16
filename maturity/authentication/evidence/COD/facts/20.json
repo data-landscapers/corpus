@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-cod-oeildafrique-rdc-pass-trident-concession-vingt-ans",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Oeil d'Afrique reports that RDC-PASS, a digital identifier meant to provide biometric authentication for SIM registration, unified access to administrative platforms and automated customer identity checks, was activated on 13 June 2026 under a 20-year public-private partnership, with 50 enrolment agents trained on 15 September 2026 and a pilot phase in Kinshasa to follow.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "COD",
+   "class": "authentication",
+   "platform": "Trident Digital Tech",
+   "owner": "Government of the DRC (public-private partnership)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

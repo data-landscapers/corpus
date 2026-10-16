@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-zwe-civil-registry-computerise-sub-offices",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Civil Registry Department issues birth and death certificates and national identity cards and is custodian of the national citizens' database, so one body holds both.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "national identity card",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Biometric Update reports RDC-Pass was launched as a national digital identity platform, implemented through a 20-year PPP signed June 2025 with Trident Digital Tech DRC Africa SAS and valued at $97.1 million by the Ministry of Planning, with a phased rollout beginning with technical audits and pilot testing.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "RDC-Pass",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "idsystem",
+   "platform": "Trident Digital Tech DRC Africa SAS",
+   "owner": "Government of DRC (20-year PPP with Trident)",
+   "tiers": "digital identity; complements physical documents"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [{"system": "SudaPass", "country_label": "Sudan", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}], "note": "No civil register to ID link is stated."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Who operates and maintains SudaPass is not stated."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Bank use is a private service, not a public register."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "SudaPass, the national digital identity, is in use: Omdurman National Bank became the first bank to activate the link, verifying customers' identity with it, per SUNA.", "as_of": "2026-09-26", "date_precision": "day", "system": "SudaPass", "class": "idsystem"}], "systems": [{"system": "SudaPass", "country_label": "Sudan", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}], "note": ""}}}
+}}

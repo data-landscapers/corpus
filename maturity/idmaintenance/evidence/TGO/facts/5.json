@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-27-biometricupdate-togo-6m-niu-mosip",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "Togo's national digital ID system is MOSIP-based, an open-source platform, under a 2021 MoU; an Atos and Idemia consortium implements mostly the technical aspects.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NIU / MOSIP-based national digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU / MOSIP-based national digital ID",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": "biometric card with QR code"
+  }
+ ],
+ "note": ""
+}

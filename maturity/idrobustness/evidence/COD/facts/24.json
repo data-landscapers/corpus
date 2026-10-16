@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-16-gouvernement-relance-carte-identite-onip-actualite",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ACTUALITE.CD, citing the Interior minister to the Council of Ministers on 14 November 2025, says ONIP is preparing to restart identification operations, starting in pilot province Kinshasa, with a biometric national card planned for 2026.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "ONIP national identification",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national identification",
+   "country_label": "DR Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

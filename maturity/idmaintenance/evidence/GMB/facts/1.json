@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID card (Semlex contract)",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": "GID says Semlex-contract servers remain in The Gambia and the data is accessible, but who operates and maintains the system is not stated."
+}

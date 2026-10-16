@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "several",
+   "value": "several",
+   "fact": "The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management, three main registers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National ID",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-29-uga-nilepost-kamuntu-identity-foundation-nira-expo-opens",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Figures presented at NIRA's expo and cited by Minister Kamuntu put about 36.2 million Ugandans identified, approximately 78.8% of the population, which is over a third.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "Figures presented at NIRA's expo and cited by Minister Kamuntu put about 36.2 million Ugandans identified, approximately 78.8% of the population, which is over two-thirds.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,13 @@
+# Angola
+
+## Digital id from birth
+
+**Number given at birth.** [Angop reports newborn registration at the Mbanza Kongo maternity leads to issue of the first Bilhete de Identidade, under the Nascer com Registo project, since October 2025](<https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/>). [Angola says its civil registration process includes assigning the Numero Unico do Cidadao (NUC), described as the structuring element enabling the identity card, from the first weeks of life; the document describes this as part of a phased target architecture](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-angola.pdf>). [Angola's Justice Minister says the second phase of the universalisation plan provides for issuing the BI at birth in maternity hospitals with civil registration services](<https://angop.ao/noticias/politica/impressao-do-bi-abrange-todas-as-provincias-do-pais/>).
+
+**Given nationally.** No source held since October 2023 says every registered birth across the country receives the number. The nearest held fact: [the one given above](<https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/>).
+
+**All births registered.** No source held since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/>).
+
+***Noted, not assessed***. [Bilhete de Identidade (BI)](<https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html>); [Bilhete de Identidade](<https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/>).
+
+***Not held***. No source held since October 2023 says every registered birth across the country receives the number.

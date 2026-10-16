@@ -1,0 +1,105 @@
+{
+ "slug": "2026-10-02-zaf-biometricupdate-digital-id-prototype-first-credential",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 14.7 million holding only a Green ID book, not a count of people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on who operates or owns the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on registers keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Home Affairs says the Smart ID card is in issue and 515 bank branches take replacement applications, 822,500 people having used the service (Minister Schreiber).",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Smart ID card",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The minister says a working prototype of the smartphone digital ID is built, the first credential was issued to him at the demonstration, and pilot work is underway.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "MyMzansi digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart ID card",
+       "country_label": "South Africa",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      },
+      {
+       "system": "Green ID Book",
+       "country_label": "South Africa",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": "production ends 31 March 2027"
+      },
+      {
+       "system": "MyMzansi digital ID",
+       "country_label": "South Africa",
+       "class": "idsystem",
+       "platform": "MyMzansi wallet",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

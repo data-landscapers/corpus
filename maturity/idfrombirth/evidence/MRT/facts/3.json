@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national de la population",
+   "country_label": "MRT",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": "biometric enrolment, permanent public service"
+  }
+ ],
+ "note": "Enrolment is described as permanent, but no number given at birth registration is stated."
+}

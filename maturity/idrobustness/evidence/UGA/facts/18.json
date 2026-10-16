@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-29-uga-nilepost-kamuntu-identity-foundation-nira-expo-opens",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Nile Post reports that NIRA has identified about 36.2 million Ugandans, 78.8% of the population, in the national identification system, per figures presented at its expo.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

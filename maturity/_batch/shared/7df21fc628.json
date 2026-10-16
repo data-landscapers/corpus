@@ -1,0 +1,89 @@
+{
+ "slug": "2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Technical trials of Level 3 biometric digital identity had begun with the Central Bank of Libya and a number of banks, ahead of launch and integration, per the General Information Authority.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Digital Identity Management System for Citizens",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "assurance",
+       "value": "certified",
+       "fact": "The Digital Identity Management System for Citizens has a Level 3 identity based on biometric data, described as the highest level of digital verification.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Digital Identity Management System for Citizens",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Identity Management System for Citizens",
+       "country_label": "Libya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Unity Government / GIA",
+       "tiers": "Level 3 biometric"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

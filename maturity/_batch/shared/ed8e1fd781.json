@@ -1,6 +1,88 @@
-{"slug": "2026-01-01-mot-du-coordonnateur-wuri-niger", "studies": {
-"dataexchange": {"countries": {"NER": {"facts": [], "systems": [], "note": "The page names interoperability of the ID system with public and private systems as a project component; it describes no exchange platform."}}},
-"idverification": {"countries": {"NER": {"facts": [], "systems": [
-{"system": "WURI-Niger foundational ID (fID, NIU)", "country_label": "Niger", "class": "other", "platform": "", "owner": "Ministry of the Interior", "tiers": ""}
-], "note": "The page gives interoperability of the fID with functional systems as a project aim and names no system that checks people against it."}}}
-}}
+{
+ "slug": "2026-01-01-mot-du-coordonnateur-wuri-niger",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "fID (NIU unique identifier system)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Ministry of the Interior (WURI-Niger project)",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a low rate of holding identity documents is stated, with no figure."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Unique number planned for each individual; no number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Operator and ownership not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The WURI-Niger coordinator says the World Bank-financed project, under the Interior ministry, is setting up a system giving each person a unique identifier number (NIU), and procurement of the national biometric identification information system is being prepared.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "fID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fID (NIU unique identifier system)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "Ministry of the Interior (WURI-Niger project)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

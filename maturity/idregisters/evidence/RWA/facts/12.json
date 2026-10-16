@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-26-govt-sets-2027-deadline-digital-id-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Agency (NIDA)",
+   "tiers": "SDIN, token, SDID card"
+  }
+ ],
+ "note": "Banks, hospitals and telecoms are expected to use SDID authentication by 2027, but no public register keyed on the number is stated."
+}

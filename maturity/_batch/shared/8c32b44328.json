@@ -1,0 +1,68 @@
+{
+ "slug": "2026-06-23-burundi-studies-india-stack-digital-id-payments",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploratory talks with India on India Stack are reported; no service, register or system is stated."
+    }
+   }
+  }
+ }
+}

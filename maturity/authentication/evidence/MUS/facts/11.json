@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Biometric Update says Mauritius launched a mobile digital ID system in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile digital ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Biometric Update says Mauritius launched a mobile digital ID system in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile digital ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile digital ID",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "mobile",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

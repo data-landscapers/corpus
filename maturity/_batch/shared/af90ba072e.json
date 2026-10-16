@@ -1,0 +1,131 @@
+{
+ "slug": "2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenCRVS Unified Digital Civil Registration System",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "OpenCRVS",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a civil registration system only; it states no ID number, ID link, coverage or ID system."
+    }
+   }
+  }
+ }
+}

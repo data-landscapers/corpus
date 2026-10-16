@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGA",
+   "country_label": "Sao Tome and Principe",
+   "class": "other",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  },
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Sao Tome and Principe",
+   "class": "other",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  }
+ ],
+ "note": "The link described is civil registry to electoral roll, not civil register to ID system."
+}

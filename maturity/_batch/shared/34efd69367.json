@@ -1,0 +1,98 @@
+{
+ "slug": "2026-10-09-ago-pti-angolaid-testes",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Tech By Tech, a private company, says its AngolaID digital identity wallet and verification service is available on Google Play and the App Store in test mode.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "AngolaID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Tech By Tech's CEO says AngolaID has been in operation since 2024 and offers API and SDK verification, authentication and liveness checks to institutions.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "AngolaID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AngolaID",
+       "country_label": "Angola",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Tech By Tech (private)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a private service, not the state ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on public registers."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "AngolaID is a private service that says it neither issues the Bilhete de Identidade nor replaces official documents; no state ID system is described."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "slug": "2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "Under the Registration of Persons Act 2015 as amended in 2024, NIRA holds the National Identification Register and also handles births, deaths and, since 2024, marriage registration.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Register / national ID card",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "About 10.9 million Ugandans remain off the register; against the 51.4 million population given, about 40.5 million are enrolled, 79% (computed, not stated).",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "twothirds",
+       "fact": "About 10.9 million Ugandans remain off the register; against the 51.4 million population given, about 40.5 million are enrolled, 79% (computed, not stated).",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Register / national ID card",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIRA, the national authority, operates the register and card issuance, with 418 of 571 posts filled.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Register / national ID card",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "NIRA says the driving-permit system is still being integrated with the new identification platform, with an interim workaround in place.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Register / national ID card",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIRA, mandated to maintain the National Identification Register, has printed about 15.4 million new ID cards and issued about 10 million, its executive director told Parliament.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "National Identification Register",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Register / national ID card",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

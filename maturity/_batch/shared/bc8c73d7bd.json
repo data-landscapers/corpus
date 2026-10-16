@@ -1,0 +1,88 @@
+{
+ "slug": "2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Al-Madina is named as the company making the card, but no operating or maintenance role is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Journal de Bangui reports that Al-Madina's team is enrolling applicants for the secure national identity card in Birao, capturing biometric data, photos and personal information, after Bouar and Berberati.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "carte nationale d'identite",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte nationale d'identite",
+       "country_label": "Central African Republic",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "NIMC's Alvan Ikoku said about 63 government agencies had integrated with NIMC, including bodies in examinations, student finance, consumer credit and health insurance, through its API for verification services; the story dates it to the 2026-10-14 briefing.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC identity verification API"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The story names integrated agencies in examinations, student finance, consumer credit and health insurance as part of the roughly 63 connected to NIMC, per NIMC at the 2026-10-14 briefing.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC identity verification API"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC identity verification API",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "API offered by NIMC to agencies and licensed partners for verification",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

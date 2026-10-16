@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIMC's Alvan Ikoku says the identity database is hosted in Nigeria and managed by NIMC employees, not vendors.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC national identity database",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "Ikoku says NIMC maintains its core database internally with its own staff.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NIMC national identity database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

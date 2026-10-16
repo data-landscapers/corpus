@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-21-sudan-sudapass-terms-and-conditions",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The terms govern the Sudanese Digital Identity smartphone application and platform, whose digital signatures, issued under a certified digital identity, are legally equal to handwritten ones under Article 8 of the 2007 Electronic Transactions Act.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Digital identity is issued through certifiers licensed by the National Electronic Authentication Authority and gives access to governmental and commercial services.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The Sudanese Digital Identity application for smartphones lets a user hold an account and sign electronic transactions that are valid and binding with evidential power before courts.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Digital Identity (SUDAPASS)",
+   "country_label": "Sudan",
+   "class": "authentication",
+   "platform": "smartphone application and national platform",
+   "owner": "National Electronic Authentication Authority",
+   "tiers": "three trust levels: basic, intermediate, high"
+  }
+ ],
+ "note": ""
+}

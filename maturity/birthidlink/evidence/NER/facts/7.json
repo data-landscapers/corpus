@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Niger's director general of territorial administration announced reforms creating the ANEI agency for registration and identification of natural persons, a National Population Register and a National Civil Status Register, with secure interconnection of the systems.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "ANEI / Registre National de la Population",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "WURI-Niger",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

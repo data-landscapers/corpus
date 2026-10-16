@@ -1,0 +1,236 @@
+{
+ "slug": "2025-06-23-gabon-legal-digital-id-three-projects",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "World Bank-funded workshops opened on 23 June 2025 to plan implementation of the Systeme national d'identite digitale (SNID) under the Gabon Digital programme, with a roadmap to be drawn before projects start.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "Systeme national d'identite digitale (SNID)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Gabon Digital programme plans to interconnect the biometric persons register, the digital ID system and the national civil registry centre through a common biometric referential, per the ANINF and Interior Ministry officials.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "Centre national d'etat civil (CNEC)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      },
+      {
+       "system": "Centre national d'etat civil (CNEC)",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "Says many Gabonese, notably rural, lack ID documents but gives no count or share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      },
+      {
+       "system": "Centre national d'etat civil (CNEC)",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "No statement answering this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "No statement on who operates or owns the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "Names CNAMGS and CNSS among existing systems to be surveyed but says no register is keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Gabon opened workshops on 23 June 2025 to start implementing extension of the biometric persons register (RBPP) and a national digital ID system (SNID), financed by the World Bank, with the roadmap a precondition for projects to begin.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biometrique des personnes physiques (RBPP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Gabon (Ministry of Interior)",
+       "tiers": ""
+      },
+      {
+       "system": "Systeme national d'identite digitale (SNID)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANINF / Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

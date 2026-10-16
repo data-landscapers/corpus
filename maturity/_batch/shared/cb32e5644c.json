@@ -1,0 +1,79 @@
+{
+ "slug": "2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "APC says Eswatini's National Identification Card, begun in 2003, carries a Personal Identity Number and is centrally stored by the Ministry of Home Affairs, but does not yet meet the criteria for digital identification.",
+       "as_of": "2024-07-22",
+       "date_precision": "day",
+       "system": "National Identification Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Card with Personal Identity Number (PIN)",
+       "country_label": "Eswatini",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

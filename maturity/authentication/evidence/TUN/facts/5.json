@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-27-africanmanager-national-business-register-digital",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The National Business Register's director general announced that from 1 July 2026 access to its fully digital services will require a digital identity, for individuals and companies and for regulated professions such as lawyers and chartered accountants.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "National Business Register (RNE) digital platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Business Register (RNE) digital platform",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "electronic platform",
+   "owner": "National Business Register",
+   "tiers": ""
+  },
+  {
+   "system": "Online tax identification card issuance",
+   "country_label": "Tunisia",
+   "class": "",
+   "platform": "",
+   "owner": "General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",
+   "tiers": ""
+  },
+  {
+   "system": "digital identity",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-29-lepaystchad-gratuite-jugement-suppletif-etat-civil",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A birth registration campaign with no stated link to an ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A birth certificate campaign; no ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

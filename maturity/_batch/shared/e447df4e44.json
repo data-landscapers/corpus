@@ -1,0 +1,9 @@
+{"slug": "2026-07-30-cote-divoire-digital-identity-connected-not-identified", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [{"system": "RNPP / NNI", "country_label": "Côte d'Ivoire", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": "The op-ed names no authentication service."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No exchange between civil register and ID system is described."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "ONECI's director-general is quoted as saying 11 million people hold the NNI; against 32.7 million population that is about 34%, computed here, and the article says the population exceeds the figure.", "as_of": "2026-07-30", "date_precision": "day", "system": "RNPP / NNI", "class": "idsystem"}], "systems": [{"system": "RNPP / NNI", "country_label": "Côte d'Ivoire", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on a number given at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on who operates or maintains the system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No public register keyed on the NNI is named."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The RNPP holds citizens' biometric and civil data and assigns each person a national identification number (NNI), according to the article.", "as_of": "2026-07-30", "date_precision": "day", "system": "RNPP / NNI", "class": "idsystem"}], "systems": [{"system": "RNPP / NNI", "country_label": "Côte d'Ivoire", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}}
+}}

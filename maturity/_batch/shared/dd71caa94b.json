@@ -1,0 +1,9 @@
+{"slug": "2026-07-18-matd-oneci-modernisation-etat-civil-numerisation-archives", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing stated on authentication services."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "The Office National de l'Etat Civil et de l'Identification (ONECI), under MATD, ran a regional workshop at Kindia on 12-18 July 2026 on the civil-status and identification laws L/2023/019 and L/2023/020 while continuing digitisation and indexing of civil-status archives; one office is responsible for both civil status and identification.", "as_of": "2026-07-18", "date_precision": "day", "system": "ONECI", "class": "crvslink"}], "systems": [{"system": "ONECI", "country_label": "Guinea", "class": "other", "platform": "", "owner": "MATD", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No statement on who operates or maintains an ID system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No ID system in service, being built or certified is described; the document is about civil-status laws and archive digitisation."}}}
+}}

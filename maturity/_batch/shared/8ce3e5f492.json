@@ -1,0 +1,70 @@
+{
+ "slug": "2025-06-28-digital-eswatini-project-pid",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Register (NPR)",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": "Says the digital ID must be supported by the Population Register, which is mostly manual paper records; no exchange with the civil register is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Register (NPR)",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": "Gives birth registration rates of about 50 percent but no ID number at birth."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The World Bank concept note for Digital Eswatini (US$65m) proposes deploying digital ID as a DPI building block and buying biometric equipment for government e-services, calling digital ID currently underdeveloped.",
+       "as_of": "2025-06-28",
+       "date_precision": "day",
+       "system": "Digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register (NPR)",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

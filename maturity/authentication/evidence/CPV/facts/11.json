@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-cartao-nacional-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Identification Card carries an electronic chip that, once its digital functions are activated, can be used for secure electronic authentication and digital signature, per the Consular Portal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "chip card",
+   "owner": "State of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

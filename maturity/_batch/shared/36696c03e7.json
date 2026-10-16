@@ -1,0 +1,148 @@
+{
+ "slug": "2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Civil Service Agency uses the NIR's e-verification portal under a May 2024 MOU, per NIR media relations head Sargbe.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "NIR e-verification portal",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System (NBIS)",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The under-five enrolment is into the ID system; no exchange with the civil register is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "NIR says it had enrolled 740,000 people by December 2024, about 13% of Liberia's 5.7 million (computed from the population given).",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "NBIS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System (NBIS)",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Under-five enrolment is a UNICEF pilot into the ID system; it is not tied to birth registration or a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Civil Service Agency integrates National Identification Numbers into government employees' ID cards through the NIR portal, and Sargbe says this has helped remove ghost names from the payroll.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "NIR e-verification portal",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System (NBIS)",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NIR enrols people into the National Biometric Identification System and had enrolled 740,000 by December 2024.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "NBIS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System (NBIS)",
+       "country_label": "Liberia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The NTRA, with ITIDA, CyShield and licensed e-signature companies, launched a biometric verification and electronic signature system for remote telecoms services, running in a pilot phase that licensed mobile operators will make available gradually in their apps.", "as_of": "2026-08-26", "date_precision": "day", "system": "biometric verification and e-signature system", "class": "authentication"}], "systems": [{"system": "NTRA biometric verification and e-signature system", "country_label": "Egypt", "class": "authentication", "platform": "integration platform connected to the Interior Ministry's Civil Status Sector", "owner": "NTRA", "tiers": "pilot"}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document links a verification platform to the Civil Status Sector, not the civil register to an ID system."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on who operates or owns a national ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on public registers keyed on the national ID number."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an initial foundation for a future integrated digital identity system is mentioned; no national ID system is described."}}}
+}}

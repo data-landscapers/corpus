@@ -1,0 +1,164 @@
+{
+ "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The 2026 MICSTI-UNICEF work plan continues deployment of MOSIP-based infrastructure to enable secure authentication across government and private-sector services, including mobile-based verification.",
+       "as_of": "2026-02-26",
+       "date_precision": "day",
+       "system": "MOSIP-based national digital identity ecosystem",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "No enrolment count or share is given."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "The 2026 work plan continues deployment of digital public infrastructure based on the open-source MOSIP platform for the national digital identity ecosystem.",
+       "as_of": "2026-02-26",
+       "date_precision": "day",
+       "system": "MOSIP-based national digital identity ecosystem",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The 2026 work plan supports development of an integrated national digital identity ecosystem, with biometric registration and continued MOSIP-based deployment.",
+       "as_of": "2026-02-26",
+       "date_precision": "day",
+       "system": "MOSIP-based national digital identity ecosystem",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "Civil registration is named alongside digital identity but no exchange of records is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MOSIP-based national digital identity ecosystem",
+       "country_label": "LSO",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "MICSTI",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth is stated."
+    }
+   }
+  }
+ }
+}

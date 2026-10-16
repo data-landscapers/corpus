@@ -1,33 +1,88 @@
 {
-  "slug": "2026-07-18-zwe-crvs-health-integration-egmrg-presentation",
-  "studies": {
-    "healthexchange": {
-      "countries": {
-        "ZWE": {
-          "facts": [
-            {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
-             "fact": "In a presentation of 18 July 2026 the Civil Registry Department states it is implementing a secure interoperability platform to exchange birth and death notifications with the Ministry of Health and Child Care, with API/middleware design due Q4 2026 and a three-province pilot in Q1-Q2 2027.",
-             "as_of": "2026-07-18", "date_precision": "day",
-             "system": "CRVS-Health interoperability platform", "class": "exchange"}
-          ],
-          "systems": [
-            {"system": "CRVS-Health interoperability platform", "country_label": "Zimbabwe", "class": "exchange", "platform": "", "owner": "Civil Registry Department; Ministry of Health and Child Care", "tiers": ""},
-            {"system": "National Population Register", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Civil Registry Department", "tiers": ""}
-          ],
-          "note": ""
-        }
-      }
-    },
-    "socialexchange": {
-      "countries": {
-        "ZWE": {
-          "facts": [],
-          "systems": [
-            {"system": "CRVS-Health interoperability platform", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Civil Registry Department; Ministry of Health and Child Care", "tiers": ""}
-          ],
-          "note": "Social benefit enrolment appears only as a general benefit of interoperability; no social protection system or link is stated for Zimbabwe."
-        }
-      }
+ "slug": "2026-07-18-zwe-crvs-health-integration-egmrg-presentation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
     }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Zimbabwe's Civil Registry Department says it has introduced automated validation and synchronization with the National Population Register, and a pilot of CRVS-Health interoperability in 3 provinces is planned for Q1-Q2 2027.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "",
+       "owner": "Civil Registry Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
   }
+ }
 }

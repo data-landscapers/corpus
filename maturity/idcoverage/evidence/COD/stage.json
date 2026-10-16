@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "coverage",
+   "stage": "1",
+   "share": "below",
+   "everyone": "",
+   "births": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-001",
+   "gaps": "No source held since October 2023 says: does a third of the population hold a national id.",
+   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
+  }
+ ]
+}

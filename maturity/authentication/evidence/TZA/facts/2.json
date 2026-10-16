@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The NCFI Annual Financial Inclusion Report 2025, as reported, says the NIDA database is connected with 138 public and private institutions, improving e-KYC processes for banks, insurance companies and social security institutions.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-KYC against the NIDA database"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "class": "authentication",
+   "fact": "The report names banks, insurance companies and social security institutions as using NIDA-connected e-KYC processes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-KYC against the NIDA database"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC against the NIDA database",
+   "country_label": "TZA",
+   "class": "other",
+   "platform": "NIDA database",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

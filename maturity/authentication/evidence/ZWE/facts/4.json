@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-10-zwe-rbz-mobile-money-civil-registry-integration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "The RBZ Governor said validation of national ID numbers against the Civil Registry is already in place for mobile money KYC.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Civil Registry integration for mobile money KYC"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "The RBZ said it is working with State agencies towards 100 percent Civil Registry integration of all mobile financial services, with operators required to comply by 30 June 2026.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Civil Registry integration for mobile money KYC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registry integration for mobile money KYC",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Reserve Bank of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

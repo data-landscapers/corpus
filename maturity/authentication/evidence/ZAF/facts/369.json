@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-12-schreiber-digital-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Banks use the Home Affairs Online Verification Service, upgraded on 1 July 2025 to cut the failure rate below 1%, with Capitec, FNB and Standard Bank signed up to verify customers against the department's database in real time.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Online Verification Service (OVS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Verification Service (OVS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2026-08-23-sudantribune-bank-of-sudan-sudapass-data-update",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Banks are private; no public register keyed on the ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Sudan's Central Bank said on 23 August 2026 that registering on the SudaPass national digital identity platform establishes identity.",
+       "as_of": "2026-08-23",
+       "date_precision": "day",
+       "system": "SudaPass",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SudaPass",
+       "country_label": "SDN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Communications and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

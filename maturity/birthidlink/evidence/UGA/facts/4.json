@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-07-monitor-21-million-transferred-new-nira-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identification and Registration Authority (NIRA) new ID system",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Hospital registration centres are NIRA's; no exchange with a civil register is stated."
+}

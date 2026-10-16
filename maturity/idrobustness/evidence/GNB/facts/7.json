@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-09-semlex-inauguration-centre-enrolement-sao-domingos",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Semlex says its subsidiary opened a third biometric ID enrolment centre in Cacheu region (Sao Domingos) on 26 February 2026, with more planned at Bolama and Bula.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Guinea-Bissau biometric ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

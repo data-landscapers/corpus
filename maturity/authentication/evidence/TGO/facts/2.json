@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-23-togo-jo-decret-2024-071-identification-abonnes",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "class": "authentication",
+   "fact": "Décret n° 2024-071/PR of 26 December 2024 requires telecom operators to record the ANID-issued NIU of every national and resident subscriber at SIM registration and to see the ANID identification card, giving existing operators 12 months from signature to comply; the text states no query of ANID's database.",
+   "as_of": "2024-12-26",
+   "date_precision": "day",
+   "system": "Identification systématique et obligatoire des abonnés (SIM registration)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identification systématique et obligatoire des abonnés (SIM registration)",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom operators, regulated by ARCEP",
+   "tiers": ""
+  },
+  {
+   "system": "NIU / carte d'identification unique",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Nationale d'Identification (ANID)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

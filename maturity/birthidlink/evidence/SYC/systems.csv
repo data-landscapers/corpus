@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SYC,SeyID,Seychelles,other,WISeID (WISeKey),Government of Seychelles,,2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles
+SYC,SeyID,Seychelles,other,SeyID app and portal,Government of Seychelles (DICT),,2024-01-01-seyid-seychelles-digital-identity-platform
+SYC,National Identity Card (NIN),Seychelles,other,,Department of Immigration and Civil Status,physical card,2026-01-01-ics-national-identity-card
+SYC,SeyID virtual ID,Seychelles,other,SeyID app,,virtual ID,2026-01-01-ics-national-identity-card
+SYC,National Population Database / Identity Card,Seychelles,other,,Department of Immigration and Civil Status,,2026-01-01-ics-civil-status-division

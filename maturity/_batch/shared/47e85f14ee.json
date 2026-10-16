@@ -1,0 +1,9 @@
+{"slug":"2026-09-07-ethiopia-fayda-proof-of-identity-foreign-nationals","studies":{
+"authentication":{"countries":{"ETH":{"facts":[],"systems":[{"system":"Fayda","country_label":"Ethiopia","class":"idsystem","platform":"","owner":"National ID Program (NIDP)","tiers":""}],"note":"Page lists registration documents only; no authentication service stated."}}},
+"birthidlink":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Birth certificate is listed only as an accepted proof of identity; no register exchange stated."}}},
+"idcoverage":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Who operates or owns the system is not stated."}}},
+"idregisters":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Taxpayer ID and Election ID are accepted proofs only; no register keyed on the Fayda number stated."}}},
+"idrobustness":{"countries":{"ETH":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The National ID Program's own page lists the documents accepted for Fayda registration, including a witness route through an already registered resident and a USSD line 9779.","as_of":"2026-09-07","date_precision":"day","system":"Fayda","class":"idsystem"}],"systems":[{"system":"Fayda","country_label":"Ethiopia","class":"idsystem","platform":"","owner":"National ID Program (NIDP)","tiers":""}],"note":""}}}
+}}

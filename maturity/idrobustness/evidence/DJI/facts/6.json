@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-09-mobile-id-national-digital-identity-forum-lanation",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "La Nation reports the official launch of the Mobile ID project, a smartphone solution meant to give citizens their biometric identity digitally, by the Interior Ministry with TO7 Network.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Djibouti",
+   "class": "authentication",
+   "platform": "smartphone app",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

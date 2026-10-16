@@ -1,0 +1,209 @@
+{
+ "slug": "2026-01-20-maposte-app-postal-digital-id-biometricupdate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Biometric Update reports MaPoste, launched by ONECI and La Poste, is linked with the biometric RNPP and lets NIN holders access services, with digital post boxes tied to the NIN.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "MaPoste",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update describes the RNPP as ONECI's biometric register of natural persons, to which MaPoste is linked.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "RNPP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP / NNI",
+       "country_label": "Cote d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "MaPoste",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI and La Poste de Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

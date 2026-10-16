@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-14-ken-techtrendske-electronic-birth-notifications-three-counties",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Hospital-to-civil-registration notification only; no exchange with the ID system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The article says earlier government announcements linked newborn registration to the planned Unique Personal Identifier (UPI), without dates or detail.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Unique Personal Identifier (UPI)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unique Personal Identifier (UPI)",
+       "country_label": "Kenya",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

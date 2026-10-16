@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-anats-tchad-site-officiel-nni-sigpts",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ANATS, a public establishment created by Ordonnance N°001/PR/2016, states it is responsible for producing, managing and securing identity cards and other secure titles, and that it set up the SIGPTS.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "SIGPTS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

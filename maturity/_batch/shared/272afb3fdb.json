@@ -1,0 +1,9 @@
+{"slug": "2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Biometric Update reports Benin's ePass app lets citizens abroad register with their national digital ID and consular number and submit fingerprint and face biometrics for subsequent authentication.", "as_of": "2025-10-24", "date_precision": "day", "system": "ePass", "class": "authentication"}], "systems": [{"system": "ePass", "country_label": "Benin", "class": "other", "platform": "", "owner": "Government of Benin", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No count or share of people holding the ID is given."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update says teams were dispatched abroad in 2023 to issue digital IDs to Beninese living abroad, and ePass registration uses the national digital ID.", "as_of": "2023-07", "date_precision": "month", "system": "national digital ID", "class": "idsystem"}], "systems": [{"system": "national digital ID", "country_label": "Benin", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

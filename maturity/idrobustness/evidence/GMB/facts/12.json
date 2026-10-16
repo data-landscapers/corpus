@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-06-gmb-observer-gid-court-cannot-access-semlex-id-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Semlex biometric ID system",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Semlex",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes the former Semlex system's data access and handover, not whether it issues unique credentials, checks biometrics or is certified."
+}

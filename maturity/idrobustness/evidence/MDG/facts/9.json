@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-last-mile-civil-registration-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Madagascar's PRODIGY ID enrolment launched in April 2026 and has enrolled more than 3.25 million people, with millions able to obtain an ID card, per Biometric Update citing a World Bank blog.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "PRODIGY national ID enrolment",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PRODIGY national ID enrolment",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "Laxton enrolment equipment",
+   "owner": "Government of Madagascar, World Bank funded",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

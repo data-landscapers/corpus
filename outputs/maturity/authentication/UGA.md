@@ -1,0 +1,13 @@
+# Uganda
+
+## Authentication
+
+**Authentication service.** [NITA-U said the UGHub integration platform lets institutions verify citizens' identities against NIRA's national identification registry in real time](<https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026>). [Internal Affairs Minister Ephraim Kamuntu launched the integration of the National Identification and National Tax Identification systems at the first Identity Expo and Symposium in Kololo](<https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems>). [URA's Christine Mirembe said government will phase out the TIN for individuals and replace it with the NIN, and that banks and microfinance institutions will be able to use the NIN to verify a trader's tax compliance history](<https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026>).
+
+**Used across services.** [The NIRA Executive Director named the SIM card (telecoms), financial services and taxation as areas where the NIN is recognised, and the expo is to show how identity is already used across sectors](<https://nilepost.co.ug/news/369498/nira-to-host-national-id-expo-as-millions-remain-outside-register>). [The MP's statement names banking and telecoms (SIM registration) as sectors requiring QR-code verification of the national ID](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>).
+
+**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://nilepost.co.ug/news/369498/nira-to-host-national-id-expo-as-millions-remain-outside-register>).
+
+***Noted, not assessed***. [SIM registration](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>); [Bank customer verification](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>); [National ID QR-code verification](<https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/>); [URA taxpayer register linked to the National ID (NIN)](<https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems>); [National ID (NIRA)](<https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems>); [SIM registration (MTN Uganda) against NIRA data-exchange module](<https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/>).
+
+***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

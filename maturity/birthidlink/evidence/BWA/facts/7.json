@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-01-bwa-2026-0400-0411",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Botswana Committee of Supply speech for 2026/2027 says one provision of P108,505,050 for the Department of Civil and National Registration covers maintenance of both the Births and Deaths Registration System and the National Identification System, so one department holds both.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Births and Deaths Registration System; National Identification System",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification System (NIS)",
+   "country_label": "Botswana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Civil and National Registration",
+   "tiers": ""
+  },
+  {
+   "system": "Births and Deaths Registration System (BDRS)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Civil and National Registration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

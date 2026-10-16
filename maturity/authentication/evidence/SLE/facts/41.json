@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NCRA Director General Massaquoi said on 10 August 2026 that NCRA has established an identity verification platform in use.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "NCRA identity verification platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The same NCRA identity verification platform is used by institutions including financial and telecommunications companies, per the Director General.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "NCRA identity verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

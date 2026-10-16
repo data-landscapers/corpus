@@ -1,0 +1,131 @@
+{
+ "slug": "2026-09-16-nam-nampa-government-targets-legal-identity-for-all-by-2030",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Namibia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a commitment that an e-ID initiative forms part of efforts; no build or procurement stated; rest paywalled."
+    }
+   }
+  }
+ }
+}

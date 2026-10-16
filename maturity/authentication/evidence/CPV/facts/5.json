@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "SNIAC published version 1.9.9 of its national ID card (CNI) middleware, whose SDK lets public or private services authenticate the holder, read their data and collect a digital signature, with front-office readers for counter services.",
+   "as_of": "2026-03-17",
+   "date_precision": "day",
+   "system": "SNIAC middleware (Cartão Nacional de Identificação)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC / Cartão Nacional de Identificação (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "authentication",
+   "platform": "card with middleware and SDK",
+   "owner": "SNIAC / DGRNI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

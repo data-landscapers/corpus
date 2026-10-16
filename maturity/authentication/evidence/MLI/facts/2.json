@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-20-lessor-sigrh-controle-biometrique-agents-etat",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "class": "authentication",
+   "fact": "Civil servants who had not validated their biometric physical check in the SIGRH payroll and HR system had to produce papers including the carte Nina, under a grace period from 8 September 2025 extended to 30 January 2026 (L'Essor).",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "SIGRH"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Refondation de l'Etat",
+   "tiers": ""
+  },
+  {
+   "system": "NINA",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSAEC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from idverification; no document opened"
+}

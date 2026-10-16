@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-gnb-ang-bolama-centro-producao-bilhete-identidade",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Justice Minister inaugurated an ID-card (BI) production centre in Bolama, the 18th issuance centre nationwide, run under the national civil identification directorate (ANG).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Guinea-Bissau",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGICRN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

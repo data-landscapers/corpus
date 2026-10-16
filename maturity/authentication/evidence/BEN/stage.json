@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "authentication",
+   "stage": "4",
+   "service": "inservice",
+   "reach": "several",
+   "remote": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-010;BEN-006",
+   "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
+  }
+ ]
+}

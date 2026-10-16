@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-03-rwanda-integrated-civil-registration-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The new civil registration system launched by MINALOC and the National Identification Agency has interoperable capabilities linking the national CRVS to the National Population Registry and the Health Information Management System.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Centralized and Integrated CRVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registry",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

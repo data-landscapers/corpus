@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-ghana-card-to-become-e-wallet-for-electronic-transactions-soon-nia-boss",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIA Executive Secretary Wisdom Kwaku Deku said the NIA has started registering children between six and 14 years for the Ghana Card and would soon extend registration to the North East Region.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "GHA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

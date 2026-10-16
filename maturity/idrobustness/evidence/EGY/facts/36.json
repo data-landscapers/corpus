@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-27-ahram-public-prosecution-electronic-criminal-record-enquiry-egypt",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Public Prosecution says its online service verifies the enquirer through the digital identity system, on records keyed to the national number.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Egypt digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

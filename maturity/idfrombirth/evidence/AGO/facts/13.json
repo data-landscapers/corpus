@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-impressao-do-bi-abrange-todas-as-provincias",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Angola's Justice Minister says the second phase of the universalisation plan provides for issuing the BI at birth in maternity hospitals with civil registration services.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

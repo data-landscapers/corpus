@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-20-som-hiiraan-national-id-1-5-million",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Somalia's National Identification and Registration Authority (NIRA) runs the registration and issuance of the national ID, which it launched as eAqoonsi in September 2023, says the Hiiraan report.",
+   "as_of": "2026-09-19",
+   "date_precision": "day",
+   "system": "eAqoonsi",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

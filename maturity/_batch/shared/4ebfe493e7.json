@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-26-nita-gedw-stakeholder-engagement",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ghana Electronic Document Wallet",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "PKI",
+       "owner": "NITA",
+       "tiers": ""
+      }
+     ],
+     "note": "The Ghana Electronic Document Wallet is only proposed (market engagement); not authorised, contracted or piloted."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil register and ID link stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number at birth stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "slug": "2026-08-18-liberia-ppp-digital-id-osd",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "Biometric Update says Liberia's national ID coverage is less than 15 percent of a population of more than five million.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "Under the proposed concession OSD would finance enrolment and card issuance, recover its investment over time and ultimately transfer the system to the government, per the NIR Executive Director.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "national ID (NIR)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The NIR has concluded consultations on a concession agreement with OSD, now headed to Parliament, ahead of a nationwide biometric enrolment drive for a new national ID system.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "national ID (NIR)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "Liberia",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": "",
+       "class": "idsystem"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

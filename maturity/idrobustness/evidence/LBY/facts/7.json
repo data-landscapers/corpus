@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-gia-ly-dnid-second-level-trial-phases",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Libya's General Information Authority launched pilot phases of the second level of the National Digital Identity System (LY-DNID) on 19 November 2025, adding citizen-facing direct identity verification with multiple authentication levels; direct citizen launch awaits technical preparations.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "LY-DNID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LY-DNID",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": "levels 1 and 2"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-21-techbuild-uganda-national-id-broken-qr-codes",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The article reports the Prime Minister's plan to expand NIRA's staff from 571 to 997 employees, three officers per district; NIRA itself acknowledged the QR code had not been integrated into its digital operational system.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{"slug":"2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec","studies":{
+"authentication":{"countries":{"COM":{"facts":[],"systems":[],"note":"Digital identity is named only as a project the data centre will support; no authentication service is described."}}},
+"birthidlink":{"countries":{"COM":{"facts":[],"systems":[],"note":"Nothing stated on civil register and ID links."}}},
+"idcoverage":{"countries":{"COM":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"COM":{"facts":[],"systems":[],"note":"Nothing stated on a number at birth."}}},
+"idmaintenance":{"countries":{"COM":{"facts":[],"systems":[],"note":"No ID system operation described."}}},
+"idregisters":{"countries":{"COM":{"facts":[],"systems":[],"note":"The agricultural registry is planned with no mention of the ID number."}}},
+"idrobustness":{"countries":{"COM":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"ANADEN states the national Data Center inaugurated on 19 May 2025 will support projects including digital identity.","as_of":"2025-05-19","date_precision":"day","system":"identité numérique","class":"idsystem"}],
+"systems":[{"system":"identité numérique","country_label":"Comoros","class":"idsystem","platform":"","owner":"ANADEN","tiers":""}],"note":""}}}
+}}

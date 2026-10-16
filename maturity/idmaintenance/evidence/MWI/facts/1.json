@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-mwi-nzika-wallet-laxton-biometric-contract",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "In October 2018 UNDP handed the source code of the National Registration and Identification System (NRIS) to the National Registration Bureau, giving the Bureau ownership of the system's core software, per Malawi24.",
+   "as_of": "2018-10",
+   "date_precision": "month",
+   "system": "NRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRIS",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

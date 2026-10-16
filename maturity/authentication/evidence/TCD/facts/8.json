@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-tchadinfos-enrolement-personnes-handicapees-anats-ndjamena-kousseri",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Numero national d'identification (NNI)",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "A QR code on a sectoral document is mentioned for quick authentication, but no online check or authentication service is described."
+}
