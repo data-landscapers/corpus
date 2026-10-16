@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: TZA
-ledger_rows: 72
+ledger_rows: 73
 not_held: 5
-record: 2240fc0d9fa2
+record: 32043bf5230d
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -687,6 +687,20 @@ Of 62.18 million passengers recorded through online ticketing in Tanzania's publ
 **[KCB, Zanzibar health fund expand healthcare access](https://ippmedia.co.tz/the-guardian/news/local-news/read/kcb-zanzibar-health-fund-expand-healthcare-access-2026-10-05-145433)** — The Guardian (Tanzania), 5 October 2026
 
 KCB Bank Tanzania and the Zanzibar Health Service Fund signed a memorandum of understanding on 5 October 2026. It covers member registration and enrolment, payment collection, banking and settlement services, and technology integration for the fund. No financial terms are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PAPSS access through a commercial bank</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBA launches pan-African payment system to ease cross-border transactions](https://www.thecitizen.co.tz/tanzania/news/national/uba-launches-pan-african-payment-system-to-ease-cross-border-transactions-5634430)** — The Citizen (Mwananchi Communications), 16 October 2026
+
+Claimed first Tanzanian bank on PAPSS; 2.5% fee capped at US$20, US$5,000 per transfer, via WhatsApp and Facebook.
 
 </div>
 

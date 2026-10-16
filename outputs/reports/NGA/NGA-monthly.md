@@ -3,9 +3,9 @@ title: Nigeria — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: NGA
-ledger_rows: 151
+ledger_rows: 154
 not_held: 9
-record: bfcb13eb6fa3
+record: 1c16bd01d871
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -211,6 +211,28 @@ BusinessTech Nigeria explains the Nigerian Fintech Regulatory Commission Bill 20
 **[Lagos Backs AI Builders Over AI Buyers at the Nigeria Innovation Summit 11.0](https://techtrends.africa/lagos-backs-ai-builders-over-ai-buyers-at-the-nigeria-innovation-summit-11-0/)** — TechTrends Africa, 10 October 2026
 
 Lagos State's special adviser on technology, Ganiyu Oseni, delivered Governor Babajide Sanwo-Olu's address to the 11th Nigeria Innovation Summit in Lagos on 6 October 2026, saying Nigeria should build AI rather than depend on computing done in Europe. The address cited US$3.9 billion of venture capital in five years, more than one million connections on the state's fibre network and a planned innovation bill.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet Code of Practice 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC Hosts Stakeholders To Chart Course For Future Of Internet, Launches Working Group](https://independent.ng/ncc-hosts-stakeholders-to-chart-course-for-future-of-internet-launches-working-group/)** — Independent Newspaper Nigeria, 15 October 2026
+
+Survey of 47: 2 of 19 licensees ICOP-ready; 73% use AI, 39% have AI policy; NCC promises guidelines.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC survey finds gaps in licensees’ readiness for Internet code](https://www.vanguardngr.com/2026/10/ncc-survey-finds-gaps-in-licensees-readiness-for-internet-code/)** — Vanguard, 15 October 2026
+
+Only 2 of 19 licensees fully ready; cybersecurity and AI provisions hardest; working group launched, guidelines promised.
 
 </div>
 
@@ -546,6 +568,14 @@ Nigeria's mobile operators have built 8,526 of 12,179 committed coverage and cap
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s Phone Crackdown: Protecting Networks or Pricing Out Everyday Users?](https://techafricanews.com/2026/10/16/nigerias-phone-crackdown-protecting-networks-or-pricing-out-everyday-users/)** — Tech Africa News, 16 October 2026
+
+Alerts from 10 Oct 2026; 30 active-day countdown; grey imports flagged; registration fees unconfirmed.
+
+</div>
+
 </div>
 
 ## Finance
@@ -725,6 +755,14 @@ Nigeria's communications ministry named a federal constituency in Abia State a p
 **[Nigeria targets 200 telecom towers by December, plans new satellite beyond fibre coverage](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/)** — BusinessDay (Nigeria), 14 September 2026
 
 Nigeria's communications ministry said at least 200 towers for unconnected communities will be live by December, out of about 3,700 planned, with a new satellite for places neither towers nor fibre reach. The remarks came at the opening of the data protection commission's new Abuja headquarters, which reported 356 licensed compliance organisations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG to deploy 3,700 telecom towers to connect 20m Nigerians](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)** — Vanguard, 16 October 2026
+
+First NUCAP site commissioned in Bende, Abia, 16 Oct 2026; 16 more Bende locations flagged.
 
 </div>
 
@@ -1679,6 +1717,34 @@ Nigeria's interbank settlement system NIBSS said its ISO 20022-compliant Nationa
 **[Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business](https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/)** — TechCabal, 6 October 2026
 
 Airtel Money's London listing leaves out its Nigerian business. Its prospectus, as reported, says a Central Bank of Nigeria directive required it to transfer its 25% stake in SmartCash back to Airtel's Nigerian network company, for US$3 million; Nigeria made up 1.24% of the unit's quarterly revenue and 6.02% of its customers at June 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Baxi agent banking network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Onafriq shuts down its Nigerian agent banking business after five years](https://techcabal.com/2026/10/16/onafriq-shuts-down-nigeria-agent-banking/)** — TechCabal, 16 October 2026
+
+Inflation and A2A transfers sink 90,000-agent network bought in 2021; Onafriq keeps payments and card issuing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cowry contactless transit card, Lagos</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The hurdles facing contactless payment adoption across Nigeria](https://techcabal.com/2026/10/16/hurdles-facing-contactless-payments/)** — TechCabal, 16 October 2026
+
+CBN caps unverified taps at N15,000, N50,000 a day; 8.3m PoS terminals; CashAfrica-Chicken Republic rollout.
 
 </div>
 

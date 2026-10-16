@@ -3,9 +3,9 @@ title: Liberia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: LBR
-ledger_rows: 31
+ledger_rows: 34
 not_held: 6
-record: d80c089c138d
+record: c1a460b932ea
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -158,6 +158,34 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Liberia-Morocco cybersecurity memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia Deepens Cybersecurity Ties With Morocco, Secures Membership In African Digital Security Networks](https://frontpageafricaonline.com/liberia-deepens-cybersecurity-ties-with-morocco-secures-membership-in-african-digital-security-networks/)** — FrontPage Africa, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+Joins ANCA and SMART Africa with Malawi, Lesotho, Mali, Egypt; MoU with DGSSI to be pursued.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the African Network of Cybersecurity Authorities and Smart Africa</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Liberia Deepens Cybersecurity Ties With Morocco, Secures Membership In African Digital Security Networks](https://frontpageafricaonline.com/liberia-deepens-cybersecurity-ties-with-morocco-secures-membership-in-african-digital-security-networks/)** — FrontPage Africa, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -215,8 +243,26 @@ Ten Liberian civil society organisations, including CENTAL and the Liberia Equal
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central Bank of Liberia payments data centres and LIB-PSS facility</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Specific Procurement Notice — Invitation for Bids: Data Centers Upgrade (Main and DR), IFB CBL/G/PS/2026/01](https://www.emansion.gov.lr/sites/default/files/documents/SPECIFIC%20PROCUREMENT%20NOTICE_CBL%20DATA%20CENTRES%20INFRASTRUCTURE%20UPGRADE_9.28.26%20%282%29.pdf)** — Central Bank of Liberia, 28 September 2026
+
+International tender for CBL's main and disaster-recovery data centres under the AfDB grant; bids due 28 October 2026.
+
+</div>
+
+</div>
 
 ### Cybersecurity
 
@@ -341,6 +387,30 @@ Liberia's National Identification Registry said on 15 September 2026 that free n
 **[NIR Seeks Legislative Approval for US$54.7M Identity Deal - Liberia news The New Dawn Liberia, premier resource for latest news](https://www.thenewdawnliberia.com/nir-seeks-legislative-approval-for-us54-7m-identity-deal/)** — Liberia news The New Dawn Liberia, premier resource for latest news, 17 September 2026
 
 Liberia's National Identification Registry asked the legislature on 16 September 2026 to speed ratification of a US$54.7 million identity deal with OeSD International. Under the build, operate and transfer arrangement OeSD would fund biometric enrolment and infrastructure, run it to recover the investment, then hand it to government. No signature date is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[House Begins Review of Boakai’s Proposed National Digital ID Overhaul](https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html)** — Liberian Observer, 16 October 2026
+
+OeSD BOT concession for NIDCRVS sent to joint committee with 14 days to report; not ratification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[House Scrutinizes US$52M National ID Deal](https://www.thenewdawnliberia.com/house-scrutinizes-us52m-national-id-deal/)** — The New Dawn, 16 October 2026
+
+US$52m OeSD build-operate-transfer NIDCRVS concession sent to joint committee for two weeks; up to 10 million people.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia: Naymote Urges Legislature to Tighten US$52M National ID Deal, Cites Cost, Electoral and Data Protection Concerns](https://frontpageafricaonline.com/liberia-naymote-urges-legislature-to-tighten-us52m-national-id-deal-cites-cost-electoral-and-data-protection-concerns/)** — FrontPage Africa, 16 October 2026
+
+Naymote statement of 15 Oct 2026: disclosure, value-for-money test, data control, free enrolment, hearings.
 
 </div>
 
