@@ -301,78 +301,78 @@ Not established: Nothing held since October 2023 names a government data exchang
 
 ### Botswana: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Burkina Faso: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Chad: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### DR Congo: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Mauritania: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Togo: No evidence
 
-Nothing held says whether there is a government data exchange platform, so no stage is set.
+Nothing held names a government data exchange platform or says there is none, so no stage is set.
 
 Not established: Nothing held names a government data exchange platform, or says there is none.

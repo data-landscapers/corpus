@@ -324,54 +324,54 @@ Not established: Nothing held since October 2023 names another system checking p
 
 ### Central African Republic: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Mozambique: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held says whether there is another system checking people against the national ID, so no stage is set.
+Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
 
 Not established: Nothing held names another system checking people against the national ID, or says there is none.

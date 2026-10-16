@@ -15,5 +15,6 @@ last_reviewed: 2026-10-16
 - **Skipped, left to the deep dive**: the second drafter (method §7.3), and the parent's re-reading of documents behind top-stage facts (method §7.2 checks the fact rows only).
 - **`study.json` carries `"pass": "first"`**, which is how the deep dive knows what it owes.
 - **One token ceiling for the batch**, stated before reading, checked with `study-tokens.py` after every fan-out. At the ceiling the batch stops cleanly, as above.
+- **The cost is the call, not the document** *(the Data Exchange batch, 2026-10-16: 6% of the week for five indicators, which Bill ruled too much)*. 579 calls at a median 0.33M each whatever they read, six turns apiece, each resending the brief, two study files and a readlist of up to 74 KB. So: **the first pass reads the `about` rows only**. Pass `0`, the documents the frame's cells cite, was 57% of that spend for a fact from one document in three, and is left to the deep dive. **A call hands its drafter its rows and its questions inline**, not the whole readlist and study file to look up. Size the batch from the call count before reading; the Data Exchange batch's own-call count is the one to beat.
 - **The batch ends on one report**: per indicator, countries staged, the stage counts, *First pass* cells, and tokens spent; then the questions written, in plain words, for Bill to read.
 

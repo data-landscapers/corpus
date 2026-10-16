@@ -302,72 +302,72 @@ Not established: Nothing held since October 2023 names social protection systems
 
 ### Benin: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### DR Congo: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Ethiopia: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Libya: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Somalia: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### South Africa: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Tanzania: No evidence
 
-Nothing held says whether there is social protection systems exchanging data, so no stage is set.
+Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names social protection systems exchanging data, or says there is none.

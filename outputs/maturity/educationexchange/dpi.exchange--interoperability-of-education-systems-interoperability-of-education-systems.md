@@ -212,150 +212,150 @@ Not established: Nothing held since October 2023 names education systems exchang
 
 ### Algeria: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Angola: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Benin: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Botswana: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Cape Verde: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Djibouti: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Egypt: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Lesotho: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Mauritius: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Morocco: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Mozambique: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Namibia: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Sudan: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Tunisia: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.
 
 ### Zambia: No evidence
 
-Nothing held says whether there is education systems exchanging data, so no stage is set.
+Nothing held names education systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names education systems exchanging data, or says there is none.

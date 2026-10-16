@@ -272,96 +272,96 @@ A 2026 source says the country's health systems do not exchange data.
 
 ### Benin: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Djibouti: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Ghana: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Liberia: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Mauritius: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Morocco: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Senegal: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### South Africa: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Zambia: No evidence
 
-Nothing held says whether there is health systems exchanging data, so no stage is set.
+Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
 Not established: Nothing held names health systems exchanging data, or says there is none.

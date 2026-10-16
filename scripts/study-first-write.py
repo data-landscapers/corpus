@@ -168,7 +168,7 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
     elif cell["stage"] == "unplaced":
         short = f"Nothing held since 2023 names {thing}, so no stage is set."
     else:
-        short = f"Nothing held says whether there is {thing}, so no stage is set."
+        short = f"Nothing held names {thing} or says there is none, so no stage is set."
     parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
               "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:

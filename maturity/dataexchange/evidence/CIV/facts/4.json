@@ -8,14 +8,14 @@
    "fact": "SNDI states that the UXP/X-Road solution was chosen under a EUR 387,350 contract covering the platform core, five priority services and skills transfer; no date of award given, so the published date is used.",
    "as_of": "2025-10-01",
    "date_precision": "day",
-   "system": "Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP)",
+   "system": "Plateforme d'interopÃ©rabilitÃ© des systÃ¨mes d'information de l'administration (UXP)",
    "class": "exchange"
   }
  ],
  "systems": [
   {
-   "system": "Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP)",
-   "country_label": "Côte d'Ivoire",
+   "system": "Plateforme d'interopÃ©rabilitÃ© des systÃ¨mes d'information de l'administration (UXP)",
+   "country_label": "CÃ´te d'Ivoire",
    "class": "exchange",
    "platform": "Cybernetica UXP (X-Road based)",
    "owner": "SNDI for the Ministry of Digital Transition",
