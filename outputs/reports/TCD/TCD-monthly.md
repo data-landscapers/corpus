@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: TCD
-ledger_rows: 31
+ledger_rows: 32
 not_held: 22
-record: 3bb56eb349d4
+record: 9b2cb22bc25a
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -181,6 +181,44 @@ Chad and Nigeria signed a joint communiqué in N'Djamena on 16 September 2026 du
 **[Chad and Nigeria Advance Digital Cooperation on Fibre Connectivity and AI](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/)** — Tech Africa News, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Chad and Nigeria agreed to strengthen cooperation in telecommunications, digital transformation and artificial intelligence after ministerial talks in N'Djamena on 16 September. Regional fibre-optic connectivity through the BRIDGE project, government service digitalisation and research were named as the areas of collaboration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Declaration of N'Djamena of the Central African internet governance forum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afrique centrale : Des engagements pour un espace numérique inclusif et souverain](https://www.atpe.td/afrique-centrale-des-engagements-pour-un-espace-numerique-inclusif-et-souverain/)** — Agence tchadienne de presse et d'édition (ATPE), 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Declaration adopted 15 Oct 2026: harmonise data-protection and cybercrime law, cut transit costs, widen access.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gouvernance de l’Internet-Afrique Centrale: les participants appellent à renforcer la souveraineté numérique - Hamama Média](https://hamama-media.com/a-la-une/gouvernance-de-linternet-afrique-centrale-les-participants-appellent-a-renforcer-la-souverainete-numerique/)** — Hamama Média, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Declaration urges heads of state to prioritise digital sovereignty; Chad backs forum's three-year action plan.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IGF 2026 : L’Afrique centrale appelle à une coopération numérique renforcée de la sous-région](https://www.digitalbusiness.africa/igf-2026-lafrique-centrale-appelle-a-une-cooperation-numerique-renforcee-de-la-sous-region/)** — Digital Business Africa, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Forum held 13-15 Oct 2026 with ECCAS, AUC, UNECA, ITU; second CASIG cohort launched at ENASTIC.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : clôture de l’édition 2026 du Forum sur la Gouvernance de l’Internet-Afrique Centrale - Dari Infos](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)** — Dari Infos, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Declaration of N'Djamena: CEEAC/ARTAC anti-cyberattack platform by August 2027; fibre interconnection; AI laws.
 
 </div>
 

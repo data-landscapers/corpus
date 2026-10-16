@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: CMR
-ledger_rows: 31
+ledger_rows: 34
 not_held: 4
-record: 31fb6cf2b7af
+record: e6f9fb39d888
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -36,6 +36,8 @@ record: 31fb6cf2b7af
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -111,6 +113,22 @@ Cameroon's telecommunications regulator gave operators until 30 September 2026 t
 **[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ANOR, the national standards body</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ANOR - Agence des Normes et de la Qualité](https://www.iso.org/member/1623.html)** — International Organization for Standardization, 16 October 2026
+
+ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body. As read in October 2026, it participates in 4 technical committees and observes 41.
 
 </div>
 
@@ -282,6 +300,20 @@ A United States firm plans US$75m, about FCFA 42.25bn, for a Douala data centre 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange Cameroun data centre, Douala</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mieux nous connaitre | Orange Business Cameroun — Le Data center Orange Tiers III+](https://business.orange.cm/en/mieux-nous-connaitre.html)** — Orange Business Cameroun, 16 October 2026
+
+Orange Business Cameroon describes its data centre, open since May 2017, as Tier III+ with 340 racks in two server rooms. The company claims 99.82% availability and two separate medium-voltage grid feeds; no certification is named.
+
+</div>
+
+</div>
+
 ### Technical Capacity
 
 <div class="monthly-story" markdown="1">
@@ -391,6 +423,20 @@ Cameroon's chamber of commerce (CCIMA) trained its staff and trade bodies in Dou
 **[Cameroun : le MINJEC et Nera Pulse en accord pour digitaliser l'insertion professionnelle des jeunes](https://fr.journalducameroun.com/cameroun-le-minjec-et-nera-pulse-en-accord-pour-digitaliser-linsertion-professionnelle-des-jeunes/)** — Journalducameroun.com, 15 September 2026
 
 The youth ministry signed a three-year renewable partnership with a company on 14 September to digitise, unify and speed access to employment and training for 15- to 35-year-olds, across six areas including socio-economic integration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AILGLES biometric payroll system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation : e-Gov Africa mise sur l’IA pour moderniser les services publics](https://leconomie.info/article/digitalisation-e-gov-africa-mise-sur-lia-pour-moderniser-les-services-publics)** — Le quotidien L'Economie, 16 October 2026
+
+At the first e-Gov Africa Summit in Yaoundé, Cameroon's public service ministry reported that its AIGLE staff and payroll platform has processed over 342,049 promotion and tenure acts automatically since January 2025. It cited over 6.4 million logins, over 3 million payslip notifications and secure e-signature in 37 of 40 administrations.
 
 </div>
 

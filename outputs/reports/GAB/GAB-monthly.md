@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GAB
-ledger_rows: 48
-not_held: 15
-record: 29d45455cd64
+ledger_rows: 49
+not_held: 14
+record: 4c113d95b3ed
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -173,6 +173,20 @@ Gabon's digital economy minister, Mark-Alexandre Doumba, presented the country's
 **[Multilatéralisme : le Gabon renforce son engagement contre les menaces nucléaires et numériques](https://www.gabonreview.com/multilateralisme-le-gabon-renforce-son-engagement-contre-les-menaces-nucleaires-et-numeriques/)** — GabonReview, 24 September 2026
 
 Gabon's foreign minister, Marie-Édith Tassyla-Ye-Doumbeneny, signed the UN Convention against Cybercrime on 23 September 2026 during the UN General Assembly's high-level week, alongside the Treaty on the Prohibition of Nuclear Weapons. Gabon presents the convention as a framework for mutual legal assistance and exchange of electronic evidence. It has signed, not ratified.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Accession to the Budapest Convention on Cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Strengthens Cybersecurity Expertise at Octopus 2026 Conference](https://techafricanews.com/2026/10/16/gabon-strengthens-cybersecurity-expertise-octopus-2026/)** — Tech Africa News, 16 October 2026
+
+A delegation from Gabon's digital infrastructure agency, ANINF, attended the Council of Europe's Octopus 2026 cybercrime conference in Strasbourg on 14-16 October. ANINF says it used the meeting to build expertise on electronic evidence and to look at Gabon joining the Budapest Convention on Cybercrime.
 
 </div>
 
