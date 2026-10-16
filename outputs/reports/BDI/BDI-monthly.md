@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BDI
 ledger_rows: 10
 not_held: 11
-record: a60a3a162525
+record: 28eee6acbe41
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -101,7 +101,7 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 <div class="bulletin-item" markdown="1">
 
-**[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+**[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#ict-infrastructure" title="TZA">Tanzania</a>
 
 Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity.
 
@@ -161,7 +161,7 @@ Burundi's electoral commission CENI expects more than one million new voters on 
 
 **[La CAM, une avancée vers une protection sociale plus inclusive ?](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/)** — Iwacu, 14 March 2025
 
-A joint ministerial ordinance of 7 February 2025 requires every Burundian household outside a health mutual, and every adult aged 18 or over, to buy a Carte d'Assurance Maladie (CAM). Burundi's revenue office set the card's price at 3,000 Burundian francs. The CAM dates from 1984 and became voluntary in 2012; the public-service mutual covers about 10% of the population.
+Iwacu's own account of Burundi's compulsory CAM ordinance, its 1984 origins and 2012 reform.
 
 </div>
 

@@ -428,8 +428,8 @@ def case_boxes_are_the_places_with_pages(tmp):
     names = bulletin.place_names()
     boxes = bulletin.place_boxes(row("r", TODAY, "KEN; XEA; XAFR; THA", "gov.policy"), names)
     assert boxes.count("<a ") == 2, boxes
-    assert "/countries/KEN/" in boxes and ">Kenya<" in boxes
-    assert "/countries/XEA/" in boxes and ">East Africa<" in boxes
+    assert "/reports/KEN/KEN-monthly.html" in boxes and ">Kenya<" in boxes
+    assert "/reports/XEA/XEA-monthly.html" in boxes and ">East Africa<" in boxes
     assert "XAFR" not in boxes and "THA" not in boxes, "a box that 404s is worse than no box"
     assert boxes.index("KEN") < boxes.index("XEA"), "the country goes before the region"
 

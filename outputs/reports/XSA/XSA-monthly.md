@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XSA
 ledger_rows: 13
 not_held: 2
-record: 349871d9bd79
+record: 41b1ed9f9b2e
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -45,7 +45,7 @@ record: 349871d9bd79
 
 <div class="bulletin-item" markdown="1">
 
-**[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#governance" title="ZAF">South Africa</a>
 
 South Africa's higher education minister, Buti Manamela, told a meeting of SADC university vice-chancellors in Johannesburg on 31 August 2026 that the region must build its own computing capacity, datasets, African-language technologies and cybersecurity. He set five priorities, including agreement on a regional higher education data system, to show results by the SADC ministers' meeting in June 2027.
 
@@ -53,7 +53,7 @@ South Africa's higher education minister, Buti Manamela, told a meeting of SADC 
 
 <div class="bulletin-item" markdown="1">
 
-**[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#governance" title="ZAF">South Africa</a>
 
 University leaders, government representatives, the SADC Secretariat and the Southern African Regional Universities Association met at Wits University on 31 August–1 September 2026. They discussed the SADC higher education strategy, a proposed SADC University of Transformation, a regional higher education data system and micro-credentials. No design, cost or timetable for the data system is given.
 
@@ -75,7 +75,7 @@ The Communications Regulators' Association of Southern Africa held the first in-
 
 <div class="bulletin-item" markdown="1">
 
-**[46th Ordinary Meeting of the CRASA Executive Committee (EXCO)](https://events.crasa.org/event/46th-ordinary-meeting-of-the-crasa-executive-committee-exco/)** — CRASA, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
+**[46th Ordinary Meeting of the CRASA Executive Committee (EXCO)](https://events.crasa.org/event/46th-ordinary-meeting-of-the-crasa-executive-committee-exco/)** — CRASA, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#governance" title="MWI">Malawi</a>
 
 The Communications Regulators' Association of Southern Africa held the 46th ordinary meeting of its Executive Committee on 14–16 September 2026 at Makokola Club, Mangochi, hosted by the Malawi Communications Regulatory Authority. The meeting had been rescheduled because of venue availability. The listing gives no outcomes.
 
@@ -103,7 +103,7 @@ The Southern African Development Community and the Committee of SADC Stock Excha
 
 <div class="bulletin-item" markdown="1">
 
-**[SADC PACs sub committees examine 3 dimensions of future public accountability](https://eswatinipositivenews.online/sadc-pacs-sub-committees-examine-3-dimensions-of-future-public-accountability/)** — Eswatini Positive News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
+**[SADC PACs sub committees examine 3 dimensions of future public accountability](https://eswatinipositivenews.online/sadc-pacs-sub-committees-examine-3-dimensions-of-future-public-accountability/)** — Eswatini Positive News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#governance" title="SWZ">Eswatini</a>
 
 A commission of the SADC public accounts committees' 18th annual conference in Eswatini reported that governments may see spending data almost in real time while parliamentary oversight can come 12 to 24 months later. It considered using data analytics and AI to screen transactions for auditors, with secure oversight access to financial systems, and warned against treating technology as a substitute for human judgement.
 
@@ -125,7 +125,7 @@ Public accounts committees across SADC adopted 32 resolutions in Eswatini on 16 
 
 <div class="bulletin-item" markdown="1">
 
-**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html#governance" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#governance" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#governance" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#governance" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#governance" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html#institutions-and-mandates" title="XEA">East Africa</a>
 
 COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
@@ -147,7 +147,7 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 
 <div class="bulletin-item" markdown="1">
 
-**[AI can drive economic growth across COMESA region - COMESA director](https://eswatinipositivenews.online/ai-can-drive-economic-growth-across-comesa-region-comesa-director/)** — Eswatini Positive News, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
+**[AI can drive economic growth across COMESA region - COMESA director](https://eswatinipositivenews.online/ai-can-drive-economic-growth-across-comesa-region-comesa-director/)** — Eswatini Positive News, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html#instruments-and-harmonisation" title="XEA">East Africa</a>
 
 A COMESA official told the regional AI validation meeting in Eswatini that AI could improve public services, agriculture, health and education across the region if member states invest in the skills, infrastructure and data it needs.
 
@@ -155,7 +155,7 @@ A COMESA official told the regional AI validation meeting in Eswatini that AI co
 
 <div class="bulletin-item" markdown="1">
 
-**[Eswatini hosts regional push for practical AI policies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/)** — Times of Eswatini, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Eswatini hosts regional push for practical AI policies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/)** — Times of Eswatini, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#technology" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
 
 Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to validate a draft study on AI and emerging technologies. It precedes work on a regional AI strategy, model policy guidelines and a model regulatory framework under the World Bank-funded IDEA programme.
 
@@ -179,7 +179,7 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 
 <div class="bulletin-item" markdown="1">
 
-**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#dpi" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#dpi" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html#dpi" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#dpi" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html#dpi" title="ZWE">Zimbabwe</a>
 
 Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
@@ -193,7 +193,7 @@ Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#dpi" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#dpi" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html#dpi" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#dpi" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html#dpi" title="ZWE">Zimbabwe</a>
 
 Summarised under [Data Exchange](#data-exchange).
 
@@ -207,7 +207,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 <div class="bulletin-item" markdown="1">
 
-**[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
+**[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#dpi" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html#shared-systems-and-infrastructure" title="XEA">East Africa</a>
 
 COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
 
@@ -223,7 +223,7 @@ COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale
 
 <div class="bulletin-item" markdown="1">
 
-**[Metical poderá ser usado em pagamentos na SADC a partir de Janeiro de 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/)** — Times de Todos, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a>
+**[Metical poderá ser usado em pagamentos na SADC a partir de Janeiro de 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/)** — Times de Todos, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html#dpi" title="MOZ">Mozambique</a>
 
 Mozambique's central bank governor said the metical could be used for payments between Southern African countries from January 2027 through the regional real-time settlement system, which is hosted at South Africa's central bank.
 
@@ -245,7 +245,7 @@ Mozambique's central bank governor said the metical could be used for payments b
 
 <div class="bulletin-item" markdown="1">
 
-**[Injini lance un programme pour soutenir 12 start-up en Afrique australe](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe)** — wearetech.africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Injini lance un programme pour soutenir 12 start-up en Afrique australe](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe)** — wearetech.africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a>
 
 The South African edtech accelerator Injini has launched an eight-month programme for twelve teams across Southern Africa building affordable AI tools adapted to local classrooms. The five strongest projects will receive seed funding at the end of it to develop their tools and test their impact with pupils and teachers; no amount is stated.
 
@@ -269,7 +269,7 @@ The South African edtech accelerator Injini has launched an eight-month programm
 
 <div class="bulletin-item" markdown="1">
 
-**[CRASA and LINK Centre sign MoU](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-09/crasa-and-link-centre-sign-mou-.html)** — LINK Centre - University of the Witwatersrand, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[CRASA and LINK Centre sign MoU](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-09/crasa-and-link-centre-sign-mou-.html)** — LINK Centre - University of the Witwatersrand, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#capacity" title="ZAF">South Africa</a>
 
 The Southern African communications regulators' association and a university research centre signed a memorandum on regulatory capacity building, applied research and policy development, covering professional development programmes, short courses, masterclasses, policy dialogues and research across the ICT, postal, audio-visual, digital media and digitally enabled sectors. Activities are expressly subject to institutional processes, funding and separate project agreements.
 
@@ -285,7 +285,7 @@ The Southern African communications regulators' association and a university res
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a>
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html#inclusion" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#inclusion" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#inclusion" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#inclusion" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#inclusion" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GAB
 ledger_rows: 48
 not_held: 15
-record: 2f3dbc0edd48
+record: e42aa0e0de2e
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -153,7 +153,7 @@ Gabon's data-protection authority APDPVP has authorised the ST Digital Gabon dat
 
 <div class="bulletin-item" markdown="1">
 
-**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GIN/" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#governance" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html#governance" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#governance" title="LBR">Liberia</a>
 
 Rwanda Cooperation said it hosted eight government delegations from seven countries in one week in late August 2026: Liberia, Kenya, Nigeria, Benin, Gambia, Gabon and Guinea. A delegation from Gabon's interior ministry spent nearly two weeks studying e-government, AI policy, digital civil registration and identification, cybersecurity, data protection and system interconnection.
 
@@ -321,7 +321,7 @@ Gabon's incumbent operator and the digital-economy ministry signed a convention 
 
 <div class="bulletin-item" markdown="1">
 
-**[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
+**[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#ict-infrastructure" title="CMR">Cameroon</a>
 
 Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have signed a memorandum of understanding and a confidentiality agreement on CAB-CORRIDOR, a terrestrial link between Cameroon, Gabon and the Republic of Congo over the Central African Backbone, SPIN said on 3 October 2026. Implementation terms are expected in October 2026; signing dates are not given.
 

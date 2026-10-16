@@ -527,7 +527,7 @@ def boxed(row: dict, names: dict[str, str]) -> list[str]:
             + [c for c in codes if c.startswith("X")])
 
 
-def place_boxes(row: dict, names: dict[str, str]) -> str:
+def place_boxes(row: dict, names: dict[str, str], topic: str | None = None) -> str:
     """One box per country **or region** the item is tagged to, linking to that place's page
     *(Bill, 2026-08-21; regions 2026-09-04)*.
 
@@ -545,13 +545,47 @@ def place_boxes(row: dict, names: dict[str, str]) -> str:
     nothing."""
     return "".join(
         f'<a class="wip-item-card__status wip-item-card__status--active country-box"'
-        f' href="{SITE_BASE}/countries/{c}/" title="{c}">{names.get(c, c)}</a>'
+        f' href="{box_href(c, topic)}" title="{c}">{names.get(c, c)}</a>'
         for c in boxed(row, names))
 
 
-def head_line(row: dict, names: dict[str, str]) -> str:
+_SECTIONS: dict[str, tuple[dict, set]] = {}
+
+
+def box_href(code: str, topic: str | None = None) -> str:
+    """Where a place box goes: **that place's monthly, at the chapter the item sits under**
+    *(Bill, 2026-10-16)*.
+
+    The chapter is read off the place's own monthly — its `###` subject headings sit under their
+    `##` sections — so a region lands on its own section rather than the taxonomy's, and the
+    anchor is one the page actually carries. Where the subject did not move there, a country
+    falls back to the taxonomy chapter if the page prints it, and otherwise to the top of the
+    monthly. A place with no monthly keeps its country page."""
+    monthly = OUTPUTS / "reports" / code / f"{code}-monthly.md"
+    if not monthly.exists():
+        return f"{SITE_BASE}/countries/{code}/"
+    url = f"{SITE_BASE}/reports/{code}/{code}-monthly.html"
+    if not topic or topic == UNTOPICED:
+        return url
+    if code not in _SECTIONS:
+        under, heads, section = {}, set(), None
+        for line in monthly.read_text(encoding="utf-8").splitlines():
+            if line.startswith("## "):
+                section = line[3:].strip()
+                heads.add(section)
+            elif line.startswith("### ") and section:
+                under[line[4:].strip()] = section
+        _SECTIONS[code] = (under, heads)
+    under, heads = _SECTIONS[code]
+    section = under.get(topic_label(topic))
+    if section is None and not code.startswith("X") and l1_label(topic) in heads:
+        section = l1_label(topic)
+    return f"{url}#{slugify(section, '-')}" if section else url
+
+
+def head_line(row: dict, names: dict[str, str], topic: str | None = None) -> str:
     return (f"**[{md_escape(row['title'])}]({row['url']})** — {row['publisher']}, "
-            f"{long_date(row['published'])} {place_boxes(row, names)}").rstrip()
+            f"{long_date(row['published'])} {place_boxes(row, names, topic)}").rstrip()
 
 
 def link_to(label: str) -> str:
@@ -559,7 +593,7 @@ def link_to(label: str) -> str:
 
 
 def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bool,
-          names: dict[str, str]) -> list[str]:
+          names: dict[str, str], topic: str | None = None) -> list[str]:
     """One item in one section. `here` is whether this section is the one carrying the detail.
 
     **Each entry is wrapped in a `.bulletin-item` carrying its place codes** *(Bill,
@@ -580,7 +614,7 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
     # showed a summary and a signpost to it.
     cls = "bulletin-item" if here else "bulletin-item bulletin-item--xref"
     out = [f'<div class="{cls}" data-places="{codes}" markdown="1">', "",
-           head_line(row, names), ""]
+           head_line(row, names, topic), ""]
     if here:
         body = store[row["slug"]]["summary"]
         if others:
@@ -759,7 +793,7 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
             for row, anchor_slug, anchor_label, others in sorted(
                     sections[slug], key=lambda item: item[1] != slug):
                 lines += entry(row, store, others, anchor_label, here=anchor_slug == slug,
-                               names=names)
+                               names=names, topic=slug)
     return lines
 
 

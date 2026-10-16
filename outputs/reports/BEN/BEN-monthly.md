@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BEN
 ledger_rows: 34
 not_held: 4
-record: 3b87d1db752c
+record: d435d96bb797
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -117,7 +117,7 @@ Seventeen officers of the data protection authority were sworn in before the Cot
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#governance" title="NGA">Nigeria</a>
 
 The Nigeria Customs Service offered Benin's customs a real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts at the Sèmè–Kraké one-stop border post on 11 September 2026. Comptroller-General Adewale Adeniyi said the two services work under one roof but not on one system; Benin's customs chief endorsed the proposal. No timetable is given.
 
@@ -131,7 +131,7 @@ The Nigeria Customs Service offered Benin's customs a real-time exchange of decl
 
 <div class="bulletin-item" markdown="1">
 
-**[L’Instance de Protection des Données à Caractère Personnel (IPDCP) et l’Autorité de Protection des Données Personnelles du Bénin (APDP) renforcent leur coopération à Lomé - IPDCP](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)** — IPDCP Togo, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+**[L’Instance de Protection des Données à Caractère Personnel (IPDCP) et l’Autorité de Protection des Données Personnelles du Bénin (APDP) renforcent leur coopération à Lomé - IPDCP](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)** — IPDCP Togo, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html#governance" title="TGO">Togo</a>
 
 Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 and 3 October for a working session on sharing experience and building skills. It follows the Togolese authority's mission to Benin on 18 August and the two bodies' cooperation agreement.
 
@@ -229,7 +229,7 @@ Benin's Directorate-General of the Treasury and Public Accounting told road user
 
 <div class="bulletin-item" markdown="1">
 
-**[Bénin-Nigeria : les douanes interconnectent leurs systèmes pour accélérer le commerce](https://www.wearetech.africa/fr/fils/actualites/tech/benin-nigeria-les-douanes-interconnectent-leurs-systemes-pour-accelerer-le-commerce)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Bénin-Nigeria : les douanes interconnectent leurs systèmes pour accélérer le commerce](https://www.wearetech.africa/fr/fils/actualites/tech/benin-nigeria-les-douanes-interconnectent-leurs-systemes-pour-accelerer-le-commerce)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
 
 The two countries' customs administrations launched a pilot interconnection of their systems at the Seme-Krake border post on 11 September, to exchange data in real time and cut repeated formalities.
 
@@ -385,7 +385,7 @@ Benin's Council of Ministers approved on 2 September 2026 the construction of 35
 
 <div class="bulletin-item" markdown="1">
 
-**[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+**[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#shared-systems-and-infrastructure" title="XWA">West Africa</a>
 
 Benin and seven other West African states (Burkina Faso, Côte d'Ivoire, Guinea, Mali, Niger, Senegal and Togo) are testing a platform to monitor progress on the demographic dividend at a meeting in Abidjan from 7 to 9 September 2026. The tool aims to harmonise indicators against African Union commitments on health, education, jobs and governance before wider rollout.
 

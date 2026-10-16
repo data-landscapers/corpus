@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GNB
 ledger_rows: 8
 not_held: 2
-record: 833b81117ac1
+record: 843a746ec9c4
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -67,7 +67,7 @@ A delegation from Guinea-Bissau's Ministry of Territorial Administration and Loc
 
 <div class="bulletin-item" markdown="1">
 
-**[Côte d'Ivoire-AIP/Inter/ La Cour de justice de la CEDEAO dispose d'un cadre pour statuer sur les droits numériques, selon un universitaire](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)** — Agence Ivoirienne de Presse, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+**[Côte d'Ivoire-AIP/Inter/ La Cour de justice de la CEDEAO dispose d'un cadre pour statuer sur les droits numériques, selon un universitaire](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)** — Agence Ivoirienne de Presse, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 At a Dakar conference, law lecturer Jake Okechukwu Effoduh argued that the ECOWAS Court already has the legal basis to hear digital-rights cases, from internet shutdowns to biometric surveillance, without a new treaty. A Bissau law professor noted that Guinea-Bissau still has no data-protection law or authority, though a bill would create one.
 
@@ -205,7 +205,7 @@ A University of Iceland doctoral study surveyed 2,039 teenagers aged 14–19 at 
 
 **[Birtingarmyndir ójafnaðar meðal unglinga í Bissá, Gíneu-Bissá (Manifestations of inequality among adolescents in Bissau, Guinea-Bissau)](https://hdl.handle.net/20.500.11815/8043)** — Opin vísindi (University of Iceland repository), 2026
 
-A University of Iceland doctoral thesis by Fatou N'dure Baboudóttir, defended on 9 April 2026, studies inequality among adolescents in Bissau, Guinea-Bissau. Its survey of 2,039 pupils aged 14 to 19 in 16 schools found limited access to computers and the internet, with girls and public-school pupils worst placed, and no remote learning during COVID-19 school closures.
+Planet Youth survey of 2,039 Bissau adolescents: computer and internet access lags for girls and public-school pupils.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: b6e6b3c51341
+record: b6c7a1e68b4b
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -285,7 +285,7 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 
 <div class="bulletin-item" markdown="1">
 
-**[African diplomats in Cairo agree to develop African digital integration roadmap](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578166)** — Ahram Online, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[African diplomats in Cairo agree to develop African digital integration roadmap](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578166)** — Ahram Online, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
 
 Representatives of 11 African diplomatic missions in Cairo agreed to draft a joint Cairo Document for Trust and African Digital Integration. It is to set shared priorities on digital investment, digital trade, cybersecurity, data governance and emerging technologies.
 
@@ -725,7 +725,7 @@ Egypt's telecom regulator counted 57.01 million operator mobile wallets in the f
 
 <div class="bulletin-item" markdown="1">
 
-**[Afreximbank plans PAPSS-Instapay link to expand Egypt-Africa cross-border payments](https://english.ahram.org.eg/News/576342.aspx)** — Ahram Online, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Afreximbank plans PAPSS-Instapay link to expand Egypt-Africa cross-border payments](https://english.ahram.org.eg/News/576342.aspx)** — Ahram Online, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 The Pan-African Payment and Settlement System plans to connect to Instapay, Egypt's central-bank-licensed instant payment app, its chief executive Mike Ogbalu said at a Cairo conference held 7-9 September 2026. He said six Egyptian banks are awaiting central bank approval to join PAPSS, which operates in 30 African countries.
 
@@ -733,7 +733,7 @@ The Pan-African Payment and Settlement System plans to connect to Instapay, Egyp
 
 <div class="bulletin-item" markdown="1">
 
-**[CBE governor participates in 14th meeting of PGC PAPSS in Nairobi](https://sis.gov.eg/en/media-center/news/cbe-governor-participates-in-14th-meeting-of-pgc-papss-in-nairobi/)** — Egypt State Information Service, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[CBE governor participates in 14th meeting of PGC PAPSS in Nairobi](https://sis.gov.eg/en/media-center/news/cbe-governor-participates-in-14th-meeting-of-pgc-papss-in-nairobi/)** — Egypt State Information Service, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 The Central Bank of Egypt's governor, Hassan Abdalla, attended the 14th meeting of the Pan-African Payment and Settlement System's governing council in Nairobi on 19 September 2026. The council discussed increasing participation by central and commercial banks and tighter risk controls. Egypt's central bank has been studying the system's technical and legal features so that Egyptian banks can join.
 
@@ -741,7 +741,7 @@ The Central Bank of Egypt's governor, Hassan Abdalla, attended the 14th meeting 
 
 <div class="bulletin-item" markdown="1">
 
-**[CBE Governor: Enhanced Egyptian bank participation drives Pan-African financial integration](https://www.businessmen-eg.com/en/6489/cbe-governor-enhanced-egyptian-bank-participation-drives-pan-african-financial-integration)** — Businessmen EG, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[CBE Governor: Enhanced Egyptian bank participation drives Pan-African financial integration](https://www.businessmen-eg.com/en/6489/cbe-governor-enhanced-egyptian-bank-participation-drives-pan-african-financial-integration)** — Businessmen EG, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 The Central Bank of Egypt told the board of governors of the Pan-African Payment and Settlement System that Egyptian banks can now execute and fund cross-border payments with African counterparts directly, without intermediary clearing agents or the US dollar, reported on 19 September 2026. Egypt joined PAPSS in November 2024 and is assessing the PAPSS Card scheme.
 
@@ -749,7 +749,7 @@ The Central Bank of Egypt told the board of governors of the Pan-African Payment
 
 <div class="bulletin-item" markdown="1">
 
-**[Central Bank of Egypt Governor discusses African payment network expansion at Nairobi meeting](https://www.dailynewsegypt.com/2026/09/19/central-bank-of-egypt-governor-discusses-african-payment-network-expansion-at-nairobi-meeting/)** — Daily News Egypt, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Central Bank of Egypt Governor discusses African payment network expansion at Nairobi meeting](https://www.dailynewsegypt.com/2026/09/19/central-bank-of-egypt-governor-discusses-african-payment-network-expansion-at-nairobi-meeting/)** — Daily News Egypt, 19 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 Central Bank of Egypt Governor Hassan Abdalla attended the 14th Governing Council meeting of the Pan-African Payment and Settlement System in Nairobi, which discussed adding participating banks and reducing cross-border payment risk. Egypt joined the system in November 2024 and its council in January 2025, and is assessing the PAPSS Card and Marketplace services.
 
@@ -799,7 +799,7 @@ A market explainer sets out how a digital pound would differ from existing insta
 
 <div class="bulletin-item" markdown="1">
 
-**[Egypt's Meeza Cards Set for Wider African Use Through PAPSS Integration](https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/)** — WAYA, 20 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Egypt's Meeza Cards Set for Wider African Use Through PAPSS Integration](https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/)** — WAYA, 20 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 Afreximbank is connecting the continental card scheme to Egypt's Meeza national card network so cards issued on either side work across more African markets. The first phase joins the two infrastructures and establishes a settlement layer; payment would be in the currency of the country being visited, and no availability date was given.
 
@@ -1633,7 +1633,7 @@ A peer-reviewed study in Frontiers in Digital Health, published on 3 September 2
 
 **[Year-End Post-Distribution Monitoring Report of UNHCR's Multi-Purpose Cash Assistance to Refugees in Egypt](https://data.unhcr.org/en/documents/details/114784)** — UNHCR Egypt, 28 February 2025
 
-UNHCR Egypt paid bi-monthly multi-purpose cash through Egypt Post Office branches to an average of 24,335 refugee and asylum-seeker households in 2024, raising transfer values by about 32% to between EGP 1,125 and EGP 3,435 a month. Its December 2024 monitoring survey reached 393 of 434 sampled households; 99% said the cash let them buy items they previously could not afford.
+UNHCR's own PDM survey — 393 of 434 sampled MPCA households interviewed, 99% could buy previously unaffordable items.
 
 </div>
 

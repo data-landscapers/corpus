@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BFA
 ledger_rows: 35
 not_held: 8
-record: 40b6785eaa15
+record: 6968fde042c2
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -91,7 +91,7 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 <div class="bulletin-item" markdown="1">
 
-**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperation agreement in Ouagadougou on 25 September creating a Sahel Regulators' Council. It covers roaming within the Alliance of Sahel States, consumer protection, cybersecurity, spectrum, mutual recognition of type-approved equipment and joint positions in international bodies.
 
@@ -99,7 +99,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 <div class="bulletin-item" markdown="1">
 
-**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
@@ -247,7 +247,7 @@ Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of
 
 <div class="bulletin-item" markdown="1">
 
-**[Ghana, Burkina Faso flood management, what's AV-STEC Project role?](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/)** — Ghana News Agency, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
+**[Ghana, Burkina Faso flood management, what's AV-STEC Project role?](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/)** — Ghana News Agency, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#dpi" title="GHA">Ghana</a>
 
 At an AV-STEC project meeting in Bolgatanga, Ghanaian and Burkinabe officials proposed a Bagre-Kompienga release protocol based on real-time data sharing and agreed spill thresholds. Burkina Faso's power utility SONABEL said letters to Ghana's Volta River Authority since October 2025 had gone unanswered. Participants cited slow warnings, weak data sharing between forecasters and responders, and false alarms; the project is funded through Canada's IDRC.
 

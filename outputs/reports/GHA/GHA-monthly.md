@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GHA
 ledger_rows: 104
 not_held: 10
-record: 4683566628e1
+record: 53bada377ae4
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -261,7 +261,7 @@ Ghana's Data Protection Commission began field enforcement in Accra on 12 Octobe
 
 <div class="bulletin-item" markdown="1">
 
-**[AfCFTA Digital Trade Corridor to Cut Cost of Intra-African Commerce - Wamkele Mene](https://mydailynewsonline.com/2026/09/01/afcfta-digital-trade-corridor-to-cut-cost-of-intra-african-commerce-wamkele-mene/)** — MyDailyNewsOnline, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[AfCFTA Digital Trade Corridor to Cut Cost of Intra-African Commerce - Wamkele Mene](https://mydailynewsonline.com/2026/09/01/afcfta-digital-trade-corridor-to-cut-cost-of-intra-african-commerce-wamkele-mene/)** — MyDailyNewsOnline, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
 
 The AfCFTA Secretary-General set out the case for the Digital Trade Corridor: cutting the cost and complexity of intra-African business by ending the routing of African payments through third countries.
 
@@ -269,7 +269,7 @@ The AfCFTA Secretary-General set out the case for the Digital Trade Corridor: cu
 
 <div class="bulletin-item" markdown="1">
 
-**[Make Africa's digital trade corridor work](https://ghanaiantimes.com.gh/make-africas-digital-trade-corridor-work/)** — Ghanaian Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Make Africa's digital trade corridor work](https://ghanaiantimes.com.gh/make-africas-digital-trade-corridor-work/)** — Ghanaian Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
 
 An editorial on what the AfCFTA Digital Trade Corridor has to get right to matter, following the joint venture agreement signed in Accra. See the corridor entry above.
 
@@ -277,7 +277,7 @@ An editorial on what the AfCFTA Digital Trade Corridor has to get right to matte
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa Builds a Digital Highway for Trade](https://businesstimesug.com/africa-builds-a-digital-highway-for-trade/)** — Business Times (Uganda), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Africa Builds a Digital Highway for Trade](https://businesstimesug.com/africa-builds-a-digital-highway-for-trade/)** — Business Times (Uganda), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
 
 The AfCFTA Secretariat and Ghanaian technology company Quest Ghana signed a joint venture agreement in Accra on 31 August 2026 to set up a continental Digital Trade Corridor. It is to build digital infrastructure for payments, commodity trading, marketplaces and logistics. The US$5.17 billion figure reported is Quest Ghana's own valuation, not a stated commitment.
 
@@ -305,7 +305,7 @@ Ghana’s communications minister was unanimously confirmed as the next chair of
 
 <div class="bulletin-item" markdown="1">
 
-**[Webinar 09 Sep 13:00 UTC - Road to Ghana: Community Engagement Series #1](https://isoc.live/22008/)** — ISOC Live Noticeboard, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Webinar 09 Sep 13:00 UTC - Road to Ghana: Community Engagement Series #1](https://isoc.live/22008/)** — ISOC Live Noticeboard, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
 
 The Africa Internet Governance Forum secretariat announced an online session on 9 September 2026, the first in a series ahead of the 15th Africa IGF, which Ghana hosts in Accra on 2-5 November 2026. The session covers how national, regional and youth IGF initiatives can implement the WSIS+20 outcomes and the Global Digital Compact in Africa.
 
@@ -319,7 +319,7 @@ The Africa Internet Governance Forum secretariat announced an online session on 
 
 <div class="bulletin-item" markdown="1">
 
-**[Bank of Ghana and Liberia central bank strengthen partnership on payment systems](https://www.ghanaguardian.com/bank-of-ghana-and-liberia-central-bank-strengthen-partnership-on-payment-systems/)** — Ghana Guardian, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Bank of Ghana and Liberia central bank strengthen partnership on payment systems](https://www.ghanaguardian.com/bank-of-ghana-and-liberia-central-bank-strengthen-partnership-on-payment-systems/)** — Ghana Guardian, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#governance" title="LBR">Liberia</a>
 
 A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visited the Bank of Ghana in Accra on 1 October 2026 to learn how Ghana set up its interbank payment and settlement system, GhIPSS, to inform Liberia's own payment-systems work. The visit falls under a capacity-building memorandum the two central banks signed earlier in 2026.
 
@@ -327,7 +327,7 @@ A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visi
 
 <div class="bulletin-item" markdown="1">
 
-**[Liberia Studies Ghana’s Payment Switch as It Expands Instant Transfers](https://newsghana.com.gh/liberia-studies-ghanas-payment-switch-as-it-expands-instant-transfers/)** — NewsGhana, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Liberia Studies Ghana’s Payment Switch as It Expands Instant Transfers](https://newsghana.com.gh/liberia-studies-ghanas-payment-switch-as-it-expands-instant-transfers/)** — NewsGhana, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#governance" title="LBR">Liberia</a>
 
 The governor of the Central Bank of Liberia led a delegation to the Bank of Ghana on 1 October to study how Ghana set up its interbank payment and settlement company. Liberia is working to connect its banks to the instant payment system it switched on in December 2025.
 
@@ -803,7 +803,7 @@ Visiting the Ghana Atomic Energy Commission on 9 October, the science and techno
 
 <div class="bulletin-item" markdown="1">
 
-**[AI now enables 55% of cybercrime in Africa as losses hit $484m – CID](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/)** — GBC Ghana Online (Ghana Broadcasting Corporation), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[AI now enables 55% of cybercrime in Africa as losses hit $484m – CID](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/)** — GBC Ghana Online (Ghana Broadcasting Corporation), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
 
 Ghana's police CID put Interpol's 2026 African Cyber Threat Assessment on the record at the awareness month launch: AI now enables 55% of reported cybercrime in Africa, with related losses of $484 million. CID director-general COP Lydia Yaako Donkor described generative AI supplying convincing phishing messages, cloned voices and synthetic images and video, with cryptocurrency, mule accounts and fraudulent investment schemes moving the proceeds — an industrialised, borderless ecosystem rather than isolated offending. She tied Ghana's exposure directly to the spread of mobile money, internet banking and instant transfers.
 
@@ -943,7 +943,7 @@ A second account of the Ghana Cyber Security Authority's statement on Operation 
 
 <div class="bulletin-item" markdown="1">
 
-**[Kenyan President Ruto names Ghana among first countries for portable skills programme](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html)** — Graphic Online, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+**[Kenyan President Ruto names Ghana among first countries for portable skills programme](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html)** — Graphic Online, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a>
 
 Kenya's President William Ruto announced Masterkey, a digital wallet holding verifiable records of qualifications and work experience that individuals control and can share across African borders, at an Accra Reset event during the UN General Assembly. Ghana, Rwanda and Kenya are in the first phase, which targets 150,000 placements; Kenya's wallet runs through eCitizen.
 
@@ -1051,7 +1051,7 @@ Ghana's vehicle licensing authority began piloting RFID-enabled number plates ah
 
 <div class="bulletin-item" markdown="1">
 
-**[ECOWAS pushes biometric ID toward region-wide border acceptance by December](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december)** — Biometric Update, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+**[ECOWAS pushes biometric ID toward region-wide border acceptance by December](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december)** — Biometric Update, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#shared-systems-and-infrastructure" title="XWA">West Africa</a>
 
 ECOWAS is running public campaigns in Ghana and Nigeria ahead of its December 2026 target for all member states to accept its biometric identity card at air, land and sea borders. Seven member states have issued the card so far.
 
@@ -1283,7 +1283,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 <div class="bulletin-item" markdown="1">
 
-**[Bank of Ghana pilots digital cross-border payments with Rwanda, Nigeria](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)** — Ghana News Agency, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Bank of Ghana pilots digital cross-border payments with Rwanda, Nigeria](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)** — Ghana News Agency, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
 
 The Bank of Ghana is testing cross-border payments using central bank digital currencies, stablecoins, bank accounts and mobile wallets in its corridors with Rwanda and Nigeria, Governor Johnson Asiama said at the IMF and World Bank annual meetings in Bangkok on 13 October 2026. It has also opened the Pan-African Payment and Settlement System to mobile wallets in the Ghana-Nigeria corridor.
 
@@ -1291,7 +1291,7 @@ The Bank of Ghana is testing cross-border payments using central bank digital cu
 
 <div class="bulletin-item" markdown="1">
 
-**[Ghana, Rwanda, Nigeria test new cross-border digital payment systems](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)** — Graphic Online, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Ghana, Rwanda, Nigeria test new cross-border digital payment systems](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)** — Graphic Online, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
 
 Bank of Ghana Governor Johnson Asiama said on 13 October that the bank is testing cross-border payment interoperability with Rwanda and Nigeria across CBDCs, stablecoins, bank accounts and mobile wallets, with the aim of moving to live services on rails such as PAPSS. He said Ghana's mobile money transactions passed one billion in a month for the first time in August 2026, worth GH¢519 billion, and reported fraud cases rose 48% in 2025.
 
@@ -1305,7 +1305,7 @@ Bank of Ghana Governor Johnson Asiama said on 13 October that the bank is testin
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Bank of Ghana pilots digital cross-border payments with Rwanda, Nigeria](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)** — Ghana News Agency, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Bank of Ghana pilots digital cross-border payments with Rwanda, Nigeria](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)** — Ghana News Agency, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
@@ -1313,7 +1313,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Ghana, Rwanda, Nigeria test new cross-border digital payment systems](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)** — Graphic Online, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Ghana, Rwanda, Nigeria test new cross-border digital payment systems](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)** — Graphic Online, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
@@ -1563,7 +1563,7 @@ Ghana's local government minister, Mahama Ayariga, announced on 15 September 202
 
 **[AI Readiness Assessment Methodology: Ghana](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana)** — UNESCO, 30 July 2026
 
-UNESCO published Ghana's AI Readiness Assessment on 30 July 2026, making Ghana one of 77 countries to have applied the methodology. Ghana's Ministry of Communication, Digital Technology and Innovations held three consultations for it: one with universities and research bodies, one with technology firms, innovation hubs and civil society, and a national validation meeting.
+UNESCO's Ghana AI Readiness report — one of 77 countries assessed, feeding the National AI Strategy 2025-2035.
 
 </div>
 
@@ -1655,7 +1655,7 @@ Researchers at Ghana's Kwame Nkrumah University of Science and Technology have d
 
 <div class="bulletin-item" markdown="1">
 
-**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
 
 A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million.
 
@@ -1859,7 +1859,7 @@ Ghana's TVET Service signed a memorandum with UNESCO, KPMG and Microsoft under t
 
 <div class="bulletin-item" markdown="1">
 
-**[10 Years of Impact: Helping Africa Foundation calls for nationwide expansion of Nyamransa ICT model](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html)** — ModernGhana, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[10 Years of Impact: Helping Africa Foundation calls for nationwide expansion of Nyamransa ICT model](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html)** — ModernGhana, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html#capacity" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#capacity" title="LBR">Liberia</a>
 
 The US-based Helping Africa Foundation marked its tenth anniversary in Gbawe, Ghana, and called on African governments to expand its youth ICT laboratory model. It has supported more than 19 ICT demonstration labs in Ghana, The Gambia and Liberia, with more planned in Tanzania and Zanzibar. Ghana's education ministry will discuss a scale-up policy; no funding is stated.
 
@@ -1935,7 +1935,7 @@ Ghana's education minister Haruna Iddrisu disclosed a US$30 million grant from C
 
 <div class="bulletin-item" markdown="1">
 
-**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html#inclusion" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
 The Global Development Network has begun fieldwork on a five-country DPI Inclusivity Survey covering Sierra Leone and Ghana alongside Chile, Bangladesh and Indonesia, with partner teams at the Institute for Development and the University of Ghana. Running to April and engaging more than 5,000 households, it asks whether digital identity and digital payment systems leave people feeling more economically, socially and politically included, rather than measuring registration and access.
 

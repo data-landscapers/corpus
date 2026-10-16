@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: DZA
 ledger_rows: 36
 not_held: 6
-record: 423ebc7aceed
+record: 7a5f0df2b3c5
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -123,7 +123,7 @@ Algeria's draft 2027 finance law proposes that foreign digital platforms selling
 
 <div class="bulletin-item" markdown="1">
 
-**[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
+**[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
 
 Niger's telecoms and post college ESCEP signed a convention with Algérie Télécom's Skills Centers network in Niamey on 8 September 2026, at a meeting chaired by the communication ministry's secretary-general. The agreement provides for a Skills Center at ESCEP with Algérie Télécom's support, aimed at training and the capacity of Niger's telecoms infrastructure. No cost is given.
 
@@ -131,7 +131,7 @@ Niger's telecoms and post college ESCEP signed a convention with Algérie Télé
 
 <div class="bulletin-item" markdown="1">
 
-**[Cooperation Niger - Algerie : Une delegation algerienne visite l'ESCEP dans le cadre d'un partenariat axe sur le numerique](https://www.lesahel.org/cooperation-niger-algerie-une-delegation-algerienne-visite-lescep-dans-le-cadre-dun-partenariat-axe-sur-le-numerique/)** — Le Sahel, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
+**[Cooperation Niger - Algerie : Une delegation algerienne visite l'ESCEP dans le cadre d'un partenariat axe sur le numerique](https://www.lesahel.org/cooperation-niger-algerie-une-delegation-algerienne-visite-lescep-dans-le-cadre-dun-partenariat-axe-sur-le-numerique/)** — Le Sahel, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
 
 Niger's telecommunications and post college received an Algerian mission led by the adviser for partnership and development of that country's operator skills-centre network. The visit follows a partnership accord of July aimed at establishing a digital competence centre, and is presented as reflecting the two heads of state's intent.
 
@@ -139,7 +139,7 @@ Niger's telecommunications and post college received an Algerian mission led by 
 
 <div class="bulletin-item" markdown="1">
 
-**[L'Algérie et le Niger lancent l'exploitation de la dorsale transsaharienne à fibre optique](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Algérie Eco (reporting Algérie Presse Service), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
+**[L'Algérie et le Niger lancent l'exploitation de la dorsale transsaharienne à fibre optique](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Algérie Eco (reporting Algérie Presse Service), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
 
 The Algerian account of the Assamaka ceremony, summarised above, says the link was built by Algerie Telecom and Niger Telecom, starts at 100 Gbps and can be expanded as traffic grows.
 
@@ -147,7 +147,7 @@ The Algerian account of the Assamaka ceremony, summarised above, says the link w
 
 <div class="bulletin-item" markdown="1">
 
-**[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
+**[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
 
 Niger and Algeria launched operation of the fibre link between In Guezzam and the Arlit-Agadez region at a ceremony at Assamaka, on the border, on 6 October, chaired by the two communications ministers. Algeria's account gives a starting capacity of 100 Gbps.
 
@@ -677,7 +677,7 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 
 <div class="bulletin-item" markdown="1">
 
-**[Algerian Company INATEL Signs Strategic Agreement for New Kinshasa City Project](https://africanews.dz/eng/index.php/2026/09/03/algerian-company-inatel-signs-strategic-agreement-for-new-kinshasa-city-project/)** — Africa News (DZ), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+**[Algerian Company INATEL Signs Strategic Agreement for New Kinshasa City Project](https://africanews.dz/eng/index.php/2026/09/03/algerian-company-inatel-signs-strategic-agreement-for-new-kinshasa-city-project/)** — Africa News (DZ), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#technology" title="COD">DRC</a>
 
 Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DABYAN, signed a memorandum with the committee overseeing the Kinshasa city expansion project in the DR Congo to deploy payment systems, digital equipment and a technology centre covering cybersecurity and applied AI. The signing date is given only as recent, and no value or timetable is disclosed.
 
@@ -685,7 +685,7 @@ Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DAB
 
 <div class="bulletin-item" markdown="1">
 
-**[Inatel signe un accord strategique pour le projet de nouvelle ville de Kinshasa](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/)** — Algerie Eco, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+**[Inatel signe un accord strategique pour le projet de nouvelle ville de Kinshasa](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/)** — Algerie Eco, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#technology" title="COD">DRC</a>
 
 The Algerian state electronics firm INATEL, with PGS Africa and DABYAN, signed a protocol with the coordination of the DRC's Kinshasa expansion project for an integrated digital, industrial and technological programme covering digital technologies, electronic payment systems, digital equipment and services, knowledge transfer and a centre for innovation in payment systems, cybersecurity and applied artificial intelligence. No amount is stated.
 

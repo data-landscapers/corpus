@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: CAF
 ledger_rows: 18
 not_held: 4
-record: 4099eed4c34f
+record: b027926d67f9
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -153,7 +153,7 @@ The country's component of the Central Africa digital integration programme is t
 
 <div class="bulletin-item" markdown="1">
 
-**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
+**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#ict-infrastructure" title="CMR">Cameroon</a>
 
 A fibre cut in Cameroon disrupted internet service in the Central African Republic last week, prompting an assessment of the landlocked country's options for reaching submarine cable capacity by another route.
 
@@ -161,7 +161,7 @@ A fibre cut in Cameroon disrupted internet service in the Central African Republ
 
 <div class="bulletin-item" markdown="1">
 
-**[Internet : qu’est-ce que la liaison par fibre avec la RDC peut apporter à la Centrafrique](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)** — Agence Ecofin, 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+**[Internet : qu’est-ce que la liaison par fibre avec la RDC peut apporter à la Centrafrique](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)** — Agence Ecofin, 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#ict-infrastructure" title="COD">DRC</a>
 
 The digital-economy ministers of the Central African Republic and DR Congo agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, which would give the Central African Republic a third international route, toward the submarine cable landing at Moanda. No timetable or financing was announced.
 

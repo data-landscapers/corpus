@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NAM
 ledger_rows: 32
 not_held: 9
-record: 42c6b1f928fb
+record: 0c1712259a22
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -61,7 +61,7 @@ record: 42c6b1f928fb
 
 **[Regulations regarding Accreditation of Security Products and Services and Providers of such Products and Services (Electronic Transactions Act 4 of 2019)](https://www.lac.org.na/laws/annoREG/Electronic%20Transactions%20Act%204%20of%202019-Regulations%202025-953.pdf)** — Legal Assistance Centre (LAC) Namibia, reproducing General Notice 953 of 2025 (Communications Regulatory Authority of Namibia), 17 December 2025
 
-Namibia's Communications Regulatory Authority issued regulations under the Electronic Transactions Act 2019 setting out how security products, services and certification service providers are accredited, in General Notice 953 of 17 December 2025. They came into force on 15 June 2026; an accredited certification service provider may issue subscriber certificates and public keys for five years.
+Namibia's CRAN accreditation regime for certification service providers, in force from 15 June 2026.
 
 </div>
 

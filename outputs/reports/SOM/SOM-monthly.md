@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SOM
 ledger_rows: 17
 not_held: 2
-record: 2e8e9a8e014c
+record: 5b6ac1ca4639
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -117,7 +117,7 @@ Somalia's federal government has shut 82,000 social media pages in 2026 that it 
 
 <div class="bulletin-item" markdown="1">
 
-**[Somaliland fibre route tests Kenya’s regional digital edge](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496)** — Business Daily, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
+**[Somaliland fibre route tests Kenya’s regional digital edge](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496)** — Business Daily, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#ict-infrastructure" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html#ict-infrastructure" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#ict-infrastructure" title="SSD">South Sudan</a>
 
 Berbera is being positioned as an alternative digital gateway for landlocked Ethiopia and South Sudan, offering providers, businesses and governments another route to global data connections beside the established Mombasa gateway.
 
