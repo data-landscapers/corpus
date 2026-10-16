@@ -3,9 +3,9 @@ title: South Africa — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: ZAF
-ledger_rows: 140
+ledger_rows: 143
 not_held: 21
-record: db427ff88234
+record: 8e6843a5bfbc
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -1606,6 +1606,20 @@ Absa launched institutional digital-asset custody for South African clients on 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wise foreign exchange authorisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afrique du Sud : la société financière Wise agréée par la Banque centrale](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-societe-financiere-wise-agreee-par-la-banque-centrale)** — wearetech.africa, 16 October 2026
+
+Category 2 forex authorisation for cross-border transfers; Capitec already a partner; approval date not given.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1992,6 +2006,20 @@ South Africa's City of Tshwane launched an Enterprise Data and Analytics Platfor
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">City Power prepaid purchase monitoring platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[City Power’s electricity theft crackdown faces data problem](https://www.itweb.co.za/article/city-powers-electricity-theft-crackdown-faces-data-problem/GxwQDq1DLoZMlPVo)** — ITWeb South Africa, 16 October 2026
+
+R3.96bn non-technical losses in 2024/25; AI risk scores must be explainable and POPIA-compliant; experts warn.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -2341,6 +2369,20 @@ Microsoft and implementation partner NKUSI-IT Siyasebenza ran a three-day Power 
 **[SA is Not Future-Ready, Says Oosthuysen](https://businessexplainer.co.za/opinion/2026/09/07/sa-is-not-future-ready-says-oosthuysen/)** — Business Explainer, 7 September 2026
 
 An industry argument that South Africa is not positioning itself as future-ready cites employer survey findings that about 55% of workers show little or no proficiency in mathematics or data skills, 52% of businesses find it difficult to hire anyone prepared for digital transformation and 70% rate workforce technology skills poor or very poor, against 118,500 unfilled ICT vacancies of which 36% are junior roles.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Skills Impact Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa’s digital jobs drive faces a $152 million funding test](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)** — TechCabal, 16 October 2026
+
+R600m mobilised, 4,000 beneficiaries, 600 organisations; R2.5bn sought from existing funds for 20,000 more by 2028.
 
 </div>
 

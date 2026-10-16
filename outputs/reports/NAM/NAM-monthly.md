@@ -3,9 +3,9 @@ title: Namibia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: NAM
-ledger_rows: 32
+ledger_rows: 33
 not_held: 9
-record: f0a811a00adc
+record: a0c85bd384c1
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -121,6 +121,20 @@ Namibia's assessment of its laws and institutions against the African free-trade
 **[Namibia's economic armoury: How new government communication strategy could unlock multibillion-dollar investment](https://nambusinessexpress.com/?p=15515)** — Business Express, 13 September 2026
 
 Namibia's ICT minister Emma Theofelus launched the Harmonised Government Communication Strategy 2026–2030 and the Government Corporate Brand Identity Manual at the public administration institute NIPAM on 9 September 2026. Cabinet approved both in March 2026; they set a single voice and brand for ministries, agencies, regional and local authorities and public enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the international standards organisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - NSI - Namibian Standards Institution](https://www.iso.org/member/1569.html)** — International Organization for Standardization, 16 October 2026
+
+ISO member body under Standards Act 2005; participating in 21 technical committees, observing 23, as of October 2026.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Angola — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: AGO
-ledger_rows: 44
+ledger_rows: 46
 not_held: 6
-record: 075b8c96a72a
+record: 6f7086cde4de
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -690,6 +690,34 @@ Angola's public e-services portal SEPE remained online after the Kazu ransomware
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Government Development Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
+
+1,300 km fibre added 2022-2026, free access in 18 provinces, National Cloud and govt data centre; EGDI 0.41 (2024).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GovTech maturity classification</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -797,6 +825,14 @@ Angola's Telecommunications Institute (ITEL) and the pay-TV operator TV Cabo sig
 **[Projecto Angola Digital ja dispoe de 180 pontos de acesso livre a Internet](https://angop.ao/en/noticias/tecnologia/projecto-angola-digital-ja-dispoe-de-180-pontos-de-acesso-livre-a-internet/)** — ANGOP, 16 September 2026
 
 Angola's telecoms minister, Mário Oliveira, said in Benguela on 16 September 2026 that the Angola Digital project, promoted by the communications development fund FADCOM, now has about 180 free public internet access points in 18 of the country's 21 provinces. He said the satellite-based Conecta project is also present in 18 provinces.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
