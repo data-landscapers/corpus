@@ -63,9 +63,10 @@ git rev-parse HEAD > BUILT-FROM
 `render.py` writes HTML + PDF into `site/…`, the output tree taken from the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition; a redesign is `--redesign` (`CLAUDE.md` → *Editions*).
 
 ```bash
+python scripts/finance-report.py      # -> outputs/reports/{ISO3}/{ISO3}-finance.md
 rendered=0; failed=0
 for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
-          outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
+          outputs/reports/*/*-finance.md outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done

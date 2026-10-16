@@ -610,3 +610,14 @@ a.badge:hover::after { opacity: 1; }
   margin: 0 0 0.5rem;
 }
 .monthly-story .bulletin-item:last-child { margin-bottom: 0; }
+
+/* ── THE FINANCE REPORT'S PIVOTS (2026-10-16) ──
+   The country page's topic-by-year tables (`table.pivot`, corpus.css), inside a report body
+   whose house table would set every row label in mono small caps and fix the column widths.
+   The labels are topics and read as body text, as they do on the country page. */
+.article-body table.pivot { table-layout: auto; }
+.article-body table.pivot tbody th, .article-body table.pivot tfoot th {
+  font-family: inherit; font-size: 0.88rem; text-transform: none; letter-spacing: 0;
+  color: var(--ink); background: none; overflow-wrap: normal;
+}
+.article-body table.pivot tfoot th { font-weight: 700; }

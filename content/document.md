@@ -50,6 +50,10 @@ A year in {subject}, indicator by indicator: digital transformation, DPI and dat
 
 Who hosts the websites, email and online services of {subject}'s ministries, regulators, security bodies and banks: US cloud, security shields, telecoms operators, government data centres or foreign hosts.
 
+## meta-finance
+
+What {subject} budgets for digital from its own money and what others commit to it, by topic and year, in US dollars.
+
 ## meta-topic-monthly
 
 {subject} across Africa this month: digital transformation, DPI and data governance, country by country, each item sourced.

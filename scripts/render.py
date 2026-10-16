@@ -63,6 +63,8 @@ KIND_LABEL = {
     # The hyperscaler scan's country fact sheet, published by `hyperscaler-publish.py` from
     # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30).
     "hosting": "Institution hosting",
+    # A country's budgets and non-state finance together (`finance-report.py`, Bill 2026-10-16).
+    "finance": "Finance",
     "bulletin": "",
 }
 
@@ -159,7 +161,7 @@ PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
 PRIOR_EDITION = re.compile(r'data-edition="([^"]+)"')
 
 
-KINDS = ("status", "monthly", "progress", "hosting", "bulletin")
+KINDS = ("status", "monthly", "progress", "hosting", "finance", "bulletin")
 
 
 def parse_name(path: Path) -> tuple[str, str]:
@@ -440,8 +442,8 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
 FAMILY = (("status", "Status"), ("monthly", "Monthly"), ("progress", "Progress"),
-          ("hosting", "Institution hosting"))
-FAMILY_PAGES = {"status", "monthly"}
+          ("finance", "Finance"), ("hosting", "Institution hosting"))
+FAMILY_PAGES = {"status", "monthly", "finance"}
 
 
 def report_family(md_path: Path, kind: str, meta: dict) -> str:
@@ -584,6 +586,7 @@ META_KEY = {
     ("reports", "monthly"):  "meta-monthly",
     ("reports", "progress"): "meta-progress",
     ("reports", "hosting"):  "meta-hosting",
+    ("reports", "finance"):  "meta-finance",
     ("topics",  "monthly"):  "meta-topic-monthly",
     ("topics",  "progress"): "meta-topic-progress",
 }
@@ -753,7 +756,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # A document that brings its own contents keeps them: the country and region monthlies carry
     # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
     pre_header = report_family(md_path, kind, meta)
-    if kind in ("status", "monthly", "progress") and "monthly-toc" not in html_body:
+    if kind in ("status", "monthly", "progress", "finance") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
             bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)

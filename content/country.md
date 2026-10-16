@@ -59,3 +59,19 @@ Every digital line read from {name}'s own budget documents: what was proposed, e
 ## dataset-description
 
 Every document the Data Landscapers Corpus holds on {name}, as a single table: title, publisher, author, publication date and its precision, the countries and regions covered, the subjects from the Corpus taxonomy, the organisations and people tagged, the date the document entered the repository, and the publisher's own link. The subjects are digital transformation, digital public infrastructure and data governance. It is a catalogue of metadata and links — it does not contain the text of the documents themselves, each of which stays with its publisher at the URL given. This is the {name} cut of the full Corpus catalogue, and every claim in the {name} reports on this site rests on a record in it.
+
+## report-finance
+
+What the state budgets for digital, what others commit to it, and the two added together
+
+## finance-all-intro
+
+{name}'s digital finance from both sides: what the state budgets from its own money, and what development financiers, foundations, vendors and operators commit. Figures are in millions of US Dollars. The two are added together as they are counted below them.
+
+## finance-all-note
+
+US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-{cutoff}’ aggregates every year before {cutoff}. An empty cell is a year with nothing recorded, not a zero.
+
+## finance-all-none
+
+No budget line or non-state commitment is yet held for {name}.
