@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-10-12
+compiled: 2026-10-16
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 197
+sources_cited: 199
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -149,7 +149,7 @@ Generation is the weaker half of the account. [Renewables supplied 18.27 per cen
 
 [Effective Administration scored 68.9 of 100 in 2023, 11th of 54 African states, and moved 0.2 points across the whole decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf): a capable administration that is not becoming more so.
 
-The state builds rather than buys. [NOSi, a state public enterprise, develops and maintains more than 100 e-government solutions, the SNIAC civil identification system among them, and exports digital solutions to the wider African region](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/). Where that model has failed, the government has said so itself, recording that [attempts between 2008 and 2015 to build e-procurement capability in-house were discontinued for technical inadequacy, high cost and maintenance difficulty, and that heavily customised, vendor-dependent solutions created continuity risk](https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/).
+The state builds rather than buys. [NOSi, a state public enterprise, develops and maintains more than 100 e-government solutions, the SNIAC civil identification system among them, and exports digital solutions to the wider African region](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/). Where that model has failed, the government has said so itself, recording that [attempts between 2008 and 2015 to build e-procurement capability in-house were discontinued for technical inadequacy, high cost and maintenance difficulty, and that heavily customised, vendor-dependent solutions created continuity risk](https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/). The public-finance platform has faltered too: [in October 2024 the finance ministry announced a week of instability in SIGOF, which runs the budget cycle through to payment of suppliers and staff, and warned that state payments could be delayed](https://expressodasilhas.cv/pais/2024/10/11/instabilidade-no-sigof-pode-causar-atrasos-nos-pagamentos-do-estado/93685).
 
 The pipeline behind the institutions runs through the public university: the Universidade de Cabo Verde [teaches a four-year degree in informatics and computer engineering in Praia](https://www.unicv.edu.cv/pt/ensino/cursos/licenciaturas/98-eng-informatica-e-de-computadores).
 
@@ -180,7 +180,7 @@ The government [publishes nothing on the usage, compliance or benefits of its in
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-No count of how many Cabo Verdeans hold or use the national identity credential has been published: the government's own reference pages for SNIAC and Autentika [carry no enrolment figure, no activation figure for the mobile digital key and no coverage rate](https://sniac.cv/cartao-nacional-de-identificacao/) (July 2026). The card itself is [compulsory from the age of four for every citizen, resident or diaspora](https://portalconsular.mnec.gov.cv/en/cartao-nacional-de-identificacao), issued since [January 2018](https://sniac.cv/cartao-nacional-de-identificacao/), and costs [14 euro on a normal online order through the consular portal, with exemptions for children aged four to seven and for citizens over 60 without income](https://portalconsular.mnec.gov.cv/en/cni).
+[SNIAC had issued about 631,720 national identity cards, 513,862 electronic passports and 1,291,910 authentication and qualified-signature certificates since its launch, and served more than 30 million requests through over 134 configured services](https://imij.gov.cv/noticias/cms-noticia-24) (January 2026). Those are issuance totals, not holders: the government's reference pages for SNIAC and Autentika [carry no activation figure for the mobile digital key and no coverage rate](https://sniac.cv/cartao-nacional-de-identificacao/) (July 2026). The card itself is [compulsory from the age of four for every citizen, resident or diaspora](https://portalconsular.mnec.gov.cv/en/cartao-nacional-de-identificacao), issued since [January 2018](https://sniac.cv/cartao-nacional-de-identificacao/), and costs [14 euro on a normal online order through the consular portal, with exemptions for children aged four to seven and for citizens over 60 without income](https://portalconsular.mnec.gov.cv/en/cni).
 
 It was built as a token as well as a document: [a polycarbonate electronic card whose chip carries a digital certificate alongside identification, authentication and digital-signature applications](https://sniac.cv/cartao-nacional-de-identificacao/). Using those functions requires [a smart-card reader, dedicated middleware and a PIN letter obtained from the issuing service](https://sniac.cv/cartao-nacional-de-identificacao/). The Chave Móvel Digital de Cabo Verde, [created by Decreto-Legislativo 5/2020 with implementing rules in Portaria 27/2022](https://sniac.cv/cartao-nacional-de-identificacao/), [provides online authentication and digital signature, and is used with the card for single sign-on across government portals](https://portal-autentika.gov.cv/en/cabo-verde-mobile-digital-key).
 

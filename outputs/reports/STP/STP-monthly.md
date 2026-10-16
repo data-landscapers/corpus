@@ -4,8 +4,8 @@ compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: STP
 ledger_rows: 1
-not_held: 6
-record: 102069a7a310
+not_held: 5
+record: 1611ca1fc579
 ---
 
 # Monthly update, Sep – Oct 2026

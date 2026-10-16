@@ -3,9 +3,9 @@ title: Comoros — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: COM
-ledger_rows: 10
+ledger_rows: 11
 not_held: 24
-record: abd11d8eeaed
+record: 481f52f8b515
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: abd11d8eeaed
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -219,6 +221,28 @@ The African Development Bank and AXIAN launched a programme to reach 34,000 wome
 **[Éducation : L'UDC et le PNUD misent sur l'innovation et l'intelligence artificielle](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9ducation-l%E2%80%99udc-et-le-pnud-misent-sur-l%E2%80%99innovation-et-l%E2%80%99intelligence-artificielle-.html)** — La Gazette des Comores, 15 September 2026
 
 The national university and the United Nations development programme signed a memorandum on training, research and innovation, at its centre a shared innovation space intended to bring students, researchers, entrepreneurs and institutions together on local problems.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#use-of-satellite-data">Use of satellite data</a>
+</nav>
+
+### Use of satellite data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Census cartography capability at the statistics institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cartographie numérique : Les Comores passent à la cartographie numérique](https://www.lagazettedescomores.com/société/cartographie-numérique-les-comores-passent-à-la-cartographie-numérique-.html)** — La Gazette des Comores, 13 October 2026
+
+ArcGIS Pro under World Bank STATCAP; pilot census in 50 enumeration areas; sensitisation still unfunded by the state.
 
 </div>
 

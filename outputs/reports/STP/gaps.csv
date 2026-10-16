@@ -1,5 +1,4 @@
 row_id,place,subject,section,name,what_would_settle_it,probe_at,disposition
-STP-data.open-none,STP,data.open,Governance and regulation,Open government data portal,A public-sector open-data portal or policy document.,,
 STP-gov.policy-ai-strategy,STP,gov.policy,Governance,National AI strategy (Lei da Estrategia Nacional de IA),"A national AI strategy adopted by the Council of Ministers, or the Lei da Estrategia Nacional de IA UNESCO recommends.",2026-09-04,
 STP-gov.legislate-access-to-information,STP,gov.legislate,Governance,Access to information statute,"An access-to-information statute creating a request procedure, deadlines, exemptions, appeal or an oversight body.",2026-09-04,
 STP-gov.legislate-ai-law,STP,gov.legislate,Governance,AI-specific legislation or regulation,"An AI-specific law or regulation, or an instrument creating a national AI ethics body.",2026-09-04,

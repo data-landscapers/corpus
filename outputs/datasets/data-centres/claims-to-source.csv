@@ -821,3 +821,21 @@ CIV-003,dfi_involvement,"Group level (Raxio Group B.V.): IFC debt up to $100M ($
 MDG-001,gps_coordinates,"-18.8813, 47.5078","STELLARIX's colocation page (December 2025) lists its sites as Galaxy, Andraharo and Analakely; this row's Tanashore/Futura address and coordinates are not confirmed by it",2026-09-23
 EGY-052,parent_company,INTRO Investment Holding,the INTRO technology subsidiary that holds the project is not named in the source,2026-09-23
 EGY-052,gps_coordinates,,no address beyond the Sokhna Integrated Industrial Zone,2026-09-23
+NAM-006,operational_status,Unknown,the only source (February 2013) says it was nearly complete; completion and current use need confirming,2026-10-17
+NAM-007,city,Windhoek,assumed Windhoek from the Prime Minister's Office; no source gives the site,2026-10-17
+NAM-007,operational_status,Unknown,the only source (2015) says the directorate implements and maintains it; current status not reported,2026-10-17
+BFA-009,operational_status,Operational,delivered by 2018 per the G-Cloud page; current use and the second Bobo-Dioulasso build not reported,2026-10-17
+GAB-006,operational_status,Planned,planned in 2019; whether either unit was built is not reported,2026-10-17
+GAB-006,facility_name,Gabon National Datacenter (CAB4: Franceville and Nkok units),two units on two sites; split into two rows if either is confirmed built,2026-10-17
+CAF-003,operational_status,Planned,tendered in May 2021; award and construction not reported,2026-10-17
+CAF-003,city,,site not stated; Bangui likely,2026-10-17
+MDG-008,city,Antananarivo,"assumed Antananarivo, the ministry's seat; no address given",2026-10-17
+ZWE-012,comments,"NRD Companies' case study (2022) for the Ministry of Finance and Economic Development installed the main data centre at the Reserve Bank's head office in Harare, with disaster-recovery centres at two branches, given as 'Masa' and Bulawayo. Status rests on that 2022 case study. Not the national data centre at Mukwati (ZWE-009).","the second recovery branch is given as 'Masa', probably Masvingo; not confirmed",2026-10-17
+CIV-013,operational_status,Operational,"a June 2023 project document says a state data centre in the Grand-Bassam free zone was at a standstill; whether it is this one, and its status since, needs confirming",2026-10-17
+LBY-001,facility_name,LTT Internet Data Center,"the Alqalam paper's 'LTDC' in Tripoli (850 m2, ~520 kW, running in 2023-24) may be this facility; confirm before using its figures or status",2026-10-17
+LBY-013,operator_name,LPTIC (Libyan Post Telecommunication and Information Technology Company),"the paper names LPTIC, a holding company; the operating subsidiary is not stated",2026-10-17
+KEN-036,facility_name,Kenya Revenue Authority Data Recovery Centre (Konza),may be space within the Konza National Data Centre (KEN-011) rather than a building of its own; the source does not say,2026-10-17
+NER-003,data_residency_guarantee,"Yes, contractual guarantee",the contractor's engineer says the data belongs exclusively to Niger; the contract terms are not published,2026-10-17
+CIV-021,operational_status,Operational,the only source is a June 2023 project document; current use needs confirming,2026-10-17
+SLE-006,carrier_neutrality,Fully carrier-neutral,carrier-neutral by the operator's own description only,2026-10-17
+SLE-006,operational_status,Operational,rests on the operator's website alone,2026-10-17

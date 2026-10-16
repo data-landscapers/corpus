@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-12
+compiled: 2026-10-17
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 150
+sources_cited: 152
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -365,7 +365,7 @@ USAID commissioned [a Digital Ecosystem Country Assessment of Mali](https://d-po
 
 China supplies both the finance behind Mali's national backbone and the vendor that prints its passports: production of the biometric passport [moved from France's IDEMIA to China's Emptech in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move/), a switch the government presented as a digital sovereignty measure while leaving the credential in the hands of a foreign supplier.
 
-The finance runs through the Mali Digital 2020 Project, [a concessional loan signed with the Export-Import Bank of China on 28 September 2018](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0) with China International Telecommunications Construction Corporation as the commercial contractor. The scope agreed that year reached well beyond connectivity: [intercity fibre](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0) linking Kidal, Gao and Timbuktu to Mopti and running out along the Algerian, Guinean and Burkinabè border routes, an urban fibre network interconnecting government institutions, [an electronic identity card system](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), and [a camera surveillance network with a secure internal communications channel for the government](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). One foreign lender therefore stood behind the state's long-distance network, its government intranet, an identity credential and a surveillance capability at the same time.
+The finance runs through the Mali Digital 2020 Project, [a non-concessional loan of RMB 1,134,000,000 signed with the Export-Import Bank of China at Beijing on 28 September 2018 and ratified by Loi n°2018-066](https://sgg-mali.ml/JO/2018/mali-jo-2018-46.pdf) with China International Telecommunications Construction Corporation as the commercial contractor. The scope agreed that year reached well beyond connectivity: [intercity fibre](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0) linking Kidal, Gao and Timbuktu to Mopti and running out along the Algerian, Guinean and Burkinabè border routes, an urban fibre network interconnecting government institutions, [an electronic identity card system](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), and [a camera surveillance network with a secure internal communications channel for the government](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). One foreign lender therefore stood behind the state's long-distance network, its government intranet, an identity credential and a surveillance capability at the same time. The scope was cut back in January 2024, when [the Council of Ministers approved a USD 117,387,180.77 amendment to the works contract that replaced the Mopti, Koro, Timbuktu, Gao, Ansongo and Labenzaga sites with western ones, redesigned the backbone route, reserved the data centre and deleted the electronic-identity component](https://malijet.com/conseil_des_ministres_du_mali/286146-communique-du-conseil-des-ministres-du-mercredi-03-janvier-2024-.html).
 
 [The project carried a 2020 completion date, and China's ambassador visited the works in February 2019](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0).
 
