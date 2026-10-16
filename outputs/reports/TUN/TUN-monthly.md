@@ -3,9 +3,9 @@ title: Tunisia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: TUN
-ledger_rows: 58
+ledger_rows: 60
 not_held: 5
-record: cfc63944a1a4
+record: 7fdacf463ec9
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -453,6 +453,20 @@ An analysis of the head of government's circular of 2 September sets out what it
 </nav>
 
 ### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health information exchange interoperability framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)](https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/)** — Africa CDC, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a>
+
+Africa CDC seeks consultants to draft national health information exchange interoperability frameworks.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1052,6 +1066,8 @@ Tunisia's Ministry of Employment and Vocational Training signed a five-year rene
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -1079,6 +1095,22 @@ Tunisia's National Statistics Council reviewed the statistics institute's develo
 **[Usages des TIC en Tunisie : Un taux d’accès de 85,9 %, une consommation nocturne et la primauté du Sud](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/)** — L'Echo Tunisien, 1 October 2026
 
 Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, puts the national internet access rate at 85.9% in its latest ICT use barometer, reported on 1 October 2026. Use is 99.2% among 18–24 year-olds and 54.1% among 60–70 year-olds, and ranges from 69.1% in the lowest-income households to 95.9% in the highest. The barometer's fieldwork date is not given.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National open-data portal (data.gov.tn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Portail National des Données Ouvertes en Tunisie](https://data.gov.tn/fr/)** — Présidence du Gouvernement, Tunisie, 16 October 2026
+
+Open-data portal home: datasets by theme, agriculture 1,210, ICT 0; nine reuse cases listed as of October 2026.
 
 </div>
 
