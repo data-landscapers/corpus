@@ -225,7 +225,7 @@ def build_data(studies, indicators, countries) -> dict:
             sid = redrawn[r["indicator_id"]]
             if sid:
                 for sub in by_id[sid]["sub_indicators"]:
-                    seen[t]["indicators"].append(dict(id=sub["indicator_id"], label=sub["text"], studied=True))
+                    seen[t]["indicators"].append(dict(id=sub["indicator_id"], label=indicator_name(by_id[sid], sub), studied=True))
             continue
         seen[t]["indicators"].append(dict(id=r["indicator_id"], label=r["Progress indicator"], studied=False))
     for t in topics:
@@ -241,7 +241,7 @@ def build_data(studies, indicators, countries) -> dict:
             topic = next((t["name"] for t in topics if any(i["id"] == iid for i in t["indicators"])), "")
             # The sidebar's norm is `norm_short`, written by hand for the map; the methodology page
             # prints the study's own, at its own length (Bill, 2026-10-13).
-            inds[iid] = dict(label=sub["text"], short_label=sub["label"], topic=topic, study=s["id"],
+            inds[iid] = dict(label=indicator_name(s, sub), short_label=sub["label"], topic=topic, study=s["id"],
                              ladder=lines, norm=md(sub.get("norm_short", "")))
             cells[iid], changes[iid] = {}, recent_moves(s["history"], iid, date.today())
         bodies = {}
@@ -604,6 +604,14 @@ Stages are taken as at the end of a month. A stage changes only on a dated sourc
 """
 
 
+def indicator_name(study: dict, sub: dict) -> str:
+    """What the map and the methodology page call a sub-indicator: the indicator's own name, the
+    part of `text` before the colon *(Bill, 2026-10-16)*. A study of several sub-indicators keeps
+    the sub-indicator's label after it, or its rows would read alike."""
+    name = sub["text"].split(": ", 1)[0]
+    return f"{name}: {sub['label']}" if len(study["sub_indicators"]) > 1 else name
+
+
 def ladder_digest(section: str) -> str:
     """What a sub-indicator's `criteria_of` records: the study's ladder its criteria were written from."""
     lines = "\n".join(ln.strip() for ln in section.strip().splitlines())
@@ -661,7 +669,7 @@ def method_page(data: dict, studies: list[dict]) -> str:
             p = s["issued"] / f"{iid}.md"
             text = p.read_text(encoding="utf-8") if p.exists() else ""
             secs = dict(sections(text, "## "))
-            parts.append(f'<section class="mat-method__ind" id="{iid}">\n<h4>{html.escape(sub["text"])}</h4>\n'
+            parts.append(f'<section class="mat-method__ind" id="{iid}">\n<h4>{html.escape(indicator_name(s, sub))}</h4>\n'
                          + md("##### The norm\n\n" + norm_statement(secs.get("The norm", "Not yet written."))
                               + "\n\n##### The ladder\n\n" + criteria_table(sub))
                          + "\n</section>")
