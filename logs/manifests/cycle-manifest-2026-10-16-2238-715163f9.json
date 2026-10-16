@@ -1,0 +1,219 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-16 22:38",
+ "pass": "sweep cycle",
+ "head": "715163f924c6e4d24f6869c741997e9dc0192a80",
+ "head_committed_utc": "2026-10-16 22:38",
+ "collection": {
+  "last_admission": "2026-10-16 22:22",
+  "sweep_closed": "2026-10-16 22:05",
+  "ingest_started": "2026-10-16 22:06"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-10-16 21:54",
+   "end": "2026-10-16 23:25",
+   "duration": "1:31",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 100,
+  "admitted": 55,
+  "dropped": 44,
+  "screened": 542,
+  "screen_dropped": 441,
+  "pages_over_line": 263,
+  "awaiting_ingest": 0,
+  "raw_sources": 29321
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-16 20:54",
+   "seven_day": 76.0,
+   "five_hour": 3.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-16 21:05",
+   "seven_day": 77.0,
+   "five_hour": 7.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-16 21:22",
+   "seven_day": 78.0,
+   "five_hour": 11.0
+  },
+  "lint": {
+   "time_utc": "2026-10-16 22:25",
+   "seven_day": 80.0,
+   "five_hour": 19.0
+  },
+  "close": {
+   "time_utc": "2026-10-16 22:25",
+   "seven_day": 80.0,
+   "five_hour": 19.0
+  },
+  "backlog": {
+   "time_utc": "2026-10-16 22:36",
+   "seven_day": 80.0,
+   "five_hour": 19.0
+  },
+  "rules": {
+   "time_utc": "2026-10-16 22:37",
+   "seven_day": 80.0,
+   "five_hour": 19.0
+  },
+  "end": {
+   "time_utc": "2026-10-16 22:38",
+   "seven_day": 80.0,
+   "five_hour": 19.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-16",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 14,
+    "ingest_drop_rate": 0.0
+   },
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "no-development": 1
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "daily": {
+    "sweep": {
+     "no-development": 61,
+     "already-seen": 47,
+     "off-place": 40,
+     "off-topic": 20,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 11,
+     "no-development": 1,
+     "no-value": 1
+    },
+    "admitted": 18,
+    "ingest_drop_rate": 0.419
+   },
+   "journals": {
+    "sweep": {
+     "off-place": 17,
+     "already-seen": 6,
+     "off-topic": 5,
+     "fetch-blocked": 1,
+     "no-development": 1,
+     "out-of-window": 1
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   },
+   "maturity-gaps": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 101,
+     "no-value": 84,
+     "off-topic": 33,
+     "inadmissible-origin": 6,
+     "already-seen": 3,
+     "syndicated-copy": 1
+    },
+    "admitted": 781,
+    "ingest_drop_rate": 0.226
+   },
+   "newspapers": {
+    "sweep": {
+     "no-development": 18,
+     "already-seen": 16,
+     "off-topic": 15,
+     "already-held": 9,
+     "headline-only-stub": 6,
+     "fetch-blocked": 2,
+     "off-place": 1,
+     "out-of-window": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 4,
+     "already-seen": 1,
+     "no-value": 1
+    },
+    "admitted": 13,
+    "ingest_drop_rate": 0.316
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 2,
+     "no-value": 2
+    },
+    "admitted": 3,
+    "ingest_drop_rate": 0.571
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 7,
+    "ingest_drop_rate": 0.0
+   },
+   "regional": {
+    "sweep": {
+     "no-development": 35,
+     "already-seen": 31,
+     "off-topic": 22,
+     "duplicate-in-run": 14,
+     "already-held": 11,
+     "fails-record-test": 6,
+     "syndicated-copy": 4,
+     "headline-only-stub": 3,
+     "out-of-window": 2,
+     "fetch-blocked": 1,
+     "not-this-slice": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 8,
+     "no-value": 7,
+     "syndicated-copy": 1
+    },
+    "admitted": 15,
+    "ingest_drop_rate": 0.516
+   },
+   "thinktanks": {
+    "sweep": {
+     "already-seen": 10,
+     "off-place": 9,
+     "off-topic": 5,
+     "no-development": 2,
+     "date-unestablished": 1
+    },
+    "ingest": {},
+    "admitted": 5,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 1661,
+  "since": "2026-10-16 20:47"
+ }
+}
