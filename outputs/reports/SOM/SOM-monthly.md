@@ -5,13 +5,15 @@ period: 2026-09-01 to 2026-10-16
 place: SOM
 ledger_rows: 17
 not_held: 2
-record: 760ab0b31258
+record: 40a9e68ae819
 ---
 
 # Somalia: monthly update, September – October 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
+<div class="report-family">
+<div class="report-family__kicker">Country reports</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Somalia">
 <a href="https://corpus.data-landscapers.io/reports/SOM/SOM-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -19,6 +21,7 @@ record: 760ab0b31258
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="https://corpus.data-landscapers.io/reports/SOM/SOM-hosting.html">Institution hosting</a>
 </nav>
+</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

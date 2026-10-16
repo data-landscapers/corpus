@@ -578,7 +578,15 @@ a.badge:hover::after { opacity: 1; }
    off; the sections on one line beneath, ruled off; and each section's
    subjects on a line under its own heading. The subjects drop the small caps
    and the rule, a step down, because they sit inside the text they index. */
-.report-siblings { margin: 1.6rem 0 0; }
+/* The place's reports, above the title: a kicker, a rule, the links, a rule. */
+.report-family { margin-top: 2rem; }
+.report-family__kicker {
+  font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--ink-faint);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.6rem; margin-bottom: 0.7rem;
+}
+.report-siblings { margin: 0; }
 .monthly-toc { margin-bottom: 1.5rem; gap: 0.4rem 0.35rem; }
 /* Tighter than the house bar so all ten sections hold one line at desktop
    width; a phone still wraps them. */

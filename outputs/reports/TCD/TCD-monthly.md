@@ -5,13 +5,15 @@ period: 2026-09-01 to 2026-10-16
 place: TCD
 ledger_rows: 31
 not_held: 22
-record: c0834460f3eb
+record: 2c2a6cb38c65
 ---
 
 # Chad: monthly update, September – October 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
+<div class="report-family">
+<div class="report-family__kicker">Country reports</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Chad">
 <a href="https://corpus.data-landscapers.io/reports/TCD/TCD-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -19,6 +21,7 @@ record: c0834460f3eb
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="https://corpus.data-landscapers.io/reports/TCD/TCD-hosting.html">Institution hosting</a>
 </nav>
+</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

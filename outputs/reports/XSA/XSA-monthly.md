@@ -5,16 +5,19 @@ period: 2026-09-01 to 2026-10-16
 place: XSA
 ledger_rows: 13
 not_held: 2
-record: 5a158d111d03
+record: aab79f031d1d
 ---
 
 # Southern Africa: monthly update, September – October 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
+<div class="report-family">
+<div class="report-family__kicker">Region reports</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Southern Africa">
 <a href="https://corpus.data-landscapers.io/reports/XSA/XSA-progress.html">Progress</a>
 </nav>
+</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#institutions-and-mandates">Institutions and mandates</a>

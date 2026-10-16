@@ -5,13 +5,15 @@ period: 2026-09-01 to 2026-10-16
 place: UGA
 ledger_rows: 68
 not_held: 11
-record: f90ed7ae56e3
+record: 90e9d7f08ae0
 ---
 
 # Uganda: monthly update, September – October 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
+<div class="report-family">
+<div class="report-family__kicker">Country reports</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Uganda">
 <a href="https://corpus.data-landscapers.io/reports/UGA/UGA-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -19,6 +21,7 @@ record: f90ed7ae56e3
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="https://corpus.data-landscapers.io/reports/UGA/UGA-hosting.html">Institution hosting</a>
 </nav>
+</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

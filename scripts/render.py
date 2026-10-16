@@ -727,7 +727,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # bar goes above the header**, since it is about the place rather than this document, and
     # it is lifted out of the body to sit there.
     pre_header = ""
-    sib = re.search(r'<nav class="article-toc report-siblings".*?</nav>\s*', html_body, re.S)
+    sib = re.search(r'<div class="report-family">.*?</nav>\s*</div>\s*', html_body, re.S)
     if sib:
         pre_header = sib.group(0).strip() + "\n"
         html_body = html_body[:sib.start()] + html_body[sib.end():]

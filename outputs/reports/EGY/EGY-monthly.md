@@ -5,13 +5,15 @@ period: 2026-09-01 to 2026-10-16
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: 79cb84899f19
+record: 8baf17d21b98
 ---
 
 # Egypt: monthly update, September – October 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
+<div class="report-family">
+<div class="report-family__kicker">Country reports</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Egypt">
 <a href="https://corpus.data-landscapers.io/reports/EGY/EGY-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -19,6 +21,7 @@ record: 79cb84899f19
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="https://corpus.data-landscapers.io/reports/EGY/EGY-hosting.html">Institution hosting</a>
 </nav>
+</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

@@ -1319,8 +1319,14 @@ def sibling_nav(unit):
     base = bulletin().SITE_BASE
     links = f"\n{sep}\n".join(f'<a href="{base}/reports/{unit}/{unit}-{k}.html">{label}</a>'
                               for k, label in found)
-    return [f'<nav class="article-toc report-siblings" aria-label="Other reports for '
-            f'{place_name(unit)}">', links, "</nav>", ""]
+    # Headed by its own small caps, ruled off, above the page's title *(Bill, 2026-10-16)*.
+    # One raw block with no blank line inside, so Markdown passes it through whole and
+    # `render.py` can lift it above the header.
+    family = "Region reports" if unit.startswith("X") else "Country reports"
+    return ['<div class="report-family">',
+            f'<div class="report-family__kicker">{family}</div>',
+            f'<nav class="article-toc report-siblings" aria-label="Other reports for '
+            f'{place_name(unit)}">', links, "</nav>", "</div>", ""]
 
 
 def jump_bar(labels, cls, aria):
