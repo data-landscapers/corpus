@@ -578,7 +578,7 @@ a.badge:hover::after { opacity: 1; }
    off; the sections on one line beneath, ruled off; and each section's
    subjects on a line under its own heading. The subjects drop the small caps
    and the rule, a step down, because they sit inside the text they index. */
-.report-siblings { margin-bottom: 0.8rem; }
+.report-siblings { margin: 1.6rem 0 0; }
 .monthly-toc { margin-bottom: 1.5rem; gap: 0.4rem 0.35rem; }
 /* Tighter than the house bar so all ten sections hold one line at desktop
    width; a phone still wraps them. */

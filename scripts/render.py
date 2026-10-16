@@ -490,7 +490,7 @@ TEMPLATE = """<!DOCTYPE html>
         <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
       </div>
 
-      <header class="article-header{header_mod}">
+      {pre_header}<header class="article-header{header_mod}">
 {kicker}        {feedback}
         <h1 class="article-header__title">{h1}</h1>
         <div class="article-header__meta">
@@ -723,7 +723,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # position relative to the prose. `bulletin` is excluded because it builds its own, pruned by
     # a script to the categories an edition actually reaches.
     # A document that brings its own contents keeps them: the country and region monthlies carry
-    # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
+    # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*. **The siblings
+    # bar goes above the header**, since it is about the place rather than this document, and
+    # it is lifted out of the body to sit there.
+    pre_header = ""
+    sib = re.search(r'<nav class="article-toc report-siblings".*?</nav>\s*', html_body, re.S)
+    if sib:
+        pre_header = sib.group(0).strip() + "\n"
+        html_body = html_body[:sib.start()] + html_body[sib.end():]
     if kind in ("status", "monthly", "progress") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar:
@@ -790,7 +797,11 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     byline = (subtitle if kind == "bulletin"
               else f"Edition of {edition} &nbsp;·&nbsp; {subtitle}")
     kind_label = KIND_LABEL.get(kind, kind.title())
-    kicker = (f'        <div class="article-header__kicker">{kind_label}</div>\n'
+    # **A place monthly carries no kicker** *(Bill, 2026-10-16)*: the siblings bar above the
+    # header and the title already say what it is.
+    if pre_header:
+        kind_label = ""
+    kicker =(f'        <div class="article-header__kicker">{kind_label}</div>\n'
               if kind_label else "")
 
     # **The bulletin's header carries no closing rule** *(Bill, 2026-08-21)*. `main.css` gives
@@ -909,6 +920,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         colophon_rows=colophon_rows,
         current_row=current_row,
         kicker=kicker,
+        pre_header=pre_header,
         header_mod=header_mod,
         page_script=page_script,
         byline=byline,
