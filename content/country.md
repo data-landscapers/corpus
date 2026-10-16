@@ -75,3 +75,11 @@ US$m, by topic and year: budget lines by the year the fiscal year starts in, com
 ## finance-all-none
 
 No budget line or non-state commitment is yet held for {name}.
+
+## all-finance-intro
+
+Every row the finance report's All finance table adds up for {name}: the state's digital budget lines and the commitments of other financiers, in the columns the two have in common. Figures are in millions of US Dollars as counted there: a budget line at its latest stage, a commitment at its counted amount, and either at 50% where it is only partly digital or its scope is unclear. Each row's other fields are in its own table, found by its `deal_id`. Click any row to see more.
+
+## all-finance-dataset
+
+Every digital budget line and non-state finance commitment counted for {name} by Data Landscapers, in one table: side, year, topic, US dollar amount, payer, recipient, stage and scope.

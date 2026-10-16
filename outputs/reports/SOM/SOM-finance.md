@@ -26,6 +26,10 @@ place: SOM
 <tfoot><tr><th scope="row">All topics</th><td class="num">153</td><td class="num">4</td><td class="num">79</td><td class="num">8</td><td class="num">4</td><td class="num">6</td><td class="num total">255</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
+<div class="table-acts">
+<a class="btn" href="https://corpus.data-landscapers.io/countries/SOM/all-finance.html">Full table &mdash; 33 rows, all 12 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SOM/SOM-all-finance.csv" download>&darr; Download CSV</a>
+</div>
 
 ## Public budgeting and expenditure
 

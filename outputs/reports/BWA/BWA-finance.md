@@ -28,6 +28,10 @@ place: BWA
 <tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">1</td><td class="num">140</td><td class="num">126</td><td class="num">170</td><td class="num total">440</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
+<div class="table-acts">
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/all-finance.html">Full table &mdash; 158 rows, all 12 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BWA/BWA-all-finance.csv" download>&darr; Download CSV</a>
+</div>
 
 ## Public budgeting and expenditure
 

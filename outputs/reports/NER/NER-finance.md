@@ -36,6 +36,10 @@ place: NER
 <tfoot><tr><th scope="row">All topics</th><td class="num">116</td><td class="num">2</td><td class="num">7</td><td class="num">22</td><td class="num">18</td><td class="num total">165</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
+<div class="table-acts">
+<a class="btn" href="https://corpus.data-landscapers.io/countries/NER/all-finance.html">Full table &mdash; 283 rows, all 12 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NER/NER-all-finance.csv" download>&darr; Download CSV</a>
+</div>
 
 ## Public budgeting and expenditure
 

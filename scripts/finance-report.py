@@ -56,7 +56,7 @@ def flush(block: str) -> str:
     return "\n".join(line.strip() for line in block.splitlines())
 
 
-def all_finance(name: str, fin: list[dict], bud: list[dict]) -> str:
+def all_finance(iso: str, name: str, fin: list[dict], bud: list[dict]) -> str:
     rows = [{"primary_topic": r.get("primary_topic"), "yr": r.get("report_year"),
              "amt": float(r["budget_usd"]) / 1e6} for r in bud if c.budget_counted(r)]
     rows += [{"primary_topic": r.get("primary_topic"), "yr": r.get("start_year"),
@@ -66,7 +66,23 @@ def all_finance(name: str, fin: list[dict], bud: list[dict]) -> str:
     return flush(f"<p>{copy_inline('country', 'finance-all-intro', name=name)}</p>\n\n"
             + c.pivot(rows, "yr", lambda r: r["amt"])
             + f'\n<p class="table-note">'
-              f'{copy_inline("country", "finance-all-note", cutoff=c.FINANCE_CUTOFF)}</p>')
+              f'{copy_inline("country", "finance-all-note", cutoff=c.FINANCE_CUTOFF)}</p>'
+            + all_buttons(iso, len(rows)))
+
+
+def all_buttons(iso: str, n: int) -> str:
+    """The way in to the rows behind the pivot: `country.py`'s `all-finance.html` and the CSV it
+    is serving, read off that page so the button names a file that was published."""
+    page = COUNTRIES / iso / "all-finance.html"
+    if not page.exists():
+        return ""
+    base = f"{c.SITE_BASE}/countries/{iso}"
+    served = re.search(r'href="([^"/]+\.csv)" download', page.read_text(encoding="utf-8"))
+    csv_btn = (f'\n<a class="btn btn--accent" href="{base}/{served.group(1)}" download>'
+               f'&darr; Download CSV</a>' if served else "")
+    return (f'\n<div class="table-acts">\n<a class="btn" href="{base}/all-finance.html">'
+            f'Full table &mdash; {n:,} rows, all {len(c.ALL_FIELDS)} fields &rarr;</a>'
+            f'{csv_btn}\n</div>')
 
 
 def build(iso: str) -> Path:
@@ -95,7 +111,7 @@ def build(iso: str) -> Path:
         f"place: {iso}",
         "---",
         "",
-        "## All finance", "", all_finance(name, fin, bud), "",
+        "## All finance", "", all_finance(iso, name, fin, bud), "",
         "## Public budgeting and expenditure", "", absolute(budget, iso), "",
         "## Non-state finance", "", absolute(nonstate, iso), "",
     ]

@@ -57,6 +57,7 @@ absent finding, and the heading is what makes the difference visible.
 from __future__ import annotations
 
 import csv
+import io
 import html
 import json
 import re
@@ -855,6 +856,167 @@ def budgets_dataset(code: str, name: str, rows: list[dict], meta: list[dict],
         extra_keywords=("Government budgets", "Public finance", "Digital transformation"))
 
 
+# ── all finance: both sides in one table (Bill, 2026-10-16) ─────────
+#
+# The rows the finance report's *All finance* pivot adds up, one per budget line or commitment,
+# in the columns the two have in common. Every value is copied from the budgets or non-state
+# table, never re-derived: `usd_m` is the figure the pivot counts (a budget line's `budget_usd`,
+# already halved where partly digital, in millions; a commitment's `commitment_usd_m`), and
+# `deal_id` finds the row in its own table, where every other field is.
+ALL_FIELDS = (
+    ("side", "Public budget, or non-state finance"),
+    ("year", "A budget line: the year its fiscal year starts in. A commitment: the year it was made"),
+    ("primary_topic", "The topic the money is for"),
+    ("usd_m", "US$m as the All finance table counts it. A budget line at its latest stage; a "
+              "commitment at its counted amount. Partly digital or unclear: 50%"),
+    ("payer", "The state, or the financier"),
+    ("recipient", "The spending entity, or the recipient organisation"),
+    ("title", "The budget line's name, or the commitment's title"),
+    ("description", "The line's purpose, or the commitment's description"),
+    ("stage", "A budget line: the latest stage held. A commitment: its status"),
+    ("scope", "How much of it is digital: whole or full, partial, or unclear"),
+    ("url", "A commitment's source, the publisher's own link. A budget line's document is in "
+            "the budgets table"),
+    ("deal_id", "The row's identifier in the budgets or non-state finance table"),
+)
+
+
+def all_finance_rows(name: str, fin: list[dict], bud: list[dict]) -> list[dict]:
+    rows = [{
+        "side": "Public budget", "year": r.get("report_year", ""),
+        "primary_topic": r.get("primary_topic", ""),
+        "usd_m": f"{float(r['budget_usd']) / 1e6:.3f}",
+        "payer": f"{name} (state budget)", "recipient": r.get("spending_entity", ""),
+        "title": r.get("line_name", ""), "description": r.get("purpose", ""),
+        "stage": r.get("current_stage", ""), "scope": r.get("scope_confidence", ""),
+        "url": "", "deal_id": r.get("deal_id", ""),
+    } for r in bud if budget_counted(r)]
+    rows += [{
+        "side": "Non-state finance", "year": r.get("start_year", ""),
+        "primary_topic": r.get("primary_topic", ""), "usd_m": r.get("commitment_usd_m", ""),
+        "payer": r.get("financier", ""), "recipient": r.get("recipient_organisation", ""),
+        "title": r.get("title", ""), "description": r.get("description", ""),
+        "stage": r.get("status", ""), "scope": r.get("scope", ""),
+        "url": r.get("url", ""), "deal_id": r.get("deal_id", ""),
+    } for r in fin]
+    return sorted(rows, key=lambda r: (r["year"], r["side"], r["primary_topic"]), reverse=True)
+
+
+def publish_all_finance_csv(iso: str, out_dir: Path, rows: list[dict]) -> dict[str, str]:
+    """`{ISO3}-all-finance.csv`, on the budgets CSV's terms: it carries budget lines, so it is
+    undated until `BUDGETS_DATED` and an edition after, LF on the way out either way."""
+    buf = io.StringIO()
+    w = csv.DictWriter(buf, fieldnames=[f for f, _ in ALL_FIELDS], lineterminator="\n")
+    w.writeheader()
+    w.writerows(rows)
+    body = buf.getvalue().encode("utf-8")
+    stem = f"{iso}-all-finance"
+    if BUDGETS_DATED:
+        path, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "all-finance.html")
+        edition = editions.edition_of(path.stem) or ""
+        artefacts = editions.artefact_meta(stem, edition, editions.digest(body))
+    else:
+        path, edition, artefacts = out_dir / f"{stem}.csv", "", ""
+        if not path.exists() or path.read_bytes() != body:
+            path.write_bytes(body)
+    return {"csv_name": path.name, "csv_edition": edition, "csv_bytes": len(body),
+            "artefacts": artefacts}
+
+
+def all_finance_dataset(code: str, name: str, rows: list[dict], pub: dict[str, str]) -> str:
+    return structured_data.dataset(
+        name=f"Data Landscapers digital finance, budgets and non-state — {name}",
+        description=copy_md("country", "all-finance-dataset", name=name),
+        url=f"{SITE_BASE}/countries/{code}/all-finance.html",
+        csv_url=f"{SITE_BASE}/countries/{code}/{pub['csv_name']}",
+        csv_bytes=pub["csv_bytes"],
+        records=len(rows),
+        fields=structured_data.fields_from([{"Column": f, "Definition": d}
+                                            for f, d in ALL_FIELDS]),
+        entity=structured_data.place(code, name),
+        temporal=structured_data.year_span([y for y in (year(r["year"]) for r in rows)
+                                            if y is not None]),
+        modified=pub["csv_edition"] or None,
+        version=pub["csv_edition"] or None,
+        part_of=f"{SITE_BASE}/finance/",
+        extra_keywords=("Government budgets", "Development finance", "Digital transformation"))
+
+
+ALL_FINANCE_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{name} — all finance — Data Landscapers</title>
+<meta name="description" content="Every digital budget line and non-state commitment counted for {name}, in one table, searchable and downloadable.">
+<link rel="canonical" href="{base}/countries/{iso}/all-finance.html">
+{artefacts}
+{styles}
+<link rel="icon" href="{favicon}" type="image/svg+xml">
+{jsonld}
+{ga}
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
+      {feedback}
+      <h1 class="article-header__title">All finance</h1>
+      <div class="article-header__byline">{name} &nbsp;·&nbsp; {n} rows &nbsp;·&nbsp; US${total}m</div>
+    </header>
+
+    <p>{intro}</p>
+
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-cols="year, side, primary_topic, usd_m, payer, recipient, title, stage, scope, url"
+      data-filters="side, primary_topic, stage, scope"
+      data-numeric="year, usd_m"
+      data-links="url"
+      data-detail="{detail}"
+      data-tips="{tips}"
+      data-filter-all="{filter_all}"
+      data-sort="year:desc"
+      data-empty="No row matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">{name} &mdash; all finance</span>
+        <span class="dt-count">{n} rows</span>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a></dd>
+        <dt>Source</dt><dd><a href="budgets.html">Budgets</a> and <a href="finance.html">non-state finance</a> for {name}: each row is copied from one of them, and its <code>deal_id</code> finds it there</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+
+{datatable}
+</body>
+</html>
+"""
+
+
 def ensure_catalogue_csv() -> None:
     """One shared copy for every country's "Catalogue CSV" download —
     5.9 MB duplicated 54 times is real weight for nothing (§7's PDF-growth
@@ -1064,6 +1226,27 @@ def build(iso: str) -> list[Path]:
             ga=ga(), **bud_pub, **common)), encoding="utf-8")
         written.append(out_dir / "budgets.html")
         written.append(out_dir / bud_pub["csv_name"])
+
+    every = all_finance_rows(name, fin, bud)
+    if every:
+        all_pub = publish_all_finance_csv(iso, out_dir, every)
+        (out_dir / "all-finance.html").write_text(table_page(out_dir, ALL_FINANCE_PAGE.format(
+            feedback=feedback(f"{name} — all finance",
+                              f"{SITE_BASE}/countries/{iso}/all-finance.html"),
+            jsonld=all_finance_dataset(iso, name, every, all_pub),
+            intro=copy_inline("country", "all-finance-intro", name=name),
+            n=f"{len(every):,}",
+            total=f"{sum(float(r['usd_m'] or 0) for r in every):,.0f}",
+            detail=", ".join(f for f, _ in ALL_FIELDS),
+            tips=attr_json(dict(ALL_FIELDS)),
+            filter_all=attr_json({"side": "Both sides", "primary_topic": "All topics",
+                                  "stage": "All stages", "scope": "All scopes"}),
+            styles=styles(2, "country.css", "datatable.css"),
+            datatable=script("datatable.js", 2),
+            ga=ga(), **all_pub, **common)), encoding="utf-8")
+        written += [out_dir / "all-finance.html", out_dir / all_pub["csv_name"]]
+    elif (out_dir / "all-finance.html").exists():
+        (out_dir / "all-finance.html").unlink()   # `site/` is never purged; see finance.html
 
     return written
 

@@ -29,6 +29,10 @@ place: CMR
 <tfoot><tr><th scope="row">All topics</th><td class="num">966</td><td class="num">5</td><td class="num">3</td><td class="num">166</td><td class="num">394</td><td class="num">474</td><td class="num total">2,008</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
+<div class="table-acts">
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 78 rows, all 12 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CMR/CMR-all-finance.csv" download>&darr; Download CSV</a>
+</div>
 
 ## Public budgeting and expenditure
 

@@ -3,7 +3,7 @@
 - Country and region monthly updates now take the bulletin's form: each source is listed with its headline, publisher, date and summary, and reports of the same development are grouped together, oldest first. Each update opens with links to the place's other reports and a contents list of its chapters, with the topics under each.
 - The country and region boxes beside each item in the bulletin and the monthly updates now open that place's monthly update. Before, they opened the place's country page.
 - Country status reports now open like the monthly updates, under the country's name with links to its other reports. The page title no longer repeats the country.
-- Each country has a new finance report. It opens with all digital finance by topic and year, the state's budgets and other financiers' commitments added together, followed by each side on its own.
+- Each country has a new finance report. It opens with all digital finance by topic and year, the state's budgets and other financiers' commitments added together, followed by each side on its own. Every row behind the combined table is in a new full table and CSV.
 
 ## 13 October 2026
 

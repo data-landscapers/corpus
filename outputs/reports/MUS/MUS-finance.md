@@ -33,6 +33,10 @@ place: MUS
 <tfoot><tr><th scope="row">All topics</th><td class="num">80</td><td class="num">&lt;1</td><td class="num">41</td><td class="num">74</td><td class="num">78</td><td class="num total">272</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
+<div class="table-acts">
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MUS/all-finance.html">Full table &mdash; 319 rows, all 12 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MUS/MUS-all-finance.csv" download>&darr; Download CSV</a>
+</div>
 
 ## Public budgeting and expenditure
 
