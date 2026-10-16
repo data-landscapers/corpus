@@ -3,9 +3,9 @@ title: Morocco — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: MAR
-ledger_rows: 29
+ledger_rows: 30
 not_held: 14
-record: f247c8f5d706
+record: 01e717d4f8fb
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -31,6 +31,8 @@ record: f247c8f5d706
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
@@ -39,6 +41,22 @@ record: f247c8f5d706
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministry of Artificial Intelligence, Digital Transformation and Administration Reform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco appoints Ahmed Rahhou as Minister of Artificial Intelligence, Digital Transformation and Administration Reform](https://techreviewafrica.com/news/7773/morocco-appoints-ahmed-rahhou-as-minister-of-artificial-intelligence-digital-transformation-and-administration-reform)** — Tech Review Africa, 16 October 2026
+
+Sworn in 2026-10-16 in El Mansouri government; replaces Seghrouchni; AI, digital and admin reform in one ministry.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 

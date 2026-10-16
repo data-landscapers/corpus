@@ -3,9 +3,9 @@ title: West Africa — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: XWA
-ledger_rows: 27
+ledger_rows: 28
 not_held: 1
-record: a871429cac27
+record: 378685bc84ba
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -251,6 +251,8 @@ The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on t
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -301,6 +303,22 @@ The West African central bank's monetary policy committee found the union's bank
 **[Résultats de l'appel d'offres AO/Z00/DBA/054/2026 : plateforme unifiée de détection, d'analyse et de réponse aux incidents de cybersécurité à la BCEAO](https://ns2.bceao.int/sites/default/files/2026-10/R%C3%A9sultats%20-%20AO_Z00_DBA_054_2026%20-%20Fourniture%20et%20d%C3%A9ploiement%20d%E2%80%99une%20plateforme%20unifi%C3%A9e%20de%20d%C3%A9tection%2C%20d%E2%80%99analyse%20et%20de%20r%C3%A9ponse%20aux%20incidents%20de%20cybers%C3%A9curit%C3%A9%20%C3%A0%20la%20BCEAO.pdf)** — BCEAO, 7 October 2026
 
 The Central Bank of West African States (BCEAO) announced on 7 October 2026 that it had awarded its tender for the supply and deployment of a unified platform for detecting, analysing and responding to cybersecurity incidents to the Groupement Neurones Technologies. The call ran from 19 March to 29 May 2026. No contract value is given.
+
+</div>
+
+</div>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UEMOA credit information bureau (BIC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+Only 20 of 120 Burkina MFIs must report (end-2025); FCFA 2bn Article 70 threshold; client consent now mandatory.
 
 </div>
 

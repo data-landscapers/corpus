@@ -3,9 +3,9 @@ title: Central Africa — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: XCA
-ledger_rows: 12
+ledger_rows: 13
 not_held: 0
-record: ab4c4f8f9a26
+record: 93ea39ff6d4a
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: ab4c4f8f9a26
 <a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 </nav>
 
 ## Institutions and mandates
@@ -67,6 +69,38 @@ Experts from member states of the Economic Community of Central African States m
 **[Les travaux du forum sur la gouvernance de l’Internet en Afrique centrale lancés à N’Djamena - Tchadinfos](https://tchadinfos.com/2026/10/13/les-travaux-du-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale-lances-a-ndjamena/)** — Tchadinfos, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Chad's digital ministry and its partners opened the Central Africa Internet Governance Forum in N'Djamena on 13 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afrique centrale : Des engagements pour un espace numérique inclusif et souverain](https://www.atpe.td/afrique-centrale-des-engagements-pour-un-espace-numerique-inclusif-et-souverain/)** — Agence tchadienne de presse et d'édition (ATPE), 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Declaration adopted 15 Oct 2026: harmonise data-protection and cybercrime law, cut transit costs, widen access.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gouvernance de l’Internet-Afrique Centrale: les participants appellent à renforcer la souveraineté numérique - Hamama Média](https://hamama-media.com/a-la-une/gouvernance-de-linternet-afrique-centrale-les-participants-appellent-a-renforcer-la-souverainete-numerique/)** — Hamama Média, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Declaration urges heads of state to prioritise digital sovereignty; Chad backs forum's three-year action plan.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IGF 2026 : L’Afrique centrale appelle à une coopération numérique renforcée de la sous-région](https://www.digitalbusiness.africa/igf-2026-lafrique-centrale-appelle-a-une-cooperation-numerique-renforcee-de-la-sous-region/)** — Digital Business Africa, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Forum held 13-15 Oct 2026 with ECCAS, AUC, UNECA, ITU; second CASIG cohort launched at ENASTIC.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : clôture de l’édition 2026 du Forum sur la Gouvernance de l’Internet-Afrique Centrale - Dari Infos](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)** — Dari Infos, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Declaration of N'Djamena: CEEAC/ARTAC anti-cyberattack platform by August 2027; fibre interconnection; AI laws.
 
 </div>
 
@@ -315,6 +349,28 @@ CEMAC energy ministers met in Libreville on a draft regulation creating a commun
 **[Gabon/CEMAC/Énergie : validation du règlement portant création du SIE](https://agpgabon.ga/gabon-cemac-energie-validation-du-reglement-portant-creation-du-sie/)** — AGP - Agence Gabonaise de Presse, 25 September 2026
 
 Energy ministers of the Central African Economic and Monetary Community (CEMAC), meeting in Libreville on 25 September 2026, validated a regulation creating a community energy information system, SIE-CEMAC, and adopted a roadmap for it. The regulation sets rules for collecting, processing, sharing and archiving energy data. Both texts go to the UEAC Council of Ministers for adoption.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central Africa Regional Digital Integration Program (CARDIP, World Bank)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[World Bank Plans $265M Program To Expand Digital Coverage in Central Africa](https://africamonitoring.com/news/society/789)** — Africa Monitoring, 16 October 2026
+
+Estimated $265.5m; appraisal 3 Nov 2026, board 12 Apr 2027; CEMAC to implement; financing not yet approved.
 
 </div>
 

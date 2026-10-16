@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 196c0c83680b
+record: 53ab483c5da2
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -254,6 +254,14 @@ African telecommunications bodies concluded their last preparatory meeting for t
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ATU secures endorsements for 49 African proposals ahead of ITU Plenipotentiary Conference](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)** — TechReviewAfrica, 16 October 2026
+
+All 49 proposals clear the 15-country bar; Ghana makes 23 endorsing states; Doha, 9-27 November 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -337,6 +345,14 @@ Africa CDC called on member states to strengthen national health data stewardshi
 **[Africa CDC official: Continent lacks infrastructure to run its own health AI](https://www.newtimes.co.rw/article/39420/news/health/africa-cdc-official-continent-lacks-infrastructure-to-run-its-own-health-ai)** — The New Times, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 The head of digital health at the Africa Centres for Disease Control and Prevention said most health AI models presented to her are hosted on a foreign cloud, because the continent lacks the infrastructure to run them. The agency is drafting a continental health data governance framework with more than 40 member states, setting who may access health data, for what purpose and for how long.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foundations First: Transform Health at the Africa HealthTech Summit 2026](https://transformhealthcoalition.org/foundations-first-transform-health-at-the-africa-healthtech-summit-2026/)** — Transform Health, 13 October 2026
+
+100+ stakeholders, 11 health ministries on draft framework; validation 21-22 Oct in Addis, AU adoption early 2027.
 
 </div>
 
@@ -797,6 +813,14 @@ Paradigm Initiative, a digital rights organisation, told the African Commission 
 **[IPv6 as a criteria in IPv4 Soft Landing (AFPUB-2026-v6-001-DRAFT02)](https://afrinic.net/afpub-2026-v6-001-draft02.html)** — AFRINIC, 14 June 2026
 
 Summarised under [Standards](#standards).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[REGIONAL WEBINAR ON “IPv6 NATIONAL IMPLEMENTATION: ACCELERATING PAN-AFRICA TRANSITION AND CONNECTIVITY”](https://atuuat.africa/event/regional-webinar-on-ipv6-national-implementation-accelerating-pan-africa-transition-and-connectivity/)** — African Telecommunications Union, 15 October 2026
+
+First of four ATU webinars, 15 Oct 2026; Africa IPv6 at 6.1% against 41.7% worldwide in Sept 2026, per APNIC.
 
 </div>
 

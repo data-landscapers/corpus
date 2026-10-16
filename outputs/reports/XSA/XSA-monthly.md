@@ -3,9 +3,9 @@ title: Southern Africa — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: XSA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 2
-record: 00a08a310cc5
+record: 5e3b910b9b56
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -159,10 +159,28 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#cybersecurity">Cybersecurity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 </nav>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SADC Regional CIRT framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SADC STRENGTHENS REGIONAL CYBERSECURITY AND CYBERCRIME COOPERATION](https://www.sadc.int/latest-news/sadc-strengthens-regional-cybersecurity-and-cybercrime-cooperation)** — SADC, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
+
+282 delegates, Luanda, 5-9 Oct 2026; SADC operational CIRTs up from 4 (2018) to 13; first cybercrime court simulation.
+
+</div>
+
+</div>
 
 ### Data Exchange
 
