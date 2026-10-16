@@ -3,9 +3,9 @@ title: Ghana — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: GHA
-ledger_rows: 104
-not_held: 10
-record: 7ae3b49c11cd
+ledger_rows: 106
+not_held: 9
+record: 8d0933282bec
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -319,6 +319,20 @@ A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visi
 **[Liberia Studies Ghana’s Payment Switch as It Expands Instant Transfers](https://newsghana.com.gh/liberia-studies-ghanas-payment-switch-as-it-expands-instant-transfers/)** — NewsGhana, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 The governor of the Central Bank of Liberia led a delegation to the Bank of Ghana on 1 October to study how Ghana set up its interbank payment and settlement company. Liberia is working to connect its banks to the instant payment system it switched on in December 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UN Convention on Negotiable Cargo Documents</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana to host UN convention signing on digital cargo documents on October 26](https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/)** — MyJoyOnline, 16 October 2026
+
+Accra signing set for 26 Oct 2026; Shippers' Authority says benefits hinge on ratification and readiness.
 
 </div>
 
@@ -746,6 +760,20 @@ Telecel Group signed a $200 million, three-year memorandum of understanding with
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cell-site build for 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Plans 2,800 Telecom Site Builds and Upgrades Nationwide](https://techafricanews.com/2026/10/16/ghana-2800-telecom-site-builds-upgrades/)** — Tech Africa News, 16 October 2026
+
+800 new and 2,000 upgraded cell sites across MTN and Telecel; coverage gains due late 2026 into early 2027.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -795,6 +823,14 @@ Visiting the Ghana Atomic Energy Commission on 9 October, the science and techno
 **[AI now enables 55% of cybercrime in Africa as losses hit $484m – CID](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/)** — GBC Ghana Online (Ghana Broadcasting Corporation), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Ghana's police CID put Interpol's 2026 African Cyber Threat Assessment on the record at the awareness month launch: AI now enables 55% of reported cybercrime in Africa, with related losses of $484 million. CID director-general COP Lydia Yaako Donkor described generative AI supplying convincing phishing messages, cloned voices and synthetic images and video, with cryptocurrency, mule accounts and fraudulent investment schemes moving the proceeds — an industrialised, borderless ecosystem rather than isolated offending. She tied Ghana's exposure directly to the spread of mobile money, internet banking and instant transfers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana records GH¢209m in cybercrime losses in nine months](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)** — Graphic Online, 15 October 2026
+
+CSA: 4,938 incidents Jan-Sep 2026 vs 4,604 in all 2025; online fraud 48% of cases; Meta, TikTok takedown arrangement.
 
 </div>
 

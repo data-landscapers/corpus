@@ -3,9 +3,9 @@ title: Sierra Leone — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: SLE
-ledger_rows: 29
+ledger_rows: 30
 not_held: 5
-record: a90aa68103d8
+record: 6dc6ed562540
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -115,6 +115,8 @@ Sierra Leone is strengthening safeguards for children's personal data as governm
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
@@ -139,6 +141,22 @@ Sierra Leone's Independent Procurement Review Panel opened an investigation into
 **[IPRP Vindicates MoCTI](http://blacknews.uk/iprp-vindicates-mocti)** — Black News, 8 October 2026
 
 Sierra Leone's procurement review panel dismissed a bidder's complaint over the evaluation of the World Bank-funded government network contract. It directed the ministry to open financial proposals and proceed to award.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Afcom data centre, Freetown</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Center & Colocation – Afcom](http://afcom.sl/corporate/afcom-data-center-colocation/)** — Afcom, 16 October 2026
+
+Private carrier-neutral Tier III data centre in Freetown offering rack, cage and cloud hosting, per operator.
 
 </div>
 

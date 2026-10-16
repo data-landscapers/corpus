@@ -3,9 +3,9 @@ title: Togo — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: TGO
-ledger_rows: 54
-not_held: 20
-record: c8b1bbd866e1
+ledger_rows: 53
+not_held: 19
+record: 0b8fa4906f0b
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -311,20 +311,6 @@ Togo's 12th national Internet Governance Forum was held in Lomé on 19 June 2026
 </nav>
 
 ### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Internet shutdown or throttling in 2025</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Togo - Civicus Monitor](https://monitor.civicus.org/country/togo/)** — CIVICUS Monitor, 4 September 2026
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
