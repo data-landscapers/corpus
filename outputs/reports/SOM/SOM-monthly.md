@@ -3,9 +3,9 @@ title: Somalia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: SOM
-ledger_rows: 17
+ledger_rows: 18
 not_held: 2
-record: 821b8edddd17
+record: 87be2979d9ba
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -96,6 +96,8 @@ Somalia's federal government has shut 82,000 social media pages in 2026 that it 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
 </nav>
 
 ### Connectivity
@@ -123,6 +125,22 @@ Berbera is being positioned as an alternative digital gateway for landlocked Eth
 **[Somalia’s mobile money remains locked in silos](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8)** — ITWeb Africa, 5 October 2026
 
 The chief executive of Somalia's SomLink Telecom says voice calls now interconnect across six operators while mobile-money wallets remain closed to one another. He calls for cost-based pricing and shared rails, and says the largest operators have little commercial reason to open up.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commercial colocation data centres (Dalkom)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Colocation And Web Hosting Services](https://www.dalkomsomalia.com/managed-national.php?id=187)** — Dalkom Somalia, 16 October 2026
+
+Somali telecom offers colocation in its own Mogadishu and Nairobi data centres on a 10 Gbps backbone.
 
 </div>
 

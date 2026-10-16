@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: UGA
-ledger_rows: 68
+ledger_rows: 69
 not_held: 11
-record: 2aadeff93666
+record: 99b8ff24992f
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -157,6 +157,20 @@ Uganda's communications regulator said it is reviewing its enforcement against u
 **[Press Release on Illegal Wi-Fi Hotspots](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)** — Uganda Communications Commission, 13 October 2026
 
 The Uganda Communications Commission said on 13 October 2026 that about 4,000 unlicensed operators resell public Wi-Fi at UGX 1,000 per GB against UGX 2,000 from licensed providers, costing about UGX 148 billion a year in tax. The Uganda Revenue Authority will block equipment imports by unlicensed operators, and a nationwide exercise to take down installations and seize routers is imminent.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-commerce trust mark and online consumer redress</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda Champions AU single digital market plan to boost cross-border trade](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)** — Daily Monitor, 16 October 2026
+
+Trade minister plans e-commerce trust mark and online consumer redress, EAC first; Jumia-led e-commerce association.
 
 </div>
 

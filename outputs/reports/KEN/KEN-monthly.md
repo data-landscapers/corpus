@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: KEN
-ledger_rows: 137
+ledger_rows: 138
 not_held: 7
-record: acc4cf6c3206
+record: 535651388c10
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -559,6 +559,20 @@ Kenya's technology authority put the National Information Security Framework's a
 **[Central Bank of Kenya - Bank Supervision Annual Report 2025](https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf)** — Central Bank of Kenya, 22 September 2026
 
 The Central Bank of Kenya's Bank Supervision Annual Report 2025, published on 22 September 2026, reports a March 2025 survey in which 50% of supervised institutions had adopted artificial intelligence, including 66% of commercial banks, and 30% had formal AI strategies. Credit risk assessment was the commonest use. The bank plans an AI guidance note for the sector.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the international standards organisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - KEBS - Kenya Bureau of Standards](https://www.iso.org/member/1854.html)** — International Organization for Standardization, 16 October 2026
+
+ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act in 1974, as Kenya's member body. It holds one technical committee secretariat, participates in 129 committees and observes 177.
 
 </div>
 
@@ -1747,6 +1761,22 @@ Murang'a's governor accused Kenya's national government of switching off the cou
 **[MoH denies tampering with Murang’a County's health portal](https://citizen.digital/article/moh-denies-tampering-with-muranga-countys-health-portal-n392106)** — Citizen Digital, 15 October 2026
 
 Kenya's Ministry of Health denied switching off Murang'a County's AfyaKE electronic medical records system. The health cabinet secretary called the system a private arrangement between the county and its developers and said neither had sought certification from the Digital Health Agency; the county says it has run in 165 facilities since 2023.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfyaKE system shutdown: 65,000 patient records at centre of Kang’ata-Duale showdown](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)** — Daily Nation, 16 October 2026
+
+Murang'a Governor Irungu Kang'ata accuses Kenya's national government of switching off the county's AfyaKE hospital system ahead of the 30 October deadline to move to the national Tibabu system, leaving records for about 65,000 patients out of reach and stalling SHA claims. He says the system raised health revenue from Sh80 million to Sh800 million a year; the Ministry of Health says neither the county nor the developers applied for certification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Murang’a County sues State over patient, hospital system shutdown](https://nation.africa/kenya/counties/muranga/murang-a-county-sues-state-over-patient-hospital-system-shutdown-5634854)** — Daily Nation, 16 October 2026
+
+Murang'a County has petitioned Kenya's High Court against the Ministry of Health, the Digital Health Agency, the Health Cabinet Secretary, SHA and the Attorney-General after losing access to its Afya.KE health information system on 14 October 2026. It seeks orders restoring access and protecting clinical records across its more than 176 health facilities while the petition is heard.
 
 </div>
 
