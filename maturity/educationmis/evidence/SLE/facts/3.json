@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Basic and Senior Secondary Education has launched a national initiative, funded by GPE, to build a DHIS2-based learner-centred education data hub joining the annual school census, teacher management and examination data, rolling out across all 16 districts.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "national education data hub",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The hub's Unique Learner ID, to be piloted in four districts, assigns each learner an identifier linked to the NCRA-issued National Identification Number where available, per the DHIS2 article.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Unique Learner ID system",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National education data hub",
+   "country_label": "Sierra Leone",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "MBSSE",
+   "tiers": "national, district, school"
+  },
+  {
+   "system": "Unique Learner ID (ULID)",
+   "country_label": "Sierra Leone",
+   "class": "emis",
+   "platform": "web and Android app",
+   "owner": "MBSSE",
+   "tiers": "school"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "GOTHOMIS",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "primary care"
+  }
+ ],
+ "note": "Chief Medical Officer speech mentions improving data collection through DHIS2 and EMR but does not state a national HMIS is in service, linked, or reports completeness."
+}

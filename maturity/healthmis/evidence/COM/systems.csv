@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,DHIS2,Comoros national HMIS,hmis,DHIS2,Ministry of Health,national,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,DHIS2 Climate & Health instance,Comoros,other,DHIS2,Ministry of Health,testing instance,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,DHIS2,Comoros national DHIS2 platform,hmis,DHIS2,Ministry of Health,facility,2025-10-31-dhis2-comores-supply-chain-management-open-msupply
+COM,Open mSupply,eLMIS warehouses,other,Open mSupply,Ministry of Health,central and regional warehouses,2025-10-31-dhis2-comores-supply-chain-management-open-msupply
+COM,DHIS2,Comoros,hmis,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros

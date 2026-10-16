@@ -1,0 +1,17 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "hmis",
+   "stage": "2",
+   "system": "underway",
+   "linked": "",
+   "completeness": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-001",
+   "gaps": "No source held since October 2023 says: is a national one in service.",
+   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
+  }
+ ]
+}

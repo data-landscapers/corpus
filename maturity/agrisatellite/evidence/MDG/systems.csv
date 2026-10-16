@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,UNDP satellite-based geospatial assessment,Madagascar,agrisat,satellite imagery with socioeconomic data,UNDP,,2026-02-20-undp-satellite-cyclone-cropland-analysis
+MDG,Cimopolée,Madagascar,other,open-source web application using Sentinel-1 and 2 data,"UMR Espace-Dev, IRD, CNES with BNGRC",,2025-09-09-cimopolee-fully-operational

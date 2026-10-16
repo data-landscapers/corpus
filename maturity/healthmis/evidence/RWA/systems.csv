@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,DHIS2,Rwanda,hmis,DHIS2,,700+ facilities,2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI
+RWA,DHIS2-based student absence tracking,Rwanda,other,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
+RWA,DHIS2,Rwanda,hmis,DHIS2,,,2026-01-01 Digital Public Goods Alliance
+RWA,DHIS2,Rwanda,hmis,DHIS2,Ministry of Health,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Health Intelligence Center,Rwanda,other,data lakehouse,Ministry of Health,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,eLMIS,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch

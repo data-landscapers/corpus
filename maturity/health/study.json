@@ -4,7 +4,7 @@
   "searched": "2026-10-06",
   "subjects": ["dpi.mis", "digital.rural", "dpi.exchange"],
   "stage_topic": "dpi.mis",
-  "redraws": ["digital.rural--digitalisation-of-rural-health-clinics", "dpi.mis--health"],
+  "redraws": ["digital.rural--digitalisation-of-rural-health-clinics"],
   "terms": [
     "DHIS2", "DHIS 2", "HMIS", "SNIS", "SIS",
     "health information system", "health management information system",

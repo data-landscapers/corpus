@@ -1,0 +1,42 @@
+{
+ "slug": "2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The National Data Centre, run by NITA-U, hosted a cumulative 305 applications from 100 entities (ministries, departments, agencies and local governments) by the close of the strategic cycle; the plan also notes only 40% of the 250-entity enrolment target was reached.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "government hosting and co-location",
+   "owner": "NITA-U (Government of Uganda)",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre Disaster Recovery site, Jinja",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "disaster recovery site",
+   "owner": "NITA-U (Government of Uganda)",
+   "tiers": ""
+  },
+  {
+   "system": "Third National Data Centre (Entebbe primary, Jinja DR)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "planned",
+   "owner": "NITA-U (Government of Uganda)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-emi-satellite-imagery",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Ethiopian Meteorological Institute's satellite imagery page publishes Meteosat SEVIRI products including precipitation rate, dust RGB and a nowcasting product for rapidly developing thunderstorms.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "EMI Satellite Imagery",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "The Ethiopian Meteorological Institute's page carries a Rapidly Developing Thunderstorms convection warning product for nowcasting, produced with NWC-SAF software.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "EMI Satellite Imagery",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMI Satellite Imagery",
+   "country_label": "Satellite Imagery",
+   "class": "metsat",
+   "platform": "Meteosat SEVIRI, NWC-SAF",
+   "owner": "Ethiopian Meteorological Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

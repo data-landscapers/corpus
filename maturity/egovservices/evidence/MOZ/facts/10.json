@@ -1,0 +1,31 @@
+{
+ "slug": "2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Citizen Portal",
+   "country_label": "Mozambique",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "e-Gov payment gateway",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "national"
+  },
+  {
+   "system": "Electronic Procurement System (e-GP)",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "Citizen Portal listed in a strategy being drafted, no launch stated; e-GP is procurement, gateway names no service."
+}

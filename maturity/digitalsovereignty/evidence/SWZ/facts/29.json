@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-24-swz-times-national-data-centre-incident",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "An incident at the RSTP-run National Data Centre disrupted at least 12 government digital services (Government in Your Hand app, e-Visa, company registration, government website, IFMIS, Elderly Grant payment, Deeds Registration and others), indicating state systems are hosted there; RSTP first acknowledged the outage on 2026-09-18.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": "central government"
+  },
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (NDC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

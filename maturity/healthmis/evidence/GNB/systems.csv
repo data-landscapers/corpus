@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNB,DHIS2,Guinea-Bissau national HMIS,hmis,DHIS2,INASA,,2026-10-06-gnb-dhis2-hisp-saudigitus-inasa-hmis-agreement
+GNB,DHIS2,Guinea Bissau national HMIS,hmis,DHIS2,Ministry of Health,,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,DHIS2 Tracker electronic registries,maternal and child health and immunization registries,other,DHIS2 Tracker,,,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,mWater,Unicef WASH data management,other,mWater,Unicef,,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile

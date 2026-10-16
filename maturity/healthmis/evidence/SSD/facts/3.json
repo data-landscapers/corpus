@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-01-who-his-maturity-assessment-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The WHO/MoH maturity assessment says South Sudan has implemented DHIS 2 at both the national and sub-national/district levels.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The WHO/MoH maturity assessment records the completeness rate for routine reports at 62% and for indicator data at 57%.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS 2",
+   "country_label": "South Sudan",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": "national, sub-national/district"
+  }
+ ],
+ "note": ""
+}

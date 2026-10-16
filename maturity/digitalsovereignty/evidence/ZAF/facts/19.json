@@ -1,0 +1,140 @@
+{
+ "slug": "2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "A DCDT presentation to Parliament's communications committee, dated 24 February 2026, states that the National Data and Cloud Policy provides that government data carrying content on national security and the sovereignty of the Republic shall be stored only in digital infrastructure located within South Africa's borders.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "National Policy on Data and Cloud"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "SITA Centurion data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Policy on Data and Cloud",
+   "country_label": "National Data and Cloud Policy",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": "national government"
+  },
+  {
+   "system": "SITA data centres (Centurion and Beta)",
+   "country_label": "SITA data centres",
+   "class": "other",
+   "platform": "",
+   "owner": "State Information Technology Agency (SITA)",
+   "tiers": "national government"
+  },
+  {
+   "system": "Teraco Isando",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Bredell",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Midrand",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Samrand",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Waterfall City",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix JN1",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Brackenfell",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Cape Town",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "SITA Centurion data centre",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SITA (state agency)",
+   "tiers": ""
+  },
+  {
+   "system": "SITA Beta data centre",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SITA (state agency)",
+   "tiers": ""
+  },
+  {
+   "system": "National integrated government data centre (proposed)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "proposed, under SITA",
+   "tiers": ""
+  },
+  {
+   "system": "Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",
+   "country_label": "South Africa",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datalocalisation, nationaldatacentres; no document opened"
+}

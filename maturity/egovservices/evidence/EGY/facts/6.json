@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "biometric electronic-verification (digital identity) system",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "telecom operator smartphone apps",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": "national"
+  }
+ ],
+ "note": "The document describes identity verification and e-signature for licensed telecom operators' apps, not a government service portal, a counted service or portal usage."
+}

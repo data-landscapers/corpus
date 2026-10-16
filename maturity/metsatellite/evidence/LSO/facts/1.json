@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-08-wis-lesotho-climate-weather-enhancement-initiative",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "A 2023 project by the provider deployed a Lesotho nowcasting system integrating meteorological observations, satellite data and model outputs, with an internal portal for meteorological service staff.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Lesotho nowcasting system",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nowcasting system",
+   "country_label": "Lesotho",
+   "class": "metsat",
+   "platform": "NWP and HPC",
+   "owner": "Lesotho Meteorological Service",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

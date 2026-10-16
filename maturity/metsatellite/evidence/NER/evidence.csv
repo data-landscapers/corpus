@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,metsat,stream,underway,"Niger's national meteorological directorate (DMN) runs a live satellite imagery page serving EUMETView/Meteosat products (Natural Colour Enhanced RGB, GEO/LEO-blended precipitation rate, Dust RGB for dust-storm monitoring).",2026-03,month,EUMETView,metsat,2026-03-01-dmn-niger-image-satellite,https://www.niger-meteo.ne/image-satelitaire/

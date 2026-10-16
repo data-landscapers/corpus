@@ -1,0 +1,108 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,AgriWatch,AGO,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+AGO,ANGEO-1,Angola,other,Earth observation satellite programme,GGPEN (MINTTICS),national,2026-10-15-ago-techreviewafrica-ggpen-geosat-earth-observation-loi
+AGO,ANGOSAT-2,Angola,other,telecommunications satellite,GGPEN,national,2026-06-07-angola-secretary-of-state-budget-visits-ggpen
+AGO,ANGEO-1,Angola,other,Earth observation satellite programme,GGPEN,national,2026-05-14-angeo-1-airbus-system-key-point-milestone
+AGO,ANGEO-1,Angola,other,"Earth observation satellite, built by Airbus Defence and Space",GGPEN,national,2026-03-17-angola-launches-259-million-earth-observation-satellite-project
+AGO,AngoSat-2,Angola,other,telecommunications satellite,Angola,national,2026-03-17-angola-launches-259-million-earth-observation-satellite-project
+AGO,ANGEO-1 Earth Observation Satellite System,Angola,other,Earth-observation satellite built by Airbus,Government of Angola,,2025-01-01-societe-generale-ago-2025-angola-earth-observation-satellite-bw02
+BDI,IGEBU Service de Cartographie,Burundi,agrisat,"ArcGIS, QGIS, remote sensing, drones",Institut Géographique du Burundi (IGEBU),national,2026-08-28-igebu-service-de-cartographie
+BDI,RGPHAE census cartography database,Burundi,other,ArcGIS Pro,Bureau Central du Recensement with IGEBU,national,2026-02-09-aco-burundi-cartographie-censitaire-apurement-base-rgphae
+BWA,CHIRPS / CHIRTS,Botswana,other,satellite-derived gridded rainfall and temperature data,Climate Hazards Center,,2026-03-25-crop-yield-drought-indices-agricultural-monitoring
+BWA,CHIRPS,Botswana,other,satellite rainfall estimates,"USGS and Climate Hazards Group, UC Santa Barbara",,2026-03-20-drought-regionalization-chirps-satellite-data
+BWA,AgriWatch,BWA,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+CAF,"Bangui/M'Poko Centre Meteorologique Principal (SADIS, METEOSAT MSG reception)",CAF,other,"SADIS, METEOSAT (MSG)",ASECNA,,2025-08-07-asecna-eaip-feff-bangui-mpoko-met
+CIV,SODEXAM Direction de la Météorologie Nationale,Côte d'Ivoire,other,,SODEXAM,,2026-08-11-cote-divoire-sodexam-jool-international-convention-meteo-satellite-ia
+CIV,Space Agency of Côte d'Ivoire (ASCI),Côte d'Ivoire,other,,Ministry of Higher Education and Scientific Research,,2026-08-28-spaceinafrica-cote-divoire-asci-dg-ouattara
+COD,RDC-SAT,DRC,agrisat,Earth observation satellite,National Centre for Remote Sensing (CNT),national,2026-06-17-spacebel-rdc-sat-contract
+COG,Congo first Earth-observation satellite (Congo-Kazakhstan high-resolution space and remote-sensing system),Congo,agrisat,satellite (planned),Government of Congo with Kazakhstan,national,2026-09-12-cog-adiac-congo-kazakhstan-first-observation-satellite
+COG,FAO/GIEWS Earth Observation for Crop Monitoring,The Republic of the Congo,agrisat,satellite imagery,FAO GIEWS,international,2026-06-23-fao-giews-country-brief-republic-of-the-congo
+COM,"FAO GIEWS Earth Observation country indicators (ASI, Drought Intensity, Weighted Mean VHI)",Comoros,agrisat,eo.apps.fao.org,FAO GIEWS,national and sub-national (GAUL 2) units,2026-08-31-fao-giews-earth-observation-comoros
+DJI,ICPAC regional agricultural early warning systems and dashboards,IGAD region (covers Djibouti),agrisat,,ICPAC / IGAD,regional,2026-03-05-igad-eoi-crop-monitoring-forecasting
+EGY,Copernicus Sentinel-2,Egypt,agrisat,satellite imagery,European Space Agency,,2026-06-26-esa-earth-from-space-desert-cropland-egypt
+EGY,WaPOR,Egypt,agrisat,Sentinel-2 imagery with field data,FAO with Egypt's Ministry of Water Resources and Irrigation and Ministry of Agriculture and Land Reclamation,,2026-06-24-fao-wapor-crop-type-mapping-mallawi-egypt
+ETH,CropWatch,Ethiopia,agrisat,cloud platform,AIRCAS,,2026-07-06-cropwatch-etwatch-training-workshop-ethiopia
+ETH,ETWatch,Ethiopia,agrisat,cloud platform,AIRCAS,,2026-07-06-cropwatch-etwatch-training-workshop-ethiopia
+ETH,National Spatial Data Infrastructure,Ethiopia,other,,Space Science and Geospatial Institute,national,2025-07-03-eth-2025-177-05
+ETH,National Spatial Data Infrastructure,Ethiopia,other,,Space Science and Geospatial Institute,national,2024-07-04-eth-2024-177-05
+GAB,AGEOS,Gabon,other,,AGEOS,,2026-01-30-arcep-ga-ageos-partenariat-donnees-satellitaires
+GAB,AGEOS,Gabon,other,,AGEOS,,2025-10-28-ageos-lasac-memorandum-cooperation-spatiale
+GHA,Ghana Agricultural Information and Monitoring System,Ghana,other,satellite imagery and vegetation data,BigData Ghana Limited (private company),,2026-08-10-myjoyonline-bigdata-ghana-decision-problem
+GHA,National Forest Monitoring System,Ghana,other,,,,2026-08-10-myjoyonline-bigdata-ghana-decision-problem
+GMB,ROOTS geospatial platform,The Gambia,agrisat,geospatial monitoring platform,"Government of The Gambia (ROOTS project, IFAD-supported, FAO technical support)",national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
+GMB,National Land Cover Reference System (NLCRS),The Gambia,agrisat,land cover classification and map,FAO with Gambian partners,national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
+GNB,FAO/GIEWS Earth Observation for Crop Monitoring,Guinea-Bissau,agrisat,,FAO GIEWS,,2026-02-06-fao-giews-country-brief-guinea-bissau
+GNB,Bulletin de suivi de la saison pluvieuse,Guinée-Bissau,agrisat,"Google Earth Engine, ArcGIS Pro",WFP Guinea-Bissau,,2025-08-01-wfp-guine-bissau-bulletin-suivi-saison-pluvieuse-aout-2025
+GNQ,SEPAL,Equatorial Guinea,other,FAO cloud-based satellite data analysis platform with Google Earth Engine and Collect Earth Online,FAO (Open Foris),,2025-10-15-openforis-fao-metodologia-global-motores-deforestacion
+KEN,Crop Measurement and Evaluation (CroME) Initiative,Kenya,agrisat,satellite imagery and AI,"Ministry of Agriculture and Livestock Development with Kenya Space Agency, Microsoft AI for Good Lab, NASA Harvest",national,2026-02-10-crome-initiative-launch-kenya-space-agency
+LBR,Automated Decision Management System (ADMS),Liberia,agrisat,centralized platform,Environmental Protection Agency (Liberia CIS Project),,2026-04-06-liberia-epa-reoi-automated-decision-management-system-climate-services
+LBY,MERWAT,Libya,agrisat,geospatial platform,,,2026-05-12-fao-libya-strengthens-geospatial-platforms-ai-tools-water-oasis-management
+LBY,AIDA,Libya,other,AI system demonstrated by FAO,FAO,,2026-05-12-fao-libya-strengthens-geospatial-platforms-ai-tools-water-oasis-management
+LBY,MerWat-Libya,Libya,other,geospatial platform,"Ministry of Agriculture and Livestock, Ministry of Water Resources, Libyan Center for Remote Sensing and Space Sciences",,2024-03-30-launching-the-geospatial-platform-merwat-libya
+MAR,Mohammed VI A and B satellites,Morocco,other,satellite,Morocco,,2024-06-01-morocco-copuos-67-statement-space-sustainable-development
+MAR,Royal Centre for Remote Sensing,Morocco,other,,Morocco,,2024-06-01-morocco-copuos-67-statement-space-sustainable-development
+MDG,UNDP satellite-based geospatial assessment,Madagascar,agrisat,satellite imagery with socioeconomic data,UNDP,,2026-02-20-undp-satellite-cyclone-cropland-analysis
+MDG,Cimopolée,Madagascar,other,open-source web application using Sentinel-1 and 2 data,"UMR Espace-Dev, IRD, CNES with BNGRC",,2025-09-09-cimopolee-fully-operational
+MLI,RIICE,Mali,agrisat,RIICE digital platform,"AfricaRice, IRRI, sarmap with Ministry of Agriculture, IER, Mali-Meteo",national,2026-05-14-aiccra-institutionnalisation-outil-riice-mali
+MOZ,Statistics from Space project,Mozambique,agrisat,"EO-based sampling frame, smartphone field-data app, cloud aggregation and visualization platform","University of Twente, Universidade Eduardo Mondlane, IFPRI (CGIAR)","pilot provinces Gaza, Manica, Zambezia",2026-06-10-cgiar-statistics-from-space-mozambique
+MRT,MISBAR,Mauritanie,agrisat,,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,MISLAND-Mauritanie,Mauritanie,agrisat,national servers,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,GUETCROP,Mauritanie,agrisat,,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,SAQIYA-Mauritanie,Mauritanie,agrisat,"mobile app, national servers","CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MUS,CropWatch Cloud,Mauritius,agrisat,CropWatch Cloud,"AIRCAS (with UNCTAD and ANSO, via CropWatch-ICP)",national,2025-09-18-unctad-cropwatch-training-workshop
+MWI,GEOCIF,Malawi,agrisat,NASA Harvest machine-learning yield forecast model,"NASA Harvest with FAO, for the Ministry of Agriculture",district,2026-02-01-in-season-yield-forecasting-malawi
+MWI,National Committee on Crop Estimates,Malawi,other,,Ministry of Agriculture,national,2026-02-01-in-season-yield-forecasting-malawi
+NAM,satellite data receiving ground station,Namibia,agrisat,"ground station at Telecom Earth Station, Windhoek",Namibia (handed over by China),national,2026-02-13 Namibia gets  Chinese satellite ground station
+NAM,AgriWatch,NAM,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+NAM,6th Grain crop-monitoring agreement,Namibia,agrisat,satellite imagery and geospatial analysis,government of Namibia with 6th Grain Corporation,national,2026-09-17-nam-universities-local-technology-skills
+NAM,Remote sensing agricultural agreement with 6th Grain,Namibia,agrisat,satellite imagery and AI,"Ministry of Agriculture, Fisheries, Water and Land Reform",national,2026-09-14-nam-namibian-6th-grain-n13m-cancelled-crop-tender
+NAM,Remote Sensing Agricultural Services Agreement,Namibia,agrisat,"satellite imagery, geospatial analysis and AI","Ministry of Agriculture, Fisheries, Water and Land Reform",national,2026-08-24-namibian-sun-govt-weighs-action-official-n40m-ai-deal
+NAM,Remote Sensing Agricultural Services Agreement (AI and satellite crop monitoring system),Namibia,agrisat,6th Grain Corporation,"Ministry of Agriculture, Fisheries, Water and Land Reform",national,2026-08-20-namibian-cabinet-blocks-us-ai-crop-monitoring-tender
+NAM,AI-powered agricultural monitoring contract,Namibia,agrisat,6th Grain Corporation,"Ministry of Agriculture, Fisheries, Water and Land Reform",national,2026-08-17-namibia-agriculture-ai-deal-6th-grain-transparency
+NAM,"Satellite ground data receiving station, Telecom Earth Station",Namibia,other,CBERS-4 data,Namibia,national,2026-02-13-namibia-china-satellite-ground-station-handover
+NER,IGNN Teledetection et technique spatiales (TTS),Niger,other,Sentinel optical and radar imagery,Institut Geographique National du Niger,,2026-08-10-niger-ignn-teledetection-page
+NGA,Anchor Borrowers' Programme,Nigeria,agrisat,satellite information and GeoAI,Central Bank of Nigeria,,2026-09-02-techcabal-kayode-adeniyi-geospatial-ai-water
+RWA,Planet national satellite data program,Rwanda,agrisat,Planet satellite data,Rwanda Space Agency,national,2026-08-10-itweb-planet-rwanda-national-satellite-data-program
+RWA,GeoHub,Rwanda,agrisat,satellite images,Rwanda Space Agency,national,2024-09-30 Rwanda's digital transformation an effort at intergovernmental collaboration
+SDN,FAO remote sensing assessment of cultivated cropland in the Sudan,Sudan,agrisat,remote sensing (Sentinel-2 and high-resolution imagery named for related Gezira report),FAO,,2025-01-01-fao-remote-sensing-cultivated-cropland-sudan-2024
+SDN,Digital investment map,Sudan,other,,National Investment Authority with Sudanese Survey Authority,,2026-10-13-sdn-investment-map-digital-governance
+SDN,Giga Project Connect,Sudan,other,,Giga (UNICEF and ITU),,2026-08-10-omdena-giga-unicef-sudan-ai-school-detection
+SEN,Digital Earth Africa satellite data and analytical tools,Senegal,agrisat,Digital Earth Africa,Digital Earth Africa,,2026-04-03-digital-earth-africa-ansd-senegal-framework-agreement
+SEN,RIICE (Remote Sensing-based Information and Insurance for Crops in emerging Economies),Senegal,agrisat,"Sentinel-1A, Landsat 8/9, Sentinel-2, ORYZA crop model","IRRI, ISRA, sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
+SLE,Coordination and Visualization Platform (CVP),Sierra Leone,other,,DSTI and Catholic Relief Services,,2026-06-30-dsti-crs-geospatial-data-mou
+SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,,,2026-06-10-sierra-leone-gcf-sap033-climate-information-systems-faa-effective
+SLE,GeoApp/EADPAD,Sierra Leone,other,"ArcGIS Pro, tablets, satellite imagery",Statistics Sierra Leone,,2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed
+SOM,SWALIM remote sensing and image analysis unit,Somalia,agrisat,VHR/MR/LR satellite imagery,FAO SWALIM,national,2026-08-29-swalim-remote-sensing-service
+SOM,Somalia Monthly Vegetation Conditions (NDVI),Somalia,agrisat,NOAA/USGS E-MODIS NDVI,FSNAU,national,2026-08-19-fsnau-ndvi-vegetation-conditions
+SSD,Joint Food Security Monitor,South Sudan,agrisat,World Bank microdata catalogue,"World Bank Development Data Group, Joint Monitoring Report team",admin-2 (78 areas),2025-10-20-south-sudan-joint-food-security-monitor
+SSD,Joint Food Security Monitor,South Sudan,agrisat,World Bank microdata catalogue,"World Bank Development Data Group, Joint Monitoring Report team",admin-2 (78 areas),2026-07-06-south-sudan-joint-food-security-monitor
+SYC,PRAIS 4,Seychelles,other,UNCCD reporting portal,UNCCD,,2026-03-11-oss-seychelles-unccd-2026-reporting-tor
+SYC,Trends.Earth,Seychelles,other,,,,2026-03-11-oss-seychelles-unccd-2026-reporting-tor
+SYC,Seychelles: NDVI at Subnational Level,Seychelles,other,HDX,WFP,,2026-03-03-hdx-wfp-seychelles-ndvi-subnational
+TCD,FAO/GIEWS Earth Observation for Crop Monitoring,Chad,agrisat,,FAO GIEWS,,2026-01-27-fao-giews-country-brief-chad
+TCD,Cadre Harmonisé,Chad,other,,,,2026-01-27-fao-giews-country-brief-chad
+TGO,Togo-Kyrgyzstan earth-observation cooperation,Togo,agrisat,satellite data supplied by Kyrgyzstan,Ministry of Digital Transformation,national,2026-10-04-technologies-spatiales-le-togo-et-le-kirghizistan-lancent-une-cooperation
+TGO,Togo AI Lab,Togo,agrisat,satellite imagery crossed with field and administrative data,Ministère de l'Efficacité du Service Public et de la Transformation Numérique,national,2026-06-16-fid-togo-ai-lab-politiques-publiques
+TGO,SIHAM,Togo,other,SMS and voice call,ANAMET / FSRP,national,2025-10-23-togo-anamet-antenne-reception-images-satellitaires
+TGO,ANAMET satellite image reception antenna,Togo,agrisat,satellite reception antenna,ANAMET,national,2025-10-23-togo-anamet-antenne-reception-images-satellitaires
+TUN,SWAMED,Tunisia,other,irrigation-water monitoring system with AI decision-support,Universita Vanvitelli-led consortium incl. CRTEAN,,2025-11-17-crtean-swamed-ia-agriculture-mediterranee
+TUN,WaPOR,Tunisia,agrisat,remote sensing for water productivity,FAO,,2024-11-01-fao-wapor-tunisie-activites-teledetection-agriculture
+TZA,SAT-CARE,Tanzania,agrisat,"satellite-based agricultural information system, digital agriculture platform and mobile advisory","Ministry of Agriculture, with IFAD and China",,2026-09-25-thecitizen-tza-space-technology-agriculture-2026
+TZA,National Food Security Bulletin,Tanzania,agrisat,bulletin using satellite-derived vegetation data,,,2026-09-25-thecitizen-tza-space-technology-agriculture-2026
+TZA,Rada 360,Tanzania,other,satellite crop monitoring platform,Rada 360 (private agritech),,2026-09-11-musa-mishamo-tanzania-satellite-farm-monitoring
+UGA,KijaniSpace Space-IoT Solution Box,Uganda,agrisat,Copernicus Earth Observation with IoT sensors,KijaniSpace,pilot,2026-08-03-kijanispace-greater-hope-farm-uganda
+UGA,SmartCane,Uganda,other,"Planet, Sentinel, Landsat, MODIS",Resilience BV,commercial sugarcane service,2025-10-24-smartcane-esa-space-solutions
+UGA,NASA Harvest,Uganda,agrisat,satellite imagery,NASA Harvest / University of Maryland,research,2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad
+ZAF,Coarse Resolution Imagery Database (CRID),South Africa,agrisat,"satellite imagery archive (NOAA AVHRR, MODIS, VEGETATION, MSG)","ARC Institute for Soil, Climate and Water",national,2026-08-26-arc-iscw-earth-observation
+ZAF,Umlindi newsletter,South Africa,agrisat,monthly newsletter by web and e-mail,"ARC Institute for Soil, Climate and Water",national,2026-08-26-arc-iscw-earth-observation
+ZAF,GeoMaize,South Africa,other,"mobile app, dashboards and SMS alerts on Sentinel-2 and Landsat-8 data",team from the Open Data for Social Impact Challenge,,2026-01-21-geomaize-satellite-crop-monitoring
+ZAF,AgriWatch,ZAF,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+ZMB,Mytochondria platform,Zambia,other,satellite imagery and AI,Mytochondria (private company),,2026-09-22-zambia-mytochondria-ai-satellite-farming
+ZMB,AgriWatch,ZMB,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+ZMB,ZNSDI geoportal,Zambia,other,"open-source GeoNetwork, map server, map viewer",Electronic Government Division,,2026-06-18-zambia-launches-znsdi-policy-geoportal
+ZMB,ZNSDI Zambia Portal,Zambia,other,,SMART Zambia,,2026-06-16-znsdi-policy-and-zambia-portal-launched
+ZWE,EOSTAT-Zimbabwe,Zimbabwe,agrisat,Earth observation crop monitoring,"FAO with the Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",national,2025-11-28-fao-eostat-ict-innovator-award
+ZWE,AgriWatch,ZWE,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+ZWE,Yieldera,Zimbabwe,other,satellite agricultural intelligence platform,private developer,,2025-08-17-yieldera-satellite-agriculture-zimbabwe
+ZWE,EOSTAT Phase II,Zimbabwe,agrisat,Earth observation time series and anomaly detection,"FAO with ZIMSTAT, ZINGSA, SIRDC, ZCHPC and the Meteorological Services Department",national,2025-06-13-fao-eostat-phase-ii-launch
+ZWE,Farmer Registry System (prototype),Zimbabwe,other,"farm parcel boundaries, over 300,000 digitized",,,2025-06-13-fao-eostat-phase-ii-launch

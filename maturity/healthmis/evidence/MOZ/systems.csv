@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,SIS-MA,Mozambique,hmis,,MISAU,"unidade sanitaria, distrital, provincial, central",2025-01-01-misau-plano-melhoria-qualidade-dados-2025-2029
+MOZ,SIS-MA,Mozambique,hmis,DHIS2,MISAU (Departamento de Informacao para Saude),,2026-08-28-sisma-interoperability-platform
+MOZ,Ferramenta Central,Mozambique,other,,CMAM,,2026-08-28-sisma-interoperability-platform
+MOZ,SIRCEV,Mozambique,other,,Ministry of Justice,,2026-08-28-sisma-interoperability-platform
+MOZ,upSCALE,Mozambique,hmis,mobile eCHIS,Malaria Consortium / Ministry of Health,community,2025-03-31-iati-gb-chc-1099776-2u-mz-mozambique-upscale-echis

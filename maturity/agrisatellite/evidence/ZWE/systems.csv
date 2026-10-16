@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,EOSTAT-Zimbabwe,Zimbabwe,agrisat,Earth observation crop monitoring,"FAO with the Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",national,2025-11-28-fao-eostat-ict-innovator-award
+ZWE,AgriWatch,ZWE,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch
+ZWE,Yieldera,Zimbabwe,other,satellite agricultural intelligence platform,private developer,,2025-08-17-yieldera-satellite-agriculture-zimbabwe
+ZWE,EOSTAT Phase II,Zimbabwe,agrisat,Earth observation time series and anomaly detection,"FAO with ZIMSTAT, ZINGSA, SIRDC, ZCHPC and the Meteorological Services Department",national,2025-06-13-fao-eostat-phase-ii-launch
+ZWE,Farmer Registry System (prototype),Zimbabwe,other,"farm parcel boundaries, over 300,000 digitized",,,2025-06-13-fao-eostat-phase-ii-launch

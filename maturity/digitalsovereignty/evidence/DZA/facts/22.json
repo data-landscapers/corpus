@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-09-dza-echchaab-trois-ans-algerie-numerique-2030",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Ech-Chaab, citing the High Commission's record for April 2024 to September 2026, lists sovereign cloud computing, the secured government network and national data centres among delivered milestones, and the national digital services centre inaugurated on 5 July 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "sovereign cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "sovereign cloud",
+   "country_label": "Algeria",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": "national"
+  },
+  {
+   "system": "National Algerian Digital Services Centre",
+   "country_label": "Algeria",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "State",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

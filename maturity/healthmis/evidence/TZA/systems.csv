@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,DHIS2,Tanzania,hmis,DHIS2,,central and subnational,2025-12-01-impulse-erhis-newborn-data-functionalities
+TZA,DHIS2,Tanzania,hmis,DHIS2,Ministry of Health,"facility, district, national",2024-03-22-tza-decentralizing-user-support-in-dhis2-a-case-of-hmis-in-tanzania
+TZA,DHIS2,Tanzania,hmis,DHIS2,Ministry of Health,,2026-09-30-tza-mediawireexpress-who-controls-health-data
+TZA,DHIS2 (HMIS),Tanzania,hmis,DHIS2,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,HRHIS3,Tanzania,other,,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,Health Facility Registry,Tanzania Mainland,other,,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,DHIS2,Tanzania,hmis,DHIS2,Ministry of Health,,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,GOTHOMIS,Tanzania,other,,Ministry of Health,primary care,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,ZHMIS,Tanzania (Zanzibar),hmis,,Ministry of Health Zanzibar,,2025-10-01-tza-advancing-tanzanias-information-systems-interoperability-agenda
+TZA,Zanzibar Health Information Layer,Tanzania (Zanzibar),other,,Ministry of Health Zanzibar,,2025-10-01-tza-advancing-tanzanias-information-systems-interoperability-agenda
+TZA,ZanHFR,Tanzania (Zanzibar),other,,,,2025-10-01-tza-advancing-tanzanias-information-systems-interoperability-agenda

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,hmis,system,coverage,underway,2025-12-22,GMB-001,,
+GMB,hmis,linked,coverage,linked,2026-07,GMB-002,,
+GMB,hmis,completeness,coverage,,,,,nothing held

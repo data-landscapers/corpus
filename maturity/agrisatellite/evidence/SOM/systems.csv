@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,SWALIM remote sensing and image analysis unit,Somalia,agrisat,VHR/MR/LR satellite imagery,FAO SWALIM,national,2026-08-29-swalim-remote-sensing-service
+SOM,Somalia Monthly Vegetation Conditions (NDVI),Somalia,agrisat,NOAA/USGS E-MODIS NDVI,FSNAU,national,2026-08-19-fsnau-ndvi-vegetation-conditions

@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,DHIS2,Uganda,hmis,DHIS2,,central and subnational,2025-12-01-impulse-erhis-newborn-data-functionalities
+UGA,HMIS e-register,Uganda,hmis,mobile digital register,Ministry of Health,Health Centre II and III,2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january
+UGA,DHIS2,Uganda,hmis,DHIS2,Ministry of Health,,2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january
+UGA,eAFYA EMR,Uganda,other,,"Ministry of Health, Division of Health Information",,2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january
+UGA,DHIS2,Uganda,hmis,DHIS2,Ministry of Health,national,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,OpenHIM,Uganda,other,OpenHIM,Ministry of Health,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,eIDSR,Uganda,other,,Ministry of Health,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,DHIS2,MoH District Health Information Software,hmis,DHIS2,"Ministry of Health, Division of Health Information",national,2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october
+UGA,eCHIS,electronic Community Health Information System,other,,"Ministry of Health, Community Health Department","community, six-district pilot",2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october
+UGA,NIRA CRVS system,NIRA civil registration platform,other,,NIRA,national,2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october

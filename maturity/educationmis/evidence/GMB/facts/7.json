@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DHIS2 says MoBSE's Education Data Centre, on DHIS2-Ed, now gives live dashboards that update as new information flows in, with historical census data migrated into it, replacing paper census forms and yearbooks.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "Education Data Centre (DHIS2-Ed)",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "DHIS2 says MoBSE's digital student registry, piloted in 2020 in 200 schools, gives each learner a unique ID and has scaled nationwide, with nearly 80% of Gambian learners included.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "digital student registry",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Data Centre (DHIS2-Ed)",
+   "country_label": "The Gambia",
+   "class": "emis",
+   "platform": "DHIS2-Ed",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

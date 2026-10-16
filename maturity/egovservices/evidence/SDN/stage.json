@@ -1,0 +1,17 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "eservices",
+   "stage": "5",
+   "services": "inservice",
+   "gateway": "single",
+   "usage": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
+  }
+ ]
+}

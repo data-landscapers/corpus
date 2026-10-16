@@ -1,0 +1,8 @@
+{"slug": "2025-06-01-nga-nhmis-bulletin-june-2025-edition", "facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Federal Ministry of Health's June 2025 NHMIS Bulletin reports national health facility data through the National Health Management Information System, with states encouraged to report directly into DHIS-2 and facilities across states and the FCT shown reporting.", "as_of": "2025-06", "date_precision": "month", "system": "National Health Management Information System (NHMIS)", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "completeness", "value": "published", "fact": "The Federal Ministry of Health says the national health facility reporting rate for June 2025 was 91.5% at the time of the report, with monthly rates of 90.9% to 93.4% for January to June 2025.", "as_of": "2025-06", "date_precision": "month", "system": "National Health Management Information System (NHMIS)", "class": "hmis"}
+], "systems": [
+{"system": "National Health Management Information System (NHMIS)", "country_label": "Nigeria", "class": "hmis", "platform": "DHIS-2", "owner": "Federal Ministry of Health", "tiers": "facility, state, national"},
+{"system": "MSDAT national platform", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Federal Ministry of Health", "tiers": ""},
+{"system": "Health Facility Registry", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Federal Ministry of Health", "tiers": ""}
+], "note": ""}

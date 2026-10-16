@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,plateforme nationale DHIS2,Togo,hmis,DHIS2,Direction nationale du systeme d'information sanitaire et de l'informatique,national,2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo
+TGO,eRDQA,Togo,other,"Android app, integrated with DHIS2",,,2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo
+TGO,DHIS2 HMIS,Togo,hmis,DHIS2,Ministry of Health,national,2026-08-04-dhis2-togo-climate-health-country-profile
+TGO,DHIS2-based One Health platform,Togo,other,DHIS2,Ministry of Health with Agriculture and Environment ministries,pilot,2026-08-04-dhis2-togo-climate-health-country-profile

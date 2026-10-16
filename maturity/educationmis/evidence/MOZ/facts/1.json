@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-building-responsive-emis-policies-robust-education-data",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Mozambique's Ministry of Education presented its EMIS (StatEduc), updated in 2021 and 2022, as fed by censuses covering primary, secondary, adult education and school mapping.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "StatEduc",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry's Head of Statistics said Mozambique plans a fully digital platform for real-time entry, piloting tools like DHIS2 for offline dashboards.",
+   "as_of": "2025-07-22",
+   "date_precision": "day",
+   "system": "StatEduc",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "StatEduc",
+   "country_label": "Mozambique",
+   "class": "emis",
+   "platform": "Microsoft .NET, MS SQL Server 2008 R2",
+   "owner": "Ministry of Education and Culture",
+   "tiers": "school census, national"
+  }
+ ],
+ "note": ""
+}

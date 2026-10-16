@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,SIGE,Togo,emis,DHIS2,Ministry of Education,"national, regional, inspection",2026-05-04-gpe-kix-study-tour-education-data-system
+TGO,StatEduc,Togo,emis,CSPro,Ministry of Education,national,2026-05-04-gpe-kix-study-tour-education-data-system
+TGO,StatEduc,Togo,emis,StatEduc,Ministry of Primary and Secondary Education,"national, subnational",2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,DHIS2 (integrated with StatEduc),Togo,emis,DHIS2,Ministry of Primary and Secondary Education,"national, regional, inspectorate, school",2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,StatEduc,Togo,emis,StatEduc,"Ministry of Primary, Secondary, Technical Education",inspectorates,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,DHIS2 for Education,Togo,emis,DHIS2,"Ministry of Primary, Secondary, Technical Education","national, aggregate",2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,StatEduc,Togo,emis,StatEduc,MEPSTA,"schools, inspectorates, national",2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo
+TGO,SIGE (DHIS2 EMIS),Togo,emis,DHIS2,MEPSTA,"schools, sub-national, national",2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo

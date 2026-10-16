@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "hmis",
+   "stage": "5",
+   "system": "inservice",
+   "linked": "linked",
+   "completeness": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
+  }
+ ]
+}

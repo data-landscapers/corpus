@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,emis,system,coverage,inservice,2025,SWZ-005;SWZ-007;SWZ-009,SWZ-006=underway;SWZ-001=underway;SWZ-002=underway,
+SWZ,emis,learners,coverage,individual,2025-11-20,SWZ-003;SWZ-008;SWZ-010,,
+SWZ,emis,linked,coverage,linked,2024,SWZ-004,,

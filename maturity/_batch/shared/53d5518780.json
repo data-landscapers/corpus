@@ -1,0 +1,53 @@
+{
+ "slug": "2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers weather nowcasting and floods; no farming service using satellite data is stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "ANACIM's head of forecasting says forecasters use near-real-time Meteosat Third Generation imagery to see fine-scale convective cloud features.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "Meteosat Third Generation data",
+       "class": "metsat"
+      },
+      {
+       "sub_indicator": "metsat",
+       "aspect": "warnings",
+       "value": "issued",
+       "fact": "ANACIM's head of forecasting says MTG Lightning Imager data are critical during the rainy season for alerting communities to extreme weather.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "MTG Lightning Imager data",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Meteosat Third Generation data",
+       "country_label": "ANACIM (Senegal)",
+       "class": "metsat",
+       "platform": "",
+       "owner": "ANACIM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

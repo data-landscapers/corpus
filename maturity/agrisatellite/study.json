@@ -1,0 +1,116 @@
+{
+ "id": "agrisatellite",
+ "study_file": "maturity-study-agrisatellite.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "data.satellite"
+ ],
+ "stage_topic": "data.satellite",
+ "redraws": [
+  "data.satellite--agricultural-use-of-satellite-data"
+ ],
+ "carry": [
+  "data.satellite--agricultural-use-of-satellite-data"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "remote sensing",
+  "satellite imagery",
+  "satellite data",
+  "satellite images",
+  "earth observation",
+  "Digital Earth Africa",
+  "GMES",
+  "crop monitoring",
+  "yield forecast",
+  "drought monitoring",
+  "agricultural monitoring",
+  "geospatial data",
+  "index insurance",
+  "locust",
+  "NDVI",
+  "télédétection",
+  "imagerie satellitaire",
+  "images satellitaires",
+  "données satellitaires",
+  "observation de la Terre",
+  "suivi des cultures",
+  "deteção remota",
+  "detecção remota",
+  "imagens de satélite",
+  "dados de satélite",
+  "الاستشعار عن بعد",
+  "صور الأقمار الصناعية",
+  "بيانات الأقمار الصناعية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "agrisat",
+   "label": "Satellite data in agriculture",
+   "subject": "data.satellite",
+   "text": "Agricultural use of satellite data: satellite data in agriculture",
+   "indicator_id": "data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture",
+   "class": "agrisat",
+   "norm_short": "The African Space Strategy asks that space-derived products be used for decision-making; the AU Digital Agriculture Strategy asks for remote sensing in monitoring and forecasting.",
+   "criteria": [
+    "A source from the past three years says no farming service or institution uses satellite or remote-sensing data.",
+    "A ministry, agency or research institute used satellite or remote-sensing data in a farming study or pilot, or is preparing a service that will.",
+    "A government crop-monitoring, drought or locust early-warning, or land-use service using satellite data is in service, for part of the country or for one purpose.",
+    "Such a service publishes bulletins, maps or forecasts on a schedule.",
+    "A number of farmers, extension workers or districts receiving advice, alerts or insurance based on the service's satellite data is on record."
+   ],
+   "criteria_of": "c1f74e232bc6"
+  }
+ ],
+ "classes": [
+  "agrisat",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "service",
+   "name": "Satellite service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "published",
+   "name": "Published regularly",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "scheduled"
+   ],
+   "values": [
+    "scheduled"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "Reaching farmers",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "counted"
+   ],
+   "values": [
+    "counted"
+   ]
+  }
+ ],
+ "flags": []
+}

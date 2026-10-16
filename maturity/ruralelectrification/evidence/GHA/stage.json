@@ -1,0 +1,15 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "4",
+   "access": "official:82.6",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-004",
+   "gaps": "The latest figure, 82.6 per cent of rural people for 2024, is above 95.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

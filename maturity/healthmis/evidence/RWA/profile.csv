@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,hmis,system,coverage,inservice,2026,RWA-001;RWA-003;RWA-005,,
+RWA,hmis,linked,coverage,linked,2025-04-03,RWA-006,,
+RWA,hmis,completeness,coverage,published,2026,RWA-002;RWA-004,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "GPE KIX says Sierra Leone is integrating multiple data systems into a national warehouse and developing a learner-centered EMIS, with a newly drafted EMIS policy and a digital Master Schools List.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "national data warehouse",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

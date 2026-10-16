@@ -1,0 +1,118 @@
+{
+ "id": "metsatellite",
+ "study_file": "maturity-study-metsatellite.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "data.satellite"
+ ],
+ "stage_topic": "data.satellite",
+ "redraws": [
+  "data.satellite--meteorological-use-of-satellite-data"
+ ],
+ "carry": [
+  "data.satellite--meteorological-use-of-satellite-data"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "EUMETSAT",
+  "EUMETCast",
+  "Meteosat",
+  "MTG",
+  "meteorological satellite",
+  "weather satellite",
+  "satellite receiving station",
+  "PUMA",
+  "nowcasting",
+  "meteorological service",
+  "meteorological agency",
+  "Early Warnings for All",
+  "multi-hazard early warning",
+  "impact-based forecasting",
+  "GBON",
+  "WIGOS",
+  "SOFF",
+  "ClimSA",
+  "satellite météorologique",
+  "station de réception satellitaire",
+  "météorologie nationale",
+  "agence nationale de la météorologie",
+  "service météorologique",
+  "prévision immédiate",
+  "systèmes d'alerte précoce multirisques",
+  "satélite meteorológico",
+  "instituto nacional de meteorologia",
+  "الأرصاد الجوية",
+  "الأقمار الصناعية للأرصاد",
+  "الإنذار المبكر"
+ ],
+ "sub_indicators": [
+  {
+   "key": "metsat",
+   "label": "Satellite data in weather services",
+   "subject": "data.satellite",
+   "text": "Meteorological use of satellite data: satellite data in weather services",
+   "indicator_id": "data.satellite--meteorological-use-of-satellite-data-satellite-data-in-weather-services",
+   "class": "metsat",
+   "norm_short": "The Integrated African Strategy on Meteorology asks for sustained access to geostationary and polar-orbiting satellites, WMO's observing standards and ISO 9001 certification for every national weather service.",
+   "criteria": [
+    "A source from the past three years says the national weather service receives no satellite data.",
+    "The national meteorological service has a satellite receiving station or data stream installed, contracted or being upgraded.",
+    "The national meteorological service uses satellite data in its forecasts or nowcasting.",
+    "The national meteorological service issues early warnings or impact-based forecasts that draw on satellite data.",
+    "The national meteorological service holds ISO 9001 certification for its services."
+   ],
+   "criteria_of": "d3be0e232d75"
+  }
+ ],
+ "classes": [
+  "metsat",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "stream",
+   "name": "Satellite data stream",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "warnings",
+   "name": "Warnings issued",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "issued"
+   ],
+   "values": [
+    "issued"
+   ]
+  },
+  {
+   "key": "certified",
+   "name": "ISO 9001 certified",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "certified"
+   ],
+   "values": [
+    "certified"
+   ]
+  }
+ ],
+ "flags": []
+}

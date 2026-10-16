@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ETH,EMI Satellite Imagery,Satellite Imagery,metsat,"Meteosat SEVIRI, NWC-SAF",Ethiopian Meteorological Institute,,2026-08-28-emi-satellite-imagery
+ETH,Urban Flash Flood Forecasting System (UFFFS),Ethiopia (Addis Abeba pilot city),other,satellite observations with PySTEPS nowcasting,"WMO project WHCA, with HKV and Deltares","pilot, not yet operational",2026-04-02-wmo-urban-flash-flood-forecasting-eastern-africa

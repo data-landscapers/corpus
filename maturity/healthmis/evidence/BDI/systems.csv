@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,entrepôt national de données paludisme,Burundi,other,,Ministère de la Santé publique / PNILP,national,2026-03-31-bluesquare-structurer-utilisation-donnees-lutte-paludisme-burundi
+BDI,Malariya Pi / HealthPulse,Burundi,other,HealthPulse AI,Audere,hospitals,2026-03-31-bluesquare-structurer-utilisation-donnees-lutte-paludisme-burundi
+BDI,DHIS2,Burundi,other,DHIS2,Government of Burundi,national health data warehouse,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,DHIS2 Tracker,Burundi,other,DHIS2,,surveillance and outbreak response,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,SIDAinfo,Burundi,other,,,electronic medical records,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,eLMIS,Burundi,other,,,pharmacy management,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,Ibipimo,Burundi,other,,,lab management,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,DHIS2 (MININTER),Burundi,other,DHIS2,Ministère de l'Intérieur,communes to central,2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees

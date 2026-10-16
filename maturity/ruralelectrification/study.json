@@ -1,6 +1,9 @@
 {
  "id": "ruralelectrification",
  "study_file": "maturity-study-ruralelectrification.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
  "subjects": [
   "infra.energy"
  ],
@@ -12,7 +15,7 @@
   "infra.energy--rural-electrification"
  ],
  "carry_studies": [],
- "token_ceiling": 25000000,
+ "token_ceiling": 1000000,
  "terms": [
   "rural electrification",
   "rural electricity access",
@@ -56,25 +59,33 @@
  ],
  "sub_indicators": [
   {
-   "key": "access",
-   "label": "Rural people with electricity",
+   "key": "rural",
+   "label": "Rural access to electricity",
    "subject": "infra.energy",
-   "text": "Rural electrification: share of rural people with electricity",
-   "indicator_id": "infra.energy--rural-electrification-rural-people-with-electricity",
-   "class": "access",
-   "norm_short": "The African Union's Agenda 2063 first ten-year plan asks for 80% of households to have electricity; Mission 300 aims to connect 300 million Africans by 2030."
+   "text": "Rural electrification: rural access to electricity",
+   "indicator_id": "infra.energy--rural-electrification-rural-access-to-electricity",
+   "class": "ruralpower",
+   "norm_short": "The African Union's Agenda 2063 first ten-year plan asks for 80% of households to have electricity; Mission 300 aims to connect 300 million Africans by 2030.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts rural access to electricity below 27 per cent.",
+    "27 per cent or more of rural people have electricity, in the latest figure for 2023 or later, from the World Bank's series.",
+    "53 per cent or more of rural people have electricity.",
+    "80 per cent or more of rural people have electricity: the Agenda 2063 figure.",
+    "95 per cent or more of rural people have electricity: universal access."
+   ],
+   "criteria_of": "fab00f0a0317"
   }
  ],
  "classes": [
-  "access",
+  "ruralpower",
   "other"
  ],
  "aspects": [
   {
    "key": "access",
-   "name": "Share of rural people with electricity, with its year",
+   "name": "Rural access to electricity",
    "role": "coverage",
-   "pattern": "(wdi|national):\\d{1,3}(\\.\\d+)?"
+   "pattern": "official:\\d{1,3}(\\.\\d+)?"
   }
  ],
  "flags": []

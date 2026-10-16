@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CMR-001,CMR,metsat,stream,underway,The national meteorological service's own page describes access to EUMETSAT NWCSAF satellite-based nowcasting products (0-6 hours) with real-time satellite data visualisation via the ADAguc platform.,2026-01-20,day,NWCSAF/ADAguc,metsat,2026-01-20-meteocameroon-nwcsaf-eumetsat,https://meteocameroon.gov.cm/en/nwcsaf/

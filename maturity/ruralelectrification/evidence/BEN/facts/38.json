@@ -1,0 +1,56 @@
+{
+ "slug": "ref:wdi-elc-accs-rural@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:18",
+   "fact": "18 per cent of rural people in Benin had electricity in 2021, by the World Bank's rural electricity access series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:45.5",
+   "fact": "45.5 per cent of rural people in Benin had electricity in 2022, by the World Bank's rural electricity access series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:43.7",
+   "fact": "43.7 per cent of rural people in Benin had electricity in 2023, by the World Bank's rural electricity access series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:45",
+   "fact": "45 per cent of rural people in Benin had electricity in 2024, by the World Bank's rural electricity access series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The World Bank's rural electricity access series",
+   "country_label": "Benin",
+   "class": "ruralpower",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

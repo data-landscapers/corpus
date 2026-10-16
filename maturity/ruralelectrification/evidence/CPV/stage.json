@@ -1,0 +1,15 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "5",
+   "access": "official:97.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-004",
+   "gaps": "All four lines are passed.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

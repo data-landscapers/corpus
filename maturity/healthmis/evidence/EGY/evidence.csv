@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+EGY-001,EGY,hmis,system,underway,"The Ministry of Health and Population officially launched DHIS2 as part of Egypt's national health information system, with a national DHIS2 training programme beginning at launch, per DHIS2/HISP Centre.",2026-01-18,day,DHIS2,hmis,2026-01-27 Egypt launches DHIS2 in its national health information system,https://dhis2.org/egypt-launches-dhis2-in-health-information-system

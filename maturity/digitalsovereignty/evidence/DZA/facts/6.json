@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-parliament-sovereign-cloud-agreement-echorouk",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The National People's Assembly signed an agreement with the High Commission for Digitalisation to use the state's sovereign cloud resources at the National Digital Services Centre; signed on the evening of Wednesday 3 June 2026 (article dated 4 June).",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Digital Services Centre (Mohammadia)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Services Centre (Mohammadia)",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "State (Algerian government; High Commission for Digitalisation named as operator-side party)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

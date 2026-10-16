@@ -1,0 +1,17 @@
+{
+ "slug": "2020-10-21-angola-decreto-presidencial-275-20-regulamento-centrais-privadas-informacao-credito",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Presidential Decree 275/20 of 21 October 2020 (Article 19) requires private credit information bureaux to have their primary data processing centres in national territory and replica facilities for data recovery also inside national territory, at least 30 km from the primary centre (Article 20); the document gives no later compliance date and no repeal.",
+   "as_of": "2020-10-21",
+   "date_precision": "day",
+   "system": "Decreto Presidencial n.º 275/20 - Regulamento da Actividade das Centrais Privadas de Informação de Crédito"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The article says the Galaxy Backbone data centre in the National Shared Services Centre, Abuja, commissioned on 20 December 2022, serves government as well as corporate customers.",
+   "as_of": "2022-12-20",
+   "date_precision": "day",
+   "system": "Galaxy Backbone National Shared Services Centre data centre, Abuja"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone National Shared Services Centre data centre, Abuja",
+   "country_label": "NSSC / GBB Datacentre",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "Tier III (Uptime certified, as stated)"
+  },
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "GBB Kano tier IV data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "Tier IV (as stated); article does not say it rents to outside customers"
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

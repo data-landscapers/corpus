@@ -1,0 +1,26 @@
+{
+ "slug": "2023-06-29-gambia-mocde-government-cloud-policy",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "class": "sovereignty",
+   "fact": "The Government Cloud Policy (version 2.0, 29 June 2023, commissioned by the Ministry of Communications and Digital Economy) says government data classed 'Classified' shall be stored and processed within The Gambia, on a government private cloud or on-premises, and 'Sensitive' data on a government private cloud or public cloud hosted in The Gambia, in the absence of any law on data residence; its issue date and effective date are left blank pending sign-off.",
+   "as_of": "2023-06-29",
+   "date_precision": "day",
+   "system": "Government Cloud Policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Cloud (G-Cloud)",
+   "country_label": "Gambia Government Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "GICTA (Principal Government Cloud Service Provider)",
+   "tiers": "all levels of government and organs of State"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

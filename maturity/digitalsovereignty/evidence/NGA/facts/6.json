@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-nga-thisdaylive-stakeholders-cbn-data-localisation-timeline",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "ThisDay reports the Central Bank of Nigeria directed all fintech companies to return payments data hosted outside Nigeria and host it in Nigeria with effect from 1 January 2027; the report is dated 25 September 2026, and the date given is the compliance date.",
+   "as_of": "2027-01-01",
+   "date_precision": "day",
+   "system": "CBN payments data localisation directive"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN payments data localisation directive",
+   "country_label": "CBN directive on hosting payments data in Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Nigeria",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

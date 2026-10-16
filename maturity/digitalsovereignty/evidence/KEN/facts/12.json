@@ -1,0 +1,74 @@
+{
+ "slug": "2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Implementation guidelines of the 2025 Kenya Cloud Policy, published by the Ministry of ICT and the Digital Economy, require top secret State data to be held in a data centre within Kenya and bar State entities from hosting data in their own server rooms without Cloud Adoption Committee authorisation, with 24 months to migrate; date is the article's published date.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Kenya Cloud Policy implementation guidelines"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Cloud Policy implementation guidelines",
+   "country_label": "Kenya Cloud Policy implementation guidelines",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT and the Digital Economy",
+   "tiers": "State organs"
+  },
+  {
+   "system": "Cloud Adoption Committee",
+   "country_label": "Cloud Adoption Committee",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT and the Digital Economy",
+   "tiers": "State organs"
+  },
+  {
+   "system": "Safaricom cloud data centres (Nairobi, Kisumu)",
+   "country_label": "Safaricom cloud data centres (Nairobi, Kisumu)",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica Data Centres",
+   "country_label": "iXAfrica Data Centres",
+   "class": "other",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Konza data centre",
+   "country_label": "Konza data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle Kenya cloud region (coming soon)",
+   "country_label": "Oracle Kenya cloud region (coming soon)",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft/G42 East Africa Cloud Region (cancelled)",
+   "country_label": "Microsoft/G42 East Africa Cloud Region (cancelled)",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft/G42",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

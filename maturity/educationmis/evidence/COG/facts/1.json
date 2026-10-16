@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-congo-modernize-education-data-systems-au-iped",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The African Union says the Republic of Congo has already taken steps to modernize its education information system, with a workshop in Brazzaville on 19-21 May 2026 on the state of its EMIS.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Education Management Information System",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Management Information System",
+   "country_label": "Republic of Congo",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

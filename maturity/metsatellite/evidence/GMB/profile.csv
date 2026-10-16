@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,metsat,stream,coverage,underway,2024-08-30,GMB-001,,
+GMB,metsat,warnings,coverage,,,,,nothing held
+GMB,metsat,certified,coverage,,,,,nothing held

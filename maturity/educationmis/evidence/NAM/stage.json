@@ -1,0 +1,17 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "emis",
+   "stage": "3",
+   "system": "inservice",
+   "learners": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-001",
+   "gaps": "No source held since October 2023 says the system holds a record for each learner.",
+   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
+  }
+ ]
+}

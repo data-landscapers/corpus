@@ -1,0 +1,107 @@
+{
+ "id": "healthmis",
+ "study_file": "maturity-study-healthmis.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--health"
+ ],
+ "carry": [
+  "dpi.mis--health"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "DHIS2",
+  "DHIS 2",
+  "DHIS-2",
+  "health management information system",
+  "HMIS",
+  "health information system",
+  "district health information",
+  "health information management",
+  "reporting completeness",
+  "système d'information sanitaire",
+  "système national d'information sanitaire",
+  "SNIS",
+  "système d'information de gestion sanitaire",
+  "SIGS",
+  "sistema de informação de saúde",
+  "sistema de informação para a saúde",
+  "SIS-MA",
+  "نظام المعلومات الصحية",
+  "المعلومات الصحية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "hmis",
+   "label": "Health information system",
+   "subject": "dpi.mis",
+   "text": "Health: health information system",
+   "indicator_id": "dpi.mis--health-health-information-system",
+   "class": "hmis",
+   "norm_short": "The Africa CDC Digital Transformation Strategy asks for national digital health systems strengthened to its Health Information Exchange Guidelines, with integrated surveillance.",
+   "criteria": [
+    "A source from the past three years says health reporting is on paper and there is no national health information system.",
+    "The health ministry procured, piloted or is rolling out a health management information system, or one is in use in some districts.",
+    "A national health management information system is in service, with facilities or districts across the country reporting through it.",
+    "The system is linked to, or exchanges data with, disease surveillance, the medicines supply chain, or a patient or immunisation register.",
+    "The reporting completeness or timeliness of the national system is published."
+   ],
+   "criteria_of": "740a9927bcf4"
+  }
+ ],
+ "classes": [
+  "hmis",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "Health information system",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  },
+  {
+   "key": "completeness",
+   "name": "Reporting rate published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

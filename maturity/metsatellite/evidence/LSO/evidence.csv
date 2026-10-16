@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,metsat,stream,inservice,"A 2023 project by the provider deployed a Lesotho nowcasting system integrating meteorological observations, satellite data and model outputs, with an internal portal for meteorological service staff.",2023,year,Lesotho nowcasting system,metsat,2026-04-08-wis-lesotho-climate-weather-enhancement-initiative,https://wisconsultancy.com/projects/

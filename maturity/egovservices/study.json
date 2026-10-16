@@ -1,0 +1,115 @@
+{
+ "id": "egovservices",
+ "study_file": "maturity-study-egovservices.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.govtech"
+ ],
+ "stage_topic": "dpi.govtech",
+ "redraws": [
+  "dpi.govtech--e-government-services"
+ ],
+ "carry": [
+  "dpi.govtech--e-government-services"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "e-government",
+  "e-services",
+  "eservices",
+  "online services",
+  "government portal",
+  "services portal",
+  "eCitizen",
+  "e-citizen",
+  "government services online",
+  "citizen portal",
+  "services en ligne",
+  "e-gouvernement",
+  "e-administration",
+  "téléservices",
+  "portail de services",
+  "portail citoyen",
+  "guichet unique numérique",
+  "démarches en ligne",
+  "serviços online",
+  "governo eletrónico",
+  "governo electrónico",
+  "portal do cidadão",
+  "serviços públicos digitais",
+  "الخدمات الإلكترونية",
+  "الحكومة الإلكترونية",
+  "بوابة الخدمات",
+  "الخدمات الرقمية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "eservices",
+   "label": "Government services online",
+   "subject": "dpi.govtech",
+   "text": "e-government services: government services online",
+   "indicator_id": "dpi.govtech--e-government-services-government-services-online",
+   "class": "eservices",
+   "norm_short": "The Digital Transformation Strategy asks for a single digital gateway carrying government services to citizens, businesses and government; the AU Public Service Charter asks for modern technologies in service delivery.",
+   "criteria": [
+    "A source from the past three years says no government service is available online.",
+    "The government launched a services portal or app, or piloted a service that can be applied for or paid online.",
+    "Ten or more government services can be completed online.",
+    "One national portal or app carries services of several ministries, with sign-in by the national ID or one shared account.",
+    "A number of users, applications or transactions through the national portal is published."
+   ],
+   "criteria_of": "5f817b6d639b"
+  }
+ ],
+ "classes": [
+  "eservices",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "services",
+   "name": "Services online",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "gateway",
+   "name": "Single gateway",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "single"
+   ],
+   "values": [
+    "single"
+   ]
+  },
+  {
+   "key": "usage",
+   "name": "Use published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

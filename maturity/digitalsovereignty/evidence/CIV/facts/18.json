@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "class": "sovereignty",
+   "fact": "The Ministry of Digital Transition's national data governance strategy SNGD 2030 sets as a principle that all data classified as critical information infrastructure must be processed and stored inside Côte d'Ivoire, by staff at least 20% Ivorian, with a copy kept in the country for law enforcement; the document gives no date of its own, so its published date of 2024-01-01 is used.",
+   "as_of": "2024-01-01",
+   "date_precision": "day",
+   "system": "SNGD 2030 data localisation principle"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center National / Cloud National",
+   "country_label": "Data Center ou Cloud National",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": "government and state entities (non-critical classified data)"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

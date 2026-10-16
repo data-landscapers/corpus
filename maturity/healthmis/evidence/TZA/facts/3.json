@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-tza-mediawireexpress-who-controls-health-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Analysis feature; says only that the ministry uses DHIS2 as part of its health information infrastructure, not that facilities across the country report through it."
+}

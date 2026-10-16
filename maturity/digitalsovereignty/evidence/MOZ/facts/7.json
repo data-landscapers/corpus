@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The UNECA/GIZ/AU inception report says Banco de Moçambique Notice 4/GGBM/2003 requires data centres to be located in Mozambique, with replicas abroad allowed only with prior approval; it gives no repeal, and no date other than the 2003 notice and the report's publication of 2025-06-19.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Notice 4/GGBM/2003 (Banco de Moçambique)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Notice 4/GGBM/2003 (Banco de Moçambique)",
+   "country_label": "Notice 4/GGBM/2003",
+   "class": "other",
+   "platform": "",
+   "owner": "Banco de Moçambique",
+   "tiers": "financial institutions"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

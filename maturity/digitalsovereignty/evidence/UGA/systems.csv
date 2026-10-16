@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,existing data center (UDAP-GovNet),Uganda,other,government data center,,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
+UGA,Third national data center,Uganda,other,"planned, removed from project scope",,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
+UGA,National Data Centre,Uganda,other,government hosting and co-location,NITA-U (Government of Uganda),,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30
+UGA,"National Data Centre Disaster Recovery site, Jinja",Uganda,other,disaster recovery site,NITA-U (Government of Uganda),,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30
+UGA,"Third National Data Centre (Entebbe primary, Jinja DR)",Uganda,other,planned,NITA-U (Government of Uganda),,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30

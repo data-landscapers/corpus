@@ -1,0 +1,17 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "agrisat",
+   "stage": "2",
+   "service": "underway",
+   "published": "",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-001",
+   "gaps": "No source held since October 2023 says: is a service in use.",
+   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+  }
+ ]
+}

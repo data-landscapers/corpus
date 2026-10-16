@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-002,MLI,sovereignty,hosted,national,"ITU states the AGETIC, a government agency under the ministry MCENMA, runs a data centre providing hosting (IaaS, SaaS, backup) to the public administration, with a real-time-replicated DR site; the document gives the year only.",2022,year,AGETIC data centre,sovereignty,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees,https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf

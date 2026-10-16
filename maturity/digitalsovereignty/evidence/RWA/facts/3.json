@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-data-center-market-brief-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The brief (Xalam Analytics for the Digital Investment Facility) states there is no blanket localisation requirement in Rwanda but some data must be stored locally depending on circumstances, and public sector data must be hosted in the government data center or in facilities meeting Rwanda Development Board standards, under the 2021 Law on Data Privacy and Protection; no date of the event is given, so the document's July 2025 publication date is used.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Rwanda local storage rule under the 2021 Law on Data Privacy and Protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PAIX",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

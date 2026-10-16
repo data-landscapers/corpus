@@ -1,0 +1,17 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "sovereignty",
+   "stage": "3",
+   "rule": "inservice",
+   "hosted": "",
+   "terms": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-001",
+   "gaps": "No source held since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
+  }
+ ]
+}

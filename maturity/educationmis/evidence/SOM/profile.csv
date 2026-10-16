@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,emis,system,coverage,inservice,2024-02-01,SOM-003;SOM-004,SOM-001=underway;SOM-002=underway;SOM-005=underway,
+SOM,emis,learners,coverage,,,,,nothing held
+SOM,emis,linked,coverage,,,,,nothing held

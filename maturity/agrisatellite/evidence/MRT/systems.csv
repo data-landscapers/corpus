@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,MISBAR,Mauritanie,agrisat,,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,MISLAND-Mauritanie,Mauritanie,agrisat,national servers,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,GUETCROP,Mauritanie,agrisat,,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
+MRT,SAQIYA-Mauritanie,Mauritanie,agrisat,"mobile app, national servers","CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre

@@ -1,0 +1,13 @@
+# Algeria
+
+## Control of state data
+
+**Rule on state data.** [At the first interministerial meeting on the national AI strategy, participants stressed the need to process, host and secure administrative data in national data centres, as part of a strategy with sovereign open-source government AI models and national computing capacity](<https://www.jeune-independant.net/intelligence-artificielle-et-souverainete-numerique-lheure-de-laction-a-sonne/>). [El Watan reports a second data centre in Blida is planned to support rollout of the National Database for Public Service, the interoperability platform and the national cloud](<https://elwatan.dz/tebboune-inaugure-a-mohammadia-le-premier-centre-national-algerien-des-services-numeriques/>).
+
+**Hosted nationally.** [Ech-Chaab, citing the High Commission's record for April 2024 to September 2026, lists sovereign cloud computing, the secured government network and national data centres among delivered milestones, and the national digital services centre inaugurated on 5 July 2026](<https://www.ech-chaab.com/new/2026/09/09/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/>).
+
+**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.ech-chaab.com/new/2026/09/09/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/>).
+
+***Noted, not assessed***. [National Digital Services Centre (Mohammadia)](<https://www.elmoudjahid.dz/fr/actualite/infrastructure-inedite-et-premiere-du-genre-a-travers-le-pays-le-centre-national-des-services-numeriques-inaugure-255075>); [Dzair Digital Services](<https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration>).
+
+***Not held***. No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.

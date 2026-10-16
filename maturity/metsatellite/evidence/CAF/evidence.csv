@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CAF-001,CAF,metsat,stream,underway,"ASECNA's AIP lists METEOSAT (MSG) satellite images among the supplementary equipment of the Bangui/M'Poko Centre Meteorologique Principal, which also offers satellite imagery on request in flight documentation.",2025-08-07,day,images satellitaires METEOSAT (MSG),metsat,2025-08-07-asecna-eaip-feff-bangui-mpoko-met,https://aim.asecna.aero/html/eAIP/FR-_04AD-2.FEFF-fr-FR.html

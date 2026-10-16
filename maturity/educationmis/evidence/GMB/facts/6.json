@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "GPE KIX says The Gambia's Ministry of Basic and Secondary Education is integrating individual-level learner and teacher data and has SEMIS pilots.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "SEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEMIS",
+   "country_label": "The Gambia",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

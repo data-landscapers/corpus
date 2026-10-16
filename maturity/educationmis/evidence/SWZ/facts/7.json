@@ -1,0 +1,54 @@
+{
+ "slug": "2025-11-20-swz-data-the-power-is-in-the-use",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "DHIS2 for Education says Eswatini's Ministry of Education and Training is modernising its EMIS with DHIS2, a transition begun in 2020 that replaced a centralised MS-Access system.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "DHIS2 for Education",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DHIS2 for Education describes a fully operational Eswatini EMIS that served as the source for the country's 2022 UIS reporting on enrolments, repeaters and staffing and produced a 2026 bursary list for orphans and vulnerable children.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "DHIS2 for Education",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "DHIS2 for Education says the Eswatini DHIS2 implementation supports school-level and learner-level data and introduces unique personal identification numbers (PINs).",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "DHIS2 for Education",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 for Education (EMIS)",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training, EMIS Unit",
+   "tiers": "school, learner"
+  },
+  {
+   "system": "MS-Access EMIS",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "MS Access",
+   "owner": "Ministry of Education and Training",
+   "tiers": "aggregate"
+  }
+ ],
+ "note": ""
+}

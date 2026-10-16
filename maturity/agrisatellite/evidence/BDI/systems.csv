@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,IGEBU Service de Cartographie,Burundi,agrisat,"ArcGIS, QGIS, remote sensing, drones",Institut Géographique du Burundi (IGEBU),national,2026-08-28-igebu-service-de-cartographie
+BDI,RGPHAE census cartography database,Burundi,other,ArcGIS Pro,Bureau Central du Recensement with IGEBU,national,2026-02-09-aco-burundi-cartographie-censitaire-apurement-base-rgphae

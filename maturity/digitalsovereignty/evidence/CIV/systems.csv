@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,Data Center National / Cloud National,Data Center ou Cloud National,other,,State,government and state entities (non-critical classified data),2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030
+CIV,National PKI (root certification authority),Cote d Ivoire,other,,ANSSI-CI,,2026-07-28-cote-divoire-launches-national-pki
+CIV,PKI nationale (PKI Racine),Cote d Ivoire,other,,ANSSI CI,,2026-07-25-cote-divoire-anssi-pki-nationale
+CIV,Sovereign and Secure Cloud in Côte d'Ivoire (DataConnect Africa / Clever Cloud Africa),Côte d'Ivoire,other,"PaaS cloud, TIER III datacenter",DataConnect Africa (New Digital Africa) with Clever Cloud,,2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ

@@ -1,0 +1,17 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "eservices",
+   "stage": "3",
+   "services": "inservice",
+   "gateway": "",
+   "usage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-001",
+   "gaps": "No source held since October 2023 says one national portal carries several ministries' services with shared sign-in.",
+   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
+  }
+ ]
+}

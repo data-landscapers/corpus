@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,Health Information Hub,Sierra Leone,hmis,,Ministry of Health,"national, district, facility",2026-01-20-sierra-leone-moh-launches-health-information-hub
+SLE,District Health Information System (DHIS2),Sierra Leone,hmis,DHIS2,Ministry of Health,,2026-01-20-sierra-leone-moh-launches-health-information-hub
+SLE,DHIS2-based health management information system,Sierra Leone,hmis,DHIS2,,national,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,DHIS2,Sierra Leone,hmis,DHIS2,Ministry of Health,"national, district, facility",2025-01-01-sle-analysis-report-2025-analysis-of-reproductive-maternal-newborn-child-a
+SLE,Electronic Medical Records (EMR) system,Sierra Leone,other,,Ministry of Health and Sanitation with Smart Systems Sierra Leone Limited,Connaught Hospital pilot,2023-10-11-sle-emr-system-to-improve-health-care-delivery-in-sierra-leone
+SLE,District Health Information System (DHIS2),Sierra Leone,hmis,DHIS2,,,2023-10-11-sle-emr-system-to-improve-health-care-delivery-in-sierra-leone

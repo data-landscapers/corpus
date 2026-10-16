@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The report states the Bomalathu Digital Services Platform has migrated to the National Data Centre in Lilongwe, which has a disaster recovery site in Blantyre, and that Government data hosting capacity was expanded by 115 TB.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Data Centre (Lilongwe)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre (Lilongwe)",
+   "country_label": "MWI",
+   "class": "other",
+   "platform": "government data centre, Lilongwe, with redundancy link to Blantyre data centre",
+   "owner": "Government of Malawi (Department of E-Government)",
+   "tiers": ""
+  },
+  {
+   "system": "Blantyre Data Centre (disaster recovery site)",
+   "country_label": "MWI",
+   "class": "other",
+   "platform": "government DR site",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Bomalathu Digital Services Platform",
+   "country_label": "MWI",
+   "class": "other",
+   "platform": "government digital services portal",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

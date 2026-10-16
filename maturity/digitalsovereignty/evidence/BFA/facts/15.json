@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-grand-salon-data-afrique-souverainete-numerique",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry's secretary general said the government's twelve digital projects include building national data centres, and that the 'zero data abroad' vision is the basis for sovereign governance of administration, business and citizen data.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "zero data abroad",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

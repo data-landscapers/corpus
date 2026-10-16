@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,metsat,stream,coverage,inservice,2025-06,SSD-001,,
+SSD,metsat,warnings,coverage,,,,,nothing held
+SSD,metsat,certified,coverage,,,,,nothing held

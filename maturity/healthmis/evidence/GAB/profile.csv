@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,hmis,system,coverage,underway,2026-07,GAB-001;GAB-002;GAB-003,,
+GAB,hmis,linked,coverage,,,,,nothing held
+GAB,hmis,completeness,coverage,,,,,nothing held

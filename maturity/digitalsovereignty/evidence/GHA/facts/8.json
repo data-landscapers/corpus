@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The bidding document states that NITA's two national data centres, in Accra and Kumasi, operational over the past 10 years, serve as central hubs for the Government of Ghana's IT operations and provide data storage, with about 90% of capacity used; the Accra core network backbones all government network services.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "NITA National Data Centre, Accra"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NITA National Data Centre, Accra",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Information Technology Agency (NITA), under the Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  },
+  {
+   "system": "NITA National Data Centre, Kumasi",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "Huawei IDS1000 modular containerised",
+   "owner": "National Information Technology Agency (NITA)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

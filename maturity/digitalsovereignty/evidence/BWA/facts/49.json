@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-06-digital-delta-data-centre-improve-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "Mmegi reports that critical Botswana government services have migrated to the Digital Delta Data Centre, which supports essential government functions and applications; the article quotes BoFiNeT's CEO on the migration but does not itself state who owns or runs the centre. Dated by the article's published date, as it gives no other date.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "BWA",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

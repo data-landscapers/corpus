@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-thecable-cbn-data-localisation-reaction",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "TheCable reports that on 15 June 2026 the CBN directed all financial institutions facilitating payments in Nigeria to ensure data generated in Nigeria is stored and managed locally, taking effect on 1 January 2027.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN payments data localisation directive"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN payments data localisation directive",
+   "country_label": "CBN data localisation directive",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Nigeria",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

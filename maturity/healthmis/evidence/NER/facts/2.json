@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Data.FI Project refers to the national DHIS2-based health information system of Niger, to which several digital health platforms have now been connected.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Data.FI Project says a national interoperability layer based on OpenFn enables automated data exchange between three health platforms and the national DHIS2.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Niger",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "OpenFn interoperability layer",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "OpenFn",
+   "owner": "Directorate of e-Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

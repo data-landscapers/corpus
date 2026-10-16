@@ -1,0 +1,4 @@
+{"slug":"2026-05-26-dhis2-community-snis-reconstruction-rca","facts":[
+{"sub_indicator":"hmis","aspect":"system","value":"inservice","fact":"A DHIS2 Community poster by the CAR health ministry's SNIS team states DHIS2 was adopted as the national platform for the Système National d'Information Sanitaire and deployed in all 35 health districts.","as_of":"2026-05-26","date_precision":"day","system":"DHIS2 (SNIS)","class":"hmis"},
+{"sub_indicator":"hmis","aspect":"completeness","value":"published","fact":"The poster states report completeness rose from 52% in 2020 to over 85% in 2025.","as_of":"2025","date_precision":"year","system":"DHIS2 (SNIS)","class":"hmis"}],
+"systems":[{"system":"DHIS2 (SNIS)","country_label":"Système National d'Information Sanitaire","class":"hmis","platform":"DHIS2","owner":"Ministère de la Santé et de la Population","tiers":"central, regional, district"}],"note":""}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-06-south-sudan-joint-food-security-monitor",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank-led Joint Monitoring Report team's Joint Food Security Monitor for South Sudan raises monthly Typical, Heightened or Critical alerts for 78 admin-2 areas using a Drought - NDVI and a Drought - rainfall indicator group.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Joint Food Security Monitor",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "published",
+   "value": "scheduled",
+   "fact": "The World Bank-led JMR team states the South Sudan Joint Food Security Monitor datasets, including alerts, are compiled and updated monthly (version dated 2026-07-06).",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Joint Food Security Monitor",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Joint Food Security Monitor",
+   "country_label": "South Sudan",
+   "class": "agrisat",
+   "platform": "World Bank microdata catalogue",
+   "owner": "World Bank Development Data Group, Joint Monitoring Report team",
+   "tiers": "admin-2 (78 areas)"
+  }
+ ],
+ "note": ""
+}

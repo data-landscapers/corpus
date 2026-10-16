@@ -1,0 +1,42 @@
+{
+ "slug": "2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "Huawei's case study says NOSi's national data center hosts the eGovernment cloud, on which NOSi developed more than 150 websites and 77 eGovernment applications for all government departments, schools, hospitals and state-owned enterprises; capacity was raised to 1,000 VMs and 1,000 TB in phase two. Dated to the page's inferred publication date, 2018-07-05.",
+   "as_of": "2018-07-05",
+   "date_precision": "day",
+   "system": "National data center (NOSi, Cape Verde)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "Huawei eGovernment Cloud, FusionCloud",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "eGovernment network (1,142 organisations)",
+   "country_label": "eGovernment network",
+   "class": "other",
+   "platform": "Huawei routers and switches",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "National data center (NOSi, Cape Verde)",
+   "country_label": "national data center",
+   "class": "other",
+   "platform": "Huawei eGovernment Cloud / FusionCloud",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

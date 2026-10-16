@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-11-lesotho-lemis-dhis2-education-data-system",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of Education and Training is developing LEMIS on DHIS2 covering 4,819 institutions, not yet live for nationwide collection.",
+       "as_of": "2026-05-11",
+       "date_precision": "day",
+       "system": "LEMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LEMIS",
+       "country_label": "Lesotho",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Education and Training",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No such statement in the document."
+    }
+   }
+  }
+ }
+}

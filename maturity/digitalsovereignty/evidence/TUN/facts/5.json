@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-04-tunisie-decret-loi-2022-2-renseignement-credit-localisation",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Article 21 of decree-law 2022-2 of 4 January 2022 bars credit information companies from transferring their databases, or setting up sites to protect the data given to them, outside Tunisia, and bars them from hosting credit information in the cloud.",
+   "as_of": "2022-01-04",
+   "date_precision": "day",
+   "system": "Décret-loi n° 2022-2 du 4 janvier 2022, article 21"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "2026-07-05-dza-elwatan-centre-national-services-numeriques",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "El Watan reports President Tebboune inaugurated the Centre national algerien des services numeriques, built on two national data centres to host national data in Algeria, including the National Public Services Portal and the National Database.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national algerien des services numeriques",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "El Watan reports a second data centre in Blida is planned to support rollout of the National Database for Public Service, the interoperability platform and the national cloud.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "National cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national algerien des services numeriques",
+       "country_label": "Algerian National Digital Services Centre",
+       "class": "sovereignty",
+       "platform": "Huawei-led consortium build",
+       "owner": "High Commission for Digitalisation",
+       "tiers": "two data centres, Mohammadia and planned Blida"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "El Watan reports around forty digital public services are to be integrated into the National Public Services Portal as a first step.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Portail national des services publics",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail national des services publics",
+       "country_label": "National Public Services Portal",
+       "class": "eservices",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2020-08-06-morocco-loi-05-20-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Article 11 of loi n° 05-20 on cybersecurity (dahir n° 1-20-69 of 25 July 2020, Bulletin officiel n° 6906 of 6 August 2020) requires sensitive data to be hosted exclusively on national territory, with fines of 200,000 to 400,000 DH under article 49 for heads of vital entities or infrastructures hosting it abroad; article 53 makes the law operative only on publication of its implementing texts.",
+   "as_of": "2020-08-06",
+   "date_precision": "day",
+   "system": "Loi n° 05-20 relative à la cybersécurité, article 11"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

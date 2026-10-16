@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TCD-001,TCD,hmis,system,underway,"The health ministry launched the Vacci360 pilot on 2 April 2026 in Lac, Kanem and Hadjer Lamis provinces, adding an analysis layer to the existing DHIS2 base.",2026-04-02,day,DHIS2,hmis,2026-04-02-vacci360-projette-de-renforcer-la-couverture-vaccinale,https://tchadinfos.com/2026/04/02/vacci360-projette-de-renforcer-la-couverture-vaccinale/

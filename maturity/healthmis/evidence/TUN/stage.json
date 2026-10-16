@@ -1,0 +1,17 @@
+{
+ "iso3": "TUN",
+ "cells": [
+  {
+   "sub_indicator": "hmis",
+   "stage": "no evidence",
+   "system": "",
+   "linked": "",
+   "completeness": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether health reporting runs through a national information system.",
+   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
+  }
+ ]
+}

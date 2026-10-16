@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-01-mwi-uneca-dtri-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The UN Economic Commission for Africa's digital trade regulatory profile of Malawi states that Malawi has local storage requirements only for health-related data, naming no instrument; the document gives no date of its own, so the 2022 publication date is used (its data covers 2014-2021).",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Local storage requirement for health-related data"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

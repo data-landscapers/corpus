@@ -1,0 +1,15 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "2",
+   "access": "official:47.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-004",
+   "gaps": "The latest figure, 47.7 per cent of rural people for 2024, is above 53.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

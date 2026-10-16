@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MRT-001,MRT,metsat,stream,underway,"The African Union Commission says its ad hoc committee inspected ClimSA and PUMA infrastructure deployed and installed in Nouakchott, Mauritania, the reception and processing chain for Meteosat Second and Third Generation data from EUMETSAT.",2025-09-23,day,ClimSA and PUMA stations,metsat,2025-09-23-auc-climsa-puma-nouakchott-satellite-reception-inspection,https://au.int/sites/default/files/pressreleases/45397-pr-Press_Release_Deployment_Final.pdf

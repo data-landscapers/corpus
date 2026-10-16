@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-governo-digitaliza-mais-de-cem-servicos-publicos-portal-do-cidadao",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portal do Cidadão",
+   "country_label": "Mozambique",
+   "class": "eservices",
+   "platform": "national citizen portal",
+   "owner": "ATDI",
+   "tiers": "national"
+  }
+ ],
+ "note": "Portal prototype still being finalised and trial phase only planned; no service stated as online yet."
+}

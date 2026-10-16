@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,DHIS2 Tracker (Ebola configuration),DRC,other,DHIS2,Ministry of Health with HISP DRC,provincial response teams,2026-06-02-dhis2-africa-cdc-ebola-outbreak-response-toolkit
+COD,national DHIS2 system,DRC,hmis,DHIS2,,"health facilities, health zones, province",2026-04-22-dhis2-community-surveillance-mpox-sud-kivu
+COD,Mpox surveillance mobile/web app connected to DHIS2,"South Kivu, DRC",other,"Flutter/Vue.js, ODK, DHIS2 REST API",Provincial Health Division Sud-Kivu,3 health zones,2026-04-22-dhis2-community-surveillance-mpox-sud-kivu
+COD,DHIS2 (national HMIS),DRC,hmis,DHIS2,Ministry of Health,"zonal, provincial, national",2025-12-22-dhis2-drc-ebola-response-2025
+COD,DHIS2 EVD Tracker,DRC,other,DHIS2 Tracker,Ministry of Health with HISP DRC and RTI,national,2025-12-22-dhis2-drc-ebola-response-2025
+COD,eIDSR on national DHIS2 platform,DRC,hmis,DHIS2,"Ministry of Public Health, DSNIS and Directorate of Disease Surveillance","health centre, health zone, province",2024-07-01-rti-real-time-disease-surveillance-drc

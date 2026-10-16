@@ -1,0 +1,15 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "2",
+   "access": "official:42.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-004",
+   "gaps": "The latest figure, 42.7 per cent of rural people for 2024, is above 53.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

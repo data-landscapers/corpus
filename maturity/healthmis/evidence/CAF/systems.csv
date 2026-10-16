@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CAF,DHIS2,the Central African Republic,hmis,DHIS2,,central and subnational,2025-12-01-impulse-erhis-newborn-data-functionalities
+CAF,DHIS2 (SNIS),Système National d'Information Sanitaire,hmis,DHIS2,Ministère de la Santé et de la Population,"central, regional, district",2026-05-26-dhis2-community-snis-reconstruction-rca
+CAF,e-SENI (HISP EMR),e-SENI,other,HISP EMR,Ministry of Health with Susan Buffett Foundation (SENI project),hospital,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,DHIS2,national health information systems,hmis,DHIS2,,,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,DHIS2 vaccination microplanning,microplanification de la vaccination dans DHIS2,other,DHIS2,Ministère de la Santé et de la Population,"district, regional",2026-03-12-vaccination-microplanning-digitalisation-hisprwanda

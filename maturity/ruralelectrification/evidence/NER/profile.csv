@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,rural,access,coverage,official:10.8,2024,NER-004,NER-003=official:10.4;NER-002=official:7.7;NER-001=official:9.1,

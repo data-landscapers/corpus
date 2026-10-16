@@ -1,0 +1,17 @@
+{
+ "slug": "2008-08-27-nam-bon-bid19-localization-core-banking",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The Bank of Namibia's Determination on Localization of Core Banking Systems (BID 19), signed 5 August 2008 and effective 11 August 2008, requires all authorised banking institutions to locate and maintain their core banking systems, where accounting and other banking records are kept, in Namibia.",
+   "as_of": "2008-08-11",
+   "date_precision": "day",
+   "system": "Determination on Localization of Core Banking Systems (BID 19)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

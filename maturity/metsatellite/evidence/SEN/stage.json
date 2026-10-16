@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "metsat",
+   "stage": "4",
+   "stream": "inservice",
+   "warnings": "issued",
+   "certified": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-002",
+   "gaps": "No source held since October 2023 says the weather service holds ISO 9001 certification.",
+   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
+  }
+ ]
+}

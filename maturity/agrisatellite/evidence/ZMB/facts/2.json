@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Digital Earth Africa and SASSCAL agreed to build the AgriWatch dashboard on DE Africa Earth-observation products for crop-cycle, rangeland and rainfall monitoring, with AgriWatch covering this country among the six SASSCAL states.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "AgriWatch",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AgriWatch",
+   "country_label": "ZMB",
+   "class": "agrisat",
+   "platform": "dashboard",
+   "owner": "SASSCAL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

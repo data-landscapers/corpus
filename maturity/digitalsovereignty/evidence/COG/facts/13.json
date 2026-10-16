@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-02-mpten-data-center-national",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The ministry's programme page says the Data Center National hosts, stores and backs up critical data and applications of public institutions on Congolese soil.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Data Center National",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry page says the Data Center National is meant to keep strategic state data in the national territory and reduce dependence on foreign hosting platforms.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Data Center National",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center National",
+   "country_label": "Congo",
+   "class": "sovereignty",
+   "platform": "government data centre, Brazzaville",
+   "owner": "Ministry of Posts, Telecommunications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

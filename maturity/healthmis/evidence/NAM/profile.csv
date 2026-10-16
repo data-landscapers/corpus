@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,hmis,system,coverage,inservice,2024,NAM-001;NAM-003,,
+NAM,hmis,linked,coverage,,,,,nothing held
+NAM,hmis,completeness,coverage,published,2024,NAM-002,,

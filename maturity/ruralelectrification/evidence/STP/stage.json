@@ -1,0 +1,15 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "3",
+   "access": "official:75.1",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "STP-004",
+   "gaps": "The latest figure, 75.1 per cent of rural people for 2024, is above 80.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

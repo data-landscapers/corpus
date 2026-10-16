@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TGO,hmis,system,coverage,inservice,2026-07,TGO-001;TGO-002,,
+TGO,hmis,linked,coverage,linked,2026-07,TGO-003,,
+TGO,hmis,completeness,coverage,,,,,nothing held

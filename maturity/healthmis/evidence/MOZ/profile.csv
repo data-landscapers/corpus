@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,hmis,system,coverage,inservice,2023,MOZ-001,MOZ-003=underway,
+MOZ,hmis,linked,coverage,linked,2026-08-28,MOZ-002,,
+MOZ,hmis,completeness,coverage,,,,,nothing held

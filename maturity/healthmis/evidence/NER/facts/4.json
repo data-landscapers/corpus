@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-openhexa-niger-interoperabilite-sante",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenHEXA",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "OpenHEXA",
+   "owner": "Ministry of Health, Directorate of e-Santé",
+   "tiers": ""
+  }
+ ],
+ "note": "Interoperability platform and planned SNIS use case only; no stated in-service or linked national HMIS."
+}

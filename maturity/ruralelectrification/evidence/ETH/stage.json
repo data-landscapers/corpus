@@ -1,0 +1,15 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "2",
+   "access": "official:44.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-004",
+   "gaps": "The latest figure, 44.8 per cent of rural people for 2024, is above 53.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

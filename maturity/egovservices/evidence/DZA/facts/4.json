@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-05-dza-elwatan-centre-national-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "El Watan reports around forty digital public services are to be integrated into the National Public Services Portal as a first step.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Portail national des services publics",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail national des services publics",
+   "country_label": "National Public Services Portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

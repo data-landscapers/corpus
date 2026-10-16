@@ -1,0 +1,15 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "4",
+   "access": "official:86.3",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-004",
+   "gaps": "The latest figure, 86.3 per cent of rural people for 2024, is above 95.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

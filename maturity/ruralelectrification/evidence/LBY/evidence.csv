@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBY-001,LBY,rural,access,official:0.8,"0.8 per cent of rural people in Libya had electricity in 2012, by the World Bank's rural electricity access series.",2012,year,the World Bank's rural electricity access series,ruralpower,ref:wdi-elc-accs-rural@2026-07-13,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS

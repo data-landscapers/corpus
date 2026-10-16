@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,eservices,services,coverage,inservice,2026,ZAF-001;ZAF-002;ZAF-004,ZAF-003=underway,
+ZAF,eservices,gateway,coverage,,,,,nothing held
+ZAF,eservices,usage,coverage,,,,,nothing held

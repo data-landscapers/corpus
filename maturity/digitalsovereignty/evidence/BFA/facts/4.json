@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The Prime Minister inaugurated two modular datacenters of the government cloud in Ouagadougou on 23 January 2026, to host, operate and secure all public data.",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Government cloud modular datacenters"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government cloud modular datacenters (Ouagadougou)",
+   "country_label": "BFA",
+   "class": "other",
+   "platform": "government cloud",
+   "owner": "Ministry of Digital Transition (state)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

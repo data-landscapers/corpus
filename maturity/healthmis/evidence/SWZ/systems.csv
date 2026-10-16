@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SWZ,CMIS,Eswatini,other,SQL Server,Ministry of Health HMIS unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,DHIS2,Eswatini,other,DHIS2,Ministry of Health,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,Community-Based Health Information System (CBHIS),Eswatini,other,,Ministry of Health,community,2025-09-26-eswatini-launches-cbhis
+SWZ,Client Management Information System (CMIS),Eswatini,other,,Ministry of Health,,2025-09-26-eswatini-launches-cbhis
+SWZ,SEMIS,Eswatini,other,DHIS2,Ministry of Education and Training,,2024-04-26-eswatini-launches-semis
+SWZ,CMIS,Eswatini,other,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration
+SWZ,eLMIS,Eswatini,other,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration

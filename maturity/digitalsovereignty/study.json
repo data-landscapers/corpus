@@ -1,0 +1,146 @@
+{
+ "id": "digitalsovereignty",
+ "study_file": "maturity-study-digitalsovereignty.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "geopol.sovereignty"
+ ],
+ "stage_topic": "geopol.sovereignty",
+ "redraws": [
+  "geopol.sovereignty--digital-sovereignty"
+ ],
+ "carry": [
+  "geopol.sovereignty--digital-sovereignty"
+ ],
+ "carry_studies": [
+  "datalocalisation",
+  "nationaldatacentres"
+ ],
+ "carry_map": {
+  "datalocalisation": {
+   "sub_indicator": "sovereignty",
+   "class": "sovereignty",
+   "aspects": {
+    "standing": {
+     "to": "rule",
+     "values": {
+      "in-force": "inservice",
+      "draft": "underway"
+     }
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "sub_indicator": "sovereignty",
+   "class": "sovereignty",
+   "aspects": {
+    "state": {
+     "to": "hosted",
+     "values": {
+      "hosted": "national"
+     }
+    }
+   }
+  }
+ },
+ "token_ceiling": 12000000,
+ "terms": [
+  "digital sovereignty",
+  "data sovereignty",
+  "data localisation",
+  "data localization",
+  "sovereign cloud",
+  "national cloud",
+  "government cloud",
+  "data residency",
+  "data classification",
+  "data hosting",
+  "government data centre",
+  "government data center",
+  "souveraineté numérique",
+  "souveraineté des données",
+  "cloud souverain",
+  "cloud national",
+  "localisation des données",
+  "hébergement des données",
+  "classification des données",
+  "datacenter national",
+  "soberania digital",
+  "soberania de dados",
+  "nuvem do governo",
+  "localização de dados",
+  "السيادة الرقمية",
+  "السيادة على البيانات",
+  "توطين البيانات",
+  "السحابة الحكومية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "sovereignty",
+   "label": "Control of state data",
+   "subject": "geopol.sovereignty",
+   "text": "Digital sovereignty: control of state data",
+   "indicator_id": "geopol.sovereignty--digital-sovereignty-control-of-state-data",
+   "class": "sovereignty",
+   "norm_short": "The AU Data Policy Framework asks for localisation of certain categories of data only, with portability so that no one is locked into a single provider; the Digital Transformation Strategy asks for 30 per cent of content hosted in Africa by 2030.",
+   "criteria": [
+    "A source from the past three years says no policy or law governs where state data is held or who may process it.",
+    "The government adopted, published or announced a strategy, plan or draft rule to keep government data or systems under national control.",
+    "A law, decree or policy in force classifies government data or requires named categories of data to be held in the country.",
+    "Government data or a core system is hosted in a government or nationally owned data centre or cloud in the country.",
+    "A government contract or agreement with a foreign provider or partner includes terms on data jurisdiction, portability, exit or handing over source code."
+   ],
+   "criteria_of": "26097ecea3bd"
+  }
+ ],
+ "classes": [
+  "sovereignty",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "rule",
+   "name": "Rule on state data",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "hosted",
+   "name": "Hosted nationally",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "national"
+   ],
+   "values": [
+    "national"
+   ]
+  },
+  {
+   "key": "terms",
+   "name": "Contract terms",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "carried"
+   ],
+   "values": [
+    "carried"
+   ]
+  }
+ ],
+ "flags": []
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-08-gpe-cpv-2026-cabo-verde-prise-education-system-capacity-grant",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Government of Cabo Verde says the GPE approved a US$1 million grant funding PRISE 2026-2028, whose technical areas include expanding and modernising SIGE.",
+   "as_of": "2026-04-08",
+   "date_precision": "day",
+   "system": "Sistema Integrado de Gestão Escolar (SIGE)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Gestão Escolar (SIGE)",
+   "country_label": "Cabo Verde",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministério da Educação",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

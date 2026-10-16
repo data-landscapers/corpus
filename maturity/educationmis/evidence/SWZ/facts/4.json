@@ -1,0 +1,54 @@
+{
+ "slug": "2024-01-01-eswatini-dhis2-for-education-implementation",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Education and Training, with UNICEF Eswatini support, proposed DHIS2 for Education through an initial pilot project in 2020, replacing its paper and MS Access based collection.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "DHIS2 for Education (EMIS)",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The page states the SEMIS App holds individual data on learners and staff using a personal identification number (PIN), at national scale.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "SEMIS App",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The page subtitle says aggregate and individual EMIS data are connected to national identity.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2 for Education (EMIS)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 for Education (EMIS aggregate)",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": "national"
+  },
+  {
+   "system": "SEMIS App",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": "individual learner and staff"
+  }
+ ],
+ "note": ""
+}

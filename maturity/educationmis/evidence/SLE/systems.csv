@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,EMIS,Sierra Leone,emis,Global ED*ASSIST (pilot),"MBSSE, Directorate of Basic Education","national, provincial",2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
+SLE,Situation Room,Sierra Leone,other,,MBSSE Planning and Policy Directorate,sample of schools in every district,2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
+SLE,Unique Learner ID (ULID) System and Data Warehouse,Sierra Leone,emis,,"UNICEF tender, beneficiary Sierra Leone",,2025-10-15-sierra-leone-unicef-unique-learner-id-system-rfp
+SLE,National education data hub,Sierra Leone,emis,DHIS2,MBSSE,"national, district, school",2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,Unique Learner ID (ULID),Sierra Leone,emis,web and Android app,MBSSE,school,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-igebu-images-satellitaires-calques-dynamiques",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "IGEBU's Images satellitaires viewer shows Meteosat Second Generation layers over the Indian Ocean (precipitation rate, SEVIRI IR3.9, convection RGB) on automatic update.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Images satellitaires",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Images satellitaires",
+   "country_label": "IGEBU Images satellitaires",
+   "class": "metsat",
+   "platform": "Meteosat Second Generation",
+   "owner": "Institut Geographique du Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

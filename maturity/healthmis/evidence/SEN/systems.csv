@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,DHIS2,Senegal,hmis,DHIS2,Ministry of Health,"facility, district, region, national",2025-01-01-sen-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern
+SEN,DHIS2,Senegal,hmis,DHIS2,MSAS,,2024-01-01-sen-digitalisation-de-certains-systemes-et-services-de-sante
+SEN,DHIS2 for Education,Senegal,other,DHIS2,Ministry of Education,two districts,2024-01-01-dhis2-education-senegal

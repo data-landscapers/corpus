@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-informatics-cbl-personal-data-protection-regulation-session",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The Central Bank of Libya issued Circular No. 18 (dated 1 June 2025 in this write-up) whose data protection regulation states it is prohibited to store personal, financial, credit or sensitive data outside Libya, binding on banks, foreign bank branches, fintechs, payment providers, exchange and leasing companies from 1 July 2026; the document is an undated workshop write-up, published 2025-01-01 as a year-only placeholder.",
+   "as_of": "2025-06-01",
+   "date_precision": "day",
+   "system": "CBL Circular No. 18 data protection system and executive regulation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBL Circular No. 18 data protection system and executive regulation",
+   "country_label": "Data Protection System and Executive Regulation",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": "banks; foreign bank branches; fintech and electronic payment providers; exchange and credit companies; leasing companies"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

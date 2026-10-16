@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,hmis,system,coverage,inservice,2023-11-22,BEN-001,,
+BEN,hmis,linked,coverage,,,,,nothing held
+BEN,hmis,completeness,coverage,,,,,nothing held

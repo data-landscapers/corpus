@@ -1,0 +1,15 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "2",
+   "access": "official:39.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-004",
+   "gaps": "The latest figure, 39.2 per cent of rural people for 2024, is above 53.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

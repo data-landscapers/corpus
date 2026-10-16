@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+EGY,Copernicus Sentinel-2,Egypt,agrisat,satellite imagery,European Space Agency,,2026-06-26-esa-earth-from-space-desert-cropland-egypt
+EGY,WaPOR,Egypt,agrisat,Sentinel-2 imagery with field data,FAO with Egypt's Ministry of Water Resources and Irrigation and Ministry of Agriculture and Land Reclamation,,2026-06-24-fao-wapor-crop-type-mapping-mallawi-egypt

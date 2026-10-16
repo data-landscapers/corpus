@@ -1,0 +1,17 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "agrisat",
+   "stage": "no evidence",
+   "service": "",
+   "published": "",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether satellite data is used in farming.",
+   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+  }
+ ]
+}

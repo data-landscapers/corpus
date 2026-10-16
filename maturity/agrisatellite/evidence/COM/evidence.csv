@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COM-001,COM,agrisat,service,inservice,"FAO GIEWS runs an Earth Observation portal giving Comoros an Agricultural Stress Index and drought-intensity indicators from METOP-AVHRR satellite vegetation data, to identify cropped land at risk of drought.",2026-08-31,day,FAO GIEWS Earth Observation (Agricultural Stress Index),agrisat,2026-08-31-fao-giews-earth-observation-comoros,https://eo.apps.fao.org/country/index.jsp?code=COM&lang=en

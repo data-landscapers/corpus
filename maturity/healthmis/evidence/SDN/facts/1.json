@@ -1,0 +1,4 @@
+{"slug":"2026-02-10-sudan-health-ministry-digital-transformation-year","facts":[
+{"sub_indicator":"hmis","aspect":"system","value":"underway","fact":"The Federal Ministry of Health's Director General of Health Information called for a full transition from paper-based to digital reporting through DHIS2, and participants recommended expanding DHIS2 to digitally link all health facilities.","as_of":"2026-02-10","date_precision":"day","system":"DHIS2","class":"hmis"},
+{"sub_indicator":"hmis","aspect":"completeness","value":"published","fact":"The Federal Health Minister said national teams raised data reporting coverage from 13 percent at the onset of the crisis to more than 56 percent by the end of 2025.","as_of":"2025-12","date_precision":"month","system":"DHIS2","class":"hmis"}
+],"systems":[{"system":"DHIS2","country_label":"Sudan","class":"hmis","platform":"DHIS2","owner":"Federal Ministry of Health","tiers":""}],"note":""}

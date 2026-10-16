@@ -1,0 +1,3 @@
+{"slug":"2025-12-01-sudan-health-information-systems-needs-limitations","facts":[
+{"sub_indicator":"hmis","aspect":"system","value":"inservice","fact":"A study of Sudan's health information systems found there is only one approved system for collecting health information, DHIS2.","as_of":"2025-12","date_precision":"month","system":"DHIS2","class":"hmis"}
+],"systems":[{"system":"DHIS2","country_label":"Sudan","class":"hmis","platform":"DHIS2","owner":"","tiers":""}],"note":""}

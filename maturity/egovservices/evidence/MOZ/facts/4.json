@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Biometric Update reports the Citizen Portal is in a pre-launch phase and already provides services including INATRO driving licences, NUIT tax services and One-Stop Service Centre (BAU) services.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Portal do Cidadão",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Biometric Update reports the pre-launch Citizen Portal provides about 26 services.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Portal do Cidadão",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Biometric Update reports the pre-launch Citizen Portal has been accessed by more than 3,000 citizens.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Portal do Cidadão",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal do Cidadão",
+   "country_label": "Mozambique",
+   "class": "eservices",
+   "platform": "national citizen portal",
+   "owner": "ATDI",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

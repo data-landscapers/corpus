@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Health service page lists DHIS2 as the system used for health information collection, storage, analysis, reporting and dissemination, with an HMIS data warehouse accessible through DHIS2 HMIS Data and a public data portal.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 (HMIS)",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "HRHIS3",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Health Facility Registry",
+   "country_label": "Tanzania Mainland",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

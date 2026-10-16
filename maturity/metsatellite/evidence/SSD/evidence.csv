@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,metsat,stream,inservice,WMO reports South Sudan Meteorological Services forecasters were trained in Juba to analyze satellite data and began a pilot of daily forecasts verified each day against EUMETSAT satellite information.,2025-06,month,EUMETSAT satellite information,metsat,2025-07-16-south-sudan-crews-east-africa-twinning,https://wmo.int/media/project-update/crews-east-africa-supports-south-sudan-through-regional-twinning-partnership

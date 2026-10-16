@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-cbn-data-localisation-directive-data-centre-investment",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The Punch reports the CBN directed banks, fintechs, mobile money operators and other payment service providers to store and manage payment transaction data generated in Nigeria locally, with full compliance expected by 1 January 2027; no issue date is given, so the 2026-07-27 publication date is used.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "CBN payment data localisation directive (Circular PSS/DIR/PUB/CIR/001/004)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GFA Abeokuta Technology Zone Data Centre",
+   "country_label": "200MW Abeokuta Technology Zone Data Centre and Digital Infrastructure Campus",
+   "class": "other",
+   "platform": "",
+   "owner": "GFA Technologies Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

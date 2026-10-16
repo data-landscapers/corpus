@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,DHIS2-based HMIS,Malawi,hmis,DHIS2,Ministry of Health,,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,One Health Surveillance Platform (OHSP),Malawi,other,DHIS2,Ministry of Health,,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,EWARS,Malawi,other,,WHO-supported,,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,DHIS1,Malawi,hmis,DHIS1,,,2025-06-03-patient-held-records-rural-malawi
+MWI,Health Passport,Malawi,other,paper,,,2025-06-03-patient-held-records-rural-malawi
+MWI,national Health Management Information System (HMIS),Malawi,hmis,DHIS2,Ministry of Health,,2026-06-21-ichis-community-health-information-system
+MWI,iCHIS,Malawi,other,DHIS2,Ministry of Health,community,2026-06-21-ichis-community-health-information-system
+MWI,MaHIS,Malawi,other,,Ministry of Health,,2026-06-21-ichis-community-health-information-system
+MWI,DHIS2-based national health information system,Malawi,hmis,DHIS2,Ministry of Health,,2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,iCHIS,Malawi,other,DHIS2,Ministry of Health,community,2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,MaHIS,Malawi,other,OpenMRS,Ministry of Health,facility,2026-04-27-mwi-dhis2-diabetes-compass-project

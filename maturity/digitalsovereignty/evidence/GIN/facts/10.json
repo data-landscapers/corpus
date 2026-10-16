@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-gin-guineenews-data-center-national-tier3",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "Guineenews reports that at the 4 September 2025 launch of the national Data Center (Tier III, 600 m2, built and presented by COREX), the telecommunications minister said Guinea's strategic data now stays in Guinea under state control, instead of being hosted abroad at over USD 5 million a year; the document does not name which ministries' systems are moved.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Data Center national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Data Center national Tier III",
+   "class": "other",
+   "platform": "",
+   "owner": "State; COREX",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

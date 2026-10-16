@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+KEN-001,KEN,metsat,stream,underway,"EUMETSAT says its SEWA project will sustain and upgrade the Regional ATOVS Retransmission Services network by modernising ground stations in Gabon, Kenya, Niger and South Africa for polar-orbiting satellite data.",2025-10-24,day,RARS,metsat,2025-10-24-sewa-strengthening-early-warning-africa,http://www.eumetsat.int/strengthening-early-warning-africa-sewa

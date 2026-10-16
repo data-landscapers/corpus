@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,National Data Centre (Lilongwe),MWI,other,"government data centre, Lilongwe, with redundancy link to Blantyre data centre",Government of Malawi (Department of E-Government),,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,Blantyre Data Centre (disaster recovery site),MWI,other,government DR site,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,Bomalathu Digital Services Platform,MWI,other,government digital services portal,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,"Government Data Centre (Lilongwe primary, Blantyre secondary/backup)",Malawi,sovereignty,government data centre,"Department of e-Government, Ministry of Information and Digitalization",primary and secondary/backup,2024-10-31-digmap-government-data-centre-lilongwe-77pc-complete
+MWI,National Data Centre,National Data Centre,other,Huawei,Government of Malawi; operated with Ministry of Information and ESCOM,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,Lilongwe data centre,another facility being constructed in Lilongwe,other,,,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,National Data Centre (Lilongwe),MWI,other,"private cloud, hyper-converged, Paul Kagame Road, Lilongwe",Government of Malawi (Department of e-Government),Tier III (stated),2026-06-11-pppc-expansion-of-national-data-centre-rfb

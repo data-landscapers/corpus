@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-20-wmo-parts-of-libya-affected-by-extreme-weather-lnmc",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Libya National Meteorological Service says its assessment of the August 2024 extreme rain in the southwest and southeast rested on satellite images and numerical models.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "satellite images and numerical models",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "The National Meteorological Centre says it issued and disseminated early warnings to public sectors and the media 48 hours and 72 hours ahead of the two August 2024 episodes, whose assessments drew on satellite images, and updated them more than once.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "National Meteorological Centre early warning",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

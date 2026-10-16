@@ -1,0 +1,15 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "1",
+   "access": "official:1.3",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

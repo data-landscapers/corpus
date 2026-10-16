@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-10-dza-ecotimes-gouvernance-donnees-centres-cloud",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Prime Minister launched on 9 February 2026 the national data governance system under presidential decree of 30 December 2025, which he said aims to ensure control, organisation and protection of public data in a sovereign model.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "national data governance system",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "High Commissioner Benmouloud said the strategic infrastructure is complete, with data centres in service, cloud accounts deployed and the sovereign IRIES network linking over 55 state bodies in a closed environment outside the Internet.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "IRIES",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRIES",
+   "country_label": "Algeria",
+   "class": "sovereignty",
+   "platform": "closed sovereign state network",
+   "owner": "High Commission for Digitalisation",
+   "tiers": "national"
+  },
+  {
+   "system": "national data governance system",
+   "country_label": "Algeria",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

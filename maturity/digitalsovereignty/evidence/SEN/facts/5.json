@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The article states that after the Diamniadio National Datacenter opened in June 2021, President Macky Sall instructed his government to migrate all state data and digital platforms to it and to repatriate all national data hosted outside Senegal, and that Senegal requires servers to be housed within its borders; the author cites secondary sources and gives no legal instrument.",
+   "as_of": "2021-06",
+   "date_precision": "month",
+   "system": "Presidential instruction to host state data in the Diamniadio National Datacenter"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio National Datacenter (DND)",
+   "country_label": "Data Center National de Diamniadio",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "Government of Senegal",
+   "tiers": "state"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

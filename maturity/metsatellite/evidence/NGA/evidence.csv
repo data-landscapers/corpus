@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NGA-001,NGA,metsat,stream,underway,"NiMet says it completed installation of the PUMA 2025 / ClimSA Meteosat Third Generation satellite receiving station at its headquarters on 9 May 2025, replacing the earlier MSG 2015 station.",2025-05-09,day,PUMA 2025-MTG satellite receiving system,metsat,2025-05-09-nimet-mtg-satellite-installation,https://nimet.gov.ng/news?id=123

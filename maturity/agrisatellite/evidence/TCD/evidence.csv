@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TCD-001,TCD,agrisat,service,inservice,"The FAO GIEWS country brief on Chad says it was prepared using FAO/GIEWS Earth Observation for Crop Monitoring, alongside the cereal balance sheet, price tool and Cadre Harmonisé, and forecasts 2025 cereal output at about 3 million tonnes.",2026-01-27,day,FAO/GIEWS Earth Observation for Crop Monitoring,agrisat,2026-01-27-fao-giews-country-brief-chad,https://www.fao.org/giews/countrybrief/country.jsp?code=TCD

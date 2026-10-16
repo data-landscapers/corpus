@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-kenya-ecitizen-sh36-5bn-collections-gap-scrutiny",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Draft 2026 Budget Policy Statement, as quoted, says over 17,668 services from over 350 agencies were onboarded onto eCitizen, and the article says it now provides more than 22,000 services.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "eCitizen",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

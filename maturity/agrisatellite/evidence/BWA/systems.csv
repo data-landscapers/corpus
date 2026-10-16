@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,CHIRPS / CHIRTS,Botswana,other,satellite-derived gridded rainfall and temperature data,Climate Hazards Center,,2026-03-25-crop-yield-drought-indices-agricultural-monitoring
+BWA,CHIRPS,Botswana,other,satellite rainfall estimates,"USGS and Climate Hazards Group, UC Santa Barbara",,2026-03-20-drought-regionalization-chirps-satellite-data
+BWA,AgriWatch,BWA,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch

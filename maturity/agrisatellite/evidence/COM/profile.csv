@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,agrisat,service,coverage,inservice,2026-08-31,COM-001,,
+COM,agrisat,published,coverage,scheduled,2026-08-31,COM-002,,
+COM,agrisat,reach,coverage,,,,,nothing held

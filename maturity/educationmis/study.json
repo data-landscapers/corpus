@@ -1,0 +1,111 @@
+{
+ "id": "educationmis",
+ "study_file": "maturity-study-educationmis.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--education"
+ ],
+ "carry": [
+  "dpi.mis--education"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 12000000,
+ "terms": [
+  "EMIS",
+  "education management information system",
+  "education information system",
+  "school census",
+  "annual school census",
+  "learner unique identifier",
+  "unique learner",
+  "learner identification number",
+  "NEMIS",
+  "LURITS",
+  "education statistics",
+  "système d'information pour la gestion de l'éducation",
+  "système d'information de gestion de l'éducation",
+  "SIGE",
+  "recensement scolaire",
+  "annuaire statistique de l'éducation",
+  "identifiant unique de l'élève",
+  "sistema de informação de gestão da educação",
+  "estatísticas da educação",
+  "levantamento escolar",
+  "نظام معلومات إدارة التعليم",
+  "الإحصاء المدرسي",
+  "المعرف الوطني للتلميذ"
+ ],
+ "sub_indicators": [
+  {
+   "key": "emis",
+   "label": "Education information system",
+   "subject": "dpi.mis",
+   "text": "Education: education information system",
+   "indicator_id": "dpi.mis--education-education-information-system",
+   "class": "emis",
+   "norm_short": "The AU Digital Education Strategy asks for education management information systems to move from aggregate school returns to records for each learner, teacher and school.",
+   "criteria": [
+    "A source from the past three years says there is no education management information system.",
+    "The education ministry procured, piloted or is building an education management information system.",
+    "The ministry collected or published an annual school census or education statistics through its education information system.",
+    "The system holds individual learner records with a unique learner number, in service for schools across the country.",
+    "Learner records are linked to the national ID or birth registration number, or exchange data with another government system."
+   ],
+   "criteria_of": "ab3d1cffd21a"
+  }
+ ],
+ "classes": [
+  "emis",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "Education information system",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "learners",
+   "name": "Learner records",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "individual"
+   ],
+   "values": [
+    "individual"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

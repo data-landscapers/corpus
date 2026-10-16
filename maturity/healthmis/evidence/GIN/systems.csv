@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,DHIS2,national system (DHIS2),hmis,DHIS2,Ministry of Health and Public Hygiene,,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
+GIN,OpenClinic,logiciel SIH Openclinic,other,OpenClinic,"five health facilities in Mamou and Dalaba, funded by Enabel",facility,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
+GIN,SNIS,Système National d'Information Sanitaire,hmis,,Ministry of Health and Public Hygiene,,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
+GIN,REC maternité,REC maternité,other,,Terre des Hommes with MSHP,15 health centres,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
+GIN,SNIS/DHIS2,SNIS on DHIS2,hmis,DHIS2,"Ministry of Health (SNIS, ANSS)","facility, district, region",2025-01-01-pasa2-gestion-analyse-validation-donnees-snis-dhis2

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BFA,metsat,stream,coverage,inservice,2025-08,BFA-002,BFA-001=underway,
+BFA,metsat,warnings,coverage,issued,2025-08,BFA-003,,
+BFA,metsat,certified,coverage,,,,,nothing held

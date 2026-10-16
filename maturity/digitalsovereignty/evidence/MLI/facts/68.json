@@ -1,0 +1,34 @@
+{
+ "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "ITU states the AGETIC, a government agency under the ministry MCENMA, runs a data centre providing hosting (IaaS, SaaS, backup) to the public administration, with a real-time-replicated DR site; the document gives the year only.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "AGETIC data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SMTD data centre",
+   "country_label": "Centre de données de la SMTD",
+   "class": "other",
+   "platform": "",
+   "owner": "Société malienne de transmission et de diffusion (SMTD)",
+   "tiers": ""
+  },
+  {
+   "system": "AGETIC data centre",
+   "country_label": "Centres de données de l'AGETIC",
+   "class": "other",
+   "platform": "",
+   "owner": "AGETIC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

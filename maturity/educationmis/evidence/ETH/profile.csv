@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,emis,system,coverage,inservice,2023-10,ETH-003,ETH-001=underway;ETH-004=underway;ETH-002=underway,
+ETH,emis,learners,coverage,,,,,nothing held
+ETH,emis,linked,coverage,,,,,nothing held

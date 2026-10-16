@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,Smart Paper Technology (SPT),The Gambia,hmis,"hybrid paper-digital, synchronised with DHIS2","Ministry of Health with MRCG at LSHTM, Shifo Foundation, US CDC","facility (Bundung, Fajikunda)",2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia
+GMB,Health Management Information System,HMIS,hmis,,Ministry of Health,,2026-07-01-mobse-health-ministry-data-systems
+GMB,RF-NDP tracking system,The Gambia,other,DHIS2,Government of The Gambia (Ministry of Finance and Economic Affairs),"ministries, departments and agencies",2026-04-02-eeas-eu-supports-digital-tracking-system-rf-ndp
+GMB,DHIS2 for Education (DHIS2-Ed),The Gambia,other,DHIS2,Ministry of Basic and Secondary Education,,2026-01-30 The Gambia charts a path to data-driven education with DHIS2

@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,DHIS2,DHIS2,hmis,DHIS2,Government of Botswana,"national, districts",2026-05-27-who-botswana-biennial-report-2024-2025
+BWA,VigiFlow,VigiFlow,other,,,,2026-05-27-who-botswana-biennial-report-2024-2025
+BWA,District Health Information System 2,DHIS2,hmis,DHIS2,Ministry of Health,health facilities,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Patient Information Management System,PIMS,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,Integrated Patient Management System,IPMS,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital
+BWA,E Pulse,E Pulse,other,,,,2025-11-20-motshegwa-medicine-shortage-rural-health-digital

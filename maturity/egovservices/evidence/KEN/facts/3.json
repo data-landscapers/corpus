@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-nation-kra-etims-invoice-outage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eTIMS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Tax invoicing system of one agency, reached through eCitizen; no count, launch or usage figure for services."
+}

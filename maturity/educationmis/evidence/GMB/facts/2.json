@@ -1,0 +1,54 @@
+{
+ "slug": "2025-01-01-dhis2-education-gambia-implementation",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "In 2019, with Norad and GPE KIX support, the DHIS2 for Education project started building a new EMIS with MoBSE and HISP WCA.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "DHIS2 EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DHIS2 EMIS (aggregate data) is listed as in use at national scale since 2019, built on customised aggregate EMIS census forms.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2 EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "After a 2020 pilot in 200 schools, the ministry scaled the individual learner module to national level in 2021, launching the individual student identification number.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "SEMIS App",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 EMIS",
+   "country_label": "The Gambia",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "MoBSE",
+   "tiers": "national"
+  },
+  {
+   "system": "SEMIS App",
+   "country_label": "The Gambia",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "MoBSE",
+   "tiers": "individual learner"
+  }
+ ],
+ "note": ""
+}

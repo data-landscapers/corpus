@@ -1,0 +1,82 @@
+{
+ "slug": "2026-07-07 CBN's local data order puts Nigeria's data centres to test",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "TechCabal reports that a Central Bank of Nigeria directive requires banks, fintechs and payment companies to move transactional data from overseas cloud servers to data centres inside Nigeria by 1 January 2027 (no issue date given; article published 2026-07-07).",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "CBN data localisation directive"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Lagos data centre campus",
+   "country_label": "OADC Lagos campus",
+   "class": "other",
+   "platform": "",
+   "owner": "OADC",
+   "tiers": "private sector"
+  },
+  {
+   "system": "Nigerian commercial data centre market",
+   "country_label": "commercial data centres, 50-56 MW live, about 124 MW installed",
+   "class": "other",
+   "platform": "",
+   "owner": "OADC, Rack Centre, Kasi Cloud, Galaxy Backbone, Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos campus",
+   "country_label": "OADC Lagos campus",
+   "class": "other",
+   "platform": "",
+   "owner": "OADC (WIOCC)",
+   "tiers": "Tier III (operator-stated)"
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone Abuja data centre",
+   "country_label": "Galaxy Backbone Abuja data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Uptime Tier III"
+  },
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "Galaxy Backbone Kano data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Uptime Tier IV"
+  },
+  {
+   "system": "Kasi Cloud LOS1 (Lekki)",
+   "country_label": "Kasi Cloud LOS1 (Lekki)",
+   "class": "other",
+   "platform": "",
+   "owner": "Kasi Cloud Datacenters",
+   "tiers": "described as under development"
+  },
+  {
+   "system": "Equinix Port Harcourt",
+   "country_label": "Equinix Port Harcourt",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": "article calls it Tier III-certified but links to a plans announcement; not recorded as in service"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

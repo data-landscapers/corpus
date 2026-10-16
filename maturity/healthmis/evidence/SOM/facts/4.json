@@ -1,0 +1,4 @@
+{"slug": "2025-08-15-unicef-and-hisp-uio-expand-partnership-somalia", "facts": [
+{"sub_indicator":"hmis","aspect":"system","value":"inservice","fact":"HISP UiO says DHIS2 serves as the backbone of Somalia's national health management information system, supporting data collection across disease surveillance, HIV monitoring and immunization.","as_of":"2025-08-15","date_precision":"day","system":"DHIS2","class":"hmis"},
+{"sub_indicator":"hmis","aspect":"linked","value":"linked","fact":"HISP UiO says Somalia has adopted DHIS2 Tracker for disease surveillance, HIV monitoring and immunization records within its DHIS2-based health management information system.","as_of":"2025-08-15","date_precision":"day","system":"DHIS2","class":"hmis"}],
+"systems":[{"system":"DHIS2","country_label":"Somalia","class":"hmis","platform":"DHIS2","owner":"Ministry of Health","tiers":"national"}], "note": ""}

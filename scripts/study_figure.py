@@ -89,6 +89,17 @@ FIGURES = {
         caveat="The gap is men's rate of internet use less women's, as a share of men's; below zero, women's use is the higher.",
         reading="It measures the difference between women and men, not how many use the internet: a country where few people are online "
                 "stands high if women and men are online alike, and one where most are online stands low if women lag."),
+    "ruralelectrification": dict(
+        owner="World Bank", dataset="wdi-elc-accs-rural", sub="rural", cls="ruralpower",
+        figure="access", cond=None, lines=(27.0, 53.0, 80.0, 95.0),
+        source="the World Bank's rural electricity access series",
+        fact="{v} per cent of rural people in {country} had electricity in {y}, by the World Bank's rural electricity access series.",
+        fig="{v} per cent of rural people had electricity",
+        unit="per cent of rural people", what="the share of rural people with electricity",
+        caveat="The figure counts rural people with any electricity, from the grid or off it, not how reliable or affordable it is.",
+        reading="The series is the one Tracking SDG7 publishes, built from household surveys and modelled between them, so a "
+                "country's own survey can give a different figure. The 80 per cent line is the Agenda 2063 figure for "
+                "households, applied here to rural people, and 95 per cent is universal access."),
 }
 
 

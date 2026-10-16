@@ -1,0 +1,7 @@
+{"slug": "2026-02-01-in-season-yield-forecasting-malawi", "facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "The CEOS Earth Observation Handbook says NASA Harvest, with FAO, adapted its satellite-based GEOCIF yield forecast model at the request of Malawi's Ministry of Agriculture for the 2024 cropping season, and the National Committee on Crop Estimates recommended incorporating it into the crop estimates survey.", "as_of": "2024", "date_precision": "year", "system": "GEOCIF", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "published", "value": "scheduled", "fact": "The CEOS Earth Observation Handbook says the GEOCIF yield forecasts for Malawi were provided on a monthly basis during the 2024 cropping season to inform in-season agricultural monitoring and crop production estimates.", "as_of": "2024", "date_precision": "year", "system": "GEOCIF", "class": "agrisat"}
+], "systems": [
+{"system": "GEOCIF", "country_label": "Malawi", "class": "agrisat", "platform": "NASA Harvest machine-learning yield forecast model", "owner": "NASA Harvest with FAO, for the Ministry of Agriculture", "tiers": "district"},
+{"system": "National Committee on Crop Estimates", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Ministry of Agriculture", "tiers": "national"}
+], "note": ""}

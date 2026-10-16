@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DPGA report says Rwanda adopted DHIS2 in 2012 and it covers 700+ facilities.",
+   "as_of": "2026-01-20",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The DPGA report says DHIS2 data completeness rose from 88% to 95% and timeliness from 60% to 90%+.",
+   "as_of": "2026-01-20",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Rwanda",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": "700+ facilities"
+  }
+ ],
+ "note": ""
+}

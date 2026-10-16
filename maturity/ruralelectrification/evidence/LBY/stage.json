@@ -1,0 +1,15 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "unplaced",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for the share of rural people with electricity.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

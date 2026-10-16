@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,PUMA 2025-MTG satellite receiving system,NGA,metsat,Meteosat Third Generation (PUMA 2025 / ClimSA),Nigerian Meteorological Agency (NiMet),"headquarters station, internet access for airport forecast offices nationwide",2025-05-09-nimet-mtg-satellite-installation
+NGA,MSG 2015 station,NGA,metsat,Meteosat Second Generation,Nigerian Meteorological Agency (NiMet),separate deployment per location,2025-05-09-nimet-mtg-satellite-installation

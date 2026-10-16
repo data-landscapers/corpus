@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,metsat,stream,underway,"IGEBU's Images satellitaires viewer shows Meteosat Second Generation layers over the Indian Ocean (precipitation rate, SEVIRI IR3.9, convection RGB) on automatic update.",2026-08-28,day,Images satellitaires,metsat,2026-08-28-igebu-images-satellitaires-calques-dynamiques,https://www.igebu.bi/data-tools/

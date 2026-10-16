@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says Togo's SIGE adds DHIS2 on top of CSPro-based statistical infrastructure, with StatEduc used for the annual school census.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SIGE",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Togo",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education",
+   "tiers": "national, regional, inspection"
+  },
+  {
+   "system": "StatEduc",
+   "country_label": "Togo",
+   "class": "emis",
+   "platform": "CSPro",
+   "owner": "Ministry of Education",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

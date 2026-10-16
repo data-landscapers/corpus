@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SWZ,National Education Management Information System (EMIS),Eswatini,emis,DHIS2,Ministry of Education and Training,schools,2025-11-04-eswatini-disability-indicators-emis
+SWZ,DHIS2 for Education (EMIS aggregate),Eswatini,emis,DHIS2,Ministry of Education and Training,national,2024-01-01-eswatini-dhis2-for-education-implementation
+SWZ,SEMIS App,Eswatini,emis,DHIS2,Ministry of Education and Training,individual learner and staff,2024-01-01-eswatini-dhis2-for-education-implementation
+SWZ,Education Management Information System (EMIS),Eswatini,emis,,"Ministry of Education and Training, EMIS Unit","16th Day Survey, Annual Education Census, individual-level data collection",2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis
+SWZ,DHIS2 for Education (EMIS),Eswatini,emis,DHIS2,"Ministry of Education and Training, EMIS Unit","school, learner",2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,MS-Access EMIS,Eswatini,emis,MS Access,Ministry of Education and Training,aggregate,2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,PIN-driven EMIS (SEMIS),Eswatini,emis,,Ministry of Education and Training,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+EGY,hmis,system,coverage,underway,2026-01-18,EGY-001,,
+EGY,hmis,linked,coverage,,,,,nothing held
+EGY,hmis,completeness,coverage,,,,,nothing held

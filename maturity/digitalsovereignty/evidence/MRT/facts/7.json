@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-30-national-cloud-launch-ecofin",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Ecofin Agency reports Mauritania launched its national cloud on 29 June 2026 at the National Data Center in Nouakchott to host government data and digital public services domestically.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "National Cloud",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Ecofin Agency reports the government launched a national cloud to gradually centralise government digital services, with no migration timeline announced.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "National Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cloud",
+   "country_label": "Mauritania",
+   "class": "sovereignty",
+   "platform": "Nouakchott National Data Center (Tier III, WARDIP)",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

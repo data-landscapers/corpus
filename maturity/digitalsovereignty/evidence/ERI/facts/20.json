@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "none",
+   "class": "sovereignty",
+   "fact": "The UNECA Digital Trade Regulatory Integration profile states Eritrea does not require local data storage and has no infrastructure-related requirements; no date is given for the stated position, so the document's published date (2022-01-01) is used.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Eritrea data localisation rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

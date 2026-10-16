@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-29-bfa-la-souverainete-numerique-lautre-front-de-la-revolution",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The ministry's communications office says the country inaugurated in January 2026 two modular datacentres of its government cloud, with nearly 3,000 TB of storage and capacity for over 7,000 virtual machines, to host citizen files, health and financial data and critical systems at home.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "government cloud",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry says it has made control of infrastructure, platforms and data a national priority under the 'Zero data abroad' first stage of its twelve digital transformation projects.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Zero data abroad",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "government cloud",
+   "country_label": "Burkina Faso",
+   "class": "sovereignty",
+   "platform": "two modular datacentres",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

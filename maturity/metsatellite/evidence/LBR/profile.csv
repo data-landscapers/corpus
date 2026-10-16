@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,metsat,stream,coverage,underway,2025-10-24,LBR-001,,
+LBR,metsat,warnings,coverage,,,,,nothing held
+LBR,metsat,certified,coverage,,,,,nothing held

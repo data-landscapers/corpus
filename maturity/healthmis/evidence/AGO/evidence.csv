@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,hmis,system,inservice,"DHIS2 says a March 2026 joint WHO and HISP UiO mission found Angola's DHIS2-based national health information system serving more than 4,700 registered users and working as a solid national platform for the Ministry of Health.",2026-03,month,DHIS2,hmis,2026-04-07-dhis2-angola-parceria-hisp-uio-oms-integracao-sistema-informacao-sanitaria,https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/

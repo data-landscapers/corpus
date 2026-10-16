@@ -1,0 +1,15 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "3",
+   "access": "official:54.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-004",
+   "gaps": "The latest figure, 54.2 per cent of rural people for 2024, is above 80.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

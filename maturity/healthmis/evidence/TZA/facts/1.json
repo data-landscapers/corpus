@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-impulse-erhis-newborn-data-functionalities",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The IMPULSE study (Nov 2022-Jul 2024) found DHIS2 in use as the routine health information system in central and subnational data offices in Tanzania.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": "central and subnational"
+  }
+ ],
+ "note": ""
+}

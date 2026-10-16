@@ -1,0 +1,13 @@
+# Guinea-Bissau
+
+## Satellite data in agriculture
+
+**Satellite service.** [FAO's GIEWS country brief for Guinea-Bissau says satellite-based data showed some dry spells affected crops in localized areas in 2025, and lists GIEWS Earth Observation for Crop Monitoring among the tools used to prepare it](<https://www.fao.org/giews/countrybrief/country/GNB/pdf/GNB.pdf>). [WFP Guinea-Bissau says it carries out monthly monitoring of rainy-season conditions, using CHIRPS rainfall, MODIS NDVI and land surface temperature processed in Google Earth Engine, to report vegetation state and flood risk for agriculture](<https://docs.wfp.org/api/documents/WFP-0000168803/download/>).
+
+**Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://www.fao.org/giews/countrybrief/country/GNB/pdf/GNB.pdf>).
+
+**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://www.fao.org/giews/countrybrief/country/GNB/pdf/GNB.pdf>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says a satellite-based farming service publishes on a schedule.

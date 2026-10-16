@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,DHIS2,Madagascar,hmis,DHIS2,Ministry of Public Health (DEPSI),,2025-10-07-mtomady-dhis2-interoperability
+MDG,mTOMADY,Madagascar,other,,mTOMADY,,2025-10-07-mtomady-dhis2-interoperability
+MDG,CommCare,Madagascar,other,CommCare,"Ministry of Public Health, with USAID ACCESS/MSH/Dimagi","community health volunteers, health centers, districts",2024-05-21-msh-mobile-app-health-delivery-rural-madagascar

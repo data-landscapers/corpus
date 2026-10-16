@@ -1,6 +1,53 @@
 {
  "slug": "2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch",
  "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Egypt's Ministry of Communications and Information Technology says the state's strategy for digital transformation and strengthening digital sovereignty includes a nationally developed biometric verification and e-signature system, built locally with national expertise so the state owns its core digital components.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "biometric electronic-verification (digital identity) system",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "biometric electronic-verification (digital identity) system and integration platform",
+       "country_label": "Egypt",
+       "class": "sovereignty",
+       "platform": "integration platform with the Civil Status Organisation",
+       "owner": "Ministry of Communications and Information Technology with Ministry of Interior",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "biometric electronic-verification (digital identity) system",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "telecom operator smartphone apps",
+       "owner": "Ministry of Communications and Information Technology",
+       "tiers": "national"
+      }
+     ],
+     "note": "The document describes identity verification and e-signature for licensed telecom operators' apps, not a government service portal, a counted service or portal usage."
+    }
+   }
+  },
   "birthidlink": {
    "countries": {
     "EGY": {

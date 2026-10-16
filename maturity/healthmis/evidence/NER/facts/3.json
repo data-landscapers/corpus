@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-08-anp-sante-numerique-schema-directeur-e-sante",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The health minister said health agents in integrated health centres, health districts and hospitals entered notifiable-disease data weekly into DHIS2 (ANP).",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The minister said that via the national interoperability layer data from the Estelab disease surveillance platform now transfers automatically to DHIS2 without human intervention (ANP).",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Niger",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": "CSI, districts, hospitals"
+  },
+  {
+   "system": "Estelab",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

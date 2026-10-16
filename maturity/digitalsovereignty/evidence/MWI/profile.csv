@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,sovereignty,rule,coverage,inservice,2022,MWI-003,MWI-002=underway,
+MWI,sovereignty,hosted,coverage,national,2026,MWI-001;MWI-004;MWI-005,,
+MWI,sovereignty,terms,coverage,,,,,nothing held

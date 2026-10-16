@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-peopledaily-mps-demand-clarity-on-ecitizen-ownership-as-treasury",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "eCitizen",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "Ownership and regulations; no service count, gateway sign-in or usage figure."
+}

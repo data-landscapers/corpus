@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZMB,DHIS2,Zambia,hmis,DHIS2,Ministry of Health,"facility, district, province, national",2025-01-01-zmb-zambia-analysis-of-reproductive-maternal-newborn-child-and-adolescent
+ZMB,DHIS2-based health management information system,Zambia,hmis,DHIS2,Ministry of Health,national,2025-04-01-zambia-digital-health-case-study
+ZMB,SmartCare / SmartCare Pro,Zambia,other,,Ministry of Health,877 health facilities,2025-04-01-zambia-digital-health-case-study
+ZMB,electronic integrated disease surveillance and response system,Zambia,other,DHIS2,Zambia National Public Health Institute,,2025-04-01-zambia-digital-health-case-study
+ZMB,HMIS,Zambia,hmis,,Ministry of Health,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,DHIS2,Zambia,hmis,DHIS2,Ministry of Health,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,eLMIS,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,SmartCare,Zambia,other,,Ministry of Health,,2025-11-21-zambia-zm-core-fhir-implementation-guide

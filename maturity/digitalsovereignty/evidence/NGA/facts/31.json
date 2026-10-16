@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The article states the Central Bank of Nigeria has issued a directive, effective 1 January, requiring financial data to be hosted locally, with other regulators expected to follow; no issue date is given, so the 2026-09-20 publication date is used.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "CBN payment data localisation directive (Circular PSS/DIR/PUB/CIR/001/004)"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "class": "sovereignty",
+   "fact": "The National Cloud Initiative's technical working group has developed data classification guidelines setting which data categories must be stored locally, with national security and financial data classified as mandatory local hosting; no issue or enactment is stated, so the 2026-09-20 publication date is used.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "National Cloud Initiative data classification guidelines"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cloud Initiative",
+   "country_label": "National Cloud Initiative",
+   "class": "other",
+   "platform": "",
+   "owner": "Technical working group co-chaired by Digital Realty Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

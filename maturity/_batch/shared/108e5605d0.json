@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-09-au-iped-supports-burundi-strengthening-education-data",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The African Union Commission says a workshop in Bujumbura on 9-11 June 2026 aims to strengthen Burundi's EMIS, amid validation of the country's EMIS strategy.",
+       "as_of": "2026-06-09",
+       "date_precision": "day",
+       "system": "Education Management Information System",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Education Management Information System",
+       "country_label": "Burundi",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on education systems; no health reporting system stated."
+    }
+   }
+  }
+ }
+}

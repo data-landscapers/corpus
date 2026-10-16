@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-12-au-iped-emis-self-assessment-drc",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The African Union Commission says a workshop in Kinshasa on 12-14 May 2026 supports the DRC in assessing and strengthening its Education Management Information System.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "Education Management Information System",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Education Management Information System",
+       "country_label": "DRC",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on education systems; no health reporting system stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-16-datacenter-national-sumec-menace-abandonner-chantier",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Adiac reports the national data centre, 95% built, is intended to let Congo store, host and process all its digital data and applications in-country and guarantee sovereignty.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "Data Center National",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center National",
+   "country_label": "Congo",
+   "class": "sovereignty",
+   "platform": "government data centre, Brazzaville",
+   "owner": "Ministry of Posts, Telecommunications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Facility unfinished and works stalled, so no hosting fact."
+}

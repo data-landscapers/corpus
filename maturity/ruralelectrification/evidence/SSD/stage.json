@@ -1,0 +1,15 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "1",
+   "access": "official:0.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

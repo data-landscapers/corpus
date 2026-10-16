@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-24-intic-proposta-regulamento-computacao-em-nuvem-consulta-publica",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "class": "sovereignty",
+   "fact": "INTIC's draft Regulamento dos Servicos de Computacao em Nuvem, in public consultation from 2025-02-24 (day inferred from the consultation window, the document's published date), says in Art. 11(2) that classified information may be handled only in private clouds and must always stay in national territory unless the regulator expressly authorises otherwise.",
+   "as_of": "2025-02-24",
+   "date_precision": "day",
+   "system": "Proposta de Regulamento dos Servicos de Computacao em Nuvem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Proposta de Regulamento dos Servicos de Computacao em Nuvem",
+   "country_label": "Regulamento dos Servicos de Computacao em Nuvem (INTIC)",
+   "class": "other",
+   "platform": "",
+   "owner": "INTIC, I.P.",
+   "tiers": "national"
+  },
+  {
+   "system": "Portal do Operador Economico de Novas Tecnologias",
+   "country_label": "Portal do Operador Economico de Novas Tecnologias",
+   "class": "other",
+   "platform": "",
+   "owner": "INTIC, I.P.",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

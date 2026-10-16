@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "emis",
+   "stage": "4",
+   "system": "inservice",
+   "learners": "individual",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-001",
+   "gaps": "No source held since October 2023 says learner records are linked to the national ID or another government system.",
+   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
+  }
+ ]
+}

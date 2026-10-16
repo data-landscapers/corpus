@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-sgptntic-visite-data-center-gouvernement",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "A government official quoted in the ministry's own report of 24 July 2025 says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa-Gombe; the law's date is not given and the as_of is the statement date.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "loi sur les telecommunications (public administration data hosting duty)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data center du Gouvernement",
+   "country_label": "Data center du Gouvernement",
+   "class": "other",
+   "platform": "",
+   "owner": "Government (Kinshasa-Gombe, Government building)",
+   "tiers": "public administration"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

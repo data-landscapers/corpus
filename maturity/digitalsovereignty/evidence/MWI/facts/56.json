@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "Government ministries, departments and agencies use the National Data Centre, which Huawei built and which Huawei, the Ministry of Information and ESCOM oversee, to hold clients' data and services on 78 virtual machines, so critical information stays in the country rather than offshore; the article gives no date other than its publication date of 2024-02-10.",
+   "as_of": "2024-02-10",
+   "date_precision": "day",
+   "system": "National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Malawi; operated with Ministry of Information and ESCOM",
+   "tiers": ""
+  },
+  {
+   "system": "Lilongwe data centre",
+   "country_label": "another facility being constructed in Lilongwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-24-complyan-cbn-data-localisation-directive",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "The Central Bank of Nigeria issued circular PSS/DIR/PUB/CIR/001/004 on 15 June 2026, requiring banks, microfinance banks, mobile money operators, switches, payment terminal service providers, super agents and all licensed payment operators to store and manage payment transaction data generated in Nigeria within Nigeria by 1 January 2027.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN circular PSS/DIR/PUB/CIR/001/004"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN circular PSS/DIR/PUB/CIR/001/004",
+   "country_label": "CBN data localisation directive",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Nigeria, Payments System Supervision Department",
+   "tiers": "national; banks, microfinance banks, mobile money operators, switches, PTSPs, super agents, licensed payment operators"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

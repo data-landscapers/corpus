@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-29-nga-techcabal-cbn-data-localisation-financial-data",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "TechCabal reports the CBN directed banks, payment companies, switches and other payments-system participants in June 2026 to store and manage payment data generated in Nigeria locally by 1 January 2027.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CBN circular on market structure, data localisation, UBO disclosure and systemic oversight in the Nigeria payments system"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

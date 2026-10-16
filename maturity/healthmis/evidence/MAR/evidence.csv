@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,hmis,system,underway,"Santé Mag reports the health ministry (MSPS) runs DHIS2 as its national platform for collecting, managing and analysing health data, used in several national public health programmes including HIV and tuberculosis, and is auditing it from July to September 2026.",2026-08-10,day,DHIS2,hmis,2026-08-10-morocco-dhis2-health-data-audit,https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/

@@ -1,0 +1,56 @@
+{
+ "slug": "ref:wdi-elc-accs-rural@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:24.7",
+   "fact": "24.7 per cent of rural people in Togo had electricity in 2021, by the World Bank's rural electricity access series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:25.9",
+   "fact": "25.9 per cent of rural people in Togo had electricity in 2022, by the World Bank's rural electricity access series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:30.5",
+   "fact": "30.5 per cent of rural people in Togo had electricity in 2023, by the World Bank's rural electricity access series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  },
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:33.9",
+   "fact": "33.9 per cent of rural people in Togo had electricity in 2024, by the World Bank's rural electricity access series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "the World Bank's rural electricity access series",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The World Bank's rural electricity access series",
+   "country_label": "Togo",
+   "class": "ruralpower",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

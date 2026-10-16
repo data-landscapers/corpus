@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-02-eumetsat-strengthens-cooperation-with-africa",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no South African institution; agreements are with regional centres ACMAD and AGRHYMET."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no South African weather service; agreements are with regional centres ACMAD and AGRHYMET."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "emis",
+   "stage": "5",
+   "system": "inservice",
+   "learners": "individual",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
+  }
+ ]
+}

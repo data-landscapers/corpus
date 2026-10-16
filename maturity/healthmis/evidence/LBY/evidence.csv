@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBY-001,LBY,hmis,system,inservice,"Libya Review reports the Ministry of Health and WHO met to assess DHIS2 digital reporting and expand it, with the Ministry stressing continuous data entry from all health institutions and DHIS2 indicators used nationally and regionally.",2025-11-07,day,DHIS2,hmis,2025-11-07-libya-who-national-digital-health-system,https://libyareview.com/60731/libya-who-review-expansion-of-national-digital-health-system/

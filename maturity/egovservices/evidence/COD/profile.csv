@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,eservices,services,coverage,underway,2026-07-07,COD-001;COD-002,,
+COD,eservices,gateway,coverage,single,2026-06-13,COD-003,,
+COD,eservices,usage,coverage,,,,,nothing held

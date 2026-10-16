@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-02-dccms-climsa-satellite-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "DCCMS says it completed installation of the PUMA 2025 satellite reception system at its Blantyre headquarters, replacing PUMA 2015 and giving access to Meteosat Third Generation products.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "PUMA 2025",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA 2025",
+   "country_label": "Malawi",
+   "class": "metsat",
+   "platform": "Meteosat satellite reception system",
+   "owner": "DCCMS",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

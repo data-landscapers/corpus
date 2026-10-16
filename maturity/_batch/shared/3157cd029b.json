@@ -1,58 +1,156 @@
 {
-  "slug": "2026-07-01-mobse-health-ministry-data-systems",
-  "studies": {
-    "dataexchange": {
-      "countries": {
-        "GMB": {
-          "facts": [],
-          "systems": [
-            {"system": "Education Management Information System (EMIS)", "country_label": "Gambia", "class": "other", "platform": "", "owner": "Ministry of Basic and Secondary Education", "tiers": ""},
-            {"system": "Health Management Information System (HMIS)", "country_label": "Gambia", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
-          ],
-          "note": "The story describes a link between two ministries' sector systems, not a government data exchange platform."
-        }
+ "slug": "2026-07-01-mobse-health-ministry-data-systems",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "Gambiana reports the education ministry signed an MoU with the health ministry to link its EMIS with the HMIS, verifying school enrolment against national birth records.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Education Management Information System",
+       "class": "emis"
       }
-    },
-    "educationexchange": {
-      "countries": {
-        "GMB": {
-          "facts": [
-            {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
-             "fact": "In July 2026 the Ministry of Basic and Secondary Education and the Ministry of Health signed an MoU to link the EMIS with the HMIS, with a joint technical working group to oversee implementation; the story states the linkage is planned, not yet running.",
-             "as_of": "2026-07", "date_precision": "month",
-             "system": "EMIS-HMIS linkage", "class": "exchange"}
-          ],
-          "systems": [
-            {"system": "Education Management Information System (EMIS)", "country_label": "Gambia", "class": "exchange", "platform": "", "owner": "Ministry of Basic and Secondary Education", "tiers": ""}
-          ],
-          "note": ""
-        }
+     ],
+     "systems": [
+      {
+       "system": "Education Management Information System",
+       "country_label": "EMIS",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Basic and Secondary Education",
+       "tiers": ""
       }
-    },
-    "healthexchange": {
-      "countries": {
-        "GMB": {
-          "facts": [
-            {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
-             "fact": "In July 2026 the Ministry of Health and the Ministry of Basic and Secondary Education signed an MoU to link the HMIS with the EMIS so that immunisation, nutrition, screening and birth registration data can be shared with education indicators; the story describes this as to be integrated, with a joint working group set up.",
-             "as_of": "2026-07", "date_precision": "month",
-             "system": "HMIS-EMIS linkage", "class": "exchange"}
-          ],
-          "systems": [
-            {"system": "Health Management Information System (HMIS)", "country_label": "Gambia", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": ""}
-          ],
-          "note": ""
-        }
-      }
-    },
-    "socialexchange": {
-      "countries": {
-        "GMB": {
-          "facts": [],
-          "systems": [],
-          "note": "The story names no social protection system or link."
-        }
-      }
+     ],
+     "note": ""
     }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "Gambiana reports the health ministry signed an MoU to link its HMIS with the education ministry's EMIS, integrating immunisation history, nutrition status and health screening results with education indicators.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Health Management Information System",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Management Information System",
+       "country_label": "HMIS",
+       "class": "hmis",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Education Management Information System (EMIS)",
+       "country_label": "Gambia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Basic and Secondary Education",
+       "tiers": ""
+      },
+      {
+       "system": "Health Management Information System (HMIS)",
+       "country_label": "Gambia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The story describes a link between two ministries' sector systems, not a government data exchange platform."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "In July 2026 the Ministry of Basic and Secondary Education and the Ministry of Health signed an MoU to link the EMIS with the HMIS, with a joint technical working group to oversee implementation; the story states the linkage is planned, not yet running.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "EMIS-HMIS linkage",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Education Management Information System (EMIS)",
+       "country_label": "Gambia",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Basic and Secondary Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "In July 2026 the Ministry of Health and the Ministry of Basic and Secondary Education signed an MoU to link the HMIS with the EMIS so that immunisation, nutrition, screening and birth registration data can be shared with education indicators; the story describes this as to be integrated, with a joint working group set up.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "HMIS-EMIS linkage",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Management Information System (HMIS)",
+       "country_label": "Gambia",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The story names no social protection system or link."
+    }
+   }
   }
+ }
 }

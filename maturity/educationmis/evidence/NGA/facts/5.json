@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-nga-thestar-nysc-learner-identification-number-records-link",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigerian Education Repository Data Bank",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Learner number and NIMC link are only proposed; the repository named holds certificates, not the EMIS."
+}

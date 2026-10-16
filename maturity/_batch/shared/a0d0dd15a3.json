@@ -1,0 +1,77 @@
+{
+ "slug": "2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The brief says the national EMIS, adopted in 1993, collects and aggregates enrollment, teacher and infrastructure data, and the Annual School Census was most recently run in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "national EMIS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The brief says the DHIS2-Ed system was linked to the Ministry of Health's eIDSR platform for school-based surveillance indicators and collates examination data.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "DHIS2-Ed",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EMIS",
+       "country_label": "Uganda",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Education and Sports",
+       "tiers": "national"
+      },
+      {
+       "system": "DHIS2-Ed Termly School Report",
+       "country_label": "Uganda",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Education and Sports",
+       "tiers": "school, district"
+      },
+      {
+       "system": "eIDSR",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": "national"
+      },
+      {
+       "system": "UNEB portal",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "Uganda National Examinations Board",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the eIDSR link to the education system is named; no health reporting system statement."
+    }
+   }
+  }
+ }
+}

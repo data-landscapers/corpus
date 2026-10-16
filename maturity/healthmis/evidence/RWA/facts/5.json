@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-03-rwanda-health-intelligence-center-launch",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Health says its national Health Intelligence Center takes in DHIS2, described as the Health Management Information System, among its sources, with data from village health workers to national referral hospitals.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Ministry of Health says the Health Intelligence Center integrates DHIS2 with eLMIS (logistics), CRVS, eBuzima and cEMR medical records, and uses the data for disease surveillance and outbreak early warning.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Rwanda",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Health Intelligence Center",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "data lakehouse",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "eLMIS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

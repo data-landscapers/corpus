@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-15-cpv-direcao-nacional-da-educacao-realiza-acao-formativa-no-novo-modulo-de",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Government of Cabo Verde says the Direção Nacional da Educação began national training on a new special-needs assessment module in SIGE, developed by Devtrust with UNICEF funding.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Sistema Integrado de Gestão Escolar (SIGE)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Gestão Escolar (SIGE)",
+   "country_label": "Cabo Verde",
+   "class": "emis",
+   "platform": "",
+   "owner": "Direção Nacional da Educação",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

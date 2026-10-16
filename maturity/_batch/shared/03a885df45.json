@@ -39,7 +39,7 @@
       {
        "system": "PI-SPI",
        "country_label": "GNB",
-       "class_": "retail",
+       "class": "retail",
        "platform": "instant payment switch",
        "owner": "BCEAO",
        "tiers": "banks, e-money issuers, payment institutions"
@@ -77,7 +77,7 @@
       {
        "system": "PI-SPI",
        "country_label": "GNB",
-       "class_": "retail",
+       "class": "retail",
        "platform": "instant payment switch",
        "owner": "BCEAO",
        "tiers": "banks, e-money issuers, payment institutions"
@@ -124,7 +124,7 @@
       {
        "system": "PI-SPI",
        "country_label": "GNB",
-       "class_": "retail",
+       "class": "retail",
        "platform": "instant payment switch",
        "owner": "BCEAO",
        "tiers": "banks, e-money issuers, payment institutions"

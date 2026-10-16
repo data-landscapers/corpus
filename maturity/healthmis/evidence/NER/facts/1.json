@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-06-ner-how-dhis2-and-a-brand-new-vaccine-helped-niger-beat-a-major-meningitis",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DHIS2 is used by health workers regularly as part of Niger's national routine health management information system, hosted in the Ministry of Health Directorate of Statistics (DHIS2 article, quoting the Niamey Public Health Regional Director).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Niger's DHIS2 use in surveillance is boosted by its current integration with STELab, which tracks laboratory specimens and collects case-based surveillance data (DHIS2 article).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Niger",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health, Directorate of Statistics",
+   "tiers": "national, districts, health workers"
+  },
+  {
+   "system": "STELab",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

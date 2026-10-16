@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "CBN data localisation directive"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN data localisation directive",
+   "country_label": "CBN data localisation directive",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Nigeria",
+   "tiers": "national; banks and fintechs"
+  },
+  {
+   "system": "NIP (NIBSS Instant Payment)",
+   "country_label": "NIP",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Inter-Bank Settlement System",
+   "tiers": "national; banks"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

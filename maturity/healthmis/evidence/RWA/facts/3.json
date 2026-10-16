@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-11-hisp-rwanda-mineduc-education-data-partnership",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2-based student absence tracking",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "MINEDUC",
+   "tiers": ""
+  }
+ ],
+ "note": "Education absence tracking, not health reporting."
+}

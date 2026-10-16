@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-techcabal-nigeria-payment-data-localisation-deadline",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "TechCabal reports Nigeria's payment data localisation deadline of 1 January 2027 is pushing banks and fintechs to re-engineer data storage; the date is the article's publication date, no issue date being given.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "CBN circular on market structure, data localisation, UBO disclosure and systemic oversight in the Nigeria payments system"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

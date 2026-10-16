@@ -1,0 +1,26 @@
+{
+ "slug": "2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The document states the new State Data Center is the nerve centre of all Government communication, of the e-governance platform and of all public administration services, storing and processing their data; it is run by NOSI. Event date taken from the publication date, 29 July 2015.",
+   "as_of": "2015-07-29",
+   "date_precision": "day",
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "country_label": "Data Center do Estado",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "hmis",
+   "stage": "5",
+   "system": "inservice",
+   "linked": "linked",
+   "completeness": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
+  }
+ ]
+}

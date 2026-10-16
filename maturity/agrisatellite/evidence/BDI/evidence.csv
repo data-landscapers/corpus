@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,agrisat,service,underway,"IGEBU, the national mapping institute, says its cartography serves to identify and manage agricultural zones and that its map work uses remote sensing (télédétection) alongside GPS, GIS and drones.",2026-08-28,day,IGEBU Service de Cartographie,agrisat,2026-08-28-igebu-service-de-cartographie,https://www.igebu.bi/Services/cartographie/

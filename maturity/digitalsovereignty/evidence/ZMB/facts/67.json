@@ -1,0 +1,26 @@
+{
+ "slug": "2019-01-01-zmb-parliament-ministerial-statement-smart-zambia",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The statement says all Government ICT hosting infrastructure has been consolidated and housed in the ZNDC, and that 52 new standardised government websites for constitutional offices, ministries and provincial administrations were deployed to it; the Government (via Smart Zambia Institute) established it (published year used, early 2019).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia National Data Centre (ZNDC)",
+   "country_label": "Zambia National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": "government; banks and mobile providers as paying tenants"
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

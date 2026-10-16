@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNQ,hmis,system,coverage,underway,2025-11-25,GNQ-001;GNQ-002;GNQ-003,,
+GNQ,hmis,linked,coverage,,,,,nothing held
+GNQ,hmis,completeness,coverage,,,,,nothing held

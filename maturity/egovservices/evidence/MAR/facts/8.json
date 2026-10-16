@@ -1,0 +1,6 @@
+{"slug": "2026-09-26-mar-hespress-digital-morocco-2030-rakmana", "facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The Ministry of Digital Transition and Administration Reform launched the new version of the national portal of administrative procedures Idarati on 18 September 2026, per analyst Slimane El Omrani.", "as_of": "2026-09-18", "date_precision": "day", "system": "Idarati", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The relaunched Idarati portal gives access to 874 public e-services (the article elsewhere says 784), up from 605 at the end of 2023 per the Court of Audit, according to analyst Slimane El Omrani.", "as_of": "2026-09-18", "date_precision": "day", "system": "Idarati", "class": "eservices"}
+], "systems": [
+{"system": "Idarati", "country_label": "Morocco", "class": "eservices", "platform": "national portal of administrative procedures", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": "national"}
+], "note": ""}

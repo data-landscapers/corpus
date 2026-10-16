@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-egypt-cloud-first-policy-data-localisation-dpa",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Digital Policy Alert records that Egypt's Cloud First Policy, adopted by the Supreme Council of Digital Society on 13 March 2024, entered into force on 22 August 2024 and requires data classified top secret or secret to be hosted exclusively within Egypt.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "Cloud First Policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud First Policy",
+   "country_label": "Cloud First Policy (2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Supreme Council of Digital Society; MCIT",
+   "tiers": "central government"
+  }
+ ],
+ "note": "carried from datalocalisation; no document opened"
+}

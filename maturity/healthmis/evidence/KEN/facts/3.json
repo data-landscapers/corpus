@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-03-new-sha-payment-system-why-hospitals-have-a-problem-with-duales-plan",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A Ministry statement of 1 October says all 6,427 public Level 2 to 4 facilities have transitioned to HMIS, 4 of 27 public Level 5 hospitals have, and 38 of 518 faith-based facilities have; the Digital Health Agency has certified 28 HMIS platforms.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HMIS",
+   "country_label": "Kenya",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health / Digital Health Agency",
+   "tiers": "facility"
+  }
+ ],
+ "note": ""
+}

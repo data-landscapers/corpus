@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,Coarse Resolution Imagery Database (CRID),South Africa,agrisat,"satellite imagery archive (NOAA AVHRR, MODIS, VEGETATION, MSG)","ARC Institute for Soil, Climate and Water",national,2026-08-26-arc-iscw-earth-observation
+ZAF,Umlindi newsletter,South Africa,agrisat,monthly newsletter by web and e-mail,"ARC Institute for Soil, Climate and Water",national,2026-08-26-arc-iscw-earth-observation
+ZAF,GeoMaize,South Africa,other,"mobile app, dashboards and SMS alerts on Sentinel-2 and Landsat-8 data",team from the Open Data for Social Impact Challenge,,2026-01-21-geomaize-satellite-crop-monitoring
+ZAF,AgriWatch,ZAF,agrisat,dashboard,SASSCAL,,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch

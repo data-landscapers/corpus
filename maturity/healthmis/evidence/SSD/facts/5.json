@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-20-dhis2-boma-health-worker-tracker-pilot",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The DHIS2 Community report says a 12-month pilot (March 2025 to February 2026) of an offline-first DHIS2 Tracker program lets Boma Health Workers record household visits, childhood illness and immunisation follow-up digitally, with Ministry of Health leadership.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "DHIS2 Tracker (Boma Health Initiative)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 Tracker (BHI)",
+   "country_label": "South Sudan",
+   "class": "hmis",
+   "platform": "DHIS2 Tracker, Android",
+   "owner": "Ministry of Health",
+   "tiers": "community"
+  }
+ ],
+ "note": ""
+}

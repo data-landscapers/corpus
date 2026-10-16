@@ -1,0 +1,7 @@
+{"slug": "2026-09-25-thecitizen-tza-space-technology-agriculture-2026", "facts": [
+{"sub_indicator":"agrisat","aspect":"service","value":"underway","fact":"IFAD and China launched the $2.268 million SAT-CARE project in May 2025 to support the Ministry of Agriculture in developing a satellite-based agricultural information system with a digital agriculture platform and mobile advisory services.","as_of":"2025-05","date_precision":"month","system":"SAT-CARE","class":"agrisat"},
+{"sub_indicator":"agrisat","aspect":"service","value":"inservice","fact":"The article says the country's National Food Security Bulletin is already using satellite-derived vegetation data.","as_of":"2026-09-25","date_precision":"day","system":"National Food Security Bulletin","class":"agrisat"}
+], "systems": [
+{"system":"SAT-CARE","country_label":"Tanzania","class":"agrisat","platform":"satellite-based agricultural information system, digital agriculture platform and mobile advisory","owner":"Ministry of Agriculture, with IFAD and China","tiers":""},
+{"system":"National Food Security Bulletin","country_label":"Tanzania","class":"agrisat","platform":"bulletin using satellite-derived vegetation data","owner":"","tiers":""}
+], "note": ""}

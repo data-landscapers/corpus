@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-undp-msupply-elmis-dhis2-integration",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The UNDP brief says the mSupply eLMIS at the Gumbo Warehouse is interoperable with DHIS2 and that an eLMIS dashboard was developed and integrated into DHIS2; it is rolled out to 105 of 145 health facilities (72.4%).",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mSupply eLMIS",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "mSupply",
+   "owner": "UNDP / Gumbo Warehouse",
+   "tiers": "105 of 145 health facilities"
+  }
+ ],
+ "note": ""
+}

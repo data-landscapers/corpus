@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-22-tza-decentralizing-user-support-in-dhis2-a-case-of-hmis-in-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The UDSM DHIS2 Lab states the Ministry of Health has used DHIS2 as its national HMIS to collect routine facility health data since 2010, with datasets managed for about 9,000 health facilities in 184 district councils.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": "facility, district, national"
+  }
+ ],
+ "note": ""
+}

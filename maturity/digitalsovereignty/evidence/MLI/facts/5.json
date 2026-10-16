@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-02 Mali unveils modern Tier III data centre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "Mali's Ministry of Communication, Digital Economy and Administration Modernisation inaugurated the Tier III National Data Centre, which the government says will provide secure hosting for the Malian state's strategic data, e-administration platforms and public digital services (stated in the future tense; inauguration reported 'over the weekend' before the 2026-02-02 article).",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre (Tier III, Bamako)",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Economy and Administrative Modernization",
+   "tiers": "state strategic data, e-administration, public digital services"
+  },
+  {
+   "system": "National Data Centre (Bamako)",
+   "country_label": "Centre de données national / National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernization)",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre",
+   "country_label": "MLI",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

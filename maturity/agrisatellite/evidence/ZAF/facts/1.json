@@ -1,0 +1,7 @@
+{"slug": "2026-08-26-arc-iscw-earth-observation", "facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "The Agricultural Research Council's ARC-ISCW states the operational Coarse Resolution Imagery Database, funded by the Department of Agriculture, Forestry and Fisheries, holds NOAA AVHRR, MODIS, VEGETATION and Meteosat imagery used for crop production and grazing capacity estimation.", "as_of": "2026-08-26", "date_precision": "day", "system": "Coarse Resolution Imagery Database (CRID)", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "published", "value": "scheduled", "fact": "ARC-ISCW states information from the CRID is disseminated through the monthly Umlindi newsletter and presented at monthly Crop Estimates Committee meetings and to the National Agrometeorological Committee every three months.", "as_of": "2026-08-26", "date_precision": "day", "system": "Umlindi newsletter", "class": "agrisat"}
+], "systems": [
+{"system": "Coarse Resolution Imagery Database (CRID)", "country_label": "South Africa", "class": "agrisat", "platform": "satellite imagery archive (NOAA AVHRR, MODIS, VEGETATION, MSG)", "owner": "ARC Institute for Soil, Climate and Water", "tiers": "national"},
+{"system": "Umlindi newsletter", "country_label": "South Africa", "class": "agrisat", "platform": "monthly newsletter by web and e-mail", "owner": "ARC Institute for Soil, Climate and Water", "tiers": "national"}
+], "note": ""}

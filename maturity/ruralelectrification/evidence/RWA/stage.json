@@ -1,0 +1,15 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "3",
+   "access": "official:65.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-004",
+   "gaps": "The latest figure, 65.2 per cent of rural people for 2024, is above 80.",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

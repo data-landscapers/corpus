@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,DHIS2,Niger,hmis,DHIS2,"Ministry of Health, Directorate of Statistics","national, districts, health workers",2025-02-06-ner-how-dhis2-and-a-brand-new-vaccine-helped-niger-beat-a-major-meningitis
+NER,STELab,Niger,other,,,,2025-02-06-ner-how-dhis2-and-a-brand-new-vaccine-helped-niger-beat-a-major-meningitis
+NER,DHIS2,Niger,hmis,DHIS2,,national,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,OpenFn interoperability layer,Niger,other,OpenFn,Directorate of e-Health,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,DHIS2,Niger,hmis,DHIS2,,"CSI, districts, hospitals",2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,Estelab,Niger,other,,,,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,OpenHEXA,Niger,other,OpenHEXA,"Ministry of Health, Directorate of e-Santé",,2025-09-04-openhexa-niger-interoperabilite-sante

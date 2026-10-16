@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says The Gambia has a national EMIS running on DHIS2 built with the education ministry, where data clerks enter the annual census and regional planners use dashboards daily.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "national EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National EMIS",
+   "country_label": "The Gambia",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": "national, regional, school"
+  }
+ ],
+ "note": ""
+}

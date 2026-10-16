@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TGO,agrisat,service,coverage,underway,2026-10-01,TGO-001;TGO-002;TGO-003,,
+TGO,agrisat,published,coverage,,,,,nothing held
+TGO,agrisat,reach,coverage,,,,,nothing held

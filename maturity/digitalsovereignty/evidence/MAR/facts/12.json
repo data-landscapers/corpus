@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-09-en-hespress-morocco-overtakes-sa-top-data-center-hub",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "class": "sovereignty",
+   "fact": "Hespress English, citing a Global Finance report, states that a 2021 law mandates sensitive data be stored locally in Morocco; the date is the article's published date, and the article gives no law name.",
+   "as_of": "2025-06-09",
+   "date_precision": "day",
+   "system": "2021 law mandating local storage of sensitive data (unnamed)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datalocalisation; no document opened"
+}

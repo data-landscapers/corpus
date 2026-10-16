@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-05-duale-and-governors-set-14-october-deadline",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Council of Governors committed to support Level 5 hospitals to complete their transition to the Health Management Information System, per the Ministry of Health.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HMIS",
+   "country_label": "Kenya",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health / Digital Health Agency",
+   "tiers": "facility"
+  }
+ ],
+ "note": ""
+}

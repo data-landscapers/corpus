@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-07-gabon-egov-legal-framework",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "GabonReview reports an ordinance on digitalisation, published in the Journal officiel on 7 September 2025, makes digital sovereignty a priority through control and securing of public data.",
+   "as_of": "2025-09-07",
+   "date_precision": "day",
+   "system": "ordonnance sur la digitalisation",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

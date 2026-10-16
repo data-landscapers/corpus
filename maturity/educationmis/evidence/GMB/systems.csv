@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,National EMIS,The Gambia,emis,DHIS2,Ministry of Basic and Secondary Education,"national, regional, school",2026-05-04-gpe-kix-study-tour-education-data-system
+GMB,DHIS2 EMIS,The Gambia,emis,DHIS2,MoBSE,national,2025-01-01-dhis2-education-gambia-implementation
+GMB,SEMIS App,The Gambia,emis,DHIS2,MoBSE,individual learner,2025-01-01-dhis2-education-gambia-implementation
+GMB,Education Management Information System,EMIS,emis,,Ministry of Basic and Secondary Education,,2026-07-01-mobse-health-ministry-data-systems
+GMB,SEMIS,The Gambia,emis,,Ministry of Basic and Secondary Education,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+GMB,Education Data Centre (DHIS2-Ed),The Gambia,emis,DHIS2-Ed,Ministry of Basic and Secondary Education,national,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix

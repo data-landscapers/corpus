@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-05-burkina-g-cloud-portal",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "class": "sovereignty",
+   "fact": "The government cloud portal run by ANPTIC (Ministry of Digital Transition) states that the G-Cloud infrastructure, with 4 datacenters and 8 cloud nodes, hosts 139 websites and 622 virtual machines and runs government applications (state messaging, gov.bf directory, Oracle business applications such as SIGASPE and E-conseil des ministres); the page is undated, so as_of is its 2026-08-05 capture date.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "G-Cloud (Cloud gouvernemental du Burkina Faso)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-Cloud",
+   "country_label": "Cloud gouvernemental du Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "ANPTIC / Ministère de la Transition digitale",
+   "tiers": "national; 354 communes connected"
+  },
+  {
+   "system": "G-Cloud (Cloud gouvernemental du Burkina Faso)",
+   "country_label": "BFA",
+   "class": "other",
+   "platform": "government cloud, IaaS/PaaS/SaaS, 4 datacenters, 8 cloud nodes",
+   "owner": "ANPTIC / Ministere de la Transition digitale (state)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from nationaldatacentres; no document opened"
+}

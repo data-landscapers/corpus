@@ -1,0 +1,15 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "rural",
+   "stage": "1",
+   "access": "official:9.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
+  }
+ ]
+}

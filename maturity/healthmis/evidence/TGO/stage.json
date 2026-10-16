@@ -1,0 +1,17 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "hmis",
+   "stage": "4",
+   "system": "inservice",
+   "linked": "linked",
+   "completeness": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-003",
+   "gaps": "No source held since October 2023 gives the system's reporting completeness or timeliness.",
+   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
+  }
+ ]
+}

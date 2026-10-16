@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-14-lbr-request-for-proposal-consultancy-for-emis-policy-development-support-t",
+ "countries": {
+  "LBR": {
+   "facts": [],
+   "systems": [],
+   "note": "Document says Liberia lacks a formal EMIS policy, not an EMIS."
+  },
+  "ERI": {
+   "facts": [],
+   "systems": [],
+   "note": "Says EMIS data exists but states no census, learner records or build."
+  }
+ }
+}

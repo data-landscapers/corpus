@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01 Digital Public Goods Alliance",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DPGA blog says Rwanda's DHIS2 improved data completeness from 88% to 95% and timeliness from 60% to 90%+.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The DPGA blog says DHIS2 data completeness rose from 88% to 95% and timeliness from 60% to 90%+.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Rwanda",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

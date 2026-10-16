@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-05-burkina-faso-izai-toe-double-anchoring-of-national-data",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The ABDI executive director said two public-administration datacentres were recently commissioned in Burkina Faso.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "public administration datacentres",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ABDI executive director cited a national datacentre project planned for a 2028 horizon.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "national datacentre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "public administration datacentres",
+   "country_label": "Burkina Faso",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "public administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

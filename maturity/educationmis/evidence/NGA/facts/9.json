@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-30-dhis2-school-reporting-edo-state",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EdoEMIS",
+   "country_label": "Nigeria (Edo State)",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Edo State Ministry of Education",
+   "tiers": "state"
+  }
+ ],
+ "note": "The document describes a state-level DHIS2 EMIS in 51 pilot schools of Edo State, not a national ministry system."
+}

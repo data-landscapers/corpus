@@ -1,0 +1,13 @@
+# Nigeria
+
+## Control of state data
+
+**Rule on state data.** [Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date](<https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/>). [Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027](<https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/>).
+
+**Hosted nationally.** [The Galaxy Backbone data centre in the National Shared Services Centre, Abuja, commissioned on 20 December 2022, serves government as well as corporate customers (2022, before the three-year window)](<https://www.thecable.ng/a-data-center-to-drive-the-digital-economy/>).
+
+**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/>).
+
+***Noted, not assessed***. [CBN data localisation directive](<https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/>); [NIP (NIBSS Instant Payment)](<https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/>); [National Sovereign Cloud Initiative](<https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/>); [National Digital Cloud Policy](<https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/>); [CBN circular on payment data localisation](<https://punchng.com/cbn-data-localisation-raises-skills-security-concerns/>); [NIMC national identity database](<https://punchng.com/cbn-data-localisation-raises-skills-security-concerns/>).
+
+***Not held***. No source held since October 2023 says government data or a core system is hosted in a national data centre or cloud.

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "GPE KIX says Eswatini's fully digital, PIN-driven EMIS, nationally launched in March 2024, covers all 976 primary and secondary schools and provides aggregate enrolment numbers.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "PIN-driven EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "GPE KIX says Eswatini's PIN-driven EMIS introduced individual-level student and staff tracking across all 976 schools.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "PIN-driven EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PIN-driven EMIS (SEMIS)",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": "No linked fact: learner PINs are validated against Home Affairs records by hand on claim forms."
+}
