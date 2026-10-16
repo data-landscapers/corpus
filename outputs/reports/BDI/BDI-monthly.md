@@ -3,9 +3,9 @@ title: Burundi — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: BDI
-ledger_rows: 10
-not_held: 11
-record: fa97a8142a3d
+ledger_rows: 14
+not_held: 10
+record: 98edacf49862
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -28,6 +28,8 @@ record: fa97a8142a3d
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -76,10 +78,30 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 </div>
 
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership of the national standards bureau</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - BBN - Bureau Burundais de Normalisation et Contrôle de la Qualité](https://www.iso.org/member/1591.html)** — International Organization for Standardization, 16 October 2026
+
+BBN is Burundi's ISO member body; 11 participating and 28 observing technical-committee memberships.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -93,6 +115,52 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 **[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity.
+
+</div>
+
+</div>
+
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government ICT secretariat in-house services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le SETIC](https://setic.gov.bi/?pages%2F10253095=)** — Secrétariat Exécutif des Technologies de l'Information et de la Communication (SETIC), 16 October 2026
+
+Government ICT secretariat's stated services: software for public bodies, network operations centre, platform hosting.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National computer incident response team</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi : une stratégie nationale pour renforcer les capacités de cybersécurité](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-pour-renforcer-les-capacites-de-cybersecurite)** — We are Tech Africa, 16 October 2026
+
+Council of Ministers adopts national cybersecurity strategy 14 October 2026, with a national incident-response team.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cybersecurity strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burundi : une stratégie nationale pour renforcer les capacités de cybersécurité](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-pour-renforcer-les-capacites-de-cybersecurite)** — We are Tech Africa, 16 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 

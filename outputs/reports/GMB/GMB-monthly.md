@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GMB
-ledger_rows: 46
+ledger_rows: 48
 not_held: 2
-record: 4a496c6ecf61
+record: 057221713b11
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: 4a496c6ecf61
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -88,6 +90,8 @@ The Gambia Standards Bureau holds Correspondent, non-voting status at the intern
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
 </nav>
 
 ### Connectivity
@@ -147,6 +151,22 @@ The Gambia's regulator PURA has moved telephone numbers from seven to nine digit
 **[Profile – GAMTEL](https://gamtel.gm/about-us/)** — Gambia Telecommunications Company Limited (GAMTEL), 21 September 2026
 
 The Gambian state operator's undated company profile. It says Gamtel has four international gateways on the ACE submarine cable giving 25 Gbps, and a 28 Gbps backup link through Senegal's Free that traffic switches to if ACE fails.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Incumbent operator co-location and facility rental</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Co-Location / Facility Rental Services – GAMTEL](https://gamtel.gm/co-location-facility-rental-services/)** — GAMTEL, 16 October 2026
+
+Gambian operator GAMTEL offers ISPs and small businesses space for servers and network equipment at its 43 sites and towers. Its listed prices include a GMD 3,000 installation fee and GMD 1,000 per square metre of floor space a month.
 
 </div>
 
@@ -405,6 +425,28 @@ A magazine account of the same Eswatini pilot of Smart Africa's gender impact as
 **[Minister Savannah vows to continue advocating for women In tech](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/)** — Independent News Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to develop and pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries. Three instruments are to be tested on selected digital policies before validation.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+</nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics bureau microdata catalogue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Downloads - GBoS](https://www.gbosdata.org/downloads)** — Gambia Bureau of Statistics, 16 October 2026
+
+The Gambia Bureau of Statistics' downloads page indexes its GDP, price and trade series up to 2025 and its household, health, labour-force and SDG survey reports. Microdata are offered for several surveys, including the DHS and MICS.
 
 </div>
 

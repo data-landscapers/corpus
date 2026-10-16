@@ -3,9 +3,9 @@ title: Rwanda — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: RWA
-ledger_rows: 40
+ledger_rows: 44
 not_held: 7
-record: 77995fe84d12
+record: 2b77a8feec76
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -111,6 +111,20 @@ Rwanda was chosen on 21 September 2026 to host the seventh UN World Data Forum, 
 **[Zambia, Rwanda sign technical cooperation agreement to harmonise standards](https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/)** — Zambia Monitor, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
 The Zambia Bureau of Standards and the Rwanda Standards Board signed a technical cooperation agreement at the 32nd African Organisation for Standardisation General Assembly in Mombasa. It covers information exchange, joint technical committees, mutual recognition of standards and conformity assessment results, and support in standards development.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">International ICT standards committee participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International and regional technical committees](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)** — Rwanda Standards Board, 16 October 2026
+
+RSB a P-member of ISO/IEC JTC 1/SC 40 and observer on JTC 1 and SC 27; sits on EAC IT standards committee TC 059.
 
 </div>
 
@@ -520,6 +534,34 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated financial management information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IFMIS Upgraded to Modern Platform, Strengthening Public Financial Management](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)** — Ministry of Finance and Economic Planning (MINECOFIN), Rwanda, 6 October 2026
+
+End-of-support components replaced; same blueprint to be applied next to the schools data system and SACCO banking.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated personnel and payroll information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IPPIS Developer API — api.ippis.rw](https://www.api.ippis.rw/)** — IPPIS Rwanda, 16 October 2026
+
+Bearer-token REST API exposing NID-verified public-servant profiles, education and work records to partner systems.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -763,6 +805,20 @@ Rwanda's Higher Education Council is developing a national framework to measure 
 **[Rwanda Has Been Selected as Africa's Second UN World Data Forum Host](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/)** — RADIOTV10, 22 September 2026
 
 Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute microdata catalogue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NISR Data Catalog](https://microdatabk.statistics.gov.rw/home)** — National Institute of Statistics of Rwanda, 15 October 2026
+
+75 datasets and 74,146 variables as of 15 October 2026, latest the 2025 Labour Force Survey microdata.
 
 </div>
 
