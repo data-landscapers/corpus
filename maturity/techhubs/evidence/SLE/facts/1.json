@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-sierra-leone-unipod-innovation-hub-launch-fourah-bay-college",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "UNDP reports UniPod Sierra Leone officially launched at Fourah Bay College with design and fabrication labs, a media studio and mobile e-waste facilities, with no incubation cohort described.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "UniPod Sierra Leone",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UniPod Sierra Leone",
+   "country_label": "Sierra Leone",
+   "class": "hub",
+   "platform": "",
+   "owner": "University of Sierra Leone, UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

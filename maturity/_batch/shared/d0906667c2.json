@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-31-techafricanews-smart-africa-uganda-reforms",
+ "studies": {
+  "startups": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Smart Africa and Uganda's Ministry of ICT workshop stakeholders named advancing the Startup Bill as a priority.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "Startup Bill",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Innovation hubs attended a workshop; no hub or programme named."
+    }
+   }
+  }
+ }
+}

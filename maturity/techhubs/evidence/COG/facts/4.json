@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-congo-vc-fund-startup-odds",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Fondation BantuHub and L'Archer Group plan a 24-month incubation and acceleration programme for a small cohort of startups starting in 2026, with the first startup expected to be announced in early Q1 2026.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "Fondation BantuHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fondation BantuHub",
+   "country_label": "Republic of Congo",
+   "class": "hub",
+   "platform": "",
+   "owner": "Fondation BantuHub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

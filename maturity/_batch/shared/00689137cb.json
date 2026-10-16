@@ -1,0 +1,6 @@
+{"slug": "2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros", "studies": {
+"aiabuse": {"countries": {"COM": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"COM": {"facts": [], "systems": [], "note": "The document describes a health-sector model, not AI in general administration."}}},
+"aisectoral": {"countries": {"COM": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The DHIS2 Community poster by four named authors says machine-learning and deep-learning models are being developed and compared on routine Comoros DHIS2 malaria data to forecast future incidence, accepted for the 2026 DHIS2 Annual Conference.", "as_of": "2026-05-11", "date_precision": "day", "system": "AI-driven predictive epidemiology for malaria monitoring using DHIS2 data", "class": "sectorai"}], "systems": [{"system": "DHIS2 (malaria case data)", "country_label": "Comoros", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"COM": {"facts": [], "systems": [], "note": "No AI model, dataset for AI or AI computing is stated as built or hosted in the country."}}}
+}}

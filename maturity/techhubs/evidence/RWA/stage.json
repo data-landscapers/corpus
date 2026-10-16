@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "hub",
+   "stage": "3",
+   "hubs": "inservice",
+   "cities": "",
+   "park": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-001",
+   "gaps": "No source held since October 2023 says hubs with programmes are in service in two or more cities.",
+   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
+  }
+ ]
+}

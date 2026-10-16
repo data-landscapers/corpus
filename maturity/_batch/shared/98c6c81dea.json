@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-08-togo-inauguration-djanta-tech-hub",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The Start fund is planned, not yet financing startups; no startup law or strategy stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Djanta Tech Hub, funded by the World Bank under the PANT, was officially launched in Lome by the digital transformation ministry, with its two programmes still to be deployed.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Djanta Tech Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Djanta Tech Hub",
+       "country_label": "Togo",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministere de l'Efficacite du service public et de la Transformation numerique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

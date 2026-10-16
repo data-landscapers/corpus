@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Makerere University launched its AI Health Lab in March 2025 for AI research and development, including locally made AI-powered health platforms, per CIPIT.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Makerere AI Health Lab",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Makerere AI Health Lab",
+   "country_label": "Uganda",
+   "class": "localai",
+   "platform": "",
+   "owner": "Makerere University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

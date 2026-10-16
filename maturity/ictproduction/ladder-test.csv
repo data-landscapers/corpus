@@ -1,0 +1,55 @@
+iso3,stage,exports,plant,stage_sources
+AGO,1,official:0.0168,,AGO-005
+BDI,2,official:0.1266,,BDI-005
+BEN,2,official:0.0713,,BEN-003
+BFA,3,official:0.3871,,BFA-004
+BWA,2,official:0.1832,,BWA-004
+CAF,no evidence,,,
+CIV,2,official:0.1377,,CIV-004
+CMR,3,official:0.3549,,CMR-004
+COD,1,official:0.0028,,COD-005
+COG,unplaced,,,
+COM,4,official:0.9279,,COM-003
+CPV,3,official:0.3598,,CPV-005
+DJI,4,official:1.9392,,DJI-004
+DZA,1,official:0.027,,DZA-004
+EGY,4,official:0.5644,,EGY-005
+ERI,no evidence,,,
+ETH,1,official:0.0284,,ETH-004
+GAB,unplaced,,,
+GHA,2,official:0.0537,,GHA-005
+GIN,2,official:0.1474,,GIN-004
+GMB,2,official:0.0615,,GMB-004
+GNB,4,official:0.6814,,GNB-004
+GNQ,no evidence,,,
+KEN,5,official:0.7088,production,KEN-007;KEN-001
+LBR,no evidence,,,
+LBY,1,official:0.027,,LBY-003
+LSO,1,official:0.0006,,LSO-005
+MAR,4,official:1.5377,,MAR-005
+MDG,4,official:1.6735,,MDG-004
+MLI,4,official:0.6433,,MLI-004
+MOZ,1,official:0.0401,,MOZ-004
+MRT,1,official:0.026,,MRT-004
+MUS,4,official:1.1449,,MUS-004
+MWI,4,official:1.4238,,MWI-004
+NAM,2,official:0.1908,,NAM-004
+NER,3,official:0.3549,,NER-004
+NGA,1,official:0.0371,,NGA-005
+RWA,3,official:0.228,,RWA-004
+SDN,unplaced,,,
+SEN,3,official:0.4181,,SEN-003
+SLE,1,official:0.0225,,SLE-004
+SOM,no evidence,,,
+SSD,unplaced,,,
+STP,2,official:0.0598,,STP-004
+SWZ,2,official:0.1232,,SWZ-004
+SYC,3,official:0.4726,,SYC-004
+TCD,no evidence,,,
+TGO,unplaced,,,
+TUN,4,official:1.0055,,TUN-004
+TZA,2,official:0.0867,,TZA-004
+UGA,2,official:0.0899,,UGA-004
+ZAF,3,official:0.3994,,ZAF-005
+ZMB,2,official:0.0989,,ZMB-004
+ZWE,1,official:0.036,,ZWE-004

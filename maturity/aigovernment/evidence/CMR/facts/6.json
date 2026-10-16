@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-09-dgb-gov-ai-cenadi-intelligence-artificielle-gouvernementale",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "CENADI unveiled GOV-AI, an AI integrated into the nGomna platform, available now to public agents to consult regulatory texts and get answers based on official documents, as the Direction Generale du Budget reports.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "GOV-AI",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GOV-AI",
+   "country_label": "Cameroon",
+   "class": "govai",
+   "platform": "nGomna",
+   "owner": "CENADI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

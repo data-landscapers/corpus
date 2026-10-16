@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-23-unesco-global-ai-ethics-and-governance-observatory-angola",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Says AI-specific provisions on automated decisions are still to be added; no rule or authority stated as in force or absent."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only unspecified early adoption in finance, telecommunications and health; no public sector system named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or AI computing named; national-scale HPC called an area for development."
+    }
+   }
+  }
+ }
+}

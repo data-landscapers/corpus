@@ -1,0 +1,132 @@
+{
+ "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "Kenya is drafting an AI Bill (AI Bill, 2026) to provide a framework for regulating and governing AI, per CIPIT.",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "AI Bill, 2026",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Source gives training, strategy or policy only; nothing answers this study."
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Makerere University launched its AI Health Lab in March 2025 for AI research and development, including locally made AI-powered health platforms, per CIPIT.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Makerere AI Health Lab",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Makerere AI Health Lab",
+       "country_label": "Uganda",
+       "class": "localai",
+       "platform": "",
+       "owner": "Makerere University",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

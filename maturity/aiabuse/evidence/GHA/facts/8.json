@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-ghana-health-ministry-develops-ai-policy-healthcare",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Ghana's Ministry of Health says it is developing a National AI Health Policy and Guidelines with accountability mechanisms, addressing risks including patient data privacy and algorithmic bias.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "National AI Health Policy and Guidelines",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

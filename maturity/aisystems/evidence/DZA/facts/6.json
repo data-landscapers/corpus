@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-dza-mesrs-premiere-reunion-coordination-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ministry's coordination meeting decided to create a national research centre for AI and data and a multisectoral Algerian system for AI tools, with a commission on large language models.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "national AI and data research centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

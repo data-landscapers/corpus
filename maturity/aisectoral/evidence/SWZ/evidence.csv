@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SWZ-001,SWZ,sectorai,use,underway,"The Eswatini Revenue Service issued a request for proposals for a fiscalisation system using machine learning and AI for tax risk assessment and fraud detection, per Eswatini Financial Times.",2025-05-13,day,ERS fiscalisation system,sectorai,2025-05-13-daily-business-transactions-monitored-ai-tax-fraud,https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/

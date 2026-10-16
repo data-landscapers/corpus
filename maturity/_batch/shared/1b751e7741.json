@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-02-eces-lead-ai-nouakchott-hapa-deepfakes-medias-synthetiques",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and a draft internal HAPA policy on responsible AI use; no rule on AI harms, government AI system in service, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and a draft internal HAPA policy on responsible AI use; no rule on AI harms, government AI system in service, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and a draft internal HAPA policy on responsible AI use; no rule on AI harms, government AI system in service, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and a draft internal HAPA policy on responsible AI use; no rule on AI harms, government AI system in service, sectoral tool or local AI build stated."
+    }
+   }
+  }
+ }
+}

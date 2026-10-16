@@ -1,0 +1,61 @@
+{
+ "slug": "2026-07-31-lso-govls-kobong-launch-m100bn-investment",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The Government of Lesotho launched on 2026-07-31 the Kobong hydropower and AI data-centre project, backed by US company Convalt with about US$6.2 billion in capital investment.",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "Kobong Project",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kobong Project",
+       "country_label": "Lesotho",
+       "class": "localai",
+       "platform": "hydropower and AI data centre",
+       "owner": "Convalt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

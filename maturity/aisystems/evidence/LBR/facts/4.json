@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-06-liberia-epa-reoi-automated-decision-management-system-climate-services",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Environmental Protection Agency's 6 April 2026 notice says an AI and ML based cloud Automated Decision Management System is to be developed in Liberia, funded by the Green Climate Fund, AfDB and the Government of Liberia (US$11,431,969 project), for a 16-week consultancy from 20 April 2026.",
+   "as_of": "2026-04-06",
+   "date_precision": "day",
+   "system": "Automated Decision Management System (ADMS)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

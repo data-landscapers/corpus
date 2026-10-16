@@ -1,0 +1,42 @@
+{
+ "slug": "2025-01-01-afrilabs-hub-directory-guinea",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "AfriLabs lists Trustee Sas, an innovation center supporting ICT, renewable energy and agribusiness projects, and Incubateur Saboutech, a non-profit supporting SMEs and startups, as member hubs in Guinea, with no programme or cohort described.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Incubateur Saboutech",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trustee Sas",
+   "country_label": "Guinea",
+   "class": "hub",
+   "platform": "",
+   "owner": "Trustee Sas",
+   "tiers": ""
+  },
+  {
+   "system": "Incubateur Saboutech",
+   "country_label": "Guinea",
+   "class": "hub",
+   "platform": "",
+   "owner": "Saboutech",
+   "tiers": ""
+  },
+  {
+   "system": "Dreams Tech Hub",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

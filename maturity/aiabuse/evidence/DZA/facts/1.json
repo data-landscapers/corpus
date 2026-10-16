@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-10-ai-ethics-legislation-in-preparation-echorouk",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Higher Education Minister Kamal Badari, in an answer dated 23 October 2025, said the government is preparing a comprehensive legal text governing ethical use of AI across all sectors and strengthening the regulatory authority.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "comprehensive AI legal framework (in preparation)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

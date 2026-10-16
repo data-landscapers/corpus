@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-innovalab-gw-homepage",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Homepage of a private hub; states no startup law, strategy or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "InnovaLab in Bissau says it assists startups at every stage with funding, incubation and accelerator programs, and has trained over 10,000 individuals.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "InnovaLab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "InnovaLab",
+       "country_label": "Guinea-Bissau",
+       "class": "hub",
+       "platform": "",
+       "owner": "InnovaLab",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

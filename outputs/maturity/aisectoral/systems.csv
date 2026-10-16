@@ -1,0 +1,57 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,AGT in-house AI system,Angola,sectorai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
+BDI,AgriHyphen AI,Burundi,other,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
+BEN,miLab MAL,Benin,sectorai,Noul,Ministry of Health / PNLP,,2026-09-08-wearetech-benin-paludisme-ia-diagnostic
+BEN,Integrated Action for Malaria Prevention project,Benin,sectorai,"AI, drones and geospatial mapping","Government of Benin, financed by Japan",six pilot municipalities,2026-07-03-wearetech-benin-ai-drones-malaria-mapping
+BEN,GAINAfrica clinical decision-support system,Benin,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+CMR,simulations générées par l'IA,Cameroun,sectorai,,MINESEC,,2026-08-19-dba-minesec-simulation-ia-e-education
+CMR,CNPS automated pension-file processing,Cameroun,sectorai,,CNPS,,2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations
+COM,DHIS2 (malaria case data),Comoros,other,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros
+DJI,MAZU-Djibouti 2.0,Djibouti,sectorai,AI weather forecasting and alerts,Agence meteorologique nationale de Djibouti,national,2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia
+DJI,Djibouti Ports Community System,Djibouti,other,,,,2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti
+DZA,AI assistant for the personal study path,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-07-25-echorouk-parcours-pedagogique-ia-universite
+ETH,national monitoring and evaluation platform,Ethiopia,sectorai,"unified digital platform ('One Plan, One Report')",Ministry of Planning and Development,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+ETH,AI-powered survey dashboard,Ethiopia,other,,Ethiopian Statistical Service,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+ETH,Ethiopia OpenAgriNet,Ethiopia,sectorai,OpenAgriNet,Agricultural Transformation Institute,national,2026-02-03-ethiopia-openagrinet-launch
+GHA,AI-enabled disease surveillance,Ghana,sectorai,,Ministry of Health and Ghana Health Service,,2026-10-12-gha-who-undp-ai-digital-health-strategy-review
+GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
+KEN,Smart Delinquency Predictor,Kenya,other,IronOne Technologies LLC,"IronOne Technologies (vendor), offered to commercial banks",,2026-08-09-predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis
+LBR,Automated Decision Management System (ADMS),Liberia,sectorai,cloud-based,Environmental Protection Agency,"national, 15 counties",2026-04-06-liberia-epa-reoi-automated-decision-management-system-climate-services
+MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,,Malagasy customs,,2025-06-07-douanes-madagascar-modele-ia-cedia-midi
+MDG,EC-MADA programme civil registration digitisation,Madagascar,other,Studia Inc OCR and AI-driven indexing,,,2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
+MRT,système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle,Mauritanie,sectorai,,"Office National de la Météorologie, with UNDP",,2026-01-14-ami-onm-pnud-systeme-alerte-precoce-agrometeorologique-ia-rosso
+MRT,HydroMet AI,Mauritania,sectorai,"AWS microservices, stacked LSTM with Isolation Forest and SWAT","UNDP Mauritania, operated with the National Meteorological Office",national,2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal
+MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Autorite nationale de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
+MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Office national de la météorologie,,2026-09-08-mrt-ami-onm-agrifemia-alerte-precoce-ia
+MUS,myt learn,Mauritius,other,learning platform for secondary school students and teachers,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
+MUS,MyTLearn,Mauritius,sectorai,AI tutor and teacher coach,Mauritius Telecom with the Ministry of Education,,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
+MWI,Smart City Surveillance Initiative,Malawi,other,"AI-powered surveillance cameras, number plate recognition, central command centre",MACRA,city,2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre
+MWI,Smart City Surveillance Initiative,Malawi,other,AI-powered smart cameras,MACRA,city,2026-09-28-mwi-macra-blantyre-smart-city-surveillance
+NAM,Remote Sensing Agricultural Services Agreement crop monitoring system,Namibia,sectorai,AI and satellite imagery,Ministry of Agriculture (contractor 6th Grain Corporation),,2026-08-20-namibian-cabinet-blocks-us-ai-crop-monitoring-tender
+NAM,AI agricultural monitoring programme,Namibia,sectorai,6th Grain Corporation,"Ministry of Agriculture, Fisheries, Water and Land Reform",,2026-08-17-namibia-agriculture-ai-deal-6th-grain-transparency
+NER,ILLIMI Niger,Niger,sectorai,digital data platform with AI tools,"UN Resident Coordinator's Office with HACP, MISPAT, DGPPD, CASEFSE, INS, ANSI",,2025-11-05-illimi-niger-lancement
+RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
+SDN,Project Connect,Sudan,other,Giga real-time school connectivity map,Giga (UNICEF and ITU),,2026-08-10-omdena-giga-unicef-sudan-ai-school-detection
+SDN,mobile-first AI tool for detecting manipulated narratives and bot-amplified disinformation,Sudan,other,Valent,CDAC Network with Valent,,2025-11-04-cdac-network-sudan-ai-information-environment
+SOM,SAADAAL,Somalia,sectorai,AI-powered early warning system,"Shaqodoon Organization, deployed with the Ministry of Humanitarian Affairs and Disaster Management of Southwest State",sub-national,2026-04-29-somalia-shaqodoon-saadaal-ai-early-warning
+SWZ,ERS fiscalisation system,Eswatini,sectorai,,Eswatini Revenue Service,,2025-05-13-daily-business-transactions-monitored-ai-tax-fraud
+SYC,AI Teacher Coach Programme,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-07-31-seychelles-national-ai-in-education-framework-2026-2030
+SYC,AI Student Tutor Programme,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-07-31-seychelles-national-ai-in-education-framework-2026-2030
+SYC,Teacher Coach and Student Tutor,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-03-01-statehouse-national-ai-education-framework
+SYC,AI Teacher Coach,Seychelles,sectorai,,Ministry of Education,,2026-05-07-nation-sc-ai-pilot-projects
+SYC,AI Student Tutor,Seychelles,sectorai,,Ministry of Education,,2026-05-07-nation-sc-ai-pilot-projects
+TGO,Togo AI Lab,Togo,sectorai,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead
+TGO,Digital Market Intelligence,Togo,sectorai,SICPA SA,Ministere de l'Economie et de la Veille strategique,,2026-03-12-togo-lancement-digital-market-intelligence-mobilisation-ressources-publiques
+TUN,SINDA 2,Tunisia,other,customs IT system,Tunisian Customs,,2026-10-12-tun-businessnews-customs-ai-fraud-detection
+TUN,GAINAfrica crop-disease app,Tunisia,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+TUN,système national de sélectivité douanière,Tunisia,sectorai,,Direction Générale des Douanes,,2026-05-16-la-douane-integre-lia-au-sein-de-son-systeme
+TUN,customs risk-management and selectivity system,Tunisia,sectorai,,Direction generale des douanes,,2026-10-09-tun-allafrica-lapresse-douane-ia-ciblage-fin-novembre
+TUN,customs risk-identification model,Tunisia,sectorai,,General Directorate of Customs,,2026-09-30-douanes-et-fiscalit-la-tunisie-acc-l-re-l-usage-de-l-intelli
+TUN,Big Data tax-audit project,Tunisia,sectorai,"local infrastructure, open source",Finance Ministry IT Centre,,2026-09-30-douanes-et-fiscalit-la-tunisie-acc-l-re-l-usage-de-l-intelli
+TUN,Sanad 2,Tunisia,sectorai,,Customs administration,,2026-09-29-tun-tunisienumerique-finance-ministry-ai-taxation-customs
+TUN,Observatoire national de l'eau,Tunisie,sectorai,,"Ministry of Agriculture, Water Resources and Fisheries with the Communication Technologies ministry",,2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique
+UGA,GAINAfrica crop-disease app,Uganda,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+ZMB,Obrizum AI education pilot,Zambia,sectorai,Obrizum,Ministry of Technology and Science,,2026-03-09-mutati-launches-ai-pilot-in-education
+ZWE,AI Fuel Manager,Zimbabwe,other,,InfraCo,,2026-07-21-infraco-expands-ai-powered-towers
+ZWE,Smart Traffic Management and Surveillance Programme,Zimbabwe,sectorai,"AI cameras, 20 installed in Harare",Ministry of Home Affairs and Cultural Heritage with TelOne,national,2026-09-27-zwe-ai-traffic-camera-enforcement
+ZWE,Smart Traffic Management System,Zimbabwe,sectorai,AI traffic cameras,Zimbabwe Republic Police,national,2026-08-07-zimbabwe-ai-traffic-cameras-national-rollout

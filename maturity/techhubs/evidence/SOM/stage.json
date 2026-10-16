@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "hub",
+   "stage": "4",
+   "hubs": "inservice",
+   "cities": "several",
+   "park": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-005",
+   "gaps": "No source held since October 2023 says a science or technology park is in service with tenants.",
+   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-uganda-national-ai-landscape-assessment",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "The MoICT/ITU assessment lists a lack of AI policy, legal and regulatory framework among its major findings.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

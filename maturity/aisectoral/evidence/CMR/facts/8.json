@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The CNPS director general said the pension fund runs a symbolic-AI system for automatic processing of old-age pension files, presented 17 February 2026.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "CNPS automated pension-file processing",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPS automated pension-file processing",
+   "country_label": "Cameroun",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "CNPS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

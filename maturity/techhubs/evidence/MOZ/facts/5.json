@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-08-aics-vamozdigital-programme-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The AICS Maputo programme page says the VaMozDIGITAL! programme, with a EUR 10 million budget including EUR 7.5 million for AICS, aims to develop two tech hubs in the Central and Northern regions of Mozambique.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "VaMozDIGITAL!",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VaMozDIGITAL!",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "AICS with the European Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

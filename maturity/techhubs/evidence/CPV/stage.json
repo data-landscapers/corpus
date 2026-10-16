@@ -1,0 +1,17 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "hub",
+   "stage": "5",
+   "hubs": "inservice",
+   "cities": "several",
+   "park": "tenants",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
+  }
+ ]
+}

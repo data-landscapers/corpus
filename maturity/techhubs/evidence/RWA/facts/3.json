@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-techtrends-africa-startup-ecosystems-outside-lagos-nairobi",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "TechTrends Africa says Kigali Innovation City, a 61-hectare zone backed by Africa50 and the Arab Bank for Economic Development in Africa, broke ground in September 2025 and is designed to house startup incubators and accelerators, with Carnegie Mellon Africa already resident.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Kigali Innovation City",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kigali Innovation City",
+   "country_label": "Rwanda",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

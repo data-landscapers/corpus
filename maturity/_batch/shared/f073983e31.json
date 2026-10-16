@@ -1,0 +1,69 @@
+{
+ "slug": "2026-07-22-somalia-bic-somali-network-launch",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The BIC Somali Project, implemented by UNIDO with EU funding, graduated entrepreneurs who completed business incubation, and iRise Hub, SIMAD iLab and HarHub signed an MoU to harmonise incubation standards.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "BIC Somali Network",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "The three hubs named are in Mogadishu and Hargeisa, with graduation ceremonies held in both cities.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "BIC Somali Network",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "iRise Hub",
+       "country_label": "Somalia",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "SIMAD iLab",
+       "country_label": "Somalia",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "HarHub",
+       "country_label": "Somalia",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

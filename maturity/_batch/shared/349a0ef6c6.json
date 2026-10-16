@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-04-cote-divoire-undp-delivers-first-unipod-innovation-technology-hub",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "AIP reports UNDP handed over the UniPod, a digital fabrication and innovation centre at Lycee technique de Cocody, Abidjan, open to startups to prototype, with no incubation cohort programme stated.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "UniPod",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UniPod",
+       "country_label": "Cote d'Ivoire",
+       "class": "hub",
+       "platform": "fab lab at Lycee technique de Cocody",
+       "owner": "UNDP with Ministry of National Education (MENAET)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

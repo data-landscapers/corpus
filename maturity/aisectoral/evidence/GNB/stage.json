@@ -1,0 +1,17 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "sectorai",
+   "stage": "no evidence",
+   "use": "",
+   "sectors": "",
+   "results": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether a public sector's system uses AI.",
+   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
+  }
+ ]
+}

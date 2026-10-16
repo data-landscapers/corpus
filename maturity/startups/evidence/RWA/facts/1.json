@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-rwanda-tech-jobs-lfs",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The Rwanda Innovation Fund, a venture capital initiative of about $68.6 million backed by the African Development Bank and the Government of Rwanda and managed by Angaza Capital, had backed 12 technology companies by 2024, according to KT Press.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Rwanda Innovation Fund",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Innovation Fund",
+   "country_label": "Rwanda",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Angaza Capital (manager); AfDB and Government of Rwanda (backers)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-18-angolan-agencies-join-forces-to-strengthen-nascent-startup-sector",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "INAPEM and INFOSI signed an MoU on 14 March 2025 to bolster INFOSI's DIGITAL.AO incubation program, with physical incubation spaces among its objectives.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "DIGITAL.AO",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIGITAL.AO",
+   "country_label": "Angola",
+   "class": "hub",
+   "platform": "incubation program",
+   "owner": "INFOSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

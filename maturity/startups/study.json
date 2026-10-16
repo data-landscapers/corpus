@@ -1,0 +1,119 @@
+{
+ "id": "startups",
+ "study_file": "maturity-study-startups.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "tech.innovate"
+ ],
+ "stage_topic": "tech.innovate",
+ "redraws": [
+  "tech.innovate--tech-startup-ecosystem"
+ ],
+ "carry": [
+  "tech.innovate--tech-startup-ecosystem"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "startup",
+  "startups",
+  "start-up",
+  "start-ups",
+  "tech hub",
+  "tech hubs",
+  "innovation hub",
+  "incubator",
+  "incubateur",
+  "incubadora",
+  "accelerator",
+  "accélérateur",
+  "حاضنة",
+  "الشركات الناشئة",
+  "startup act",
+  "start-up act",
+  "startup law",
+  "startup bill",
+  "startup strategy",
+  "loi sur les startups",
+  "startup label",
+  "label startup",
+  "label start-up",
+  "fonds d'innovation",
+  "innovation fund",
+  "venture capital",
+  "capital-risque",
+  "angel investors",
+  "business angels",
+  "lei das startups",
+  "قانون الشركات الناشئة"
+ ],
+ "sub_indicators": [
+  {
+   "key": "startuppolicy",
+   "label": "Startup law and funding",
+   "subject": "tech.innovate",
+   "text": "Tech startup ecosystem: startup law and funding",
+   "indicator_id": "tech.innovate--tech-startup-ecosystem-startup-law-and-funding",
+   "class": "startuppolicy",
+   "norm_short": "The Digital Transformation Strategy and the AU Startup Model Law Framework ask for a national startup law and strategy across seven areas, an innovation fund and angel networks.",
+   "criteria": [
+    "A source from the past three years says no startup law, strategy or public support for startups exists.",
+    "A startup bill is drafted or tabled, or a startup strategy is being written or in consultation.",
+    "A startup act is passed or a startup strategy adopted.",
+    "Startups are labelled or registered under the act or strategy, or its tax or other measures are applied to them.",
+    "A public or public-backed fund set up under the act or strategy has financed startups, with investments named or counted."
+   ],
+   "criteria_of": "c9f48df3d30f"
+  }
+ ],
+ "classes": [
+  "startuppolicy",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "law",
+   "name": "Law or strategy",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "adopted",
+    "draft"
+   ],
+   "values": [
+    "adopted",
+    "draft",
+    "none"
+   ]
+  },
+  {
+   "key": "labelled",
+   "name": "Labelling",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "labelled"
+   ],
+   "values": [
+    "labelled"
+   ]
+  },
+  {
+   "key": "funded",
+   "name": "Funded",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "funded"
+   ],
+   "values": [
+    "funded"
+   ]
+  }
+ ],
+ "flags": []
+}

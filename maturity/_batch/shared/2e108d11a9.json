@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-31-ben-lanation-tribune-ia-cotonou-ai-academy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers an AI training academy only; no rule, government use, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers an AI training academy only; no rule, government use, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers an AI training academy only; no rule, government use, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers an AI training academy only; no rule, government use, sectoral tool or local AI build stated."
+    }
+   }
+  }
+ }
+}

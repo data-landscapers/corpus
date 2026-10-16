@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-15-gha-myjoyonline-sam-george-ai-5bn-compute-centre",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Government is only exploring AI for agriculture; no tool is stated as piloted, tested or built."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Communications minister Sam George said the government has committed US$250 million to the first phase of a national AI compute centre, within US$270 million for AI infrastructure and an AI fund.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "national AI compute centre",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national AI compute centre",
+       "country_label": "Ghana",
+       "class": "localai",
+       "platform": "",
+       "owner": "Government of Ghana (Ministry of Communication, Digital Technology and Innovations)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

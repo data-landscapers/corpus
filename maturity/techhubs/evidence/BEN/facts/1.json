@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-24-benin-emerging-position-africa-startup-scene",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "StartupBeat says Sème City, launched in 2017 with World Bank backing as a campus for research and startup incubation, runs the Next Impact scheme giving 18-35 year olds up to CFA 30 million per project and six months of coaching.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Sèmè City",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "StartupBeat says EtriLabs, a startup incubator, was created in 2009 in Benin; no programme or cohort is described.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "EtriLabs",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sèmè City",
+   "country_label": "Benin",
+   "class": "hub",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  },
+  {
+   "system": "EtriLabs",
+   "country_label": "Benin",
+   "class": "hub",
+   "platform": "",
+   "owner": "private",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

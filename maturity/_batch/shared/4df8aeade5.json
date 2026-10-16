@@ -92,6 +92,24 @@
      "note": "The document states nothing on this for the country."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Private fintech profile; no public scheme."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
   }
  }
 }

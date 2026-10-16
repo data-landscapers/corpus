@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-21-congo-russia-digital-ai-cooperation-caria-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Russia has committed to finance phases 3 and 4 of the African Center for Research in Artificial Intelligence (CARIA) in Congo through a Sberbank debt-to-development conversion, with funds not yet disbursed, according to the Congolese minister.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "CARIA",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African Center for Research in Artificial Intelligence (CARIA)",
+   "country_label": "Congo",
+   "class": "localai",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

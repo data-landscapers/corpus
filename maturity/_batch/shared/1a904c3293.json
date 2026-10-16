@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-01-royal-science-technology-park-incubator",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The page describes a park and incubator, not a state startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "AfriLabs says the Royal Science and Technology Park hosts Eswatini's National Data Centre, the Advanced School of IT, the National Contact Centre and the Business Incubator, with no incubation programme or cohort stated.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Royal Science and Technology Park-Business Incubator (RSTP)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Royal Science and Technology Park-Business Incubator (RSTP)",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "RSTP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

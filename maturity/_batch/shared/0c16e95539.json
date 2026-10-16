@@ -1,0 +1,7 @@
+{"slug": "2026-08-04-ncc-digital-industrial-park-enugu-lease", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI system in use stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The planned AI institute and certification centre are training, not a model, dataset or computing."}}},
+"techhubs": {"countries": {"NGA": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The NCC signed a 15-year lease of its Digital Industrial Park in Enugu to the state government, which will run it as Enugu Talent City; the NCC says the buildings were completed but are still to be activated.", "as_of": "2026-08-04", "date_precision": "day", "system": "Digital Industrial Park, Enugu", "class": "hub"}], "systems": [{"system": "Digital Industrial Park", "country_label": "Nigeria", "class": "hub", "platform": "", "owner": "Nigerian Communications Commission, leased to Enugu State Government", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-17-ecowas-ai-election-framework-guardian",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional communique; names no rule, use or build for The Gambia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional communique; names no rule, use or build for The Gambia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional communique; names no rule, use or build for The Gambia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional communique; names no rule, use or build for The Gambia."
+    }
+   }
+  }
+ }
+}

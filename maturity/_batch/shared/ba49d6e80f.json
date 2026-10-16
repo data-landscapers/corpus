@@ -1,0 +1,61 @@
+{
+ "slug": "2026-09-30-mar-mistral-open-source-ai-bricks",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The Moroccan digital ministry (MTNRA) and Mistral announced a language-identification classifier for Arabic dialects including Darija and a Voxtral Darija speech-recognition model, saying they will soon be open source and that further models are in development.",
+       "as_of": "2026-09-30",
+       "date_precision": "day",
+       "system": "Voxtral Darija speech recognition model",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Voxtral Darija speech recognition model",
+       "country_label": "MAR",
+       "class": "localai",
+       "platform": "",
+       "owner": "MTNRA and Mistral",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-afdb-igad-xea-entrepreneurship-innovation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Sudan's national component of the AfDB-funded, IGAD-implemented entrepreneurship project launched on 19 August 2026 and runs through the University of Khartoum's Entrepreneurship Incubator Center, with activities yet to begin pending approval of the work plan.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "University of Khartoum Entrepreneurship Incubator Center",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University of Khartoum Entrepreneurship Incubator Center",
+   "country_label": "Sudan",
+   "class": "hub",
+   "platform": "",
+   "owner": "University of Khartoum",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

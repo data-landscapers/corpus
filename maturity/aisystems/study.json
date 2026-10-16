@@ -1,0 +1,111 @@
+{
+ "id": "aisystems",
+ "study_file": "maturity-study-aisystems.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "tech.ai"
+ ],
+ "stage_topic": "tech.ai",
+ "redraws": [
+  "tech.ai--development-of-national-regional-ai-systems"
+ ],
+ "carry": [
+  "tech.ai--development-of-national-regional-ai-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "artificial intelligence",
+  "intelligence artificielle",
+  "inteligência artificial",
+  "inteligencia artificial",
+  "الذكاء الاصطناعي",
+  "machine learning",
+  "apprentissage automatique",
+  "generative AI",
+  "IA générative",
+  "AI model",
+  "language model",
+  "large language model",
+  "LLM",
+  "AI factory",
+  "AI supercomputer",
+  "supercomputer",
+  "GPU",
+  "GPUs",
+  "AI computing",
+  "AI compute",
+  "Masakhane",
+  "modèle de langue",
+  "supercalculateur"
+ ],
+ "sub_indicators": [
+  {
+   "key": "localai",
+   "label": "AI built at home",
+   "subject": "tech.ai",
+   "text": "Development of national / regional AI systems: AI built at home",
+   "indicator_id": "tech.ai--development-of-national-regional-ai-systems-ai-built-at-home",
+   "class": "localai",
+   "norm_short": "The Continental AI Strategy asks that a country can manage its own data and AI, Local First: sovereign or regional computing, open national datasets and talent, taking part in continental AI infrastructure.",
+   "criteria": [
+    "A source from the past three years says no AI model, dataset or AI computing is developed or hosted in the country.",
+    "A national AI model, dataset or AI computing facility is being built, piloted, or planned with a named builder, funder or site.",
+    "An AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+    "A facility with GPUs or other AI accelerators is in service in the country.",
+    "National AI computing, models or datasets are open to researchers, startups or other countries, with users named or counted."
+   ],
+   "criteria_of": "4484c63efb17"
+  }
+ ],
+ "classes": [
+  "localai",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "build",
+   "name": "Model, dataset or computing",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "compute",
+   "name": "AI computing",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "compute"
+   ],
+   "values": [
+    "compute"
+   ]
+  },
+  {
+   "key": "shared",
+   "name": "Shared with users",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "shared"
+   ],
+   "values": [
+    "shared"
+   ]
+  }
+ ],
+ "flags": []
+}

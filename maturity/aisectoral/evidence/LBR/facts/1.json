@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-06-liberia-epa-reoi-automated-decision-management-system-climate-services",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Liberia's Environmental Protection Agency, in a notice issued 6 April 2026, seeks a consultant to design and develop a cloud-based Automated Decision Management System using AI and ML to forecast floods, droughts and extreme weather and generate alerts, with an MVP in pilot counties before a rollout to all 15 counties.",
+   "as_of": "2026-04-06",
+   "date_precision": "day",
+   "system": "Automated Decision Management System (ADMS), Liberia Climate Information System Project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automated Decision Management System (ADMS)",
+   "country_label": "Liberia",
+   "class": "sectorai",
+   "platform": "cloud-based",
+   "owner": "Environmental Protection Agency",
+   "tiers": "national, 15 counties"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-02-undp-ooredoo-doha-arab-digital-policy-forum-libya",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "It only says Libya's AI minister attended a forum."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "It states nothing about AI use in Libyan administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "It states nothing about AI in a Libyan sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "It states nothing about AI built or hosted in Libya."
+    }
+   }
+  }
+ }
+}

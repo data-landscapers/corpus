@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-24-ia-et-ducation-le-pari-camerounais-pr-sent-p-kin",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a conference presentation of an AI-in-higher-education strategy; no AI system in use is named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher training and campus networks are described; no AI tool producing outputs is named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built model, dataset or AI computing is named."
+    }
+   }
+  }
+ }
+}

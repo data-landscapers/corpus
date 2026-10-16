@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-09-brazzaville-prochaine-frontiere-tech-africaine",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Journal du Net says the Senate adopted law no. 71-2022 on the digital start-up label in August 2022.",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "Loi n° 71-2022 label start-up du numérique",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": "Article says the labelling commission has no decree and no label has been issued; no public fund financing startups is described."
+}

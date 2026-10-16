@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-18-aws-konza-hybrid-cloud",
+ "studies": {
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public startup law or fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Konza Technopolis Development Authority signed an agreement on 2026-08-18 under which AWS will establish a Startup and Innovation Centre of Excellence at Konza, with AWS credits for start-ups.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "Startup and Innovation Centre of Excellence",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Konza Technopolis",
+       "country_label": "Kenya",
+       "class": "hub",
+       "platform": "",
+       "owner": "Konza Technopolis Development Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

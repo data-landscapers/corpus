@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-31-gabon-dgpro-ai-agenda-2063",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers a staff training workshop only; no rule, government system, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers a staff training workshop only; no rule, government system, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers a staff training workshop only; no rule, government system, sectoral tool or local AI build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Source covers a staff training workshop only; no rule, government system, sectoral tool or local AI build stated."
+    }
+   }
+  }
+ }
+}

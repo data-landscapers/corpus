@@ -1,0 +1,97 @@
+{
+ "id": "ictproduction",
+ "study_file": "maturity-study-ictproduction.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 10,
+ "subjects": [
+  "tech.industry"
+ ],
+ "stage_topic": "tech.industry",
+ "redraws": [
+  "tech.industry--national-capacity-in-dt-related-production"
+ ],
+ "carry": [
+  "tech.industry--national-capacity-in-dt-related-production"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 4000000,
+ "terms": [
+  "assembly plant",
+  "assembly line",
+  "smartphone assembly",
+  "phone assembly",
+  "mobile phone assembly",
+  "device assembly",
+  "laptop assembly",
+  "computer assembly",
+  "electronics assembly",
+  "electronics manufacturing",
+  "smartphone factory",
+  "phone factory",
+  "smartphone manufacturing",
+  "mobile phone manufacturing",
+  "phone manufacturing",
+  "locally assembled",
+  "local assembly",
+  "semiconductor",
+  "semiconductors",
+  "usine d'assemblage",
+  "assemblage de smartphones",
+  "assemblage de téléphones",
+  "assemblage d'ordinateurs",
+  "fabrication de smartphones",
+  "fabrication de téléphones",
+  "composants électroniques",
+  "montagem de telemóveis",
+  "montagem de computadores",
+  "مصنع تجميع",
+  "تجميع الهواتف",
+  "تصنيع الهواتف",
+  "تصنيع الإلكترونيات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "production",
+   "label": "ICT exports and production",
+   "subject": "tech.industry",
+   "text": "National capacity in DT-related production: ICT exports and production",
+   "indicator_id": "tech.industry--national-capacity-in-dt-related-production-ict-exports-and-production",
+   "class": "ictproduction",
+   "norm_short": "The Digital Transformation Strategy's digital industry pillar asks for ICT assembling and manufacturing plants and growing ICT exports; STISA-2034 asks for technology-based production.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts ICT service exports below 0.05 per cent of GDP.",
+    "ICT service exports are 0.05 per cent of GDP or more in the latest figure, for 2023 or later, from the World Bank's series.",
+    "ICT service exports are 0.2 per cent of GDP or more.",
+    "ICT service exports are 0.5 per cent of GDP or more.",
+    "ICT service exports are 0.5 per cent of GDP or more, and a plant assembling or making phones, computers or other ICT equipment is in production in the country."
+   ],
+   "criteria_of": "2fb676219ce3"
+  }
+ ],
+ "classes": [
+  "ictproduction",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "exports",
+   "name": "ICT service exports, as a share of GDP",
+   "role": "coverage",
+   "pattern": "official:\\d{1,2}(\\.\\d+)?"
+  },
+  {
+   "key": "plant",
+   "name": "ICT equipment made in the country",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "production"
+   ],
+   "values": [
+    "production"
+   ]
+  }
+ ],
+ "flags": []
+}

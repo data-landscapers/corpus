@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-10-leseco-maroc-ia-2030-phase-operationnelle",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "LesEco says Morocco is developing a sovereign large language model for darija and amazigh, with JAZARI ROOT focused on sovereign language technologies.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Sovereign LLM (darija, amazigh)",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "LesEco says the Sovereign Meeting Assistant, a solution developed in Morocco, is trained on Moroccan GPUs and hosted on the sovereign marketplace.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Sovereign Meeting Assistant",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "LesEco says the Sovereign Meeting Assistant was trained on Moroccan GPUs.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Moroccan GPUs",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sovereign Meeting Assistant",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "Marketplace souveraine",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

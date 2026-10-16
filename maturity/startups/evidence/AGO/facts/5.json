@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-19-proposta-de-lei-das-startups-aprovada-na-generalidade",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "Novo Jornal reports Angola's Parliament approved the Startups Law proposal in general on 19 March 2026 by unanimous vote of 181, with a 75% tax reduction for startup investors.",
+   "as_of": "2026-03-19",
+   "date_precision": "day",
+   "system": "Proposta de Lei das Startups",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Proposta de Lei das Startups",
+   "country_label": "Angola",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-30-startup-law-implementation-phase",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Senegal's government adopted the implementing decree for Startup Law No. 2020-01 of 6 January 2020, setting criteria (one-third Senegalese capital) and incentives.",
+       "as_of": "2025-01-29",
+       "date_precision": "day",
+       "system": "Law No. 2020-01",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law No. 2020-01 on startups",
+       "country_label": "Senegal",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park with a programme is stated."
+    }
+   }
+  }
+ }
+}

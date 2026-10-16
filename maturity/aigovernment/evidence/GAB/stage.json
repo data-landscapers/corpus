@@ -1,0 +1,17 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "govai",
+   "stage": "no evidence",
+   "use": "",
+   "bodies": "",
+   "rules": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether government bodies use AI.",
+   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
+  }
+ ]
+}

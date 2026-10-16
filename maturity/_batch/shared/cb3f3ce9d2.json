@@ -1,0 +1,6 @@
+{"slug": "2026-02-27-cabo-verde-cnpd-declaracao-conjunta-conteudo-gerado-ia", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [{"system": "Comissao Nacional de Protecao de Dados (CNPD)", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "CNPD", "tiers": ""}], "note": "The CNPD subscribed to a joint declaration of data authorities; it is regulator guidance with no stated legal effect and no AI-specific mandate."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The document says nothing on AI use in public administration."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The document says nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The document says nothing on AI models, datasets or computing built in the country."}}}
+}}

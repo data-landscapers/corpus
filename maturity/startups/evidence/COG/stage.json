@@ -1,0 +1,17 @@
+{
+ "iso3": "COG",
+ "cells": [
+  {
+   "sub_indicator": "startuppolicy",
+   "stage": "3",
+   "law": "adopted",
+   "labelled": "",
+   "funded": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COG-001",
+   "gaps": "No source held since October 2023 says startups are labelled or registered under a startup law or strategy.",
+   "note": "First pass: counted from the four questions by study-ladder-startups.py."
+  }
+ ]
+}

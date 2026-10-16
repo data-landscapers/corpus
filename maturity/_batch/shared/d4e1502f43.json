@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-03-sudan-turkiye-joint-university-protocol",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and university cooperation only; no AI use, rule or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and university cooperation only; no AI use, rule or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and university cooperation only; no AI use, rule or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and university cooperation only; no AI use, rule or build stated."
+    }
+   }
+  }
+ }
+}

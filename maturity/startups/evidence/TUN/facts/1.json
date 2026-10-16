@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-27-tunisiefr-thedot-diaspora-entrepreneurs",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The article says Tunisia's entrepreneurial ecosystem is carried by a pioneering Startup Act.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

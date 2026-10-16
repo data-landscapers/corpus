@@ -1,0 +1,41 @@
+{
+ "slug": "2026-02-13-enseignants-du-letin-en-formation-sur-lintelligence-artificielle",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a teacher training session on AI fundamentals; no rule, use, build or capacity stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a teacher training session on AI fundamentals; no rule, use, build or capacity stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a teacher training session on AI fundamentals; no rule, use, build or capacity stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a teacher training session on AI fundamentals; no rule, use, build or capacity stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-gha-who-undp-ai-digital-health-strategy-review",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Ministry of Health and Ghana Health Service, supported by WHO and UNDP, run a programme on AI, Digital Health and Human Security whose key focus is AI-enabled disease surveillance joining routine health data with climate data to predict malaria, cholera and meningitis.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "AI-enabled disease surveillance",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-enabled disease surveillance",
+   "country_label": "Ghana",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Health and Ghana Health Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

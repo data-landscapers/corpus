@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-05-dza-aps-reunion-coordination-strategie-nationale-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only plans or future steps are stated, nothing in force or in service."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only plans or future steps are stated, nothing in force or in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only plans or future steps are stated, nothing in force or in service."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The 5 August 2026 coordination meeting led by the higher education and research minister adopted a roadmap to develop sovereign open-source government AI models and to provide intensive computing through the national computing centres.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "national AI strategy roadmap",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-07-syc-sna-pro-human-technology-bill-ai-seminar",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Seychelles News Agency reports a proposed private members' Pro-Human Technology Bill that would protect against audio and visual digital forgeries and prohibit certain high-risk technologies; the Speaker says it is far from reaching the National Assembly.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Pro-Human Technology Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Angola's tax authority AGT, per its board chairman, is developing its own machine-learning system for risk-based tax enforcement, with testing begun in 2024 and prior-hearing notices possible from June 2026.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "AGT in-house AI system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGT in-house AI system",
+   "country_label": "Angola",
+   "class": "sectorai",
+   "platform": "machine learning",
+   "owner": "AGT (Administração Geral Tributária)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

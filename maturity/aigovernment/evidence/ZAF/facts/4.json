@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-wheels-up-for-electronic-travel-authorisation-visas",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Home Affairs' Electronic Travel Authorisation uses machine learning to detect fraudulent passports and documents, with more than 203,000 applications processed and more than 5,700 fraudulent ones rejected by July 2026, the minister said.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Electronic Travel Authorisation (ETA)",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Travel Authorisation (ETA)",
+   "country_label": "South Africa",
+   "class": "govai",
+   "platform": "biometric verification, machine learning, eMCS 2.0",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

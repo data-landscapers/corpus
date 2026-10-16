@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "MISA Zimbabwe says the national AI strategy has no direct legal force and that enforceable legal safeguards on AI are missing, with legislation still to be drafted.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy proposals only; no sectoral AI tool stated."
+    }
+   }
+  }
+ }
+}

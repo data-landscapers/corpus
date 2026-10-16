@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-07-ippmedia-vodacom-bridge-for-billions-startup-ecosystem",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Private partnership; no state startup measure stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Vodacom Tanzania says its Vodacom Digital Accelerator, launched in 2019 as a season-based programme, has supported startups in healthcare, agriculture, education and financial services.",
+       "as_of": "2026-09-07",
+       "date_precision": "day",
+       "system": "Vodacom Digital Accelerator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Vodacom Digital Accelerator",
+       "country_label": "Tanzania",
+       "class": "hub",
+       "platform": "",
+       "owner": "Vodacom Tanzania",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

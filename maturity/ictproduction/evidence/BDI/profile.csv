@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,production,exports,coverage,official:0.1266,2025,BDI-005,BDI-004=official:0.1131;BDI-003=official:0.1317;BDI-002=official:0.0878;BDI-001=official:0.0951,
+BDI,production,plant,coverage,,,,,nothing held

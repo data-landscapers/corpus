@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-02-malawi-tech-ecosystem-feature",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "TechCabal refers to mHub as an incubator in Malawi with a former CEO, with no programme or cohort described.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "mHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mHub",
+   "country_label": "Malawi",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ntha Foundation",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ntha Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

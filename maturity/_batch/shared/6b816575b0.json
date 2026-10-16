@@ -1,0 +1,72 @@
+{
+ "slug": "2026-10-09-tun-allafrica-lapresse-douane-ia-ciblage-fin-novembre",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a customs system, which belongs to the sectoral study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Tunisian Customs said on 9 October 2026 that AI integrated into its risk-management and selectivity system should enter operation at the end of November 2026 to target high-risk declarations, per Colonel-Major Kais Ben Zayed.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "customs risk-management and selectivity system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "customs risk-management and selectivity system",
+       "country_label": "Tunisia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Direction generale des douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Tunisian Customs said on 9 October 2026 that its AI risk-targeting integration is being implemented with Tunisian skills within the customs administration, due to enter operation at the end of November 2026.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "customs risk-management and selectivity system",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

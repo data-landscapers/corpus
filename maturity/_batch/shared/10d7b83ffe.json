@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-03-add-base-de-donnees-startups-marocaines",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "A startup database count only; no startup law, strategy, label or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park is described; the file only lists startups by source list and city."
+    }
+   }
+  }
+ }
+}

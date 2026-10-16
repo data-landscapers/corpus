@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+UGA-001,UGA,sectorai,use,underway,"The GAINAfrica project (Horizon Europe, La Sapienza) is testing a multilingual mobile app for crop-disease identification and precision agriculture in Uganda, per AIM.",2026-08,month,GAINAfrica crop-disease app,sectorai,2026-08-25-aimnews-gainafrica-generative-ai-pilot,https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-eth-2024-144",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Ministry of Finance's 2024/25 budget record gives the Artificial Intelligence Institution capital projects including a National Artificial Intelligence Datacenter Deployment (ETB 50,000,000), a Computational Center for IOT Project Expansion (ETB 61,672,000) and a National Artificial Intelligence Research Laboratory (ETB 152,649,000).",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Datacenter Deployment",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Artificial Intelligence Institution",
+   "country_label": "Ethiopia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-17-sle-unesco-ai-governance-legal-preparedness-riyadh",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Source says no AI law enacted but names no AI-harm rule, authority, use or build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Source says no AI law enacted but names no AI-harm rule, authority, use or build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Source says no AI law enacted but names no AI-harm rule, authority, use or build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Source says no AI law enacted but names no AI-harm rule, authority, use or build."
+    }
+   }
+  }
+ }
+}

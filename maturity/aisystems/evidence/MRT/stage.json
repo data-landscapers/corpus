@@ -1,0 +1,17 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "localai",
+   "stage": "3",
+   "build": "inservice",
+   "compute": "",
+   "shared": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-001",
+   "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
+  }
+ ]
+}

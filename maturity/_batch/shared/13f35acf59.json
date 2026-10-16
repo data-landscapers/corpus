@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-08-tcd-uneca-chad-national-ai-strategy-pre-validation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft strategy only; no rule, use or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft strategy only; no rule, use or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft strategy only; no rule, use or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft strategy only; no rule, use or build stated."
+    }
+   }
+  }
+ }
+}

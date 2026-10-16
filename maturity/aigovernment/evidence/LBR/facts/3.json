@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-fpa-undp-liberia-tech-summit",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "FrontPage Africa reports that a Central Bank of Liberia employee invented a banking system, the 'First Sovereign AI Infrastructure for Predicting Macroeconomic Forecasting and Financial Intelligence in the Region', which the bank is currently using.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "First Sovereign AI Infrastructure for Predicting Macroeconomic Forecasting and Financial Intelligence in the Region",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

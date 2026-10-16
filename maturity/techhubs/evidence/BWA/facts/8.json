@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-17-scalar-botswana-innovation-program-150m-fund-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "TechCabal reports the Botswana Innovation Fund and Scalar International launched on 10 March 2026 in Gaborone a 12-month programme supporting 10 climate and digital startups.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Scalar Botswana Innovation Program",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Scalar Botswana Innovation Program",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "Botswana Innovation Fund and Scalar International",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

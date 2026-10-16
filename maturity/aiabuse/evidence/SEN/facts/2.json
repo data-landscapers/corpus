@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-10-grain-west-africa-ai-governance-comparative-study",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "GRAIN's study says none of the four countries, Senegal included, has an AI-specific law or mandatory mechanisms for algorithmic transparency, audit or redress for AI discrimination.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

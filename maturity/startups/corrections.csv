@@ -1,0 +1,5 @@
+iso3,n,aspect,value,action,why
+COD,002,labelled,labelled,removed,First pass: a blanket tax exemption read as labelling
+COD,005,labelled,labelled,removed,First pass: a law's provision with measures still drafted read as applied
+MDG,001,funded,funded,removed,First pass: a donor-backed grant programme read as a fund under a startup law
+MUS,001,funded,funded,removed,First pass: a competition's seed prize read as a fund under a startup law

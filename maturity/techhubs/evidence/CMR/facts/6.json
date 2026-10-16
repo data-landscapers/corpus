@@ -1,0 +1,62 @@
+{
+ "slug": "2025-07-01-algeria-cameroon-innovation-hubs--techcabal",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Douala Tech Park, launched in October 2024 at the Institut JFN with Google Cloud, AWS, Microsoft Azure and Dassault Systemes backing, aims to train 10,000 talents by 2030; no startup programme is stated.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Douala Tech Park",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Douala and Yaounde host new accelerators such as ActivSpaces and international hubs such as Orange Fab, per TechCabal.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "ActivSpaces; Orange Fab",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "Hubs and incubators are named in Douala, Yaounde and Buea (ActivSpaces, SM Ventures), per TechCabal.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "ActivSpaces; SM Ventures; Orange Fab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Douala Tech Park",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "Institut JFN",
+   "tiers": ""
+  },
+  {
+   "system": "ActivSpaces",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Fab",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

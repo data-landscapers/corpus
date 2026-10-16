@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-15-illimi-niger-100-professionnels-formes",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ILLIMI Niger says its platform, local AI assistant and analysis tools stay accessible to partner institutions after a 1-12 June 2026 training of 100 professionals from state bodies on using AI for data analysis and reports.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "ILLIMI platform",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "ILLIMI Niger says the platform serves partner institutions including HACP, the Interior ministry, INS and ANSI.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "ILLIMI platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ILLIMI platform",
+   "country_label": "Niger",
+   "class": "govai",
+   "platform": "multisectoral data platform with local AI assistant and analysis tools",
+   "owner": "Government of Niger / UN system (UNTFHS-funded)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

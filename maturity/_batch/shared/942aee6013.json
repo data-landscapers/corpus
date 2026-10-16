@@ -1,0 +1,81 @@
+{
+ "slug": "2026-09-29-tun-tunisienumerique-finance-ministry-ai-taxation-customs",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Director General of the National Customs School said projects underway, to be announced soon, include AI-powered communication tools, particularly a chatbot within the General Directorate of Taxes.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "chatbot of the General Directorate of Taxes",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "chatbot of the General Directorate of Taxes",
+       "country_label": "Tunisia",
+       "class": "govai",
+       "platform": "",
+       "owner": "General Directorate of Taxes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Director General of the National Customs School said the Sanad 2 system, designed to support risk targeting and certificates of origin in Customs, is among projects currently underway.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "Sanad 2",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sanad 2",
+       "country_label": "Tunisia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Customs administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or AI computing stated."
+    }
+   }
+  }
+ }
+}

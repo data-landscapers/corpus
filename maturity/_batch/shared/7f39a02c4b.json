@@ -1,0 +1,61 @@
+{
+ "slug": "2026-08-17-namibia-agriculture-ai-deal-6th-grain-transparency",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The agriculture ministry signed a one-year N$39.5 million contract with 6th Grain Corporation to introduce satellite imagery and AI to monitor staple crops, forecast crops and assess drought (Windhoek Observer, citing the ministry and US Embassy).",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "AI agricultural monitoring programme",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI agricultural monitoring programme",
+       "country_label": "Namibia",
+       "class": "sectorai",
+       "platform": "6th Grain Corporation",
+       "owner": "Ministry of Agriculture, Fisheries, Water and Land Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

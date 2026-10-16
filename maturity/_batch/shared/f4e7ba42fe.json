@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-04-guinea-ecuatorial-unesco-formacion-inteligencia-artificial-robotica",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or mandate stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a training workshop is described, no AI system in use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only training is described, no sector AI tool."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a training programme is described."
+    }
+   }
+  }
+ }
+}

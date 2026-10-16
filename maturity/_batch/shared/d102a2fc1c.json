@@ -1,0 +1,6 @@
+{"slug": "2026-01-20-official-gazette-decree-207-2026-ai-quantum-council", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister.", "as_of": "2026-01-18", "date_precision": "day", "system": "National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies", "class": "aiharm"}], "systems": [{"system": "National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies", "country_label": "Egypt", "class": "aiharm", "platform": "", "owner": "Prime Minister's office, chaired by the ICT minister", "tiers": ""}], "note": ""}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The decree only reconstitutes a council; it states no government AI system in use."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The decree states no sectoral AI tool."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The decree states no AI model, dataset or computing facility."}}}
+}}

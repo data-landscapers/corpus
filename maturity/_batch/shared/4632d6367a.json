@@ -1,0 +1,41 @@
+{
+ "slug": "2026-01-20-mauritanie-cadre-national-intelligence-artificielle-ecole-republicaine",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "An education AI ethics framework with no stated legal effect, tool or build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "An education AI ethics framework with no stated legal effect, tool or build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "An education AI ethics framework with no stated legal effect, tool or build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "An education AI ethics framework with no stated legal effect, tool or build."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-eth-2025-144",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Ministry of Finance's budget workbook lists an Incubation Center Building Project of ETB 135,679,000 as a capital project of the Artificial Intelligence Institution.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Incubation Center Building Project",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

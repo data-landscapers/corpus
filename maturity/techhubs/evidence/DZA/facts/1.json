@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-20-first-ai-cybersecurity-startup-cluster--wearetech",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Algeria launched its first national AI and cybersecurity start-up cluster on 18 April 2026 at the Sidi Abdellah science and technology hub in Algiers, backed by the Higher Education, Knowledge Economy and Telecommunications ministries; no cohort is named.",
+   "as_of": "2026-04-18",
+   "date_precision": "day",
+   "system": "AI and cybersecurity start-up cluster",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI and cybersecurity start-up cluster",
+   "country_label": "Algeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministries of Higher Education, Knowledge Economy and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

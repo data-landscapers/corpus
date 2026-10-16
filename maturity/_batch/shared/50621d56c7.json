@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-30-178m-startup-fund-wearetech",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "We Are Tech Africa says Cote d'Ivoire adopted a Startup Act in November 2023 with a Digital Startup label, fiscal and customs incentives and a national labeling committee.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub stated."
+    }
+   }
+  }
+ }
+}

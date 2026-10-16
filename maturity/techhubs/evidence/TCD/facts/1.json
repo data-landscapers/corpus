@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-centre-innovation-technologique-ndjamena-lance",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Centre d'innovation technologique de N'Djamena, created by arrete n0050 of 1 September 2025, was officially launched with an aim to incubate Chadian tech startups, with no incubation programme or cohort stated.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Centre d'innovation technologique de N'Djamena (CIT-N'Dj)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre d'innovation technologique de N'Djamena (CIT-N'Dj)",
+   "country_label": "Tchad",
+   "class": "hub",
+   "platform": "",
+   "owner": "Secretariat general de la Presidence",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-03-01-statehouse-national-ai-education-framework", "studies": {
+"aiabuse": {"countries": {"SYC": {"facts": [], "systems": [], "note": "The framework sets school guidance and tool lists for education only; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"SYC": {"facts": [], "systems": [], "note": "The document concerns AI in education, a sector, not general administration."}}},
+"aisectoral": {"countries": {"SYC": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Seychelles Ministry of Education says it is already advancing education initiatives that incorporate AI, including Smart Classroom, Teacher Coach and Student Tutor, to be scaled under its 2026-2030 AI in Education Framework.", "as_of": "2026-03", "date_precision": "month", "system": "Teacher Coach and Student Tutor", "class": "sectorai"}], "systems": [{"system": "Teacher Coach and Student Tutor", "country_label": "Seychelles", "class": "sectorai", "platform": "", "owner": "Ministry of Education and Human Resource Development", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SYC": {"facts": [], "systems": [], "note": "The document names no AI model, dataset or computing built or hosted in the country."}}}
+}}

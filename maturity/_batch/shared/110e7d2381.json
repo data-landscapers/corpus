@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-08-levellers-ai-regulation-eritrea",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "Levellers states that as of June 2026 Eritrea has no dedicated AI law, no AI oversight body and no statutory right not to be subject to automated decision-making.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "none",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

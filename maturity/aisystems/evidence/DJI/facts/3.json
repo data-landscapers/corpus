@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-djibouti-ecosysteme-ia-acteurs-forum",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "La Nation reports that HOOM, an AI-based education application conceived and developed by Djiboutians, is already used by more than 4,500 terminale pupils, about 57% of the year group, and includes the KékéBot teaching assistant.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "HOOM",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HOOM",
+   "country_label": "Djibouti",
+   "class": "localai",
+   "platform": "mobile and web education application",
+   "owner": "HOOM, Djiboutian founders",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

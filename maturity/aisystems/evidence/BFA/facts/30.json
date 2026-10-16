@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-15-burkina-faso-nigeria-digital-cooperation-ouagadougou",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "A Ministry of Digital Transition AI expert presented the national strategy for designing and deploying an AI model adapted to Burkinabe realities, on 12 August 2026.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "national AI model",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national AI model",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministere de la Transition digitale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

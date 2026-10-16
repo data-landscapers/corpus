@@ -1,0 +1,41 @@
+{
+ "slug": "2026-04-24-cameroons-national-artificial-intelligence-strategy-snia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only, status proposed or under development; no bill, system in use or named builder stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only, status proposed or under development; no bill, system in use or named builder stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only, status proposed or under development; no bill, system in use or named builder stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only, status proposed or under development; no bill, system in use or named builder stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2025-12-03-togo-data-lab-expansion-google-org-cega",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only data-specialist training stated; no AI system in a government body."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Remote-sensing projects are planned without an AI tool in a sector system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Google.org's $2 million support will give University of Lomé and University of Kara faculty and students access to high performance computer clusters under the Togo Data Lab, run by CEGA and the Ministry of Public Service Efficiency and Digital Transformation.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "Togo Data Lab",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo Data Lab",
+       "country_label": "Togo",
+       "class": "localai",
+       "platform": "high performance computer clusters at the Universities of Lomé and Kara",
+       "owner": "CEGA and the Ministry of Public Service Efficiency and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

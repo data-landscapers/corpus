@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Through the Science Granting Councils Initiative the NCRST has funded projects on AI-powered tools for early disease detection, per the NCRST authors citing SGCI 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

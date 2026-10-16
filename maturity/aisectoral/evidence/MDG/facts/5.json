@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-wearetech-madagascar-digital-criminal-records-platform",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Madagascar's judicial authorities are evaluating AI tools for judicial support functions, announced 2 June 2026.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "AI judicial support tools",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

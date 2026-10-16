@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,,2026-09-27-nam-namibian-national-ai-institute-launched
+NAM,ATLAS Umoja AI,Namibia,localai,,GSMA and five governments,,2026-07-31-gsma-atlas-umoja-ai-launch
+NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,national,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
+NAM,NCRST-funded HPC centres at NUST and UNAM,Namibia,localai,GPU-enabled HPC,"NUST and UNAM, funded by NCRST",university,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
+NAM,PARAM Supercomputer at NUST,Namibia,localai,"C-DAC PARAM cluster, Dell PowerEdge, 1 NVIDIA Tesla V100",Namibia University of Science and Technology (INCEIT),university,2026-08-09-inceit-param-hpc-nust-namibia-specification

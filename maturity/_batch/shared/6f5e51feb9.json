@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-17-standard-bank-ai-enabled-organisation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's own AI use is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's own AI use is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's own AI use is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's own AI use is stated."
+    }
+   }
+  }
+ }
+}

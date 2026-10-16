@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,sectorai,use,underway,"ILLIMI Niger, a joint Government of Niger and UN project, is building a digital data platform integrating ethical AI tools for predictive analyses to anticipate crises, launched with its first National Technical Group meeting.",2025-10-23,day,ILLIMI Niger,sectorai,2025-11-05-illimi-niger-lancement,https://illimi-niger.com/illimi-niger-les-donnees-au-service-de-la-securite-humaine-et-de-la-paix/

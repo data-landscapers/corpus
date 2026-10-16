@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-26-unipod-empower-youth-research",
+ "studies": {
+  "startups": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "UniPod is a university hub, not a state startup law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Botswana Press Agency reports that UniPod Botswana at the University of Botswana incubates business ideas, has ten specialised laboratories and has six start-ups at commercial acceleration (TRL 6-9).",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "UniPod Botswana",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UniPod Botswana",
+       "country_label": "Botswana",
+       "class": "hub",
+       "platform": "",
+       "owner": "University of Botswana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

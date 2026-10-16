@@ -1,0 +1,6 @@
+{"slug": "2026-10-12-gha-myjoyonline-sam-george-knust-twi-ai-model", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government body use of an AI system stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Voice AI for farmers and telemedicine is only a wish, no tool is stated as piloted or built."}}},
+"aisystems": {"countries": {"GHA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Communications Minister Sam George tasked KNUST experts to lead development of a Twi language model, with other universities to lead models for other Ghanaian languages, as the government decided national language models must be built locally.", "as_of": "2026-10-12", "date_precision": "day", "system": "Twi language model", "class": "localai"}], "systems": [{"system": "Twi language model", "country_label": "Ghana", "class": "localai", "platform": "", "owner": "KNUST", "tiers": ""}], "note": ""}}}
+}}

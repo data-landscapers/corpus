@@ -1,0 +1,59 @@
+{
+ "slug": "2026-09-16-xaf-afdb-koafec-joint-declaration-action-plan-2027-2028",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI talent accelerator in The Gambia is named, a skills programme."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI talent accelerator in The Gambia is named, a planned talent programme with no hub or cohort stated."
+    }
+   }
+  }
+ }
+}

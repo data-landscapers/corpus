@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-21-cyber-incub-abomey-calavi",
+ "studies": {
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Grants of 10m FCFA are planned, none paid; no startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The L'Envol incubator in Abomey-Calavi hosts the Cyber Incub programme, which has given ten cybersecurity startup teams intensive support since November 2025, run by Adpme and Asin with LuxDev backing.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "L'Envol incubator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "L'Envol incubator",
+       "country_label": "Benin",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

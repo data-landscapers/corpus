@@ -1,0 +1,17 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "startuppolicy",
+   "stage": "no evidence",
+   "law": "",
+   "labelled": "",
+   "funded": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says what the state does for tech startups.",
+   "note": "First pass: counted from the four questions by study-ladder-startups.py."
+  }
+ ]
+}

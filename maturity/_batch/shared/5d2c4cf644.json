@@ -1,0 +1,8 @@
+{"slug": "2026-09-20-egy-alnahar-ai-data-centre-race-washington-beijing", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an expert's call for data protection controls and legal frameworks, no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government body using an AI system is named."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool is named."}}},
+"aisystems": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "A delegation of the data centre developer HiCA Data arrived in Egypt to discuss its plans for an integrated zone of giant data centres and AI, after Huawei had offered to build AI data centres with 1,408 Ascend 950 chips plus 600 more within 12 months, according to Al-Nahar.", "as_of": "2026-09-20", "date_precision": "day", "system": "HiCA Data integrated data centre and AI zone", "class": "localai"}
+], "systems": [{"system": "HiCA Data integrated data centre and AI zone", "country_label": "Egypt", "class": "localai", "platform": "", "owner": "HiCA Data", "tiers": ""}], "note": ""}}}
+}}

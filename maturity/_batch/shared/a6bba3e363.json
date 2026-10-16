@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-19-sonna-somalia-chinese-tech-import-megawatt-analysis",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a Data Protection Act and an AI governance office, with no AI harm rule or designated authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study for Somalia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study for Somalia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "A National AI Centre at a university is named, with no model, dataset or AI computing stated."
+    }
+   }
+  }
+ }
+}

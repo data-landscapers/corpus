@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "3",
+   "exports": "official:0.3549",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-004",
+   "gaps": "The latest figure, 0.3549 per cent of GDP for 2024, is below 0.5 per cent.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-leseco-maroc-ia-2030-phase-operationnelle",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "LesEco says Idarati AI, an agentic assistant on the sovereign marketplace, guides users through administrative procedures and is among the first operational components.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Idarati AI",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Idarati AI",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "Marketplace souveraine",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

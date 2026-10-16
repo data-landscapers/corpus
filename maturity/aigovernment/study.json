@@ -1,0 +1,105 @@
+{
+ "id": "aigovernment",
+ "study_file": "maturity-study-aigovernment.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "tech.ai"
+ ],
+ "stage_topic": "tech.ai",
+ "redraws": [
+  "tech.ai--use-of-ai-in-government-administration"
+ ],
+ "carry": [
+  "tech.ai--use-of-ai-in-government-administration"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "artificial intelligence",
+  "intelligence artificielle",
+  "inteligência artificial",
+  "inteligencia artificial",
+  "الذكاء الاصطناعي",
+  "machine learning",
+  "apprentissage automatique",
+  "generative AI",
+  "IA générative",
+  "AI chatbot",
+  "AI assistant",
+  "AI in government",
+  "AI in the public sector",
+  "AI in public administration",
+  "IA dans l'administration",
+  "chatbot",
+  "agent conversationnel"
+ ],
+ "sub_indicators": [
+  {
+   "key": "govai",
+   "label": "AI in administration",
+   "subject": "tech.ai",
+   "text": "Use of AI in government administration: AI in administration",
+   "indicator_id": "tech.ai--use-of-ai-in-government-administration-ai-in-administration",
+   "class": "govai",
+   "norm_short": "The Continental AI Strategy asks for AI adopted in the public sector under a governance framework, with innovation-friendly procurement and use cases shared and reported.",
+   "criteria": [
+    "A source from the past three years says no AI system is in use in public administration.",
+    "A government body has tendered, piloted or is testing an AI system for its own work or its services.",
+    "A government body uses an AI system in service, such as a chatbot for a public service or AI processing documents.",
+    "AI systems are in service in two or more government bodies, or one government-wide AI platform serves several.",
+    "The government has issued rules for its own use or purchase of AI, or published a register of its AI systems."
+   ],
+   "criteria_of": "dc61bb5f9111"
+  }
+ ],
+ "classes": [
+  "govai",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "use",
+   "name": "AI in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "bodies",
+   "name": "Several bodies",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "rules",
+   "name": "Rules or register",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "rules"
+   ],
+   "values": [
+    "rules"
+   ]
+  }
+ ],
+ "flags": []
+}

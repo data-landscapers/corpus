@@ -18,6 +18,42 @@
      "note": "No number at birth is mentioned."
     }
    }
+  },
+  "aiabuse": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap op-ed states plans only; no AI rule, AI in service, sector AI tool or AI computing named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap op-ed states plans only; no AI rule, AI in service, sector AI tool or AI computing named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap op-ed states plans only; no AI rule, AI in service, sector AI tool or AI computing named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap op-ed states plans only; no AI rule, AI in service, sector AI tool or AI computing named."
+    }
+   }
   }
  }
 }

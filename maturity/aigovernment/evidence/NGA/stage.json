@@ -1,0 +1,17 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "govai",
+   "stage": "3",
+   "use": "inservice",
+   "bodies": "",
+   "rules": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-001;NGA-002",
+   "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
+   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
+  }
+ ]
+}

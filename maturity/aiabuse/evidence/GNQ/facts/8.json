@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-27-guinea-ecuatorial-ley-inteligencia-artificial-aniad",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Ministry of Transport, Telecommunications and AI Systems is drafting an AI law (anteproyecto) that would make ANIAD, the national AI and data authority, an autonomous state body supervised by the ministry, as reported on 27 August 2025.",
+   "as_of": "2025-08-27",
+   "date_precision": "day",
+   "system": "Autoridad Nacional de Inteligencia Artificial y Datos (ANIAD)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIAD",
+   "country_label": "Autoridad Nacional de Inteligencia Artificial y Datos",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Ministerio de Transportes, Telecomunicaciones y Sistemas de Inteligencia Artificial",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

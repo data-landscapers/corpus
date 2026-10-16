@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-27-consulta-publica-do-minttics-proposta-de-lei-sobre-a-inteligencia-artificial",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal lists a draft AI bill and consultation counts but states no harm, authority or use content."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

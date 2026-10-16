@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-wearetech-benin-paludisme-ia-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Benin's health ministry awarded a public contract for 20 AI-assisted miLab MAL malaria diagnostic devices for main referral hospitals, after the national malaria programme classified it as a point-of-service diagnostic, per South Korean media reports.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "miLab MAL",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "miLab MAL",
+   "country_label": "Benin",
+   "class": "sectorai",
+   "platform": "Noul",
+   "owner": "Ministry of Health / PNLP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

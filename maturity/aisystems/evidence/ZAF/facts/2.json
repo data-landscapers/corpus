@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "UNDP says it deployed country-hosted AI compute capacity in South Africa under its AI Infrastructure Activation programme.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "UNDP country-hosted AI compute",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "UNDP's programme procured and deployed country-hosted GPU compute in South Africa.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "UNDP country-hosted AI compute",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNDP country-hosted AI compute",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "GPU",
+   "owner": "UNDP programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,13 @@
+# Egypt
+
+## AI built at home
+
+**Model, dataset or computing.** [The MCIT Applied Innovation Center built homegrown AI applications including the Karnak LLM, Loghat and Bel Masry, the minister said](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>). [Egypt's ICT minister said engineers and researchers at the ministry's Applied Innovation Center developed Karnak, the first national Arabic large language model, which according to international evaluation platforms tops Arabic models in the 30 and 40 billion parameter classes](<https://gate.ahram.org.eg/News/5894042.aspx>). [Vodafone Business and Cassava Technologies signed a partnership, attended by the communications minister, for Egypt's first sovereign AI data centre offering Nvidia-based GPU-as-a-Service hosted in Egypt](<https://www.maspero.eg/economy/2026/09/08/987328/%DA%A4%D9%88%D8%AF%D8%A7%D9%81%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%A7%D8%B3%D8%A7%D9%81%D8%A7-%D8%AA%D8%A4%D8%B3%D8%B3%D9%88%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1>). [MCIT says the AI Everything MEA summit in Egypt unveiled Egypt's Arabic LLM Karnak](<https://mcit.gov.eg/en/Media_Center/Latest_News/News/99046>).
+
+**AI computing.** No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest held fact: [the one given above](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>).
+
+**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.

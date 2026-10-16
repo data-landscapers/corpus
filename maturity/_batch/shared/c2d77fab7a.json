@@ -1,0 +1,81 @@
+{
+ "slug": "2026-07-01-cipit-ai-and-intellectual-property-in-africa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-08-dji-lobservateur-strategie-nationale-ia-2026-2030",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "The UNESCO readiness assessment found Djibouti had no legislative framework specifically for AI at the time, only data-protection provisions in the Code du numerique.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "not recorded",
+       "class": "not recorded"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

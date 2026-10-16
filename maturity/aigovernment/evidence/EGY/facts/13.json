@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Egypt's Ministry of Communications and Information Technology announced the pilot launch of Karnak Chat, a chatbot built on its Karnak model, open to users by web registration or a Google Play app.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Karnak Chat",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Karnak Chat",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "chatbot on the Karnak large language model",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

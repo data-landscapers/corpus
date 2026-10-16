@@ -1,0 +1,50 @@
+{
+ "slug": "2026-01-01-afrilabs-hub-directory-gambia",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "AfriLabs lists four Gambian hubs (Disruptive Lab, Gambia Tech, Startup Incubator, Jokkolabs) as open, with blurbs that name no incubation or acceleration programme or cohort.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "AfriLabs Gambia hub directory",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The Disruptive Lab",
+   "country_label": "Gambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "The Disruptive Lab",
+   "tiers": ""
+  },
+  {
+   "system": "Gambia Tech Project",
+   "country_label": "Gambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "French Embassy and Alliance of Banjul",
+   "tiers": ""
+  },
+  {
+   "system": "Startup Incubator Gambia",
+   "country_label": "Gambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Startup Incubator Center",
+   "tiers": ""
+  },
+  {
+   "system": "Jokkolabs",
+   "country_label": "Gambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Jokkolabs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

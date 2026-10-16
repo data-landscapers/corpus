@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-18-zambia-turns-to-ai-to-hit-tourism-target",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an emphasis on responsible AI at a symposium; no rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Symposium only; no government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a public sector system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI build stated."
+    }
+   }
+  }
+ }
+}

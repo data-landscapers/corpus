@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-04-wearetech-djibouti-strategie-ia-2026-2030",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "The UNESCO-supported readiness diagnostic says no legislation dedicated to AI was in place in Djibouti, beyond the data protection framework of the Code du numerique.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "UNESCO AI readiness assessment",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

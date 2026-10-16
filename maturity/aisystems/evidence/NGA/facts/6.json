@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-nigeria-tops-africa-girai-responsible-ai-index",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "iAfrica reports that Nigerian startup Awarri developed African language datasets and speech technologies and was technical partner behind Nigeria's N-ATLAS national language model.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "N-ATLAS",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N-ATLAS",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "Awarri Technologies (technical partner)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

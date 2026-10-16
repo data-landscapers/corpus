@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-12-three-digital-policies-signed-lestimes",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Signing of an AI Policy with guidelines only; no binding rule, tool or capacity stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Signing of an AI Policy with guidelines only; no binding rule, tool or capacity stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Signing of an AI Policy with guidelines only; no binding rule, tool or capacity stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Signing of an AI Policy with guidelines only; no binding rule, tool or capacity stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "slug": "2026-09-23-zaf-uct-r101m-ai-microscopy-africa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Mbarara University of Science and Technology leads the image-analysis and machine-learning work of the Wellcome-funded openScopes AIDDiA programme, which is building data pipelines and machine-learning tools for microscopy images.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "openScopes AIDDiA",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "openScopes AIDDiA",
+       "country_label": "Uganda",
+       "class": "localai",
+       "platform": "",
+       "owner": "Mbarara University of Science and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country."
+    }
+   }
+  }
+ }
+}

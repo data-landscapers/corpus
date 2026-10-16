@@ -1,0 +1,41 @@
+{
+ "slug": "2026-05-25-dz-aps-strategie-nationale-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft AI strategy only; no rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy draft and a digital-services portal plan; no AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

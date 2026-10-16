@@ -1,0 +1,61 @@
+{
+ "slug": "2026-02-18-lesotho-sesotho-word-bank-ai-training",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The National University of Lesotho is compiling a Sesotho word bank to train AI systems, in a follow-up meeting with UNDP and the Ministry of Information, Communications, Science, Technology and Innovation.",
+       "as_of": "2026-02-18",
+       "date_precision": "day",
+       "system": "Sesotho word bank",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sesotho word bank",
+       "country_label": "Lesotho",
+       "class": "localai",
+       "platform": "",
+       "owner": "National University of Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

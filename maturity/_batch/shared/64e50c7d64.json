@@ -1,0 +1,63 @@
+{
+ "slug": "2025-04-02-uganda-startup-income-tax-exemption",
+ "studies": {
+  "startups": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "We Are Tech Africa reports Uganda proposes a three-year income tax exemption for startups as part of proposed amendments to the 2025 Income Tax Bill.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Income Tax (Amendment) Bill 2025",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Income Tax Bill 2025 startup exemption",
+       "country_label": "Uganda",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "We Are Tech Africa says the state established the National ICT Innovation Hub, providing internet connectivity and workspace for tech entrepreneurs, with no programme or cohort described.",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "National ICT Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Innovation Hub",
+       "country_label": "Uganda",
+       "class": "hub",
+       "platform": "",
+       "owner": "Government of Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

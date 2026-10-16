@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Communication Technologies Minister Sofien Hemissi said his ministry has begun drafting legal and regulatory frameworks for responsible use of AI, protecting data and privacy.",
+   "as_of": "2026-05-23",
+   "date_precision": "day",
+   "system": "legal and regulatory frameworks for responsible AI use",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

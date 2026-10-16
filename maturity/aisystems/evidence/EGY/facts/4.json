@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-egypt-mcit-ai-capacity-building-universities",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ICT minister says the ministry's Applied Innovation Center is developing the Karnak model, a large Arabic-language model.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Karnak",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Karnak",
+   "country_label": "Egypt",
+   "class": "localai",
+   "platform": "large Arabic language model",
+   "owner": "Applied Innovation Center, Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

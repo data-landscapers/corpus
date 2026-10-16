@@ -1,0 +1,16 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "3",
+   "exports": "official:0.3994",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-005",
+   "gaps": "The latest figure, 0.3994 per cent of GDP for 2025, is below 0.5 per cent.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

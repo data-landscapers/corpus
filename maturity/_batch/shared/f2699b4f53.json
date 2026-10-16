@@ -1,0 +1,41 @@
+{
+ "slug": "2025-04-07-fibre-optics-boost-ai-onecitizendaily",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre tender and data-centre intentions only; no AI rule, system in use, or AI computing named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre tender and data-centre intentions only; no AI rule, system in use, or AI computing named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre tender and data-centre intentions only; no AI rule, system in use, or AI computing named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre tender and data-centre intentions only; no AI rule, system in use, or AI computing named."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-23-angola-passes-landmark-start-up-law",
+ "studies": {
+  "startups": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Angola's parliament unanimously passed a start-up law defining startups with a maximum annual revenue cap of $3.5 million and no minimum, according to ITWeb Africa and the Minister of Industry and Commerce.",
+       "as_of": "2026-03-23",
+       "date_precision": "day",
+       "system": "Angola start-up law",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no hub, incubator or park."
+    }
+   }
+  }
+ }
+}

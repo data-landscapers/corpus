@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-21-lefaso-sawadogo-ai-governance-profile",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A researcher profile; it states no rule, authority, government AI use, sectoral AI system or local AI capacity."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A researcher profile; it states no rule, authority, government AI use, sectoral AI system or local AI capacity."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A researcher profile; it states no rule, authority, government AI use, sectoral AI system or local AI capacity."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A researcher profile; it states no rule, authority, government AI use, sectoral AI system or local AI capacity."
+    }
+   }
+  }
+ }
+}

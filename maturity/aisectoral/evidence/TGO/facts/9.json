@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-12-togo-lancement-digital-market-intelligence-mobilisation-ressources-publiques",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Togo-Presse reports the minister of Economy put the Digital Market Intelligence platform, built by SICPA, into service on 12 March 2026, using AI and data analysis to detect suspicious transactions and fraud and smuggling, run from a command centre staffed by tax, customs and commerce services.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Digital Market Intelligence",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Market Intelligence",
+   "country_label": "Togo",
+   "class": "sectorai",
+   "platform": "SICPA SA",
+   "owner": "Ministere de l'Economie et de la Veille strategique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

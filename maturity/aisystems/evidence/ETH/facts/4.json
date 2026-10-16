@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-07-eth-2026-144",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Ethiopia's 2026/27 federal budget proclamation, per the Ministry of Finance workbook, appropriates ETB 162,080,000 from the Treasury to the Artificial Intelligence Institution for National Artificial Intelligence Datacenter Deployment and ETB 170,000,000 for a National Artificial Intelligence Research Laboratory.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Datacenter Deployment",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Datacenter Deployment",
+   "country_label": "Ethiopia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Artificial Intelligence Institution",
+   "tiers": ""
+  },
+  {
+   "system": "National Artificial Intelligence Research Laboratory",
+   "country_label": "Ethiopia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Artificial Intelligence Institution",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

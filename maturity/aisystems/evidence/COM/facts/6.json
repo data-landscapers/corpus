@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-comores-ia-mariama-madi-american-corner-lagazettedescomores",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "A CNDRS researcher presented two AI early-warning models for Comorian conditions, one for juvenile delinquency and one for Karthala seismovolcanic changes, simulated on real data and not deployed, per La Gazette des Comores.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "CNDRS AI early-warning models",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDRS AI early-warning models",
+   "country_label": "Comoros",
+   "class": "localai",
+   "platform": "",
+   "owner": "CNDRS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

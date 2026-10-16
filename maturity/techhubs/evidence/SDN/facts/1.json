@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-sudan-afdb-igad-entrepreneurship-innovation-project-uofk-hub",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Sudan Ministry of Finance, the AfDB and IGAD launched the national component of a regional entrepreneurship project (about US$3.255 million) implemented on the ground through the University of Khartoum's Entrepreneurship Incubator Center, with the implementation guide and work plan still to be approved.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "University of Khartoum Entrepreneurship Incubator Center",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University of Khartoum Entrepreneurship Incubator Center",
+   "country_label": "Sudan",
+   "class": "hub",
+   "platform": "",
+   "owner": "University of Khartoum",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

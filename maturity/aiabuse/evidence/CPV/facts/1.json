@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-27-cabo-verde-cnpd-declaracao-conjunta-conteudo-gerado-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Comissao Nacional de Protecao de Dados (CNPD)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "CNPD",
+   "tiers": ""
+  }
+ ],
+ "note": "The CNPD subscribed to a joint declaration of data authorities; it is regulator guidance with no stated legal effect and no AI-specific mandate."
+}

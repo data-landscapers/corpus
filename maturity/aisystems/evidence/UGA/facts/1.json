@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-23-zaf-uct-r101m-ai-microscopy-africa",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Mbarara University of Science and Technology leads the image-analysis and machine-learning work of the Wellcome-funded openScopes AIDDiA programme, which is building data pipelines and machine-learning tools for microscopy images.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "openScopes AIDDiA",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "openScopes AIDDiA",
+   "country_label": "Uganda",
+   "class": "localai",
+   "platform": "",
+   "owner": "Mbarara University of Science and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

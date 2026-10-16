@@ -1,0 +1,47 @@
+{
+ "slug": "2025-06-24-google-for-startups-accelerator-africa-class-9",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a startup's health app; no public body."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a startup's agriculture product; no public body."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No state measure for startups stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No state measure for startups stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "A Google programme with an Ethiopian startup; no hub in the country stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Google programme with a Senegalese startup; no hub in the country stated."
+    }
+   }
+  }
+ }
+}

@@ -1,10 +1,115 @@
-{"slug":"2026-09-10-mar-librentreprise-tamwilcom-347-mdh-startups","studies":{
-"businesspayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Article is about startup venture funding only."}}},
-"centralbank":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"consumerprotection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"crossborderpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"g2ppayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"paymentsuptake":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"retailpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
-"revenuecollection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}}
-}}
+{
+ "slug": "2026-09-10-mar-librentreprise-tamwilcom-347-mdh-startups",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about startup venture funding only."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Decree 2.26.576 of 3 August 2026 authorises Tamwilcom to take stakes for the Fonds Catalytique Startups in funds investing in startups, capped at 347 million dirhams over three years, under the Digital Morocco 2030 strategy.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Fonds Catalytique Startups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fonds Catalytique Startups",
+       "country_label": "Morocco",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Tamwilcom",
+       "tiers": ""
+      }
+     ],
+     "note": "No startups labelled and no investment made is stated; nine fund managers are only pre-selected."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about a startup fund; no hub or park stated."
+    }
+   }
+  }
+ }
+}

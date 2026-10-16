@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-bangui-hub-a-propos",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Fondation Bangui Hub says it was created in 2023 as the first incubator for youth and diaspora in the Central African Republic and has trained over 300 entrepreneurs.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Fondation Bangui Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fondation Bangui Hub",
+   "country_label": "République Centrafricaine",
+   "class": "hub",
+   "platform": "",
+   "owner": "Fondation Bangui Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

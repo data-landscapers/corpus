@@ -1,0 +1,61 @@
+{
+ "slug": "2026-08-01-drc-enabel-onem-ai-digital-platform-tender",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Enabel tendered a contract published 2026-08 (offers due 2026-09-07) to develop and deploy AI modules for an AI-driven job-matching platform of ONEM, the DRC national employment office.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "ONEM AI job-matching platform",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONEM AI job-matching platform",
+       "country_label": "DRC",
+       "class": "govai",
+       "platform": "ONEM digital platform",
+       "owner": "ONEM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  }
+ }
+}

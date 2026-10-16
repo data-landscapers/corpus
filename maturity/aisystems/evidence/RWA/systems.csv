@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
+RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries

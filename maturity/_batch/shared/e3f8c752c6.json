@@ -1,0 +1,80 @@
+{
+ "slug": "2026-07-31-seychelles-national-ai-in-education-framework-2026-2030",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "The Cabinet-approved AI in Education Framework establishes a National AI in Education Steering Committee that approves AI tools for schools, ensures compliance on ethics and data protection, and keeps approved and prohibited AI tool lists (State House).",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "National AI in Education Steering Committee",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Ministry of Education is implementing two World Bank AI pilots: an AI Teacher Coach Programme for Primary 5 and 6 teachers in six schools and an AI Student Tutor Programme for Secondary 3 Mathematics and Geography in four schools (State House).",
+       "as_of": "2026-07-31",
+       "date_precision": "day",
+       "system": "AI Teacher Coach and AI Student Tutor pilots",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI Teacher Coach Programme",
+       "country_label": "Seychelles",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of Education and Human Resource Development",
+       "tiers": ""
+      },
+      {
+       "system": "AI Student Tutor Programme",
+       "country_label": "Seychelles",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of Education and Human Resource Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  }
+ }
+}

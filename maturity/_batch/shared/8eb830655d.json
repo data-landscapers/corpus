@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-24-lbr-liberianobserver-saamoi-aacb-ai-central-banking",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Central Bank of Liberia's governor said the bank is at an early stage of AI adoption and moving from experimentation to a more structured approach.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "CBL AI adoption",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  }
+ }
+}

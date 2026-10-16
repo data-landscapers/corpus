@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-17-somalia-ai-readiness-assessment-hormuud-university",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a readiness assessment and a university degree are stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a readiness assessment and a university degree are stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a readiness assessment and a university degree are stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a readiness assessment and a university degree are stated."
+    }
+   }
+  }
+ }
+}

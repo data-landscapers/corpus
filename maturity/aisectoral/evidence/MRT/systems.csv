@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle,Mauritanie,sectorai,,"Office National de la Météorologie, with UNDP",,2026-01-14-ami-onm-pnud-systeme-alerte-precoce-agrometeorologique-ia-rosso
+MRT,HydroMet AI,Mauritania,sectorai,"AWS microservices, stacked LSTM with Isolation Forest and SWAT","UNDP Mauritania, operated with the National Meteorological Office",national,2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal
+MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Autorite nationale de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
+MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Office national de la météorologie,,2026-09-08-mrt-ami-onm-agrifemia-alerte-precoce-ia

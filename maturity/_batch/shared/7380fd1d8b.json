@@ -1,0 +1,81 @@
+{
+ "slug": "2026-07-30-cipit-east-african-ai-policy-outlook-report",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about this country by name."
+    }
+   }
+  }
+ }
+}

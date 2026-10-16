@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-prb-report-2026-digitalisation-ai-readiness",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Pay Research Bureau reports the existing Government Chatbot will be revamped as DIVA, with AI agents, and rolled out in a phased manner in a few ministries and departments first.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Digital Interactive Virtual Assistant (DIVA)",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Pay Research Bureau refers to an existing Government Chatbot, to be revamped into DIVA.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Government Chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Interactive Virtual Assistant (DIVA)",
+   "country_label": "Mauritius",
+   "class": "govai",
+   "platform": "chatbot with AI agents",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

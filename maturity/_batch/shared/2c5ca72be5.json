@@ -1,0 +1,41 @@
+{
+ "slug": "2025-09-25-lesahel-colloque-desinformation-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Colloquium only; no rule, system or tool stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Colloquium only; no rule, system or tool stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Colloquium only; no rule, system or tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Colloquium only; no rule, system or tool stated."
+    }
+   }
+  }
+ }
+}

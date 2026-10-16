@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-01-uganda-national-ai-landscape-assessment",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "The MoICT/ITU assessment lists a lack of AI policy, legal and regulatory framework among its major findings.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system in use is stated in the captured part."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool is stated in the captured part."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a lack of AI infrastructure and a recommendation to invest in HPC; no model, dataset or computing is stated as built or absent."
+    }
+   }
+  }
+ }
+}

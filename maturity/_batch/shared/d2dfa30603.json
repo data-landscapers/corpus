@@ -1,0 +1,41 @@
+{
+ "slug": "2024-11-21-zambia-national-artificial-intelligence-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy and governance plans only; no rule in force, system in service or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy and governance plans only; no rule in force, system in service or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy and governance plans only; no rule in force, system in service or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy and governance plans only; no rule in force, system in service or build stated."
+    }
+   }
+  }
+ }
+}

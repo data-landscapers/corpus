@@ -1,0 +1,41 @@
+{
+ "slug": "2026-03-30-sudan-pm-ai-bachelor-directive-hospital-digitisation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no AI system in government use; hospital digitisation is a records system, not AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The hospital directive is an electronic medical records system with no AI named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI degree programme is skills, not AI capacity built in the country."
+    }
+   }
+  }
+ }
+}

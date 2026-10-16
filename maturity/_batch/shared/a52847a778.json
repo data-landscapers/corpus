@@ -141,6 +141,24 @@
      "note": ""
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a UN agency grant to one company; no state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park is described."
+    }
+   }
   }
  }
 }

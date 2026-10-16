@@ -1,0 +1,61 @@
+{
+ "slug": "2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data-protection fine on Meta is not stated as a rule on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI.",
+       "as_of": "2026-05-21",
+       "date_precision": "day",
+       "system": "GovGuide Nigeria",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovGuide Nigeria",
+       "country_label": "Nigeria",
+       "class": "govai",
+       "platform": "Meta Llama",
+       "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Chatbot uses foreign Llama models; no local model, dataset or compute stated."
+    }
+   }
+  }
+ }
+}

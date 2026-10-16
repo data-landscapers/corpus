@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-saboutech-incubateur-innovation-guinee",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Saboutech, described as Guinea's first incubator in Conakry, runs the #Tremplin one-year incubation and the #JePrendsMonEnvol 12-24 month acceleration, and says it has incubated 35+ startups since 2016.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Saboutech",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Saboutech",
+       "country_label": "Guinea",
+       "class": "hub",
+       "platform": "incubator, 1000 m2 third place in Conakry",
+       "owner": "Saboutech",
+       "tiers": "incubation; acceleration"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

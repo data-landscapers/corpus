@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-13-jamiat-gharyan-solidworks-markaz-al-riyada-wal-ibtikar",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only university software deals; no state startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Libya's Gharyan University signed a memorandum with Dassault Systemes and ABBK PhysicsWorks for SolidWorks licences and certification training at its Entrepreneurship and Innovation Centre, open to entrepreneurs and startup owners from inside and outside the university, reported 13 February 2026 citing the Ministry of Higher Education.",
+       "as_of": "2026-02-13",
+       "date_precision": "day",
+       "system": "Gharyan University Entrepreneurship and Innovation Centre",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gharyan University Entrepreneurship and Innovation Centre",
+       "country_label": "Libya",
+       "class": "hub",
+       "platform": "",
+       "owner": "Gharyan University",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

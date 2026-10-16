@@ -1,0 +1,63 @@
+{
+ "slug": "2026-01-08-miary-digital-cohort-2-grants",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "Programme Miary Digital, run under Madagascar's ministries with World Bank support, gave 26 startups USD 15,000 grants each in its second cohort, from 320 applications.",
+       "as_of": "2026-01-08",
+       "date_precision": "day",
+       "system": "Miary Digital",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Miary Digital",
+       "country_label": "Madagascar",
+       "class": "startuppolicy",
+       "platform": "incubation and grant programme",
+       "owner": "Government of Madagascar (MEF, MIC, MNDPT) with World Bank, via PIC project",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Orange Digital Center Madagascar, one of 3 incubators in Miary Digital, incubated 10 startups in the south that received USD 15,000 grants each, after over 9 months of support.",
+       "as_of": "2026-01-08",
+       "date_precision": "day",
+       "system": "Orange Digital Center Madagascar",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Digital Center Madagascar",
+       "country_label": "Madagascar",
+       "class": "hub",
+       "platform": "incubator",
+       "owner": "Orange",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

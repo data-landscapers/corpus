@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-08-maroc-mtnra-expose-commission-justice-idaratiia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The digital transition minister told the Chamber of Representatives of the launch of the AI-based project IdaratiIA, within the Idarati digital public services programme.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "IdaratiIA",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IdaratiIA",
+       "country_label": "Morocco",
+       "class": "govai",
+       "platform": "",
+       "owner": "Ministry of Digital Transition and Administration Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "IdaratiIA is general administration, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "JAZARI ROOT is an institute launch; no model, dataset or computing is stated."
+    }
+   }
+  }
+ }
+}

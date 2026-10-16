@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "hub",
+   "stage": "2",
+   "hubs": "underway",
+   "cities": "",
+   "park": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-001;CIV-002",
+   "gaps": "No source held since October 2023 says: does a hub run programmes for startups.",
+   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
+  }
+ ]
+}

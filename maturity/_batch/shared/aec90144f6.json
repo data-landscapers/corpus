@@ -1,0 +1,6 @@
+{"slug": "2026-09-21-itweb-fpb-ai-oversight-streaming", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The FPB's mandate and fines are under the Films and Publications Act, not stated to address AI harms."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The FPB has approved an AI strategy but says generative AI is not yet implemented, with no tender or pilot stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool is in use or being built."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing in South Africa is named."}}}
+}}

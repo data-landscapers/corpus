@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-09-shabait-innovation-hub-nueys-youth-entrepreneurship",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, strategy or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Eritrea Ministry of Information's Shabait says the NUEYS Youth Innovation and Entrepreneurship Hub, established in 2023, runs a three-level training programme of six months per level in electronics, Python, Scratch, robotics and soldering for mainly Grade 9-11 students.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Youth Innovation and Entrepreneurship Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Youth Innovation and Entrepreneurship Hub",
+       "country_label": "Eritrea",
+       "class": "hub",
+       "platform": "",
+       "owner": "National Union of Eritrean Youth and Students",
+       "tiers": "three levels"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

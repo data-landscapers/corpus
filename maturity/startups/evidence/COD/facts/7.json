@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-drc-government-suspends-new-digital-tax-schedule",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "DecryptEco reports that ordonnance-loi n°22/030 of 8 September 2022 provides a framework for promoting entrepreneurship, start-ups and SMEs, and that article 384 of the Code du numérique makes start-ups with entreprenant status eligible for tax, customs and exchange advantages.",
+   "as_of": "2022-09-08",
+   "date_precision": "day",
+   "system": "Ordonnance-loi n°22/030",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ordonnance-loi n°22/030",
+   "country_label": "DRC",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

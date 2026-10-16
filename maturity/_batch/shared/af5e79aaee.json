@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-14-mar-moroccopost-startup-catalytic-fund-258m",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Decree No. 2.26.576 of 3 August 2026 strengthened the regulatory framework of the Startup Catalytic Fund, set up by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom, with $36 million public money over three years into venture capital funds, per The Morocco Post.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Startup Catalytic Fund",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Catalytic Fund",
+       "country_label": "Morocco",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Digital Transition and Administration Reform; managed by Tamwilcom",
+       "tiers": ""
+      }
+     ],
+     "note": "No investment by the funds yet; next phase is fundraising and startup selection."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers a venture capital mechanism, no hub or park."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-makerere-afriventia-fintech-fridays",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Makerere Innovation and Incubation Center is stated to provide mentorship, research support and business development to technology startups, with no cohort programme described, as it launched Fintech Fridays with Afriventia Group.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Makerere Innovation and Incubation Center",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Makerere Innovation and Incubation Center",
+   "country_label": "Uganda",
+   "class": "hub",
+   "platform": "",
+   "owner": "Makerere University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

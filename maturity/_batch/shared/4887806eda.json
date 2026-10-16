@@ -1,0 +1,61 @@
+{
+ "slug": "2026-03-11-ncai-reviews-national-ai-strategy-progress-adopts-governance-framework",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Adopted governance framework and guidelines are not stated to have legal effect; no rule, designation by decree or enforcement stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system in use described."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system described."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "MCIT says the AI Everything MEA summit in Egypt unveiled Egypt's Arabic LLM Karnak.",
+       "as_of": "2026-03-11",
+       "date_precision": "day",
+       "system": "Karnak",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Karnak",
+       "country_label": "Egypt",
+       "class": "localai",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-09-dgb-gov-ai-cenadi-intelligence-artificielle-gouvernementale",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Direction Generale du Budget reports that GOV-AI runs only on local servers, hosted in Cameroon on CENADI's national infrastructure, and is available now through the nGomna app.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "GOV-AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "La Nation, reporting the UNESCO-supported readiness assessment, says no law specifically addresses artificial intelligence in Djibouti to date, the Code du numerique being a data-protection frame.", "as_of": "2026-08-26", "date_precision": "day", "system": "Code du numerique", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [], "systems": [{"system": "Djibouti Ports Community System", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only a nascent AI use in port logistics (Corridor Vision AI) is mentioned, with no public sector system or output stated."}}},
+"aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}}
+}}

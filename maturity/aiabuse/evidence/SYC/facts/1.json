@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-31-seychelles-national-ai-in-education-framework-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "The Cabinet-approved AI in Education Framework establishes a National AI in Education Steering Committee that approves AI tools for schools, ensures compliance on ethics and data protection, and keeps approved and prohibited AI tool lists (State House).",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "National AI in Education Steering Committee",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

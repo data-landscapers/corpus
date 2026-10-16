@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-10-grain-west-africa-ai-governance-comparative-study",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "GRAIN's comparative study says Burkina Faso's personal data protection law is the only one of the four countries' to explicitly reference processing based on artificial intelligence.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Burkina Faso personal data protection law",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

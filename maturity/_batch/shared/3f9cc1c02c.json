@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-28-itwebafrica-mozambique-amia-launch-data-governance-policy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers an AI association launch and a data governance policy under development; nothing on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers an AI association launch and a data governance policy under development; nothing on this question."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers an AI association launch and a data governance policy under development; nothing on this question."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers an AI association launch and a data governance policy under development; nothing on this question."
+    }
+   }
+  }
+ }
+}

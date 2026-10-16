@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-gin-lepunch-ia-atelier-diagnostic-absence-loi",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "The ministry's secretary-general says Guinea has no legislative or regulatory framework on AI and has adopted no AI-specific law.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

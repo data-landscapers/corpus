@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-al-hadina-al-tiknulujiyya-al-barnamaj-al-watani-lil-mashruat",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Page describes one incubator's own services; states no startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The National Programme for Micro and Small Enterprises' technology incubator in Tripoli runs an incubation programme with training, incubation contracts, quarterly reviews and a possible launch grant for tech projects.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "الحاضنة التكنولوجية",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "الحاضنة التكنولوجية",
+       "country_label": "Libya",
+       "class": "hub",
+       "platform": "",
+       "owner": "البرنامج الوطني للمشروعات الصغرى والمتوسطة",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

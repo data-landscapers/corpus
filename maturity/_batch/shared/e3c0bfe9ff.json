@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-29-car-social-media-ai-state-response-critique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; names no AI-specific rule in force, government AI use, sectoral tool or local AI capacity."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; names no AI-specific rule in force, government AI use, sectoral tool or local AI capacity."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; names no AI-specific rule in force, government AI use, sectoral tool or local AI capacity."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; names no AI-specific rule in force, government AI use, sectoral tool or local AI capacity."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-05-sierra-leone-mocti-tieac-inaugural-meeting",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "MoCTI says Felei Tech City, a smart city and innovation hub in Bo District, has land secured and AfDB-funded feasibility studies under way.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "Felei Tech City",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Felei Tech City",
+   "country_label": "Sierra Leone",
+   "class": "hub",
+   "platform": "",
+   "owner": "MoCTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

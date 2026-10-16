@@ -1,0 +1,61 @@
+{
+ "slug": "2026-09-08-maspero-vodafone-elsewedy-cassava-egypt-data-centre",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Vodafone Business and Cassava Technologies signed a partnership, attended by the communications minister, for Egypt's first sovereign AI data centre offering Nvidia-based GPU-as-a-Service hosted in Egypt.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "sovereign AI data centre",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Egypt sovereign AI data centre",
+       "country_label": "Egypt",
+       "class": "localai",
+       "platform": "GPU-as-a-Service",
+       "owner": "Vodafone Business and Cassava Technologies",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

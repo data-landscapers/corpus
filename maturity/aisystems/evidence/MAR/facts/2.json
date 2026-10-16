@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Tech Review Africa reports the Ministry of Digital Transition and Mistral AI released in open source a language identification classifier for Arabic dialects including Darija and the Voxtral speech recognition model for Darija, under the AI Made in Morocco roadmap.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Voxtral Darija speech recognition model and dialect classifier",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voxtral ASR for Darija",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "open source",
+   "owner": "Ministry of Digital Transition and Administrative Reform with Mistral AI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

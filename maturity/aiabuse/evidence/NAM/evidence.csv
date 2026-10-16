@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,aiharm,rule,none,The NCRST authors state Namibia lacks comprehensive data protection and cybersecurity legislation and frameworks for AI governance.,2026-02,month,,aiharm,2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc,https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf

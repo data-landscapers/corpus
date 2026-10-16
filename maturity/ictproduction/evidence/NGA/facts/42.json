@@ -1,0 +1,57 @@
+{
+ "slug": "ref:wdi-ict-service-exports-gdp@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.0277",
+   "fact": "ICT service exports from Nigeria were 0.0277 per cent of GDP in 2021, by the World Bank's series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.0407",
+   "fact": "ICT service exports from Nigeria were 0.0407 per cent of GDP in 2022, by the World Bank's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.039",
+   "fact": "ICT service exports from Nigeria were 0.039 per cent of GDP in 2023, by the World Bank's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.0731",
+   "fact": "ICT service exports from Nigeria were 0.0731 per cent of GDP in 2024, by the World Bank's series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.0371",
+   "fact": "ICT service exports from Nigeria were 0.0371 per cent of GDP in 2025, by the World Bank's series.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

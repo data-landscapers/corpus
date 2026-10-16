@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-27-burundi-abadaad-ai-governance-data-ethics-workshop",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop and data-protection law only; no AI rule, government use or sector use stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop and data-protection law only; no AI rule, government use or sector use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop and data-protection law only; no AI rule, government use or sector use stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "AfriPrompt and MineGuard are named for a founder, but the document does not say they are developed or hosted in Burundi."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-aimnews-gainafrica-generative-ai-pilot",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "GAINAfrica's offline-first clinical decision-support system, built by partner OneTreck, is being tested in Benin, per AIM.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "GAINAfrica clinical decision-support system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAINAfrica clinical decision-support system",
+   "country_label": "Benin",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "GAINAfrica project",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

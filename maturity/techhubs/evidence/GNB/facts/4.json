@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-18-undp-kau-criar-innovation-hub-guinea-bissau",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "UNDP says Kau Criar, an innovation hub under Impact Hub Bissau's temporary management, is open to entrepreneurs with hot desks, meeting rooms, ecosystem gatherings and capacity building, its legal structure still to be concluded.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "Kau Criar",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kau Criar",
+   "country_label": "Guinea-Bissau",
+   "class": "hub",
+   "platform": "",
+   "owner": "Impact Hub Bissau (temporary management), initiated by UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

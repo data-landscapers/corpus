@@ -1,0 +1,16 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.0401",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

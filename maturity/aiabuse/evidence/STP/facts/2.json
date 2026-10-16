@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-unesco-sao-tome-ai-readiness-assessment-full-report",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "The UNESCO readiness report quotes the Minister of Education as saying no specific laws or regulations exist on the development, use and deployment of AI and no national AI ethics commission or other specific structure exists.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

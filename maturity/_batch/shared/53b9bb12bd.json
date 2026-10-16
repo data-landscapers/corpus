@@ -1,0 +1,55 @@
+{
+ "slug": "2025-07-31-boost-cv-startup-ecosystem-wearetech",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Secretary of State Pedro Lopes said Cape Verde has a dedicated start-up law with tax benefits.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Cape Verde start-up law",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "Lopes said the government funds around 100 start-ups, two co-founders each receiving six minimum salaries, and a $24 million Morabeza Fund targets youth- and women-led tech start-ups.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Cape Verde Digital / Morabeza Fund",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Lopes said the government opened a technology park; no programme or tenants are stated.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "technology park",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

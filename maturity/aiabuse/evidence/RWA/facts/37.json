@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "Rwanda's Cabinet approved on 8 June 2026 the creation of a National Artificial Intelligence Agency to strengthen the governance framework for AI across sectors.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Agency",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Agency",
+   "country_label": "Rwanda",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Cabinet of Rwanda",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

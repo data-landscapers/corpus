@@ -1,0 +1,37 @@
+{
+ "slug": "ref:wdi-ict-service-exports-gdp@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.5718",
+   "fact": "ICT service exports from Comoros were 0.5718 per cent of GDP in 2021, by the World Bank's series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.9259",
+   "fact": "ICT service exports from Comoros were 0.9259 per cent of GDP in 2022, by the World Bank's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  },
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.9279",
+   "fact": "ICT service exports from Comoros were 0.9279 per cent of GDP in 2023, by the World Bank's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

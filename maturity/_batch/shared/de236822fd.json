@@ -1,0 +1,61 @@
+{
+ "slug": "2026-02-25-mauritanie-conseil-ministres-decret-concours-numeriques-ia-recrutement-3000-agents",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers AI in recruitment, not a rule or authority on AI harms."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "AI is used in general public recruitment, not a sector's system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built or hosted in the country is named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The digital transition minister said AI will check candidate files, generate the questions and mark the papers in the competitive recruitment of 3,000 civil servants, with tools already tested in the past, under a draft decree approved by the Council of Ministers.",
+       "as_of": "2026-02-25",
+       "date_precision": "day",
+       "system": "Commission nationale des concours digital platform",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission nationale des concours platform",
+       "country_label": "Mauritania",
+       "class": "govai",
+       "platform": "digital competitive-exam platform",
+       "owner": "Commission nationale des concours",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

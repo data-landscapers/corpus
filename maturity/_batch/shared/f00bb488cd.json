@@ -1,0 +1,81 @@
+{
+ "slug": "2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on AI risks only; no rule or authority for Cameroon stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The director general of Cameroon's CNPS said it uses AI for biometric identification, automatic customer response and an e-wallet, presented at a Minpostel workshop on 17 February 2026.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "Caisse nationale de Prevoyance sociale (CNPS) AI solutions",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Caisse nationale de Prevoyance sociale (CNPS) AI solutions",
+       "country_label": "Cameroun",
+       "class": "govai",
+       "platform": "",
+       "owner": "CNPS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The CNPS director general said the pension fund runs a symbolic-AI system for automatic processing of old-age pension files, presented 17 February 2026.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "CNPS automated pension-file processing",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNPS automated pension-file processing",
+       "country_label": "Cameroun",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "CNPS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No local model, dataset or computing stated; the CNPS director general only urged local solutions."
+    }
+   }
+  }
+ }
+}

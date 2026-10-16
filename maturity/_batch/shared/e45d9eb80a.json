@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-17-dji-adi-telecom-ai-training-engineers",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Training course only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-mus-defimedia-ai-progress-regulation",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The blog by Vishal Askurn says the Bank of Mauritius has explored AI and machine-learning applications within its own operations, including document processing, information gathering, data analytics and forecasting.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Bank of Mauritius AI and machine-learning applications",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

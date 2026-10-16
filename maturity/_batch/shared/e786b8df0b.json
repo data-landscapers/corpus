@@ -1,0 +1,79 @@
+{
+ "slug": "2026-05-23-burkina24-sahal-tech-smart-innovation-hub-launch",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Competition for AI projects only; no public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training centre and AI competition; no model, dataset or compute stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Sahal Tech officially opened its Sahal Tech Smart Innovation Hub, a professional training and innovation centre, on 23 May 2026, with no incubation cohort stated.",
+       "as_of": "2026-05-23",
+       "date_precision": "day",
+       "system": "Sahal Tech Smart Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sahal Tech Smart Innovation Hub",
+       "country_label": "Burkina Faso",
+       "class": "hub",
+       "platform": "",
+       "owner": "Sahal Tech Innovation Labs (private)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

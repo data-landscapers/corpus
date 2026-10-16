@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "aiharm",
+   "stage": "2",
+   "rule": "draft",
+   "authority": "",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-002",
+   "gaps": "No source held since October 2023 says: is a rule on ai harms in force.",
+   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
+  }
+ ]
+}

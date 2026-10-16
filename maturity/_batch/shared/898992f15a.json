@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-02-moz-aim-uem-directrizes-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a university directive and a national AI strategy; no rule with legal effect on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a university directive; no government body's AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on AI in a sector's public system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on locally built AI models, datasets or compute."
+    }
+   }
+  }
+ }
+}

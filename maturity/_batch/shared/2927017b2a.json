@@ -1,0 +1,41 @@
+{
+ "slug": "2026-04-22-rstp-pnud-capacitacao-digitalizacao-inteligencia-artificial",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Training course only."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Training course only."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Training course only."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Training course only."
+    }
+   }
+  }
+ }
+}

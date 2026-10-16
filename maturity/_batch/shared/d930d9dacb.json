@@ -1,0 +1,43 @@
+{
+ "slug": "2025-12-22-orange-corners-sudan-demo-day-500m-sdg",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Fund is the Orange Corners Innovation Fund backed by the Dutch embassy and a private bank; no state law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "249Startups, a Sudanese ecosystem builder providing training and mentorship, concluded the 6th Orange Corners Sudan Demo Day with eight startups selected for funding, per MENA Startup Digest.",
+       "as_of": "2025-12-22",
+       "date_precision": "day",
+       "system": "249Startups Orange Corners",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "249Startups",
+       "country_label": "Sudan",
+       "class": "hub",
+       "platform": "",
+       "owner": "249Startups",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "2026-08-02-drc-communique-finances-surseance-arrete-015-startups",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "The DRC has a Startup Act, ordonnance-loi n 22/030 of 8 September 2022, whose article 50 gives startups tax advantages (Ministry of Finance communique).",
+       "as_of": "2022-09-08",
+       "date_precision": "day",
+       "system": "Startup Act (ordonnance-loi 22/030)",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The Ministry of Finance says labelled startups benefit from the tax advantages of the Startup Act article 50 and the digital code article 384, with implementing measures still being drafted.",
+       "as_of": "2026-08-01",
+       "date_precision": "day",
+       "system": "Startup Act (ordonnance-loi 22/030)",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act",
+       "country_label": "DRC",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of DRC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated"
+    }
+   }
+  }
+ }
+}

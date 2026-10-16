@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-22-somalia-national-startup-network",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only intellectual property legislation is mentioned as proposed; no startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Under the EU-funded, UNIDO-implemented BIC Somali Project, over 200 startups have received incubation support across three cohorts, the latest assisting 75 businesses.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "BIC Somali Project",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BIC Somali Project",
+       "country_label": "Somalia",
+       "class": "hub",
+       "platform": "",
+       "owner": "UNIDO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

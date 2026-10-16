@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "La Nation, reporting the UNESCO-supported readiness assessment, says no law specifically addresses artificial intelligence in Djibouti to date, the Code du numerique being a data-protection frame.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Code du numerique",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

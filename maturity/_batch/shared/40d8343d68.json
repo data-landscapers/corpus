@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-18-nga-thisday-smedan-koica-undp-ace-groundbreaking",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general MSME agency centre; no startup act, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "SMEDAN, with KOICA funding of $12 million and UNDP, broke ground on the Abuja Centre for Entrepreneurship, to host incubation space and support 500 young entrepreneurs and 400 start-ups.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "Abuja Centre for Entrepreneurship (ACE)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Abuja Centre for Entrepreneurship (ACE)",
+       "country_label": "Nigeria",
+       "class": "hub",
+       "platform": "",
+       "owner": "SMEDAN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-illimi-niger-lancement",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ILLIMI Niger, a joint Government of Niger and UN project, is building a digital data platform integrating ethical AI tools for predictive analyses to anticipate crises, launched with its first National Technical Group meeting.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "ILLIMI Niger",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ILLIMI Niger",
+   "country_label": "Niger",
+   "class": "sectorai",
+   "platform": "digital data platform with AI tools",
+   "owner": "UN Resident Coordinator's Office with HACP, MISPAT, DGPPD, CASEFSE, INS, ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

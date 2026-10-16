@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-10-wearetech-burundi-ia-seoul-ambitions",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only; no rule, use, build or compute in place stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only; no rule, use, build or compute in place stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only; no rule, use, build or compute in place stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only; no rule, use, build or compute in place stated."
+    }
+   }
+  }
+ }
+}

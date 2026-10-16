@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-dza-dzwatch-ai-strategy-implementation-phase",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "An updated draft decree creating a National Research Center for Artificial Intelligence and Data was approved for further legal procedures, and the Data and Infrastructure Committee set 17 infrastructure and 14 data operations for 2026 to localize AI applications (DZWatch).",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "National Research Center for Artificial Intelligence and Data",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

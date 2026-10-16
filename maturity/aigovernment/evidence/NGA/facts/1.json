@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "GovGuide Nigeria",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovGuide Nigeria",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "Meta Llama",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

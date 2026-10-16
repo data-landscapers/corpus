@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-01-togo-s-quiet-rise-as-a-startup-contender",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "African Business says Djanta Tech Hub, a 3,000 square metre campus in central Lome developed by the government with Co-Creation Hub, hosts an incubator, a coding academy, a fabrication laboratory and a programme for female entrepreneurs.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Djanta Tech Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djanta Tech Hub",
+   "country_label": "Togo",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Togo with Co-Creation Hub",
+   "tiers": ""
+  },
+  {
+   "system": "WoeLab",
+   "country_label": "Togo",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

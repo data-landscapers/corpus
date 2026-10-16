@@ -1,0 +1,61 @@
+{
+ "slug": "2026-08-20-itweb-absa-ai-chatbot-1-6m-users",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank's own AI chatbot and staff tools; no government user, rule or national AI build stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2025-10-09-unesco-somalia-ai-readiness-assessment-expert-call",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness assessment recruitment only; no rule, use or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness assessment recruitment only; no rule, use or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness assessment recruitment only; no rule, use or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness assessment recruitment only; no rule, use or build stated."
+    }
+   }
+  }
+ }
+}

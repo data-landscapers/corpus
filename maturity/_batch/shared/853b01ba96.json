@@ -1,0 +1,41 @@
+{
+ "slug": "2026-02-06-undp-frontier-tech-leaders-ml-bootcamp-graduation-liberia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training bootcamp and student capstone prototypes only; Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training bootcamp and student capstone prototypes only; Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training bootcamp and student capstone prototypes only; Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training bootcamp and student capstone prototypes only; Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  }
+ }
+}

@@ -81,6 +81,60 @@
      "note": "Strategy names plans only; no in-service or drafted item for this study."
     }
    }
+  },
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study for the country."
+    }
+   }
   }
  }
 }

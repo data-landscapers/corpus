@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-digital-transformation-chief-interview-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Karen Diallo, Director of Digital Transformation, says Cote d'Ivoire has passed a new startup law to ease startups' access to government contracts.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "startup law",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Diallo says a 'levelisation' process grants certified startups access to public markets.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "levelisation of certified startups",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

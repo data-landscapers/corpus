@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-tun-allafrica-lapresse-douane-ia-ciblage-fin-novembre",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Tunisian Customs said on 9 October 2026 that its AI risk-targeting integration is being implemented with Tunisian skills within the customs administration, due to enter operation at the end of November 2026.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "customs risk-management and selectivity system",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

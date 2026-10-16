@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-cote-divoire-afdb-parae-egovernment-financing",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Under the PARAE e-government loan, the AfDB finances an artificial intelligence hub and will equip Cote d'Ivoire with AI digital infrastructure, including high-performance computing and GPUs, per AfDB deputy director for West Africa Joseph Ribero.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "PARAE AI hub",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet d'appui au renforcement de l'administration electronique (PARAE)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire with AfDB, 60 billion FCFA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

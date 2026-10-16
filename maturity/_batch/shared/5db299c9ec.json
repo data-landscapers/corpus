@@ -1,0 +1,7 @@
+{"slug": "2026-08-10-rdc-taxes-numeriques-startups-exonerees-wearetech", "studies": {
+"startups": {"countries": {"COD": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "Article 384 of the Congolese Digital Code makes digital start-ups with entrepreneur status eligible for the tax, para-fiscal, customs and exchange advantages of the legislation on entrepreneurship and start-ups, per We are Tech.", "as_of": "2026-08-06", "date_precision": "day", "system": "Code du numerique, article 384", "class": "startuppolicy"},
+{"sub_indicator": "startuppolicy", "aspect": "labelled", "value": "labelled", "fact": "The Minister of Digital Economy confirmed on 6 August 2026 that start-ups are not subject to the levies of the interministerial digital tax order of 20 July, which stays in force.", "as_of": "2026-08-06", "date_precision": "day", "system": "Code du numerique, article 384", "class": "startuppolicy"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "No hub, incubator or park stated."}}}
+}}

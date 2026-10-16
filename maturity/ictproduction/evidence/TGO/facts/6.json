@@ -1,0 +1,17 @@
+{
+ "slug": "ref:wdi-ict-service-exports-gdp@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.4754",
+   "fact": "ICT service exports from Togo were 0.4754 per cent of GDP in 2020, by the World Bank's series.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

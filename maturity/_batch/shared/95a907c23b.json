@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-15-madagascar-cybercrime-law-revision-ai-cooperation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The cybercrime law revision is general and is not said to address AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only WAICO membership stated; no model, dataset or compute."
+    }
+   }
+  }
+ }
+}

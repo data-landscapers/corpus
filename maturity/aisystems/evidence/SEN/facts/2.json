@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-allo-goor-gi-ia-contenus-pedagogiques-certifies",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "APS reports that Senegalese startup Andakia presented Allo Goor Gi, an AI platform answering pupils' questions by phone call in Wolof and French without internet, built with the Ministry of National Education and hosted on servers in Senegal, according to its designer.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Allo Goor Gi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Allo Goor Gi",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "phone call, Wolof and French",
+   "owner": "Andakia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

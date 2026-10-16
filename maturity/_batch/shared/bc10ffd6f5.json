@@ -72,6 +72,44 @@
      "note": "Document states nothing answering this study."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a fintech regulatory sandbox and financial inclusion strategy; no startup act, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The RBZ Deputy Governor said the new Department of Digital Transformation and Fintech Innovation will oversee the creation of an Innovation Hub for developers, startups and financial institutions.",
+       "as_of": "2025-11-13",
+       "date_precision": "day",
+       "system": "Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Innovation Hub",
+       "country_label": "Zimbabwe",
+       "class": "hub",
+       "platform": "",
+       "owner": "Reserve Bank of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
   }
  }
 }

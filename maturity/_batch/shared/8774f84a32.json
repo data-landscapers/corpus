@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-27-tunisiefr-thedot-diaspora-entrepreneurs",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "The article says Tunisia's entrepreneurial ecosystem is carried by a pioneering Startup Act.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Tunisie.fr says The Dot's Dot Landing programme has supported 35 startups across two cohorts (27 with Region Ile-de-France, FIPA and MEET Africa 2; 8 with GIZ Tunisia) and opened applications for further cohorts.",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "Dot Landing",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "The Dot",
+       "country_label": "Tunisia",
+       "class": "hub",
+       "platform": "",
+       "owner": "The Dot",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

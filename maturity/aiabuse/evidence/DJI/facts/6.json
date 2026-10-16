@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-dji-lobservateur-strategie-nationale-ia-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "The UNESCO readiness assessment found Djibouti had no legislative framework specifically for AI at the time, only data-protection provisions in the Code du numerique.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "not recorded",
+   "class": "not recorded"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

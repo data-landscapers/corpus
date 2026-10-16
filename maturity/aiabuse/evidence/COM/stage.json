@@ -1,0 +1,17 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "aiharm",
+   "stage": "3",
+   "rule": "inforce",
+   "authority": "",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001",
+   "gaps": "No source held since October 2023 says a body is designated with a mandate over AI.",
+   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
+  }
+ ]
+}

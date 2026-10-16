@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-19-sudan-scps-privacy-gap-intro",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "A November 2025 decree established the Sudanese Data and Artificial Intelligence Authority and the Sudanese Cybersecurity Authority, though neither had issued binding rules as of mid-2026, per the SCPS article citing the AI Regulation Tracker.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Sudanese Data and Artificial Intelligence Authority",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Data and Artificial Intelligence Authority",
+   "country_label": "Sudan",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Government of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

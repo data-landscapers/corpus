@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-19-data-protection-africas-default-ai-policy-tool",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Seychelles is only listed among countries revising data protection laws; no draft, rule or authority on AI harms is stated for it."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on AI models, datasets or computing in Seychelles."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "startuppolicy",
+   "stage": "5",
+   "law": "adopted",
+   "labelled": "labelled",
+   "funded": "funded",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-startups.py."
+  }
+ ]
+}

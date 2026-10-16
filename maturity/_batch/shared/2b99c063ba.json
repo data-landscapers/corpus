@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-17-national-ai-roadmap-2026-2030-validated-techafricanews",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap only, no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap only, no AI system in use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap only."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roadmap only."
+    }
+   }
+  }
+ }
+}

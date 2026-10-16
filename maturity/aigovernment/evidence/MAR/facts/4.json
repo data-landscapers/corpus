@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-mar-detafour-siyada-raqmiya-dhaka-istinai",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The ministry unveiled on 2026-09-08 a sovereign AI platform whose first phase includes Idarati AI, a digital assistant guiding users through administrative procedures.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Idarati AI",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Idarati AI",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "sovereign unified AI platform",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

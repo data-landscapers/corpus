@@ -1,0 +1,62 @@
+{
+ "slug": "2026-10-10-nga-theliberalist-nigeria-needs-no-ai-law-it-already-has-one-the-liberalist",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "The article states that GAID Article 43, issued by the NDPC in 2025, applies to controllers deploying AI to process personal data and requires assessing disparate outcomes, and that section 37 of the NDPA 2023 bars decisions based solely on automated processing.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "General Application and Implementation Directive (GAID)",
+       "class": "aiharm"
+      },
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "The article states the Nigeria Data Protection Commission issued the GAID and applies the NDPA and GAID provisions on automated decisions and AI.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Nigeria Data Protection Commission",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

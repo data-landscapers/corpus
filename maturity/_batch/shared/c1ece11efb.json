@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Training workshop and a data platform; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Training workshop and a data platform; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Training workshop and a data platform; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Training workshop and a data platform; no AI system, rule or build stated."
+    }
+   }
+  }
+ }
+}

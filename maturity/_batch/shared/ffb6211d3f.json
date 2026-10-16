@@ -1,0 +1,59 @@
+{
+ "slug": "2026-03-12-tanzania-ventures-lab-launch",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A COSTECH programme, not a startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Daily News reports COSTECH launched the Tanzania Ventures Lab, implemented with DTBi, Buni Innovation Hub and Sahara Ventures, supporting about 250 startups a year to 2029 through structured acceleration programmes.",
+       "as_of": "2026-03-12",
+       "date_precision": "day",
+       "system": "Tanzania Ventures Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dar Teknohama Business Incubator (DTBi)",
+       "country_label": "Tanzania",
+       "class": "hub",
+       "platform": "",
+       "owner": "COSTECH",
+       "tiers": ""
+      },
+      {
+       "system": "Buni Innovation Hub",
+       "country_label": "Tanzania",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Sahara Ventures",
+       "country_label": "Tanzania",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

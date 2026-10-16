@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-24-infosgabon-moov-mia-assistant-vocal-sans-internet",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "MIA is an operator's product with no government user."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "MIA is an operator's product with no public body using it."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "MIA was developed with Black & Green but the source does not say the model is built or hosted in Gabon."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "2025-06-07-douanes-madagascar-modele-ia-cedia-midi",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rules or authority against AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "AI described is inside customs, a sector system; no general administration use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Midi Madagasikara says Malagasy customs presented results obtained through its Enhanced Risk Assessment (ERA) smart targeting system at an IMF panel.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Enhanced Risk Assessment (ERA)",
+       "class": "sectorai"
+      },
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Midi Madagasikara says the customs data and AI centre CEDIA, launched in May 2025, automates anomaly detection and refines risk-targeting tools.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "CEDIA",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Enhanced Risk Assessment (ERA)",
+       "country_label": "Madagascar",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Malagasy customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "CEDIA is an internal customs data-science lab; no model, dataset or AI computing stated."
+    }
+   }
+  }
+ }
+}

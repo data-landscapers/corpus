@@ -1,0 +1,6 @@
+{"slug": "2026-08-26-thereporter-lesotho-national-ai-strategy-data-centre-blueprint", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Draft AI policy and a workshop are stated, but no rule or authority addressing an AI harm."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Strategy and policy only; no government AI system stated."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "A data centre blueprint is discussed with no AI computing, model or dataset named."}}}
+}}

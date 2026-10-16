@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-30-douanes-et-fiscalit-la-tunisie-acc-l-re-l-usage-de-l-intelli",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A customs risk-identification learning model was simulated on 2025 data and found about 96.9 million dinars in additional amounts at a 49.23% detection rate, per the customs risk-management director.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "customs risk-identification model",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Finance Ministry IT Centre director general said a one-year Big Data and machine-learning tax-audit project, on local infrastructure and open-source tools, was at the bid-receipt stage.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Big Data tax-audit project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "customs risk-identification model",
+   "country_label": "Tunisia",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "General Directorate of Customs",
+   "tiers": ""
+  },
+  {
+   "system": "Big Data tax-audit project",
+   "country_label": "Tunisia",
+   "class": "sectorai",
+   "platform": "local infrastructure, open source",
+   "owner": "Finance Ministry IT Centre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

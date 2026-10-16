@@ -1,0 +1,81 @@
+{
+ "slug": "2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax risk-profiling tool; no rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "AI is inside the tax authority's own tax system, which is sectoral, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Angola's tax authority AGT, per its board chairman, is developing its own machine-learning system for risk-based tax enforcement, with testing begun in 2024 and prior-hearing notices possible from June 2026.",
+       "as_of": "2026-02-11",
+       "date_precision": "day",
+       "system": "AGT in-house AI system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AGT in-house AI system",
+       "country_label": "Angola",
+       "class": "sectorai",
+       "platform": "machine learning",
+       "owner": "AGT (Administração Geral Tributária)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024.",
+       "as_of": "2026-02-11",
+       "date_precision": "day",
+       "system": "AGT in-house AI system",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AGT in-house AI system",
+       "country_label": "Angola",
+       "class": "localai",
+       "platform": "machine learning",
+       "owner": "AGT (Administração Geral Tributária)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

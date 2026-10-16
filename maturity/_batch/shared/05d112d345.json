@@ -1,0 +1,141 @@
+{
+ "slug": "2026-08-25-aimnews-gainafrica-generative-ai-pilot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "GAINAfrica's offline-first clinical decision-support system, built by partner OneTreck, is being tested in Benin, per AIM.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "GAINAfrica clinical decision-support system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GAINAfrica clinical decision-support system",
+       "country_label": "Benin",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "GAINAfrica project",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The GAINAfrica project (Horizon Europe, La Sapienza) is testing a multilingual mobile app for crop-disease identification and precision agriculture in Tunisia, per AIM.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "GAINAfrica crop-disease app",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GAINAfrica crop-disease app",
+       "country_label": "Tunisia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "GAINAfrica project",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The GAINAfrica project (Horizon Europe, La Sapienza) is testing a multilingual mobile app for crop-disease identification and precision agriculture in Uganda, per AIM.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "GAINAfrica crop-disease app",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GAINAfrica crop-disease app",
+       "country_label": "Uganda",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "GAINAfrica project",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers the questions."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-20-aps-ecosysteme-startup-plateforme-labellisation",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "APS reports the startup law was adopted 'in January last', granting three years of tax exemption and easing access to finance and public procurement, with its implementing decree and the Ecosysteme Startup platform launched on 20 November 2025.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "loi sur les startups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ecosysteme Startup",
+       "country_label": "Senegal",
+       "class": "startuppolicy",
+       "platform": "labelling platform",
+       "owner": "Ministry of Communication, Telecommunications and Digital Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park named."
+    }
+   }
+  }
+ }
+}

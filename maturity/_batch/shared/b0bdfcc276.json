@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-05-rstp-business-incubator",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Page describes the incubator's own services; no startup law, strategy or public startup fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Royal Science and Technology Park says its Business Incubator offers startups co-working space, training, mentorship, IP, legal and fundraising support, with an application process; no cohort is stated.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "RSTP Business Incubator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSTP Business Incubator",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "Royal Science and Technology Park",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

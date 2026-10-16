@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Hemissi said his ministry, with the Agriculture, Water Resources and Fisheries ministry, has begun setting up a new version of the National Water Observatory giving real-time monitoring and short and medium-term forecasts, under the strategy's predictive-modelling priority for agriculture.",
+   "as_of": "2026-05-23",
+   "date_precision": "day",
+   "system": "Observatoire national de l'eau",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Observatoire national de l'eau",
+   "country_label": "Tunisie",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Agriculture, Water Resources and Fisheries with the Communication Technologies ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases", "studies": {
+"aiabuse": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document says nothing on rules or authorities for AI harms."}}},
+"aigovernment": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document says nothing on AI use by a government body."}}},
+"aisectoral": {"countries": {"BDI": {"facts": [], "systems": [{"system": "AgriHyphen AI", "country_label": "Burundi", "class": "other", "platform": "app", "owner": "Hyphen Tech", "tiers": ""}], "note": "AgriHyphen AI is a company product used by farmers; no public body is stated to use it."}}},
+"aisystems": {"countries": {"BDI": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Burundian company Hyphen Tech developed the AgriHyphen AI app, a machine-learning tool that recognises 37 diseases across seven crops and is in use by farmers, according to Global South World.", "as_of": "2026-02", "date_precision": "month", "system": "AgriHyphen AI", "class": "localai"}], "systems": [{"system": "AgriHyphen AI", "country_label": "Burundi", "class": "localai", "platform": "app", "owner": "Hyphen Tech", "tiers": ""}], "note": ""}}}
+}}

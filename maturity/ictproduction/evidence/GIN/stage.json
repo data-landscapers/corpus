@@ -1,0 +1,16 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "2",
+   "exports": "official:0.1474",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-004",
+   "gaps": "The latest figure, 0.1474 per cent of GDP for 2024, is below 0.2 per cent.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-21-koica-smedan-ace-startup-academy-2026-nigeria",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Prize pool and prospective matching funds belong to a donor-agency programme, not a startup act, strategy or public startup fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "KOICA and SMEDAN began the ACE Startup Academy 2026 Founder Training in Abuja on 24 August 2026 for about 120 participants in some 50 teams chosen from 3,856 applicants, leading to a roughly six-month business incubation for ten teams.",
+       "as_of": "2026-08-24",
+       "date_precision": "day",
+       "system": "ACE Startup Academy 2026",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ACE Startup Academy 2026",
+       "country_label": "Nigeria",
+       "class": "hub",
+       "platform": "",
+       "owner": "SMEDAN with KOICA and Soongsil University Consortium",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

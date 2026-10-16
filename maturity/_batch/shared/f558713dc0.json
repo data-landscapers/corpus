@@ -1,0 +1,8 @@
+{"slug": "2026-08-10-nigeria-tops-africa-girai-responsible-ai-index", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document names no rule or authority on AI harms for Nigeria, only strategy and policy."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Government AI is only said to be explored; no tender, pilot or system in service is stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Sectoral AI named is private-sector; no public sector system stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "iAfrica reports that Nigerian startup Awarri developed African language datasets and speech technologies and was technical partner behind Nigeria's N-ATLAS national language model.", "as_of": "2026-08-10", "date_precision": "day", "system": "N-ATLAS", "class": "localai"}], "systems": [{"system": "N-ATLAS", "country_label": "Nigeria", "class": "localai", "platform": "", "owner": "Awarri Technologies (technical partner)", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No startup law, strategy or fund stated."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No hub, incubator or park stated."}}}
+}}

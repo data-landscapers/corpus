@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-05-techpark-cv-45m-tech-hub-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "TechPark CV, a EUR 45.59 million AfDB-funded technology park with campuses in Praia and Mindelo, was being inaugurated on 5-6 May 2025, per TechAfrica News.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "TechPark CV",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "TechPark CV currently hosts 23 companies, with capacity for up to 1,500 workers, per TechAfrica News.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "TechPark CV",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TechPark CV",
+   "country_label": "Cape Verde",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Cape Verde",
+   "tiers": "Praia and Mindelo campuses"
+  }
+ ],
+ "note": "No incubation programme or cohort is stated, so no in-service programme or multi-city fact."
+}

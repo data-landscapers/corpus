@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-02-com-alwatwan-ram-diagnostic-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no rule or body addressing a harm from AI; only a sectoral media provision and no ethics body."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no structured government AI deployment."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on AI in a sector's public system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on locally built AI models, datasets or compute."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-14-dji-adi-linkwise-ai-compute-infrastructure-jobs",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The labour ministry met an investor; no government AI system is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Djibouti's labour minister met LinkWise on the planned AI compute infrastructure, projected at about 2,000 construction jobs and 500 to 700 skilled operating posts, still to be confirmed by studies (ADI).",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "LinkWise AI compute infrastructure",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LinkWise AI compute infrastructure",
+       "country_label": "Djibouti",
+       "class": "localai",
+       "platform": "",
+       "owner": "LinkWise",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

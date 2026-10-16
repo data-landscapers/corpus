@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-24-gabonreview-sing-sa-dg-limoge-projet-fusion-cgi",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "GabonReview says SING SA, the state digital incubator in Libreville, runs the Pivot 4.0 incubation and acceleration programme and claims 314 startups supported since 2018, though its offices are reported emptied and a merger into the Centre gabonais de l'innovation is said to be under study.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "SING SA",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "GabonReview describes the Centre gabonais de l'innovation, under the digital economy ministry, as an innovation and technology hub at Batterie 4 in Libreville that could become the main public vehicle for startup support.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Centre gabonais de l'innovation (CGI)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SING SA (Societe d'incubation numerique du Gabon)",
+   "country_label": "Gabon",
+   "class": "hub",
+   "platform": "",
+   "owner": "State via SPIN (30%)",
+   "tiers": ""
+  },
+  {
+   "system": "Centre gabonais de l'innovation (CGI)",
+   "country_label": "Gabon",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

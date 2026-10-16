@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-gin-guineejet-bah-oury-marches-publics-ia-routes",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Prime Minister Amadou Oury Bah's government plans to use AI in digitalised public procurement to check road-construction prices against INS data and ACGP assessments and flag overbilling, with Rwandan technical support, to be operational by the end of the year.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "AI price control for public procurement",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI price control for public procurement",
+   "country_label": "Guinea",
+   "class": "govai",
+   "platform": "",
+   "owner": "Government of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-02-itweb-sa-eta-machine-learning-visa-adjudication",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on a rule or authority for AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Home Affairs' electronic travel authorisation, live at four airports since its mid-August 2026 launch, uses automated risk-based adjudication, with human review only where the system detects an anomaly, per the minister's spokesperson.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Electronic Travel Authorisation (ETA)",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Travel Authorisation (ETA)",
+       "country_label": "South Africa",
+       "class": "govai",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The visa system is general border administration, not one of the listed sectors."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on locally built AI models, datasets or compute."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-29-249startups-about-sudan-ecosystem",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes a private social enterprise, no state law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "249Startups, a social enterprise established in April 2018, says it runs the 249Startups Hub and support programmes for startups and counts graduated startups and alumni jobs.",
+       "as_of": "2026-08-29",
+       "date_precision": "day",
+       "system": "249Startups Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "249Startups Hub",
+       "country_label": "Sudan",
+       "class": "hub",
+       "platform": "",
+       "owner": "249Startups",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

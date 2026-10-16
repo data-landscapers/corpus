@@ -1,0 +1,16 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "4",
+   "exports": "official:0.6814",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNB-004",
+   "gaps": "No source held since October 2023 says ICT equipment is assembled or made in the country.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

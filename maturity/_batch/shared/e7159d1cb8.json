@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-14-bwa-dailynews-huawei-digital-transformation-agreement",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Botswana signed a Cooperation Agreement on Digital Transformation with Huawei covering, among other areas, AI-powered public security for law enforcement, which President Boko and the police commissioner want deployed (BOPA).",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "AI-powered public security (Huawei cooperation agreement)",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Telemedicine and smart education are named without an AI tool in a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Huawei solutions are foreign products; no local AI model, dataset or computing is stated."
+    }
+   }
+  }
+ }
+}

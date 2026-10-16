@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-02-hit-technovation-expo-ndarama-erp-launch",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, strategy or fund; only a university business plan competition."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Harare Institute of Technology hosted its Technovation Expo opening ceremony at its Innovation Hub, and the Vice Chancellor says HIT's mandate is to incubate and commercialise technology, with no incubation programme or cohort described.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "HIT Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "HIT Innovation Hub",
+       "country_label": "Zimbabwe",
+       "class": "hub",
+       "platform": "",
+       "owner": "Harare Institute of Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

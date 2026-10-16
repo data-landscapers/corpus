@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-09-brazzaville-prochaine-frontiere-tech-africaine",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Journal du Net reports the minister announced a fund of 50 million FCFA for the incubator of Université Marien Ngouabi, with no programme or cohort described.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Incubateur de l'Université Marien Ngouabi",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Incubateur de l'Université Marien Ngouabi",
+   "country_label": "Congo",
+   "class": "hub",
+   "platform": "",
+   "owner": "Université Marien Ngouabi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

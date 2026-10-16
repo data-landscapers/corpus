@@ -1,0 +1,17 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "localai",
+   "stage": "no evidence",
+   "build": "",
+   "compute": "",
+   "shared": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether AI is built or hosted in the country.",
+   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
+  }
+ ]
+}

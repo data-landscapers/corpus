@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-14-startup-act-djibouti-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "Minister Delegate Mariam Hamadou Ali presented the Startup Act Djibouti bill, with a startup label, a national fund of funds and a Startup Visa, to the National Assembly on 9 November 2025, where it received a favourable opinion with proposed amendments.",
+   "as_of": "2025-11-09",
+   "date_precision": "day",
+   "system": "Startup Act Djibouti",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Act Djibouti",
+   "country_label": "Djibouti",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry Delegate for the Digital Economy and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

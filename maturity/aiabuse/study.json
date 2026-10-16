@@ -1,0 +1,112 @@
+{
+ "id": "aiabuse",
+ "study_file": "maturity-study-aiabuse.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "tech.ai"
+ ],
+ "stage_topic": "tech.ai",
+ "redraws": [
+  "tech.ai--control-of-ai-abuse"
+ ],
+ "carry": [
+  "tech.ai--control-of-ai-abuse"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "artificial intelligence",
+  "intelligence artificielle",
+  "inteligência artificial",
+  "inteligencia artificial",
+  "الذكاء الاصطناعي",
+  "machine learning",
+  "apprentissage automatique",
+  "generative AI",
+  "IA générative",
+  "deepfake",
+  "deepfakes",
+  "deep fake",
+  "hypertrucage",
+  "AI regulation",
+  "AI law",
+  "AI bill",
+  "AI act",
+  "AI ethics",
+  "AI governance",
+  "loi sur l'intelligence artificielle",
+  "régulation de l'IA",
+  "automated decision",
+  "décision automatisée",
+  "AI-generated"
+ ],
+ "sub_indicators": [
+  {
+   "key": "aiharm",
+   "label": "AI harms",
+   "subject": "tech.ai",
+   "text": "Control of AI abuse: AI harms",
+   "indicator_id": "tech.ai--control-of-ai-abuse-ai-harms",
+   "class": "aiharm",
+   "norm_short": "The Continental AI Strategy asks for risk-based regulation, an independent oversight body with enforcement and redress, technical safety standards and a part in regional oversight.",
+   "criteria": [
+    "A source from the past three years says no authority, rule or mechanism addresses harms from AI.",
+    "A bill, draft regulation or draft guideline addressing a harm from AI is published, or a draft provides for an authority over AI.",
+    "A law, decree, regulation or binding directive in force addresses a harm from AI, such as deepfakes, automated decisions or AI in elections.",
+    "A body is designated by law or decree with a mandate over AI harms or AI systems.",
+    "A dated enforcement, audit, takedown, penalty or redress decision about a harm from AI is on record."
+   ],
+   "criteria_of": "0ae26e685c52"
+  }
+ ],
+ "classes": [
+  "aiharm",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "rule",
+   "name": "Rule in force",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inforce",
+    "draft"
+   ],
+   "values": [
+    "inforce",
+    "draft",
+    "none"
+   ]
+  },
+  {
+   "key": "authority",
+   "name": "Authority",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "designated"
+   ],
+   "values": [
+    "designated"
+   ]
+  },
+  {
+   "key": "enforced",
+   "name": "Enforced",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "applied"
+   ],
+   "values": [
+    "applied"
+   ]
+  }
+ ],
+ "flags": []
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.0006",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

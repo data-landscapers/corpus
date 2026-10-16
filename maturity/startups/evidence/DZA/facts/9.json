@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-20-first-ai-cybersecurity-startup-cluster--wearetech",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "We Are Tech reports a government strategy to scale up the entrepreneurial ecosystem, with President Tebboune's target of 20,000 start-ups in Algeria by 2029.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "Knowledge-economy strategy",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Authorities reported Algeria had registered 130 start-ups and 1,175 projects labeled as innovative.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "Start-up and innovative project labels",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

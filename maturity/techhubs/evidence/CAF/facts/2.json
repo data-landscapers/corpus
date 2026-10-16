@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-05-afdb-centre-formation-digitale-bangui",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "AfDB says Bangui has an equipped, operational digital training centre for 50 trainees with a 3D printer, used to prototype young people's inventions, with no incubation programme or cohort described.",
+   "as_of": "2024-04-05",
+   "date_precision": "day",
+   "system": "centre de formation digitale",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "centre de formation digitale de Bangui",
+   "country_label": "République centrafricaine",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

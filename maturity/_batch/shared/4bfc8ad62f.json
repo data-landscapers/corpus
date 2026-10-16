@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-05-google-for-startups-accelerator-south-africa-2026-cohort",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Google's private programme; no public scheme stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Google announced on 2026-10-05 a cohort of 15 startups chosen from 1,057 applications for its three-month Google for Startups Accelerator: South Africa, with mentorship and up to R1 million equity-free funding.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "Google for Startups Accelerator: South Africa",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Google for Startups Accelerator: South Africa",
+       "country_label": "South Africa",
+       "class": "hub",
+       "platform": "",
+       "owner": "Google",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2025-07-30-niger-siateg-strategie-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Government intends to draft an AI strategy; no rule, use or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Government intends to draft an AI strategy; no rule, use or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Government intends to draft an AI strategy; no rule, use or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Government intends to draft an AI strategy; no rule, use or build stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Kenya is drafting an AI Bill (AI Bill, 2026) to provide a framework for regulating and governing AI, per CIPIT.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "AI Bill, 2026",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

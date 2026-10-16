@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on startups."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on startups."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on startups."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on techhubs."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on techhubs."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names this country only for AI strategy or data protection; nothing on techhubs."
+    }
+   }
+  }
+ }
+}

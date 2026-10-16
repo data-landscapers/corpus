@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-06-african-digital-transformation-centre-launch",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Department of Communications and Digital Technologies says its Deputy Minister launched the African Digital Transformation Centre at The Innovation Hub in Pretoria, set up with the ITU, with no programme or cohort described.",
+       "as_of": "2026-03-06",
+       "date_precision": "day",
+       "system": "African Digital Transformation Centre",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "African Digital Transformation Centre",
+       "country_label": "South Africa",
+       "class": "hub",
+       "platform": "",
+       "owner": "DCDT with ITU, hosted at The Innovation Hub",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

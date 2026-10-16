@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-16-cybersecurite-benin-start-up-innovantes",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "La Nation says the Cyber Incub cybersecurity incubator was officially launched by the state agencies Asin, Adpme and Cnin, with no programme or cohort stated.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Cyber Incub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Incub",
+   "country_label": "Bénin",
+   "class": "hub",
+   "platform": "",
+   "owner": "Asin, Adpme and Cnin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

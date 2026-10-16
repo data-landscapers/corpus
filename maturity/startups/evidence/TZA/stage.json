@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "startuppolicy",
+   "stage": "unplaced",
+   "law": "",
+   "labelled": "",
+   "funded": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether a startup law or strategy is prepared or adopted.",
+   "note": "First pass: counted from the four questions by study-ladder-startups.py."
+  }
+ ]
+}

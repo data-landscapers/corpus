@@ -1,0 +1,61 @@
+{
+ "slug": "2026-03-09-mutati-launches-ai-pilot-in-education",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rules or authority for AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The pilot is an education-sector AI tool, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Lusaka Times reports the Ministry of Technology and Science signed an MOU with Obrizum Group for a pilot of AI adaptive learning in secondary schools and TEVET institutions, starting April 2026.",
+       "as_of": "2026-03-09",
+       "date_precision": "day",
+       "system": "Obrizum AI education pilot",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Obrizum AI education pilot",
+       "country_label": "Zambia",
+       "class": "sectorai",
+       "platform": "Obrizum",
+       "owner": "Ministry of Technology and Science",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Obrizum pilot has no stated local model, dataset or computing."
+    }
+   }
+  }
+ }
+}

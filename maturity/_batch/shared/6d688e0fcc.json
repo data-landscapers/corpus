@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-30-orange-bissau-odc-programa-incubacao-aceleracao-startups",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Hub's own programme, no state measure stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Orange Digital Center Guinea-Bissau, with WARDIP, announced the official launch of its startup incubation and acceleration programme, with applications open 1-20 May 2026 and no cohort yet named.",
+       "as_of": "2026-04-30",
+       "date_precision": "day",
+       "system": "Orange Digital Center Guiné-Bissau",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Digital Center Guiné-Bissau",
+       "country_label": "Guinea-Bissau",
+       "class": "hub",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

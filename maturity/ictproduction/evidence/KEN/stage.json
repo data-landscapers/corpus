@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "5",
+   "exports": "official:0.7088",
+   "plant": "production",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-007;KEN-001",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

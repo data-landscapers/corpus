@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-25-intic-amia-mozambique-ai-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a draft national AI strategy under consultation is stated; no rule, authority, government AI use, sectoral AI or local AI build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a draft national AI strategy under consultation is stated; no rule, authority, government AI use, sectoral AI or local AI build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a draft national AI strategy under consultation is stated; no rule, authority, government AI use, sectoral AI or local AI build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a draft national AI strategy under consultation is stated; no rule, authority, government AI use, sectoral AI or local AI build."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,aiharm,rule,none,"Levellers states that as of June 2026 Eritrea has no dedicated AI law, no AI oversight body and no statutory right not to be subject to automated decision-making.",2026-06-08,day,none,aiharm,2026-06-08-levellers-ai-regulation-eritrea,https://www.levellers.ai/what-is/ai-regulation-eritrea

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-21-tchad-creation-direction-generale-intelligence-artificielle",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "Presidential decree 2690/PR/PM/MTENDA/2025 creates a Direction generale de l'Intelligence Artificielle within the digital ministry.",
+   "as_of": "2025-10-21",
+   "date_precision": "day",
+   "system": "Direction generale de l'Intelligence Artificielle",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

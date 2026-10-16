@@ -1,0 +1,16 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.0371",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

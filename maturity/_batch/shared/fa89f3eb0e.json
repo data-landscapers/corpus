@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-09-camcih-climate-innovation-hub-green-tech-wearetech",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "NGO hub launch, no state startup measure stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Cameroon Climate Innovation Hub (CAMCIH), an NGO housed at ICT University in Yaounde, was officially launched as an incubation and collaboration platform, with training programmes still planned.",
+       "as_of": "2025-10-02",
+       "date_precision": "day",
+       "system": "CAMCIH",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

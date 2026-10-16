@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-08-ai-agency-cabinet-approves-ktpress",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "Rwanda's Cabinet approved the establishment of a National Artificial Intelligence Agency to accelerate AI development, adoption, investment and governance, per the Cabinet communique reported by KT Press.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Agency",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Agency",
+       "country_label": "Rwanda",
+       "class": "aiharm",
+       "platform": "",
+       "owner": "Government of Rwanda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  }
+ }
+}

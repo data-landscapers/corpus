@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-24-chichewa-ai-language-data-trust-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "TechAfrica News says the Malawi government has launched the Malawi Low Resource Language Data Trust Initiative to develop Chichewa AI models and assemble licensed Chichewa content, supported by the World Bank and the Gates Foundation.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Malawi Low Resource Language Data Trust Initiative",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

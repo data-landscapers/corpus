@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "localai",
+   "stage": "4",
+   "build": "inservice",
+   "compute": "compute",
+   "shared": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-007",
+   "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named users.",
+   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
+  }
+ ]
+}

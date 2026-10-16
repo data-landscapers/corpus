@@ -1,0 +1,41 @@
+{
+ "slug": "2025-11-24-leconomie-camrail-ai-rail-safety",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Camrail's own AI tools; no government body, rule or locally built AI stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Camrail's own AI tools; no government body, rule or locally built AI stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Camrail's own AI tools; no government body, rule or locally built AI stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Camrail's own AI tools; no government body, rule or locally built AI stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry is a directory run by a telecom company; no rule, government use, sectoral system or hosted model stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry is a directory run by a telecom company; no rule, government use, sectoral system or hosted model stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry is a directory run by a telecom company; no rule, government use, sectoral system or hosted model stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "AIRegistry.mu",
+       "country_label": "Mauritius",
+       "class": "other",
+       "platform": "web directory",
+       "owner": "Mauritius Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": "Directory lists locally built models but hosts none itself; no build stated."
+    }
+   }
+  }
+ }
+}

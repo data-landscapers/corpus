@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-06-strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "El Watan says ministerial order 1275 lets students convert their end-of-studies project into a startup or a patent.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "arrete ministeriel 1275",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "El Watan reports 673 startups created, 3949 patents registered and 2339 'projet innovant' labels issued between 2022 and July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "projet innovant label",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-13-apilecomores-innovlab-oussaid-bic-africa-france",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "APIL Comores names two Comorian incubators, Innov'lab and OUSSAID, as leading innovation players that took part in the EBN BIC Africa soft-landing programme in France, with no programme or cohort of their own described.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Innov'lab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innov'lab",
+   "country_label": "Comoros",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OUSSAID",
+   "country_label": "Comoros",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

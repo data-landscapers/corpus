@@ -1,0 +1,52 @@
+{
+ "slug": "2025-12-12-lesotho-specific-disease-detection-model-atlantis",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not addressed."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not addressed."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Academic proposal at design stage; no public health system using it stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "A conference paper by authors at the National University of Lesotho and Botho University develops an AI diagnostic model for TB, HIV/AIDS and non-communicable diseases specific to Lesotho, reporting preliminary findings.",
+       "as_of": "2025-12-12",
+       "date_precision": "day",
+       "system": "Lesotho-specific disease detection model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

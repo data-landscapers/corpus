@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-malawi24-cosoma-ai-music-rules",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Malawi24 reports that the Copyright Society of Malawi announced it would not register or distribute royalties for works created entirely using AI.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "COSOMA rule on fully AI-generated works",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

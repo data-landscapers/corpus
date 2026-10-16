@@ -1,0 +1,41 @@
+{
+ "slug": "2026-02-09-guinea-ecuatorial-bcn-nigeria-acuerdo-cable-submarino-centro-datos",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cable and commercial data centre agreement names no AI computing and no AI rule or use. Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cable and commercial data centre agreement names no AI computing and no AI rule or use. Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cable and commercial data centre agreement names no AI computing and no AI rule or use. Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cable and commercial data centre agreement names no AI computing and no AI rule or use. Document does not state an AI harm rule, government AI use, sectoral AI or local AI capacity for this country."
+    }
+   }
+  }
+ }
+}

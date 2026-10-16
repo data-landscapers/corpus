@@ -1,0 +1,61 @@
+{
+ "slug": "2026-01-14-ami-onm-pnud-systeme-alerte-precoce-agrometeorologique-ia-rosso",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on a sectoral system; nothing stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on a sectoral system; nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Office National de la Météorologie and UNDP run an AI-based agrometeorological early warning system whose services already benefit 20 women's cooperatives in Rosso, AMI reports; UNDP's sustainable development unit head says it supports yield estimates, climate risk forecasting and early crop disease diagnosis.",
+       "as_of": "2026-01-14",
+       "date_precision": "day",
+       "system": "système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle",
+       "country_label": "Mauritanie",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Office National de la Météorologie, with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on a sectoral system; nothing stated for this study."
+    }
+   }
+  }
+ }
+}

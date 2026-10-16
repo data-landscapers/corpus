@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-02-biic-bank-faen-lancement-operationnel",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "BIIC and ADPME launched the FAEN programme to finance start-ups holding the 'start-up' label in seed phase (under 3 years) and growth-stage SMEs.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "FAEN",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FAEN",
+   "country_label": "Benin",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "BIIC and ADPME",
+   "tiers": "national"
+  }
+ ],
+ "note": "No investments named yet."
+}

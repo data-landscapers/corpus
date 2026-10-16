@@ -1,0 +1,61 @@
+{
+ "slug": "2026-09-08-mar-mmsp-instituts-jazari-assemblees-generales",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Morocco's digital transition ministry says JAZARI ROOT, whose constitutive convention was approved in August 2026, is to cover data centres, advanced computing, data platforms and sovereign national AI capability.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "JAZARI ROOT",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "JAZARI ROOT",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

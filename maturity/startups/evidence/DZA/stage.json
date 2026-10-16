@@ -1,0 +1,17 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "startuppolicy",
+   "stage": "4",
+   "law": "adopted",
+   "labelled": "labelled",
+   "funded": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-002;DZA-005",
+   "gaps": "No source held since October 2023 says a public fund under the startup law or strategy has financed startups.",
+   "note": "First pass: counted from the four questions by study-ladder-startups.py."
+  }
+ ]
+}

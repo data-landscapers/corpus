@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-wearetech-madagascar-digital-criminal-records-platform",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "We Are Tech Africa reports officials said Madagascar's courts already use AI technologies for certain research and document management functions.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "AI research and document management tools in courts",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Logipenal",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Judicial authorities",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

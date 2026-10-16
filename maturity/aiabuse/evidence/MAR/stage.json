@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "aiharm",
+   "stage": "no evidence",
+   "rule": "",
+   "authority": "",
+   "enforced": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether anything addresses harms from AI.",
+   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
+  }
+ ]
+}

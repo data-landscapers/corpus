@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-28-mli-ai-robotics-centre-sovereignty-diallo",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Centre d'intelligence artificielle et de robotique",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Opinion on the centre's sovereignty value; no model, dataset or computing named."
+    }
+   }
+  }
+ }
+}

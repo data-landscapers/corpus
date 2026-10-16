@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-mrt-webmanagercenter-fintech-regional-lab",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Webmanagercenter states Mauritania has Law No. 2024-002 on technological and innovative startups.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Law No. 2024-002 on technological and innovative startups",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law No. 2024-002 on technological and innovative startups",
+   "country_label": "Mauritania",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "State of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": "No labelling or public fund under the law is stated."
+}

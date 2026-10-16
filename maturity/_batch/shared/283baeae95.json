@@ -1,0 +1,59 @@
+{
+ "slug": "2026-09-14-civ-socialnetlink-pacte-alliance-nationale-ia-cas-usage",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact and prioritised use cases only; no rule, deployed system, build or startup measure stated."
+    }
+   }
+  }
+ }
+}

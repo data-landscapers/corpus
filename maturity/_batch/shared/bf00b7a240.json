@@ -1,0 +1,6 @@
+{"slug": "2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The speech mentions AI bias only as a concern and names no rule or authority."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The speech states no AI system in use in a government body."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The telemedicine funding is not described as AI; no sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [{"system": "Centre d'Intelligence Artificielle et Robotique du Mali", "country_label": "Mali", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The centre is named as a spearhead of national AI ambition; no model, dataset or computing is stated."}}}
+}}

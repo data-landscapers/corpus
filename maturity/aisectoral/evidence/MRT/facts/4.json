@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-mrt-ami-onm-agrifemia-alerte-precoce-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Mauritania's national meteorological office held a two-day training for regional staff on the UNDP-supported AI-based agricultural, hydrological and meteorological early-warning system using the AGRIFEMIA platform, to develop early-warning services.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "AGRIFEMIA",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGRIFEMIA",
+   "country_label": "Mauritania",
+   "class": "sectorai",
+   "platform": "AGRIFEMIA",
+   "owner": "Office national de la météorologie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

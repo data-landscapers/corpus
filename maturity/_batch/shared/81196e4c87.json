@@ -1,0 +1,61 @@
+{
+ "slug": "2025-10-23-cabo-verde-justica-portal-inteligencia-artificial-integrada",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Instituto da Modernização e Inovação da Justica's president presented the Portal da Justica and demonstrated its Inteligencia Artificial Integrada initiative, a platform with an AI chat built to help citizens access information and digital services.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "Portal da Justica - Inteligencia Artificial Integrada",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal da Justica - Inteligencia Artificial Integrada",
+       "country_label": "Cabo Verde",
+       "class": "govai",
+       "platform": "web portal with AI chat",
+       "owner": "IMIJ, I.P.",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI chat is described as a citizen access tool, not a sector decision tool; no result stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

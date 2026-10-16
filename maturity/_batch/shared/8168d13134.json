@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-14-mus-sundaytimes-ai-think-tank-2026-levier-strategique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Vendor think tank on skills; no rule, government system, sectoral tool or local build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Vendor think tank on skills; no rule, government system, sectoral tool or local build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Vendor think tank on skills; no rule, government system, sectoral tool or local build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Vendor think tank on skills; no rule, government system, sectoral tool or local build."
+    }
+   }
+  }
+ }
+}

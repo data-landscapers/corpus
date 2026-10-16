@@ -132,6 +132,44 @@
      "note": "Nothing stated for this study."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Summit wrap is about Guinea; no startup or hub fact for this country."
+    }
+   }
   }
  }
 }

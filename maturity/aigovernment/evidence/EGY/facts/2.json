@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-egypt-ai-national-security-strategy-karnak-ahram",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Raafat Hindi said efforts are under way to develop the capabilities of EG-CERT, under the National Telecom Regulatory Authority, by using AI techniques against cyber threats.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "EG-CERT",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EG-CERT",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "",
+   "owner": "National Telecom Regulatory Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-11-osiris-sen-marches-publics-ia-generative",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The author says only that no Senegalese text governs AI in public procurement; that is not a statement that no rule addresses AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports no government body using AI and only urges rules for AI in tenders."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

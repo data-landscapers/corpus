@@ -1,0 +1,17 @@
+{
+ "slug": "ref:wdi-ict-service-exports-gdp@2026-07-13",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "exports",
+   "value": "official:0.0204",
+   "fact": "ICT service exports from South Sudan were 0.0204 per cent of GDP in 2015, by the World Bank's series.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "ICT service exports over GDP (WDI)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

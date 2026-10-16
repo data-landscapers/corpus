@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-egy-ai-council-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "smart judicial assistant",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

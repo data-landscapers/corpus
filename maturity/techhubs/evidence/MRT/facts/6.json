@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-25-mrt-webmanagercenter-fintech-regional-lab",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Webmanagercenter, citing Nouakchott Innovation Lab, says the 2025 Fintech Mauritanie Hackathon logged 150 projects and four then joined the Lab's accompaniment pipeline.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nouakchott Innovation Lab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott Innovation Lab",
+   "country_label": "Mauritania",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "BCM Fintech Program",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Banque Centrale de Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": "No second city or technology park is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-rstp-sao-tome-terceira-edicao-empreende-mais-empreendedorismo-feminino",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "RSTP reports that the third Empreende+ competition is run by the Ministry of Economy and Finance with the REINA incubator in the city of Sao Tome, which takes applications from 24 July to 16 August 2026, followed by training and mentoring; the document names no cohort of startups.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "REINA incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REINA incubator",
+   "country_label": "Sao Tome and Principe",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

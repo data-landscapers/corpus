@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,hub,hubs,coverage,inservice,2025,CAF-001,CAF-004=underway;CAF-002=underway;CAF-003=underway,
+CAF,hub,cities,coverage,,,,,nothing held
+CAF,hub,park,coverage,,,,,nothing held

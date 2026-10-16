@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-27-uz-industrial-incubation-centre-commissioned",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The University of Zimbabwe says President Mnangagwa commissioned its Industrial Incubation Centre in Msasa on 27 July 2026, providing technical support and mentorship for 11 start-up companies.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "University of Zimbabwe Industrial Incubation Centre",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "University of Zimbabwe Industrial Incubation Centre",
+       "country_label": "Zimbabwe",
+       "class": "hub",
+       "platform": "",
+       "owner": "University of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

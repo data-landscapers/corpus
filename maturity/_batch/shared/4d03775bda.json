@@ -1,0 +1,41 @@
+{
+ "slug": "2025-01-29-agencia-de-protecao-de-dados-trabalha-com-o-facebook-para-eliminar-perfis-falsos",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI ethics strategy in preparation and fake-profile takedown requests, neither an AI harm rule nor AI in use."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this topic."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this topic."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this topic."
+    }
+   }
+  }
+ }
+}

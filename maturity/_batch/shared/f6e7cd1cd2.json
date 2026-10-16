@@ -1,0 +1,14 @@
+{"slug": "2026-01-23-okolo-raji-global-majority-international-ai-governance", "studies": {
+"aiabuse": {"countries": {
+"COG": {"facts": [], "systems": [], "note": "Congo appears only as an example of mining pollution."},
+"ZMB": {"facts": [], "systems": [], "note": "Zambia is only listed among countries with AI strategies or drafts; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {
+"COG": {"facts": [], "systems": [], "note": "Nothing stated on government AI use."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on government AI use."}}},
+"aisectoral": {"countries": {
+"COG": {"facts": [], "systems": [], "note": "Nothing stated on sectoral AI."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on sectoral AI."}}},
+"aisystems": {"countries": {
+"COG": {"facts": [], "systems": [], "note": "Nothing stated on local AI models, datasets or computing."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on local AI models, datasets or computing."}}}
+}}

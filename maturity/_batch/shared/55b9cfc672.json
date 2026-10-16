@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-30-cmr-journalducameroun-cdhc-acces-information-deepfakes",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a recommendation by the CDHC; nothing in force or drafted stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI stated."
+    }
+   }
+  }
+ }
+}

@@ -83,6 +83,24 @@
      "note": "Nothing stated on this study."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns social protection, not startups or hubs."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns social protection, not startups or hubs."
+    }
+   }
   }
  }
 }

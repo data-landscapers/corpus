@@ -1,0 +1,16 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.026",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

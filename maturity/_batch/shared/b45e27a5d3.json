@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-01-asin-benin-billet-juridique-ia-generative-agents-publics",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "rules",
+       "value": "rules",
+       "fact": "ASIN's June 2026 legal note sets measures for public agents' use of generative AI in the administration, including a binding charter, provider contract clauses barring model training on data and transfers under the Cloud Act or FISA, and a data protection impact assessment.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Billet juridique sur l'usage des outils d'intelligence artificielle générative",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Billet juridique (ASIN, advisory)",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-togo-langues-nationales-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Togo AI Lab, with Zindi and the Togolese startup Umbaji, is building an open-source platform to collect voice and text data, aiming for at least 50 hours of validated recordings and 6,000 translated sentence pairs for each of 50 national languages, to train speech recognition, speech synthesis and translation models, as presented at AI for Good in July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Togo AI Lab national languages project",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo AI Lab",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "open-source language data collection platform",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

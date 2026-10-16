@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "El Watan reports that from the 2026 academic year the higher education ministry will deploy an intelligent assistant to personalise student paths and a large language model to assist teachers.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "assistant intelligent and LLM for teachers",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

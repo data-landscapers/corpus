@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-18-cod-rdcmonde-wameso-ia-banques-centrales",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "BCC states planned AI workstreams and an audit before deployment; no tender, pilot or service stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only central-bank uses planned; no public sector system in the study's sectors."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or compute built or hosted in the country stated."
+    }
+   }
+  }
+ }
+}

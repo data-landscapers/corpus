@@ -1,0 +1,6 @@
+{"slug": "2026-05-06-strategie-nationale-ia-langues-nationales-pnud-ldb", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "The minister speaks of a future ethical and regulatory framework; no draft rule or authority is stated."}}},
+"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "A strategy committee only; no government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"COG": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Congo's AI strategy technical committee, launched on 6 May 2026 with UNDP technical and financial support, is to produce a structured digital corpus for Lingala and Kituba within its six-month mandate, with a budget of 150 to 200 million FCFA sought, as reported by Les Depeches de Brazzaville.", "as_of": "2026-05-06", "date_precision": "day", "system": "Lingala and Kituba digital corpus", "class": "localai"}], "systems": [{"system": "Lingala and Kituba digital corpus", "country_label": "Congo", "class": "localai", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy, with UNDP", "tiers": ""}], "note": ""}}}
+}}

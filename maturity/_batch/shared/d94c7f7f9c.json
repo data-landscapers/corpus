@@ -1,0 +1,41 @@
+{
+ "slug": "2026-04-01-mozambique-enia-draft1-national-ai-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a draft AI strategy with principles; it transcribes no draft rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The transcribed text is a strategy; it states no government body using AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The transcribed text is a strategy with sector pillars; it states no sectoral AI tool."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The transcribed text is a strategy; it names no model, dataset or AI computing facility with a builder, funder or site."
+    }
+   }
+  }
+ }
+}

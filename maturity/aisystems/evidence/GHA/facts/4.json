@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-citinewsroom-ghana-200m-digitalisation-250m-ai-computing-centre",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Samuel Nartey George says Cabinet has approved US$250 million for a National AI and Computing Centre, described as a funded programme currently being implemented, to give researchers, start-ups and universities access to high-performance computing.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "National AI and Computing Centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI and Computing Centre",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "high-performance computing and AI infrastructure",
+   "owner": "Ministry of Communication, Digital Technology and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

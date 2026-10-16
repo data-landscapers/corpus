@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names an AI policy and strategy under development, which is a strategy, and a data protection law not said to apply to AI."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no government use of AI; it names a policy under development and an interoperability framework."
+    }
+   }
+  }
+ }
+}

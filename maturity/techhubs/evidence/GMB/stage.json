@@ -1,0 +1,17 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "hub",
+   "stage": "unplaced",
+   "hubs": "",
+   "cities": "",
+   "park": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether a technology hub runs programmes for startups.",
+   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
+  }
+ ]
+}

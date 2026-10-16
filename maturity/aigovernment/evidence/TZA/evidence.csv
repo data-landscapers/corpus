@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TZA-001,TZA,govai,use,underway,"A University of Dar es Salaam paper reports an FAQ chatbot developed for the Tanzania Ports Authority was usability-tested with 15 domain experts, achieving a 95.1% weighted task success rate.",2026-08-03,day,FAQ chatbot for the Tanzania Ports Authority,govai,2026-08-03-tpa-faq-chatbot-tanzania-ports-authority,https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3

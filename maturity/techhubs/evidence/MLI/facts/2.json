@@ -1,0 +1,82 @@
+{
+ "slug": "2026-01-01-afrilabs-mali-hubs",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "AfriLabs lists eight Malian member hubs; the Mali Business Innovation and Incubation Centre (Nyetaa Mali) is said to support young innovators through its incubation programs and DoniLab is described as a business incubator.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Nyetaa Mali / DoniLab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MUSODEV",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "MUSODEV",
+   "tiers": ""
+  },
+  {
+   "system": "Smart YIRIBA",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Smart YIRIBA",
+   "tiers": ""
+  },
+  {
+   "system": "Impact Hub Bamako",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Impact Hub Bamako",
+   "tiers": ""
+  },
+  {
+   "system": "Suguba",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Suguba",
+   "tiers": ""
+  },
+  {
+   "system": "DoniLab",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "DoniLab",
+   "tiers": ""
+  },
+  {
+   "system": "DiaspoHub",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "DiaspoHub",
+   "tiers": ""
+  },
+  {
+   "system": "Jokkolabs Mali",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Jokkolabs Mali",
+   "tiers": ""
+  },
+  {
+   "system": "Mali Business Innovation and Incubation Centre (Nyetaa Mali)",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Mali Business Innovation and Incubation Centre (Nyetaa Mali)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

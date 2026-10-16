@@ -1,0 +1,101 @@
+{
+ "slug": "2026-06-10-egypt-ai-national-security-strategy-karnak-ahram",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "Minister Raafat Hindi told the Senate that the Egyptian Responsible AI Center was established in the communications ministry at the end of 2025 to support safe AI use in government bodies and develop regulatory models.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Egyptian Responsible AI Center",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Egyptian Responsible AI Center",
+       "country_label": "Egypt",
+       "class": "aiharm",
+       "platform": "",
+       "owner": "Ministry of Communications and Information Technology",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Minister Raafat Hindi said efforts are under way to develop the capabilities of EG-CERT, under the National Telecom Regulatory Authority, by using AI techniques against cyber threats.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "EG-CERT",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EG-CERT",
+       "country_label": "Egypt",
+       "class": "govai",
+       "platform": "",
+       "owner": "National Telecom Regulatory Authority",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The minister said the Applied Innovation Center developed the Arabic large language model Karnak, which takes local context into account and lets startups build applications on it.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Karnak",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Karnak",
+       "country_label": "Egypt",
+       "class": "localai",
+       "platform": "",
+       "owner": "Applied Innovation Center, MCIT",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

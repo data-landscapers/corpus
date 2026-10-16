@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-19-uni-cv-ciclo-palestras-ia-quimica-computacional-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Expresso das Ilhas says Uni-CV researcher Mateus Andrade presented acoustic AI models in Creole for health applications, processing the Cape Verdean language, in a lecture series from 22 April 2025.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Modelos Acústicos Inteligentes em Língua Crioula",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

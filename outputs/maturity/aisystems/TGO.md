@@ -1,0 +1,13 @@
+# Togo
+
+## AI built at home
+
+**Model, dataset or computing.** [UNDP says it deployed country-hosted AI compute capacity in Togo under its AI Infrastructure Activation programme](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>). [Togo First says Togo AI Lab is developing models that understand and generate content in several Togolese languages, within a national local-languages project using LLMs, RAG and AI agents](<https://www.togofirst.com/en/itc/1009-20017-togo-ai-lab-seeks-technical-lead-for-public-sector-ai-projects>). [The GSMA and the governments of Benin, Kenya, Namibia, Nigeria and Togo launched ATLAS Umoja AI to build AI models for African languages, with private partners Awarri, Zindi, Pawa AI and Mozisha](<https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/>).
+
+**AI computing.** [UNDP's programme procured and deployed country-hosted GPU compute in Togo](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
+
+**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.

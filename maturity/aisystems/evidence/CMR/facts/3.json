@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-12-st-digital-gpu-cloud-africa-itweb",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "ST Digital announced GPU Cloud Africa, with NVIDIA GPU servers to be deployed in Douala, to provide AI hosting from the second quarter of 2025.",
+   "as_of": "2025-02-12",
+   "date_precision": "day",
+   "system": "GPU Cloud Africa",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPU Cloud Africa",
+   "country_label": "Cameroon",
+   "class": "localai",
+   "platform": "NVIDIA GPU cloud",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

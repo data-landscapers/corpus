@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MAZU-Djibouti 2.0",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Chinese Meteorological Administration (provider)",
+   "tiers": "national"
+  }
+ ],
+ "note": "System supplied by China; no local development or hosting stated."
+}

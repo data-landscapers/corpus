@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,N-ATLAS,Nigeria,localai,Llama-3 8B LLM,"Awarri, NITDA, NCAIR",national,2025-09-22-n-atlas-nigerian-llm-launch
+NGA,AGH Cloud / Africa GPU Hub,Nigeria,localai,GPU cloud,Udu Technologies,,2026-09-11-udutech-baro-ai-gpu-supply-africa
+NGA,N-ATLAS,Nigeria,localai,,Awarri Technologies (technical partner),,2026-08-10-nigeria-tops-africa-girai-responsible-ai-index

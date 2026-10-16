@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
+CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting

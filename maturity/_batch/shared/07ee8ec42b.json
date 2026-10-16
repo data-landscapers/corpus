@@ -1,0 +1,5 @@
+{"slug": "2026-07-15-sipen-uemoa-panel-ia-inclusion-souverainete", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Panel recommends regulatory sandboxes; no rule, authority or enforcement stated for Burkina Faso."}, "MLI": {"facts": [], "systems": [], "note": "Mali is named only for a panelist's origin; nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Panel speaks of AI potential in public services across UEMOA; no government body's AI use stated."}, "MLI": {"facts": [], "systems": [], "note": "Nothing stated about Mali."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Sector benefits are discussed in general terms for UEMOA; no tool stated for Burkina Faso."}, "MLI": {"facts": [], "systems": [], "note": "Nothing stated about Mali."}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Calls for open data, data centres and local-language AI in general; no built model, dataset or computing stated."}, "MLI": {"facts": [], "systems": [], "note": "Nothing stated about Mali."}}}}}

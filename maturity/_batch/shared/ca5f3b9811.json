@@ -1,0 +1,601 @@
+{
+ "slug": "2025-04-04 Africa Declaration on Artificial Intelligence",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Declaration states continental principles only; no country-specific AI rule, system or build."
+    }
+   }
+  }
+ }
+}

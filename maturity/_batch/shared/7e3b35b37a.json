@@ -1,0 +1,5 @@
+{"slug": "2026-07-15-somali-national-university-snaic-launch", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "University centre launch; nothing on AI harms."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Somali National Artificial Intelligence Center (SNAIC), Somali National University", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Somali National University", "tiers": ""}], "note": "Centre for research and AI use opened at the university; no model, dataset or AI computing stated."}}}}}

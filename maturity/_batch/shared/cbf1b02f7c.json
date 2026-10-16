@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-20-somali-national-university-ai-centre",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a university AI research centre; no AI model, dataset or computing stated, and no rule, government use or sectoral tool."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a university AI research centre; no AI model, dataset or computing stated, and no rule, government use or sectoral tool."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a university AI research centre; no AI model, dataset or computing stated, and no rule, government use or sectoral tool."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a university AI research centre; no AI model, dataset or computing stated, and no rule, government use or sectoral tool."
+    }
+   }
+  }
+ }
+}

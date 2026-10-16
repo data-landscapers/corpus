@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-gha-myjoyonline-sam-george-knust-twi-ai-model",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Communications Minister Sam George tasked KNUST experts to lead development of a Twi language model, with other universities to lead models for other Ghanaian languages, as the government decided national language models must be built locally.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Twi language model",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Twi language model",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "",
+   "owner": "KNUST",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

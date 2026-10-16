@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "govai",
+   "stage": "5",
+   "use": "inservice",
+   "bodies": "several",
+   "rules": "rules",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
+  }
+ ]
+}

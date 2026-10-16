@@ -1,0 +1,17 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "sectorai",
+   "stage": "3",
+   "use": "inservice",
+   "sectors": "",
+   "results": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-001;CMR-002",
+   "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
+  }
+ ]
+}

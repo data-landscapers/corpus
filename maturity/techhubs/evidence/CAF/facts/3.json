@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-centrafrique-centre-formation-digital-incubateur-universite-bangui",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "President Touadéra inaugurated a digital training centre with an incubator at the University of Bangui on 15 January 2024, financed by the EU and the African Development Bank; no incubation programme is described.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "Centre de formation digitale et incubateur start-up, Université de Bangui",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre de formation digitale et incubateur start-up, Université de Bangui",
+   "country_label": "Centrafrique",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of CAR, funded by EU and AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

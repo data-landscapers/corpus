@@ -1,0 +1,70 @@
+{
+ "slug": "2026-08-24-eswatinipositivenews-rstp-ai-youth-empowerment",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Government in Your Hand is named as digital service access, not as an AI system."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "AI in energy, water and agriculture is only an aspiration, no tool named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The RSTP Business Incubation Unit and Innovation Hub will be available at Pavilion 5 of the 2026 International Eswatini Trade Fair to engage aspiring entrepreneurs, per RSTP AI Strategist Menzi Khumalo; no cohort programme is described.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "RSTP Business Incubation Unit and Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Royal Science and Technology Park (RSTP) Business Incubation Unit and Innovation Hub",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "RSTP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

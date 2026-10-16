@@ -118,6 +118,24 @@
      "note": "Nothing stated for this study."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Private mobile money launch; no public startup scheme stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
   }
  }
 }

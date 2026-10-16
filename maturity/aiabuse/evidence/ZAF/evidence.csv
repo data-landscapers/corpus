@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,aiharm,rule,inforce,"SAPS Free State says section 68 of Act 68 of 1995 prohibits falsely presenting oneself as a police member or implying a connection to the service, and warns this can apply to AI-generated and face-swapped images in SAPS uniform.",2026-09-07,day,Section 68 of Act 68 of 1995,aiharm,2026-09-07-saps-ai-generated-police-images-warning,https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-01-asin-benin-billet-juridique-conformite-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "It calls for AI-specific rules but names no draft, vehicle or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "It names no government body using an AI system."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "It names no sectoral AI tool in service or under way."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "It names no AI model, dataset or computing built in Benin."
+    }
+   }
+  }
+ }
+}

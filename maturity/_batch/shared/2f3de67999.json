@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-20-anp-diffa-unipod-innovation-agripreneuriat",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A youth agripreneurship programme is described, with no startup law, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Universite de Diffa was selected through a competitive process to host a UNIPOD innovation hub, and a workshop validating its project document opened on 20 August 2026 under the AfDB- and UNDP-backed PIDAJ programme, with construction still to come.",
+       "as_of": "2026-08-20",
+       "date_precision": "day",
+       "system": "UNIPOD de Diffa",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNIPOD de Diffa",
+       "country_label": "Niger",
+       "class": "hub",
+       "platform": "",
+       "owner": "Universite de Diffa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

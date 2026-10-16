@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-30-rstp-sao-tome-bassola-pet-vence-empreende-mais-segunda-edicao",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "REINA, the São Tomé and Príncipe network of business incubators and accelerators, with PNUD support ran the second Empreende+ competition: 33 of over 150 applicants got five weeks of intensive training and nine reached the final, with four funded.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "REINA (Rede de Incubadoras e Aceleradoras de Negócios de São Tomé e Príncipe)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REINA",
+   "country_label": "São Tomé and Príncipe",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

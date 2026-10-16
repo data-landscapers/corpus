@@ -1,0 +1,16 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "unplaced",
+   "exports": "",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for ICT service exports as a share of GDP.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-02-cog-compte-rendu-conseil-des-ministres",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Council of Ministers of 2 July 2025 adopted decrees under loi n 71-2022 of 16 August 2022 on the startup label: the withdrawal procedure and the labelling commission.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "label startup du numerique et de l'innovation technologique",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-15-gha-u-s-commerce-department-engages-ghana-s-nca-on",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "NCA Deputy Director-General Salifu Suleman said AI is increasingly becoming an integral tool in the NCA's processes and activities.",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "AI tools in NCA processes",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

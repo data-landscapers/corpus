@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-09-sahara-medias-wardip-banque-mondiale-extension-ia-donnees",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Sahara Media reports the Mauritanian digital transformation ministry and the World Bank agreed to mobilise additional funds for data infrastructure and data sharing to widen AI use and develop intelligent systems under WARDIP.",
+       "as_of": "2026-06-09",
+       "date_precision": "day",
+       "system": "WARDIP",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-05-16-la-douane-integre-lia-au-sein-de-son-systeme",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs AI module is inside a sector management system, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Direction Generale des Douanes officially integrated a machine-learning module into the national customs selectivity system to target high-risk customs declarations, per its 16 May 2026 communique.",
+       "as_of": "2026-05-16",
+       "date_precision": "day",
+       "system": "système national de sélectivité douanière",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "système national de sélectivité douanière",
+       "country_label": "Tunisia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Direction Générale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-25-tchadinfos-forum-gouvernance-internet-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forum announcement; no rule, AI in administration, sectoral AI or local AI build is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forum announcement; no rule, AI in administration, sectoral AI or local AI build is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forum announcement; no rule, AI in administration, sectoral AI or local AI build is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forum announcement; no rule, AI in administration, sectoral AI or local AI build is stated."
+    }
+   }
+  }
+ }
+}

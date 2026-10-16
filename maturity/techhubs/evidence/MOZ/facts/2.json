@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-29-unctad-sti-parks-mozambique-assessment",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "UNCTAD says Mozambique has initiated the development of multiple STI parks, with Maluana Science and Technology Park established by the Council of Ministers in 2012 as one of four envisaged.",
+   "as_of": "2024-11-29",
+   "date_precision": "day",
+   "system": "Maluana Science and Technology Park",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maluana Science and Technology Park",
+   "country_label": "Mozambique",
+   "class": "hub",
+   "platform": "",
+   "owner": "ENPCT",
+   "tiers": ""
+  },
+  {
+   "system": "UEM tech business incubator (Innovation Space)",
+   "country_label": "Mozambique",
+   "class": "hub",
+   "platform": "",
+   "owner": "Eduardo Mondlane University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

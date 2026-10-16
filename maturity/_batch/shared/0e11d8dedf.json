@@ -1,0 +1,53 @@
+{
+ "slug": "2026-09-06-citezw-econet-ai-ndebele-chatbot",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Company chatbots only; no government user."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Econet Ai, a subsidiary of Econet Wireless Zimbabwe, runs the Shona-language chatbot Yamurai, which the company says already handles more than 70% of customer enquiries.",
+       "as_of": "2026-09-06",
+       "date_precision": "day",
+       "system": "Yamurai",
+       "class": "localai"
+      },
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Econet Ai is building a Ndebele-speaking chatbot trained on thousands of hours of recorded Ndebele speech, to launch in phases from September 2026.",
+       "as_of": "2026-09-06",
+       "date_precision": "day",
+       "system": "Econet Ai Ndebele chatbot",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Yamurai",
+       "country_label": "Zimbabwe",
+       "class": "localai",
+       "platform": "Shona customer-support chatbot",
+       "owner": "Econet Ai",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-yasika-second-edition-bootcamp-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Eni/Joule's Yasika second edition in Brazzaville incubates 13 selected startups and upskills 22 other participants, after a bootcamp held 4 to 6 May.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Yasika",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yasika",
+   "country_label": "Congo",
+   "class": "hub",
+   "platform": "",
+   "owner": "Eni/Joule",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

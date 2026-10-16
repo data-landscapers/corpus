@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-linkedin-seyccat-bti-launch",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "SeyCCAT announces the launch of the Business, Technology & Innovation Incubator (BTI), supported by NISTI, GEF7, SeyCCAT and GFCR, offering up to 12 months of incubation, mentoring and seed-funding access, with applications open for the 2026 cohort.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Business, Technology & Innovation Incubator (BTI)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Business, Technology & Innovation Incubator (BTI)",
+   "country_label": "Seychelles",
+   "class": "hub",
+   "platform": "",
+   "owner": "SeyCCAT with NISTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

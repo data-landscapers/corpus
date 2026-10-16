@@ -1,0 +1,41 @@
+{
+ "slug": "2026-04-01-premier-forum-intelligence-artificielle-alwatwan",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The forum report states no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The forum report states no government body using AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The forum report states no AI tool in a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "ZynBusiness is described as an ERP for small businesses, with no AI model or AI computing stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-cote-divoire-accelerateurs-numeriques-startups",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Ivory Coast's digital ministry launched the Ivoire Tech Next 15 and Ivoire Tech Scale Up programmes on 29 July 2026 for 15 startups and 15 SMEs over 24 months, with applications open until 13 September.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Ivoire Tech Next 15",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ivoire Tech Next 15",
+   "country_label": "Cote d'Ivoire",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

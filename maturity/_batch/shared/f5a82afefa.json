@@ -1,0 +1,93 @@
+{
+ "slug": "2026-09-25-egy-ai-council-national-ai-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Child-safety and other guidelines only discussed, no legal effect stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Egypt's AI council adopted a report saying more than 40 AI applications are in use across the government and banking sectors.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "AI applications in government",
+       "class": "govai"
+      },
+      {
+       "sub_indicator": "govai",
+       "aspect": "bodies",
+       "value": "several",
+       "fact": "The same report counts more than 40 AI applications across government and banking.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "AI applications in government",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": "Procurement and generative-AI guidelines only discussed."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "smart judicial assistant",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The MCIT Applied Innovation Center built homegrown AI applications including the Karnak LLM, Loghat and Bel Masry, the minister said.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Karnak LLM",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Karnak LLM",
+       "country_label": "Egypt",
+       "class": "localai",
+       "platform": "",
+       "owner": "Applied Innovation Center, MCIT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

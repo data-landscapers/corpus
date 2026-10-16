@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-12-hcc-deepfakes-ai-disinformation-centranews",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Media regulator comments on deepfakes; no AI rule, designated AI authority or government AI use stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Media regulator comments on deepfakes; no AI rule, designated AI authority or government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Media regulator comments on deepfakes; no AI rule, designated AI authority or government AI use stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Media regulator comments on deepfakes; no AI rule, designated AI authority or government AI use stated."
+    }
+   }
+  }
+ }
+}

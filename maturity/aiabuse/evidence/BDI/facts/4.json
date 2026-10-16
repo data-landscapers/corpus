@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Burundi's national AI strategy, presented at its validation workshop, provides for a national AI commission, an ethics charter and regulatory adaptation.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

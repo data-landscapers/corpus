@@ -1,0 +1,43 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Public-sector AI platform (PADA),Angola,govai,,Angolan state,,2026-09-08-pti-angola-ai-platform-world-bank-pada
+BEN,"Billet juridique (ASIN, advisory)",Benin,other,,ASIN,,2026-06-01-asin-benin-billet-juridique-ia-generative-agents-publics
+CIV,EMY 101,Côte d'Ivoire,govai,WhatsApp and Messenger,Government of Côte d'Ivoire,,2026-03-20-emy-101-ai-chatbot-public-services-techafricanews
+CIV,EMY 101,Côte d'Ivoire,govai,"WhatsApp, Messenger, toll-free 101",Government of Côte d'Ivoire,,2026-03-19-emy-101-ai-chatbot-wearetech
+CMR,AIGLES,Cameroon,other,payroll and staff management software,Government of Cameroon,,2026-07-17-minfopra-cooperation-cameroun-maroc-ia-administration
+CMR,Caisse nationale de Prevoyance sociale (CNPS) AI solutions,Cameroun,govai,,CNPS,,2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations
+CMR,GOV-AI,Cameroon,govai,nGomna,CENADI,,2025-07-09-dgb-gov-ai-cenadi-intelligence-artificielle-gouvernementale
+COD,ONEM AI job-matching platform,DRC,govai,ONEM digital platform,ONEM,,2026-08-01-drc-enabel-onem-ai-digital-platform-tender
+CPV,Portal da Justica - Inteligencia Artificial Integrada,Cabo Verde,govai,web portal with AI chat,"IMIJ, I.P.",,2025-10-23-cabo-verde-justica-portal-inteligencia-artificial-integrada
+EGY,EG-CERT,Egypt,govai,,National Telecom Regulatory Authority,national,2026-06-10-egypt-ai-national-security-strategy-karnak-ahram
+EGY,Karnak Chat,Egypt,govai,chatbot on the Karnak large language model,Ministry of Communications and Information Technology,national,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
+GHA,AI-powered multi-hazard chatbot,Ghana,govai,chatbot,NADMO,"national, ten regional offices trained",2026-07-30-ghanas-disaster-agency-turns-to-ai-to-reach-people-before-the-water-does
+GIN,AI price control for public procurement,Guinea,govai,,Government of Guinea,,2026-10-12-gin-guineejet-bah-oury-marches-publics-ia-routes
+KEN,Kabogo.AI,Kenya,govai,AI assistant on the Cabinet Secretary's official website,"Ministry of Information, Communications and the Digital Economy",,2026-08-27-kenyans-co-ke-kabogo-ai-platform
+LSO,"FAO digital agriculture extension chatbot (TCP/LES/4002, Digital Villages Initiative)",Lesotho,other,chatbot,"FAO with Ministry of Agriculture, Food Security and Nutrition",national,2026-05-11-lesotho-dar-fao-chatbot-content-scrutiny
+MAR,Idarati AI,Morocco,govai,sovereign unified AI platform,Ministry of Digital Transition and Administration Reform,,2026-09-11-mar-detafour-siyada-raqmiya-dhaka-istinai
+MAR,Idarati AI,Morocco,govai,Marketplace souveraine,Ministry of Digital Transition,,2026-09-10-leseco-maroc-ia-2030-phase-operationnelle
+MAR,IdaratiIA,Morocco,govai,,Ministry of Digital Transition and Administration Reform,,2026-06-08-maroc-mtnra-expose-commission-justice-idaratiia
+MAR,AI marketplace,Morocco,govai,,Ministry of Digital Transition and Administrative Reform,,2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools
+MDG,Logipenal,Madagascar,other,,Judicial authorities,,2026-06-08-wearetech-madagascar-digital-criminal-records-platform
+MLI,MIA (Moov Intelligence Artificielle),Mali,other,AI-powered digital assistant,Moov Africa Malitel (SOTELMA's commercial brand),,2026-06-15-ecofin-moov-africa-doubles-fibre-ai-assistant-mia
+MRT,Commission nationale des concours platform,Mauritania,govai,digital competitive-exam platform,Commission nationale des concours,,2026-02-25-mauritanie-conseil-ministres-decret-concours-numeriques-ia-recrutement-3000-agents
+MUS,Digital Interactive Virtual Assistant (DIVA),Mauritius,govai,chatbot with AI agents,"Ministry of Information Technology, Communication and Innovation",,2026-01-01-prb-report-2026-digitalisation-ai-readiness
+MUS,myt learn,Mauritius,other,AI learning platform for secondary school students and teachers,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
+MUS,Kevin AI,Mauritius,other,Mauritian Creole-speaking AI,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
+MUS,MyTLearn,Mauritius,govai,AI tutor and teacher AI coach,Mauritius Telecom with the Ministry of Education,national,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
+MUS,Mauritius AI Registry,Mauritius,other,,,,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
+MUS,Digital Interactive Virtual Assistant (DIVA),Mauritius,govai,,,,2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress
+NER,ILLIMI platform,Niger,govai,multisectoral data platform with local AI assistant and analysis tools,Government of Niger / UN system (UNTFHS-funded),national,2026-06-15-illimi-niger-100-professionnels-formes
+NGA,GovGuide Nigeria,Nigeria,govai,Meta Llama,"Federal Ministry of Communications, Innovation and Digital Economy",,"2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access"
+NGA,Ask INU,Nigeria (Lagos State),govai,WhatsApp,Lagos State Domestic and Sexual Violence Agency (DSVA),subnational,2025-02-25-ai-chatbot-domestic-violence-portal
+NGA,Domestic and Sexual Violence Case Management System (DSVCMS),Nigeria (Lagos State),other,lagosdsvcms.org,Lagos State Domestic and Sexual Violence Agency (DSVA),subnational,2025-02-25-ai-chatbot-domestic-violence-portal
+STP,DireitosAoPovo,Sao Tome and Principe,govai,"AI legal information chatbot (RAG, built on Anthropic AI technology)","Judicial Police, with UNODC",,2026-06-01-sao-tome-unodc-direitosaopovo-ai-justice-platform
+TUN,chatbot of the General Directorate of Taxes,Tunisia,govai,,General Directorate of Taxes,,2026-09-29-tun-tunisienumerique-finance-ministry-ai-taxation-customs
+TZA,FAQ chatbot for the Tanzania Ports Authority,Tanzania,govai,,Tanzania Ports Authority,,2026-08-03-tpa-faq-chatbot-tanzania-ports-authority
+UGA,entervo V3,Uganda,govai,Scheidt & Bachmann,Uganda Civil Aviation Authority,,2026-10-09-uga-monitor-ucaa-entebbe-ai-parking-digital-payments
+UGA,UCC AI content filtering system,Uganda,govai,,Uganda Communications Commission,,2026-09-25-uga-ucc-ai-content-moderation-tool
+UGA,UPF chatbot,Uganda,govai,,Uganda Police Force,,2026-09-03-uga-police-ai-chatbot-announced
+ZAF,Electronic Travel Authorisation (ETA),South Africa,govai,,Department of Home Affairs,,2026-10-02-itweb-sa-eta-machine-learning-visa-adjudication
+ZAF,Electronic Travel Authorisation (ETA),South Africa,govai,"biometric verification, machine learning, eMCS 2.0",Department of Home Affairs,,2026-08-06-wheels-up-for-electronic-travel-authorisation-visas
+ZAF,Batho Pele AI Chatbot,South Africa,govai,"Meta Llama models, built with Juicetel",Department of Public Service and Administration,national,2026-08-01-innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot
+ZMB,Ask Viamo Anything (AVA),Zambia,other,"voice service on any phone, AI-generated voice responses",Viamo,,2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa

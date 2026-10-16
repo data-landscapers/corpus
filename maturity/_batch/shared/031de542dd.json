@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-10-linfodrome-kokou-afrique-modele-propre-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Spam Alert is an operator's service with no government user stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Niger's Spam Alert is a telecom operator's own service, not a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

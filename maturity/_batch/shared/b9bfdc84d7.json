@@ -1,0 +1,81 @@
+{
+ "slug": "2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lab recruits for public-sector AI projects; no administration system piloted or in service stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Togo First says Togo AI Lab, led by the Ministry of Public Service Efficiency and Digital Transformation with CEGA at Berkeley, is recruiting a technical lead to oversee machine-learning, generative AI and satellite-imagery tools for sectors including agriculture, health, education and the environment.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "Togo AI Lab",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo AI Lab",
+       "country_label": "Togo",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of Public Service Efficiency and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Togo First says Togo AI Lab is developing models that understand and generate content in several Togolese languages, within a national local-languages project using LLMs, RAG and AI agents.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "Togo AI Lab local-languages models",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo AI Lab",
+       "country_label": "Togo",
+       "class": "localai",
+       "platform": "",
+       "owner": "Ministry of Public Service Efficiency and Digital Transformation with CEGA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+# Mauritius
+
+## AI built at home
+
+**Model, dataset or computing.** [Mauritius Telecom's CEO says the operator is investing in local data centres equipped with GPU infrastructure to host sovereign AI applications locally](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>). [Mauritius Telecom's CEO says Kevin AI is the first model specifically designed to speak and understand Mauritian Creole, already in use by partner startups for automated bookings and for translating Creole interviews](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>). [Mauritius Telecom says NVIDIA B300 GPUs for its Mauritius data centre are due by the end of the year](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>). [Mauritius Telecom says its sovereign MyTGPT, a local enterprise-grade equivalent of ChatGPT, is in use and now integrates with Microsoft 365, Gmail and Shopify](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
+
+**AI computing.** [Mauritius Telecom's CEO says its data centre in Mauritius now hosts NVIDIA H200 GPUs](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
+
+**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
+
+***Noted, not assessed***. [myt learn](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>); [Mauritius AI Registry](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>); [AIRegistry.mu](<https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/>).
+
+***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.

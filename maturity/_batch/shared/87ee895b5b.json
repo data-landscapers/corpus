@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-15-cameroon-burundi-tech-sector-policy-analysis",
+ "studies": {
+  "startups": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Burundi is said to lack a comprehensive legal framework for its tech ecosystem, but no startup law or support is stated either way."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Panellists at a CEPI and Free Tech Institute webinar spoke of a growing number of technology hubs in Cameroon and Burundi, with insufficient incubation and mentorship support.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "technology hubs",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-28-wearetech-innovlab-comores-accompagnement-entrepreneurs",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Innov'Lab, an incubator created by the UCCIA and launched in February 2017, runs pre-incubation, two-year incubation and acceleration programmes and has incubated more than 60 firms.",
+   "as_of": "2023-11-28",
+   "date_precision": "day",
+   "system": "Innov'Lab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innov'Lab",
+   "country_label": "Comores",
+   "class": "hub",
+   "platform": "",
+   "owner": "Union des Chambres de Commerce et d'Industrie des Comores (UCCIA)",
+   "tiers": "pre-incubation, incubation, acceleration"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "The NCRST authors state Namibia lacks comprehensive data protection and cybersecurity legislation and frameworks for AI governance.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no government body using AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Through the Science Granting Councils Initiative the NCRST has funded projects on AI-powered tools for early disease detection, per the NCRST authors citing SGCI 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed national AI institute with no named builder or funder, and computing listed as a next step."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park described; the AI institute and an NUST accelerator are mentioned without programme or cohort detail."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-02-mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI harm rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Pilots in public administration are only planned, not under way."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Sector pilots are only planned, none stated under way."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Challenge selects projects; no model, dataset or computing stated built or in service."
+    }
+   }
+  }
+ }
+}

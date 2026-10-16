@@ -1,0 +1,101 @@
+{
+ "slug": "2026-07-09-wearetech-six-francophone-ai-governance-framework",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Non-binding guidelines and national strategies only; nothing answers this study."
+    }
+   }
+  }
+ }
+}

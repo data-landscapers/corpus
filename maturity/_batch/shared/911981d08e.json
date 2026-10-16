@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-16-sle-slmonitor-ons-ai-deepfakes-election-security-warning",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A warning and a call for laws; no rule, designated authority, use or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A warning and a call for laws; no rule, designated authority, use or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A warning and a call for laws; no rule, designated authority, use or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A warning and a call for laws; no rule, designated authority, use or build stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "2026-10-11-bj-lanation-ia-images-retouchees-code-numerique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "La Nation states that article 576 of the Code du numerique provides five years' imprisonment and a FCFA 25 million fine for publishing online, without consent, a montage of a person's image or words whose artificial character is not evident or flagged.",
+       "as_of": "2026-10-11",
+       "date_precision": "day",
+       "system": "Code du numerique, article 576",
+       "class": "aiharm"
+      },
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "enforced",
+       "value": "applied",
+       "fact": "La Nation reports that a learner prosecuted for circulating retouched photographs of his teacher was heard by the CRIET on 8 October 2026.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "Code du numerique, article 576",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for this country."
+    }
+   }
+  }
+ }
+}

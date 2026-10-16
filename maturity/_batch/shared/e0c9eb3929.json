@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-05-drc-kibassa-receives-validated-psen-and-national-ai-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The national AI strategy is validated but states no rule, system or fund."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The national AI strategy is validated but states no rule, system or fund."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The national AI strategy is validated but states no rule, system or fund."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The national AI strategy is validated but states no rule, system or fund."
+    }
+   }
+  }
+ }
+}

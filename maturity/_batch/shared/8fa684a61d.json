@@ -1,0 +1,41 @@
+{
+ "slug": "2025-07-28-hapdp-president-interview-loi-2022-59-lesahel",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Data-protection interview; AI regulation is only an intention, no AI-specific rule, draft or use stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Data-protection interview; AI regulation is only an intention, no AI-specific rule, draft or use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Data-protection interview; AI regulation is only an intention, no AI-specific rule, draft or use stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Data-protection interview; AI regulation is only an intention, no AI-specific rule, draft or use stated."
+    }
+   }
+  }
+ }
+}

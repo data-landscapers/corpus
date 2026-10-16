@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-20-tchad-onasa-forme-ses-cadres-intelligence-artificielle",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A training session only; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A training session only; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A training session only; no AI system, rule or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A training session only; no AI system, rule or build stated."
+    }
+   }
+  }
+ }
+}

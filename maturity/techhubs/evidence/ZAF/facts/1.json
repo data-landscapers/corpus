@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-wearetech-injini-programme-12-startups-afrique-australe",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The South African edtech accelerator Injini launched an eight-month programme for twelve startup teams in Southern Africa building affordable classroom AI tools, with seed funding for the top five, per wearetech.africa.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Injini",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Injini",
+   "country_label": "South Africa",
+   "class": "hub",
+   "platform": "",
+   "owner": "Injini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

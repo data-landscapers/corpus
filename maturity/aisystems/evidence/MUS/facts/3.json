@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AIRegistry.mu",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "web directory",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Directory lists locally built models but hosts none itself; no build stated."
+}

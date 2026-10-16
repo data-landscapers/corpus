@@ -1,0 +1,61 @@
+{
+ "slug": "2025-11-28-hac-interdit-medias-contenus-generes-par-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "On 28 November 2025 the HAC president announced a formal ban on all media, including their social-media channels, broadcasting AI-generated speech or images during the 28 December presidential campaign, to prevent manipulation; no sanctions schedule is stated.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "HAC ban on AI-generated content in the election campaign",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Haute Autorite de la Communication (HAC)",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "HAC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  }
+ }
+}

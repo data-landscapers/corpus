@@ -1,0 +1,63 @@
+{
+ "slug": "2026-07-28-tunisie-japon-jica-s2t-partenariat-ecosysteme-startups-africain",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "The article describes the Startup Act as the legal framework promoting startups in Tunisia, on which the JICA programme draws.",
+       "as_of": "2026-07-28",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act",
+       "country_label": "Tunisia",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Tunisia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Smart Tunisian Technoparks (S2T) is described as the first technopark in Tunisia dedicated to ICT; no programme or tenants are stated.",
+       "as_of": "2026-07-28",
+       "date_precision": "day",
+       "system": "Smart Tunisian Technoparks (S2T)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Tunisian Technoparks (S2T)",
+       "country_label": "Tunisia",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

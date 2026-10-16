@@ -1,0 +1,61 @@
+{
+ "slug": "2026-08-19-dba-minesec-simulation-ia-e-education",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Education-sector use is recorded under aisectoral."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Cameroon's secondary-education ministry (MINESEC) presented on 17 August 2026 the official integration of AI-generated simulations in secondary schools, with teacher demonstrations and more than 250 simulations produced, per MINESEC.",
+       "as_of": "2026-08-17",
+       "date_precision": "day",
+       "system": "simulations générées par l'IA (MINESEC)",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "simulations générées par l'IA",
+       "country_label": "Cameroun",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "MINESEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

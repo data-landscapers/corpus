@@ -1,0 +1,89 @@
+{
+ "slug": "2026-09-11-mar-detafour-siyada-raqmiya-dhaka-istinai",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The roadmap lists a regulation and trust programme but states no draft or rule."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The ministry unveiled on 2026-09-08 a sovereign AI platform whose first phase includes Idarati AI, a digital assistant guiding users through administrative procedures.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "Idarati AI",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Idarati AI",
+       "country_label": "Morocco",
+       "class": "govai",
+       "platform": "sovereign unified AI platform",
+       "owner": "Ministry of Digital Transition and Administration Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "JAZARI EduTech is described by its focus only; no tool in a public sector system is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The ministry is developing a sovereign large language model for Darija and Amazigh, and plans a national Data Factory platform to prepare data for AI models (presented 2026-09-08).",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "Sovereign LLM and Data Factory",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sovereign LLM",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "",
+       "owner": "Ministry of Digital Transition and Administration Reform",
+       "tiers": ""
+      },
+      {
+       "system": "Data Factory",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "national data platform",
+       "owner": "Ministry of Digital Transition and Administration Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

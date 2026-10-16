@@ -1,0 +1,16 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "2",
+   "exports": "official:0.0713",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-003",
+   "gaps": "The latest figure, 0.0713 per cent of GDP for 2023, is below 0.2 per cent.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

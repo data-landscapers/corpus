@@ -1,0 +1,6 @@
+{"slug": "2026-03-03-mocti-qhala-civil-servants-ai-cyber-training", "studies": {
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document is a training event and states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document reports a training course for civil servants, not an AI system in use."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document reports a training course; no sector AI tool is stated."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document reports a training course; no AI model, dataset or computing is stated."}}}
+}}

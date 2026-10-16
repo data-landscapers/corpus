@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-10-cote-divoire-ministre-ia-strategie-execution",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a declaration committing to an ethical and regulatory framework; no rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this question for the country."
+    }
+   }
+  }
+ }
+}

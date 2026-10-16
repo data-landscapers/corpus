@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Togo First says Togo AI Lab is developing models that understand and generate content in several Togolese languages, within a national local-languages project using LLMs, RAG and AI agents.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Togo AI Lab local-languages models",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo AI Lab",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation with CEGA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

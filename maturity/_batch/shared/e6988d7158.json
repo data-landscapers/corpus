@@ -1,0 +1,6 @@
+{"slug": "2026-09-28-mus-defimedia-ai-progress-regulation", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing.", "as_of": "2026-09-28", "date_precision": "day", "system": "Data Protection Act 2017", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"MUS": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "The blog by Vishal Askurn says the Bank of Mauritius has explored AI and machine-learning applications within its own operations, including document processing, information gathering, data analytics and forecasting.", "as_of": "2026-09-28", "date_precision": "day", "system": "Bank of Mauritius AI and machine-learning applications", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document names no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document names no AI model, dataset or computing built or hosted in Mauritius."}}}
+}}

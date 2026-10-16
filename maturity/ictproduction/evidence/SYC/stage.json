@@ -1,0 +1,16 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "3",
+   "exports": "official:0.4726",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SYC-004",
+   "gaps": "The latest figure, 0.4726 per cent of GDP for 2024, is below 0.5 per cent.",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

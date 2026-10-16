@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-dza-mesrs-premiere-reunion-coordination-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Algeria's higher education ministry's coordination meeting programmed, for the short term, an AI-based tax management and administration system.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "AI-based tax administration system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

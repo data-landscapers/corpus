@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AgriHyphen AI",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "app",
+   "owner": "Hyphen Tech",
+   "tiers": ""
+  }
+ ],
+ "note": "AgriHyphen AI is a company product used by farmers; no public body is stated to use it."
+}

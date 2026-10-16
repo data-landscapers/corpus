@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-21-anp-forum-cooperation-media-sino-africain-niger",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A speech at a forum; no rule, system or build stated for Niger."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A speech at a forum; no rule, system or build stated for Niger."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A speech at a forum; no rule, system or build stated for Niger."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A speech at a forum; no rule, system or build stated for Niger."
+    }
+   }
+  }
+ }
+}

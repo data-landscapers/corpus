@@ -1,0 +1,61 @@
+{
+ "slug": "2026-09-08-pti-angola-ai-platform-world-bank-pada",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Presidential Order 342/26 authorises US$6 million of World Bank PADA funds to acquire an artificial-intelligence platform for the public sector, as reported by the Portal de T.I.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "public-sector AI platform",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public-sector AI platform (PADA)",
+       "country_label": "Angola",
+       "class": "govai",
+       "platform": "",
+       "owner": "Angolan state",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The platform is an acquisition; no local build or hosting stated."
+    }
+   }
+  }
+ }
+}

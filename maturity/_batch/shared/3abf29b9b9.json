@@ -1,0 +1,6 @@
+{"slug": "2026-07-06-tanzania-statement-un-global-dialogue-ai-governance", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The National AI Strategy Framework (2026) is a framework without stated legal effect; the Personal Data Protection Act 2022 is general and not said to apply to AI; AI-specific liability rules are listed as a remaining challenge."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Public administration is named only as a sector of opportunity; no AI system in use is stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only sector AI policy and guidelines are named; no AI tool in a sector's system is stated."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Kiswahili language models are mentioned as promoted, with no builder, site or release stated."}}}
+}}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-04-drc-digital-sector-constraints-startup-decree",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "ACP quotes a digital specialist saying the DRC Startup Act is still being finalised, with four draft decrees adopted in May 2025 to operationalise tax, customs and exchange advantages of a 2022 ordonnance-loi still in preparation per a 3 August 2026 communique.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act",
+       "country_label": "DRC",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government / ANADEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-ikhtitam-musabaqat-nawat-lil-mashruat-al-taqniyya-2026",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The University of Benghazi business incubator ran the first Nawat tech-projects competition, which drew over 600 entries and gave winners incubation offers from the incubator, with no incubation programme or cohort described.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "University of Benghazi business incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University of Benghazi business incubator",
+   "country_label": "Libya",
+   "class": "hub",
+   "platform": "",
+   "owner": "University of Benghazi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

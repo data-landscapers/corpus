@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MAZU-Djibouti",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAZU-Djibouti 2.0",
+   "country_label": "Djibouti",
+   "class": "sectorai",
+   "platform": "AI weather forecasting and alerts",
+   "owner": "Agence meteorologique nationale de Djibouti",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

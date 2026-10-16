@@ -1,0 +1,61 @@
+{
+ "slug": "2026-08-20-namibian-cabinet-blocks-us-ai-crop-monitoring-tender",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated: the system is a US firm's product, contract terminated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated: the system is a US firm's product, contract terminated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Namibian reports a N$40m contract awarded in June 2026 to 6th Grain Corporation to deploy an AI and satellite-imagery crop-monitoring system for the agriculture ministry, which the government terminated in August 2026 as not meeting legal and procedural requirements.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "AI and satellite imagery-driven crop monitoring system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Remote Sensing Agricultural Services Agreement crop monitoring system",
+       "country_label": "Namibia",
+       "class": "sectorai",
+       "platform": "AI and satellite imagery",
+       "owner": "Ministry of Agriculture (contractor 6th Grain Corporation)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated: the system is a US firm's product, contract terminated."
+    }
+   }
+  }
+ }
+}

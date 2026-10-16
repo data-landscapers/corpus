@@ -72,6 +72,72 @@
      "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Webmanagercenter states Mauritania has Law No. 2024-002 on technological and innovative startups.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Law No. 2024-002 on technological and innovative startups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law No. 2024-002 on technological and innovative startups",
+       "country_label": "Mauritania",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "State of Mauritania",
+       "tiers": ""
+      }
+     ],
+     "note": "No labelling or public fund under the law is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Webmanagercenter, citing Nouakchott Innovation Lab, says the 2025 Fintech Mauritanie Hackathon logged 150 projects and four then joined the Lab's accompaniment pipeline.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Nouakchott Innovation Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nouakchott Innovation Lab",
+       "country_label": "Mauritania",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "BCM Fintech Program",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Banque Centrale de Mauritanie",
+       "tiers": ""
+      }
+     ],
+     "note": "No second city or technology park is stated."
+    }
+   }
   }
  }
 }

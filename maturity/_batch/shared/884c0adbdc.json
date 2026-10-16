@@ -1,0 +1,41 @@
+{
+ "slug": "2025-11-05-sudan-nic-three-national-authorities-data-governance",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Decree creates a data and AI authority to regulate data and enable state AI use; no mandate over AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Decree only; no AI system in use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing stated."
+    }
+   }
+  }
+ }
+}

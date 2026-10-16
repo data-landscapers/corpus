@@ -1,0 +1,107 @@
+{
+ "id": "aisectoral",
+ "study_file": "maturity-study-aisectoral.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "tech.ai"
+ ],
+ "stage_topic": "tech.ai",
+ "redraws": [
+  "tech.ai--use-of-ai-in-sectoral-management-information-systems"
+ ],
+ "carry": [
+  "tech.ai--use-of-ai-in-sectoral-management-information-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "artificial intelligence",
+  "intelligence artificielle",
+  "inteligência artificial",
+  "inteligencia artificial",
+  "الذكاء الاصطناعي",
+  "machine learning",
+  "apprentissage automatique",
+  "generative AI",
+  "IA générative",
+  "AI diagnostic",
+  "AI-powered",
+  "AI tool",
+  "risk engine",
+  "predictive analytics",
+  "AI in health",
+  "AI in agriculture",
+  "AI in education",
+  "IA en santé",
+  "intelligence artificielle dans la santé"
+ ],
+ "sub_indicators": [
+  {
+   "key": "sectorai",
+   "label": "AI in sector systems",
+   "subject": "tech.ai",
+   "text": "Use of AI in sectoral management information systems: AI in sector systems",
+   "indicator_id": "tech.ai--use-of-ai-in-sectoral-management-information-systems-ai-in-sector-systems",
+   "class": "sectorai",
+   "norm_short": "The Continental AI Strategy asks for AI adopted in the core sectors, with national centres of excellence or datasets supporting it and outcomes reported.",
+   "criteria": [
+    "A source from the past three years says no public sector's system uses AI.",
+    "An AI tool for a public health, education, agriculture, tax, customs or other sector's system is piloted, tested or being built.",
+    "An AI tool is in service in a public sector's system and producing outputs, such as diagnoses, risk scores, forecasts or notices.",
+    "AI tools are in service in the public systems of two or more sectors.",
+    "Measured results of a sectoral AI system in service are reported, such as cases detected, revenue recovered or accuracy."
+   ],
+   "criteria_of": "4d9ad3ca3e2a"
+  }
+ ],
+ "classes": [
+  "sectorai",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "use",
+   "name": "AI in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "sectors",
+   "name": "Several sectors",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "results",
+   "name": "Results reported",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reported"
+   ],
+   "values": [
+    "reported"
+   ]
+  }
+ ],
+ "flags": []
+}

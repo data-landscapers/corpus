@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-djibouti-ia-ecosysteme-national-interview-assoweh",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Dr Houssein Ahmed Assoweh, author of the UNESCO readiness report, says Djibouti has no legal framework designed specifically for AI systems, though the Code du numérique and data-protection texts may apply; a framework law and an AI authority are only recommended.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

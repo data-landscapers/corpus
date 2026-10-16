@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Tech Review Africa reports the Ministry of Digital Transition designed and trained AI solutions internally for its AI marketplace and to meet the needs of administrations and public services, with other models and use cases being developed with Mistral AI.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Ministry AI marketplace",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI marketplace",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Administrative Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

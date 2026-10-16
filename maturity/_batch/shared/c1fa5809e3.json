@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-11-techcabal-south-africa-machine-learning-border-checks",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Home Affairs' Electronic Travel Authorisation uses machine learning and biometrics to screen applications; the minister says over 203,000 were processed since May and over 5,500 fraudulent ones rejected.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Electronic Travel Authorisation (ETA)",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Visa screening is not one of the sectoral systems; recorded under government AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

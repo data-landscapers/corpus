@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-incm-thinklab-expansao-nacional",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The regulator INCM runs the Thinklab with technology incubators in operation and incubated startups, shown to a World Bank delegation on 28 May 2026.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "Thinklab do INCM",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Thinklab do INCM",
+   "country_label": "Moçambique",
+   "class": "hub",
+   "platform": "",
+   "owner": "INCM (Autoridade Reguladora das Comunicações)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

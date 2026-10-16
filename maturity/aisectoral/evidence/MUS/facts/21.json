@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Mauritius Telecom says its MyTLearn AI tutor, developed with the Ministry of Education, has completed pilot projects across ten schools nationwide, and it aims to give every secondary school teacher an AI coach by 2027.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "MyTLearn",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MyTLearn",
+   "country_label": "Mauritius",
+   "class": "sectorai",
+   "platform": "AI tutor and teacher coach",
+   "owner": "Mauritius Telecom with the Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

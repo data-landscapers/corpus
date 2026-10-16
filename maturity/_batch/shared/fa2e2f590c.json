@@ -1,0 +1,54 @@
+{
+ "slug": "2026-03-09-brazzaville-prochaine-frontiere-tech-africaine",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Journal du Net says the Senate adopted law no. 71-2022 on the digital start-up label in August 2022.",
+       "as_of": "2022-08",
+       "date_precision": "month",
+       "system": "Loi n° 71-2022 label start-up du numérique",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": "Article says the labelling commission has no decree and no label has been issued; no public fund financing startups is described."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Journal du Net reports the minister announced a fund of 50 million FCFA for the incubator of Université Marien Ngouabi, with no programme or cohort described.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Incubateur de l'Université Marien Ngouabi",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Incubateur de l'Université Marien Ngouabi",
+       "country_label": "Congo",
+       "class": "hub",
+       "platform": "",
+       "owner": "Université Marien Ngouabi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

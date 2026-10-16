@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-29-zwe-technomag-undp-uncommon-rural-ai-hub-nyamuroro-gokwe",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "UNDP, the Ministry of Youth and Uncommon launched the first rural AI, digital and innovation hub at Nyamuroro VTC in Gokwe, with a free one-year digital skills bootcamp for 50 youths starting September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Uncommon AI, Digital and Innovation Hub, Nyamuroro",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Uncommon AI, Digital and Innovation Hub, Nyamuroro",
+       "country_label": "Zimbabwe",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Youth, UNDP Zimbabwe and Uncommon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

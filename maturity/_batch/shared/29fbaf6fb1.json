@@ -1,0 +1,41 @@
+{
+ "slug": "2026-04-24-malijet-mali-forum-national-annuel-intelligence-artificielle",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states a national AI forum only; no rule, AI system or build."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states a national AI forum only; no rule, AI system or build."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states a national AI forum only; no rule, AI system or build."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states a national AI forum only; no rule, AI system or build."
+    }
+   }
+  }
+ }
+}

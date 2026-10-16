@@ -1,0 +1,43 @@
+{
+ "slug": "2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only unspecified startup support is said to be in preparation; no law or strategy is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "President Touadera's government is creating a startup training centre at the University of Bangui, per Ndjoni Sango.",
+       "as_of": "2025-05-22",
+       "date_precision": "day",
+       "system": "Startup training centre, University of Bangui",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup training centre, University of Bangui",
+       "country_label": "Central African Republic",
+       "class": "hub",
+       "platform": "",
+       "owner": "University of Bangui",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

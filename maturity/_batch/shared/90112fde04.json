@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-06-cod-globalnewsrdc-ia-rdc-enquete-target",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion survey of AI awareness and use; the national AI strategy is named only as context, no rule, system or facility stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion survey of AI awareness and use; the national AI strategy is named only as context, no rule, system or facility stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion survey of AI awareness and use; the national AI strategy is named only as context, no rule, system or facility stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion survey of AI awareness and use; the national AI strategy is named only as context, no rule, system or facility stated."
+    }
+   }
+  }
+ }
+}

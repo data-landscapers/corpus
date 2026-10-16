@@ -1,0 +1,5 @@
+{"slug": "2026-07-16-cabo-verde-health-ai", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Minister only calls for an ethical and regulatory framework; no draft or rule stated."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Health-sector speech; no government administration AI system stated."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Minister says AI is an opportunity and the country could host pilots; no tool piloted or built is stated."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}}}

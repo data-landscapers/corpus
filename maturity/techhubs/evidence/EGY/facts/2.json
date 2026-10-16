@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-22-egy-ahramonline-fdc-summit-digital-transformation-govt",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Ministry of Investment and Foreign Trade plans to launch the TradeTech regulatory sandbox and innovation hub in October 2026, open to startups with an incubator-style environment, per assistant minister Sherif Yehia.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "TradeTech",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The communications ministry supports startups and innovators through Creativity Egypt Digital Innovation Hubs in 20 governorates, with no programme or cohort described.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Creativity Egypt Digital Innovation Hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

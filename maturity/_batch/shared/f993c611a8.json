@@ -1,0 +1,61 @@
+{
+ "slug": "2026-07-20-ethiopia-joins-waico-global-ai-alliance",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study's questions for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study's questions for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing answering this study's questions for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Ethiopia, with UNDP and Addis Ababa University, has established an AI University Innovation Pod equipped with laboratories, robotics facilities and high-performance computing systems, per Birr Metrics.",
+       "as_of": "2026-07-20",
+       "date_precision": "day",
+       "system": "AI University Innovation Pod",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI University Innovation Pod",
+       "country_label": "Ethiopia",
+       "class": "localai",
+       "platform": "high-performance computing",
+       "owner": "Addis Ababa University with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

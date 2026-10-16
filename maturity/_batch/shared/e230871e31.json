@@ -1,0 +1,4 @@
+{"slug": "2026-09-15-gab-agp-cgi-pnud-techspace-masuku-ustm", "studies": {
+"startups": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No startup law, strategy or public fund is stated."}}},
+"techhubs": {"countries": {"GAB": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Centre gabonais de l'innovation and UNDP signed a partnership in Libreville to launch TechSpace Masuku, a technology incubator at the Universite des sciences et techniques de Masuku, with a programme to train more than 300 young people; no cohort is yet reported.", "as_of": "2026-09-15", "date_precision": "day", "system": "TechSpace Masuku", "class": "hub"}], "systems": [{"system": "TechSpace Masuku", "country_label": "Gabon", "class": "hub", "platform": "incubator at USTM", "owner": "Centre gabonais de l'innovation, UNDP, USTM", "tiers": ""}], "note": ""}}}
+}}

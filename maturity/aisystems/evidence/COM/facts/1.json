@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Al-Watwan reports that Komori TTS, the first Shikomori text-to-speech application, was launched on 28 July 2026 by a Comorian graduate now studying in Morocco, with no such model existing before.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Komori TTS",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Komori TTS",
+   "country_label": "Comoros",
+   "class": "localai",
+   "platform": "web application (Komori IA site)",
+   "owner": "Soilahoudine Mohamed (individual)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

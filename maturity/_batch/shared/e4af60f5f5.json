@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-17-mozambique-intic-vodacom-ai-strategy-consultation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI strategy consultation and general cybersecurity and cybercrime laws are stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI strategy consultation and general cybersecurity and cybercrime laws are stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI strategy consultation and general cybersecurity and cybercrime laws are stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI strategy consultation and general cybersecurity and cybercrime laws are stated."
+    }
+   }
+  }
+ }
+}

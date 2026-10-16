@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,hub,hubs,coverage,underway,2026-08-20,NER-001;NER-002;NER-003,,
+NER,hub,cities,coverage,,,,,nothing held
+NER,hub,park,coverage,,,,,nothing held

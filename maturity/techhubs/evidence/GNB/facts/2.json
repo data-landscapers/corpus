@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-25-guinebissau-ang-incubadora-inodevgb",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The InoDevGB incubator in Bissau was inaugurated by the minister and began activities on 25 September 2025 training 15 young people selected from 52 proposals.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Incubadora InoDevGB",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Incubadora InoDevGB",
+   "country_label": "Guinea-Bissau",
+   "class": "hub",
+   "platform": "",
+   "owner": "NGO InoDevGB",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

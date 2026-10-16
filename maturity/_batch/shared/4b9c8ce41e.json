@@ -1,0 +1,13 @@
+{"slug": "2026-04-20-first-ai-cybersecurity-startup-cluster--wearetech", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on government AI use."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on sectoral AI."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Cluster is for startups; no AI model, dataset or computing is stated."}}},
+"startups": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "We Are Tech reports a government strategy to scale up the entrepreneurial ecosystem, with President Tebboune's target of 20,000 start-ups in Algeria by 2029.", "as_of": "2026-04-20", "date_precision": "day", "system": "Knowledge-economy strategy", "class": "startuppolicy"},
+{"sub_indicator": "startuppolicy", "aspect": "labelled", "value": "labelled", "fact": "Authorities reported Algeria had registered 130 start-ups and 1,175 projects labeled as innovative.", "as_of": "2026-04-20", "date_precision": "day", "system": "Start-up and innovative project labels", "class": "startuppolicy"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Algeria launched its first national AI and cybersecurity start-up cluster on 18 April 2026 at the Sidi Abdellah science and technology hub in Algiers, backed by the Higher Education, Knowledge Economy and Telecommunications ministries; no cohort is named.", "as_of": "2026-04-18", "date_precision": "day", "system": "AI and cybersecurity start-up cluster", "class": "hub"}
+], "systems": [{"system": "AI and cybersecurity start-up cluster", "country_label": "Algeria", "class": "hub", "platform": "", "owner": "Ministries of Higher Education, Knowledge Economy and Telecommunications", "tiers": ""}], "note": ""}}}
+}}

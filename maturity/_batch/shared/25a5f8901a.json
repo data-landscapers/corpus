@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness study only; data-protection law revision is expected to add AI provisions but no draft is stated; fibre and data centres name no AI computing."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI rule, authority, administration use, sectoral tool or local AI build for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI rule, authority, administration use, sectoral tool or local AI build for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Readiness study only; data-protection law revision is expected to add AI provisions but no draft is stated; fibre and data centres name no AI computing."
+    }
+   }
+  }
+ }
+}

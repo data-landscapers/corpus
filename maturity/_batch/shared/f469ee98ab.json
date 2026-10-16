@@ -163,6 +163,24 @@
      "note": "Document states no fact answering this study for this country."
     }
    }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom and transit partnership; no startup law, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park stated."
+    }
+   }
   }
  }
 }

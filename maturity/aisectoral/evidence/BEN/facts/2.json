@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-wearetech-benin-ai-drones-malaria-mapping",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Benin launched on 30 June 2026 a Japan-funded $2.3m malaria project that will use AI with geospatial mapping to find high-risk mosquito breeding areas for drone larvicide spraying in six pilot municipalities, per the government and We Are Tech Africa.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Integrated Action for Malaria Prevention project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Action for Malaria Prevention project",
+   "country_label": "Benin",
+   "class": "sectorai",
+   "platform": "AI, drones and geospatial mapping",
+   "owner": "Government of Benin, financed by Japan",
+   "tiers": "six pilot municipalities"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-09-15-gha-onuaonline-african-approach-ai-ethics-infrastructure", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Minister raises bias in AI models trained without African data; no rule, authority or draft is stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AI skills training for civil servants only; no government AI system is described."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is described."}}},
+"aisystems": {"countries": {"GHA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Minister Samuel Nartey George says Ghana is committing US$250 million over the next two years to AI computing infrastructure, intended as a regional hub giving neighbouring countries, universities, researchers and start-ups access to high-performance computing.", "as_of": "2026-09-15", "date_precision": "day", "system": "AI computing infrastructure", "class": "localai"}], "systems": [{"system": "AI computing infrastructure", "country_label": "Ghana", "class": "localai", "platform": "high-performance computing", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}}
+}}

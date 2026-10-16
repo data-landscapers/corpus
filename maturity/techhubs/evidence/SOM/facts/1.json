@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-somalias-nca-signs-partnership-agreement-with-irise-hub",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Somalia's National Communications Authority signed an MoU with iRise Hub, an innovation hub, on innovation, entrepreneurship and startup support; no programme or cohort is stated.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "iRise Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iRise Hub",
+   "country_label": "Somalia",
+   "class": "hub",
+   "platform": "",
+   "owner": "private",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

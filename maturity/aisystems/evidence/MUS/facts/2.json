@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "Mauritius Telecom's CEO says its data centre in Mauritius now hosts NVIDIA H200 GPUs.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Mauritius Telecom data centre H200 GPUs",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Mauritius Telecom says its sovereign MyTGPT, a local enterprise-grade equivalent of ChatGPT, is in use and now integrates with Microsoft 365, Gmail and Shopify.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "MyTGPT",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Mauritius Telecom says NVIDIA B300 GPUs for its Mauritius data centre are due by the end of the year.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Mauritius Telecom data centre B300 GPUs",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MyTGPT",
+   "country_label": "Mauritius",
+   "class": "localai",
+   "platform": "AI model service",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Mauritius AI Registry",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "airegistry.mu",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

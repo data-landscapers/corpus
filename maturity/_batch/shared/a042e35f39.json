@@ -1,10 +1,158 @@
-{"slug":"2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais","studies":{
-"businesspayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document is about payment cybersecurity; no procurement."}}},
-"centralbank":{"countries":{"AGO":{"facts":[],"systems":[{"system":"EMIS","country_label":"Angola","class":"other","platform":"","owner":"EMIS (interbank services company)","tiers":""}],"note":"EMIS is named as operator; the document states no central bank role."}}},
-"consumerprotection":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No consumer rules or redress stated."}}},
-"crossborderpayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
-"g2ppayments":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
-"paymentsuptake":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No survey share stated."}}},
-"retailpayments":{"countries":{"AGO":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"EMIS, Angola's interbank services company, manages the MULTICAIXA Express app and KWiK instant transfers, per an EMIS executive director at the 2026-10-12 CyberSecur Summit.","as_of":"2026-10-12","date_precision":"day","system":"KWiK","class":"retail"}],"systems":[{"system":"Rede MULTICAIXA","country_label":"Angola","class":"other","platform":"","owner":"EMIS","tiers":""},{"system":"MULTICAIXA Express","country_label":"Angola","class":"retail","platform":"mobile app","owner":"EMIS","tiers":""},{"system":"KWiK","country_label":"Angola","class":"retail","platform":"instant transfers","owner":"EMIS","tiers":""}],"note":""}}},
-"revenuecollection":{"countries":{"AGO":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
-}}
+{
+ "slug": "2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about payment cybersecurity; no procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "EMIS (interbank services company)",
+       "tiers": ""
+      }
+     ],
+     "note": "EMIS is named as operator; the document states no central bank role."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer rules or redress stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border channel stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments to people stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "EMIS, Angola's interbank services company, manages the MULTICAIXA Express app and KWiK instant transfers, per an EMIS executive director at the 2026-10-12 CyberSecur Summit.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "KWiK",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rede MULTICAIXA",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "EMIS",
+       "tiers": ""
+      },
+      {
+       "system": "MULTICAIXA Express",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "mobile app",
+       "owner": "EMIS",
+       "tiers": ""
+      },
+      {
+       "system": "KWiK",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "instant transfers",
+       "owner": "EMIS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No tax or fee payment stated."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "EMIS is an interbank payments operator using AI for its own security; the document names no government body using AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "AI named is in a payments operator's security centre, not a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "AI tools are used by EMIS, but no AI model, dataset or computing built or hosted in the country is stated."
+    }
+   }
+  }
+ }
+}

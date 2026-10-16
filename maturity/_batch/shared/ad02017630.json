@@ -1,0 +1,72 @@
+{
+ "slug": "2026-06-08-wearetech-madagascar-digital-criminal-records-platform",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "CMIL only called for a framework; no draft or rule in force is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "We Are Tech Africa reports officials said Madagascar's courts already use AI technologies for certain research and document management functions.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "AI research and document management tools in courts",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Logipenal",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "",
+       "owner": "Judicial authorities",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Madagascar's judicial authorities are evaluating AI tools for judicial support functions, announced 2 June 2026.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "AI judicial support tools",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

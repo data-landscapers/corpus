@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-19 Ethiopia launches AI UniPod to drive innovation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Ethiopia launched the AI UniPod in Addis Ababa, a national AI innovation centre by the Ethiopian AI Institute, Addis Ababa University and UNDP with the Timbuktoo Initiative; no programme or cohort is stated.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "AI UniPod",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI UniPod",
+   "country_label": "Ethiopia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ethiopian AI Institute, Addis Ababa University, UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,production,exports,official:0.0204,"ICT service exports from South Sudan were 0.0204 per cent of GDP in 2015, by the World Bank's series.",2015,year,ICT service exports over GDP (WDI),ictproduction,ref:wdi-ict-service-exports-gdp@2026-07-13,https://data.worldbank.org/indicator/BX.GSR.CCIS.CD

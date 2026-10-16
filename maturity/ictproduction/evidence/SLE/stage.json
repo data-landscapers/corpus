@@ -1,0 +1,16 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.0225",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

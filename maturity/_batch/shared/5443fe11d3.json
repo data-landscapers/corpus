@@ -1,0 +1,6 @@
+{"slug": "2026-05-28-national-ai-strategy-readiness", "studies": {
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Strategy and readiness diagnostic only; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
+}}

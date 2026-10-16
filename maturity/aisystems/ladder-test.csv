@@ -1,0 +1,55 @@
+iso3,stage,build,compute,shared,stage_sources
+AGO,2,underway,,,AGO-001
+BDI,3,inservice,,,BDI-001
+BEN,2,underway,,,BEN-001
+BFA,2,underway,,,BFA-001
+BWA,no evidence,,,,
+CAF,3,inservice,,,CAF-001
+CIV,2,underway,,,CIV-001
+CMR,3,inservice,,,CMR-003
+COD,2,underway,,,COD-001
+COG,2,underway,,,COG-002;COG-001
+COM,3,inservice,,,COM-001
+CPV,2,underway,,,CPV-001
+DJI,3,inservice,,,DJI-001
+DZA,2,underway,,,DZA-001;DZA-002
+EGY,3,inservice,,,EGY-006;EGY-002
+ERI,no evidence,,,,
+ETH,3,inservice,,,ETH-001
+GAB,no evidence,,,,
+GHA,2,underway,,,GHA-003;GHA-004
+GIN,no evidence,,,,
+GMB,no evidence,,,,
+GNB,no evidence,,,,
+GNQ,no evidence,,,,
+KEN,2,underway,,,KEN-001;KEN-002
+LBR,3,inservice,,,LBR-001;LBR-002
+LBY,3,inservice,,,LBY-001
+LSO,2,underway,,,LSO-002;LSO-001
+MAR,4,inservice,compute,,MAR-007
+MDG,no evidence,,,,
+MLI,no evidence,,,,
+MOZ,no evidence,,,,
+MRT,3,inservice,,,MRT-001
+MUS,4,inservice,compute,,MUS-003
+MWI,4,inservice,compute,,MWI-002
+NAM,2,underway,,,NAM-001;NAM-003
+NER,no evidence,,,,
+NGA,4,inservice,compute,,NGA-002
+RWA,4,inservice,compute,,RWA-003
+SDN,no evidence,,,,
+SEN,3,inservice,,,SEN-001
+SLE,no evidence,,,,
+SOM,no evidence,,,,
+SSD,no evidence,,,,
+STP,no evidence,,,,
+SWZ,no evidence,,,,
+SYC,no evidence,,,,
+TCD,2,underway,,,TCD-001
+TGO,4,inservice,compute,,TGO-005
+TUN,3,inservice,,,TUN-001
+TZA,2,underway,,,TZA-001
+UGA,3,inservice,,,UGA-002
+ZAF,4,inservice,compute,,ZAF-002
+ZMB,4,inservice,compute,,ZMB-002
+ZWE,3,inservice,,,ZWE-001

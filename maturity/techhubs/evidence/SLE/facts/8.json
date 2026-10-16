@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-01-invest-salone-angel-investment-brief-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Invest Salone's brief names Innovation SL and Creative Hub Africa Christex as innovation hubs and accelerators expanding to nurture talent, with no programme or cohort described.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Innovation SL; Creative Hub Africa Christex",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innovation SL",
+   "country_label": "Sierra Leone",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Creative Hub Africa Christex",
+   "country_label": "Sierra Leone",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

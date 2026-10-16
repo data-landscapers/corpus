@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-23-statehouse-koica-undp-abuja-entrepreneurship-centre-12m",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Presidency says the KOICA-funded, UNDP- and SMEDAN-run US$12m Abuja Centre for Entrepreneurship, with incubation and enterprise support for start-ups, is under construction at the SMEDAN Industrial Development Centre in Idu, Abuja.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Abuja Centre for Entrepreneurship (ACE)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Abuja Centre for Entrepreneurship (ACE)",
+   "country_label": "Nigeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "SMEDAN with KOICA and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

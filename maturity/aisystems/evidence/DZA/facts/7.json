@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The 5 August 2026 interministerial meeting chaired by minister Kamel Baddari set priority axes of sovereign open-source government AI models and high-performance computing in national data centres for local training by researchers and startups.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "sovereign government AI models and national data-centre computing",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

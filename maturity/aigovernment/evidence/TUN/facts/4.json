@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-tun-tunisienumerique-finance-ministry-ai-taxation-customs",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Director General of the National Customs School said projects underway, to be announced soon, include AI-powered communication tools, particularly a chatbot within the General Directorate of Taxes.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "chatbot of the General Directorate of Taxes",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "chatbot of the General Directorate of Taxes",
+   "country_label": "Tunisia",
+   "class": "govai",
+   "platform": "",
+   "owner": "General Directorate of Taxes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

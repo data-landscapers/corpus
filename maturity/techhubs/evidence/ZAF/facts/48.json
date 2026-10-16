@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-27 SA powers Africa's $1.64bn tech funding rebound",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Disrupt Africa reports that one-third of funded South African start-ups participated in incubator or accelerator programmes in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "incubator and accelerator programmes",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

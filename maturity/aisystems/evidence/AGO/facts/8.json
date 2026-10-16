@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "AGT in-house AI system",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGT in-house AI system",
+   "country_label": "Angola",
+   "class": "localai",
+   "platform": "machine learning",
+   "owner": "AGT (Administração Geral Tributária)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

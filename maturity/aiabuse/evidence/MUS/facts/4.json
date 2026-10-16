@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-mus-defimedia-ai-progress-regulation",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Data Protection Act 2017",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

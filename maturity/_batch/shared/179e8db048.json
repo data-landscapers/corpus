@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-23-qarar-23-lisanat-2025-sunduq-intilaqa-sharikat-al-ibtikar-al-nashia",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Libya's Prime Minister's Decision 23 of 2025, in force from issue, creates the Sunduq Intilaqa fund for seed finance (up to LYD 150,000 per company) and loan guarantees for startups, and defines a start-up in law.",
+       "as_of": "2025-01-23",
+       "date_precision": "day",
+       "system": "Sunduq Intilaqa",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sunduq Intilaqa",
+       "country_label": "Libya",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Council of Ministers",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Decision only requires registration with accredited university incubators; no hub in service or under way is stated."
+    }
+   }
+  }
+ }
+}

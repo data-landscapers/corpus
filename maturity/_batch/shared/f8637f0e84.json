@@ -1,0 +1,41 @@
+{
+ "slug": "2026-08-15-tunisia-ai-strategy-2026-2030-top-30-scientific-publications",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2026-2030 strategy is a strategy with a stated preventive approach; no rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy only; no government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy and publication ranking only; no model, dataset or compute."
+    }
+   }
+  }
+ }
+}

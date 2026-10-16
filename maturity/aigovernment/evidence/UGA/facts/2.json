@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-uga-ucc-ai-content-moderation-tool",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Kasule Lumumba said the Uganda Communications Commission is in the process of procuring an AI-powered system to identify and filter harmful content; cost, vendor and date were not disclosed.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "UCC AI content filtering system (being procured)",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCC AI content filtering system",
+   "country_label": "Uganda",
+   "class": "govai",
+   "platform": "",
+   "owner": "Uganda Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

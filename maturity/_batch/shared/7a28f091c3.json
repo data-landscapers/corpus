@@ -1,0 +1,52 @@
+{
+ "slug": "2025-08-13-bwa-ai-policy-final-stage",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "National AI policy being finalised; no AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Assistant Minister Shawn Nthaile said government is piloting AI for health diagnostics in remote areas.",
+       "as_of": "2025-08-13",
+       "date_precision": "day",
+       "system": "AI health diagnostics pilot",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

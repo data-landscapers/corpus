@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-07-oscar-ondo-ngomo-asume-secretario-estado-ia-realeg",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "Decree 61/2026 of 23 June 2026 appointed Dr Oscar Ondo Ngomo Secretary of State for Artificial Intelligence Systems at the Ministry of Transport, Telecommunications and Civil Aviation, to promote development and use of AI systems.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Secretaria de Estado encargada de Sistemas de Inteligencia Artificial",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

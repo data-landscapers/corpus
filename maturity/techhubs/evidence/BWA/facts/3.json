@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-03-botswana-startup-ecosystem-report-2026",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Botswana Startup Ecosystem Report says support services expanded over the past decade through the Botswana Digital & Innovation Hub, Stanbic Accelerate and UniPod Botswana, and remain concentrated in Gaborone.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Botswana Digital & Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Digital & Innovation Hub",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Stanbic Accelerate",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "UniPod Botswana",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

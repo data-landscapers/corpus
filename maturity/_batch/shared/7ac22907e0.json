@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-31-cameroon-pm-national-ai-strategy-completion",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "AI strategy still being developed and priorities only; no rule, use, or named builder, funder or site."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "AI strategy still being developed and priorities only; no rule, use, or named builder, funder or site."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "AI strategy still being developed and priorities only; no rule, use, or named builder, funder or site."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "AI strategy still being developed and priorities only; no rule, use, or named builder, funder or site."
+    }
+   }
+  }
+ }
+}

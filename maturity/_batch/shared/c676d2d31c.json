@@ -1,0 +1,61 @@
+{
+ "slug": "2025-05-13-daily-business-transactions-monitored-ai-tax-fraud",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax authority tender only; no AI harms rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI system is for tax, a sector system, so not government administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Eswatini Revenue Service issued a request for proposals for a fiscalisation system using machine learning and AI for tax risk assessment and fraud detection, per Eswatini Financial Times.",
+       "as_of": "2025-05-13",
+       "date_precision": "day",
+       "system": "ERS fiscalisation system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ERS fiscalisation system",
+       "country_label": "Eswatini",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Eswatini Revenue Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or computing is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2025-10-28-libigpt-first-generative-ai-launched-libyaherald",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Project is by a company; no government body is stated as user."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Libya Herald reports the LIBIGPT project, the first generative AI model in Libya, implemented by Smart Co for Technology Projects and Artificial Intelligence, was announced in Tripoli.",
+       "as_of": "2025-10-27",
+       "date_precision": "day",
+       "system": "LIBIGPT",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LIBIGPT",
+       "country_label": "Libya",
+       "class": "localai",
+       "platform": "generative AI model",
+       "owner": "Smart Co for Technology Projects and Artificial Intelligence",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-01-undp-liberia-liyepa-accelerator-launch-icampus",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "LiYEPA is a UNDP-led programme; no state startup law, strategy or public startup fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "UNDP with iCampus Liberia, the Ministry of Commerce and Industry, the University of Liberia and UniPod launched LiYEPA, a six-month pilot accelerator with incubation, mentorship and prototype support, on 30 June 2026, aiming at 100-120 innovators, with applications open.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "LiYEPA",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LiYEPA",
+       "country_label": "Liberia",
+       "class": "hub",
+       "platform": "",
+       "owner": "iCampus Liberia with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

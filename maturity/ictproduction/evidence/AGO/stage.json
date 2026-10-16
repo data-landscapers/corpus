@@ -1,0 +1,16 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "production",
+   "stage": "1",
+   "exports": "official:0.0168",
+   "plant": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ictproduction.py."
+  }
+ ]
+}

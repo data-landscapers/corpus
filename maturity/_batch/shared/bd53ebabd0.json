@@ -1,0 +1,90 @@
+{
+ "slug": "2026-09-01-djibouti-ia-ecosysteme-national-interview-assoweh",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "Dr Houssein Ahmed Assoweh, author of the UNESCO readiness report, says Djibouti has no legal framework designed specifically for AI systems, though the Code du numérique and data-protection texts may apply; a framework law and an AI authority are only recommended.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "It says AI is entering administrations but names no body or system."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "It lists possible sector uses and names no tool in service or under way."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "It mentions university research on Somali language models but no released model, dataset or computing."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Dr Houssein Ahmed Assoweh lists the Startup Act among the texts Djibouti already has, and the roadmap recommends adapting its mechanisms to AI-using firms.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act",
+       "country_label": "Djibouti",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "A national AI innovation hub and incubators are only recommended, none is built or open."
+    }
+   }
+  }
+ }
+}

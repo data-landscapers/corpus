@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-09-ben-cadreco-cdsi-ia-talents",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "A national cybersecurity reference framework for AI systems, presented by ASIN on 2026-10-08, sets four risk tiers from minimal to unacceptable with controls, an AI officer and ethics committee, and filtering and human validation for generative AI against manipulated content; it is reported as presented, not adopted.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "référentiel national de cybersécurité des systèmes d'intelligence artificielle",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [
+      {
+       "system": "référentiel national de cybersécurité des systèmes d'intelligence artificielle",
+       "country_label": "Bénin",
+       "class": "aiharm",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": "four risk tiers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Framework presented not adopted; no AI in service stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local model, dataset or compute stated."
+    }
+   }
+  }
+ }
+}
