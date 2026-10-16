@@ -1,8 +1,175 @@
-{"slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach", "studies": {
-"birthidlink": {"countries": {"NAM": {"facts": [], "systems": [{"system": "National Population Registration System (NPRS)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Home Affairs", "tiers": ""}], "note": "The link described is between the population register and social protection, not between a civil register and a separate ID system."}}},
-"idcoverage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
-"idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No unique number given at birth is stated."}}},
-"idmaintenance": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No statement on who operates or maintains the system."}}},
-"idregisters": {"countries": {"NAM": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Namibia's two responsible ministries signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons, and the Covid-19 Emergency Income Grant applicants were all verified against the NPRS.", "as_of": "2026-07-18", "date_precision": "day", "system": "National Population Registration System (NPRS)", "class": "register"}], "systems": [{"system": "National Population Registration System (NPRS)", "country_label": "Namibia", "class": "register", "platform": "", "owner": "Ministry of Home Affairs", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"NAM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Namibia's presentation says it is in the process of introducing an electronic identity card, expected to enhance security and authentication in digital services.", "as_of": "2026-07-18", "date_precision": "day", "system": "electronic identity card", "class": "idsystem"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Population Registration System (NPRS)",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "The link described is between the population register and social protection, not between a civil register and a separate ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No unique number given at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on who operates or maintains the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Namibia's two responsible ministries signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons, and the Covid-19 Emergency Income Grant applicants were all verified against the NPRS.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "National Population Registration System (NPRS)",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Registration System (NPRS)",
+       "country_label": "Namibia",
+       "class": "register",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Namibia's presentation says it is in the process of introducing an electronic identity card, expected to enhance security and authentication in digital services.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "electronic identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Namibia's Chief Registrar said it is working to strengthen timely birth and death registration by monitoring notification and registration through its e-notification system.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "e-notification system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Registration System (NPRS)",
+       "country_label": "Namibia",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      },
+      {
+       "system": "e-notification system",
+       "country_label": "Namibia",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The ministries of civil registration and social protection signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "National Population Registration System (NPRS)",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "Namibia's Chief Registrar said all applicants for the Covid-19 Emergency Income Grant were verified against the NPRS, and social protection verifies live status against it.",
+       "as_of": "2026-07-18",
+       "date_precision": "day",
+       "system": "National Population Registration System (NPRS)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Registration System (NPRS)",
+       "country_label": "Namibia",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

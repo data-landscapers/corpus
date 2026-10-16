@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-agp-gabon-registre-social-unifie-rsug-premier-livrable",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The Ministry of Social Affairs presented the first deliverable of the unified social registry (RSUG) on 29 July 2026, with the stated aim of setting up the registry.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Registre social unifié du Gabon (RSUG)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unifié du Gabon (RSUG)",
+   "country_label": "Gabon",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministère des Affaires sociales",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "4",
+   "registry": "inservice",
+   "programmes": "several",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-004",
+   "gaps": "No source held since October 2023 says the social registry is linked to the national ID.",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

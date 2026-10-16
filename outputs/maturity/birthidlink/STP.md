@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [A Justice Ministry official says the MOSIP-based digital ID pilot is anchored on birth registration and that 'we started with civil registration'](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Civil register linked to ID.** [A Justice Ministry official says the MOSIP-based digital ID pilot is anchored on birth registration and that 'we started with civil registration'](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>).
 

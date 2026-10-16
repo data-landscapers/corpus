@@ -1,0 +1,17 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "2",
+   "roll": "underway",
+   "checked": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-002",
+   "gaps": "No source held since October 2023 says: is the roll held digitally.",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-10-cpv-governo-onu-alinhamento-cadastro-social-unico",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Cabo Verde government and UN reported the Cadastro Social Unico reaching 64% of the population.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "Cadastro Social Unico",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastro Social Unico",
+       "country_label": "Cadastro Social Unico",
+       "class": "social",
+       "platform": "",
+       "owner": "Government of Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

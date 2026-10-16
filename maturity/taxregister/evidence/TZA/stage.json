@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "taxpayers",
+   "stage": "no evidence",
+   "register": "",
+   "shared": "",
+   "nationalid": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how taxpayers are registered.",
+   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
+  }
+ ]
+}

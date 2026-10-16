@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-norebase-state-of-expansions-report",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Norebase report, via TechCabal, says firms can incorporate in Rwanda within 24 to 72 hours through digital registration, and that the Rwanda Development Board's digital business registration platform moved registration entirely online in January.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Rwanda Development Board digital business registration platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Development Board digital business registration platform",
+   "country_label": "Rwanda",
+   "class": "business",
+   "platform": "",
+   "owner": "Rwanda Development Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

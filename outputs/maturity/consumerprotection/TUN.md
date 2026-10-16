@@ -2,7 +2,7 @@
 
 ## Consumer protection
 
-**Rules in force.** [Central Bank of Tunisia Circular No. 2024-2 of 29 January 2024 governs the information given to clients about the marketing and pricing of financial products and services, including remote operations](<https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Rules in force.** [Central Bank of Tunisia Circular No. 2024-2 of 29 January 2024 governs the information given to clients about the marketing and pricing of financial products and services, including remote operations](<https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Complaints handled.** No source held since October 2023 says a financial ombudsman or complaints unit takes complaints. The nearest held fact: [the one given above](<https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/>).
 

@@ -1,0 +1,117 @@
+{
+ "id": "businessregister",
+ "study_file": "maturity-study-businessregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--business-register"
+ ],
+ "carry": [
+  "dpi.registry--business-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "business registration",
+  "business register",
+  "business registry",
+  "company registration",
+  "companies registry",
+  "registrar of companies",
+  "company registry",
+  "register companies",
+  "beneficial ownership",
+  "beneficial owners",
+  "RCCM",
+  "registre du commerce",
+  "création d'entreprise",
+  "création d'entreprises",
+  "bénéficiaires effectifs",
+  "registo comercial",
+  "registo de empresas",
+  "beneficiários efectivos",
+  "beneficiários efetivos",
+  "السجل التجاري",
+  "تسجيل الشركات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "business",
+   "label": "Business register",
+   "subject": "dpi.registry",
+   "text": "Business register: business register",
+   "indicator_id": "dpi.registry--business-register-business-register",
+   "class": "business",
+   "norm_short": "The African Union's Digital Transformation Strategy asks for an electronic business register, and the AfCFTA Digital Trade Protocol for the identity of firms to be recognised across borders.",
+   "criteria": [
+    "A source from the past three years says business registration is on paper and held locally.",
+    "A digital business register is procured, its records are being digitised, or a one-stop registration counter has opened.",
+    "Online business registration is in service.",
+    "Registration gives a firm one number shared with the tax authority or social security.",
+    "The register collects the firms' beneficial owners, in service."
+   ],
+   "criteria_of": "8538fbf38dc2"
+  }
+ ],
+ "classes": [
+  "business",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "registration",
+   "name": "Online registration",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "shared",
+   "name": "Shared number",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "shared"
+   ],
+   "values": [
+    "shared"
+   ]
+  },
+  {
+   "key": "owners",
+   "name": "Beneficial owners",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "recorded"
+   ],
+   "values": [
+    "recorded"
+   ]
+  }
+ ],
+ "flags": []
+}

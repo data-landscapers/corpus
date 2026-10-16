@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-gmb-kmc-launches-digital-address-project-to-enhance-service-delivery-and-r",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Kanifing Municipal Council launched the project Leveraging Digital Addresses for Evidence-Based Policymaking in Kanifing, funded by FID, introducing a digital addressing system for waste, property tax and urban services.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Leveraging Digital Addresses for Evidence-Based Policymaking in Kanifing",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Leveraging Digital Addresses for Evidence-Based Policymaking in Kanifing",
+   "country_label": "Kanifing Municipality",
+   "platform": "Google Plus Codes",
+   "owner": "Kanifing Municipal Council",
+   "tiers": "municipal",
+   "class": "address"
+  }
+ ],
+ "note": ""
+}

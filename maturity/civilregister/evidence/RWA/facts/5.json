@@ -1,0 +1,5 @@
+{"slug":"2026-04-16-rwanda-vital-statistics-report-2025","facts":[
+{"sub_indicator":"civil","aspect":"births","value":"inservice","fact":"NISR says the system shows 356,838 births occurred and registered nationally in 2025.","as_of":"2025","date_precision":"year","system":"NCI_CRVS","class":"civil"},
+{"sub_indicator":"civil","aspect":"deaths","value":"digital","fact":"NISR says 39,355 deaths occurred and were registered in 2025 and the CRVS system collects cause of death for them.","as_of":"2025","date_precision":"year","system":"CRVS system","class":"civil"},
+{"sub_indicator":"civil","aspect":"coverage","value":"target","fact":"NISR says birth registration completeness against estimated live births was 92.9% in 2025, up from 90.3% in 2024.","as_of":"2025","date_precision":"year","system":"CRVS system","class":"civil"}],
+"systems":[{"system":"NCI_CRVS","country_label":"Rwanda","class":"civil","platform":"","owner":"NISR (statistics publisher)","tiers":""}],"note":""}

@@ -1,8 +1,178 @@
-{"slug":"2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral","studies":{
-"birthidlink":{"countries":{"GIN":{"facts":[{"sub_indicator":"link","aspect":"link","value":"inservice","fact":"The Office national de l'etat civil et de l'identification (ONECI), one body for civil status and identification, carries out biometric census in civil status centres and signed a convention with the DGE on using civil status data.","as_of":"2026-01-22","date_precision":"day","system":"RNPP","class":"crvslink"}],"systems":[],"note":""}}},
-"idcoverage":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
-"idfrombirth":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Nothing is stated on a number given at birth."}}},
-"idmaintenance":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Who operates or maintains the system is not stated."}}},
-"idregisters":{"countries":{"GIN":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"The DGE and ONECI signed a convention making data of the registre national des personnes physiques the sole official source of voter identification data for the biometric electoral file, as the DGE director-general states.","as_of":"2026-01-22","date_precision":"day","system":"RNPP","class":"register"}],"systems":[],"note":""}}},
-"idrobustness":{"countries":{"GIN":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"ONECI's director-general says the biometric census of citizens in civil status centres is continuing and must not be interrupted, feeding the registre national des personnes physiques.","as_of":"2026-01-22","date_precision":"day","system":"RNPP","class":"idsystem"}],"systems":[{"system":"Registre national des personnes physiques (RNPP)","country_label":"Guinea","class":"idsystem","platform":"","owner":"ONECI","tiers":""}],"note":""}}}
-}}
+{
+ "slug": "2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The Office national de l'etat civil et de l'identification (ONECI), one body for civil status and identification, carries out biometric census in civil status centres and signed a convention with the DGE on using civil status data.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing is stated on a number given at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Who operates or maintains the system is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The DGE and ONECI signed a convention making data of the registre national des personnes physiques the sole official source of voter identification data for the biometric electoral file, as the DGE director-general states.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ONECI's director-general says the biometric census of citizens in civil status centres is continuing and must not be interrupted, feeding the registre national des personnes physiques.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital civil registration of births or deaths stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The DGE and ONECI signed a convention on 22 January 2026 to strengthen the reliability of the existing biometric electoral file (fichier électoral biométrique), per Mediaguinee.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "fichier électoral biométrique",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The convention makes the data of the registre national des personnes physiques the single official source of voter identification data for the biometric electoral lists, says the DGE director general.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "fichier électoral biométrique",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier électoral biométrique",
+       "country_label": "Guinea",
+       "class": "electoral",
+       "platform": "",
+       "owner": "DGE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "Under the DGE-ONECI convention of 22 January 2026 the electoral file is to take voters' identification data from the registre national des personnes physiques, as its single official source.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "registre national des personnes physiques",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "registre national des personnes physiques",
+       "country_label": "Guinea",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

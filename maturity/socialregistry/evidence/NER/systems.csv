@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre Social Unifié (RSU),Niger,social,,,,2025-09-09-lesahel-rsu-500000-menages
+NER,Registre Social Unifié (RSU),Niger,social,,,,2025-09-03-actuniger-niger-feuille-route-protection-sociale
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalités (RNN),Niger,other,,Ministère de la justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle

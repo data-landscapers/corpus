@@ -2,7 +2,7 @@
 
 ## Revenue collection
 
-**Paid electronically.** [A four-year African Development Bank grant to WATAF, launched 18 August 2026, covers Guinea-Bissau among six countries and is said to support digital tax tools and VAT and e-invoicing reforms](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Paid electronically.** [A four-year African Development Bank grant to WATAF, launched 18 August 2026, covers Guinea-Bissau among six countries and is said to support digital tax tools and VAT and e-invoicing reforms](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main taxes and duties.** No source held since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>).
 

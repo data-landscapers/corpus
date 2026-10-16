@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,social,registry,coverage,inservice,2026-05-01,BDI-003,BDI-001=underway;BDI-002=underway,
+BDI,social,programmes,coverage,several,2026-05-01,BDI-004,,
+BDI,social,linked,coverage,,,,,nothing held

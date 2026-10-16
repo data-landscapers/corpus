@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** [The Central Bank of Kenya says it and the National Treasury developed a draft National Payment System Policy and a National Payment System Bill, 2026, which would repeal the National Payment System Act Cap. 491A](<https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** [The Central Bank of Kenya says it and the National Treasury developed a draft National Payment System Policy and a National Payment System Bill, 2026, which would repeal the National Payment System Act Cap. 491A](<https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/>).
 

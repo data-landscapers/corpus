@@ -1,0 +1,55 @@
+iso3,stage,roll,checked,linked,stage_sources
+AGO,5,inservice,open,linked,AGO-001
+BDI,3,inservice,,,BDI-002
+BEN,5,inservice,open,linked,BEN-003
+BFA,no evidence,,,,
+BWA,2,underway,,,BWA-001;BWA-002
+CAF,4,inservice,open,,CAF-001;CAF-003
+CIV,4,inservice,open,,CIV-002
+CMR,3,inservice,,,CMR-004;CMR-001
+COD,3,inservice,,,COD-001
+COG,no evidence,,,,
+COM,no evidence,,,,
+CPV,5,inservice,open,linked,CPV-004
+DJI,no evidence,,,,
+DZA,no evidence,,,,
+EGY,no evidence,,,,
+ERI,no evidence,,,,
+ETH,5,inservice,open,linked,ETH-002
+GAB,4,inservice,open,,GAB-003
+GHA,4,inservice,open,,GHA-001
+GIN,5,inservice,open,linked,GIN-003
+GMB,3,inservice,,,GMB-001
+GNB,3,inservice,,,GNB-001;GNB-002
+GNQ,no evidence,,,,
+KEN,4,inservice,open,,KEN-001
+LBR,3,inservice,,,LBR-001
+LBY,2,underway,,,LBY-001
+LSO,no evidence,,,,
+MAR,no evidence,,,,
+MDG,2,underway,,,MDG-002
+MLI,3,inservice,,,MLI-001
+MOZ,no evidence,,,,
+MRT,no evidence,,,,
+MUS,no evidence,,,,
+MWI,4,inservice,open,,MWI-001
+NAM,3,inservice,,,NAM-002
+NER,no evidence,,,,
+NGA,5,inservice,open,linked,NGA-003
+RWA,no evidence,,,,
+SDN,no evidence,,,,
+SEN,2,underway,,,SEN-001
+SLE,no evidence,,,,
+SOM,2,underway,,,SOM-001
+SSD,no evidence,,,,
+STP,5,inservice,open,linked,STP-003;STP-008
+SWZ,4,inservice,open,,SWZ-003
+SYC,unplaced,,,,
+TCD,no evidence,,,,
+TGO,no evidence,,,,
+TUN,no evidence,,,,
+TZA,4,inservice,open,,TZA-001
+UGA,4,inservice,open,,UGA-002
+ZAF,5,inservice,open,linked,ZAF-002
+ZMB,4,inservice,open,,ZMB-004;ZMB-006
+ZWE,5,inservice,open,linked,ZWE-003

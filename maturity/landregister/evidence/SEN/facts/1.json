@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-22-procasef-copil-sifcom-55-communes-preproduction",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PROCASEF's steering committee records that SIFCOM development is complete and the system is in its deployment phase, with 55 communes integrated in preproduction at 30 June 2026.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "SIFCOM",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PROCASEF reports 832,526 parcels surveyed, 634,861 with a NICAD and 441,315 parcels approved at 30 June 2026.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "NICAD",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFCOM",
+   "country_label": "Système d'Information Foncière Communal",
+   "class": "land",
+   "platform": "",
+   "owner": "PROCASEF",
+   "tiers": "communal"
+  },
+  {
+   "system": "NICAD",
+   "country_label": "Numéro d'Identification Cadastrale",
+   "class": "land",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

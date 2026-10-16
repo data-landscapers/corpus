@@ -2,7 +2,7 @@
 
 ## Revenue collection
 
-**Paid electronically.** [Parents paid school registration fees remotely through La Poste Tunisienne e-Dinar wallets and D17, and about 287,300 students (about 76%) completed remote university registration by electronic payment by end-September 2026](<https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Paid electronically.** [Parents paid school registration fees remotely through La Poste Tunisienne e-Dinar wallets and D17, and about 287,300 students (about 76%) completed remote university registration by electronic payment by end-September 2026](<https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main taxes and duties.** No source held since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/>).
 

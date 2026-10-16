@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "The PReSE press note says an automatic and permanent electoral registration system is being developed by the Universidade de Aveiro, with a platform linking the civil registry databases to the electoral roll database, presented on 4 September 2025.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "plataforma de recenseamento automático",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plataforma de recenseamento automático",
+   "country_label": "Sao Tome and Principe",
+   "class": "electoral",
+   "platform": "",
+   "owner": "CEN/GTE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,116 @@
+{
+ "id": "taxregister",
+ "study_file": "maturity-study-taxregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--tax-register"
+ ],
+ "carry": [
+  "dpi.registry--tax-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "TIN",
+  "taxpayer identification number",
+  "tax identification number",
+  "taxpayer register",
+  "taxpayer registration",
+  "tax register",
+  "taxpayer identification",
+  "PIN certificate",
+  "KRA PIN",
+  "NIF",
+  "numéro d'identification fiscale",
+  "identifiant fiscal unique",
+  "IFU",
+  "immatriculation fiscale",
+  "fichier des contribuables",
+  "NUIT",
+  "número de identificação fiscal",
+  "número único de identificação tributária",
+  "الرقم الضريبي",
+  "رقم التعريف الضريبي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "taxpayers",
+   "label": "Tax register",
+   "subject": "dpi.registry",
+   "text": "Tax register: tax register",
+   "indicator_id": "dpi.registry--tax-register-tax-register",
+   "class": "tax",
+   "norm_short": "The TADAT framework asks for every taxpayer to hold one unique identifier in one central database, shared with other registers.",
+   "criteria": [
+    "A source from the past three years says taxpayers are registered on paper or not registered.",
+    "A computerised taxpayer register or new taxpayer number is being built, migrated or rolled out.",
+    "Taxpayer numbers are issued from a computerised register in service, online or at offices.",
+    "The taxpayer number is issued at business registration or used by customs, one number for both.",
+    "The taxpayer number is the national ID number or is checked against the national ID."
+   ],
+   "criteria_of": "fc798bedaa0d"
+  }
+ ],
+ "classes": [
+  "tax",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "register",
+   "name": "Computerised register",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "shared",
+   "name": "Shared with firms or customs",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "shared"
+   ],
+   "values": [
+    "shared"
+   ]
+  },
+  {
+   "key": "nationalid",
+   "name": "Tied to ID",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

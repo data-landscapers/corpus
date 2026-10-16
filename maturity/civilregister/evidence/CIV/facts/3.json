@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-27-cote-divoire-oneci-formation-citiweb-agents-etat-civil-goh",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "AIP reports ONECI deployed the Citiweb software in the mairies and sous-préfectures of the Gôh region, with all centres equipped at the end of 2025 and agent training under way since then, 44 agents trained in Gagnoa from 27 July 2026.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Citiweb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "AIP reports the Citiweb software deployed by ONECI captures births, marriages and deaths in all mairie and sous-préfecture centres, equipped at the end of 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Citiweb",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citiweb",
+   "country_label": "CIV",
+   "class": "civil",
+   "platform": "software",
+   "owner": "ONECI",
+   "tiers": "mairies, sous-préfectures"
+  }
+ ],
+ "note": ""
+}

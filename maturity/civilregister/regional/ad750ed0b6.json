@@ -1,0 +1,31 @@
+{
+ "slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr",
+ "countries": {
+  "BWA": {
+   "facts": [
+    {
+     "sub_indicator": "civil",
+     "aspect": "coverage",
+     "value": "target",
+     "fact": "UNICEF's December 2024 report says Botswana has achieved universal birth registration.",
+     "as_of": "2024-12-11",
+     "date_precision": "day",
+     "system": "",
+     "class": "civil"
+    }
+   ],
+   "systems": [],
+   "note": ""
+  },
+  "SLE": {
+   "facts": [],
+   "systems": [],
+   "note": "Named only among countries with sustained improvement; no figure or digital system."
+  },
+  "TZA": {
+   "facts": [],
+   "systems": [],
+   "note": "Named only among countries with sustained improvement; no figure or digital system."
+  }
+ }
+}

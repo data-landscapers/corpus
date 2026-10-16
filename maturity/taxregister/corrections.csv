@@ -1,0 +1,4 @@
+iso3,n,aspect,value,action,why
+CMR,004,nationalid,linked,removed,"First pass: an ID card number checked against the attached copy, not the ID register"
+UGA,007,nationalid,linked,removed,First pass: future use read as use
+UGA,011,nationalid,linked,removed,First pass: future use read as use

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-23-cmr-2025-37-026",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Cameroon's FY2025 finance law appropriates FCFA 1,567,500,000 for programme 026 Modernisation du cadastre, whose objective is a digital national cadastre, tracked by the share of communes with a digital cadastral plan, says the Ministry of Finance.",
+   "as_of": "2024-12",
+   "date_precision": "year",
+   "system": "Cadastre National numérique (Modernisation du cadastre programme)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastre National numérique (Modernisation du cadastre programme)",
+   "country_label": "Cameroon",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Domains, Cadastre and Land Affairs",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

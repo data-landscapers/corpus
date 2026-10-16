@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Registre national automatisé de l'état civil (RNAEC),Algeria,civil,national database,"Ministère de l'Intérieur, des Collectivités Locales et des Transports",national,2026-07-01-dza-uneca-egmrg-crvs-digitalisation
+DZA,Numéro d'Identification National Unique (NIN),Algeria,other,,,national,2026-07-01-dza-uneca-egmrg-crvs-digitalisation
+DZA,"plateforme numérique de prise de rendez-vous (état civil et légalisation, MAE)",Algeria,other,online appointment booking,Ministère des Affaires étrangères,national,2025-11-23-dza-aps-etat-civil-plateforme-rdv
+DZA,prestations.interieur.gov.dz/guichet,Algeria,other,online portal,Ministère de l'Intérieur,national,2024-02-29-dza-etat-civil-acte-de-naissance-acte-de-mariage-acte-de-deces-livret-de-f

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-07-23-tunisie-registre-national-des-societes-communautaires-alahlia",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Nessma TV reports the Ministry of Employment launched the national register of community companies, a digital platform for creating and following them, accessible from that day at alahlia.tn.",
+       "as_of": "2026-07-20",
+       "date_precision": "day",
+       "system": "Registre national des sociétés communautaires",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des sociétés communautaires",
+       "country_label": "Tunisia",
+       "class": "business",
+       "platform": "alahlia.tn",
+       "owner": "Ministry of Employment and Vocational Training",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-07-22-norebase-state-of-expansions-report","countries":{
+"AGO":{"facts":[],"systems":[],"note":"Document gives only incorporation time and paperwork, not a digital register."},
+"CIV":{"facts":[],"systems":[],"note":"Named only for a BCEAO licence."},
+"EGY":{"facts":[],"systems":[],"note":"Named only as a fintech market."},
+"KEN":{"facts":[],"systems":[],"note":"Only incorporation cost is stated."},
+"MUS":{"facts":[],"systems":[],"note":"Named only for crypto regulation."},
+"RWA":{"facts":[{"sub_indicator":"business","aspect":"registration","value":"inservice","fact":"The Norebase report, via TechCabal, says firms can incorporate in Rwanda within 24 to 72 hours through digital registration, and that the Rwanda Development Board's digital business registration platform moved registration entirely online in January.","as_of":"2026-01","date_precision":"month","system":"Rwanda Development Board digital business registration platform","class":"business"}],"systems":[{"system":"Rwanda Development Board digital business registration platform","country_label":"Rwanda","class":"business","platform":"","owner":"Rwanda Development Board","tiers":""}],"note":""},
+"SYC":{"facts":[],"systems":[],"note":"Named only for crypto regulation."},
+"TGO":{"facts":[],"systems":[],"note":"Named only for a BCEAO licence."},
+"ZAF":{"facts":[],"systems":[],"note":"Named only as a fintech and crypto market."}}}

@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [The Gabon Digital programme plans to interconnect the biometric persons register, the digital ID system and the national civil registry centre through a common biometric referential, per the ANINF and Interior Ministry officials](<https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Civil register linked to ID.** [The Gabon Digital programme plans to interconnect the biometric persons register, the digital ID system and the national civil registry centre through a common biometric referential, per the ANINF and Interior Ministry officials](<https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/>).
 

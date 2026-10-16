@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,INGD humanitarian aid recipient register,Mozambique,other,,INGD,,2026-08-09-mozambique-aid-recipient-digital-register
+MOZ,INAS database,Mozambique,other,,INAS,,2026-08-09-mozambique-aid-recipient-digital-register
+MOZ,digital registry of humanitarian assistance beneficiaries,Mozambique,other,application with biometric registration,INGD,,2026-08-08-ingd-registo-digital-donativos
+MOZ,INAS database,Mozambique,other,,INAS,,2026-08-08-ingd-registo-digital-donativos
+MOZ,National Social Registry (NSR),Mozambique,social,,"Ministry of Labor, Gender and Social Protection (DNPC and DNAS)",,2026-05-19-worldbank-pid-social-registry-af1
+MOZ,beneficiary registry (BR),Mozambique,other,INAS MIS (eINAS),INAS,,2026-05-19-worldbank-pid-social-registry-af1

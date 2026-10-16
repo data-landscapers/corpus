@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "civil",
+   "stage": "3",
+   "births": "inservice",
+   "deaths": "",
+   "coverage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-003",
+   "gaps": "No source held since October 2023 says deaths are registered in the digital system.",
+   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
+  }
+ ]
+}

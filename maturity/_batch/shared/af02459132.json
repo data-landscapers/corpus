@@ -1,8 +1,197 @@
-{"slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp", "studies": {
-"birthidlink": {"countries": {"NER": {"facts": [], "systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "future ANEI", "tiers": ""}, {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "Niger", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Names a civil register (RNEC) and the RNP but states no exchange of records between them."}}},
-"idcoverage": {"countries": {"NER": {"facts": [], "systems": [], "note": "No count or share of people enrolled; only timely birth declaration rising from 53% to 79%, which is not all births."}}},
-"idfrombirth": {"countries": {"NER": {"facts": [], "systems": [], "note": "No identity number given at birth is stated."}}},
-"idmaintenance": {"countries": {"NER": {"facts": [], "systems": [], "note": "Future ANEI is to manage the RNP, but no operator or maintainer of a system in service is stated."}}},
-"idregisters": {"countries": {"NER": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
-"idrobustness": {"countries": {"NER": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Interior Ministry said on 12 August 2026 that the Registre National de la Population will become the single base to identify and authenticate each citizen by a personal identifier, with deployment starting in Niamey in the coming weeks and national extension from 2027 under the future ANEI.", "as_of": "2026-08-12", "date_precision": "day", "system": "Registre National de la Population (RNP)", "class": "idsystem"}], "systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "future ANEI", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "future ANEI",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National d'Etat Civil (RNEC)",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Names a civil register (RNEC) and the RNP but states no exchange of records between them."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled; only timely birth declaration rising from 53% to 79%, which is not all births."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No identity number given at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Future ANEI is to manage the RNP, but no operator or maintainer of a system in service is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Interior Ministry said on 12 August 2026 that the Registre National de la Population will become the single base to identify and authenticate each citizen by a personal identifier, with deployment starting in Niamey in the coming weeks and national extension from 2027 under the future ANEI.",
+       "as_of": "2026-08-12",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "future ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No addressing system stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No business register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National d'Etat Civil (RNEC)",
+       "country_label": "NER",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Computerisation of communes and the RNEC are listed as reforms without a stated stage; birth declaration at 79% is below 90%."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No voters' roll stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No land register stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Interior Ministry says the National Population Register (RNP) will start in Niamey in the coming weeks, with national extension from 2027 under the future ANEI.",
+       "as_of": "2026-08-11",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "NER",
+       "class": "population",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No social registry stated."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No taxpayer register stated."
+    }
+   }
+  }
+ }
+}

@@ -18,6 +18,44 @@
      "note": "Document covers civil-registry digitisation only; no link to an ID system or number at birth is stated."
     }
    }
+  },
+  "civilregister": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Oubangui Médias reports the civil-status directorate (DGDEC), with CIVIPOL, trained agents on 16-17 July 2026 in digitising civil registers, and trained agents have started digitising them into the Registre National de l'État Civil.",
+       "as_of": "2026-07-17",
+       "date_precision": "day",
+       "system": "Registre National de l'État Civil (RNEC)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de l'État Civil (RNEC)",
+       "country_label": "Central African Republic",
+       "class": "civil",
+       "platform": "",
+       "owner": "DGDEC / MATDDL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a civil-status register, not a register of the whole population."
+    }
+   }
   }
  }
 }

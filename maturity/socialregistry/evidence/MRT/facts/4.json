@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-15-mrt-decret-2025-162-bds-mac-base-donnees-menages-catastrophes",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Decree 2025-162 names the Registre Social de Taazour as a source of the disaster-household database BDS-MAC and as the place where affected households' data get socio-economic analysis.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "Registre Social",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social",
+   "country_label": "Registre Social / Programme National du Registre Social",
+   "class": "social",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  },
+  {
+   "system": "BDS-MAC",
+   "country_label": "Base de Données Spéciale des Ménages Pauvres et/ou Vulnérables Affectés par les Catastrophes",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

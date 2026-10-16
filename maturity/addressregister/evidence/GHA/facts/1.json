@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-29-ghanapostgps-official-site",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Ghana Post's site says GhanaPostGPS is Ghana's official digital property addressing system, giving every location a unique digital address.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "Ghana Post's site says GhanaPostGPS covers every inch of the country and all locations are addressed.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GhanaPostGPS",
+   "country_label": "Ghana",
+   "class": "address",
+   "platform": "app and web map",
+   "owner": "Ghana Post Company Limited",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

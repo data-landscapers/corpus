@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "taxpayers",
+   "stage": "2",
+   "register": "underway",
+   "shared": "",
+   "nationalid": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-001",
+   "gaps": "No source held since October 2023 says: are taxpayers registered on computer.",
+   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
+  }
+ ]
+}

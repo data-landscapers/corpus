@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-ben-anip-business-intelligence-procurement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FNEC",
+   "country_label": "Fichier National de l'Etat Civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Tender names the civil-status file but does not say births or deaths are registered digitally or nationally."
+}

@@ -1,8 +1,198 @@
-{"slug":"2026-04-30-tunisie-rne-full-digital-mobile-id","studies":{
-"birthidlink":{"countries":{"TUN":{"facts":[],"systems":[{"system":"Mobile ID","country_label":"Tunisia","class":"other","platform":"","owner":"","tiers":""},{"system":"DigiGO","country_label":"Tunisia","class":"other","platform":"","owner":"","tiers":""}],"note":"Document covers business registry login, no civil register link."}}},
-"idcoverage":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No count or share of people enrolled is given."}}},
-"idfrombirth":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
-"idmaintenance":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Who operates or maintains the ID system is not stated."}}},
-"idregisters":{"countries":{"TUN":{"facts":[],"systems":[],"note":"The enterprise register is keyed on the enterprise unique identifier (matricule fiscal), not the national ID number; Mobile ID is only a login."}}},
-"idrobustness":{"countries":{"TUN":{"facts":[],"systems":[{"system":"Mobile ID","country_label":"Tunisia","class":"other","platform":"","owner":"","tiers":""}],"note":"Mobile ID is described as a phone-linked login, not as a register issuing a unique identity per person."}}}
-}}
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "DigiGO",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers business registry login, no civil register link."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is mentioned."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Who operates or maintains the ID system is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The enterprise register is keyed on the enterprise unique identifier (matricule fiscal), not the national ID number; Mobile ID is only a login."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Mobile ID is described as a phone-linked login, not as a register issuing a unique identity per person."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about addressing."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The Registre National des Entreprises says it is moving to full digitalisation, with all procedures online only from 1 July 2026 and no more physical filing at counters.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Registre National des Entreprises",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "The Registre National des Entreprises says its electronic safe account for each registered firm is tied to the firm's unique identifier, the matricule fiscal.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "Registre National des Entreprises",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National des Entreprises",
+       "country_label": "Tunisia",
+       "class": "business",
+       "platform": "",
+       "owner": "RNE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about business registration, not births or deaths."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about the voters' roll."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about land."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names Mobile ID but no population register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about social programmes."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "The Registre National des Entreprises says the unique identifier of each registered firm is its matricule fiscal, the tax number.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "Registre National des Entreprises",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

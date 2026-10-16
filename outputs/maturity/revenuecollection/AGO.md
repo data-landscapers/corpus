@@ -2,7 +2,7 @@
 
 ## Revenue collection
 
-**Paid electronically.** [The KWiK roadmap foresees payments to the State, among other functions, through the Multicaixa network](<https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Paid electronically.** [The KWiK roadmap foresees payments to the State, among other functions, through the Multicaixa network](<https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
 
 **Main taxes and duties.** No source held since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/>).
 

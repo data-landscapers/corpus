@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,address,addressing,coverage,inservice,2025-06-19,CMR-002;CMR-005,CMR-001=underway;CMR-004=underway,
+CMR,address,national,coverage,,,,,nothing held
+CMR,address,used,coverage,,,,,nothing held

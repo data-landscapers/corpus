@@ -1,0 +1,4 @@
+{"slug":"2026-09-03-kenya-lsk-ardhisasa-outage-restoration-demand","facts":[
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"The Law Society of Kenya says Ardhisasa has become a central platform for delivery of land administration services in Kenya, with essential land services migrated to it.","as_of":"2026-09-02","date_precision":"day","system":"Ardhisasa","class":"land"},
+{"sub_indicator":"land","aspect":"online","value":"online","fact":"The Law Society of Kenya says advocates' land searches, transfers, registrations and valuations are carried out on Ardhisasa and were disrupted by its unavailability from 2026-09-01.","as_of":"2026-09-01","date_precision":"day","system":"Ardhisasa","class":"land"}
+],"systems":[{"system":"Ardhisasa","country_label":"Kenya","class":"land","platform":"land administration platform","owner":"State Department for Lands and Physical Planning","tiers":""}],"note":""}

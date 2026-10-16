@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "civil",
+   "stage": "4",
+   "births": "inservice",
+   "deaths": "digital",
+   "coverage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-003;CIV-005",
+   "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
+   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 
 ## P2P, P2G and P2B functionality
 
-**Mobile money in service.** [MCB reported QR payments via the Juice app, including the central bank's MAUCAS QR, grew 67% in 2025 (L'Express)](<https://lexpress.mu/node/553532>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Mobile money in service.** [MCB reported QR payments via the Juice app, including the central bank's MAUCAS QR, grew 67% in 2025 (L'Express)](<https://lexpress.mu/node/553532>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Between providers.** [Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms](<https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/>). [AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments](<https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf>).
 

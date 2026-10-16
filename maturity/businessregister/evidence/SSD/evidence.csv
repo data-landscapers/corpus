@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,business,registration,inservice,"The Ministry of Justice and Constitutional Affairs' Business Registration Service (BRS) is an online platform, reached with an eServices account, where owners validate and submit business or company details for approval.",2025,year,Business Registration Service (BRS),business,2025-01-01-business-registration-service-south-sudan,https://brs.eservices.gov.ss

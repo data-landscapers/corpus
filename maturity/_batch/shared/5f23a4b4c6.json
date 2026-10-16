@@ -92,6 +92,24 @@
      "note": "The document states nothing on this for the country."
     }
    }
+  },
+  "civilregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The captured text names Eswatini only in a list of countries with integrated identity systems; no digital civil register is stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register is named for Eswatini; the Eswatini findings were not captured."
+    }
+   }
   }
  }
 }

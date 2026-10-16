@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,taxpayers,register,coverage,inservice,2025,SYC-001,,
+SYC,taxpayers,shared,coverage,,,,,nothing held
+SYC,taxpayers,nationalid,coverage,linked,2025,SYC-002,,

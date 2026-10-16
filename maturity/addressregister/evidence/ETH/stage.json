@@ -1,0 +1,17 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "address",
+   "stage": "5",
+   "addressing": "inservice",
+   "national": "nationwide",
+   "used": "used",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
+  }
+ ]
+}

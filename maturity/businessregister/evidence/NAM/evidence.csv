@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,business,registration,none,"BIPA's page says company and close corporation registration forms are submitted in triplicate to BIPA offices, and register records are inspected by a file request at a BIPA office or by email, with files delivered from off-premises storage in about 3 to 5 days.",2024,year,BIPA register,business,2024-01-01-business-registration,https://www.bipa.na/business-registration/

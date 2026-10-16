@@ -1,0 +1,17 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "address",
+   "stage": "3",
+   "addressing": "inservice",
+   "national": "",
+   "used": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-002",
+   "gaps": "No source held since October 2023 says the addressing system covers the whole country.",
+   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
+  }
+ ]
+}

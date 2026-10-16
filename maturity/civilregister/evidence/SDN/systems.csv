@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,South Gezira civil registry centre (Al-Hosh office),Sudan,civil,,"Civil registry, police",locality,2026-05-17-south-gezira-al-hosh-first-electronic-birth-certificate
+SDN,Civil registry (national number and birth certificate issuance),Sudan,other,,Gezira State civil registry administration,"state, locality",2026-04-29-gezira-umm-al-qura-civil-registry-relaunch
+SDN,"National registry (civil registry, Ministry of Interior)",Sudan,other,,Ministry of Interior civil registry,national,2026-03-16-sudan-health-civil-registry-digitisation-committee
+SDN,National ID card issuance (Kassala civil registry),Sudan,other,,Kassala State civil registry,state,2026-02-15-sudan-kassala-civil-registry-id-resumption
+SDN,civil registry database,Sudan,civil,Baladna,Sudan civil registry,,2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry
+SDN,ASYCUDA,Sudan,other,,Sudan Customs Authority,,2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry
+SDN,civil registry system,Sudan,other,,Sudan police civil registry,,2025-04-10-sdn-nabdsudan-civil-fingerprint-national-number-service-restored
+SDN,civil registry database,Sudan,civil,,"Ministry of Interior, General Administration of Civil Registry",,2024-11-08-sdn-nabdsudan-civil-registry-database-recovered-120-million-records
+SDN,SUDAPASS,Sudan,other,,Ministry of Digital Transformation and Telecommunications,,2026-05-21-sudan-launches-sudapass-digital-id
+SDN,Hospital Management System (HMS),Sudan,other,,Ministry of Health; Ministry of Digital Transformation and Telecommunications,,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,CRVS (within HMS),Sudan,civil,HMS,Ministry of Health; Ministry of Digital Transformation and Telecommunications,hospital,2026-05-11-sudan-health-sector-digitalization-hms-launch
+SDN,National ID card production centre,Sudan,other,,"General Directorate of Civil Registry, Ministry of Interior",,2025-12-27-sudan-port-sudan-civil-registry-id-resumption
+SDN,Sudan Family Support Project MIS,Sudan,other,,Ministry of Finance and Economic Planning,,2025-02-28-sudan-family-support-project-icr-worldbank

@@ -2,7 +2,7 @@
 
 ## G2P functionality
 
-**Paid digitally.** [An award notice dated 17 July 2026 from the national coordinator of the MINEPAT Adaptive Social Safety Nets and Economic Inclusion Project (PFS-AIE) awards framework contracts to Mmockmbie Credit Union (zone 1) and People Finance SA (zone 3) for digital payments to project beneficiaries, including cycle 8 of the TMO and phases 7 and 8 of the TMU](<https://armp.cm/details?id_publication=36442&type_publication=COMM>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Paid digitally.** [An award notice dated 17 July 2026 from the national coordinator of the MINEPAT Adaptive Social Safety Nets and Economic Inclusion Project (PFS-AIE) awards framework contracts to Mmockmbie Credit Union (zone 1) and People Finance SA (zone 3) for digital payments to project beneficiaries, including cycle 8 of the TMO and phases 7 and 8 of the TMU](<https://armp.cm/details?id_publication=36442&type_publication=COMM>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main streams.** No source held since October 2023 shows two or more main government payment streams paid digitally. The nearest held fact: [the one given above](<https://armp.cm/details?id_publication=36442&type_publication=COMM>).
 

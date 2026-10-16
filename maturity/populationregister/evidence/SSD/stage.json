@@ -1,0 +1,17 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "population",
+   "stage": "no evidence",
+   "register": "",
+   "vital": "",
+   "used": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a population register, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
+  }
+ ]
+}

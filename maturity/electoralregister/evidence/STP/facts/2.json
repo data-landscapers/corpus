@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-06-stp-pronto-novo-sistema-recenseamento-eleitoral",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "A platform for automatic and permanent voter registration is being developed under the EU-funded PReSE with the Universidade de Aveiro, and the electoral database is being consolidated, per the project coordinator.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "sistema de recenseamento automático e permanente",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "A campaign is under way to consolidate the electoral registration database using interoperability with the civil registry databases, says the PReSE coordinator.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "sistema de recenseamento automático e permanente",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "sistema de recenseamento automático e permanente",
+   "country_label": "Sao Tome and Principe",
+   "class": "electoral",
+   "platform": "",
+   "owner": "PReSE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

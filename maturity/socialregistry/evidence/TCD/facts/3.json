@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-10-realitesinfo-anats-pam-identification-unique-rsu-rnbp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre social unifié (RSU)",
+   "country_label": "Tchad",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Biométrique des Populations (RNBP)",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "Link between RSU and RNBP/NNI is a stated objective with the accord still to be signed, not a stated existing link."
+}

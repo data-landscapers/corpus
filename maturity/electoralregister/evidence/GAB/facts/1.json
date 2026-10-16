@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-31-cameroon-gabon-uganda-biometric-voter-registers-integrity-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Gabon launched biometric voter registration early in January 2025, due to end on 31 January, with the government expecting around 300,000 new voters to enroll on the electoral register, according to VOA as reported.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "biometric voter registration",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric voter registration",
+   "country_label": "Gabon",
+   "class": "electoral",
+   "platform": "biometric",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

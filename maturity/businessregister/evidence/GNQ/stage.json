@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "no evidence",
+   "registration": "",
+   "shared": "",
+   "owners": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how firms are registered.",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

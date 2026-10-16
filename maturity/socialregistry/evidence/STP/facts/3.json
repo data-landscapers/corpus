@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-sao-tome-dpssf-resultados-2a-recertificacao-expansao-csu",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The DPSSF reports it updated 12,560 households and 52,808 individuals in the Cadastro Social Unico in a 2026 recertification and expansion from 8,000 to 12,000 households.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Cadastro Social Único (CSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "Sao Tome and Principe",
+   "class": "social",
+   "platform": "",
+   "owner": "Direcção da Proteção Social, Solidariedade e Família",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact on use by two or more programmes or on a national ID link; only the Programa Família Vulnerável is named as drawing on it."
+}

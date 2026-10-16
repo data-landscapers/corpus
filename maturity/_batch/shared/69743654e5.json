@@ -1,0 +1,9 @@
+{"slug":"2026-05-07-anip-rnpp-nouvelles-precisions","studies":{
+"addressregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about addressing."}}},
+"businessregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about firms."}}},
+"civilregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document does not say births or deaths are registered digitally."}}},
+"electoralregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about the voters' roll."}}},
+"landregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about land."}}},
+"populationregister":{"countries":{"BEN":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"Fraternite reports ANIP says enrolment in the RNPP is open to citizens and gives the personal identification number needed for secure identity documents.","as_of":"2026-05-07","date_precision":"day","system":"RNPP","class":"population"}],"systems":[{"system":"Registre National des Personnes Physiques (RNPP)","country_label":"Benin","class":"population","platform":"","owner":"ANIP","tiers":""}],"note":""}}},
+"socialregistry":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about social programmes."}}},
+"taxregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about taxpayers."}}}}}

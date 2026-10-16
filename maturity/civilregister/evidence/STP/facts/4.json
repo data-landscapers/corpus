@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-06-stp-pronto-novo-sistema-recenseamento-eleitoral",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The PReSE coordinator says São Tomé and Príncipe has a completely computerised information system of birth and death records.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "sistema de informação de registos de nascimento e óbito",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The PReSE coordinator says the computerised civil-registry system covers deaths as well as births.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "sistema de informação de registos de nascimento e óbito",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "sistema de informação de registos de nascimento e óbito",
+   "country_label": "Sao Tome and Principe",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "unplaced",
+   "registration": "",
+   "shared": "",
+   "owners": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether firms can register online.",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

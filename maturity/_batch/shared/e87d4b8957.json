@@ -1,0 +1,63 @@
+{
+ "slug": "2025-03-23-mrt-mauritanie-etat-civil-organisation-dun-atelier-sur-le-code-de-letat-ci",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "A Justice Ministry official says the national population register agency has developed a modern biometric civil-status system.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "biometric civil-status system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "biometric civil-status system",
+       "country_label": "Mauritania",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Agency for the Population Register and Secure Documents",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "A magistrates' club official refers to civil-status facts recorded in the population register, which the national population register and secure documents agency runs.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "population register",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "population register",
+       "country_label": "Mauritania",
+       "class": "population",
+       "platform": "",
+       "owner": "National Agency for the Population Register and Secure Documents",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

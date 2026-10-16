@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "land",
+   "stage": "unplaced",
+   "register": "",
+   "national": "",
+   "online": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether land rights are registered digitally.",
+   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
+  }
+ ]
+}

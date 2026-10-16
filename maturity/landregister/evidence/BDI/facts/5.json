@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-09-burundi-ordonnance-550-540-998-titre-foncier-electronique-securise",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of Finance posted joint ordinance 550/540/998 of 6 February 2026 setting the terms for acquiring the secured electronic land title.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "titre foncier électronique sécurisé",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "titre foncier électronique sécurisé",
+   "country_label": "BDI",
+   "class": "land",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

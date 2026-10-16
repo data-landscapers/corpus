@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-titres-fonciers-securises-mesure-couteuse-precipitee",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Iwacu reports the director of Land Titles and the National Cadastre announced on 17 March 2026 the secured electronic land title, with title files received at centres in Bujumbura, Gitega, Makamba and Ngozi by 30 April 2026.",
+   "as_of": "2026-03-17",
+   "date_precision": "day",
+   "system": "titre foncier électronique sécurisé",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "titre foncier électronique sécurisé",
+   "country_label": "BDI",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction des Titres fonciers et du Cadastre national",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

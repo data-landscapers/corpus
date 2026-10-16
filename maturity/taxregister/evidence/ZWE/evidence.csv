@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZWE-001,ZWE,taxpayers,register,inservice,"ZIMRA states taxpayers register online through its TaRMS Self-Service Portal, where a Taxpayer Identification Number is allocated once an official approves the application.",2026-01,month,TaRMS Self-Service Portal,tax,2026-01-01 ZIMRA Taxpayer Registration,https://www.zimra.co.zw/news/2346:taxpayer-registration

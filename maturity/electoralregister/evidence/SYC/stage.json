@@ -1,0 +1,17 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "unplaced",
+   "roll": "",
+   "checked": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether the voters' roll is held digitally.",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

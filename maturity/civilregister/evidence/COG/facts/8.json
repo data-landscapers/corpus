@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIFEC",
+   "country_label": "Congo",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SIFEC deployment is stated to await a new civil-status law; no procurement, pilot or rollout stated."
+}

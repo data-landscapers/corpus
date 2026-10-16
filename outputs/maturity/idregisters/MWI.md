@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Register keyed on ID.** [The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
 
 **Main registers.** [The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management, three main registers](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>).
 

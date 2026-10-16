@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "5",
+   "registry": "inservice",
+   "programmes": "several",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-004;RWA-007",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

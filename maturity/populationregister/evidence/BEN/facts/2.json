@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-anip-rnpp-nouvelles-precisions",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Fraternite reports ANIP says enrolment in the RNPP is open to citizens and gives the personal identification number needed for secure identity documents.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

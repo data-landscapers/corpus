@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The article says the DRC continues digitising business procedures through the Guichet Unique de Création d'Entreprises.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Guichet Unique de Création d'Entreprises",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet Unique de Création d'Entreprises",
+   "country_label": "DR Congo",
+   "class": "business",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

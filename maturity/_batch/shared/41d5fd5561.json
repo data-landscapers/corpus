@@ -1,0 +1,10 @@
+{"slug":"2026-08-23-who-emro-somalia-health-facility-registry","studies":{
+"addressregister":{"countries":{"SOM":{"facts":[],"systems":[{"system":"Master Health Facility List","country_label":"Somalia","class":"other","platform":"","owner":"Federal Ministry of Health","tiers":""}],"note":"The document covers a health facility list, not an address system."}}},
+"businessregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about business registration."}}},
+"civilregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about civil registration."}}},
+"electoralregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about a voters' roll."}}},
+"landregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about land records."}}},
+"populationregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about a population register."}}},
+"socialregistry":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document covers a health facility registry, not a social registry."}}},
+"taxregister":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The document says nothing about taxpayer registration."}}}
+}}

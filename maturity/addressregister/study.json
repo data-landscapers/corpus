@@ -1,0 +1,119 @@
+{
+ "id": "addressregister",
+ "study_file": "maturity-study-addressregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--address-register"
+ ],
+ "carry": [
+  "dpi.registry--address-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "addressing system",
+  "address system",
+  "national addressing",
+  "digital address",
+  "digital addresses",
+  "digital addressing",
+  "street naming",
+  "house numbering",
+  "postcode",
+  "postcodes",
+  "postal code",
+  "postal codes",
+  "address register",
+  "GhanaPostGPS",
+  "adressage",
+  "système d'adressage",
+  "numérotation des rues",
+  "dénomination des rues",
+  "code postal",
+  "endereçamento",
+  "código postal",
+  "العنونة",
+  "الرمز البريدي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "address",
+   "label": "Address register",
+   "subject": "dpi.registry",
+   "text": "Address register: address register",
+   "indicator_id": "dpi.registry--address-register-address-register",
+   "class": "address",
+   "norm_short": "The Universal Postal Union's Addressing the World asks every country for a national addressing policy, an address for everyone and an address register other systems can use.",
+   "criteria": [
+    "A source from the past three years says there is no national addressing system.",
+    "A national addressing policy is adopted, or street naming, numbering or digital addressing is under way in some cities.",
+    "An address register or digital addressing system is in service.",
+    "The addressing system covers the whole country, rural areas included.",
+    "The post, emergency services, utilities or other registers use the address system."
+   ],
+   "criteria_of": "1790fcff0c80"
+  }
+ ],
+ "classes": [
+  "address",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "addressing",
+   "name": "Addresses in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "national",
+   "name": "Nationwide",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "nationwide"
+   ],
+   "values": [
+    "nationwide"
+   ]
+  },
+  {
+   "key": "used",
+   "name": "Used by services",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "used"
+   ],
+   "values": [
+    "used"
+   ]
+  }
+ ],
+ "flags": []
+}

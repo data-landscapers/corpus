@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [FIJ reports that a birth record on the NPC's VitalReg digital birth registration portal was found registered under a Lagos man's National Identification Number (NIN), linking birth records to the NIN](<https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Civil register linked to ID.** [FIJ reports that a birth record on the NPC's VitalReg digital birth registration portal was found registered under a Lagos man's National Identification Number (NIN), linking birth records to the NIN](<https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/>).
 

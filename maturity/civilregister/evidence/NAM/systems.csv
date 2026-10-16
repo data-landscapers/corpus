@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Namibia integrated CRVS and identity management system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",electronic birth and death notification via Ministry of Health and Social Services,2026-08-24-vital-strategies-d4h-stronger-together-namibia-lesotho-crvs
+NAM,national population register,Namibia,other,,Office of the Prime Minister,,2026-07-25-namibia-electronic-id-rollout-september-2026
+NAM,National Population Registration System (NPRS),Namibia,other,,Ministry of Home Affairs,,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,e-notification system,Namibia,civil,,,,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
+NAM,e-birth notification,Namibia,civil,,Ministry of Home Affairs,health facilities,2026-03-27-namibia-strengthens-birth-registration-africacdc
+NAM,e-death notification,Namibia,civil,,Ministry of Home Affairs,health facilities,2026-03-27-namibia-strengthens-birth-registration-africacdc
+NAM,electronic birth notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",hospitals,2025-12-06-namibia-home-affairs-24-hospitals-instant-birth-registration
+NAM,"national Civil Register (Birth, Marriage, Death and Identity Registers)",Namibia,civil,,Registrar-General,,"2024-12-30 Civil Registration and Identification Act, 2024"
+NAM,mobile identity prototype (m-ID),Namibia,civil,"mobile app, offline capable","Ministry of Home Affairs, Immigration, Safety and Security with UNDP",national,2025-10-01-namibia-mobile-id-prototype-birth-registration
+NAM,e-birth notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",hospitals and health centres,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs
+NAM,e-death notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",hospitals and mortuaries,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-10-togo-equipements-informatiques-communes-pilotes-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The territorial administration ministry delivered computers and printers on 8 April 2026 to five pilot communes (Golfe 1, Agoe-Nyive 1, Lacs 1, Ave 2, Zio 2) in the pilot of digitalised civil-status services, ahead of national extension.",
+   "as_of": "2026-04-08",
+   "date_precision": "day",
+   "system": "Digitalisation of civil-status copy requests (pilot)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digitalisation of civil-status copy requests (pilot)",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Territorial Administration; MESPTN",
+   "tiers": "communal"
+  }
+ ],
+ "note": ""
+}

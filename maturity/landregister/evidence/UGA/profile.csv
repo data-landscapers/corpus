@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,land,register,coverage,inservice,2026-10-11,UGA-002;UGA-004,UGA-001=underway;UGA-003=underway,
+UGA,land,national,coverage,,,,,nothing held
+UGA,land,online,coverage,online,2025-08-29,UGA-005,,

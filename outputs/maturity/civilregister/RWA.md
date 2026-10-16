@@ -1,0 +1,13 @@
+# Rwanda
+
+## Civil register
+
+**Births digital.** [Vital Strategies says Rwanda moved birth registration to a decentralized, digitalized system with thousands of registration points, connected to hospitals, agencies and businesses](<https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure>). [MINALOC says Rwanda has launched a new National Centralized and Integrated CRVS system with registration of births and deaths moved to health facilities and cells, and training of 2148 cell executive secretaries on it is under way](<https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system>). [KT Press says Rwanda's fully digital civil registration system has expanded from hospitals to village-level administration, linking birth, death and identity data](<https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/>). [NISR says the system shows 356,838 births occurred and registered nationally in 2025](<https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025>).
+
+**Deaths digital.** [Vital Strategies says Rwanda's CRVS, covering births and deaths, is now decentralized and digitalized](<https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure>). [MINALOC says the death module is among the nine modules of the National Digital Civil Registration and Vital Statistics system now digitalised](<https://www.minaloc.gov.rw/news-detail/rwanda-completes-digitalisation-of-crvs-modules>). [NISR says 39,355 deaths occurred and were registered in 2025 and the CRVS system collects cause of death for them](<https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025>).
+
+**Births at 90%.** [KT Press, citing the NISR vital statistics report, says birth registration completeness reached 92.9 percent in 2025, up from 90.3 percent in 2024](<https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/>). [NISR says birth registration completeness against estimated live births was 92.9% in 2025, up from 90.3% in 2024](<https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025>).
+
+***Noted, not assessed***. [phone-based community death notification](<https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/>); [Imibereho Dynamic Social Registry System](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
+
+***Not held***. Nothing further is asked of this indicator.

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-pn-ravec-site-officiel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de l'Etat Civil (RNEC)",
+   "country_label": "Guinea",
+   "class": "civil",
+   "platform": "",
+   "owner": "PN-RAVEC",
+   "tiers": ""
+  }
+ ],
+ "note": "The page names the registers but states nothing on whether they are digital, in service or used by other systems."
+}

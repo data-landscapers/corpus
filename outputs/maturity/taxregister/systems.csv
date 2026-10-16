@@ -1,0 +1,67 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Consulta de NIF,Angola,tax,SEPE portal,Government of Angola,,2026-08-05-angola-sepe-catalogo-eservicos
+AGO,SIGFE,Angola,other,,State,,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
+BDI,e-KORI,Burundi,tax,online platform of the OBR,Office burundais des recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
+BDI,easybusiness.bi,Burundi,other,online business registration site,Agence de developpement du Burundi (ADB),,2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
+BDI,e-KORI,Burundi,tax,online platform for internal taxes and non-tax revenue,Office Burundais des Recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
+BDI,Easy Business,Burundi,other,online business registration platform,Agence de Developpement du Burundi (ADB),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
+BEN,Registre national des personnes physiques,Benin,other,,Anip,,2026-07-16-adjinacou-maternite-identite-legale
+BEN,Registre National des Personnes Physiques (RNPP),Benin,other,,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BFA,Identifiant financier unique (IFU) logiciel / registre des contribuables,Burkina Faso,tax,,Direction Générale des Impôts,,2023-10-17-dgi-faq-immatriculation-contribuables-ifu
+BFA,eSintax,Burkina Faso,other,online platform,Direction Générale des Impôts,,2023-10-17-dgi-faq-immatriculation-contribuables-ifu
+CIV,"fichier des contribuables (numéro de compte contribuable, NCC)",Côte d'Ivoire,tax,,Direction générale des Impôts,"Centre des Impôts, Direction des moyennes Entreprises, Direction des grandes Entreprises",2025-01-01-cote-divoire-bodgi-2025-immatriculation-fichier-des-contribuables
+CMR,ATOM,Application de Traitement et d'Organisation du fichier des contribuables,tax,atom.dgi.cm,Direction Generale des Impots,individuals and legal entities,2026-07-16-lefisk-atom-dgi-immatriculation-fiscale-guide
+CMR,Harmony,Harmony,tax,support.harmony2.cm,Direction Generale des Impots,registrations ended 30 June 2026,2026-07-16-lefisk-atom-dgi-immatriculation-fiscale-guide
+CMR,NIU taxpayer registration,Cameroon,tax,DGI website,Directorate General of Taxation,,2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon
+COD,e-NIF,e-NIF,tax,online platform e-nif.dgirdc.cd,Direction Générale des Impôts,online and tax offices,2025-12-02-dgi-communique-gratuite-immatriculation-nif
+COD,e-NIF,e-NIF,tax,website app.dgirdc.cd,,,2025-06-06-actualite-cd-passeport-biometrique-rdc
+DJI,Registre national des personnes physiques,Djibouti,other,,Direction generale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
+DZA,Portail de l'immatriculation fiscale en ligne et d'authentification du NIF,Algeria,tax,nifenligne.mfdgi.gov.dz,Direction Générale des Impôts (DGI),"online portal; DIW, CDI and CPI offices",2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Dzair Digital Services,Algeria,other,national digital services portal,Haut-Commissariat à la numérisation (HCN),national,2026-09-10-dza-elwatan-dzair-digital-services-cinq-services-impots
+GAB,Déclaration unique des salaires (DUS),Gabon,other,"Gabon Connect programme, built with Ika Technology","DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
+GHA,Taxpayer Identification Number system,Ghana,tax,,Ghana Revenue Authority,organisations,2026-08-29-ghana-gra-tin-taxpayer-identification-number
+GHA,Ghana Card PIN,Ghana,tax,,National Identification Authority,individual taxpayers,2026-08-29-ghana-gra-tin-taxpayer-identification-number
+GHA,TIN/Ghana Card PIN verification portal,Ghana,tax,online portal,Ghana Revenue Authority,,2026-08-29-ghana-gra-tin-taxpayer-identification-number
+GNB,Kontaktu,Guinea-Bissau,tax,,DGCI,,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu
+GNB,SIGEF,Guinea-Bissau,other,,,,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu
+GNB,CFE platform,Guinea-Bissau,other,,Centro de Formalizacao de Empresas,,2026-01-01-cfe-gw-numero-identificacao-fiscal
+GNB,Kontaktu,Guinea-Bissau,tax,,DGCI,,2026-01-12-kontaktu-mef-gw-portal
+GNB,SIGEF,Guinea-Bissau,other,,,,2026-01-12-kontaktu-mef-gw-portal
+GNQ,Número de Identificación Fiscal (NIF),Equatorial Guinea,tax,,"Ministerio de Hacienda, Presupuestos y Planificación Nacional","natural persons, legal persons, entities without legal personality",2026-08-10-consejo-interministerial-nueva-codificacion-nif
+KEN,iTax,Kenya,tax,"iTax portal, KRA M-Service App, eCitizen USSD",Kenya Revenue Authority,,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,Kenya Investment Single Window (KISW),Kenya,other,,KenInvest,,2025-12-01-itax-enhancements-nov-dec-2025
+MOZ,NUIT,Mozambique,tax,,Autoridade Tributaria de Mocambique,,2025-01-01-nuit-frequently-asked-questions
+MOZ,NUIT,Mozambique,tax,,Autoridade Tributária de Moçambique,,2026-08-28-at-nuit-perguntas-frequentes
+MOZ,NUIT,Mozambique,tax,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
+MOZ,Sistema Integrado de Gestão Tributária,Mozambique,other,,Government,,2026-07-22-governo-sistema-integrado-gestao-tributaria
+MOZ,e-SISTAFE,Mozambique,other,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
+NAM,Trader Identification Number (TIN),Namibia,tax,,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
+NAM,ASYCUDAWorld,Namibia,other,ASYCUDAWorld,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
+NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NGA,Tax Identification Number (TIN),Nigeria,tax,,Nigeria Revenue Service and Joint Revenue Board,,2026-01-12-tin-nin-crypto-tax-carf
+NGA,National Identity Database (NIN),Nigeria,other,,,,2026-01-12-tin-nin-crypto-tax-carf
+NGA,National Payment Stack,Nigeria,other,ISO 20022,NIBSS,,2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System
+NGA,NRS Portal,Nigeria,tax,,Nigeria Revenue Service,,2026-01-05-corporate-tax-2026-cac-numbers-nrs-identifiers
+RWA,RRA TIN registration,Rwanda,tax,,Rwanda Revenue Authority,national,2026-01-01-rwanda-tax-registration-de-registration
+SDN,Tax identification number (TIN),Sudan,tax,,Sudan Taxation Chamber,,2026-04-27-sudan-tax-chamber-tax-procedures
+SDN,Commercial Register,Sudan,other,,,,2026-04-27-sudan-tax-chamber-tax-procedures
+SEN,Répertoire national des Entreprises et Associations (RNEA),Senegal,other,,ANSD,,2026-02-09-ansd-bulletin-trimestriel-immatriculations-ninea
+SSD,eTax,South Sudan,tax,,South Sudan Revenue Authority,,2024-01-01-eservices-account-government-services-south-sudan
+SSD,eServices Account,South Sudan,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-01-01-eservices-account-government-services-south-sudan
+SWZ,ASYCUDA,ASYCUDA,other,,,,2024-01-01-eswatini-tin-registration-procedure
+SYC,TIN Registration (e-Service Gateway),Seychelles,tax,eservice.egov.sc,Government of Seychelles,company,2025-01-01-seychelles-tin-registration-company
+TCD,E.Tax platform,Chad,tax,,Direction Generale des Impots,,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments
+TGO,SIG Recettes,Togo,other,application with geolocation,"communes of Doufelgou 1 and Sotouboua 2, supported by GIZ ProDeG IV",local,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des
+UGA,TIN,Uganda,tax,,URA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,NIN,Uganda,tax,,NIRA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,Entity Registration Number,Uganda,tax,,URSB,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
+UGA,TIN,Uganda,tax,,URA,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,NIN,Uganda,tax,,NIRA,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,URSB registration number,Uganda,tax,,URSB,,2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets
+UGA,TIN,Uganda,tax,,URA,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,NIN,Uganda,tax,,NIRA,,2026-09-07-nilepost-ura-nin-replace-tin
+UGA,TIN,Uganda,tax,,URA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+UGA,NIN,Uganda,tax,,NIRA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
+ZMB,TPIN register (Zambia Revenue Authority),Zambia,tax,,Zambia Revenue Authority,,2026-07-29-zambia-tpin-holders-active-tax-accounts
+ZWE,TaRMS Self-Service Portal,Zimbabwe,tax,TaRMS,Zimbabwe Revenue Authority (ZIMRA),online portal,2026-01-01 ZIMRA Taxpayer Registration

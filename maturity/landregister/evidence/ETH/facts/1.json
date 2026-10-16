@@ -1,0 +1,4 @@
+{"slug":"2025-01-01-land-et-digital-land-platform","facts":[
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"The eLand platform, built on CRPRS, is stated to be in use in the Ethiopian cities of Bishoftu, Adama and Shagar for digital land registration, transfers and title records.","as_of":"2025","date_precision":"year","system":"eLand (CRPRS)","class":"land"},
+{"sub_indicator":"land","aspect":"online","value":"online","fact":"The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision, search property with map integration, pay fees online and download title certificates.","as_of":"2025","date_precision":"year","system":"eLand (CRPRS)","class":"land"}],
+"systems":[{"system":"eLand","country_label":"Ethiopia","class":"land","platform":"CRPRS cloud platform","owner":"eLand Platform","tiers":"city"}],"note":""}

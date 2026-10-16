@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Law 2020-34 of 6 January 2021 dematerialised civil status and abolished paper civil registers, so every birth is registered in the RNPP, which counts as the civil-status declaration, per ANIP.",
+   "as_of": "2021-01-06",
+   "date_precision": "day",
+   "system": "RNPP / Fichier National de l'Etat Civil",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "ANIP says a death updates the person's status in the RNPP automatically and law 2020-34 allows late registration of deaths of people enrolled in the RNPP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / Fichier National de l'Etat Civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier National de l'Etat Civil",
+   "country_label": "Benin",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

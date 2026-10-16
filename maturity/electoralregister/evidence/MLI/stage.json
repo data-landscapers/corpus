@@ -1,0 +1,17 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "3",
+   "roll": "inservice",
+   "checked": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-001",
+   "gaps": "No source held since October 2023 says voters could check the roll.",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

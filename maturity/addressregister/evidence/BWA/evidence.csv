@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BWA-001,BWA,address,addressing,underway,"The journal article says Botswana adopted LAPCAS but village-level addressing remains unresolved, and the authors built a prototype location addressing system for Tlokweng using Python, GeoPandas and Django.",2024-06-20,day,LAPCAS,address,2024-06-20-location-addressing-system-tlokweng-case-study,https://www.ajol.info/index.php/sajg/article/view/272275

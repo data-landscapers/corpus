@@ -1,0 +1,107 @@
+{
+ "slug": "2025-10-07-anads-ansd-rnu-2025-enquete-mise-a-jour-extension",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "ANSD's catalogue says the Registre national unique was institutionalised by decree 2021-1052 of 2 August 2021, and the 2025 update survey covered all regions in March 2025.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Registre national unique",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "ANSD's catalogue says the DGPSN has been extending the RNU database to one million households since 2023, with a pre-identified sample of 1,024,411 households in the March 2025 survey.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Registre national unique",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national unique",
+       "country_label": "Senegal",
+       "class": "social",
+       "platform": "",
+       "owner": "DGPSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  }
+ }
+}

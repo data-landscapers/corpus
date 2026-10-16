@@ -1,0 +1,17 @@
+{
+ "iso3": "ZMB",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "2",
+   "registration": "underway",
+   "shared": "",
+   "owners": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZMB-001",
+   "gaps": "No source held since October 2023 says: can firms register online.",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

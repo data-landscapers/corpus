@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-31-ben-anip-business-intelligence-procurement",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "FNEC",
+       "country_label": "Fichier National de l'Etat Civil",
+       "class": "civil",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "Tender names the civil-status file but does not say births or deaths are registered digitally or nationally."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ANIP is stated to manage the Registre National des Personnes Physiques, a trusted identity referential for people in Benin, whose data a tender dated 2026-08-31 seeks to exploit.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "Registre National des Personnes Physiques (RNPP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Registre National des Personnes Physiques",
+       "class": "population",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

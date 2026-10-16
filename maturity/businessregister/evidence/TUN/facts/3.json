@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Registre National des Entreprises says it is moving to full digitalisation, with all procedures online only from 1 July 2026 and no more physical filing at counters.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Registre National des Entreprises says its electronic safe account for each registered firm is tied to the firm's unique identifier, the matricule fiscal.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Entreprises",
+   "country_label": "Tunisia",
+   "class": "business",
+   "platform": "",
+   "owner": "RNE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

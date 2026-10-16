@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National d'Etat Civil",
+   "country_label": "NER",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Computerisation of communes and a new civil-status platform are announced as projects without a stated stage."
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MLI,civil,births,coverage,underway,2024-12-16,MLI-002,MLI-001=none,
+MLI,civil,deaths,coverage,,,,,nothing held
+MLI,civil,coverage,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-togo-digitalisation-etat-civil-demande-en-ligne-copies-actes",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The government officially launched on 19 December 2025 a digitalised service for civil-status acts, a pilot in five communes (Golfe 1, Agoe-Nyive 1, Ave 2, Lacs 1, Zio 2) for progressive national deployment, run by the territorial administration ministry and MESPTN through Agence Togo Digital.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "Digitalised civil-status acts service (pilot)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digitalised civil-status acts service (pilot)",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "",
+   "owner": "MATGLAC; MESPTN via Agence Togo Digital",
+   "tiers": "communal"
+  }
+ ],
+ "note": ""
+}

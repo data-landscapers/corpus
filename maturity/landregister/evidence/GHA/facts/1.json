@@ -1,0 +1,10 @@
+{"slug": "2026-06-08-ghana-digitise-land-registry-system-underwhelming", "facts": [
+{"sub_indicator":"land","aspect":"register","value":"underway","fact":"The Minister for Lands said the Lands Commission's ongoing ELIS digitization would eliminate manual inefficiencies, and the article says full migration from manual operations is still in progress.","as_of":"2025-08","date_precision":"month","system":"Enterprise Land Information System (ELIS)","class":"land"},
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"The article says ELIS remains the backbone of the Lands Commission's online services, with manual processes coexisting, and progress is anchored largely in Accra.","as_of":"2026-06-08","date_precision":"day","system":"Enterprise Land Information System (ELIS)","class":"land"},
+{"sub_indicator":"land","aspect":"online","value":"online","fact":"Then-Lands Minister Jinapor acknowledged that ELIS had enabled consolidated searches, stamp duty assessment and plan approvals to be completed online.","as_of":"2024","date_precision":"year","system":"Enterprise Land Information System (ELIS)","class":"land"}
+],"systems":[
+{"system":"Enterprise Land Information System (ELIS)","country_label":"Ghana","class":"land","platform":"","owner":"Lands Commission","tiers":""},
+{"system":"Ghana Enterprise Land Information System (GELIS)","country_label":"Ghana","class":"land","platform":"","owner":"Lands Commission","tiers":""},
+{"system":"Lands Commission Online Services Portal","country_label":"Ghana","class":"land","platform":"","owner":"Lands Commission","tiers":""},
+{"system":"Digital Land Acquisition and Management Platform (DILAP)","country_label":"Ghana","class":"other","platform":"","owner":"private (MP Kwame Asare Obeng)","tiers":""}
+],"note":""}

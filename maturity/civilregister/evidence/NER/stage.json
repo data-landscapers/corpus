@@ -1,0 +1,17 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "civil",
+   "stage": "2",
+   "births": "underway",
+   "deaths": "",
+   "coverage": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-005;NER-001",
+   "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
+   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
+  }
+ ]
+}

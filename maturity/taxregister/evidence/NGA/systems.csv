@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,Tax Identification Number (TIN),Nigeria,tax,,Nigeria Revenue Service and Joint Revenue Board,,2026-01-12-tin-nin-crypto-tax-carf
+NGA,National Identity Database (NIN),Nigeria,other,,,,2026-01-12-tin-nin-crypto-tax-carf
+NGA,National Payment Stack,Nigeria,other,ISO 20022,NIBSS,,2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System
+NGA,NRS Portal,Nigeria,tax,,Nigeria Revenue Service,,2026-01-05-corporate-tax-2026-cac-numbers-nrs-identifiers

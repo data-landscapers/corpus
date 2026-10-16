@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-23-ane-rca-publication-liste-electorale-definitive-2398158",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The ANE officially published the definitive electoral list of 2,398,158 registered voters on 23 August 2025.",
+   "as_of": "2025-08-23",
+   "date_precision": "day",
+   "system": "fichier électoral",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

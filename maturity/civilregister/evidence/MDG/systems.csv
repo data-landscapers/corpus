@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,Izaho Tokana 2.0,Madagascar,civil,biometric registration,Government of Madagascar with OIF,national,2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana
+MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
+MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-04-27-studia-inc-civil-registration-digitisation-madagascar
+MDG,CNECI civil registration and identification databases (PRODIGY),Madagascar,civil,offline-capable application with central CR database,CNECI,national,2023-10-10-worldbank-legal-identity-madagascar-namibia
+MDG,PRODIGY biometric enrolment,Madagascar,other,Laxton kits,Government with World Bank,,2026-07-06-last-mile-civil-registration-biometricupdate
+MDG,PRODIGY biometric enrolment (Izaho Tokana),Madagascar,other,biometric kits,Ministry of Interior,,2026-07-01-no-longer-invisible-legal-identity-worldbank
+MDG,national biometric census,Madagascar,other,,Government,,2026-04-23-birth-registration-biometric-law
+MDG,Réforme de l'état civil et de l'identité (RECI) biometric enrolment kits,Madagascar,other,"biometric enrolment kits (2,500 planned nationally)",Ministère de l'Intérieur et de la Décentralisation,national,2026-03-16-etat-civil-enrolement-biometrique-national-lexpress

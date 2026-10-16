@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,taxpayers,shared,shared,"The Sudan Taxation Chamber states it issues each taxpayer, upon registration, a single tax identification number for all types of taxes, including customs duties.",2026-04-27,day,Tax identification number (TIN),tax,2026-04-27-sudan-tax-chamber-tax-procedures,https://tax.gov.sd/en/tax-procedures/

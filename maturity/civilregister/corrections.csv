@@ -1,0 +1,10 @@
+iso3,n,aspect,value,action,why
+NAM,001,births,inservice,removed,First pass: source held with no URL
+NAM,002,deaths,digital,removed,First pass: source held with no URL
+BEN,005,deaths,digital,removed,First pass: the population register's death update read as digital death registration
+DJI,003,deaths,digital,revalued: births:underway,"First pass: Djibouti city only, not national"
+DJI,005,deaths,digital,revalued: births:underway,"First pass: Djibouti city only, not national"
+ERI,001,deaths,digital,removed,"First pass: computerised municipal certificates, no digital register named"
+SOM,003,deaths,digital,revalued: births:underway,First pass: a pilot platform
+GHA,001,coverage,target,removed,First pass: a later figure in the same source puts coverage at 73.4% by end-2025
+STP,004,coverage,target,removed,"First pass: a share of people holding a birth certificate, not births registered"

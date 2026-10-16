@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Register keyed on ID.** [Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main registers.** No source held since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>).
 

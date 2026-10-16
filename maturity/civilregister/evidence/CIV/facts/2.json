@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-30-cote-divoire-oneci-civil-registry-digitisation-goh",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "AIP reports ONECI equipped all civil-registry centres of mairies and sous-préfectures at the end of 2025 with computer equipment and the Citiweb software for digital registration of births, marriages and deaths.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Citiweb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "AIP reports the Citiweb software deployed in all mairie and sous-préfecture civil-registry centres is for digital registration of births, marriages, deaths and other acts.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Citiweb",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citiweb",
+   "country_label": "CIV",
+   "class": "civil",
+   "platform": "software",
+   "owner": "ONECI",
+   "tiers": "mairies, sous-préfectures"
+  }
+ ],
+ "note": ""
+}

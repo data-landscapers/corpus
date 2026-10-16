@@ -1,0 +1,4 @@
+{"slug":"2026-09-10-mdg-newsmada-registre-social-unique-extension","facts":[
+{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"Newsmada reports that Madagascar's Registre social unique already covers about 2.7 million households, close to 12 million people.","as_of":"2026-09-09","date_precision":"day","system":"Registre social unique (RSU)","class":"social"},
+{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"Newsmada reports eight more districts are joining the 20 already covered, and a new survey is under way to update the data and extend the registry into urban areas.","as_of":"2026-09-09","date_precision":"day","system":"Registre social unique (RSU)","class":"social"}],
+"systems":[{"system":"Registre social unique (RSU)","country_label":"Madagascar","class":"social","platform":"","owner":"Ministere de la Population et des Solidarites","tiers":""}],"note":""}

@@ -94,6 +94,107 @@
      "note": ""
     }
    }
+  },
+  "addressregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No addressing system stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No business register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National d'Etat Civil",
+       "country_label": "NER",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Computerisation of communes and a new civil-status platform are announced as projects without a stated stage."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No voters' roll stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No land register stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Interior Ministry's deputy secretary general says implementation of the National Population Register (RNP) is under way, with a first enrolment phase to begin in Niamey's five communal districts before extension to other regions in 2027.",
+       "as_of": "2026-08-19",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "NER",
+       "class": "population",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No social registry stated."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No taxpayer register stated."
+    }
+   }
   }
  }
 }

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,taxpayers,register,inservice,"Angola's SEPE e-services portal lists a free online service, 'Consulta de NIF', to consult the information associated with a person's NIF.",2026-08-05,day,Consulta de NIF,tax,2026-08-05-angola-sepe-catalogo-eservicos,https://sepe.gov.ao/catalogo/eservicos

@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [The Reserve Bank of Malawi supervises Malawi's participation in the COMESA cross-border payments platform](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>). A later answer places the country above that step. 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [The Reserve Bank of Malawi supervises Malawi's participation in the COMESA cross-border payments platform](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>). A later answer places the country above that step. 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** [The Reserve Bank of Malawi and the Bank of Zambia supervise the COMESA Digital Retail Payments Platform linking the two countries](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>). [The Reserve Bank of Malawi rolled out the National Switch in 2015, linking banks, mobile money platforms and ATMs into one network (2015, before the three-year window)](<https://itweb.africa/article/malawi-unveils-digital-payments-roadmap/KPNG8v8NQLZM4mwD>).
 

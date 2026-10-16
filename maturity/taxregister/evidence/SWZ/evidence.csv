@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SWZ-001,SWZ,taxpayers,shared,shared,"The Eswatini Trade Portal procedure page says companies dealing in imports and exports must register in ASYCUDA, where the TIN registration must be uploaded.",2024,year,ASYCUDA,tax,2024-01-01-eswatini-tin-registration-procedure,https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1

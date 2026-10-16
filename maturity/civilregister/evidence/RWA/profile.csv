@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,civil,births,coverage,inservice,2026-08,RWA-001;RWA-003;RWA-007;RWA-010;RWA-012,RWA-006=underway,
+RWA,civil,deaths,coverage,digital,2026-08,RWA-002;RWA-004;RWA-008;RWA-011,,
+RWA,civil,coverage,coverage,target,2025,RWA-005;RWA-009,,

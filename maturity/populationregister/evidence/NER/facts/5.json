@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Le Sahel reports that the WURI project is developing a National Population Register (RNP) under the new agency ANEI, created by decree of 22 April 2026, with enrolment starting in the five arrondissements of Niamey in the coming weeks.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "Le Sahel reports that the RNP is to be interoperable with the civil and nationality registers and to authenticate anyone requesting public or private services requiring identification.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Niger",
+   "class": "population",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [The Electoral Commissioner's office says voters can check the electoral register on its website by entering their national identity card number](<https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf>). [The Government Information Service says National Savings Fund employer returns must give each employee's National Identity Card number with contributions paid](<https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Register keyed on ID.** [The Electoral Commissioner's office says voters can check the electoral register on its website by entering their national identity card number](<https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf>). [The Government Information Service says National Savings Fund employer returns must give each employee's National Identity Card number with contributions paid](<https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main registers.** No source held since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf>).
 

@@ -2,7 +2,7 @@
 
 ## Cross-border functionality
 
-**Corridor in service.** [COMESA's Digital Retail Payments Platform is stated to be rolled out, linking Malawi and Zambia for instant local-currency cross-border transactions](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>). [COMESA, with EU funding, is supporting deployment of its Digital Retail Payment Platform across eight pilot countries including Malawi, with an implementation plan still to be drawn up](<https://www.comesa.int/comesa-eu-partnership-shaping-a-digital-future/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Corridor in service.** [COMESA's Digital Retail Payments Platform is stated to be rolled out, linking Malawi and Zambia for instant local-currency cross-border transactions](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>). [COMESA, with EU funding, is supporting deployment of its Digital Retail Payment Platform across eight pilot countries including Malawi, with an implementation plan still to be drawn up](<https://www.comesa.int/comesa-eu-partnership-shaping-a-digital-future/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Regional system.** [Malawi takes part in the COMESA Digital Retail Payments Platform, described as the first interoperable cross-border payment system of the 21-member bloc](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>).
 

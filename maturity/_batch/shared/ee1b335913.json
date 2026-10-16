@@ -1,0 +1,10 @@
+{"slug": "2026-08-09-mozambique-aid-recipient-digital-register", "studies": {
+"addressregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"businessregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"electoralregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on a voters' roll."}}},
+"landregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"populationregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on a population register."}}},
+"socialregistry": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "INGD humanitarian aid recipient register", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "INGD", "tiers": ""}, {"system": "INAS database", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "INAS", "tiers": ""}], "note": "The biometric register is a humanitarian aid recipient list; the INAS database is named but not described as a registry programmes draw on."}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on taxpayers."}}}
+}}

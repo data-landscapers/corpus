@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry](<https://diplomat.so/articles/1395/Sudan-launches-SUDAPASS-digital-ID-in-Khartoum>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Civil register linked to ID.** [At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry](<https://diplomat.so/articles/1395/Sudan-launches-SUDAPASS-digital-ID-in-Khartoum>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://diplomat.so/articles/1395/Sudan-launches-SUDAPASS-digital-ID-in-Khartoum>).
 

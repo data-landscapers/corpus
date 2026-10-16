@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-zwe-openparly-unvalidated-title-deeds-digital-land-platform",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Justice Minister Ziyambi told Parliament that the programme begun in July 2025 requires all urban freehold stands, sectional titles and agricultural land to be digitised, with the Digital Land Administrative Platform to become the sole authoritative title register after the 24-month validation period ends in July 2027 (Open Parly).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Land Administration Platform (DLAP)",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,8 +1,191 @@
-{"slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle", "studies": {
-"birthidlink": {"countries": {"NER": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Le Sahel reports the World Bank-backed WURI project is developing a National Population Register (RNP) to be interoperable with the civil-status and nationality registers, run by the new ANEI agency.", "as_of": "2026-07-27", "date_precision": "day", "system": "Registre National de la Population (RNP)", "class": "crvslink"}], "systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "ANEI", "tiers": ""}, {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "Niger", "class": "other", "platform": "", "owner": "Direction Generale de l'etat civil", "tiers": ""}, {"system": "Carte Nationale d'Identite Biometrique", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "Service Central de Production de la CNIB", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"NER": {"facts": [], "systems": [], "note": "The only figure is 66% of births declared, which is birth registration, not people enrolled in the ID system."}}},
-"idfrombirth": {"countries": {"NER": {"facts": [], "systems": [], "note": "States 66% of births declared but no ID number given at birth."}}},
-"idmaintenance": {"countries": {"NER": {"facts": [], "systems": [], "note": "Describes project support to the agency (equipment, staff, mini data centre and SOC) but not who operates or maintains a system in service."}}},
-"idregisters": {"countries": {"NER": {"facts": [], "systems": [], "note": "No public register is said to use the national ID number."}}},
-"idrobustness": {"countries": {"NER": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Le Sahel reports the restructured WURI project is building a National Population Register (RNP) to identify and authenticate individuals, with enrolment to start in Niamey's five arrondissements, and the ANEI agency created by decree of 22 April 2026.", "as_of": "2026-07-27", "date_precision": "day", "system": "Registre National de la Population (RNP)", "class": "idsystem"}], "systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "ANEI", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Le Sahel reports the World Bank-backed WURI project is developing a National Population Register (RNP) to be interoperable with the civil-status and nationality registers, run by the new ANEI agency.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National d'Etat Civil (RNEC)",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction Generale de l'etat civil",
+       "tiers": ""
+      },
+      {
+       "system": "Carte Nationale d'Identite Biometrique",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Service Central de Production de la CNIB",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The only figure is 66% of births declared, which is birth registration, not people enrolled in the ID system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "States 66% of births declared but no ID number given at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes project support to the agency (equipment, staff, mini data centre and SOC) but not who operates or maintains a system in service."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register is said to use the national ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Le Sahel reports the restructured WURI project is building a National Population Register (RNP) to identify and authenticate individuals, with enrolment to start in Niamey's five arrondissements, and the ANEI agency created by decree of 22 April 2026.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Le Sahel reports that the restructured WURI project will fund computerisation of all communes and declaration centres and a new digital platform for civil-status events, aiming at a national civil register (RNEC); only 66% of births are declared.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Registre National d'Etat Civil (RNEC)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National d'Etat Civil (RNEC)",
+       "country_label": "Niger",
+       "class": "civil",
+       "platform": "",
+       "owner": "Direction Generale de l'etat civil, des migrations et des refugies",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National des Nationalites (RNN)",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Le Sahel reports that the WURI project is developing a National Population Register (RNP) under the new agency ANEI, created by decree of 22 April 2026, with enrolment starting in the five arrondissements of Niamey in the coming weeks.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "Le Sahel reports that the RNP is to be interoperable with the civil and nationality registers and to authenticate anyone requesting public or private services requiring identification.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "population",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

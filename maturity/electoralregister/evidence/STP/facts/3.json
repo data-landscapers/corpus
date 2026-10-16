@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-02-stp-encerra-projeto-reforma-sistema-eleitoral-prese",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "The EU-funded PReSE, implemented through Camoes I.P., aims to set up an automatic and permanent electoral registration system, with an interoperability platform between the civil registry database (SIGA and Bilhete de Identidade) and the electoral roll database being developed by the University of Aveiro.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "PReSE interoperability platform",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGA",
+   "country_label": "STP",
+   "class": "other",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  },
+  {
+   "system": "PReSE interoperability platform",
+   "country_label": "STP",
+   "class": "electoral",
+   "platform": "",
+   "owner": "CEN/DGRN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

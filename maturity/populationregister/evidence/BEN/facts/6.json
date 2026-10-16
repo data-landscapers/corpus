@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-06-anip-rnpp-actes-naissance-securises",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Le Potentiel reports ANIP presents the RNPP as the basis for identifying persons, issuing a unique NPI to each enrolled citizen.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "ANIP says secure birth certificates are issued from data in the RNPP and the national civil-status file.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

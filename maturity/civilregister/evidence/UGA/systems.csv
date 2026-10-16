@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,Partner Management System,Uganda,other,,NIRA,,2026-06-01-nira-birth-registration-alien-registration
+UGA,MVRS,Uganda,civil,,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg
+UGA,NSIS with BDR module,Uganda,civil,OpenCRVS,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg
+UGA,crvs.nsis.nira.go.ug,Uganda,civil,OpenCRVS,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg

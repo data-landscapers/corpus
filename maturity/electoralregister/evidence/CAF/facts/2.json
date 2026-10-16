@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-10 Central African Republic enrols citizens for first local elections in 36 years",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "A biometric voter registration exercise supplied by GenKey was ongoing, with 3,000 enrolment tablets and 1,469 registration agents deployed, per the ANE.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "GenKey biometric voter system",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The exercise verifies the details of citizens registered in 2020, and the president checked whether his name was on the electoral list.",
+   "as_of": "2024-11-24",
+   "date_precision": "day",
+   "system": "GenKey biometric voter system",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GenKey biometric voter system",
+   "country_label": "Central African Republic",
+   "class": "electoral",
+   "platform": "GenKey",
+   "owner": "ANE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

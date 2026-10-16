@@ -1,0 +1,55 @@
+iso3,stage,register,shared,nationalid,stage_sources
+AGO,3,inservice,,,AGO-001
+BDI,3,inservice,,,BDI-001;BDI-002
+BEN,no evidence,,,,
+BFA,4,inservice,shared,,BFA-002
+BWA,no evidence,,,,
+CAF,no evidence,,,,
+CIV,no evidence,,,,
+CMR,3,inservice,,,CMR-001;CMR-003
+COD,4,inservice,shared,,COD-002
+COG,no evidence,,,,
+COM,no evidence,,,,
+CPV,no evidence,,,,
+DJI,no evidence,,,,
+DZA,3,inservice,,,DZA-002;DZA-001
+EGY,no evidence,,,,
+ERI,no evidence,,,,
+ETH,no evidence,,,,
+GAB,no evidence,,,,
+GHA,4,inservice,shared,,GHA-002
+GIN,no evidence,,,,
+GMB,no evidence,,,,
+GNB,3,inservice,,,GNB-001;GNB-004
+GNQ,2,underway,,,GNQ-001
+KEN,3,inservice,,,KEN-001
+LBR,no evidence,,,,
+LBY,no evidence,,,,
+LSO,no evidence,,,,
+MAR,no evidence,,,,
+MDG,no evidence,,,,
+MLI,no evidence,,,,
+MOZ,4,inservice,shared,,MOZ-002;MOZ-001
+MRT,no evidence,,,,
+MUS,no evidence,,,,
+MWI,no evidence,,,,
+NAM,4,inservice,shared,,NAM-001
+NER,no evidence,,,,
+NGA,5,inservice,shared,linked,NGA-001;NGA-004
+RWA,unplaced,,,,
+SDN,4,inservice,shared,,SDN-001
+SEN,no evidence,,,,
+SLE,no evidence,,,,
+SOM,no evidence,,,,
+SSD,3,inservice,,,SSD-001
+STP,no evidence,,,,
+SWZ,4,inservice,shared,,SWZ-001
+SYC,5,inservice,shared,linked,SYC-002
+TCD,3,inservice,,,TCD-001
+TGO,no evidence,,,,
+TUN,4,inservice,shared,,TUN-001
+TZA,no evidence,,,,
+UGA,5,inservice,shared,linked,UGA-003;UGA-013
+ZAF,no evidence,,,,
+ZMB,no evidence,,,,
+ZWE,3,inservice,,,ZWE-001

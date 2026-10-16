@@ -2,7 +2,7 @@
 
 ## G2P functionality
 
-**Paid digitally.** [The Nafa cash transfer programme, part of the World Bank and Gambia Government funded RISE project run by the National Nutrition Agency, pays bi-monthly D3000 transfers to beneficiary households, now cashlessly through the Wave fintech solution, according to NaNA's accountant and a community development officer](<https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Paid digitally.** [The Nafa cash transfer programme, part of the World Bank and Gambia Government funded RISE project run by the National Nutrition Agency, pays bi-monthly D3000 transfers to beneficiary households, now cashlessly through the Wave fintech solution, according to NaNA's accountant and a community development officer](<https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main streams.** No source held since October 2023 shows two or more main government payment streams paid digitally. The nearest held fact: [the one given above](<https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/>).
 

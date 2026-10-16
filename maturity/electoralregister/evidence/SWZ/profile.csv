@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,electoral,roll,coverage,underway,2026-09-12,SWZ-001;SWZ-002,,
+SWZ,electoral,checked,coverage,open,2026-08-29,SWZ-003,,
+SWZ,electoral,linked,coverage,,,,,nothing held

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DISK-Mali",
+   "country_label": "MLI",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "DGSHP / INSP",
+   "tiers": "community health workers"
+  }
+ ],
+ "note": "Health-sector CHW notification tool, not a civil register."
+}

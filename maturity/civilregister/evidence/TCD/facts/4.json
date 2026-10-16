@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants",
+ "facts": [],
+ "systems": [
+  {
+   "system": "registre national biométrique",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "smartphone enrolment",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "Household enrolment feeds the national biometric register; not stated to be a digital civil register."
+}

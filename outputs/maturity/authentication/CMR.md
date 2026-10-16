@@ -2,7 +2,7 @@
 
 ## Authentication
 
-**Authentication service.** [Cameroon's Finance Ministry made national ID cards a mandatory requirement, with birth certificates, of its public-servant family-allowance census, whose second phase launched in June 2026 and was due to end on 15 August 2026](<https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Authentication service.** [Cameroon's Finance Ministry made national ID cards a mandatory requirement, with birth certificates, of its public-servant family-allowance census, whose second phase launched in June 2026 and was due to end on 15 August 2026](<https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Used across services.** No source held since October 2023 says authentication is used across services or channels. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist>).
 

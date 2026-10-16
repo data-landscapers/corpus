@@ -1,0 +1,17 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "no evidence",
+   "registry": "",
+   "programmes": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a social registry, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

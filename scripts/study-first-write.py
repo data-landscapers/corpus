@@ -29,6 +29,7 @@ import study_lib  # noqa: E402
 import study_first_ladder as ladder  # noqa: E402
 
 SINCE = "2023-10"   # three years back from the as-at, as the ladder reads it
+CAPS = {15: "fifteen", 20: "twenty"}   # `study.json` -> `story_cap`, the batch's `study-calls.py --cap`
 ROOM = (100, 60, 60)
 # Per study: the short sentence for stages 1 to 5 ({y} the year of the fact that set it), what an
 # empty aspect says for the 2nd and 3rd aspects, and the thing named in an unstaged cell.
@@ -213,6 +214,78 @@ SHORT = {
         ["No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
          "No source held since October 2023 reports a fine, sanction or complaint figures."],
         "consumer-protection rules for digital finance"),
+    "populationregister": (
+        ["A {y} source says no population register exists.",
+         "A population register was under way in {y}; none in service is on record.",
+         "A population register was in service in {y}; updating from births and deaths is not known.",
+         "Births or deaths were entered in the population register in {y}; its use by other systems is not known.",
+         "Other systems drew on the population register in {y}."],
+        ["No source held since October 2023 says births or deaths are entered in the population register.",
+         "No source held since October 2023 says other systems take records from the population register."],
+        "a population register"),
+    "civilregister": (
+        ["A {y} source says civil registration is on paper with no digital register.",
+         "Digital civil registration was under way in {y}; national digital birth registration is not on record.",
+         "Births were registered digitally across the country in {y}; digital death registration is not known.",
+         "Births and deaths were registered digitally in {y}; 90% birth registration is not on record.",
+         "90% or more of births were registered in {y}."],
+        ["No source held since October 2023 says deaths are registered in the digital system.",
+         "No source held since October 2023 puts birth registration at 90% or more."],
+        "digital civil registration"),
+    "addressregister": (
+        ["A {y} source says there is no national addressing system.",
+         "An addressing system was under way in {y}; none in service is on record.",
+         "An address register or digital addressing system was in service in {y}; national coverage is not known.",
+         "The addressing system covered the whole country in {y}; its use by services is not known.",
+         "Other services used the national address system in {y}."],
+        ["No source held since October 2023 says the addressing system covers the whole country.",
+         "No source held since October 2023 says other services use the address system."],
+        "a national addressing system"),
+    "businessregister": (
+        ["A {y} source says business registration is on paper and held locally.",
+         "A digital business register was under way in {y}; online registration is not on record.",
+         "Firms could register online in {y}; a number shared with tax is not known.",
+         "A firm's registration number served the tax authority too in {y}; a record of beneficial owners is not known.",
+         "The business register recorded beneficial owners in {y}."],
+        ["No source held since October 2023 says registration gives one number shared with tax or social security.",
+         "No source held since October 2023 says the register collects beneficial owners."],
+        "a digital business register"),
+    "socialregistry": (
+        ["A {y} source says there is no social registry; programmes hold their own lists.",
+         "A social registry was under way in {y}; none in service is on record.",
+         "A social registry was in service in {y}; its use by two or more programmes is not known.",
+         "Two or more programmes used the social registry in {y}; a link to the national ID is not known.",
+         "The social registry was linked to the national ID in {y}."],
+        ["No source held since October 2023 says two or more programmes use the social registry.",
+         "No source held since October 2023 says the social registry is linked to the national ID."],
+        "a social registry"),
+    "electoralregister": (
+        ["A {y} source says the voters' roll is compiled by hand for each poll.",
+         "A digital voters' roll was under way in {y}; none in service is on record.",
+         "The voters' roll was held digitally in {y}; voters checking it is not on record.",
+         "Voters could check the digital roll in {y}; a link to the ID or civil register is not known.",
+         "The voters' roll was drawn from or checked against the ID or civil register in {y}."],
+        ["No source held since October 2023 says voters could check the roll.",
+         "No source held since October 2023 says the roll is drawn from or checked against the ID or civil register."],
+        "a digital voters' roll"),
+    "taxregister": (
+        ["A {y} source says taxpayers are registered on paper or not at all.",
+         "A computerised taxpayer register was under way in {y}; none in service is on record.",
+         "Taxpayers were registered on computer in {y}; a number shared with business registration or customs is not known.",
+         "The taxpayer number was shared with business registration or customs in {y}; a tie to the national ID is not known.",
+         "The taxpayer number was tied to the national ID in {y}."],
+        ["No source held since October 2023 says the taxpayer number is shared with business registration or customs.",
+         "No source held since October 2023 says the taxpayer number is tied to the national ID."],
+        "a computerised taxpayer register"),
+    "landregister": (
+        ["A {y} source says land rights are recorded on paper or not at all.",
+         "Digital land registration was under way in {y}; none in service is on record.",
+         "A digital land register was in service for part of the country in {y}; national coverage is not known.",
+         "A digital land register covered the whole country in {y}; online services are not known.",
+         "Land searches or registrations could be made online in {y}."],
+        ["No source held since October 2023 says the digital land register covers the whole country.",
+         "No source held since October 2023 says land can be searched or registered online."],
+        "a digital land register"),
 }
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"
@@ -298,9 +371,9 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
         words = len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split())
         if words < 120:   # few facts held: say so in the first paragraph, as the statistics law study did
             n = len(rows)
-            parts[4] += (" It is the only fact" if n == 1 else f" {n} facts are") + " held on the subject"                 + ": no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined."
+            parts[4] += (" It is the only fact" if n == 1 else f" {n} facts are") + " held on the subject"                 + ": no news story or official notice read for this study says more about it, " + ("the documents the earlier cell cited were not read" if "story_cap" in study else "the documents the earlier cell cited included") + ", and the systems themselves were not examined."
             if len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split()) < 120:
-                parts[4] += (" This is a first pass, which read at most fifteen stories a country; the nightly"
+                parts[4] += (f" This is a first pass, which read at most {CAPS.get(study.get('story_cap', 15), study.get('story_cap', 15))} stories a country; the nightly"
                              " deep dive reads further and may move the stage either way.")
         short = shorts[int(cell["stage"]) - 1].format(y=top["as_of"][:4])
     elif cell["stage"] == "unplaced":

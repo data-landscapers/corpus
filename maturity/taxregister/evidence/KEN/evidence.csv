@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+KEN-001,KEN,taxpayers,register,inservice,"The Kenya Revenue Authority's November/December 2025 release notes describe the iTax Taxpayer Registration Module in service, with PIN application, PIN checker, profile amendment and obligation registration online, via the portal, M-Service app and USSD.",2025-12,month,iTax,tax,2025-12-01-itax-enhancements-nov-dec-2025,https://www.kra.go.ke/images/publications/ITAX-ENHANCEMENTS-NOV-DEC-2025.pdf

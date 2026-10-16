@@ -1,0 +1,72 @@
+{
+ "slug": "2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "URA's Ritah Elizabeth Akech said the move to the NIN as the individual tax identifier is being implemented in phases, starting with mapping existing NINs to TINs.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Akech said existing taxpayers can update their details through an account on the URA online portal or at URA service points, and new taxpayers are registered by URA.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "Akech said taxpayers give fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers and verify identity against NIRA's records.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Akech said non-individual taxpayers will be issued an Entity Registration Number through the Uganda Registration Services Bureau as their tax identifier.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Entity Registration Number",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "URA",
+   "tiers": ""
+  },
+  {
+   "system": "NIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "Entity Registration Number",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "URSB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

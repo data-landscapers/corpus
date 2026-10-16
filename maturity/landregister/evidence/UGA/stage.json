@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "land",
+   "stage": "5",
+   "register": "inservice",
+   "national": "nationwide",
+   "online": "online",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
+  }
+ ]
+}

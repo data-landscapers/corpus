@@ -1,9 +1,208 @@
-{"slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification", "studies": {
-"authentication": {"countries": {"NER": {"facts": [], "systems": [], "note": "Secure authentication is only mentioned as a future purpose of the RNP, with no service authorised or piloted."}}},
-"birthidlink": {"countries": {"NER": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Officials said the planned National Population Register (RNP) will be interoperable with the civil-registration management system and the biometric ID card, with progressive interconnection of national registers.", "as_of": "2026-08-28", "date_precision": "day", "system": "Registre National de la Population (RNP)", "class": "crvslink"}], "systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}, {"system": "Carte Nationale d'Identite Biometrique (CNIB)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"NER": {"facts": [], "systems": [], "note": "About 13 million people aged 14 and over must hold a card but the number holding one is not given."}}},
-"idfrombirth": {"countries": {"NER": {"facts": [], "systems": [], "note": "The unique number is for people registered in the RNP; none is stated as given at birth."}}},
-"idmaintenance": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing stated on who operates or maintains the system."}}},
-"idregisters": {"countries": {"NER": {"facts": [], "systems": [], "note": "The RNP number is only planned as the access key to services; no public register is stated as using it."}}},
-"idrobustness": {"countries": {"NER": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The government is putting a new biometric national identity card into circulation and moving to biometric enrolment of the population and constitution of the National Population Register, said the Agadez governor.", "as_of": "2026-08-28", "date_precision": "day", "system": "Carte Nationale d'Identite Biometrique (CNIB)", "class": "idsystem"}], "systems": [{"system": "Carte Nationale d'Identite Biometrique (CNIB)", "country_label": "Niger", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Secure authentication is only mentioned as a future purpose of the RNP, with no service authorised or piloted."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Officials said the planned National Population Register (RNP) will be interoperable with the civil-registration management system and the biometric ID card, with progressive interconnection of national registers.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "About 13 million people aged 14 and over must hold a card but the number holding one is not given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The unique number is for people registered in the RNP; none is stated as given at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on who operates or maintains the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The RNP number is only planned as the access key to services; no public register is stated as using it."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The government is putting a new biometric national identity card into circulation and moving to biometric enrolment of the population and constitution of the National Population Register, said the Agadez governor.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about addressing."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about business registration."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives 79.63% of births declared, below 90%, and names no digital civil registration system in service or piloted."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about a voters' roll."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about land records."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Niger's Registre National de la Population is being constituted, centred on biometric enrolment of the population, with deconcentrated actors to carry out the registration operations, officials said at the Agadez workshop (ANP).",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Registre National de la Population (RNP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population (RNP)",
+       "country_label": "Niger",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of the Interior; Agence nationale de l'enregistrement et d'identification des personnes physiques",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about a social registry."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about taxpayer registration."
+    }
+   }
+  }
+ }
+}

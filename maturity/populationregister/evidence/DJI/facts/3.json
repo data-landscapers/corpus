@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Djibouti digital ministry's page says Law 39/AN/19 of 21 January 2019 provides for a centralised biometric national register of natural persons (RNPP) and a national identification number (NNI) assigned at birth.",
+   "as_of": "2019-01-21",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP) / NNI",
+   "country_label": "Djibouti",
+   "class": "population",
+   "platform": "biometric, centralised",
+   "owner": "Direction Generale de la Population et de la Famille with ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

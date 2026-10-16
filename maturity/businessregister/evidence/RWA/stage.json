@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "3",
+   "registration": "inservice",
+   "shared": "",
+   "owners": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-001;RWA-002",
+   "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

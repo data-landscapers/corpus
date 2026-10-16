@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-03-mulengeranews-uganda-nin-tin-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Finance Minister Henry Musasizi said a smaller number of people than hold NINs are captured in the tax register, with the TIN issued by URA.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "Cabinet approved use of the NIN as a tax identifier on 31 August 2026, and Musasizi said the NIN and TIN must be interoperable.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "URA",
+   "tiers": ""
+  },
+  {
+   "system": "NIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

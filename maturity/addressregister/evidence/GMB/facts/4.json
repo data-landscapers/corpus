@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-01 Implementing a Comprehensive Digital Addressing System - Kanifing Municipality, The Gambia",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "LoGRI says Kanifing Municipality implemented a Plus Code digital addressing system for 500,000 residents, georeferencing 36,000 properties and creating a municipal address database.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Kanifing Plus Code digital addressing system",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "used",
+   "value": "used",
+   "fact": "LoGRI says Kanifing Municipal Council now uses the address system for waste management and property-tax collection.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Kanifing Plus Code digital addressing system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kanifing Plus Code digital addressing system",
+   "country_label": "Kanifing Municipality",
+   "platform": "Plus Codes",
+   "owner": "Kanifing Municipal Council",
+   "tiers": "municipal",
+   "class": "address"
+  }
+ ],
+ "note": ""
+}

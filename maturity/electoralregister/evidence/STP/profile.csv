@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+STP,electoral,roll,coverage,inservice,2026-07-19,STP-001,STP-007=underway;STP-004=underway;STP-009=underway;STP-010=underway;STP-014=underway;STP-006=underway;STP-012=underway,
+STP,electoral,checked,coverage,open,2026-08-01,STP-002,,
+STP,electoral,linked,coverage,linked,2026-07-19,STP-003;STP-005;STP-008;STP-011;STP-013,,

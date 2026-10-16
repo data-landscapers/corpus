@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "NER",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Computerisation of communes and the RNEC are listed as reforms without a stated stage; birth declaration at 79% is below 90%."
+}

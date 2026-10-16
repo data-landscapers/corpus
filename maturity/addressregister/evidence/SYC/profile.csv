@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,address,addressing,coverage,underway,2026-08-26,SYC-001;SYC-003;SYC-004,SYC-002=none,
+SYC,address,national,coverage,,,,,nothing held
+SYC,address,used,coverage,,,,,nothing held

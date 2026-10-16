@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-rwanda-tax-registration-de-registration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Rwanda Revenue Authority page says individual enterprises and companies are registered online through the Rwanda Development Board portal, immediately and free of charge.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RDB registration portal",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Rwanda Revenue Authority says the RDB and RRA systems are integrated so registration gives a single, unique Taxpayer Identification Number.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RDB registration portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDB registration portal",
+   "country_label": "Rwanda",
+   "class": "business",
+   "platform": "businessprocedures.rdb.rw",
+   "owner": "Office of the Registrar General, Rwanda Development Board",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

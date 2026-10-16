@@ -1,0 +1,17 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "5",
+   "roll": "inservice",
+   "checked": "open",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "STP-003;STP-008",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

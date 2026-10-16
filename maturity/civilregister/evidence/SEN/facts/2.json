@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-16-senegal-anec-civil-registry-digitisation-remediation-progress",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ANEC pilot data at 13 July 2026 show 471 of 629 civil registration centres (75%) digitised with the LGEC and 15,352,830 records centralised in the national civil registry (RNEC).",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "LGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LGEC",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  },
+  {
+   "system": "Sama Etat civil",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  },
+  {
+   "system": "RNEC",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

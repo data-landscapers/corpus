@@ -1,0 +1,17 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "5",
+   "registration": "inservice",
+   "shared": "shared",
+   "owners": "recorded",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-001;ZAF-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

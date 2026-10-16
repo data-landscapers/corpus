@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,e-SiRCEV,Civil Registration,civil,,,,2025-01-01-jembi-mozambique-case-study
+MOZ,MGDH-Birth,Hospital Data Management,other,OpenHIM interoperability layer,,,2025-01-01-jembi-mozambique-case-study
+MOZ,Sistema de Registo Civil e Estatísticas Vitais (e-SIRCEV),Mozambique,civil,,Direcção Nacional dos Registos e Notariado,,2024-01-01-e-sircev-portal
+MOZ,e-SIRCEV,Mozambique,civil,,"Ministry of Justice, National Directorate of Registries and Notary Services",,2024-01-01-mozambique-crvs-law-policy-summary
+MOZ,e-RCEV,Sistema de Registo Civil e Estatisticas Vitais,civil,"USSD, SMS and web",Direccao Nacional dos Registos e Notariado,,2026-08-28-crvs-portal-sircev

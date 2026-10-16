@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-faq-electoral-commission-of-namibia",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission of Namibia says voter data captured with biometric Voter Registration Kits is uploaded to a central server, checked for duplicate fingerprints and ID numbers, and stored on a voters roll.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Voter Registration Kit biometric voters roll",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voter Registration Kit (VRK) and voters roll",
+   "country_label": "Namibia",
+   "class": "electoral",
+   "platform": "central server with fingerprint matching",
+   "owner": "Electoral Commission of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

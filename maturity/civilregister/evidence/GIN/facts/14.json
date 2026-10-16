@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de l'État Civil",
+   "country_label": "Guinea",
+   "class": "civil",
+   "platform": "",
+   "owner": "PN-RAVEC",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft rules only; no digital civil registration system stated as procured, piloted or rolled out."
+}

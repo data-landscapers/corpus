@@ -1,0 +1,79 @@
+{
+ "slug": "2026-06-18-mrt-interior-minister-population-enrolment-permanent-public-service",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The interior minister listed modernising the civil-status system and digitising its services among the reforms, alongside mobile field missions.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "Registre national de la population",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national de la population",
+       "country_label": "Mauritania",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National des Documents Sécurisés",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "Registre national de la population",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national de la population",
+       "country_label": "Mauritania",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National des Documents Sécurisés",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

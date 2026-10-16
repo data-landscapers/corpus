@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,social,registry,inservice,"The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates.",2026-01,month,Social Register of Mauritius,social,2026-01-01-csg-income-allowance-faq,https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf

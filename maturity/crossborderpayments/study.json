@@ -3,6 +3,7 @@
  "study_file": "maturity-study-crossborderpayments.md",
  "pass": "first",
  "window_from": "2023-10-01",
+ "story_cap": 20,
  "subjects": [
   "dpi.pay"
  ],

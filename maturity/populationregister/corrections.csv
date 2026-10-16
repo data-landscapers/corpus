@@ -1,0 +1,4 @@
+iso3,n,aspect,value,action,why
+NER,006,used,source,removed,First pass: an intended link read as use
+GIN,002,used,source,removed,First pass: a convention for future use read as use
+BFA,002,used,source,removed,First pass: a law's provision read as use

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,social,registry,underway,"The World Bank PID says Additional Financing 1 supports the legal and technical establishment of the National Social Registry, built by consolidating the current database through data cleaning and collection and registering new beneficiaries.",2026-05-19,day,National Social Registry (NSR),social,2026-05-19-worldbank-pid-social-registry-af1,https://www.gtai.de/resource/blob/1999512/d5f145dad744ac85e8c8fd6d42f16a49/PRO202605201999506.pdf

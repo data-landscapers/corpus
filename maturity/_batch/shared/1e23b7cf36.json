@@ -38,6 +38,64 @@
      "note": "The document states nothing on this question for the country."
     }
    }
+  },
+  "civilregister": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "MINALOC says Rwanda has launched a new National Centralized and Integrated CRVS system with registration of births and deaths moved to health facilities and cells, and training of 2148 cell executive secretaries on it is under way.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "National Centralized and Integrated CRVS",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Centralized and Integrated CRVS",
+       "country_label": "Rwanda",
+       "class": "civil",
+       "platform": "",
+       "owner": "MINALOC / National Identification Agency",
+       "tiers": "health facility, cell"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "National Population Registry",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Registry",
+       "country_label": "Rwanda",
+       "class": "population",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
   }
  }
 }

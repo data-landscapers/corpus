@@ -1,0 +1,4 @@
+{"slug":"2026-05-13-rsu-2-6-millions-menages-lexpress","facts":[
+{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"L'Express reports that, per the Ministry of Population and Solidarities, over 2.6 million households are in the Registre social unique, up from 990,000 in February 2023.","as_of":"2026-05","date_precision":"month","system":"Registre social unique (RSU)","class":"social"},
+{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"L'Express reports a mass registration campaign in 99 districts until December 2026, aiming at national coverage.","as_of":"2026-05","date_precision":"month","system":"Registre social unique (RSU)","class":"social"}],
+"systems":[{"system":"Registre social unique (RSU)","country_label":"Madagascar","class":"social","platform":"","owner":"Ministere de la Population et des Solidarites","tiers":""}],"note":""}

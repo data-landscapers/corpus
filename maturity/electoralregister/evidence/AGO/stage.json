@@ -1,0 +1,17 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "5",
+   "roll": "inservice",
+   "checked": "open",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

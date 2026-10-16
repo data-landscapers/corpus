@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** [AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Equatorial Guinea, regulates payment market structures including technical approvals and authorisations of payment solutions](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>). 9 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** [AfricaNenda says the regional central bank BEAC, whose rules apply to the six CEMAC states including Equatorial Guinea, regulates payment market structures including technical approvals and authorisations of payment solutions](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>). 9 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** [AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Equatorial Guinea](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 

@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "taxpayers",
+   "stage": "5",
+   "register": "inservice",
+   "shared": "shared",
+   "nationalid": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-003;UGA-013",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
+  }
+ ]
+}

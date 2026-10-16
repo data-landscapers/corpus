@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-23-who-emro-somalia-health-facility-registry",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Master Health Facility List",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers a health facility list, not an address system."
+}

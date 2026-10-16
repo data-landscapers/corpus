@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The article says Pesaflow is associated in Kenya with eCitizen and the Business Registration Service, with services to file applications, pay fees and retrieve documents online.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Business Registration Service",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Business Registration Service",
+   "country_label": "Kenya",
+   "class": "business",
+   "platform": "eCitizen",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

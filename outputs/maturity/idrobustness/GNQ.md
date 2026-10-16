@@ -2,7 +2,7 @@
 
 ## Robustness of system
 
-**National ID in service.** [CNEDOGE issues national identity documents (DIP) carrying a biometric security system, with an unwritten norm of about 30 working days per document](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**National ID in service.** [CNEDOGE issues national identity documents (DIP) carrying a biometric security system, with an unwritten norm of about 30 working days per document](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
 
 **Biometric checks.** No source held since October 2023 says the system checks people by biometrics. The nearest held fact: [the one given above](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>).
 

@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,Community village declaration chain (village notebooks to civil registration centres),MLI,civil,paper,DNEC,"village agents, declaration centres, civil registration centres, DNEC",2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees
+MLI,DISK-Mali,MLI,other,DHIS2,DGSHP / INSP,community health workers,2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births
+MLI,Recensement Administratif à Vocation d'état civil (RAVEC),Mali,other,,,,2025-02-14-creation-agence-nationale-securisation-actes-etat-civil
+MLI,Centre de Traitement des Données de l'état civil (CTDEC),Mali,other,,,,2025-02-14-creation-agence-nationale-securisation-actes-etat-civil
+MLI,"digital civil-status platform (births, deaths, marriages)",Mali,civil,,Direction nationale de l'état civil,,2024-12-16-unicef-mali-birth-registration-progress

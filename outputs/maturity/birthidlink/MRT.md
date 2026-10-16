@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [The Interior Ministry's first-half 2026 report lists as an achievement the update of the biometric databases and their interconnection with the civil-status system](<https://dgat.interieur.gov.mr/node/397>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Civil register linked to ID.** [The Interior Ministry's first-half 2026 report lists as an achievement the update of the biometric databases and their interconnection with the civil-status system](<https://dgat.interieur.gov.mr/node/397>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://dgat.interieur.gov.mr/node/397>).
 

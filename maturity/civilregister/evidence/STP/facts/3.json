@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-09-sao-tome-prese-plataforma-recenseamento-automatico-registo-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGA",
+   "country_label": "Sao Tome and Principe",
+   "class": "civil",
+   "platform": "",
+   "owner": "DGRN",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil registry systems are named and re-equipped but no digital registration of births or deaths is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-title-deed-validation-reissuance-pilot-madzima",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Lawyer Vengai Madzima says 16 law firms were selected for a two-week pilot to test the Digital Land Administration Platform before full implementation, as the Deeds Registry moves away from paper under S.I. 76 of 2025 with a validation deadline around 18 July 2027.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Land Administration Platform (DLAP)",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

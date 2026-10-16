@@ -125,6 +125,98 @@
      "note": ""
     }
    }
+  },
+  "addressregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on addressing."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on business registration."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil-status registers are mentioned only as the basis for issuing the NNI; no digital civil registration system is stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Elections are named only as a future user of the register; no voters' roll is described."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on land."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Djibouti digital ministry's page says Law 39/AN/19 of 21 January 2019 provides for a centralised biometric national register of natural persons (RNPP) and a national identification number (NNI) assigned at birth.",
+       "as_of": "2019-01-21",
+       "date_precision": "day",
+       "system": "Registre National des Personnes Physiques (RNPP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National des Personnes Physiques (RNPP) / NNI",
+       "country_label": "Djibouti",
+       "class": "population",
+       "platform": "biometric, centralised",
+       "owner": "Direction Generale de la Population et de la Famille with ANSIE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on a social registry."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax is named only as an administration that will exchange data; no taxpayer register is described."
+    }
+   }
   }
  }
 }

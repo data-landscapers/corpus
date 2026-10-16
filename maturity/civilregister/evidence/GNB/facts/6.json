@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-22-gnb-sirec-sistema-integrado-registo-estatisticas-cidadao",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The SIREC page says the system, funded by the EU and implemented by the Direcao-Geral de Identificacao Civil, Registos e Notariado, processes civil registration data including births in a single integrated database.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "SIREC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The SIREC page says the system registers deaths (obito) alongside births and marriages, with fully digital storage of registration acts.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "SIREC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIREC",
+   "country_label": "Guinea-Bissau",
+   "class": "civil",
+   "platform": "national electronic civil register database",
+   "owner": "Direcao-Geral de Identificacao Civil, Registos e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

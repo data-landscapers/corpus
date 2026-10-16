@@ -1,0 +1,17 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "address",
+   "stage": "2",
+   "addressing": "underway",
+   "national": "",
+   "used": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
+   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
+  }
+ ]
+}

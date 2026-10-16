@@ -63,6 +63,53 @@
      "note": "Document covers an automatic voter registration platform and civil registry equipment; no ID system, number or link to one is stated."
     }
    }
+  },
+  "civilregister": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGA",
+       "country_label": "Sao Tome and Principe",
+       "class": "civil",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      }
+     ],
+     "note": "Civil registry systems are named and re-equipped but no digital registration of births or deaths is stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "Camoes reports that an automatic voter registration platform, under development by the Universidade de Aveiro, was presented at a public session on 4 September 2025.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "plataforma de recenseamento automático",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "plataforma de recenseamento automático",
+       "country_label": "Sao Tome and Principe",
+       "class": "electoral",
+       "platform": "",
+       "owner": "CEN/GTE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
   }
  }
 }

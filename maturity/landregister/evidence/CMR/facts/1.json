@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-07-leconomie-douala-digital-land-registry-possession-certificate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital land file system (Douala City Council)",
+   "country_label": "Cameroon",
+   "class": "land",
+   "platform": "",
+   "owner": "Communauté urbaine de Douala",
+   "tiers": "city"
+  }
+ ],
+ "note": "Digitisation of about 200,000 land files is only envisaged under a 28 April 2026 MoU; nothing is stated as under way or in service."
+}

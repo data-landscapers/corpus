@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-07-77-million-nigerians-safety-net-register-nassco",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "NASSCO's national programme manager said the National Social Register covers over 20 million households and more than 77 million individuals across all 36 states and the FCT.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Social Register",
+   "country_label": "NGA",
+   "class": "social",
+   "platform": "",
+   "owner": "National Social Safety-Nets Coordinating Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

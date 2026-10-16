@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,SIFCOM,Système d'Information Foncière Communal,land,,PROCASEF,communal,2026-07-22-procasef-copil-sifcom-55-communes-preproduction
+SEN,NICAD,Numéro d'Identification Cadastrale,land,,,,2026-07-22-procasef-copil-sifcom-55-communes-preproduction
+SEN,SIFCOM,Système d'Information Foncière Communal,land,,PROCASEF,communal,2026-07-10-procasef-dodel-remise-10318-titres-affectation
+SEN,NICAD,NICAD system,land,,,,2026-07-10-procasef-dodel-remise-10318-titres-affectation
+SEN,SIFCOM,Système d'Information Foncière Communal,land,,PROCASEF,communal,2026-05-13-procasef-financement-additionnel-60-communes
+SEN,NICAD,NICAD,land,,,,2026-05-13-procasef-financement-additionnel-60-communes
+SEN,Land Information System (LIS),LIS,land,,PROCASEF,,2025-12-21-worldbank-procasef-p172422-isr-seq12
+SEN,SIFCOM,SIFCOM,land,,,,2025-12-21-worldbank-procasef-p172422-isr-seq12
+SEN,eNICAD,eNICAD,land,,,parcel numbering,2025-12-21-worldbank-procasef-p172422-isr-seq12

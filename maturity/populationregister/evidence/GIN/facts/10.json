@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-pn-ravec-site-officiel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Guinea",
+   "class": "population",
+   "platform": "",
+   "owner": "PN-RAVEC",
+   "tiers": ""
+  }
+ ],
+ "note": "The page names the registers but states nothing on whether they are digital, in service or used by other systems."
+}

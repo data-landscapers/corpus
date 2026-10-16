@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SWZ-001,SWZ,business,registration,inservice,"The Eswatini Trade Portal states company registration runs as a six-step process, from name search to certificate, available online through the government portal online.gov.sz and processed within one day.",2025,year,online.gov.sz,business,2025-01-01-eswatini-company-registration-procedure,https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1

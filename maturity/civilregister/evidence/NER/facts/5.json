@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-11-niger-population-registry-legal-texts-tour",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "NER",
+   "class": "civil",
+   "platform": "",
+   "owner": "Direction Generale de l'etat civil, des Migrations et des Refugies",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital civil registration is announced as a future investment; birth declaration at 79% is below 90%."
+}

@@ -1,0 +1,4 @@
+{"slug":"2024-05-30-moa-e-services-nrlais","facts":[
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"The Ministry of Agriculture describes NRLAIS as a computer-based central repository of rural land transactions, land use and ownership records.","as_of":"2024-05-30","date_precision":"day","system":"National Rural Land Administration Information System (NRLAIS)","class":"land"},
+{"sub_indicator":"land","aspect":"national","value":"nationwide","fact":"The Ministry of Agriculture states NRLAIS facilitates land administration in rural areas across the country.","as_of":"2024-05-30","date_precision":"day","system":"National Rural Land Administration Information System (NRLAIS)","class":"land"}],
+"systems":[{"system":"National Rural Land Administration Information System (NRLAIS)","country_label":"Ethiopia","class":"land","platform":"","owner":"Ministry of Agriculture","tiers":"rural"}],"note":""}

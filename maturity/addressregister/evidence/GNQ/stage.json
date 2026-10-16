@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "address",
+   "stage": "no evidence",
+   "addressing": "",
+   "national": "",
+   "used": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names an addressing system, or says there is none.",
+   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The DGPF director general says birth and marriage certificates are progressively being integrated into a digital database as part of an archive digitisation programme.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "not named",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

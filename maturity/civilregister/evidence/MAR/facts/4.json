@@ -1,0 +1,44 @@
+{
+ "slug": "2024-10-29-aujourdhui-registre-national-etat-civil-digital",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The Interior Ministry says its civil-status management system (SGEC) is generalised across all civil-status offices in the Kingdom and handles birth declarations, with over 1,300,000 acts declared or issued.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "Systeme de gestion de l'etat civil (SGEC)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The Interior Ministry says the SGEC handles death declarations as well as births, marriages and divorces.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "Systeme de gestion de l'etat civil (SGEC)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Systeme de gestion de l'etat civil (SGEC)",
+   "country_label": "Morocco",
+   "class": "civil",
+   "platform": "central electronic database, dedicated network",
+   "owner": "Ministry of Interior",
+   "tiers": "civil-status offices nationwide"
+  },
+  {
+   "system": "Portail de l'etat civil (alhalamadania.ma)",
+   "country_label": "Morocco",
+   "class": "civil",
+   "platform": "web portal",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

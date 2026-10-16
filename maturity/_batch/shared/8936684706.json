@@ -1,0 +1,4 @@
+{"slug":"2026-08-26-sao-tome-csu-social-registry-expansion","studies":{
+"landregister":{"countries":{"STP":{"facts":[],"systems":[],"note":"The document says nothing about land records."}}},
+"socialregistry":{"countries":{"STP":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"Sao Tome and Principe's Cadastro Social Unico, set up by Decreto-Lei 16/2018 and regulated by Decreto-Lei 3/2023, was expanded by a data update from 8,000 to more than 12,500 households, the prime minister said (RSTP).","as_of":"2026-08-26","date_precision":"day","system":"Cadastro Social Unico","class":"social"}],"systems":[{"system":"Cadastro Social Unico","country_label":"Sao Tome and Principe","class":"social","platform":"","owner":"Direcao de Protecao Social","tiers":""}],"note":""}}}
+}}

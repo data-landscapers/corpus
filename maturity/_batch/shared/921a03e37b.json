@@ -1,0 +1,32 @@
+{
+ "slug": "2026-09-04-civ-afriksoir-neuf-groupes-travail",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil registration is mentioned only as distance and delay problems, with no digital register stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Registre national des personnes physiques",
+       "class": "population",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The RNPP is named as the base for a planned national SSO; service status and use by other systems are not stated."
+    }
+   }
+  }
+ }
+}

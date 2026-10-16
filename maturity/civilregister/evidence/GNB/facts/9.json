@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-gnb-unicef-nascer-com-identidade-registo-nascimento-saude",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNICEF says birth registration is now done digitally on a tablet platform in hospitals and health centres in three regions (Bissau, Tombali, Quinara), with over 20,000 children aged 0 to 7 registered from October 2024 to June 2025.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Sistema Integrado de Registo e Estatisticas do Cidadao",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Registo e Estatisticas do Cidadao",
+   "country_label": "Guinea-Bissau",
+   "class": "civil",
+   "platform": "digital platform on tablet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

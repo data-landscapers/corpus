@@ -1,0 +1,117 @@
+{
+ "slug": "2025-09-17-marocma-generalisation-protection-sociale-rnp-rsu",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Head of Government's department says 22.5 million people were enrolled in the Registre National de la Population as of mid-September 2025, with enrolment continuing.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "registre national de la population",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "registre national de la population",
+       "country_label": "Morocco",
+       "class": "population",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Head of Government's department says 5.3 million families were enrolled in the Registre Social Unifie as of mid-September 2025, and 1.8 million RSU families received a supplementary school-year aid.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "registre social unifié",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "registre social unifié",
+       "country_label": "Morocco",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  }
+ }
+}

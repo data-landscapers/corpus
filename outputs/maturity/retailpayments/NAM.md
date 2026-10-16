@@ -2,7 +2,7 @@
 
 ## P2P, P2G and P2B functionality
 
-**Mobile money in service.** [Banks, authorised fintechs and e-money issuers are to serve the public through the interoperable Instant Payment Solution, which has finished piloting and is in phased rollout](<https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Mobile money in service.** [Banks, authorised fintechs and e-money issuers are to serve the public through the interoperable Instant Payment Solution, which has finished piloting and is in phased rollout](<https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Between providers.** [The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
 

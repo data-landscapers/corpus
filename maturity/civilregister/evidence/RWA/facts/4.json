@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-03-rwanda-integrated-civil-registration-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "MINALOC says Rwanda has launched a new National Centralized and Integrated CRVS system with registration of births and deaths moved to health facilities and cells, and training of 2148 cell executive secretaries on it is under way.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Centralized and Integrated CRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Centralized and Integrated CRVS",
+   "country_label": "Rwanda",
+   "class": "civil",
+   "platform": "",
+   "owner": "MINALOC / National Identification Agency",
+   "tiers": "health facility, cell"
+  }
+ ],
+ "note": ""
+}

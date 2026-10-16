@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "civil",
+   "stage": "5",
+   "births": "inservice",
+   "deaths": "digital",
+   "coverage": "target",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-005;RWA-009",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
+  }
+ ]
+}

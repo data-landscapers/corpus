@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-12-nimc-id-prisoners-social-register-ai",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Minister Yilwatda said the federal government expanded the social register from 13 million to 19.7 million people using an AI system to identify urban poor.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Social Register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "social register",
+   "country_label": "NGA",
+   "class": "social",
+   "platform": "",
+   "owner": "Federal Ministry of Humanitarian Affairs and Poverty Reduction",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

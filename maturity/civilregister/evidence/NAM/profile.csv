@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,civil,births,coverage,inservice,2026-03-27,NAM-004,NAM-003=underway;NAM-007=underway;NAM-008=underway;NAM-009=underway,
+NAM,civil,deaths,coverage,digital,2026-03-27,NAM-005;NAM-010,,
+NAM,civil,coverage,coverage,target,2026-03-27,NAM-006,,

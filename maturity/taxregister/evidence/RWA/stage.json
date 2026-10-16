@@ -1,0 +1,17 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "taxpayers",
+   "stage": "unplaced",
+   "register": "",
+   "shared": "",
+   "nationalid": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether taxpayers are registered on computer.",
+   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
+  }
+ ]
+}

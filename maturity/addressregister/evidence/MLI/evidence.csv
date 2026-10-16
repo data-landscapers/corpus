@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,address,addressing,underway,"The Direction Générale des Impôts reports that the NINACAD-ADRESSE digital addressing application, at its design phase, covers about 1,500,000 places or parcels in the ten communes of Bamako District, parts of Kati cercle and the towns of Ségou, Koulikoro, Markala and Sikasso.",2026-01-08,day,NINACAD-ADRESSE,address,2026-01-08-mali-dgi-ninacad-adresse,https://www.dgi.gouv.ml/du-ninacad-adresse-bientot-disponible-au-mali/

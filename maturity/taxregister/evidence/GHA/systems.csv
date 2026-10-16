@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,Taxpayer Identification Number system,Ghana,tax,,Ghana Revenue Authority,organisations,2026-08-29-ghana-gra-tin-taxpayer-identification-number
+GHA,Ghana Card PIN,Ghana,tax,,National Identification Authority,individual taxpayers,2026-08-29-ghana-gra-tin-taxpayer-identification-number
+GHA,TIN/Ghana Card PIN verification portal,Ghana,tax,online portal,Ghana Revenue Authority,,2026-08-29-ghana-gra-tin-taxpayer-identification-number

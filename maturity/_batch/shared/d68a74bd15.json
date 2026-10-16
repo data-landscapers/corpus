@@ -1,0 +1,6 @@
+{"slug": "2026-01-27-sao-tome-lancamento-ii-recertificacao-expansao-cadastro-social-unico", "studies": {
+"landregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "Document does not mention land."}}},
+"socialregistry": {"countries": {"STP": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The Labour Minister said on 27 January 2026 that the Cadastro Social Único system already works and is being improved from eight thousand to twelve thousand households.", "as_of": "2026-01-27", "date_precision": "day", "system": "Cadastro Social Único", "class": "social"}],
+"systems": [{"system": "Cadastro Social Único", "country_label": "Sao Tome and Principe", "class": "social", "platform": "", "owner": "Direção de Proteção Social, Solidariedade e Família", "tiers": ""}], "note": ""}}}
+}}

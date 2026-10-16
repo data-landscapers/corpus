@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre National de la Population (RNP),Niger,other,,ANEI / Ministry of the Interior,national,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),Niger,other,,ANIEP,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
+NER,Registre National d'Etat Civil (RNEC),NER,civil,,"Direction Generale de l'etat civil, des Migrations et des Refugies",,2026-08-11-niger-population-registry-legal-texts-tour
+NER,informatisation de l'état civil,Niger,civil,,Ministry of Interior,communes,2026-08-10-niger-civil-status-digitalization-commemorative-day
+NER,Registre National d'Etat Civil (RNEC),Niger,civil,,"Direction Generale de l'etat civil, des migrations et des refugies",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalites (RNN),Niger,other,,Ministry of Justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,plateforme digitale de gestion des faits d'état civil,Niger,civil,,Direction Générale de l'État Civil / WURI-Niger,communes,2026-01-01-etat-civil-wuri-niger
+NER,INCI,Niger,civil,,Direction Générale de l'État Civil,communes,2025-05-07-actuniger-niger-revue-plan-strategique-etat-civil
+NER,RNEC,Registre National d'Etat Civil,civil,,ANEI,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National d'Etat Civil,NER,civil,,,,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,Registre National d'Etat Civil (RNEC),NER,civil,,,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Diffa civil-status computerisation,Niger,civil,,DRECM-R Diffa,four communes,2026-07-29-niger-diffa-173000-actes-de-naissance-etat-civil
+NER,WURI Niger birth registration pilot,Niger,civil,,WURI Niger project,Filingue district,2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate
+NER,Civil-status computerisation,Niger,civil,,,over 130 communes,2024-12-01 Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)
+NER,Registre National de la Population,NER,other,,ANEI,,2026-10-06-ner-anp-caravane-wuri-niamey

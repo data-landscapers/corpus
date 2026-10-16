@@ -1,0 +1,10 @@
+{"slug": "2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention addressing."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention business registration."}}},
+"civilregister": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Registre National de l'État Civil", "country_label": "Guinea", "class": "civil", "platform": "", "owner": "PN-RAVEC", "tiers": ""}], "note": "Draft rules only; no digital civil registration system stated as procured, piloted or rolled out."}}},
+"electoralregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention the voters' roll."}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention land."}}},
+"populationregister": {"countries": {"GIN": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "PN-RAVEC workshop of 12-17 January 2026 reviewed draft implementing texts on the mechanisms for constituting an interoperable Registre National des Personnes Physiques under Laws L/2023/019/CNT and L/2023/020/CNT.", "as_of": "2026-01", "date_precision": "month", "system": "Registre National des Personnes Physiques", "class": "population"}], "systems": [{"system": "Registre National des Personnes Physiques", "country_label": "Guinea", "class": "population", "platform": "", "owner": "PN-RAVEC", "tiers": ""}], "note": ""}}},
+"socialregistry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention a social registry."}}},
+"taxregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention taxpayers."}}}
+}}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,taxpayers,register,coverage,inservice,2025-12-02,COD-001;COD-003,,
+COD,taxpayers,shared,coverage,shared,2025-12-02,COD-002,,
+COD,taxpayers,nationalid,coverage,,,,,nothing held

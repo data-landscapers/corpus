@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-ben-anip-business-intelligence-procurement",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP is stated to manage the Registre National des Personnes Physiques, a trusted identity referential for people in Benin, whose data a tender dated 2026-08-31 seeks to exploit.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Registre National des Personnes Physiques",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

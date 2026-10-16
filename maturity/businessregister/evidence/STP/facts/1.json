@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-sao-tome-dgrn-guiche-unico-para-empresa",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The DGRN page of Sao Tome and Principe presents a one-stop company counter (Guiche Unico para Empresa) handling company formation, alteration, dissolution, branch and sole-trader registration, with fees in dobras.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Guiche Unico para Empresa",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guiche Unico para Empresa",
+   "country_label": "Sao Tome and Principe",
+   "class": "business",
+   "platform": "",
+   "owner": "DGRN, Ministerio da Justica",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

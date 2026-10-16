@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The interior minister listed modernising the civil-status system and digitising its services among the reforms, alongside mobile field missions.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "Registre national de la population",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de la population",
+   "country_label": "Mauritania",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Documents Sécurisés",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** [The Herald reports the Reserve Bank of Zimbabwe oversees mobile money by directive: a 2021 directive enforced one line, one wallet, and the February 2026 Monetary Policy Statement directed operators to verify customers by 30 June 2026](<https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** [The Herald reports the Reserve Bank of Zimbabwe oversees mobile money by directive: a 2021 directive enforced one line, one wallet, and the February 2026 Monetary Policy Statement directed operators to verify customers by 30 June 2026](<https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/>).
 

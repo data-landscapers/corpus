@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBR-001,LBR,civil,births,underway,"UNICEF says the Birth Registration Information Management System (BRIMS) on the DHIS2 platform has been implemented, with birth registration decentralized to all 15 counties and 58 centers.",2024-12-11,day,Birth Registration Information Management System (BRIMS),civil,2024-12-11-unicef-liberia-children-legal-identity,https://www.unicef.org/liberia/press-releases/new-era-inclusion-millions-children-gain-legal-identity

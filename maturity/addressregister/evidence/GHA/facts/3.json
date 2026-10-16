@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-19-ghanapostgps-digital-addressing-evaluation",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "An academic evaluation says Ghana's Digital Addressing System, the Ghana Post GPS App and System, had been in implementation nearly six years and might be a partial failure.",
+   "as_of": "2024-02-19",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GhanaPostGPS",
+   "country_label": "Ghana",
+   "class": "address",
+   "platform": "app and web map",
+   "owner": "Ghana Post Company Limited",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

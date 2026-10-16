@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-25-mediaguinee-oneci-ng-tech-rnpp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national d'identite (RNPP)",
+   "country_label": "Guinee",
+   "class": "population",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": "The register is named as being secured by the vendor; no statement that it is in service or being built."
+}

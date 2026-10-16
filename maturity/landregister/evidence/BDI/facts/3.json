@@ -1,0 +1,42 @@
+{
+ "slug": "2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "We Are Tech Africa reports the land directorate DTFCN runs a Building Permit System for initial titles and a Property Management System for transfers, corrections and mortgages, joined by an EDRMS launched 17 June 2025.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Property Management System (PMS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Property Management System (PMS)",
+   "country_label": "BDI",
+   "class": "land",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  },
+  {
+   "system": "Building Permit System (BPS)",
+   "country_label": "BDI",
+   "class": "land",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Document and Records Management System (EDRMS)",
+   "country_label": "BDI",
+   "class": "other",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

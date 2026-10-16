@@ -1,0 +1,5 @@
+{"slug": "2025-01-01-land-information-management-system-lims", "facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Ministry of Lands, with the World Bank's AGCOM project, is implementing the Land Information Management System, with a contract signed 10 May 2021 for a 20-month rollout including data capture and go-live phases.", "as_of": "2025", "date_precision": "year", "system": "Land Information Management System (LIMS)", "class": "land"}
+], "systems": [
+{"system": "Land Information Management System (LIMS)", "country_label": "Malawi", "class": "land", "platform": "", "owner": "Ministry of Lands", "tiers": "Departments of Lands, Surveys and Physical Planning"}
+], "note": ""}

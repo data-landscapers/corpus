@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-zimbabwe-ecadastre-portal",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Department of the Surveyor General's eCadastre portal is live, described as a public record platform with land parcel boundaries, ownership and usage information, and lets users search property by district, owner name, property ID or deed number.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Zimbabwe eCadastre",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The eCadastre portal states property can be searched online from anywhere, with property cards available after payment, and surveyors can e-lodge surveys.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Zimbabwe eCadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe eCadastre",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Department of the Surveyor General",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-21-lancamento-da-modernizacao-e-ampliacao-do-cadastro-social-unico",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "MASFAMU reports the First Lady symbolically activated the Cadastro Social Único platform on 20 July 2026, the registry instituted by Presidential Decree 136/19 of 10 May.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "Minister of State Massano said the platform will reinforce the Kwenda cash-transfer programme and the National School Feeding Programme.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único",
+   "country_label": "Angola",
+   "class": "social",
+   "platform": "",
+   "owner": "MASFAMU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

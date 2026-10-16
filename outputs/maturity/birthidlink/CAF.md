@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [The SNID will unify the country's existing biometric and civil status databases, with implementation set for 2027-2032](<https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Civil register linked to ID.** [The SNID will unify the country's existing biometric and civil status databases, with implementation set for 2027-2032](<https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration>).
 

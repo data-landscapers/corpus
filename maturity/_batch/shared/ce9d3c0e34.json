@@ -1,0 +1,86 @@
+{
+ "slug": "2026-08-30-prnewswire-lesotho-launches-national-farmers-portal-giving-every-farmer",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes a ministry farmers registry only, not this study's register."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Farmers Portal",
+       "country_label": "Lesotho Farmers Portal",
+       "class": "other",
+       "platform": "Joget DX Enterprise",
+       "owner": "Ministry of Agriculture, Food Security and Nutrition",
+       "tiers": ""
+      }
+     ],
+     "note": "Document describes a ministry farmers registry only, not this study's register."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  }
+ }
+}

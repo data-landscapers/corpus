@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ANEC says it has digitised more than 15.3 million civil registration records, with 67% of centres digitised via the LGEC and 629 centres connected to the national network.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "LGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LGEC",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  },
+  {
+   "system": "Sama Etat civil",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

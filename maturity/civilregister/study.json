@@ -1,0 +1,117 @@
+{
+ "id": "civilregister",
+ "study_file": "maturity-study-civilregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--civil-register"
+ ],
+ "carry": [
+  "dpi.registry--civil-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "civil registration",
+  "civil register",
+  "civil registry",
+  "CRVS",
+  "birth registration",
+  "death registration",
+  "birth certificate",
+  "birth certificates",
+  "vital statistics",
+  "vital events",
+  "état civil",
+  "actes de naissance",
+  "acte de naissance",
+  "enregistrement des naissances",
+  "déclaration des naissances",
+  "registo civil",
+  "registo de nascimento",
+  "certidão de nascimento",
+  "السجل المدني",
+  "تسجيل المواليد",
+  "الحالة المدنية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "civil",
+   "label": "Civil register",
+   "subject": "dpi.registry",
+   "text": "Civil register: civil register",
+   "indicator_id": "dpi.registry--civil-register-civil-register",
+   "class": "civil",
+   "norm_short": "The African Union's Digital Transformation Strategy and the Africa Programme on Accelerated Improvement of CRVS ask for digital civil registration; the SDG target is every birth and 80% of deaths registered.",
+   "criteria": [
+    "A source from the past three years says civil registration is on paper with no digital register.",
+    "A digital civil registration system is procured, piloted or rolled out to some offices.",
+    "Births are registered in a digital system in service nationally.",
+    "Deaths are registered in the digital system, in service.",
+    "A source from the past three years puts the share of births registered at 90% or more."
+   ],
+   "criteria_of": "58b9425e7917"
+  }
+ ],
+ "classes": [
+  "civil",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "births",
+   "name": "Births digital",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "deaths",
+   "name": "Deaths digital",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "digital"
+   ],
+   "values": [
+    "digital"
+   ]
+  },
+  {
+   "key": "coverage",
+   "name": "Births at 90%",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "target"
+   ],
+   "values": [
+    "target"
+   ]
+  }
+ ],
+ "flags": []
+}

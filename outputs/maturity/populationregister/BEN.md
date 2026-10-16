@@ -1,0 +1,13 @@
+# Benin
+
+## Population register
+
+**Register in service.** [Banouto reports ANIP's eServices tool returns name and birth-date statistics drawn from the Registre National des Personnes Physiques 2026, covering about 14 million inhabitants](<https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance>). [ANIP is stated to manage the Registre National des Personnes Physiques, a trusted identity referential for people in Benin, whose data a tender dated 2026-08-31 seeks to exploit](<https://www.ungm.org/Public/Notice/312907>). [The ANIP director general says a part of the population is not yet enrolled in the Registre national des personnes physiques, so the register is operating and enrolling people](<https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale>).
+
+**Updated from vital events.** [ANIP says a birth declaration enters the person in the RNPP and a death automatically updates the RNPP](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>).
+
+**Source for others.** [Banouto reports the ANIP eServices portal's Explorez votre identite service takes its data from the RNPP](<https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance>). [ANIP says the RNPP is the only source for identity cards, passports and driving licences, and that phone SIM acquisition and public service platforms authenticate against the NPI](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>).
+
+***Noted, not assessed***. [Register of Beninese Abroad](<https://www.gouv.bj/article/3188/modernisation-processus-electoral-anip-devoile-plateformes-numeriques>).
+
+***Not held***. Nothing further is asked of this indicator.

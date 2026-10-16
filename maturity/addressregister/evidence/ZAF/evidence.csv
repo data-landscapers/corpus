@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,address,addressing,none,"The Conversation authors state South Africa's addressing system is still not in place and there is still no authoritative register of addresses, with unclear responsibility for address data governance.",2026-01-08,day,South Africa national addressing system,address,2026-01-08-south-africa-addressing-system-not-in-place,https://theconversation.com/south-africas-addressing-system-is-still-not-in-place-a-clear-vision-is-needed-268135

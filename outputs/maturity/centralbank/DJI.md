@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 

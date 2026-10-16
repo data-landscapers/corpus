@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,electoral,roll,inservice,"NEBE inaugurated the Mirchaye voter registration system on 5 January 2026, with voters registered by officers on Board tablets, by web self-registration or by mobile app at selected polling stations, and by manual registers at the remaining stations.",2026-01-05,day,Mirchaye,electoral,2026-01-05-nebe-mirchaye-voter-registration-system,https://nebe.org.et/en/node/1222
+ETH-002,ETH,electoral,linked,linked,NEBE says web and mobile self-registration in the Mirchaye system uses Fayda (National ID) data.,2026-01-05,day,Mirchaye,electoral,2026-01-05-nebe-mirchaye-voter-registration-system,https://nebe.org.et/en/node/1222

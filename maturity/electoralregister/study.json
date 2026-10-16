@@ -1,0 +1,120 @@
+{
+ "id": "electoralregister",
+ "study_file": "maturity-study-electoralregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--electoral-register"
+ ],
+ "carry": [
+  "dpi.registry--electoral-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "voter register",
+  "voters register",
+  "voters' register",
+  "voter roll",
+  "voters roll",
+  "voters' roll",
+  "electoral register",
+  "electoral roll",
+  "voter registration",
+  "biometric voter",
+  "BVR",
+  "BVAS",
+  "fichier électoral",
+  "liste électorale",
+  "listes électorales",
+  "révision des listes",
+  "recenseement électoral",
+  "enrôlement des électeurs",
+  "recensement électoral",
+  "caderno eleitoral",
+  "cadernos eleitorais",
+  "recenseamento eleitoral",
+  "السجل الانتخابي",
+  "القوائم الانتخابية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "electoral",
+   "label": "Electoral register",
+   "subject": "dpi.registry",
+   "text": "Electoral register: electoral register",
+   "indicator_id": "dpi.registry--electoral-register-electoral-register",
+   "class": "electoral",
+   "norm_short": "The African Charter on Democracy, Elections and Governance and the AU's election observation guidelines ask for an accurate voters' roll, open to public inspection and kept up to date.",
+   "criteria": [
+    "A source from the past three years says the voters' roll is compiled by hand for each poll.",
+    "A digital or biometric voter register is procured or piloted.",
+    "A digital or biometric voter register is in service.",
+    "The roll was published or open to voters to check, online, by text message or at centres.",
+    "The voters' roll is drawn from or checked against the national ID, population or civil register."
+   ],
+   "criteria_of": "76935d1ecf1f"
+  }
+ ],
+ "classes": [
+  "electoral",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "roll",
+   "name": "Digital roll",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "checked",
+   "name": "Open for checking",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "open"
+   ],
+   "values": [
+    "open"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked to ID",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

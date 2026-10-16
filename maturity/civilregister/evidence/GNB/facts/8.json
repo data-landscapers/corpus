@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-01-undp-guinea-bissau-newsletter-05-jan-mar-2026",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNDP says the Santa Luzia Civil Registry Office in Bissau is the first in the country to operate entirely digitally on SIREC, replacing paper registry books, and over 2.4 million records (11,745 registers) are digitised.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "SIREC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "UNDP says officials at Santa Luzia record births, marriages and deaths directly on the national platform SIREC.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "SIREC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIREC",
+   "country_label": "Guinea-Bissau",
+   "class": "civil",
+   "platform": "national electronic civil register database",
+   "owner": "Government of Guinea-Bissau (EU and Camoes Institute funded)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

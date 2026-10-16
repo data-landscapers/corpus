@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-abp-lancement-recensement-proprietaires-centres-urbains-rppcub-2026",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ABP reports the Prime Minister launched on 14 July 2026 the RPPCUB-2026 urban owner census to build a digitised, geo-referenced land register, starting in Muha, Mukaza, Ntahangwa, Gitega, Ngozi and Rumonge.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "RPPCUB-2026",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RPPCUB-2026",
+   "country_label": "BDI",
+   "class": "land",
+   "platform": "Web SIG",
+   "owner": "INSBU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

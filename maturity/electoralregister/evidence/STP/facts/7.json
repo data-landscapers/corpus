@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-09-sao-tome-prese-plataforma-recenseamento-automatico-registo-civil",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Camoes reports that an automatic voter registration platform, under development by the Universidade de Aveiro, was presented at a public session on 4 September 2025.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "plataforma de recenseamento automático",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plataforma de recenseamento automático",
+   "country_label": "Sao Tome and Principe",
+   "class": "electoral",
+   "platform": "",
+   "owner": "CEN/GTE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

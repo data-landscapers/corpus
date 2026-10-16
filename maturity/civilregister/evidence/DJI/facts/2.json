@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-01-dji-diagnostic-du-systeme-informatise-de-gestion-de-l-etat-civil-sigec-de",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The terms of reference say births in Djibouti city are entered into the SIGEC by five maternity antennas and issued by three commune centres, in operation since 2011.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "SIGEC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The terms of reference say civil-status events including deaths in Djibouti city are recorded on the software-based SIGEC, in use since 2011, and the central centre issues death extracts.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "SIGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGEC",
+   "country_label": "Djibouti",
+   "class": "civil",
+   "platform": "software developed by SDSI",
+   "owner": "Ville de Djibouti",
+   "tiers": "central civil-status centre, 3 commune centres, 5 maternity antennas"
+  }
+ ],
+ "note": ""
+}

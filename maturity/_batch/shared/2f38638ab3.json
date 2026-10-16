@@ -1,0 +1,95 @@
+{
+ "slug": "2025-01-01-pn-ravec-site-officiel",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National de l'Etat Civil (RNEC)",
+       "country_label": "Guinea",
+       "class": "civil",
+       "platform": "",
+       "owner": "PN-RAVEC",
+       "tiers": ""
+      }
+     ],
+     "note": "The page names the registers but states nothing on whether they are digital, in service or used by other systems."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre National des Personnes Physiques (RNPP)",
+       "country_label": "Guinea",
+       "class": "population",
+       "platform": "",
+       "owner": "PN-RAVEC",
+       "tiers": ""
+      }
+     ],
+     "note": "The page names the registers but states nothing on whether they are digital, in service or used by other systems."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The page says nothing on this register type."
+    }
+   }
+  }
+ }
+}

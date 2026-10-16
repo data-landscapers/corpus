@@ -1,0 +1,4 @@
+{"slug":"2025-12-02-dgi-communique-gratuite-immatriculation-nif","facts":[
+{"sub_indicator":"taxpayers","aspect":"register","value":"inservice","fact":"The DGI says NIF registration is free and that applicants should request the NIF online via the e-NIF platform or else at tax offices.","as_of":"2025-12-02","date_precision":"day","system":"e-NIF","class":"tax"},
+{"sub_indicator":"taxpayers","aspect":"shared","value":"shared","fact":"The DGI lists the Guichet Unique de Création d'Entreprise among the places where a NIF can be requested.","as_of":"2025-12-02","date_precision":"day","system":"Numéro d'Identification Fiscale (NIF)","class":"tax"}],
+"systems":[{"system":"e-NIF","country_label":"e-NIF","class":"tax","platform":"online platform e-nif.dgirdc.cd","owner":"Direction Générale des Impôts","tiers":"online and tax offices"}],"note":""}

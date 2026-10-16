@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-28-villededjibouti-sigec-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Ville de Djibouti says its civil-status events have been recorded on the SIGEC software since 2011, with the database fed continuously, and a diagnostic of it began on 28 April 2024.",
+   "as_of": "2024-04-28",
+   "date_precision": "day",
+   "system": "SIGEC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "Ville de Djibouti says civil-status events including deaths are recorded in Djibouti city on the SIGEC software, in use since 2011.",
+   "as_of": "2024-04-28",
+   "date_precision": "day",
+   "system": "SIGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGEC",
+   "country_label": "Djibouti",
+   "class": "civil",
+   "platform": "software developed by SDSI",
+   "owner": "Ville de Djibouti",
+   "tiers": "central civil-status centre, 3 commune centres, 5 maternity antennas"
+  }
+ ],
+ "note": ""
+}

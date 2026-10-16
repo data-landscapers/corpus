@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-13-birth-registration-emerges-as-foundation-for-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Vital Strategies says Rwanda moved birth registration to a decentralized, digitalized system with thousands of registration points, connected to hospitals, agencies and businesses.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Rwanda digital CRVS",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "Vital Strategies says Rwanda's CRVS, covering births and deaths, is now decentralized and digitalized.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Rwanda digital CRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

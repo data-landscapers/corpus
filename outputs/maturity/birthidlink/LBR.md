@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [Liberia's National Identification Registry executive director says it plans to link national ID with civil registration and vital statistics in one NID-CRVS system under a signed $54 million agreement with OSD that awaits parliamentary approval](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Civil register linked to ID.** [Liberia's National Identification Registry executive director says it plans to link national ID with civil registration and vital statistics in one NID-CRVS system under a signed $54 million agreement with OSD that awaits parliamentary approval](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>).
 

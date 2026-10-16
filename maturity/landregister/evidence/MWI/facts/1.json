@@ -1,0 +1,7 @@
+{"slug": "2026-08-04-malawi-reviews-digital-land-workflows", "facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Ministry of Lands is reviewing LIMS workflows and developing digital procedures to move the remaining manual land transactions onto the platform.", "as_of": "2026-08", "date_precision": "month", "system": "Land Information Management System (LIMS)", "class": "land"},
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Malawi launched LIMS in February 2024, a web-based system linking Lands, Surveys and Physical Planning where registered users can view land parcels and assets.", "as_of": "2024-02", "date_precision": "month", "system": "Land Information Management System (LIMS)", "class": "land"},
+{"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "Registered LIMS users can submit documents, receive notifications and make payments, including ground rent and application fees.", "as_of": "2026-08-04", "date_precision": "day", "system": "Land Information Management System (LIMS)", "class": "land"}
+], "systems": [
+{"system": "Land Information Management System (LIMS)", "country_label": "Malawi", "class": "land", "platform": "web-based", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": "Lands, Surveys and Physical Planning departments"}
+], "note": ""}

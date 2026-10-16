@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Directorate General of Taxation says tax registration is done exclusively online by the taxpayer, and the computer system allots a unique taxpayer number (NIU) automatically.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NIU taxpayer registration",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "The Directorate General of Taxation says registrants must give and attach their national identity card number, and the administration checks the identifying details against the attached documents.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NIU taxpayer registration",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU taxpayer registration",
+   "country_label": "Cameroon",
+   "class": "tax",
+   "platform": "DGI website",
+   "owner": "Directorate General of Taxation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

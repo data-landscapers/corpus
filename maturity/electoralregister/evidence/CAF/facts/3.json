@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-08 Central African Republic in full biometric voter registration preparations",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "The ANE was preparing a biometric voter registration drive to revise the electoral register, with GenKey software and hardware and at least 3,000 biometric enrolment tablets received.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "GenKey biometric voter system",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GenKey biometric voter system",
+   "country_label": "Central African Republic",
+   "class": "electoral",
+   "platform": "GenKey",
+   "owner": "ANE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

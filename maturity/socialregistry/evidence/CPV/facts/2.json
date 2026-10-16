@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-17-cabo-verde-apelo-registo-csu-zonas-climaticamente-vulneraveis",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Government of Cabo Verde says the Cadastro Social Unico is the base of the country's social support system and invites households in climate-vulnerable zones to register.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Cadastro Social Unico (CSU)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Cadastro Social Unico (CSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Unico (CSU)",
+   "country_label": "Cabo Verde",
+   "class": "social",
+   "platform": "",
+   "owner": "Governo de Cabo Verde",
+   "tiers": "municipal CSU services"
+  }
+ ],
+ "note": ""
+}

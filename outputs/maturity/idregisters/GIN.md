@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [The DGE and ONECI signed a convention making data of the registre national des personnes physiques the sole official source of voter identification data for the biometric electoral file, as the DGE director-general states](<https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Register keyed on ID.** [The DGE and ONECI signed a convention making data of the registre national des personnes physiques the sole official source of voter identification data for the biometric electoral file, as the DGE director-general states](<https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main registers.** No source held since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/>).
 

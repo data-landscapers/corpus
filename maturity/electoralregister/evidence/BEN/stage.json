@@ -1,0 +1,17 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "electoral",
+   "stage": "5",
+   "roll": "inservice",
+   "checked": "open",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
+  }
+ ]
+}

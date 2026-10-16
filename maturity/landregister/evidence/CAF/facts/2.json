@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-14-pnud-rca-accord-1-6-millions-digitalisation-e-cadastre",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The UNDP and the finance ministry signed a US$1.6 million agreement on 8 April 2024 that supports development of a pilot electronic land management system, the e-cadastre, to digitise the cadastre service now kept on paper, per the UNDP representative.",
+   "as_of": "2024-04-08",
+   "date_precision": "day",
+   "system": "E-cadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-cadastre",
+   "country_label": "Central African Republic",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministère des Finances et du Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

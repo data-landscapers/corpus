@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,civil,births,underway,"A joint UN pilot (UNICEF, BCNUDH, UNHCR, UNFPA, funded by the Joint SDG Fund) is under way in Masina commune, Kinshasa, deploying DHIS2 to digitally record births, marriages and deaths.",2025-08-18,day,DHIS2,civil,2025-08-18-rdc-masina-digitalisation-etat-civil,https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil

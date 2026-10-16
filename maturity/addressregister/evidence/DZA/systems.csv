@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Référentiel national d'adressage (RNA),Algeria,address,,"Commission nationale de l'adressage, Ministry of Interior, Local Authorities and Transport","national, wilaya, daira, commune",2026-06-26-dza-icilinfo-mostaganem-rna-ateliers
+DZA,Référentiel national d'adressage (RNA),Algeria,address,national geospatial platform,"Ministry of Interior, Local Authorities and Transport; national addressing commission","national, wilaya, daira, commune",2026-05-09-dza-lavoiedalgerie-timimoun-rna
+DZA,National Addressing Reference Project (RNA),Algeria,address,,Ministry of Interior; National Addressing Committee; Algerian Space Agency supporting,"national, wilaya, commune",2025-06-19-national-addressing-project-algeria-dzwatch
+DZA,Référentiel national d'adressage (RNA),Algeria,address,ASAL digital platform,"Ministry of Interior, Local Authorities and Regional Planning; Commission nationale d'adressage","national, wilaya, commune",2025-06-16-referentiel-national-adressage-rna

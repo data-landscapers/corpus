@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,taxpayers,shared,shared,"The Mozambique Revenue Authority's FAQ says the NUIT taxpayer number should be used for all incomes, including customs, and is compulsory for imports of goods and business licensing.",2025,year,NUIT,tax,2025-01-01-nuit-frequently-asked-questions,http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT
+MOZ-002,MOZ,taxpayers,shared,shared,"The Autoridade Tributária's FAQ says the NUIT must be used for all taxes, including customs duties, and is required for imports and exports and for economic-activity licensing.",2026-08-28,day,NUIT,tax,2026-08-28-at-nuit-perguntas-frequentes,http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT

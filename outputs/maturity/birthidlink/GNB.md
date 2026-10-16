@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [The Justice Minister announced that civil identification, registry and notary services will be digitised under one directorate-general, with UNDP financing a Integrated National Identification System support workshop](<https://ang.gw/justica-servicos-de-identificacao-civil-registos-e-notariado-serao-digitalizados-e-informatizados/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Civil register linked to ID.** [The Justice Minister announced that civil identification, registry and notary services will be digitised under one directorate-general, with UNDP financing a Integrated National Identification System support workshop](<https://ang.gw/justica-servicos-de-identificacao-civil-registos-e-notariado-serao-digitalizados-e-informatizados/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://ang.gw/justica-servicos-de-identificacao-civil-registos-e-notariado-serao-digitalizados-e-informatizados/>).
 

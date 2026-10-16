@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-congo-sifec-civil-status-digitisation-senate",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The interior minister told the Senate on 7 August 2026 that SIFEC, to centralise birth, marriage and death certificates, was about to be rolled out, and the article calls it a plan on the verge of deployment (Brazzaville Insider).",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "SIFEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFEC (Système intégré des faits d'état civil)",
+   "country_label": "Congo",
+   "class": "civil",
+   "platform": "software built by ACSI",
+   "owner": "Direction générale de l'administration du territoire / ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

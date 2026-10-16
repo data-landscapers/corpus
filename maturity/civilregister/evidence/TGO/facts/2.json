@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-tgo-mesptn-pdima-pilot-phase-technical-assistance-tender",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The MESPTN, with KfW financing, tendered technical assistance for a pilot of the PDiMa project to digitalise civil registration services in sixteen communes, including supervision of the civil registration information system deployment, before national roll-out.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Projet de Digitalisation des Mairies (PDiMa)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet de Digitalisation des Mairies (PDiMa)",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "civil registration information system",
+   "owner": "MESPTN",
+   "tiers": "municipal"
+  }
+ ],
+ "note": ""
+}

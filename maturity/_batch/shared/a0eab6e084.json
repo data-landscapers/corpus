@@ -1,0 +1,86 @@
+{
+ "slug": "2026-10-10-sen-ledakarois-intrants-agricoles-la-distribution-passe-au-numerique-avec-l",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ERP Pass",
+       "country_label": "ERP Pass",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Agriculture",
+       "tiers": ""
+      }
+     ],
+     "note": "Beneficiary register of subsidised inputs is one programme's own list."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  }
+ }
+}

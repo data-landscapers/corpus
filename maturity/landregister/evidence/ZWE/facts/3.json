@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-04-zimbabwe-title-deeds-validation-nationwide",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "NewsDay reports Zimbabwe launched a nationwide Title Deeds Validation and Securitisation Programme under S.I. 76 of 2025 to verify and digitise existing title deeds, announced by the Permanent Secretary of Justice.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The Permanent Secretary said conveyancers submit the title deed information through the DLAP system to the Deeds Registry for processing, after which a securitised title deed is issued.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Land Administration Platform (DLAP)",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

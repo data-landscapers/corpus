@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "3",
+   "registry": "inservice",
+   "programmes": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-001",
+   "gaps": "No source held since October 2023 says two or more programmes use the social registry.",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

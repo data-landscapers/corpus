@@ -1,0 +1,17 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "business",
+   "stage": "5",
+   "registration": "inservice",
+   "shared": "shared",
+   "owners": "recorded",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-003;MDG-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
+  }
+ ]
+}

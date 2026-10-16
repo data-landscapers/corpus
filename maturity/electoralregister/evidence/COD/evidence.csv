@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,electoral,roll,inservice,"CENI handed over the electoral file of voters enrolled in 2022, used in the December 2023 general elections, to ONIP on 19 February 2026, and the President said the enrolled voters' biometric data are available.",2026-02-19,day,fichier électoral,electoral,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite,https://actualite.cd/2026/02/19/identification-de-la-population-en-rdc-la-ceni-transmet-officiellement-le-fichier

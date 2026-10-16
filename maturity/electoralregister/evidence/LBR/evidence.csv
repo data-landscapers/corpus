@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBR-001,LBR,electoral,roll,inservice,"The paper says Liberia's NEC uses a biometric voter registration system, with 2,471,617 registered voters in 2023.",2023,year,NEC voter registration system,electoral,2025-06-01-nir-relevance-national-special-elections,https://doi.org/10.22271/allresearch.2025.v11.i6d.12680

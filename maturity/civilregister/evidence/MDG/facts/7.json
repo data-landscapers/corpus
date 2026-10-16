@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-06-last-mile-civil-registration-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PRODIGY biometric enrolment",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "Laxton kits",
+   "owner": "Government with World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "National ID enrolment; no digital civil register stated."
+}

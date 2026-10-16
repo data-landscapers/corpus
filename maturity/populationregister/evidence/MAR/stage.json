@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "population",
+   "stage": "5",
+   "register": "inservice",
+   "vital": "updated",
+   "used": "source",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-23-mrt-mauritanie-etat-civil-organisation-dun-atelier-sur-le-code-de-letat-ci",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "A magistrates' club official refers to civil-status facts recorded in the population register, which the national population register and secure documents agency runs.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "population register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "population register",
+   "country_label": "Mauritania",
+   "class": "population",
+   "platform": "",
+   "owner": "National Agency for the Population Register and Secure Documents",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec-a",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ANEC director-general Matar Ndao says modernisation covers 77% of Senegal's 629 civil registration centres, deployed in Dakar, Thies, Louga, Diourbel, Fatick and Kaolack regions, and maternity units can register births directly in ANEC's system.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "ANEC civil registration software",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sama Etat civil",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "population",
+   "stage": "5",
+   "register": "inservice",
+   "vital": "updated",
+   "used": "source",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-006",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
+  }
+ ]
+}

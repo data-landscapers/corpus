@@ -1,9 +1,160 @@
-{"slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade", "studies": {
-"authentication": {"countries": {"STP": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
-"birthidlink": {"countries": {"STP": {"facts": [], "systems": [{"system": "SIGA", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}, {"system": "Bilhete de Identidade", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}], "note": "The link described is civil registry to electoral roll, not civil register to ID system."}}},
-"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No coverage figure stated."}}},
-"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "The training concerns the new electoral platform, not the ID system's operation."}}},
-"idregisters": {"countries": {"STP": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The EU-funded PReSE project says an interoperability platform, being developed by the Universidade de Aveiro, will link the civil registry databases (SIGA and Bilhete de Identidade) to the electoral roll so voters are registered automatically.", "as_of": "2025-09-01", "date_precision": "day", "system": "Bilhete de Identidade", "class": "register"}], "systems": [{"system": "SIGA", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}, {"system": "Bilhete de Identidade", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"STP": {"facts": [], "systems": [], "note": "The ID system is named but not described as issuing unique credentials."}}}
-}}
+{
+ "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service is described."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGA",
+       "country_label": "Sao Tome and Principe",
+       "class": "other",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      },
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Sao Tome and Principe",
+       "class": "other",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      }
+     ],
+     "note": "The link described is civil registry to electoral roll, not civil register to ID system."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "No coverage figure stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The training concerns the new electoral platform, not the ID system's operation."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The EU-funded PReSE project says an interoperability platform, being developed by the Universidade de Aveiro, will link the civil registry databases (SIGA and Bilhete de Identidade) to the electoral roll so voters are registered automatically.",
+       "as_of": "2025-09-01",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGA",
+       "country_label": "Sao Tome and Principe",
+       "class": "other",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      },
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Sao Tome and Principe",
+       "class": "other",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The ID system is named but not described as issuing unique credentials."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGA",
+       "country_label": "Sao Tome and Principe",
+       "class": "civil",
+       "platform": "",
+       "owner": "DGRN",
+       "tiers": ""
+      }
+     ],
+     "note": "Civil registry systems are named and re-equipped but no digital registration of births or deaths is stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "The PReSE press note says an automatic and permanent electoral registration system is being developed by the Universidade de Aveiro, with a platform linking the civil registry databases to the electoral roll database, presented on 4 September 2025.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "plataforma de recenseamento automático",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "plataforma de recenseamento automático",
+       "country_label": "Sao Tome and Principe",
+       "class": "electoral",
+       "platform": "",
+       "owner": "CEN/GTE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

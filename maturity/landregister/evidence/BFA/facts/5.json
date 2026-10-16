@@ -1,0 +1,4 @@
+{"slug":"2025-03-21 Burkina Faso launches SYC@D land cadastre platform","facts":[
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"The Ministry of Economy and Finance says it launched SYC@D, the integrated cadastre and domain management system, on 21 March 2025 at sif.bf to process and issue land-occupation titles.","as_of":"2025-03-21","date_precision":"day","system":"SYC@D","class":"land"},
+{"sub_indicator":"land","aspect":"online","value":"online","fact":"The Ministry of Economy and Finance says users can apply for plot allocation, obtain a cadastral extract and receive provisional and definitive transfer orders online through SYC@D.","as_of":"2025-03-21","date_precision":"day","system":"SYC@D","class":"land"}],
+"systems":[{"system":"SYC@D","country_label":"Burkina Faso","class":"land","platform":"web platform at sif.bf","owner":"Ministry of Economy and Finance","tiers":"national"}],"note":""}

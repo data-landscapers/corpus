@@ -94,6 +94,35 @@
      "note": ""
     }
    }
+  },
+  "civilregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Home affairs minister Kazembe Kazembe said ongoing efforts to digitalise civil registration systems are complemented by improved mobility, with 30 vehicles commissioned for the Civil Registry Department.",
+       "as_of": "2026-09-18",
+       "date_precision": "day",
+       "system": "Civil registration systems",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Voter registration function returned to the Civil Registry; no digital roll stated."
+    }
+   }
   }
  }
 }

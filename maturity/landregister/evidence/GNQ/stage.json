@@ -1,0 +1,17 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "land",
+   "stage": "no evidence",
+   "register": "",
+   "national": "",
+   "online": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how land rights are recorded.",
+   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
+  }
+ ]
+}

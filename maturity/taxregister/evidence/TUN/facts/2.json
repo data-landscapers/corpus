@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Registre National des Entreprises says the unique identifier of each registered firm is its matricule fiscal, the tax number.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

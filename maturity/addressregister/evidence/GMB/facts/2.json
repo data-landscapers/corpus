@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-29-kmc-digital-address-codes-property-rates-kerrfatou",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Kanifing Municipal Council's GIS head says its digital address system, using Google Plus Codes displayed on compound gates, is in place across the municipality.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "KMC digital address system",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "KMC officials say the council is implementing a street-naming initiative introducing sequential street numbers.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "KMC street-naming initiative",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "used",
+   "value": "used",
+   "fact": "KMC says the Plus Codes are integrated into its property rates database and compliance mapping system, and emergency personnel are being trained to use them for navigation.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "KMC digital address system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KMC digital address system",
+   "country_label": "Kanifing Municipality",
+   "platform": "Google Plus Codes",
+   "owner": "Kanifing Municipal Council",
+   "tiers": "municipal",
+   "class": "address"
+  }
+ ],
+ "note": ""
+}

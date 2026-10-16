@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-rwanda-tax-registration-de-registration",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Rwanda Revenue Authority says RRA registers and issues a TIN at all its offices and headquarters to individuals, NGOs, joint ventures, successions and public institutions.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RRA TIN registration",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Rwanda Revenue Authority says business registration through the RDB portal, integrated with RRA systems, provides a single unique TIN.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RRA TIN registration",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RRA TIN registration",
+   "country_label": "Rwanda",
+   "class": "tax",
+   "platform": "",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

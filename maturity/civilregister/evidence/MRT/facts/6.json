@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-23-mrt-mauritanie-etat-civil-organisation-dun-atelier-sur-le-code-de-letat-ci",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "A Justice Ministry official says the national population register agency has developed a modern biometric civil-status system.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "biometric civil-status system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric civil-status system",
+   "country_label": "Mauritania",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Agency for the Population Register and Secure Documents",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-08-cabinet-approves-revised-white-paper-citizenship",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital birth and death registration is only a policy proposal in the approved White Paper, with legislation still to be drafted."
+}

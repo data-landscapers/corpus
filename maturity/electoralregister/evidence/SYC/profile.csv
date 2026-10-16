@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,electoral,roll,coverage,,,,,nothing held
+SYC,electoral,checked,coverage,open,2026,SYC-001,,
+SYC,electoral,linked,coverage,linked,2026,SYC-002,,

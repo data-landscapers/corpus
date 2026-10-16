@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-08-sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNICEF's national sub-office head says Chad has worked since 2021 to modernise civil registration through digitalisation and deployment of the TASDJIL application.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "TASDJIL",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TASDJIL",
+   "country_label": "Chad",
+   "class": "civil",
+   "platform": "application",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

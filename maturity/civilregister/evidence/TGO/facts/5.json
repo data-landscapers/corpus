@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Togo First reports an online system on the Services Publics platform for requesting copies of birth, marriage and death certificates, piloted in five municipalities, with the ministers committed to extending it nationwide.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Services Publics online civil registry",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Services Publics online civil registry",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "Services Publics platform",
+   "owner": "Government of Togo",
+   "tiers": "municipal"
+  }
+ ],
+ "note": ""
+}

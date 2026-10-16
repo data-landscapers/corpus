@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-15 South Africa plans Intelligent Population Register in proposed civil registration reform",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "South Africa's Home Affairs draft revised White Paper, open for input 12 December 2025 to 31 January 2026, proposes a digitally enabled Intelligent Population Register to modernise the National Population Register (Biometric Update).",
+   "as_of": "2025-12-12",
+   "date_precision": "day",
+   "system": "Intelligent Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Intelligent Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": "national"
+  },
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

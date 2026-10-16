@@ -1,0 +1,5 @@
+{"slug":"2025-12-15-edas-for-three-cities","facts":[
+{"sub_indicator":"address","aspect":"addressing","value":"underway","fact":"SSGI signed an agreement on 13 December 2025 with Arba Minch, Jinka and Wolayita Sodo to start preparing and implementing a digital addressing system (eDAS).","as_of":"2025-12-13","date_precision":"day","system":"eDAS","class":"address"},
+{"sub_indicator":"address","aspect":"addressing","value":"inservice","fact":"SSGI's Deputy Director General says eDAS is already being practically implemented in 73 cities across Ethiopia.","as_of":"2025-12-13","date_precision":"day","system":"eDAS","class":"address"},
+{"sub_indicator":"address","aspect":"used","value":"used","fact":"SSGI's Deputy Director General says eDAS integrates digital identification (Fayda), postal and parcel delivery services and other digital platforms.","as_of":"2025-12-13","date_precision":"day","system":"eDAS","class":"address"}
+],"systems":[{"system":"eDAS","country_label":"Ethiopia","class":"address","platform":"","owner":"Space Science and Geospatial Institute (SSGI)","tiers":"national, city"}],"note":""}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-13-procasef-financement-additionnel-60-communes",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PROCASEF states that 128 land offices were built and equipped with the SIFCOM communal land information system, and that 583,052 parcels carried a NICAD by March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "SIFCOM",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFCOM",
+   "country_label": "Système d'Information Foncière Communal",
+   "class": "land",
+   "platform": "",
+   "owner": "PROCASEF",
+   "tiers": "communal"
+  },
+  {
+   "system": "NICAD",
+   "country_label": "NICAD",
+   "class": "land",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

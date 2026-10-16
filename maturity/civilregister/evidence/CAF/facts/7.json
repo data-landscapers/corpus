@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Central African Republic's delegate said a digitalisation process backed by the European Union is at pilot phase and should extend to 40 localities in 2025.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "civil registration digitalisation pilot",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

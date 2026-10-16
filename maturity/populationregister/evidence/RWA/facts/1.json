@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-03-rwanda-integrated-civil-registration-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Population Registry",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registry",
+   "country_label": "Rwanda",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,land,register,inservice,"ANCFCC's page lists digital cadastral maps covering the whole national territory among its information assets, alongside 6,750,000 land titles and cadastral plans at end 2021.",2026,year,Mappes cadastrales numériques,land,2026-01-01-ancfcc-chiffres-cles,https://www.ancfcc.gov.ma/pr%C3%A9sentation/chiffres-cl%C3%A9s
+MAR-002,MAR,land,national,nationwide,ANCFCC states its digital cadastral maps cover the entire national territory.,2026,year,Mappes cadastrales numériques,land,2026-01-01-ancfcc-chiffres-cles,https://www.ancfcc.gov.ma/pr%C3%A9sentation/chiffres-cl%C3%A9s

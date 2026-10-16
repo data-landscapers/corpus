@@ -2,7 +2,7 @@
 
 ## Consumer protection
 
-**Rules in force.** [The National Payment System Bill, passed by the House of the People, is stated to ensure consumer protection; it awaits the Senate](<https://golekaab.so/en/bill/15>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Rules in force.** [The National Payment System Bill, passed by the House of the People, is stated to ensure consumer protection; it awaits the Senate](<https://golekaab.so/en/bill/15>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
 
 **Complaints handled.** No source held since October 2023 says a financial ombudsman or complaints unit takes complaints. The nearest held fact: [the one given above](<https://golekaab.so/en/bill/15>).
 

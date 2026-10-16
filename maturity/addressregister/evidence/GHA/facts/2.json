@@ -1,0 +1,46 @@
+{
+ "slug": "2025-10-15-ghanapostgps-mijo-ride-delivery-integration",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "The Ghana Post App Store listing says GhanaPostGPS is the official digital property addressing system giving every location a unique digital address.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "The Ghana Post App Store listing says all locations in the country are addressed.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "used",
+   "value": "used",
+   "fact": "The Ghana Post listing says version 2.1.3 lets users order a ride or request delivery to their location using their GhanaPostGPS address.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "GhanaPostGPS",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GhanaPostGPS",
+   "country_label": "Ghana",
+   "class": "address",
+   "platform": "app and web map",
+   "owner": "Ghana Post Company Limited",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

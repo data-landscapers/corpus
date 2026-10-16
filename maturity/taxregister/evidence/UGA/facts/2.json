@@ -1,0 +1,72 @@
+{
+ "slug": "2026-09-16-uga-newvision-transitioning-from-tin-to-nin-jobs-formal-markets",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "New Vision reports Uganda has used a 10-digit TIN issued by URA for every taxpayer for over two decades, and the TIN system captured just over 5 million taxpayers per URA's Christine Mirembe.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Mirembe said the government will phase out the TIN for individuals and replace it with the NIN.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "Mirembe said a Ugandan aged 16 and over will use the NIN to pay taxes, clear goods and open a business without a separate TIN.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Mirembe said the URSB registration number will become the tax identifier for companies.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "URSB registration number",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "URA",
+   "tiers": ""
+  },
+  {
+   "system": "NIN",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "URSB registration number",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "URSB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

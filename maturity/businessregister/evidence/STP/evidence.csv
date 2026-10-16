@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+STP-001,STP,business,registration,underway,"The DGRN page of Sao Tome and Principe presents a one-stop company counter (Guiche Unico para Empresa) handling company formation, alteration, dissolution, branch and sole-trader registration, with fees in dobras.",2026,year,Guiche Unico para Empresa,business,2026-01-01-sao-tome-dgrn-guiche-unico-para-empresa,https://dgrn.gov.st/reg_gue.php

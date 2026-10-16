@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,civil,births,coverage,underway,2026-07,ETH-001;ETH-003;ETH-004;ETH-005;ETH-006,,
+ETH,civil,deaths,coverage,digital,2026-07,ETH-002,,
+ETH,civil,coverage,coverage,,,,,nothing held

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,civil,births,coverage,underway,2026,NER-001;NER-002;NER-003;NER-004;NER-005;NER-006;NER-007;NER-008,,
+NER,civil,deaths,coverage,,,,,nothing held
+NER,civil,coverage,coverage,,,,,nothing held

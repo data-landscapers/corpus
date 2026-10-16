@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-24-caf-mfb-discours-ministre-digitalisation-ecadastre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-cadastre",
+   "country_label": "Central African Republic",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministère des Finances et du Budget",
+   "tiers": ""
+  }
+ ],
+ "note": "Lists the E-cadastre only among UNDP-funded applications 'developed or in development'; does not say its status."
+}

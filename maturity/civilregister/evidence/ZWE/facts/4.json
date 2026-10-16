@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-zimbabwe-african-registrars-e-passport-civil-registration-model",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Deputy Registrar General for Systems Development says all 10 provinces and 63 districts are computerised and more than 20 of 209 sub-offices have been computerised under the decentralisation programme.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Civil registration computerisation (Registrar General's Office)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil registration computerisation (Registrar General's Office)",
+   "country_label": "Zimbabwe",
+   "class": "civil",
+   "platform": "",
+   "owner": "Registrar General / Civil Registry Department",
+   "tiers": "10 provinces, 63 districts, 20+ of 209 sub-offices"
+  }
+ ],
+ "note": ""
+}

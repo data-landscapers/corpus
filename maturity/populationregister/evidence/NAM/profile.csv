@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,population,register,coverage,inservice,2026-07-18,NAM-001;NAM-003,,
+NAM,population,vital,coverage,updated,2020,NAM-004,,nothing dated since 2023-10-16
+NAM,population,used,coverage,source,2026-07-18,NAM-002;NAM-005,,

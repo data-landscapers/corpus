@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-44000-p504398-morocco-second-identity-and-targeting-fo",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The World Bank project description says it supports the implementation of the Unified Social Registry (RSU) as a unique gateway for all social safety net programmes, including in rural and remote areas.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Unified Social Registry (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry (RSU)",
+   "country_label": "Morocco",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

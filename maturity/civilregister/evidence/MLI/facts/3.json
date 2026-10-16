@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "none",
+   "fact": "DNEC states the community birth declaration chain is still paper, with village notebooks transmitted onward, and lists complete digitalisation of the system among persisting priorities.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Community village declaration chain",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Community village declaration chain (village notebooks to civil registration centres)",
+   "country_label": "MLI",
+   "class": "civil",
+   "platform": "paper",
+   "owner": "DNEC",
+   "tiers": "village agents, declaration centres, civil registration centres, DNEC"
+  }
+ ],
+ "note": ""
+}

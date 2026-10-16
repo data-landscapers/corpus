@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre National de la Population (RNP),NER,population,,ANEI,,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,Registre National de la Population (RNP),NER,population,,ANEI,,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,Registre National de la Population (RNP),NER,population,,ANEI,,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Registre National de la Population (RNP),NER,population,,ANEI,,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Registre National de la Population (RNP),Niger,population,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,RNP,Registre National de la Population,population,,ANEI,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National de la Population (RNP),Niger,population,,Ministry of the Interior; Agence nationale de l'enregistrement et d'identification des personnes physiques,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification

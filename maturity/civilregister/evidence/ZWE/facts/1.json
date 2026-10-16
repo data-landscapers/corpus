@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-chinadaily-zimbabwe-gdssc-fund-civil-registry-digitisation",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "China Daily reports a China-funded, UNICEF-partnered programme launched on 7 August 2026 is expected to support digitisation and solarisation of civil registry offices and strengthen birth registration systems in eight districts.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "Civil Registry Department civil registry offices",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registry Department civil registry offices",
+   "country_label": "Zimbabwe",
+   "class": "civil",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

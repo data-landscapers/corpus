@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** [The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09](<https://techcabal.com/2026/09/09/dlocal-ghana-secures-enhanced-payments-licence/>). [The Bank of Ghana licenses and supervises Dedicated Electronic Money Issuers; the Governor launched SaoPay as a new DEMI on 7 October 2026](<https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf>). 4 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Licensing providers.** [The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09](<https://techcabal.com/2026/09/09/dlocal-ghana-secures-enhanced-payments-licence/>). [The Bank of Ghana licenses and supervises Dedicated Electronic Money Issuers; the Governor launched SaoPay as a new DEMI on 7 October 2026](<https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf>). 4 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/09/dlocal-ghana-secures-enhanced-payments-licence/>).
 

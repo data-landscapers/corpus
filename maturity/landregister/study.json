@@ -1,0 +1,122 @@
+{
+ "id": "landregister",
+ "study_file": "maturity-study-landregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--land-register"
+ ],
+ "carry": [
+  "dpi.registry--land-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "land register",
+  "land registry",
+  "land registration",
+  "land information system",
+  "land administration",
+  "cadastre",
+  "cadastral",
+  "title deed",
+  "title deeds",
+  "land titles",
+  "land title",
+  "land records",
+  "Ardhisasa",
+  "registre foncier",
+  "conservation foncière",
+  "titre foncier",
+  "titres fonciers",
+  "cadastre numérique",
+  "livre foncier",
+  "registo predial",
+  "cadastro",
+  "direito de uso e aproveitamento da terra",
+  "DUAT",
+  "السجل العقاري",
+  "المحافظة العقارية",
+  "التحفيظ العقاري"
+ ],
+ "sub_indicators": [
+  {
+   "key": "land",
+   "label": "Land register",
+   "subject": "dpi.registry",
+   "text": "Land register: land register",
+   "indicator_id": "dpi.registry--land-register-land-register",
+   "class": "land",
+   "norm_short": "The AU Framework and Guidelines on Land Policy asks for land rights, customary tenure included, to be registered and tracked in a computerised land information system with public access.",
+   "criteria": [
+    "A source from the past three years says land rights are recorded on paper or not recorded.",
+    "Titles are being digitised or a digital cadastre or land information system is under way in some areas.",
+    "A digital title register, cadastre or land information system is in service for part of the country.",
+    "The digital land register is in service nationally or in all land offices.",
+    "Land searches, title applications or transfers can be made online."
+   ],
+   "criteria_of": "3ec0ba39c567"
+  }
+ ],
+ "classes": [
+  "land",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "register",
+   "name": "Digital register in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "national",
+   "name": "Nationwide",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "nationwide"
+   ],
+   "values": [
+    "nationwide"
+   ]
+  },
+  {
+   "key": "online",
+   "name": "Online services",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "online"
+   ],
+   "values": [
+    "online"
+   ]
+  }
+ ],
+ "flags": []
+}

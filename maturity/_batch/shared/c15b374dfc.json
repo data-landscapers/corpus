@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-20-angop-angola-lanca-cadastro-social-unico-gestao-de-accoes-sociais",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No land register is stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "ANGOP reports the Ministry of Social Action launched the Cadastro Social Único on 20 July 2026, with teams to register households using digital tools, collecting socioeconomic data with biometrics and facial recognition.",
+       "as_of": "2026-07-20",
+       "date_precision": "day",
+       "system": "Cadastro Social Único",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastro Social Único",
+       "country_label": "Angola",
+       "class": "social",
+       "platform": "",
+       "owner": "MASFAMU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

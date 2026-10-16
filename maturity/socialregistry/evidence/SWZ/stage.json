@@ -1,0 +1,17 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "2",
+   "registry": "underway",
+   "programmes": "",
+   "linked": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-001;SWZ-002",
+   "gaps": "No source held since October 2023 says: is a social registry in service.",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

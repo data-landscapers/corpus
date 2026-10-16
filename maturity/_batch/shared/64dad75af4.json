@@ -1,9 +1,248 @@
-{"slug": "2026-03-29-plfi-2026-matd-commission-des-lois-cnt", "studies": {
-"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
-"birthidlink": {"countries": {"GIN": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Guinea's territorial administration minister told the CNT law commission on 29 March 2026 that the ministry, through ONECI, is digitising civil status and setting up both the national register of natural persons (RNPP) and the national civil status register (RNEC), with digital solutions deployed in 28 communes in 2025.", "as_of": "2026-03-29", "date_precision": "day", "system": "Registre national des personnes physiques (RNPP)", "class": "crvslink"}], "systems": [{"system": "Registre national des personnes physiques (RNPP)", "country_label": "Guinea", "class": "idsystem", "platform": "", "owner": "ONECI / MATD", "tiers": ""}, {"system": "Registre national de l'Etat civil (RNEC)", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ONECI / MATD", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
-"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No ID number at birth is stated."}}},
-"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who builds or maintains the system beyond ONECI pursuing it."}}},
-"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The biometric electoral file is mentioned but not said to be drawn from or keyed on the ID number."}}},
-"idrobustness": {"countries": {"GIN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The minister said ONECI is setting up the national register of natural persons (RNPP), with a national-scale biometric census carried out in 2025.", "as_of": "2026-03-29", "date_precision": "day", "system": "Registre national des personnes physiques (RNPP)", "class": "idsystem"}], "systems": [{"system": "Registre national des personnes physiques (RNPP)", "country_label": "Guinea", "class": "idsystem", "platform": "", "owner": "ONECI / MATD", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-03-29-plfi-2026-matd-commission-des-lois-cnt",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service is mentioned."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Guinea's territorial administration minister told the CNT law commission on 29 March 2026 that the ministry, through ONECI, is digitising civil status and setting up both the national register of natural persons (RNPP) and the national civil status register (RNEC), with digital solutions deployed in 28 communes in 2025.",
+       "as_of": "2026-03-29",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI / MATD",
+       "tiers": ""
+      },
+      {
+       "system": "Registre national de l'Etat civil (RNEC)",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI / MATD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who builds or maintains the system beyond ONECI pursuing it."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The biometric electoral file is mentioned but not said to be drawn from or keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The minister said ONECI is setting up the national register of natural persons (RNPP), with a national-scale biometric census carried out in 2025.",
+       "as_of": "2026-03-29",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Guinea",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI / MATD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about addressing."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an NGO management platform is mentioned, not a business register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The MATD minister told the CNT commission that, through ONECI, it is digitising civil status and setting up the Registre national de l'Etat civil, with digital solutions deployed in 28 communes in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Registre national de l'Etat civil (RNEC)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national de l'Etat civil (RNEC)",
+       "country_label": "Guinea",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The MATD minister lists among 2025 achievements the putting in place of the biometric electoral file, while saying finalisation of the electoral process still needs funding.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "fichier électoral biométrique",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier électoral biométrique",
+       "country_label": "Guinea",
+       "class": "electoral",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about land."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The MATD minister says ONECI is pursuing the setting up of the Registre national des personnes physiques, with a biometric census at national scale in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Guinea",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about a social registry."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about taxpayers."
+    }
+   }
+  }
+ }
+}

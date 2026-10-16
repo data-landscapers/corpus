@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-44000-p504398-morocco-second-identity-and-targeting-fo",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The World Bank project description says it supports the national rollout of the National Population Registry (RNP) as a trusted source of identity with digital authentication.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "National Population Registry (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registry (RNP)",
+   "country_label": "Morocco",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

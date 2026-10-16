@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-11-niger-population-registry-legal-texts-tour",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Interior Ministry's deputy secretary general says a National Population Register (RNP) will be set up, with a first phase of enrolment in Niamey's five communal districts in the coming weeks and extension to other regions in early 2027.",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "Registre National de la Population (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "NER",
+   "class": "population",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

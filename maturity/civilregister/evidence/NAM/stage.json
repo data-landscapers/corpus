@@ -1,0 +1,17 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "civil",
+   "stage": "5",
+   "births": "inservice",
+   "deaths": "digital",
+   "coverage": "target",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-006",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
+  }
+ ]
+}

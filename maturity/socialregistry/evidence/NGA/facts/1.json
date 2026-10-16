@@ -1,0 +1,54 @@
+{
+ "slug": "2025-09-03-worldbank-nassp-su-implementation-status-results-report",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank report says over 6 million poor and vulnerable households were selected from the Social Register to receive shock responsive cash transfers.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The World Bank report says ESR-CT households are identified from the Social Registers (National Social Register and Rapid Response Register), and the Extended Regular Cash Transfer also counts households from it.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The World Bank report says a NIN validation drive for households in the Social Register began April 7 with NIMC, with over 6.7 million households visited and over 9 million NINs being verified.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Register (National Social Register)",
+   "country_label": "NGA",
+   "class": "social",
+   "platform": "",
+   "owner": "National Social Safety-Nets Coordinating Office",
+   "tiers": ""
+  },
+  {
+   "system": "Rapid Response Register",
+   "country_label": "NGA",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

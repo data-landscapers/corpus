@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-31-eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The electoral roll for the 19 July 2026 presidential election was compiled automatically from civil registry (DGRN) data under the EU-funded PRESE, and the provisional roll holds 146,510 voters, per the CEN president.",
+   "as_of": "2026-07-19",
+   "date_precision": "day",
+   "system": "Caderno eleitoral (CEN)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The provisional roll is open for public consultation from 1 to 8 August 2026 at district, regional and diaspora electoral commissions and online on the CEN website, per the CEN president.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "Caderno eleitoral provis\u00f3rio (CEN)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The roll for the 19 July 2026 presidential election was compiled automatically from data of the civil registry directorate (DGRN) for the first time.",
+   "as_of": "2026-07-19",
+   "date_precision": "day",
+   "system": "Caderno eleitoral (CEN)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Caderno eleitoral",
+   "country_label": "STP",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Comissao Eleitoral Nacional",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

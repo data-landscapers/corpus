@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "social",
+   "stage": "5",
+   "registry": "inservice",
+   "programmes": "several",
+   "linked": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
+  }
+ ]
+}

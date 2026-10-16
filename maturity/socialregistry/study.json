@@ -1,0 +1,112 @@
+{
+ "id": "socialregistry",
+ "study_file": "maturity-study-socialregistry.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--social-protection-register"
+ ],
+ "carry": [
+  "dpi.registry--social-protection-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "social registry",
+  "social register",
+  "single registry",
+  "unified registry",
+  "national household registry",
+  "household register",
+  "beneficiary registry",
+  "social protection registry",
+  "registre social unifié",
+  "registre social",
+  "registre unique",
+  "registre national unifié",
+  "RSU",
+  "cadastro social",
+  "registo social",
+  "السجل الاجتماعي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "social",
+   "label": "Social protection register",
+   "subject": "dpi.registry",
+   "text": "Social protection register: social protection register",
+   "indicator_id": "dpi.registry--social-protection-register-social-protection-register",
+   "class": "social",
+   "norm_short": "The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments.",
+   "criteria": [
+    "A source from the past three years says no social registry exists and programmes hold their own lists.",
+    "A social registry is procured, piloted or being populated in some districts.",
+    "A social registry is in service.",
+    "Two or more social programmes choose who receives support from the social registry.",
+    "The social registry is linked to or checked against the national ID."
+   ],
+   "criteria_of": "bc1c8abaa79e"
+  }
+ ],
+ "classes": [
+  "social",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "registry",
+   "name": "Registry in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "programmes",
+   "name": "Several programmes",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "linked",
+   "name": "Linked to ID",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

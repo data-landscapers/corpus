@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-29-aujourdhui-registre-national-etat-civil-digital",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Interior Ministry says its civil-status modernisation programme is building a database of over 55 million civil-status acts since 1915 as the basis for an eventual national civil-status register.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "Registre national de l'etat civil (planned)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de l'etat civil (planned)",
+   "country_label": "Morocco",
+   "class": "population",
+   "platform": "central electronic database",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

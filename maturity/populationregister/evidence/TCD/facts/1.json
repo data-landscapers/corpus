@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-10-atpe-finances-anats-protocole-consultation-donnees",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANATS's director-general says the government has deployed an integrated population and secure-titles management system whose base is the registre national biométrique des populations, designed to guarantee each person's uniqueness.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "registre national biométrique des populations",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The Ministry of Finance and ANATS signed a protocol giving the ministry a secured channel to consult data from the registre national biométrique des populations for identification and verification in administrative, budgetary and financial processes, and the ANATS director-general says all public and private administrations will be able to connect to it.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "registre national biométrique des populations",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre national biométrique des populations",
+   "country_label": "Chad",
+   "class": "population",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

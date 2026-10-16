@@ -1,0 +1,12 @@
+{"slug": "2026-05-08-ursb-non-individual-register-launch", "studies": {
+"addressregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Physical addresses are entered in the register but no addressing system is described."}}},
+"businessregister": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "URSB's centralised digital Non-Individual Register, issuing each entity a unique Entity Registration Number, is in its final stages of testing with full rollout expected by June 2026, URSB officials say.", "as_of": "2026-05-07", "date_precision": "day", "system": "Non-Individual Register (NIR)", "class": "business"}],
+"systems": [{"system": "Non-Individual Register (NIR)", "country_label": "Uganda", "class": "business", "platform": "", "owner": "Uganda Registration Services Bureau", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not cover civil registration."}}},
+"electoralregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not cover the voters' roll."}}},
+"landregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not cover land registration."}}},
+"populationregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not cover a population register."}}},
+"socialregistry": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not cover a social registry."}}},
+"taxregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not say the ERN is a taxpayer number or that a taxpayer register is built."}}}
+}}

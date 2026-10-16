@@ -1,9 +1,175 @@
-{"slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp", "studies": {
-"birthidlink": {"countries": {"NER": {"facts": [
-{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Niger's director general of territorial administration announced reforms creating the ANEI agency for registration and identification of natural persons, a National Population Register and a National Civil Status Register, with secure interconnection of the systems.", "as_of": "2026-09-03", "date_precision": "day", "system": "ANEI / Registre National de la Population", "class": "crvslink"}
-], "systems": [{"system": "Registre National de la Population", "country_label": "Niger", "class": "idsystem", "platform": "WURI-Niger", "owner": "ANEI", "tiers": ""}], "note": ""}}},
-"idfrombirth": {"countries": {"NER": {"facts": [], "systems": [], "note": "A unique number for each registered person is planned, but the document does not tie it to birth registration."}}},
-"idrobustness": {"countries": {"NER": {"facts": [
-{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Niger is modernising its national identification system under WURI-Niger with World Bank support, with a first registration phase to start soon in Niamey and extend to the regions, says the director general of territorial administration.", "as_of": "2026-09-03", "date_precision": "day", "system": "Registre National de la Population", "class": "idsystem"}
-], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Niger's director general of territorial administration announced reforms creating the ANEI agency for registration and identification of natural persons, a National Population Register and a National Civil Status Register, with secure interconnection of the systems.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "ANEI / Registre National de la Population",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "WURI-Niger",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A unique number for each registered person is planned, but the document does not tie it to birth registration."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Niger is modernising its national identification system under WURI-Niger with World Bank support, with a first registration phase to start soon in Niamey and extend to the regions, says the director general of territorial administration.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Registre National de la Population",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact stated for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Niger's director general of territorial administration said on 2026-09-03 that progressive computerisation of communes and declaration centres and a sovereign platform for a National Civil Status Register are among the reform workstreams, with a first registration phase soon in Niamey.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Registre National d'Etat Civil",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNEC",
+       "country_label": "Registre National d'Etat Civil",
+       "class": "civil",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": "Births registered stated at 79.63%, below 90%, so no coverage fact."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Niger's director general of territorial administration said on 2026-09-03 that the reforms include creating a National Population Register, to become a single interoperable referential, with a unique number for each person.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Registre National de la Population",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNP",
+       "country_label": "Registre National de la Population",
+       "class": "population",
+       "platform": "",
+       "owner": "ANEI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

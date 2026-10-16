@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "ANIP says it is in charge of the electoral file and that the electoral list is available in a few clicks.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fichier electoral",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "ANIP says its USSD channel is used massively for consulting and transferring electors.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fichier electoral",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "ANIP says a death recorded in the RNPP automatically removes the person from the electoral lists.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier electoral",
+   "country_label": "Benin",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

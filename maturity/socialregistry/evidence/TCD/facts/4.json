@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-inseed-registre-social-unifie-9eme-arrondissement-ndjamena",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "INSEED reports that on 6 January 2026 authorities of N'Djamena's 9th arrondissement were briefed ahead of a household enrolment operation to extend the Registre Social Unifié, with WFP joining the mission.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unifié (RSU)",
+   "country_label": "Tchad",
+   "class": "social",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

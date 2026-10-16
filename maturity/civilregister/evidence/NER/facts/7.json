@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Le Sahel reports that the restructured WURI project will fund computerisation of all communes and declaration centres and a new digital platform for civil-status events, aiming at a national civil register (RNEC); only 66% of births are declared.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National d'Etat Civil (RNEC)",
+   "country_label": "Niger",
+   "class": "civil",
+   "platform": "",
+   "owner": "Direction Generale de l'etat civil, des migrations et des refugies",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Nationalites (RNN)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,112 @@
+{
+ "id": "populationregister",
+ "study_file": "maturity-study-populationregister.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.registry"
+ ],
+ "stage_topic": "dpi.registry",
+ "redraws": [
+  "dpi.registry--population-register"
+ ],
+ "carry": [
+  "dpi.registry--population-register"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 13000000,
+ "terms": [
+  "base register",
+  "base registers",
+  "registres de base",
+  "national registry",
+  "digital registry",
+  "digital register",
+  "registre numérique",
+  "registre national",
+  "population register",
+  "population registry",
+  "population registers",
+  "population database",
+  "national population register",
+  "population and civil registration",
+  "registre de la population",
+  "registre national des personnes",
+  "fichier de la population",
+  "RNPP",
+  "RAVEC",
+  "fichier national",
+  "registo da população",
+  "base de dados da população",
+  "السجل الوطني للسكان",
+  "سجل السكان"
+ ],
+ "sub_indicators": [
+  {
+   "key": "population",
+   "label": "Population register",
+   "subject": "dpi.registry",
+   "text": "Population register: population register",
+   "indicator_id": "dpi.registry--population-register-population-register",
+   "class": "population",
+   "norm_short": "The African Union's Digital Transformation Strategy puts an electronic population register first among the base registers, continuously updated from civil registration.",
+   "criteria": [
+    "A source from the past three years says no population register exists.",
+    "A population register is being built, procured or provided for in a new law.",
+    "A population register, or a national ID register serving as one, is in service.",
+    "Births or deaths registered are entered in the population register.",
+    "Other registers or services take people's records from the population register."
+   ],
+   "criteria_of": "431274abb7a8"
+  }
+ ],
+ "classes": [
+  "population",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "register",
+   "name": "Register in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "vital",
+   "name": "Updated from vital events",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "updated"
+   ],
+   "values": [
+    "updated"
+   ]
+  },
+  {
+   "key": "used",
+   "name": "Source for others",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "source"
+   ],
+   "values": [
+    "source"
+   ]
+  }
+ ],
+ "flags": []
+}

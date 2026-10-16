@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PRODIGY biometric enrolment (Izaho Tokana)",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "biometric kits",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Biometric ID enrolment; no digital civil register stated."
+}
