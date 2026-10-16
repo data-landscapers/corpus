@@ -1,19 +1,19 @@
 ---
-title: Mauritania — monthly update, September – October 2026
+title: Mauritania — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: MRT
 ledger_rows: 22
 not_held: 3
-record: bae81f4df3a7
+record: 70826f858b51
 ---
 
-# Mauritania: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Mauritania</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Mauritania">
 <a href="https://corpus.data-landscapers.io/reports/MRT/MRT-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

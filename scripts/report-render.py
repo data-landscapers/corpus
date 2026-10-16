@@ -754,7 +754,7 @@ def month_bounds(month, window=1, end=None):
     return datetime.date(sy, sm, 1).isoformat(), max(end or close, close)
 
 
-def month_span(start, end):
+def month_span(start, end, short=False):
     """"July – August 2026" for a window that crosses a month boundary, "July 2026" for one that
     does not; the year is printed once where both months share it.
 
@@ -764,11 +764,12 @@ def month_span(start, end):
     artefact: a report that now reaches into September is not the report that stopped in August."""
     a = datetime.date.fromisoformat(start)
     b = datetime.date.fromisoformat(end)
+    m = "%b" if short else "%B"   # the place monthly's title: "Sep – Oct 2026" (Bill, 2026-10-16)
     if (a.year, a.month) == (b.year, b.month):
-        return a.strftime("%B %Y")
+        return a.strftime(f"{m} %Y")
     if a.year == b.year:
-        return f"{a.strftime('%B')} – {b.strftime('%B %Y')}"
-    return f"{a.strftime('%B %Y')} – {b.strftime('%B %Y')}"
+        return f"{a.strftime(m)} – {b.strftime(f'{m} %Y')}"
+    return f"{a.strftime(f'{m} %Y')} – {b.strftime(f'{m} %Y')}"
 
 
 """**There is no such thing as a July issue** *(Bill, 2026-08-14)*.
@@ -1322,7 +1323,8 @@ def sibling_nav(unit):
     # Headed by its own small caps, ruled off, above the page's title *(Bill, 2026-10-16)*.
     # One raw block with no blank line inside, so Markdown passes it through whole and
     # `render.py` can lift it above the header.
-    family = "Region reports" if unit.startswith("X") else "Country reports"
+    family = (f"Region reports: {place_name(unit)}" if unit.startswith("X")
+              else f"Country reports: {place_name(unit)}")
     return ['<div class="report-family">',
             f'<div class="report-family__kicker">{family}</div>',
             f'<nav class="article-toc report-siblings" aria-label="Other reports for '
@@ -1457,11 +1459,13 @@ def render_monthly(unit, today, month, end=None):
     # 25 August named the smaller half of its own window and read as an out-of-date page. Where the
     # window has not yet crossed a month boundary — a report cut inside the month it opens in —
     # `span()` prints the single month, because "July – July 2026" is a range of one.
-    pretty = month_span(start, end)
+    # **The page title drops the place** *(Bill, 2026-10-16)*: the heading above it names it. The
+    # frontmatter title keeps it, because it is the browser tab, the PDF and the search result.
+    pretty = month_span(start, end, short=True)
     if not changed:
         out = front(f"{name} — monthly update, {pretty}", today, unit, 0, not_held,
                     period=f"{start} to {CLOSE}") + [
-            f"# {name}: monthly update, {pretty}",
+            f"# Monthly update, {pretty}",
             "",
             f"*Nothing moved. No system or instrument on {name}'s ledger took a new position from "
             f"a source published between {start} and {CLOSE}. An absence of movement is a finding "
@@ -1478,7 +1482,7 @@ def render_monthly(unit, today, month, end=None):
     body, items = monthly_body(unit, changed, ordered, subj, start, end)
     out = front(f"{name} — monthly update, {pretty}", today, unit, len(changed), not_held,
                 period=f"{start} to {CLOSE}") + [
-        f"# {name}: monthly update, {pretty}",
+        f"# Monthly update, {pretty}",
         "",
         # **The window is described, not dated** *(Bill, 2026-08-25)*: the dates are already in
         # the title and `period:`, and this is the sentence the country page's blurb agrees with.

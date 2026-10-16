@@ -1,19 +1,19 @@
 ---
-title: Zimbabwe — monthly update, September – October 2026
+title: Zimbabwe — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: ZWE
 ledger_rows: 39
 not_held: 7
-record: 7f39c25933aa
+record: 0272eede769f
 ---
 
-# Zimbabwe: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Zimbabwe</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Zimbabwe">
 <a href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

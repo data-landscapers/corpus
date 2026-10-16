@@ -84,6 +84,8 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **A published file is never revised.** `documentation/design.md` §9 is the full rule and the scripts implement it: the dated CSVs and PDFs under `site/` are citable artefacts, so a rebuild that rewrites one in place has broken something even when the content is identical. `RENDER.md` → *The finance tables* carries the trap this most often springs through — line endings under a Cowork build.
 
+**A redesign cuts no edition** *(Bill, 2026-10-16)*. When pages change layout, headings or chrome and not their material, render with `render.py --redesign` (or `--repage` where the source has not moved): the page is rewritten under the edition it already serves. Never `--force` for a redesign, and never preview with `--no-pdf` into `site/` — it names an edition it does not cut; preview with `--out` into scratch.
+
 ## The change log
 
 **A change a reader could notice gets an entry in `content/changelog.md` in the same commit** *(Bill, 2026-09-17)*: a new feature, a page or link that moves, a correction across many reports. Routine builds and renders, and changes readers cannot see, get none. Dated to the day under a `## D Month YYYY` heading, newest first; **two terse sentences an entry** — what changed, then what it means for the reader. `scripts/methodology.py` publishes it at `/methodology/changelog/` on the next render. **OSINT drafts its own entries** and sends them as a `notes-for-corpus` note titled *Add to change log* (`notes-for-osint` 142): add them as sent, editing only for length or house style, and close the note.

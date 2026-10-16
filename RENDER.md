@@ -60,7 +60,7 @@ git rev-parse HEAD > BUILT-FROM
 
 ## Step 2 — render every report to HTML + PDF
 
-`render.py` writes HTML + PDF into `site/…`, the output tree taken from the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition and is a decision, not a habit.
+`render.py` writes HTML + PDF into `site/…`, the output tree taken from the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition; a redesign is `--redesign` (`CLAUDE.md` → *Editions*).
 
 ```bash
 rendered=0; failed=0

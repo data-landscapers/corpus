@@ -1,19 +1,19 @@
 ---
-title: Mali — monthly update, September – October 2026
+title: Mali — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: 73caae74defa
+record: 450f9ba14b47
 ---
 
-# Mali: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Mali</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Mali">
 <a href="https://corpus.data-landscapers.io/reports/MLI/MLI-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

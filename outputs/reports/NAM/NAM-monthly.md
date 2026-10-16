@@ -1,19 +1,19 @@
 ---
-title: Namibia — monthly update, September – October 2026
+title: Namibia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: NAM
 ledger_rows: 32
 not_held: 9
-record: bfc9cee0bd04
+record: 42c6b1f928fb
 ---
 
-# Namibia: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Namibia</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Namibia">
 <a href="https://corpus.data-landscapers.io/reports/NAM/NAM-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

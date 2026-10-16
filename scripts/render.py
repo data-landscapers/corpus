@@ -973,7 +973,7 @@ def held_edition(md_path: Path, out_dir: Path, rec: str) -> str | None:
 
 def render(md_path: Path, out_dir: Path, edition: str | None = None,
            pdf: bool = True, force: bool = False,
-           repage: bool = False) -> tuple[Path, Path | None, bool]:
+           repage: bool = False, redesign: bool = False) -> tuple[Path, Path | None, bool]:
     """Render the document, or leave its standing edition alone. Returns `(html, pdf, minted)`.
 
     **An edition is cut when the content changes, not when a build runs** (design.md §9). RENDER
@@ -1028,6 +1028,16 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     today = date.today().isoformat()
 
     held = None if (edition or force) else held_edition(md_path, out_dir, rec)
+    # **A redesign is not an edition** *(Bill, 2026-10-16)*. When a page's layout or headings
+    # change and its material has not, the document's source moves but nothing a reader cites
+    # has: `--redesign` keeps the edition the page already serves and repages under it. The page
+    # records the new source digest, so the next ordinary render holds too.
+    if held is None and redesign and not (edition or force):
+        html_path = out_dir / f"{stem_html_of(md_path)}.html"
+        served = html_path.read_text(encoding="utf-8") if html_path.exists() else ""
+        hit = PRIOR_EDITION.search(served)
+        if hit:
+            held, repage = hit.group(1), True
     if held is not None:
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
@@ -1177,6 +1187,8 @@ def main() -> int:
     # nothing. See render() for why an undated HTML view is not what §9 protects.
     ap.add_argument("--repage", action="store_true",
                     help="rewrite the served page under the held edition; no PDF, no new edition")
+    ap.add_argument("--redesign", action="store_true",
+                    help="as --repage, even where the source moved: for a layout change, never content")
     args = ap.parse_args()
 
     src = args.markdown if args.markdown.is_absolute() else CORPUS / args.markdown
@@ -1188,7 +1200,7 @@ def main() -> int:
     out_dir = SITE / rel if args.out is None else args.out / rel.split("/")[-1]
     html_path, pdf_path, minted = render(src, out_dir, args.edition,
                                          pdf=not args.no_pdf, force=args.force,
-                                         repage=args.repage)
+                                         repage=args.repage, redesign=args.redesign)
 
     print(f"source   {src.relative_to(CORPUS)}")
     if not minted:

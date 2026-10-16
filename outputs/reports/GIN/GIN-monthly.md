@@ -1,19 +1,19 @@
 ---
-title: Guinea — monthly update, September – October 2026
+title: Guinea — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: GIN
 ledger_rows: 20
 not_held: 4
-record: 68059ba4f353
+record: 53602c0b05c9
 ---
 
-# Guinea: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Guinea</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Guinea">
 <a href="https://corpus.data-landscapers.io/reports/GIN/GIN-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

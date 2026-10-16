@@ -1,19 +1,19 @@
 ---
-title: Cameroon — monthly update, September – October 2026
+title: Cameroon — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: CMR
 ledger_rows: 31
 not_held: 4
-record: d4f0471bc04f
+record: 405fbc523c68
 ---
 
-# Cameroon: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Cameroon</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Cameroon">
 <a href="https://corpus.data-landscapers.io/reports/CMR/CMR-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

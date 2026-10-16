@@ -1,19 +1,19 @@
 ---
-title: Gabon — monthly update, September – October 2026
+title: Gabon — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: GAB
 ledger_rows: 48
 not_held: 15
-record: fee4ac153d5c
+record: 2f3dbc0edd48
 ---
 
-# Gabon: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Gabon</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Gabon">
 <a href="https://corpus.data-landscapers.io/reports/GAB/GAB-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

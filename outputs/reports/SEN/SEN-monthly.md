@@ -1,19 +1,19 @@
 ---
-title: Senegal — monthly update, September – October 2026
+title: Senegal — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: SEN
 ledger_rows: 57
 not_held: 3
-record: 92a4d0efc7d7
+record: e498db68ddeb
 ---
 
-# Senegal: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Senegal</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Senegal">
 <a href="https://corpus.data-landscapers.io/reports/SEN/SEN-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>

@@ -1,19 +1,19 @@
 ---
-title: East Africa — monthly update, September – October 2026
+title: East Africa — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: XEA
 ledger_rows: 20
 not_held: 0
-record: 6b5ac417b47d
+record: 9ce3957b633f
 ---
 
-# East Africa: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Region reports</div>
+<div class="report-family__kicker">Region reports: East Africa</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for East Africa">
 <a href="https://corpus.data-landscapers.io/reports/XEA/XEA-progress.html">Progress</a>
 </nav>

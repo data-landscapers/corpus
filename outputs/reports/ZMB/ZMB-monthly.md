@@ -1,19 +1,19 @@
 ---
-title: Zambia — monthly update, September – October 2026
+title: Zambia — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: ZMB
 ledger_rows: 42
 not_held: 43
-record: f058761a9725
+record: 615953cf39c3
 ---
 
-# Zambia: monthly update, September – October 2026
+# Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <div class="report-family">
-<div class="report-family__kicker">Country reports</div>
+<div class="report-family__kicker">Country reports: Zambia</div>
 <nav class="article-toc report-siblings" aria-label="Other reports for Zambia">
 <a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status.html">Status</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
