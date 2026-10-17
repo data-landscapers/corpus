@@ -1,10 +1,11 @@
 ---
-title: Guinea: who hosts the state's front door
+title: Guinea web and email hosting
+place: GIN
 subtitle: compiled by Claude Opus 5.5 from a scan of public internet records
 scan_date: 2026-09-29
 ---
 
-# Guinea: who hosts the state's front door
+# Web and email hosting
 
 <nav class="article-toc" aria-label="Institution hosting views">
 <a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Dataset</a>

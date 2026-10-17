@@ -60,8 +60,9 @@ KIND_LABEL = {
     "status": "Status report",
     "monthly": "News",               # the monthly update, renamed (Bill, 2026-10-17)
     # The hyperscaler scan's country fact sheet, published by `hyperscaler-publish.py` from
-    # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30).
-    "hosting": "Institution hosting",
+    # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30); renamed from Institution
+    # hosting (Bill, 2026-10-17).
+    "hosting": "Online hosting",
     # A country's budgets and non-state finance together (`finance-report.py`, Bill 2026-10-16).
     "finance": "Finance",
     "bulletin": "",
@@ -339,8 +340,8 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
 FAMILY = (("status", "Status"), ("monthly", "News"),
-          ("finance", "Finance"), ("hosting", "Institution hosting"), ("maturity", "Maturity"))
-FAMILY_PAGES = {"status", "monthly", "finance"}
+          ("finance", "Finance"), ("hosting", "Online hosting"), ("maturity", "Maturity"))
+FAMILY_PAGES = {"status", "monthly", "finance", "hosting"}
 
 
 def family_page(unit: str, kind: str) -> tuple[str, Path]:
@@ -660,7 +661,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # A document that brings its own contents keeps them: the country and region monthlies carry
     # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
     pre_header = report_family(md_path, kind, meta)
-    if kind in ("status", "monthly", "finance") and "monthly-toc" not in html_body:
+    if kind in ("status", "monthly", "finance", "hosting") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
             bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)

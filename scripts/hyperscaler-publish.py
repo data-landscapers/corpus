@@ -7,7 +7,7 @@ r"""hyperscaler-publish.py — the 54 hyperscaler fact sheets as country reports
 Reads `R&D/Hyperscaler-dependence/scan/{ISO3}/report.md` (written by `hyperscaler-report.py`) and
 writes `scan/{ISO3}/{ISO3}-hosting.md` beside it, which `render.py` publishes as
 `site/reports/{ISO3}/{ISO3}-hosting.html` and a dated PDF, and `country.py` lists as the
-*Institution hosting* report. The source stays under `R&D/`: `render.py` takes the site directory
+*Online hosting* report. The source stays under `R&D/`: `render.py` takes the site directory
 from the filename's unit, and `outputs/reports/` is read by a dozen scripts that expect the three
 ledger kinds only.
 
@@ -15,6 +15,8 @@ What changes on the way *(Bill, 2026-09-30)*:
 
 - **Byline**: compiled by Claude Opus 5.5, in the frontmatter `subtitle` the renderer prints.
   The fact sheet's own date-and-author line is dropped.
+- **Title**: "{Country} web and email hosting", with a `place:` that puts the page under the
+  country reports' heading, which names the country, so the H1 does not *(Bill, 2026-10-17)*.
 - **The claimable names are counted, not attributed.** The fact sheet names the institutions
   whose web addresses point at a deleted cloud name; the published report says how many, as the
   methodology promises. Naming them narrows an attacker's search to a handful of estates.
@@ -69,7 +71,7 @@ def publish(iso: str) -> Path:
     # the byline under the h1: "29 September 2026 · Bill Anderson · scan of …"
     lines = [ln for ln in lines if not (ln and "·" in ln and not ln.startswith(("#", "|", "-", "!")))]
     body = "\n".join(lines) + "\n"
-    body = body.replace(h1 + "\n", h1 + "\n\n" + VIEWS, 1)
+    body = body.replace(h1 + "\n", "# Web and email hosting\n\n" + VIEWS, 1)
 
     body = CLAIMABLE.sub(count_names, body)
     body = body.replace("Of the 54 countries scanned so far,", "Of the 54 countries scanned,")
@@ -86,7 +88,8 @@ def publish(iso: str) -> Path:
 
     out = d / f"{iso}-hosting.md"
     front = ("---\n"
-             f"title: {h1[2:].strip()}\n"
+             f"title: {country} web and email hosting\n"
+             f"place: {iso}\n"
              f"subtitle: {BYLINE}\n"
              f"scan_date: {meta.get('scan_date', '').strip()}\n"
              "---\n\n")

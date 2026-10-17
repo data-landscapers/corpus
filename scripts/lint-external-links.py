@@ -140,7 +140,8 @@ def check_builders(scripts: Path) -> list[str]:
         text = src.read_text(encoding="utf-8", errors="replace")
         if "chrome_lib" not in text or "write_text" not in text:
             continue
-        if "external_links" not in text:
+        # `datatable_bake.table_page()` runs the post-pass itself, so writing through it counts.
+        if "external_links" not in text and "table_page(" not in text:
             problems.append(f"scripts/{src.name}: builds pages from chrome_lib and writes "
                             f"them without external_links() — see house-style.md -> Links")
     return problems
