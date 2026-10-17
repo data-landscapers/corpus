@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: NGA
 ledger_rows: 154
 not_held: 9
-record: 3a37cc38013c
+record: 7fbea759f7b3
 ---
 
 # News, Sep – Oct 2026
@@ -2406,7 +2406,7 @@ NASENI launched the Xceler8 accelerator with AfriLabs on 2 September, offering u
 
 <div class="bulletin-item" markdown="1">
 
-**[EU Seeks Broader Support for African Entrepreneurs](https://von.gov.ng/eu-seeks-broader-support-for-african-entrepreneurs/)** — Voice of Nigeria, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[EU Seeks Broader Support for African Entrepreneurs](https://von.gov.ng/eu-seeks-broader-support-for-african-entrepreneurs/)** — Voice of Nigeria, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The EU used the Boost Africa Impact Forum in Abuja to argue that access to finance realises African entrepreneurial potential only alongside technical expertise, networks and an enabling business environment. Its ambassador said the initiative, run with the European Investment Bank and the African Development Bank, has attracted more than EUR100 million; the figure is cumulative rather than a dated commitment.
 

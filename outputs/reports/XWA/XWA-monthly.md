@@ -3,9 +3,9 @@ title: West Africa — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: XWA
-ledger_rows: 28
+ledger_rows: 29
 not_held: 1
-record: c3da9c3d5a41
+record: f37280a23315
 ---
 
 # News, Sep – Oct 2026
@@ -521,6 +521,28 @@ The West African central bank doubled the ceiling on electronic money one client
 **[BCEAO to Double Mobile Money Account Limit to CFAF 4 Million](https://www.togofirst.com/en/finance/1210-20312-bceao-to-double-mobile-money-account-limit-to-cfaf-4-million)** — Togo First, 12 October 2026
 
 The West African central bank's new instruction doubles the cap on electronic money one client may hold at one issuer to FCFA 4 million, from a limit set in 2015. Issuers must now keep at least 65% of their float in demand deposits, down from 75%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BCEAO Financial Innovation Laboratory (LIF-BCEAO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guide du Candidat au Laboratoire d’Innovation Financière de la BCEAO (LIF-BCEAO)](https://www.bceao.int/sites/default/files/inline-files/Guide_du_candidat_au_LIF-BCEAO.pdf)** — Banque Centrale des États de l’Afrique de l’Ouest (BCEAO), 14 October 2026
+
+Sandbox eligibility, application file, 3-6 month tests, consumer-protection and exit rules; payments to biometric KYC.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The BCEAO opens its tests to fintechs, applications expected before November 30.](https://beninwebtv.com/en/the-bceao-opens-its-tests-to-fintechs-applications-expected-before-november-30/)** — Benin Web TV, 16 October 2026
+
+First LIF-BCEAO cohort; apply by 30 Nov 2026; crypto excluded; certificate after test is no licence.
 
 </div>
 

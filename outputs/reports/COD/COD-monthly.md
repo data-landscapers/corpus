@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: COD
-ledger_rows: 57
+ledger_rows: 58
 not_held: 7
-record: 787029cc4ac5
+record: bcc5b4d0048f
 ---
 
 # News, Sep – Oct 2026
@@ -142,7 +142,7 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 
 <div class="bulletin-item" markdown="1">
 
-**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
@@ -741,6 +741,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[RDC/Impôt : la DGI déploie un contrôle rigoureux de la facture normalisée après la fin du moratoire](https://rdc-monde.com/rdc-impot-la-dgi-deploie-un-controle-rigoureux-de-la-facture-normalisee-apres-la-fin-du-moratoire/)** — Magazine RD CONGO-MONDE, 9 October 2026
 
 The DRC's tax directorate began nationwide checks of the standardised invoice on 5 October, after the moratorium ended. Consumers are asked to verify invoices by QR code in the official application, with rewards for verified reports of non-compliance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Finance inspectorate's national financial-data hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation en RDC : l’IGF lance le recrutement d’un cabinet pour son Hub national de données financières - Scoop RDC](https://scooprdc.net/2026/10/14/digitalisation-en-rdc-ligf-lance-le-recrutement-dun-cabinet-pour-son-hub-national-de-donnees-financieres/)** — Scoop RDC, 14 October 2026
+
+Call for firms to build IGF's central financial-data warehouse; 12-month mission, bids due 30 October 2026.
 
 </div>
 

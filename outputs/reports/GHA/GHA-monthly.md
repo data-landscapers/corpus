@@ -3,9 +3,9 @@ title: Ghana — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: GHA
-ledger_rows: 106
+ledger_rows: 107
 not_held: 9
-record: 179507ac7fa6
+record: dc20abc5c2bc
 ---
 
 # News, Sep – Oct 2026
@@ -1920,6 +1920,20 @@ South Korea's ambassador to Ghana, Kyongsig Park, told the Ghanaian Times that t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DigiMarkt Erasmus+ digital labs at three technical universities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU injects €250,000 into Ghana’s TVET digital labs to boost skills training](https://www.modernghana.com/news/1536361/eu-injects-250000-into-ghanas-tvet-digital-labs.html)** — ModernGhana, 15 October 2026
+
+Erasmus+ DigiMarkt; three 25-seat labs at USTED, Cape Coast and Bolgatanga TUs; 450 students trained.
+
+</div>
+
+</div>
+
 ### Research institutions
 
 <div class="monthly-story" markdown="1">
@@ -1960,7 +1974,7 @@ Ghana's education minister Haruna Iddrisu disclosed a US$30 million grant from C
 
 <div class="bulletin-item" markdown="1">
 
-**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The Global Development Network has begun fieldwork on a five-country DPI Inclusivity Survey covering Sierra Leone and Ghana alongside Chile, Bangladesh and Indonesia, with partner teams at the Institute for Development and the University of Ghana. Running to April and engaging more than 5,000 households, it asks whether digital identity and digital payment systems leave people feeling more economically, socially and politically included, rather than measuring registration and access.
 
@@ -2027,6 +2041,14 @@ After inspecting rural telephony sites on 13 October, Ghana's communications min
 **[Government to audit 2,016 community network sites – Communications Minister](https://www.myjoyonline.com/government-to-audit-2016-community-network-sites-communications-minister/)** — MyJoyOnline, 14 October 2026
 
 Ghana's communications minister Samuel Nartey George said the government will commission an independent audit of 2,016 community network sites inherited under an existing contract, to establish which are complete and working. He made the statement after inspecting four solar-powered rural telephony sites in Sekyere Afram Plains District on 13 October, which he said should be upgraded from 3G to 4G.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George gives contractors 30 days to finish rural telephony sites or face penalties](https://www.adomonline.com/sam-george-gives-contractors-30-days-to-finish-rural-telephony-sites-or-face-penalties/)** — Adom Online, 17 October 2026
+
+Contractors already paid in full; emergency GIFEC meeting; 4,000+ fibre cuts by June 2026.
 
 </div>
 

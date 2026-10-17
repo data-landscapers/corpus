@@ -1471,6 +1471,11 @@ def check_asof(unit):
         # reads against it, and answered by BUILD revising the section.
         if init and fn.endswith("-status.md"):
             continue
+        # The finance report is not a rendering of this ledger either *(2026-10-17)*: it is
+        # `finance-report.py`'s, built from the budget and deal tables at RENDER, so a ledger
+        # move cannot date it and no run of this renderer can clear the failure it raised.
+        if fn.endswith("-finance.md"):
+            continue
         text = open(os.path.join(folder, fn), encoding="utf-8").read()
         m = re.search(r"^compiled:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
         against = newest_monthly if fn.endswith("-monthly.md") else newest
