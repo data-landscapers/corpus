@@ -1,3 +1,7 @@
+## 17 October 2026
+
+- The Maturity Assessment now updates from the news: 810 stories published since each indicator was assessed were read, and 253 country assessments moved. Each move is shown with its date and the source behind it.
+
 ## 16 October 2026
 
 - Country and region monthly updates now take the bulletin's form: each source is listed with its headline, publisher, date and summary, and reports of the same development are grouped together, oldest first. Each update opens with links to the place's other reports and a contents list of its chapters, with the topics under each.
