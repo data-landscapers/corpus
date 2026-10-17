@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-10-16
+compiled: 2026-10-17
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 144
+sources_cited: 146
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -36,7 +36,7 @@ Day-to-day regulation is ARPCE's. It [gave MTN and Airtel two more months in Oct
 ### Data protection
 <!-- gov.protect -->
 
-Congo has named the authority its 2019 data protection law created: [decree n° 2025-538 of 31 December 2025 appoints the twelve members of the national commission for the protection of personal data](https://www.sgg.cg/JO/2026/congo-jo-2026-5-2.pdf), drawn from the Presidency, Parliament, the government, the judiciary, the Cour des comptes, the bar and the national human-rights commission. Standing the commission up is also among the outputs of the [European Investment Bank's Congo digital transformation loan](https://www.eib.org/en/projects/all/20200039), alongside a national cybersecurity strategy, a CERT and an interoperability framework. Whether the commission had begun supervising was not established as at September 2026.
+Congo has named the authority its 2019 data protection law created: [decree n° 2025-538 of 31 December 2025 appoints the twelve members of the national commission for the protection of personal data](https://www.sgg.cg/JO/2026/congo-jo-2026-5-2.pdf), drawn from the Presidency, Parliament, the government, the judiciary, the Cour des comptes, the bar and the national human-rights commission. Standing the commission up is also among the outputs of the [European Investment Bank's Congo digital transformation loan](https://www.eib.org/en/projects/all/20200039), alongside a national cybersecurity strategy, a CERT and an interoperability framework. It was not yet supervising in October 2026, when [the National Assembly president called on the government to make the commission operational without delay](https://www.adiac-congo.com/content/gouvernance-mobiliser-les-ressources-publiques-172020).
 
 The statute it would enforce has been in force since 25 November 2020. [Loi n°29-2019 of 10 October 2019](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf) covers consent, data minimisation, breach notification and controller obligations, and classifies biometric data as sensitive; it [gives data subjects a right of access to their personal data, sets rules on collection, processing, interconnection and transfer, and requires prior authorisation to process biometric data](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf); and its [Article 74 requires a breach to be notified to the data protection commission within 72 hours](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf), and to the people affected where they are at risk.
 
@@ -212,7 +212,7 @@ For a citizen there is close to nothing. [The 2025 GovTech assessment records no
 <!-- derived -->
 Of the 32 headline questions the 2025 index records for Congo, eight are answered yes, two systems are in implementation and two more are qualified, leaving twenty recorded as absent. Every system the state does run is back-office administration, and it has none of the citizen-facing portals the index assesses.
 
-Coordination is the remaining gap. [The GovTech institution exists](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) but [publishes no annual report on its results or spending, and no coordination body above it leads GovTech across government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A task force on digitalising the public administration was created under the Prime Minister by decree in July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf), carrying [the digital ministry's roadmap set out the same month](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses). [The state's own systems agency built the civil-status platform SIFEC in house](https://www.finances.gouv.cg/fr/articles/le-congo-franchit-une-%C3%A9tape-d%C3%A9cisive-dans-la-digitalisation-de-l%C3%A9tat-civil) and [ran the validation of the local-authority revenue platform in February 2026](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226). [The e-procurement portal is still being implemented, and publishes nothing to the open contracting standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+Coordination is the remaining gap. [The GovTech institution exists](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) but [publishes no annual report on its results or spending, and no coordination body above it leads GovTech across government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A task force on digitalising the public administration was created under the Prime Minister by decree in July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf), carrying [the digital ministry's roadmap set out the same month](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses); [its steering committee first met on 15 October 2026 and retained four workstreams: e-visas, digitised criminal records and birth certificates, the civil-servant file, and data sharing between the revenue agencies and land administration](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010). [The state's own systems agency built the civil-status platform SIFEC in house](https://www.finances.gouv.cg/fr/articles/le-congo-franchit-une-%C3%A9tape-d%C3%A9cisive-dans-la-digitalisation-de-l%C3%A9tat-civil) and [ran the validation of the local-authority revenue platform in February 2026](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226). [The e-procurement portal is still being implemented, and publishes nothing to the open contracting standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ## Digitalisation
 
