@@ -3,9 +3,9 @@ title: Kenya — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: KEN
-ledger_rows: 138
+ledger_rows: 139
 not_held: 7
-record: 535651388c10
+record: ee17970d366a
 ---
 
 # News, Sep – Oct 2026
@@ -2069,6 +2069,28 @@ Kenya is piloting a digital agricultural marketplace across five Rift Valley cou
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Artificial Intelligence Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Report of the Standing Committee on Information, Communication and Technology on the Artificial Intelligence Bill, 2026 (Senate Bills No. 4 of 2026)](https://libraryir.parliament.go.ke/server/api/core/bitstreams/a0d7c5d3-6b1b-42b1-bb96-428c10ed898a/content)** — Parliament of Kenya — The Senate, Standing Committee on Information, Communication and Technology, 1 September 2026
+
+Committee's own 170-page report: 143 submissions, recommends Senate not proceed until national AI policy published.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)** — The Star (Kenya), 15 October 2026
+
+143 stakeholder submissions; KSh 5m fines and AI Commissioner 'super regulator' faulted; national AI policy first.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

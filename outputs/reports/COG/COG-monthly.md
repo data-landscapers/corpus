@@ -3,9 +3,9 @@ title: Congo — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: COG
-ledger_rows: 17
+ledger_rows: 20
 not_held: 6
-record: f9683111e81c
+record: f1c57789290c
 ---
 
 # News, Sep – Oct 2026
@@ -29,12 +29,32 @@ record: f9683111e81c
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ARPCE Livre Blanc on the digital economy, second edition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026
+
+Livre Blanc 2nd edition and digital addressing project; mobile penetration 94.1%; postal-code decree July 2025.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -77,6 +97,22 @@ The Republic of the Congo's money transfer regulator, ARTF, said on 5 October 20
 **[Transfert de fonds : l’usage des terminaux de paiement électronique entrera en vigueur dès janvier 2027](https://www.adiac-congo.com/content/transfert-de-fonds-lusage-des-terminaux-de-paiement-electronique-entrera-en-vigueur-des)** — Les Dépêches de Brazzaville (ADIAC), 8 October 2026
 
 Congo's money-transfer regulator ARTF will require every money-transfer operator to use electronic payment terminals from January 2027, as the finance law provides, Les Dépêches de Brazzaville reported on 8 October 2026. The terminals record each transaction in real time for tax purposes; 200 of 1,000 ordered were shown to about a hundred transfer and exchange operators in Brazzaville.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National personal data protection commission</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gouvernance : mobiliser les ressources publiques](https://www.adiac-congo.com/content/gouvernance-mobiliser-les-ressources-publiques-172020)** — Les Dépêches de Brazzaville, 17 October 2026
+
+Assembly president Mvouba urges government to make the personal-data protection commission operational.
 
 </div>
 
@@ -208,6 +244,8 @@ The Republic of Congo's deputy prime minister, Jean-Jacques Bouya, and the telec
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Data Exchange
@@ -277,6 +315,22 @@ The Republic of Congo's information systems agency ACSI handed the interior mini
 **[Affaires sociales : BEB réaffirme son engagement en faveur de la protection de l’enfance](https://www.adiac-congo.com/content/affaires-sociales-beb-reaffirme-son-engagement-en-faveur-de-la-protection-de-lenfance-171580)** — Les Dépêches de Brazzaville (ADIAC), 11 September 2026
 
 Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met the US NGO Both Ends Believing in Brazzaville on 10 September 2026 about the Children First Software, a tool to monitor children in care institutions and help return them to their families. The NGO, a partner since 2023, said it would help build the platform, train ministry staff and supply equipment.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-administration digitalisation task force</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
+
+First steering-committee meeting; four workstreams from e-visa to revenue and land data interoperability.
 
 </div>
 

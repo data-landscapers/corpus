@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: LBR
 ledger_rows: 34
 not_held: 6
-record: 4d36ba877847
+record: 99585102d2ff
 ---
 
 # News, Sep – Oct 2026
@@ -411,6 +411,14 @@ Liberia's House of Representatives has sent a proposed US$52 million concession 
 **[Liberia: Naymote Urges Legislature to Tighten US$52M National ID Deal, Cites Cost, Electoral and Data Protection Concerns](https://frontpageafricaonline.com/liberia-naymote-urges-legislature-to-tighten-us52m-national-id-deal-cites-cost-electoral-and-data-protection-concerns/)** — FrontPage Africa, 16 October 2026
 
 Liberian civil society group Naymote, in a statement of 15 October 2026, urged the Legislature to tighten the proposed national ID agreement, which it values at US$52 million. It asks for full disclosure of financing, fees and contract terms, an independent value-for-money review, government ownership of identity data, free first-time enrolment and public hearings, and says the electoral commission must keep control of the voters' roll.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberian Senate Orders Review of US$52 Million Digital Identity Concession Agreement - Liberia Public Radio](https://liberiapublicradio.com/2026/10/16/liberian-senate-orders-review-of-us52-million-digital-identity-concession-agreement/)** — Liberia Public Radio, 16 October 2026
+
+Senate's Autonomous Agencies, Judiciary and Concessions committees to report in two weeks before ratification vote.
 
 </div>
 

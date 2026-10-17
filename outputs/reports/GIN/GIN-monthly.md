@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GIN
-ledger_rows: 20
+ledger_rows: 21
 not_held: 4
-record: 0c3d9184a6c1
+record: 87967ad5e1be
 ---
 
 # News, Sep – Oct 2026
@@ -131,6 +131,20 @@ Guinea's media regulator, the Haute Autorité de la Communication, banned four w
 **[AfPI 2026 : la Guinee renforce sa presence dans l'ecosysteme africain de l'interconnexion Internet](https://sahelmatin.com/afpi-2026-la-guinee-renforce-sa-presence-dans-lecosysteme-africain-de-linterconnexion-internet/)** — Sahel Matin, 1 September 2026
 
 Guinea's internet exchange point, IXP-Guinée, attended the 15th African Peering and Interconnection Forum in Kigali on 17–20 August 2026, represented by its executive secretary Abdoulaye Sivory Sakho with backing from the digital economy ministry's WARDIP programme. Sessions covered exchange-point governance, network performance measurement, access to content delivery networks and peering.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WARDIP submarine-cable landing station</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gbessia : Sensibilisation des citoyens sur le projet WARDIP](https://agpguinee.com/gbessia-sensibilisation-des-citoyens-sur-le-projet-wardip/)** — agpguinee.com, 16 October 2026
+
+Landing station and subsea cable zones: 13 Conakry communes plus Coyah, Forécariah, Dubréka, Boffa.
 
 </div>
 

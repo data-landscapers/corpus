@@ -3,9 +3,9 @@ title: Morocco — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: MAR
-ledger_rows: 30
+ledger_rows: 31
 not_held: 14
-record: f9a341729f18
+record: 6722cee276ee
 ---
 
 # News, Sep – Oct 2026
@@ -59,6 +59,28 @@ King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artific
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Joint order 218.26 on passenger and flight data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[قرار مشترك لوزير الداخلية ووزيرة الاقتصاد والمالية ووزير النقل واللوجيستيك رقم 218.26 صادر في 9 شعبان 1447 (29 يناير 2026) بتحديد لائحة العناصر التي تتكون منها المعلومات المتعلقة بالركاب وبالرحلات التجارية وبأعضاء طاقمها وكذا برحلات الطيران العام (arrêté conjoint n° 218.26, BO n° 7549)](https://adala.justice.gov.ma/api/uploads/2026/10/12/%D9%82%D8%B1%D8%A7%D8%B1%20%D9%85%D8%B4%D8%AA%D8%B1%D9%83%20%D9%84%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%20%D9%88%D9%88%D8%B2%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-1791818528335.pdf)** — Royaume du Maroc — Ministère de la Justice, portail Adala (text as published in the Bulletin officiel, édition arabe, n° 7549), 5 October 2026
+
+Full Arabic text: passenger, booking, payment, crew and private-flight data lists; catch-all "other useful information".
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transport aérien : les données des passagers désormais davantage surveillées](https://medias24.com/2026/10/15/transport-aerien-les-donnees-des-passagers-desormais-davantage-surveillees-1779811/)** — medias24.com, 15 October 2026
+
+Signed by Interior, Finance, Transport ministers; identity, booking, payment, baggage data to DGSN centre.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
