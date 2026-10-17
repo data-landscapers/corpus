@@ -1,6 +1,6 @@
 ## 17 October 2026
 
-- The top of each country and region monthly update and status report, down to its contents bar, now stays on screen as you scroll, with the PDF button beside the title. The edition date, compiler and coverage moved to the box at the foot of the page.
+- The top of each country and region monthly update, status report and finance report, down to its contents bar, now stays on screen as you scroll, with the PDF button beside the title. The edition date, compiler and coverage moved to the box at the foot of the page.
 - The Maturity Assessment now updates from the news: 810 stories published since each indicator was assessed were read, and 253 country assessments moved. Each move is shown with its date and the source behind it.
 
 ## 16 October 2026

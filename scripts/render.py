@@ -933,14 +933,15 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         if not absolute:
             current_row += archive_picker(archive or [], edition)
 
-    # **A place monthly's (and status report's) head sticks, and its byline and standfirst go to the colophon** *(Bill,
-    # 2026-10-17)*. A reader landed on a story deep in the page could not see which country it
-    # was or reach another section, so everything down to the rule under the sections bar pins
-    # under the site chrome, and the two lines that only describe the document make way for it.
+    # **A place report's head sticks, and its byline and standfirst go to the colophon** *(Bill,
+    # 2026-10-17: the monthly, then the status and finance reports)*. A reader landed on a story
+    # deep in the page could not see which country it was or reach another section, so everything
+    # down to the rule under the sections bar pins under the site chrome, and the two lines that
+    # only describe the document make way for it. Every page with the family heading takes it.
     # `data-edition` moves with the edition onto the colophon, where `editions.py` still finds it.
     fb = feedback(h1 or title, url_html)
     head_open = head_close = edition_attr = about_rows = ""
-    if kind in ("monthly", "status") and pre_header:
+    if pre_header:
         lead = re.match(r'\A\s*<div class="report-standfirst">(.*?)</div>\s*', html_body, re.S)
         if lead:
             html_body = html_body[lead.end():]
