@@ -397,7 +397,9 @@ def place_switch(unit: str, kind: str) -> str:
         return ""
     label = "Change region" if region else "Change country"
     return (f'<label class="place-switch screen-only">{label} '
-            '<select onchange="if (this.value) location.href = this.value">'
+            # Untranslated: a browser translator read "CAR" as French "because" (Bill, 2026-10-17).
+            '<select translate="no" class="notranslate"'
+            ' onchange="if (this.value) location.href = this.value">'
             + "".join(opts) + "</select></label>")
 
 
