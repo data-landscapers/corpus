@@ -1,5 +1,5 @@
 ---
-title: Niger — monthly update, Sep – Oct 2026
+title: Niger — News, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: NER
@@ -8,7 +8,7 @@ not_held: 1
 record: 1ea8d94a55b4
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

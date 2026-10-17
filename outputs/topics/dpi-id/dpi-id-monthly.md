@@ -1,5 +1,5 @@
 ---
-title: Digital Identity and CRVS — monthly update, September – October 2026
+title: Digital Identity and CRVS — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: dpi.id
@@ -7,9 +7,9 @@ places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KE
 record: dbe4ddd73135
 ---
 
-# Digital Identity and CRVS: monthly update, September – October 2026
+# Digital Identity and CRVS: News, September – October 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

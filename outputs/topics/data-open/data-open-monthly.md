@@ -1,5 +1,5 @@
 ---
-title: Open data — monthly update, September – October 2026
+title: Open data — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: data.open
@@ -7,9 +7,9 @@ places: BFA; CPV; CAF; TCD; CIV; COD; SWZ; GHA; MDG; MWI; MUS; NGA; SEN; SOM; TZ
 record: 4a2391133f42
 ---
 
-# Open data: monthly update, September – October 2026
+# Open data: News, September – October 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

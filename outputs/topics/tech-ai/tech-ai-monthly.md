@@ -1,5 +1,5 @@
 ---
-title: AI — monthly update, September – October 2026
+title: AI — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: tech.ai
@@ -7,9 +7,9 @@ places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GAB; GH
 record: c79ce83aad6a
 ---
 
-# AI: monthly update, September – October 2026
+# AI: News, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

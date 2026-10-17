@@ -1,5 +1,5 @@
 ---
-title: Eswatini — monthly update, Sep – Oct 2026
+title: Eswatini — News, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: SWZ
@@ -8,7 +8,7 @@ not_held: 3
 record: 48d4935395d5
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

@@ -1,5 +1,5 @@
 ---
-title: Mauritania — monthly update, Sep – Oct 2026
+title: Mauritania — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: MRT
@@ -8,7 +8,7 @@ not_held: 3
 record: ef473b9a0ad2
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

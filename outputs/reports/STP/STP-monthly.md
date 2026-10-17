@@ -1,5 +1,5 @@
 ---
-title: Sao Tome and Principe — monthly update, Sep – Oct 2026
+title: Sao Tome and Principe — News, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: STP
@@ -8,7 +8,7 @@ not_held: 5
 record: 1611ca1fc579
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

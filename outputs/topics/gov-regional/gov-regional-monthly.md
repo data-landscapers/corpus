@@ -1,5 +1,5 @@
 ---
-title: Regional collaboration — monthly update, September – October 2026
+title: Regional collaboration — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: gov.regional
@@ -7,9 +7,9 @@ places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GA
 record: 1ef15e04e2d1
 ---
 
-# Regional collaboration: monthly update, September – October 2026
+# Regional collaboration: News, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

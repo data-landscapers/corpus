@@ -1,5 +1,5 @@
 ---
-title: Chad — monthly update, Sep – Oct 2026
+title: Chad — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: TCD
@@ -8,7 +8,7 @@ not_held: 22
 record: 7b4796ea06b7
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

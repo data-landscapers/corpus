@@ -1,5 +1,5 @@
 ---
-title: Gambia — monthly update, Sep – Oct 2026
+title: Gambia — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: GMB
@@ -8,7 +8,7 @@ not_held: 2
 record: 057221713b11
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

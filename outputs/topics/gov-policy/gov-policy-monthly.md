@@ -1,5 +1,5 @@
 ---
-title: Strategies, plans and policies — monthly update, September – October 2026
+title: Strategies, plans and policies — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: gov.policy
@@ -7,9 +7,9 @@ places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; ER
 record: 32e617490ee4
 ---
 
-# Strategies, plans and policies: monthly update, September – October 2026
+# Strategies, plans and policies: News, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

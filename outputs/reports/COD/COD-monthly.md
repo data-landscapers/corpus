@@ -1,5 +1,5 @@
 ---
-title: DR Congo — monthly update, Sep – Oct 2026
+title: DR Congo — News, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: COD
@@ -8,7 +8,7 @@ not_held: 7
 record: 787029cc4ac5
 ---
 
-# Monthly update, Sep – Oct 2026
+# News, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 

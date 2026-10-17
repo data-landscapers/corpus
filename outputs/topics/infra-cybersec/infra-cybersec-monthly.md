@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity — monthly update, September – October 2026
+title: Cybersecurity — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: infra.cybersec
@@ -7,9 +7,9 @@ places: DZA; BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LB
 record: 05a0403f8369
 ---
 
-# Cybersecurity: monthly update, September – October 2026
+# Cybersecurity: News, September – October 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 

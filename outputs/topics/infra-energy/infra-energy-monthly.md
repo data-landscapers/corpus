@@ -1,5 +1,5 @@
 ---
-title: Energy — monthly update, September – October 2026
+title: Energy — News, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: infra.energy
@@ -7,9 +7,9 @@ places: BWA; COD; EGY; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
 record: 9fe8ad766aac
 ---
 
-# Energy: monthly update, September – October 2026
+# Energy: News, September – October 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
