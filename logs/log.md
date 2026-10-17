@@ -12,7 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-10-17 22:38 · **ANALYTICS** · unclocked · 2026-09-13..2026-10-16 written; 16 Oct: dl.io 22 views / 0 clicks, corpus 188 views / 3 clicks
+2026-10-17 22:38 · **ANALYTICS** · unclocked · 2026-10-16 written (dates restored to ISO after a spreadsheet round-trip in 3147582); 16 Oct: dl.io 22 views / 0 clicks, corpus 188 views / 3 clicks
 2026-10-17 18:19 · **RENDER** · unclocked · progress reports retired: nav Bulletin then Maturity; 266 progress files deleted, 261 reports repaged, pages rebuilt, deployed — ok
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
 2026-10-17 00:49 · **RENDER** · 26m · 306 documents, home, countries, regions, topics, catalogue, finance, datasets rendered; R2 7,418 uploaded; 36 editions pruned; deployed bc6d4da — ok
