@@ -133,11 +133,6 @@ FULL_NAMES = {
 KIND = {
     "status": ("Status report", copy_inline("country", "report-status")),
     "monthly": ("Monthly update", copy_inline("country", "report-monthly")),
-    # "Progress report", not "Twelve-month progress report" *(Bill, 2026-08-25)*. The window is
-    # in the document's own title and in the row beneath this label, so the qualifier was saying
-    # twice what the reader was about to read once — and it was the only one of the three labels
-    # that did not read as a document type.
-    "progress": ("Progress report", copy_inline("country", "report-progress")),
     # The hyperscaler scan's fact sheet (`hyperscaler-publish.py`, Bill 2026-09-30).
     "hosting": ("Institution hosting", copy_inline("country", "report-hosting")),
     # Budgets and non-state finance in one report (`finance-report.py`, Bill 2026-10-16).
@@ -237,7 +232,7 @@ def report_editions(iso: str) -> list[dict]:
     under `site/`, so the link resolves whether or not the file is in the tree. The HTML
     permalink carries no edition — it is always the current document (Bill, 2026-08-13)."""
     rows = []
-    for kind in ("status", "monthly", "progress", "finance", "hosting"):
+    for kind in ("status", "monthly", "finance", "hosting"):
         html_name = f"{iso}-{kind}.html"
         edition = editions.edition_on_page(SITE / "reports" / iso / html_name)
         if edition is None:

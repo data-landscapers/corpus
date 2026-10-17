@@ -3,11 +3,10 @@
    The head is the place's reports, the title with its PDF button and the
    sections bar (Bill, 2026-10-17): a reader on a story deep in the page can
    see which country it is and jump to another section. Measured rather than a
-   CSS constant for the reason `progress-sticky.js` gives — the chrome's height
-   differs by viewport — and the head's own height decides where a jumped-to
+   CSS constant because the chrome's height differs by viewport — and the head's own height decides where a jumped-to
    heading must land.
 
-   **Opt-in, like the progress table's header.** The CSS leaves the head static
+   **Opt-in.** The CSS leaves the head static
    and this adds the class once it has real numbers, and declines when the head
    would take more than 40% of the viewport, where pinning it would leave too
    little room to read. With the script blocked the page reads as before. */

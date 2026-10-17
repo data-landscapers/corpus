@@ -14,19 +14,19 @@ Change it, then `python scripts/report-render.py --unit {X__} --render --doc all
 
 ---
 
-## Two documents, for now
+## One document, for now
 
-**A region issues a monthly update and a progress report, never a status report** *(monthly added 2026-09-02)*. The renderer refuses `status` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `--doc all` over every unit lets a region yield its own document set, two rather than three.
+**A region issues a monthly update, never a status report.** The progress report it also issued retired on 2026-10-17 *(Bill)*. The renderer refuses `status` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `--doc all` over every unit lets a region yield its own document set.
 
 That is a scope decision, not a claim that a status report is wrong for a region. It is the obvious next one — it needs no new ledger and no new reading, only this file's sections rendered as an inventory. **What a region has that a country does not is a period question**: a convention gains ratifications, a working group meets or does not, a secretariat is funded or is not, and none of that is legible in a single-date snapshot. Start where the unit's own evidence is.
 
-The monthly is `render_monthly()` unchanged — the same renderer a country uses, over the rows this file's sections select whose `published` falls in the window. It carries no front-matter or marker differences from the progress report beyond what §*Front matter* and §*Markers* below already state; see `documentation/report-country-skeleton.md` → *What goes in each document* for the monthly/status/progress division of labour, which binds a region's monthly exactly as it binds a country's.
+The monthly is `render_monthly()` unchanged — the same renderer a country uses, over the rows this file's sections select whose `published` falls in the window. See `documentation/report-country-skeleton.md` → *What goes in each document* for the monthly/status division of labour, which binds a region's monthly exactly as it binds a country's.
 
 ## Front matter
 
 ```yaml
 ---
-title: {Region} — progress report, YYYY-MM-DD to YYYY-MM-DD
+title: {Region} — monthly update, {Month} – {Month YYYY}
 compiled: YYYY-MM-DD               # the render date
 period: YYYY-MM-DD to YYYY-MM-DD
 place: X__
@@ -50,7 +50,7 @@ not_held: N                        # script-emitted; the count a reader is owed
 
 The mapping is `lookups/report-region-sections.csv` and is what the renderer reads; this table is the readable copy. **A section with no ledger rows is written as one sentence saying so** — never padded to parity with a thick one, and never silently dropped. On a thin region that will be most of the document, and it should be.
 
-**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.csv` label, in the taxonomy's own order** — one small table per subject rather than one table for the whole section, exactly as `documentation/report-country-skeleton.md` describes. A region issues the progress report only, so this affects that one document.
+**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.csv` label, in the taxonomy's own order** — one small table per subject rather than one table for the whole section, exactly as `documentation/report-country-skeleton.md` describes. In a region's monthly the sub-headings carry its story groups.
 
 **Section follows the object class, and the subject map is the fallback.** This is the first way a region report differs from a country one. A country row lands in its section by subject because the subject *is* the object's field; a regional row's section is decided by **what kind of thing it is** — a body, an instrument, a running system, a coordination mechanism, a financing line — and the same `gov.regional` slug sits on all five. The map gives the default; the run overrides `section` per row and is expected to, often. A body is *Institutions* whatever slug the sources carry.
 
@@ -71,9 +71,9 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 ## Word budget
 
-**Prose only, tables excluded: 100 to 160 words a section for a progress report** — a rate per narrative section it writes. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit. **The monthly carries no prose and has no budget** *(Bill, 2026-10-16)*. It is the bulletin's item cards over the window, grouped by the ledger row each source moved, oldest first; `render_monthly()` in `report-render.py` holds the rule.
+**The monthly carries no prose and has no budget** *(Bill, 2026-10-16)*. It is the bulletin's item cards over the window, grouped by the ledger row each source moved, oldest first; `render_monthly()` in `report-render.py` holds the rule.
 
-**The progress band is now per section, and the two standing exceptions retire** *(2026-09-17, strategic review 4 R13)*. A progress report writes one narrative block a section, so the section count is what its length is set by, and a region whose ledger reaches four of the eight sections should be budgeted for four. The flat floor could only be met by writing about what the ledger does not hold — `XNA` sat 397 words under it for nine days as a ruled exception, which is a check reporting a thing nobody intends to fix. Six measured documents fall between 101 and 155 words a section (`XNA` 403 over 4, `XCA` 929 over 6, `XEA` 892 over 6, `XWA` 1,141 over 8, `XAF` 1,150 over 8, `XSA` 1,149 over 8), so the band is **100–160**: every one of them passes, a thin region is held to what it holds, and the ceiling at eight sections is 1,280 rather than 1,150, which is the headroom the note below asked for. `BUDGET_SECTION_LINE` in `report-register-check.py` is the machinery, and the three forms a skeleton may write are flat, a rate per row, and a rate per section.
+The progress report's per-section band retired with it (2026-10-17). `BUDGET_SECTION_LINE` in `report-register-check.py` still reads a rate per section, the third form a skeleton may write beside flat and a rate per row.
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`).
 
@@ -84,8 +84,6 @@ Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)
 …model-authored prose…
 <!-- /narrative -->
 ```
-
-**In the progress report**, keys are `summary`, `institutions`, `instruments`, `systems`, `coordination`, `capacity`, `finance`, `gaps` — one block per section.
 
 **The monthly carries no markers** *(2026-10-16)*: it is item cards, rendered whole by `render_monthly()`.
 

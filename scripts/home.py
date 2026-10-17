@@ -348,8 +348,8 @@ TEMPLATE = """<!DOCTYPE html>
 {hero}
     </div>
 
-    <h2 class="section-heading" id="progress"><a href="{base}/progress/">Progress</a></h2>
-    <p class="section-intro">{progress_intro}</p>
+    <h2 class="section-heading" id="maturity"><a href="{base}/maturity/">Maturity</a></h2>
+    <p class="section-intro">{maturity_intro}</p>
 
 {bulletin}
     <h2 class="section-heading" id="alerts"><a href="{base}/catalogue/">Weekly news alerts</a></h2>
@@ -637,7 +637,7 @@ def build() -> Path:
         styles=styles(0, "home.css"), ga=ga(),
         feedback=feedback("Corpus home", f"{SITE_BASE}/"),
         hero=copy("home", "hero"),
-        progress_intro=copy_inline("home", "progress-intro"),
+        maturity_intro=copy_inline("home", "maturity-intro"),
         countries_intro=copy_inline("home", "countries-intro"),
         regions_intro=copy_inline("home", "regions-intro"),
         topics_intro=copy_inline("home", "topics-intro"),

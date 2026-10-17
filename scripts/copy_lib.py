@@ -184,9 +184,8 @@ if __name__ == "__main__":                      # a quick look at what is where
     files = sorted(CONTENT.glob("*.md")) if len(sys.argv) < 2 else [CONTENT / f"{sys.argv[1]}.md"]
     named = len(sys.argv) > 1
     for f in files:
-        # Not every file in content/ is keyed copy. `progress-countries.md`,
-        # `progress-topics.md` and `changelog.md` are whole prose documents their own
-        # renderer reads, so the inventory sweep reports them and moves on; naming one
+        # Not every file in content/ is keyed copy. `changelog.md` is a whole prose
+        # document its own renderer reads, so the inventory sweep reports them and moves on; naming one
         # still raises, because then the caller believes it holds keys.
         try:
             blocks = load(f.stem)

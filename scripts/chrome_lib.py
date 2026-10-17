@@ -40,13 +40,10 @@ MAIN_SITE = "https://data-landscapers.io"
 # sections of the home page; Finance, Catalogue and Methodology are pages of their own
 # (Bill, 2026-08-19 — before that the last three were home-page anchors too).
 NAV = [
-    # First item since 2026-09-10 (Bill): tracking progress is the project's most
-    # important output, so it leads the nav rather than sitting after the pages
-    # that were built before it. `/progress/` is the indicator table read down the
-    # topics; `/progress/countries/` is the same counts read down the places, and
-    # the two link to each other rather than both sitting in the nav.
-    ("Progress", f"{SITE_BASE}/progress/"),
+    # Bulletin leads and Maturity, the map, follows it since 2026-10-17 (Bill): the
+    # maturity assessment replaced the progress reports, and Progress left the nav.
     ("Bulletin", f"{SITE_BASE}/bulletin/"),
+    ("Maturity", f"{SITE_BASE}/maturity/"),
     # A page of its own since 2026-08-24 (Bill), so the nav points at it rather
     # than at the home page's anchor. `/countries/` used to hold the 54
     # per-country folders and no index, which is why it was one of the three

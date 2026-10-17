@@ -6,8 +6,8 @@ report."
     python scripts/region.py            builds every region
     python scripts/region.py XAF        builds one
 
-A region issues two documents, not four (`REPORT-REGION.md`): a monthly
-update and a progress report, never a status report and never a per-place
+A region issues one document, not four (`REPORT-REGION.md`): a monthly
+update, never a status report and never a per-place
 budget line — so there is no `{code}-status.md` to open the way `country.py`
 opens one for every country it builds. Everything else on the page — the
 Reports list, the catalogue cut, the non-state finance pivot and table, the

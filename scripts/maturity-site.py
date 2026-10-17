@@ -511,7 +511,7 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
     return page(title="Maturity Assessment",
                 description="Where each African country stands on each studied indicator, on a five-stage scale.",
                 canonical=f"{SITE_BASE}/maturity/", depth=1, body=body, body_class="mat-page", band=False,
-                head=artefacts,
+                active="maturity", head=artefacts,
                 sheets=("maturity.css",),
                 scripts=script("d3-7.9.0.min.js", 1) + "\n" + script("maturity-map.js", 1))
 

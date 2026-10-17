@@ -8,40 +8,25 @@ them.** A render rebuilds the front matter, the section tables and the gaps tabl
 `<!-- narrative: key -->` block across untouched**. That is what makes a format change cost a
 render rather than a redraft.
 
-**Three documents, one ledger** (`documentation/report-layer.md` §1). *Status* renders the current rows,
-*monthly* renders the rows whose `published` falls in the window, and *progress* answers a fixed
-frame of indicators over a window (twelve months by default). All three are derived from the same
-file by slicing it, so the second and third cost a render rather than a second reading of the base
-— which is the whole reason the run issues all three at initialisation.
+**Two documents, one ledger** (`documentation/report-layer.md` §1). *Status* renders the current
+rows and *monthly* renders the rows whose `published` falls in the window. Both are derived from
+the same file by slicing it, so the second costs a render rather than a second reading of the base.
+The progress report, a third, retired on 2026-10-17 (Bill): the maturity assessment replaced it.
 
-**The progress report is two documents behind one name** *(2026-08-26,
-`documentation/progress-report-redesign.md`)*. A **country** answers the indicator frame in
-`lookups/indicators.csv`, one row per indicator and the same set everywhere, drawing its mapping
-and its prose from `outputs/reports/{unit}/indicators.csv` — so its rows are chosen by design
-rather than by arrival, and **No evidence** is the answer where the base holds nothing. A
-**region** keeps the movement ledger this file has always rendered, because its sections run from
-the region's institutions outwards rather than through the taxonomy and the frame was not drawn
-for it. `render_progress()` dispatches; neither path knows about the other.
-
-The country path is also the one place here where **the prose does not live in the document**. It
-lives in `indicators.csv` and is rendered into the table, so there are no narrative markers to
-carry across, nothing for a rebuild to drop, and no `<!-- narrative -->` block in a country
-progress report at all.
-
-**Both windows close on the day the document last changed, not on the month's last day and not on
+**The window closes on the day the document last changed, not on the month's last day and not on
 the day the build ran** (§2). The base is swept nightly and that is what these reports are for; a
 monthly covering July that stopped at 31 July would hold the first days of August back for a
-month. There are no issues: each unit has one monthly and one progress report, living documents
-whose windows slide. **Selection always runs to today** — a record published this morning is in
+month. There are no issues: each unit has one monthly, a living document
+whose window slides. **Selection always runs to today** — a record published this morning is in
 scope — but a build that finds nothing new to say leaves the document, and the window it prints,
 exactly where they were *(Bill, 2026-08-14)*. `period:` is therefore the window the document
 draws on, `compiled:` the day it last changed, and the two always agree.
 
 **One renderer, a profile per process.** A country unit takes its sections from the ten Level-1
-chapters of `lookups/taxonomy.csv`, in that file's own order, and issues all three documents;
+chapters of `lookups/taxonomy.csv`, in that file's own order, and issues both documents;
 an `X__` region unit reads `lookups/report-region-sections.csv`,
-calls its objects bodies rather than systems, and issues **a monthly update and a progress
-report, never a status report** (`REPORT-REGION.md`). Everything else — the ledger, the markers,
+calls its objects bodies rather than systems, and issues **a monthly update, never a status
+report** (`REPORT-REGION.md`). Everything else — the ledger, the markers,
 the windows, the checks — is the same code on the same schema.
 
 Modes:
@@ -49,19 +34,16 @@ Modes:
               Unresolvable slugs are printed as UNRESOLVED and **must not be cited** — a URL
               reconstructed from a remembered pattern is indistinguishable from a real one.
   --render    write the document(s) named by --doc (default: status).
-  --doc       status | monthly | progress | all.
-  --month     YYYY-MM — the month the monthly's window opens in, and the month the progress
-              window is counted back from. Default: the last closed month.
+  --doc       status | monthly | all.
+  --month     YYYY-MM — the month the monthly's window opens in. Default: the last closed month.
   --end       YYYY-MM-DD — close the window here rather than at today. For rebuilding a
               document to a stated date rather than to now.
-  --window    months in the progress window (default 12 — an annual progress report).
   --check     Checks G, I, J, L and M over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
-              J: no document compiled before the ledger's newest source, and every progress
-              report carries its shape check. L: no narrative block left unwritten. M: every row
-              that states a position cites a source that resolves. Exits non-zero on a miss. A report that
-              fails G or M is not published; one that fails L is not finished; one that fails J
+              J: no document compiled before the ledger's newest source. L: no narrative block
+              left unwritten. M: every row that states a position cites a source that resolves.
+              Exits non-zero on a miss. A report that fails G or M is not published; one that fails L is not finished; one that fails J
               needs a re-render.
 
 Usage:
@@ -83,7 +65,6 @@ import sys
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import indicators_lib  # noqa: E402
 import status_lib  # noqa: E402
 import taxonomy_lib  # noqa: E402
 import vault_lib  # noqa: E402
@@ -95,28 +76,20 @@ COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 
 # **One renderer, one profile per report process** (`documentation/report-layer.md` §5). What differs
 # between a country report and a region one is its section map, what its object column is called,
-# and which of the three documents it issues — not the rendering. A region issued the **progress
-# report only** until 2026-09-02 (`REPORT-REGION.md`); it now issues the monthly too, on the same
-# renderer, because `render_monthly()` never assumed a taxonomy section map or a status report to
-# defer to — it already read `sections(unit)` and `profile(unit)` for both. Only the status report
-# stays refused: no region has ever had one to open, and asking for it is refused here rather than
-# branched around by every caller, so `--doc all` still means *all of this unit's documents* and a
-# region yields two rather than crashing on a third it does not have.
+# and which documents it issues — not the rendering. The status report stays refused for a region:
+# no region has ever had one to open, and asking for it is refused here rather than branched around
+# by every caller, so `--doc all` still means *all of this unit's documents*. The progress report
+# both issued retired on 2026-10-17 (Bill).
 PROFILES = {
-    # **A country progress report opens on its own numbers, with no preamble above them** *(Bill,
-    # 2026-08-25)*. The paragraph that used to sit here said three things a reader either already
-    # knew or could not use: that it was compiled from the base, that its sections follow the status
-    # report, and that its window runs to the date of issue rather than the month's close — the
-    # last of which is a note about how the window is cut, in the place where what the window
-    # *found* belongs. A region keeps an opener because its sections are not the taxonomy's and
-    # nothing else on the page says so.
+    # A region keeps an opener because its sections are not the taxonomy's and nothing else on the
+    # page says so.
     "country": {"sections": None,
                 "object": "System or instrument", "objects": "systems and instruments",
-                "docs": ("status", "monthly", "progress"),
+                "docs": ("status", "monthly"),
                 "sections_note": ""},
     "region": {"sections": "report-region-sections.csv",
                "object": "Body, instrument or system", "objects": "bodies, instruments and systems",
-               "docs": ("monthly", "progress"),
+               "docs": ("monthly",),
                "sections_note": "Sections run from the region's institutions outwards to what "
                                 "funds them."},
 }
@@ -175,28 +148,10 @@ MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -
 # comma and a qualifying clause ("Implemented, under appeal"), and check I tests the stem.
 STATUSES = ("Implemented", "Piloting", "In development", "Planned", "Discontinued", "Enacted",
             "Under review", NOT_HELD)
-# `Movement` is accepted beside `Advanced` since 2026-09-11: the region progress report prints the
-# one as the other (`as_progress()`), so a ledger written after reading that report may say either.
+# `Movement` is accepted beside `Advanced` since 2026-09-11: ledgers written while the region
+# progress report printed the one as the other may say either.
 MOVEMENTS = ("Advanced", "Movement", "Stalled", "Regressed", "Closed", NO_CHANGE,
              BASELINE_NOT_HELD)
-
-NO_EVIDENCE = "No evidence"
-MIXED = "Mixed"
-# Renamed from "Advanced" on 2026-09-10 (Bill): as a value in a column headed
-# *Progress* it read as a standing grade — a country being advanced — rather than
-# as the thing it says, that the indicator moved inside the period.
-MOVEMENT = "Movement"
-PROGRESS = (MOVEMENT, "Stalled", "Regressed", MIXED, NO_CHANGE, NO_EVIDENCE)
-"""The indicator layer's own closed set — `MOVEMENTS`'s sibling, not its successor.
-
-The two share three words and are not the same vocabulary, and neither derives from the other
-*(`progress-report-redesign.md` §2)*. `MOVEMENTS` describes **a ledger row** moving between two
-dated positions and keeps serving the monthly; `PROGRESS` describes **an indicator** over a
-window, and its last two values have no counterpart there. *Mixed* exists because several rows
-can map to one indicator and move in different directions, which a per-row vocabulary can never
-need. *No evidence* is not *Baseline not held*: the latter says the base holds a position now but
-held none at the start, the former says the base holds nothing at all. Merging them would be a
-defect, not a tidy-up."""
 
 
 def stem(value):
@@ -204,22 +159,10 @@ def stem(value):
     return (value or "").split(",")[0].strip()
 
 
-def as_progress(value):
-    """A ledger movement in the words of the progress reports: `Advanced` prints as `Movement`,
-    qualifier kept *(Bill, 2026-09-11)*. The region progress report is the only caller; the ledger
-    itself keeps `Advanced`, which is why this is a rendering step and not a rewrite of the data."""
-    s = stem(value)
-    return MOVEMENT + value[len(s):] if s == "Advanced" else value
 
 # Both glossaries live in `content/document.md` now (Bill, 2026-08-19). They are markdown
 # on the way into a markdown document, so `copy_md` rather than `copy`.
 VOCAB = copy_md("document", "status-vocab")
-MOVE_VOCAB = copy_md("document", "movement-vocab")
-PROGRESS_VOCAB = copy_md("document", "progress-vocab")
-# §4's explanatory paragraph: renderer-emitted boilerplate, identical across countries, standing
-# in for the no-evidence count that is deliberately not published. It says what the frame is and
-# what an empty row means, which is what a bare number could not.
-FRAME_NOTE = copy_md("document", "progress-frame")
 
 
 def anchor(label):
@@ -290,7 +233,7 @@ def by_subject(rows):
 
     A subject with no rows is simply absent from the result — which is what keeps an
     empty subject from printing a sub-heading with nothing under it in either a table
-    section (status, progress) or a narrative one (monthly)."""
+    section (status) or a narrative one (monthly)."""
     groups = collections.defaultdict(list)
     for r in rows:
         groups[(r.get("subject") or "").strip()].append(r)
@@ -622,98 +565,6 @@ def cite(value, r, urls):
     return f"[{text}]({url})" if url else text
 
 
-SLUG_CITE = re.compile(r"\[([^\]]+)\]\(((?:[^()]|\([^()]*\))*)\)")
-"""A citation in drafted prose: a label, and a target that should be a catalogue slug.
-
-**The target deliberately admits spaces, and balanced parentheses, because this base's slugs
-carry both.** A slug is a record's own title — `2025-11-08 Digital 2026 Eritrea (DataReportal)`
-is one of 364 in the catalogue holding a bracketed qualifier — so a pattern stopping at the
-first `)` would cite half of one and leave `)` printing as text. Admitting spaces has a second
-purpose: a tighter pattern would simply fail to match an ill-formed
-citation, and an unmatched one is not caught — it passes through
-untouched and prints in the document as literal `[label](not a slug)`, which is markdown's own
-behaviour for a target with a space in it. Matching it is what lets `cite_prose()` drop the dead
-link and report it, and what lets check M name it. Found on a ZAF row whose `sources` field
-holds a book chapter's title rather than a slug."""
-
-
-def cite_prose(text, urls, unresolved):
-    """Drafted indicator prose with its citations resolved from slugs to URLs.
-
-    **The prose cites the base, not the web** *(`progress-report-redesign.md` §2)*. A drafter
-    writes `[the roadmap was gazetted](2026-07-24-sa-dcdt-roadmap)` — a catalogue slug, the same
-    identifier the ledger's `sources` field carries — and the slug becomes a URL here, at render
-    time, exactly as `cite()` has always done for a status cell. Writing the URL directly would
-    pin the document to an address the catalogue may later correct, and would let prose cite
-    something the base does not hold at all.
-
-    An unresolvable target keeps its label and loses its link, and is counted into `unresolved`
-    so the run says so. That fallback is the trap `slug_urls()` names — a document with no links
-    left has none missing, so check G would certify the render that stripped them — which is why
-    check M tests every citation in this prose against the base independently, and fails.
-    """
-    def sub(m):
-        label, target = m.group(1), m.group(2)
-        if target.startswith(("http://", "https://", "#")):
-            return m.group(0)          # left alone; check M refuses a raw URL in this prose
-        if target in urls:
-            return f"[{label}]({link_target(urls[target])})"
-        unresolved.append(target)
-        return label
-    return SLUG_CITE.sub(sub, text or "")
-
-
-def cell(text):
-    """Prose made safe to sit in a markdown table cell.
-
-    A literal pipe ends the cell and shifts every column after it; a newline ends the row. Both
-    are silent — the table still renders, with the wrong shape — so they are removed here rather
-    than checked for. The entity is what a reader sees either way.
-    """
-    return " ".join((text or "").replace("|", "&#124;").split())
-
-
-def developments_cell(row, urls, unresolved):
-    """The Developments cell: terse in the table, full behind the row's expander (§5).
-
-    The full text is a `<details>` element written into the cell as raw HTML, which survives the
-    markdown table intact and carries its own inline citations through — `render.py`'s extension
-    set includes `md_in_html`, and links inside the element are converted like any others. The
-    PDF prints it expanded, because a PDF has no expander and the full text is the document (§7).
-    """
-    # **Citations resolve before the cell is flattened, and the order is not cosmetic.**
-    # `cell()` collapses runs of whitespace, and 21 slugs in this base carry a double space
-    # inside them — a record's own title, kept verbatim. Flattening first rewrites the slug,
-    # `slug_urls()` then fails to match it, and the citation prints as plain text with the run
-    # counted only as an unresolved warning. Resolving first turns the slug into a URL, which
-    # has no whitespace left to collapse. Found on a ZAF row whose slug runs two spaces after
-    # a byline.
-    summary = cell(cite_prose(row.get("summary"), urls, unresolved))
-    # A blank line in the drafted `developments` separates one dated development from the next.
-    # It cannot survive as a blank line — a table cell is one line — so it becomes the break the
-    # reader would have seen anyway, and each paragraph is flattened after its own citations go.
-    #
-    # **One break, not two** (Bill, 2026-09-07). It was `<br><br>`, which on paper spends a whole
-    # empty line between developments in a cell that is already the tallest thing in the table;
-    # a dated development opens with its own date, so the line start does the separating and the
-    # empty line only pads the page. On screen the expander is short enough that the difference
-    # is a tightening rather than a loss.
-    paras = [p.strip() for p in re.split(r"\n\s*\n", row.get("developments") or "") if p.strip()]
-    full = "<br>".join(cell(cite_prose(p, urls, unresolved)) for p in paras)
-    if not full:
-        return summary
-    return (f"{summary} <details><summary>Full record</summary>{full}</details>"
-            if summary else f"<details><summary>Full record</summary>{full}</details>")
-
-
-def mark_progress(value):
-    """***No evidence*** is bold italic for the same reason ***Not held*** is (§3).
-
-    It is not a weaker Advanced, it is a different kind of value: the other five say what the
-    evidence shows, and this one says there is none. Marking it makes a column of them read as
-    the absence it is rather than as a verdict the base has reached."""
-    return f"***{value}***" if stem(value) == NO_EVIDENCE else (value or "—")
-
 
 def status_table(rows, urls, label="System or instrument"):
     # "Milestone", not "As at" *(2026-08-14)*. The column has always printed the milestone — the
@@ -774,8 +625,8 @@ def month_span(start, end, short=False):
 
 """**There is no such thing as a July issue** *(Bill, 2026-08-14)*.
 
-There is one monthly report per unit and one progress report, each a living document whose window
-slides: the monthly covers this month and last, the progress report the twelve months behind it.
+There is one monthly report per unit, a living document whose window slides over this month and
+last.
 Nothing is cut, replaced or superseded, so nothing is read back off the previous version — there
 is no previous version, only an earlier state of the same document, which is what git is for.
 `period:` is therefore always recomputed from the window the document now covers.
@@ -827,7 +678,7 @@ def moved_in(rows, start, end):
     *(Bill, 2026-08-14)*. A row is in scope when its `published` — the date of the most recent
     record it cites — falls inside the window, and it ages out when the window moves past it. At
     month turnover, records published outside the new scope are simply excluded, and because the
-    date sits on the row, **the ledger is what ages both the monthly and the progress report**.
+    date sits on the row, **the ledger is what ages the monthly**.
 
     This replaced selection on `as_at`, which was the event date a *position* was asserted from:
     the right field for dating a claim and the wrong one for choosing what a period covers. 744
@@ -892,13 +743,7 @@ def shape_line(unit, start, end):
 
 
 def front(title, today, unit, ledger_rows, not_held, period=None, extra=None):
-    """The document's front matter. `extra` carries fields only one document has.
-
-    **No count of what the frame found goes in here** *(`progress-report-redesign.md` §4)*. The
-    progress report publishes no no-evidence count, and metadata is not a loophole in that: a
-    field is a number a consumer will eventually put on a page, which is the thing §4 decided
-    against. `indicators` — how many questions were asked — is a property of the frame, the same
-    for every country, and says nothing about what any one of them holds."""
+    """The document's front matter. `extra` carries fields only one document has."""
     fm = ["---", f"title: {title}", f"compiled: {today}"]
     if period:
         fm.append(f"period: {period}")
@@ -936,8 +781,7 @@ def migrate_keys(keep, subj):
 
     A subject-keyed block (`{section}--{subject}`, the monthly's) carries its subject in the key,
     so its new home is computable and exact: the subject decides the chapter, and the chapter is
-    the only part of the key that moved. A section-level block (the status report's and the
-    progress report's) carries no subject and is re-keyed by the table above or not at all.
+    the only part of the key that moved. A section-level block (the status report's) carries no subject and is re-keyed by the table above or not at all.
 
     Migration is additive and never overwrites: a document that already holds a block under the new
     key keeps it, so re-running this on an already-migrated file does nothing. It returns the
@@ -1000,16 +844,6 @@ def gaps_table(gaps, label="System or instrument"):
     return out
 
 
-NOT_A_DOCUMENT = ("progress-narrative-archive.md",)
-"""Markdown in a unit's folder that is working material rather than a rendered document.
-
-`progress-narrative-archive.md` holds the per-Level-1 narrative the progress report carried until
-the indicator frame replaced it (`progress-report-redesign.md` §1, review item 4). It is kept as
-source material for the indicator drafting pass and is published nowhere, so the document checks
-have no business testing it: check G would fail a unit over a link in prose no reader can reach,
-and it would do so increasingly often, since the archive is historical by design and the
-catalogue moves on."""
-
 
 def maturity_urls():
     """The reference-dataset and compile URLs `maturity-render.py` links a maturity document to."""
@@ -1024,7 +858,7 @@ def maturity_urls():
 def documents(folder):
     """The rendered documents in a unit's folder — the files the checks are about."""
     return [fn for fn in sorted(os.listdir(folder))
-            if fn.endswith(".md") and fn not in NOT_A_DOCUMENT]
+            if fn.endswith(".md")]
 
 
 def load(unit):
@@ -1045,8 +879,8 @@ CLOSE = "@@CLOSE@@"
 """**The window's closing date is rendered as a sentinel and substituted on write.**
 
 The close is not content: it is a fact about the build. It appears in `period:`, in the title, in
-the H1, in the opening paragraph and — in the progress report — in every movement table's header,
-and masking `period:` alone left the other five copies to move the digest every day. The document
+the H1, in the opening paragraph and in table headers,
+and masking `period:` alone left the other copies to move the digest every day. The document
 is therefore *built* with this token wherever the close is printed, digested in that form, and the
 real date substituted only when the file is actually written. Nothing is masked and nothing is
 lost: two builds a week apart are byte-identical up to this one token, so they digest alike, and
@@ -1130,8 +964,6 @@ def would_change(unit, fn, today):
         with contextlib.redirect_stdout(io.StringIO()):
             if fn.endswith("-monthly.md"):
                 render_monthly(unit, today, month)
-            elif fn.endswith("-progress.md"):
-                render_progress(unit, today, month, 12)
             else:
                 return True
         path = os.path.normcase(os.path.abspath(os.path.join(load(unit)[0], fn)))
@@ -1170,8 +1002,8 @@ def write(path, out, unit, note, today=None, close=None):
     failed in the one direction that matters: with no digest to compare against it fell back to
     comparing the render with the file, which is the exact mistake the paragraph above exists to
     reject — the renderer carries the prose across *from that file*, so a hand-written block
-    reproduces itself and the comparison sees nothing. It was demonstrated on `SLE-progress.md`,
-    whose prose was edited and which kept a compiled date four days older than its content, and
+    reproduces itself and the comparison sees nothing. It was demonstrated on Sierra Leone's progress
+    report, whose prose was edited and which kept a compiled date four days older than its content, and
     it would have swallowed BUILD's whole drafting backlog, since writing prose into a block is
     precisely the change it cannot see. Stamping today is exact from the next build onward and
     wrong only in the safe direction, on the one build where the field arrives."""
@@ -1205,7 +1037,7 @@ def render(unit, today):
     # from the CLI — but it guards the function rather than the caller, because the cost of a
     # caller added later that does not know the rule is a baseline overwritten by a build that
     # reports success. Skipping, not failing: a unit whose status is maintained elsewhere has not
-    # gone wrong, and a non-zero here would stop the monthly and progress renders behind it.
+    # gone wrong, and a non-zero here would stop the monthly render behind it.
     if initialised(unit):
         print(f"{unit}: status is the STATUS-INIT baseline — not re-rendered from the ledger")
         return 0
@@ -1446,8 +1278,7 @@ def render_monthly(unit, today, month, end=None):
             f"*Nothing moved. No system or instrument on {name}'s ledger took a new position from "
             f"a source published between {start} and {CLOSE}. An absence of movement is a finding "
             f"and is reported as one: the current position of each system and instrument is in "
-            f"the status report, and the comparison over the last twelve months in the progress "
-            f"report.*",
+            f"the status report.*",
             "",
         ]
         return write(path, out, unit, f"nil — no row moved in {start} to {end}", today, end)
@@ -1470,244 +1301,9 @@ def render_monthly(unit, today, month, end=None):
                  today, end)
 
 
-def render_progress_movement(unit, today, month, window, end=None):
-    """Progress — the movement ledger over a window, prior_* against current.
-
-    **The region path.** Countries moved to the indicator frame on 2026-08-26
-    (`render_progress_indicators()`); this is the document XAF, XSA and XWA still issue, and
-    the only one they issue. Unchanged in behaviour.
-
-    It is the only one of the three that can truthfully say nothing changed, and it must be willing
-    to. A ***Not held*** row has no position at either end, so it is counted rather than tabled."""
-    folder, ledger, gaps = load(unit)
-    if not ledger:
-        print(f"{unit}: ledger is empty — nothing to render")
-        return 1
-    ordered, subj = sections(unit)
-    prof = profile(unit)
-    urls = citable()
-    path = os.path.join(folder, f"{unit}-progress.md")
-    start, end = month_bounds(month, window, end or today)
-    block, keep, dropped = blocker(path, subj)
-    not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
-    held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
-    name = place_name(unit)
-
-    def ends(r):
-        """(position at start, position at end, movement) — read off the ledger.
-
-        `position_start` and `position_end` carry the **substance** of each position, not its
-        label: "30 branches, five banks (2025-08)" against "296 branches, four banks". Where the
-        base establishes the thing did not exist, `position_start` says so. Only a row that
-        leaves it empty falls back to ***Baseline not held***."""
-        a = (r.get("position_start") or "").strip()
-        b = (r.get("position_end") or "").strip()
-        move = (r.get("movement") or "").strip()
-        # Only the end position is cited: it is the position this run established.
-        b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('published') or 'undated'})"
-        # **No start position is one value, however the ledger words it** *(Bill, 2026-09-11)*.
-        # An empty cell, "Not held", "No account held" and the rest all print as a boxed
-        # ***Baseline not held***, and the row's Progress follows: movement with nothing to
-        # measure it from is what *Baseline not held* now means, so an `Advanced` on a row with
-        # no start is not a Movement.
-        if not a or a.strip("* ").lower() in NO_BASELINE:
-            a, move = mark(BASELINE_NOT_HELD), BASELINE_NOT_HELD
-        # The converse slip: "Did not exist" *is* a start position, and `report-layer.md` §3
-        # makes a thing that did not exist at the start a movement, never a missing baseline.
-        # 19 region rows carried both on 2026-09-11.
-        elif a.lower() == "did not exist" and stem(move) == BASELINE_NOT_HELD:
-            move = MOVEMENT
-        return a, b, as_progress(move or NO_CHANGE)
-
-    # A row whose most recent record was published after the window closed belongs to the status
-    # report, not to a comparison it post-dates. Counted, named, kept out of the movement tables.
-    after = [r for r in held if (r.get("published") or "") > end]
-    held = [r for r in held if r not in after]
-    rows_ends = {r["row_id"]: ends(r) for r in held}
-
-    def mv(r):
-        return stem(rows_ends[r["row_id"]][2])
-
-    movers = [r for r in held if mv(r) in (MOVEMENT, "Stalled", "Regressed", "Closed")]
-    unbased = [r for r in held if mv(r) == BASELINE_NOT_HELD]
-    steady = [r for r in held if mv(r) == NO_CHANGE]
-    # The title carries the window as months rather than as two ISO dates *(Bill, 2026-08-25)*:
-    # "August 2025 – August 2026" is the span a reader is being offered, and it needs no `CLOSE`
-    # sentinel because it only moves when the window crosses into a new month, which is a real
-    # change to the document. The movement tables below still print the exact close, where the
-    # exact date is the point.
-    span = month_span(start, end)
-    opener = ([f"*Compiled {today} by Claude Opus from the documents in the Corpus repository. "
-               f"{prof['sections_note']} Each row sets the position at the start of the period "
-               f"against the position at the end, and the Progress column says how it moved. The "
-               f"period runs to the date of issue rather than to the last month's close.*", ""]
-              if prof["sections_note"] else [])
-    out = front(f"{name} — progress report, {span}", today, unit, len(ledger), not_held,
-                period=f"{start} to {CLOSE}") + [
-        f"# {name}: progress report, {span}",
-        "",
-    ] + opener + [
-        f"*Of {len(ledger)} {prof['objects']} on this place's ledger, {len(movers)} changed "
-        f"position between {start} and {CLOSE}, {len(steady)} did not, {len(unbased)} carry no "
-        f"stated baseline, and {not_held} {'is' if not_held == 1 else 'are'} ***Not held*** at "
-        f"both ends."
-        + (f" A further {len(after)} took a position dated after {CLOSE} and are carried in the "
-           f"status report rather than compared here.*" if after else "*"),
-        "",
-        shape_line(unit, start, end),
-        "",
-        MOVE_VOCAB,
-        "",
-        "## Summary of the period",
-        "",
-        block("summary"),
-    ]
-    # Movement first within a subject group: an unchanged row is reference matter, a moved
-    # one is the report.
-    rank = {NO_CHANGE: 2, BASELINE_NOT_HELD: 3}
-    for _, section, key in ordered:
-        rows = [r for r in held if section_of(r, subj) == section]
-        # A section with no rows at either end of the window is not printed *(Bill, 2026-08-14)* —
-        # see the note in render_monthly. Only the status report states an absence.
-        if not rows:
-            continue
-        out += ["", f"## {section}", ""]
-        for subject, srows in by_subject(rows):
-            out += [f"### {taxonomy_lib.label(subject)}", "",
-                    f"| {prof['object']} | At {start} | At {CLOSE} | Progress |",
-                    "|---|---|---|---|"]
-            for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
-                a, b, m = rows_ends[r["row_id"]]
-                out.append(f"| {r['name']} | {a} | {b} | {mark(m)} |")
-            out.append("")
-        out.append(block(key))
-    if gaps:
-        out += (["", "## Where the record is thin", ""] + gaps_table(gaps, prof["object"])
-                + ["", block("gaps")])
-    out.append("")
-    return write(path, out, unit, f"{len(movers)} moved, {len(steady)} no change, "
-                 f"{len(unbased)} without a baseline, {not_held} not held, "
-                 f"{note_drop(dropped, unit)}", today, end)
-
-
-def render_progress(unit, today, month, window, end=None):
-    """Progress — dispatched on what kind of unit this is.
-
-    **The indicator frame covers the 54 countries only** *(`progress-report-redesign.md` §1)*.
-    XAF, XSA and XWA issue the progress report and nothing else, and their sections deliberately
-    run from the region's institutions outwards rather than through the taxonomy — a shape the
-    indicator list was not drawn for. So the region keeps the movement ledger it already has,
-    rather than being handed a frame of country questions to answer every time with No
-    evidence. Extending the frame to regions later is possible; doing it silently at a migration
-    is not."""
-    if profile(unit)["sections"]:
-        return render_progress_movement(unit, today, month, window, end)
-    return render_progress_indicators(unit, today, month, window, end)
-
-
-def render_progress_indicators(unit, today, month, window, end=None):
-    """Progress — the fixed indicator frame, one row per indicator, the same set for every country.
-
-    `documentation/progress-report-redesign.md` is the decision record and this is its
-    implementation. The report is no longer an inventory of whatever ledger rows accumulated: its
-    rows are chosen by design, and the question each answers is *what happened on this indicator
-    in the window* rather than a diff of two dated positions the base often never held at both
-    ends. **No evidence** is the answer where the base holds nothing, and it prints like any other
-    row, because the fixed frame is precisely what makes the gaps visible (§4).
-
-    Three properties of the old renderer do not survive, and each is deliberate. There are **no
-    per-Level-1 narrative blocks** — the Developments cell does the narrative's job at the
-    indicator level, and the prose lives in `indicators.csv` rather than in this file, so nothing
-    is carried across and nothing can be dropped. There is **no shape check** — §7 of
-    `report-layer.md` guarded a period comparison, and the frame has replaced the comparison it
-    guarded. And there is **no no-evidence count** (§4): the paragraph at the top says what an
-    empty row means, which a bare number never did.
-    """
-    folder, ledger, gaps = load(unit)
-    if not ledger:
-        print(f"{unit}: ledger is empty — nothing to render")
-        return 1
-    view = indicators_lib.load_unit(REPORTS, unit)
-    if view is None:
-        # **Refused, not rendered empty.** With no mapping file every indicator would resolve to
-        # No evidence, and the render would write a blank frame over a real report and
-        # report success — the same unrecoverable shape `initialised()` keeps off the STATUS-INIT
-        # baseline, where "the render succeeds, the file is well-formed, and what it replaced is
-        # only in git". The mapping pass is what fills this file; until it has run for this unit,
-        # the old document is better than a correct rendering of nothing.
-        print(f"{unit}: no {os.path.relpath(indicators_lib.unit_path(REPORTS, unit), ROOT)} — "
-              f"the indicator mapping pass has not run for this unit, so there is nothing to "
-              f"render the frame against. Refusing rather than writing a frame of No evidence rows over "
-              f"the existing report.")
-        return 1
-
-    ordered, _subj = sections(unit)
-    prof = profile(unit)
-    urls = citable()
-    path = os.path.join(folder, f"{unit}-progress.md")
-    start, end = month_bounds(month, window, end or today)
-    name = place_name(unit)
-    span = month_span(start, end)
-    known = {r["row_id"] for r in ledger}
-    unresolved, counts = [], collections.Counter()
-
-    out = front(f"{name} — progress report, {span}", today, unit, len(ledger),
-                sum(1 for r in ledger if stem(r["status"]) == NOT_HELD),
-                period=f"{start} to {CLOSE}",
-                extra={"indicators": len(indicators_lib.frame())}) + [
-        f"# {name}: progress report, {span}",
-        "",
-        FRAME_NOTE,
-        "",
-        f"*The period is {start} to {CLOSE}.*",
-        "",
-        PROGRESS_VOCAB,
-        "",
-    ]
-    for chapter, rows in indicators_lib.by_chapter([s for _, s, _ in ordered]):
-        # **Every chapter prints, and so does every indicator under it.** The old renderer skipped
-        # a section with no rows, on the rule that only the status report states an absence. That
-        # rule belonged to a document whose rows arrived; here the absence *is* the row, and a
-        # chapter dropped for holding nothing would take the frame's whole point with it.
-        out += ["", f"## {chapter}", "",
-                "| Topic | Indicator | Developments | Progress |", "|---|---|---|---|"]
-        for ind in rows:
-            row = view.get(ind["indicator_id"]) or {}
-            value = (row.get("progress") or "").strip() or NO_EVIDENCE
-            counts[stem(value)] += 1
-            out.append(f"| {ind['topic']} | {ind['indicator']} | "
-                       f"{developments_cell(row, urls, unresolved)} | {mark_progress(value)} |")
-        out.append("")
-    if gaps:
-        out += ["", "## Where the record is thin", ""] + gaps_table(gaps, prof["object"]) + [""]
-    out.append("")
-
-    if unresolved:
-        # Loud, because the fallback is silent in the document: the label survives and the link
-        # does not, so a reader sees a claim with nothing behind it and check G sees one link
-        # fewer rather than one link broken. Check M is what fails the build over it.
-        seen = sorted(set(unresolved))
-        print(f"  !! {unit}: {len(unresolved)} citation(s) in indicator prose did not resolve and "
-              f"rendered as plain text: {', '.join(seen[:6])}{' ...' if len(seen) > 6 else ''}")
-    stray = sorted(i for i in view if i not in indicators_lib.ids())
-    if stray:
-        print(f"  !! {unit}: {len(stray)} row(s) of indicators.csv name an indicator the frame "
-              f"does not hold and rendered nowhere: {', '.join(stray[:4])}")
-    orphan = sorted({rid for r in view.values() for rid in indicators_lib.row_ids(r)} - known)
-    if orphan:
-        print(f"  !! {unit}: {len(orphan)} mapped row_id(s) are not on this ledger: "
-              f"{', '.join(orphan[:4])}")
-    note = ", ".join(f"{n} {v.lower()}" for v, n in counts.most_common())
-    return write(path, out, unit, f"{len(indicators_lib.frame())} indicators — {note}",
-                 today, end)
 
 def check(unit):
     """Check G — every URL in the rendered documents resolves — and checks I, J, L and M.
-
-    I, L and M each run twice for a country: once over the ledger, once over the indicator layer
-    (`check_indicators`, `check_indicator_prose`, `check_indicator_sources`). The rules are the
-    same rules — a closed vocabulary, nothing published unwritten, every claim sourced — asked of
-    the second file the progress report now rests on.
 
     **The status baseline is tested against a wider set, and only the baseline** *(Bill,
     2026-08-15)*. A document compiled from the wiki may cite only what the catalogue holds, which
@@ -1720,7 +1316,7 @@ def check(unit):
     Widening the set does not weaken the test, because set membership is the property that matters:
     a URL synthesised from a remembered pattern is not in *any* of the three, and is indistinguish-
     able from a real one by inspection, which is the only reason this check exists. What would
-    weaken it is applying the wider set to the monthly and the progress report, so the widening is
+    weaken it is applying the wider set to the monthly, so the widening is
     per file and keyed on the document actually being a baseline."""
     held = set(slug_urls().values())
     # A record that documented having no URL links to its own row in Corpus's catalogue
@@ -1755,15 +1351,8 @@ def check(unit):
     print(f"check G: {'PASS' if not bad else 'FAIL — ' + str(bad) + ' link(s) not in index/'}")
     return ((1 if bad else 0) | check_vocab(unit) | check_asof(unit)
             | check_narrative(unit) | check_sourced(unit)
-            # The indicator halves of I, L and M. Kept as separate functions rather than folded
-            # into the three above because each reads a different file — the frame and the unit's
-            # view of it, not the ledger — and because a country that has not yet been through
-            # the mapping pass has to skip them without skipping the ledger checks beside them.
-            | check_indicators(unit) | check_indicator_prose(unit)
-            | check_indicator_sources(unit)
             # N to S, the maturity assessment's (`lint-maturity.py`), over the unit's snapshot
-            # editions and the stage columns of the same indicators.csv. They skip a unit with no
-            # snapshot, as the three above skip one with no mapping.
+            # editions and the stage columns of indicators.csv. They skip a unit with no snapshot.
             | _maturity_lint().check_unit(unit))
 
 
@@ -1857,31 +1446,22 @@ def check_asof(unit):
     close and the date now move only when the document does. What remains is a genuine lag — a
     document can change for a structural reason without new evidence — and it is disclosed rather
     than judged, because a window running to a quiet tail is a true statement about a real period,
-    and any threshold on it would be invented.
-
-    The second half of §6's rule — no period comparison without the shape check recorded — is
-    checked here too, **of the region document alone** *(2026-08-26)*.
-    `render_progress_movement()` emits the line unconditionally, so this asserts that it stayed.
-    A country progress report is no longer a period comparison: the indicator frame replaced the
-    diff of two dated positions, and §7's check retired with the thing it guarded
-    (`progress-report-redesign.md` §8). The `period:` half of this function is unaffected — the
-    window is still real and still stated, so the lag note below still has its date."""
+    and any threshold on it would be invented."""
     folder, ledger, _ = load(unit)
     pubs = [(r.get("published") or "").strip() for r in ledger]
     newest = max([p for p in pubs if p] or [""])
     # **A monthly is dated against the rows a monthly carries** *(2026-09-16)*. A `kind: measure`
-    # row belongs to the progress report only (`report-layer.md` §1), so moving one leaves the
-    # monthly's content untouched and its `compiled:` where it was — correct, and yet a ledger-wide
-    # `newest` then failed the monthly for not showing a row it is not allowed to show, with a
-    # re-render as the stated repair that could not clear it. The progress report keeps the
-    # ledger-wide date, because measures are its business.
+    # row is never in a monthly (`report-layer.md` §1), so moving one leaves the monthly's content
+    # untouched and its `compiled:` where it was — correct, and yet a ledger-wide `newest` then
+    # failed the monthly for not showing a row it is not allowed to show, with a re-render as the
+    # stated repair that could not clear it.
     pubs_doc = [(r.get("published") or "").strip() for r in ledger
                 if (r.get("kind") or "instrument").strip() != "measure"]
     newest_monthly = max([p for p in pubs_doc if p] or [""])
     if not newest:
         print("check J: PASS (no dated source on this ledger)")
         return 0
-    bad, lag = [], None
+    bad = []
     init = initialised(unit)
     for fn in documents(folder):
         # The STATUS-INIT baseline is not derived from this ledger, so the ledger cannot date it
@@ -1901,24 +1481,8 @@ def check_asof(unit):
         elif m and against and m.group(1) < against:
             bad.append(f"{fn}: compiled {m.group(1)}, but the ledger cites a source published "
                        f"{against} — the document does not yet show it, re-render")
-        if fn.endswith("-progress.md"):
-            # **The shape check is asserted of the region document only** *(2026-08-26)*. §7's
-            # rule is "no period comparison without the shape check recorded", and a country
-            # progress report no longer makes a period comparison: the indicator frame replaced
-            # the diff of two dated positions the check was guarding, so requiring the line here
-            # would fail every country over the absence of a guard on something it no longer
-            # does. The region still compares positions across a window and still records it.
-            if profile(unit)["sections"] and "Shape check" not in text:
-                bad.append(f"{fn}: no shape check — §7 requires it before any period comparison")
-            p = re.search(r"^period: \d{4}-\d{2}-\d{2} to (\d{4}-\d{2}-\d{2})", text, re.M)
-            if p:
-                lag = (datetime.date.fromisoformat(p.group(1))
-                       - datetime.date.fromisoformat(newest)).days
     for line in bad:
         print("     ", line)
-    if lag and lag > 0:
-        print(f"      note: the progress window closes {lag} day(s) after the newest source on "
-              f"this ledger — a true window over a quiet tail, disclosed not judged")
     print(f"check J: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
     return 1 if bad else 0
 
@@ -1992,181 +1556,18 @@ def check_sourced(unit):
     return 1 if bad else 0
 
 
-def check_indicators(unit):
-    """Check I's indicator half — the frame's own closed set, and what is decidable about it.
-
-    **What is testable here is narrower than the vocabulary** *(`progress-report-redesign.md`
-    §3)*. Exactly one boundary in the Progress vocabulary is machine-decidable — *No evidence*
-    means the base holds nothing on this indicator, which is the same statement as *no ledger row
-    maps to it*, and that is checkable in both directions. The other five are the drafter's
-    judgement and always will be: a row published inside the window can restate a standing
-    position, so "something was published" does not separate *Advanced* from *No change*, and no
-    amount of machinery will make it. What a check can do for those is test that the value is in
-    the set, that *Mixed* carries the clause §3 makes mandatory, and that every id and every
-    mapped row actually exists.
-
-    So the rules are:
-
-    - the value is in `PROGRESS`, testing the stem;
-    - *No evidence* iff no row maps to the indicator — **both directions**, because the two
-      failures are different mistakes. A No evidence row with rows mapped to it means the drafter
-      did not look at evidence the base holds. A non-No-evidence row with nothing mapped means a
-      claim resting on nothing at all, which is check M's rule one level up;
-    - *Mixed* carries a qualifying clause naming which way each instrument moved;
-    - every `indicator_id` is in the frame, and appears once;
-    - every mapped `row_id` is on this unit's ledger.
-    """
-    if profile(unit)["sections"]:
-        return 0                        # a region issues the movement document, not the frame
-    _, ledger, _ = load(unit)
-    view = indicators_lib.load_unit(REPORTS, unit)
-    if view is None:
-        print("check I (indicators): SKIP — the mapping pass has not run for this unit")
-        return 0
-    frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
-    known = {r["row_id"] for r in ledger}
-    bad = []
-    seen = set()
-    path = os.path.relpath(indicators_lib.unit_path(REPORTS, unit), ROOT)
-    for iid, row in view.items():
-        if iid not in frame:
-            bad.append(f"{iid}: not an indicator the frame holds — the row renders nowhere")
-            continue
-        if iid in seen:
-            bad.append(f"{iid}: named twice in {path}")
-        seen.add(iid)
-        value = (row.get("progress") or "").strip()
-        if not value:
-            bad.append(f"{iid}: no progress value — the frame prints a row for every indicator, "
-                       f"so an empty one is a question left unanswered, not an absent row")
-            continue
-        if stem(value) not in PROGRESS:
-            bad.append(f"{iid}: progress {value!r} is outside the vocabulary")
-        mapped = indicators_lib.row_ids(row)
-        for rid in mapped:
-            if rid not in known:
-                bad.append(f"{iid}: maps {rid!r}, which is not on this unit's ledger")
-        if stem(value) == NO_EVIDENCE and mapped:
-            bad.append(f"{iid}: No evidence, but {len(mapped)} ledger row(s) map to it — the "
-                       f"base holds evidence this row says it does not")
-        if stem(value) != NO_EVIDENCE and not mapped:
-            bad.append(f"{iid}: states {stem(value)!r} with no ledger row mapped to it, so the "
-                       f"claim rests on nothing the base holds")
-        if stem(value) == MIXED and not (value.partition(",")[2] or "").strip():
-            bad.append(f"{iid}: Mixed with no qualifying clause — §3 requires it to name which "
-                       f"instruments moved which way")
-    for line in bad:
-        print("     ", line)
-    print(f"check I (indicators): {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
-    return 1 if bad else 0
-
-
-def check_indicator_prose(unit):
-    """Check L's indicator half — no indicator asserts something and then says nothing.
-
-    The check-L equivalent `progress-report-redesign.md` §5 specifies: **an indicator whose
-    Progress is anything but No evidence and whose Developments is empty fails**. It is the same
-    rule as the narrative one it replaces — a section published with nothing said about it — moved
-    down to the row, which is where the prose now lives.
-
-    The converse is checked too, and it is not symmetry for its own sake: a No evidence row
-    carrying prose is a row whose value and whose text disagree, and the value is the one a reader
-    scanning the Progress column will believe.
-
-    Both texts are required where either is. The terse summary is what the table shows and the
-    full record is what the expander holds; a row with a summary and no record has an expander
-    that opens on nothing, and a row with a record and no summary is blank in the only column most
-    readers will read.
-    """
-    if profile(unit)["sections"]:
-        return 0
-    view = indicators_lib.load_unit(REPORTS, unit)
-    if view is None:
-        print("check L (indicators): SKIP — the mapping pass has not run for this unit")
-        return 0
-    bad = []
-    for iid in sorted(view):
-        row = view[iid]
-        value = stem((row.get("progress") or "").strip() or NO_EVIDENCE)
-        summary = (row.get("summary") or "").strip()
-        full = (row.get("developments") or "").strip()
-        if value == NO_EVIDENCE:
-            if summary or full:
-                bad.append(f"{iid}: No evidence, but carries prose — the value says the base "
-                           f"holds nothing and the text says otherwise")
-            continue
-        if not summary:
-            bad.append(f"{iid}: {value}, with no summary — the table's Developments cell would "
-                       f"print empty beside a stated position")
-        if not full:
-            bad.append(f"{iid}: {value}, with no developments — the row's expander would open "
-                       f"on nothing")
-    for line in bad:
-        print("     ", line)
-    print(f"check L (indicators): "
-          f"{'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' unwritten row(s)'}")
-    return 1 if bad else 0
-
-
-def check_indicator_sources(unit):
-    """Check M's indicator half — every claim in the drafted prose cites a source the base holds.
-
-    Check M's rule is *every piece of evidence has a source*, and indicator prose is evidence: it
-    is the part of the progress report a reader actually reads. The same two failures are reported
-    apart here for the same reason they are on the ledger — a slug the base does not hold is a
-    mistake in the prose, while a slug held without a `url:` is an uncitable record and OSINT's to
-    fix.
-
-    **A raw URL is refused rather than resolved** *(`progress-report-redesign.md` §2)*. The prose
-    cites the base by slug and the renderer resolves it, so an `http://` written directly into
-    `indicators.csv` is a claim pinned to an address the catalogue cannot correct and may not even
-    hold — indistinguishable, once rendered, from a citation that went through the base.
-
-    A stated position with no citation at all is not caught here: it is caught by check I, which
-    requires a mapped ledger row behind every value that is not No evidence, and by check L, which
-    requires the prose to exist. This asks only that what the prose *does* cite is real.
-    """
-    if profile(unit)["sections"]:
-        return 0
-    view = indicators_lib.load_unit(REPORTS, unit)
-    if view is None:
-        print("check M (indicators): SKIP — the mapping pass has not run for this unit")
-        return 0
-    urls, held = citable(), raw_slugs()
-    bad = []
-    for iid in sorted(view):
-        row = view[iid]
-        for field in ("summary", "developments"):
-            for m in SLUG_CITE.finditer(row.get(field) or ""):
-                target = m.group(2)
-                if target.startswith(("http://", "https://")):
-                    bad.append(f"{iid}/{field}: cites the URL {target!r} directly — this prose "
-                               f"cites the base by slug and the renderer resolves it")
-                elif target not in held:
-                    bad.append(f"{iid}/{field}: cites {target!r}, which the base does not hold — "
-                               f"a mistyped or retired slug, not a source")
-                elif target not in urls:
-                    bad.append(f"{iid}/{field}: cites {target!r}, which the base holds without a "
-                               f"URL and without a `url_note:` — an uncitable record, and "
-                               f"OSINT's to fix")
-    for line in bad:
-        print("     ", line)
-    print(f"check M (indicators): "
-          f"{'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
-    return 1 if bad else 0
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--unit", required=True)
     ap.add_argument("--links", action="store_true")
     ap.add_argument("--render", action="store_true")
-    ap.add_argument("--doc", choices=("status", "monthly", "progress", "all"), default="status")
+    ap.add_argument("--doc", choices=("status", "monthly", "all"), default="status")
     ap.add_argument("--month", help="YYYY-MM (default: the last closed month)")
     ap.add_argument("--end", metavar="YYYY-MM-DD",
                     help="select against this date instead of today. A document whose content "
                          "does not change keeps the window it already prints, whatever is passed "
                          "here")
-    ap.add_argument("--window", type=int, default=12, help="months in the progress window")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--today")
     args = ap.parse_args()
@@ -2189,8 +1590,8 @@ def main():
         today = args.today or datetime.date.today().isoformat()
         month = args.month or last_closed_month(today)
         docs, why = issues(unit)
-        # `--doc all` means all of this unit's documents. A region issues a monthly update and a
-        # progress report, never a status; an initialised country no longer issues a rendered
+        # `--doc all` means all of this unit's documents. A region issues a monthly update, never a
+        # status; an initialised country no longer issues a rendered
         # status report either. Naming a document a unit does not issue is refused rather than
         # rendered — the caller that asked for it (REPORT-MONTHLY over every initialised unit) is
         # right to ask.
@@ -2201,8 +1602,6 @@ def main():
             rc |= render(unit, today)
         if "monthly" in want and "monthly" in docs:
             rc |= render_monthly(unit, today, month, args.end)
-        if "progress" in want and "progress" in docs:
-            rc |= render_progress(unit, today, month, args.window, args.end)
     if args.check:
         rc |= check(unit)
     if not (args.render or args.check):

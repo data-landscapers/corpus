@@ -23,7 +23,7 @@ last_reviewed: 2026-10-03
 
    **"Nothing moves" is about a position the ledger already holds, not about the source** *(corrected 2026-09-10)*. Where the ledger holds **no** position on the thing a source names, the outcome is *mints a row* with `movement: Baseline not held`. **The test is the row test of `report-layer.md` §1 and nothing else** — could a reader name the thing, and could its position be different next quarter — never "did this change in the window".
 
-   **A row that moves or is minted is then mapped** in `outputs/reports/{ISO3}/indicators.csv`, because the progress report renders from the indicator frame and not from the ledger. `documentation/indicator-mapping-conventions.md` is the procedure; the file is maintained like the ledger, never rebuilt.
+   **A row that moves or is minted is then mapped** in `outputs/reports/{ISO3}/indicators.csv` — its `row_ids` only — because the maturity assessment takes its evidence from that mapping. `documentation/indicator-mapping-conventions.md` is the procedure; the file is maintained like the ledger, never rebuilt.
 
 3. **Ask the same source the baseline question** — see *Maintaining the status baseline*. Asked of the record already open, independent of step 2.
 

@@ -2,7 +2,7 @@
 r"""unit-review.py — which place the cycle reviews tonight, and the record of when each was last.
 
     python scripts/unit-review.py next [--poll]   print tonight's units, one a line; exit 1 if none is owed now
-    python scripts/unit-review.py done UNIT --status N --progress N
+    python scripts/unit-review.py done UNIT --status N --mapping N
                                                   stamp UNIT reviewed today, with what it revised
     python scripts/unit-review.py list            the rotation, most overdue first
 
@@ -29,7 +29,7 @@ either joins the rotation unreviewed on the next call, and a row naming a unit i
 is an error rather than a silent survivor.
 
 **What each review revised** *(strategic review 5, R75)*. `done` records the status sections
-and progress cells the review changed, the same two counts its log line carries, and prints
+and indicator mapping cells the review changed, the same two counts its log line carries, and prints
 their mean over the last `ROLLING` reviews. That mean is how much of a report drifted between
 whole reads: under two status sections a unit, BUILD stage 4 is holding. A unit's counts are
 those of its latest review; a `done` without them leaves the counts blank, never zero.
@@ -46,8 +46,8 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROTATION = os.path.join(ROOT, "logs", "unit-review.csv")
 COUNTRIES = os.path.join(ROOT, "lookups", "countries.csv")
-FIELDS = ["unit", "name", "kind", "last_reviewed", "status_revised", "progress_revised"]
-COUNTS = ("status_revised", "progress_revised")
+FIELDS = ["unit", "name", "kind", "last_reviewed", "status_revised", "mapping_revised"]
+COUNTS = ("status_revised", "mapping_revised")
 NIGHT_FROM, NIGHT_TO = 21, 5          # local hours: owed from 21:00 until 04:59
 PER_NIGHT = 2                         # units reviewed per cycle; 62 units -> about a month a round
 ROLLING = 14                          # reviews in the rolling mean: a week at two a night
@@ -71,7 +71,7 @@ def region_names() -> dict[str, str]:
 def places(countries_path: str = COUNTRIES, regions: dict[str, str] | None = None) -> list[dict]:
     """Every unit the rotation must hold, as blank rows."""
     regions = region_names() if regions is None else regions
-    blank = {"last_reviewed": "", "status_revised": "", "progress_revised": ""}
+    blank = {"last_reviewed": "", "status_revised": "", "mapping_revised": ""}
     with open(countries_path, encoding="utf-8-sig", newline="") as f:
         rows = [{"unit": r["iso-3"], "name": r["country-name"], "kind": "country", **blank}
                 for r in csv.DictReader(f) if r["iso-3"] not in regions]
@@ -100,7 +100,7 @@ def load(path: str, expected: list[dict]) -> list[dict]:
     stray = sorted(set(held) - known)
     if stray:
         raise RotationError(f"rotation names units the site does not publish: {', '.join(stray)}")
-    blank = {"last_reviewed": "", "status_revised": "", "progress_revised": ""}
+    blank = {"last_reviewed": "", "status_revised": "", "mapping_revised": ""}
     return [dict(e, **held.get(e["unit"], blank)) for e in expected]
 
 
@@ -117,13 +117,13 @@ def overdue_order(rows: list[dict]) -> list[dict]:
 
 
 def rolling_mean(rows: list[dict], n: int = ROLLING) -> tuple[int, float, float] | None:
-    """`(reviews counted, status mean, progress mean)` over the `n` latest reviews with counts."""
+    """`(reviews counted, status mean, mapping mean)` over the `n` latest reviews with counts."""
     done = [r for r in rows if r["last_reviewed"] and all(r.get(k) for k in COUNTS)]
     done = sorted(done, key=lambda r: (r["last_reviewed"], r["unit"]))[-n:]
     if not done:
         return None
     return (len(done), sum(int(r["status_revised"]) for r in done) / len(done),
-            sum(int(r["progress_revised"]) for r in done) / len(done))
+            sum(int(r["mapping_revised"]) for r in done) / len(done))
 
 
 def mean_line(rows: list[dict]) -> str:
@@ -133,7 +133,7 @@ def mean_line(rows: list[dict]) -> str:
     k, st, pr = m
     verdict = "stage 4 holding" if st < HOLDING else f"stage 4 not holding (under {HOLDING} is)"
     return (f"rolling mean over the last {k} reviews: status {st:.1f} sections, "
-            f"progress {pr:.1f} cells a unit - {verdict}")
+            f"mapping {pr:.1f} cells a unit - {verdict}")
 
 
 def owed_now(poll: bool, now: dt.datetime) -> bool:
@@ -149,7 +149,7 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
     d = sub.add_parser("done")
     d.add_argument("unit")
     d.add_argument("--status", type=int, help="status sections the review revised")
-    d.add_argument("--progress", type=int, help="progress cells the review revised")
+    d.add_argument("--mapping", type=int, help="indicator mapping cells the review revised")
     sub.add_parser("list")
     a = ap.parse_args(argv)
     now = now or dt.datetime.now()
@@ -176,7 +176,7 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
             return 2
         hit[0]["last_reviewed"] = now.date().isoformat()
         hit[0]["status_revised"] = "" if a.status is None else str(a.status)
-        hit[0]["progress_revised"] = "" if a.progress is None else str(a.progress)
+        hit[0]["mapping_revised"] = "" if a.mapping is None else str(a.mapping)
         save(path, rows)
         print(f"{unit} reviewed {hit[0]['last_reviewed']}")
         print(mean_line(rows))
@@ -184,7 +184,7 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
 
     save(path, rows)
     for r in overdue_order(rows):
-        revised = (f"status {r['status_revised'] or '-':>2}  progress {r['progress_revised'] or '-':>2}"
+        revised = (f"status {r['status_revised'] or '-':>2}  mapping {r['mapping_revised'] or '-':>2}"
                    if r["last_reviewed"] else "")
         print(f"{r['unit']}  {r['kind']:<7}  {r['last_reviewed'] or 'never':<10}  {r['name']:<26}  {revised}".rstrip())
     print(mean_line(rows))

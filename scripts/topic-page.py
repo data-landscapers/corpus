@@ -2,10 +2,9 @@
 """topic-page.py — the landing page each topic box on the topics page opens.
 
 Every box on `/topics/` links to `/topics/{slug}/`. A directory is not a page: `site/topics/
-dpi-pay/` holds `dpi-pay-monthly.html`, `dpi-pay-progress.html` and their PDFs, and a link to the
-directory itself 404s. This writes the `index.html` that makes the link land somewhere — the same
-shape as a country's, and for the same reason: a place to choose a document from, with the two
-documents, their editions and their PDFs on it.
+dpi-pay/` holds `dpi-pay-monthly.html` and its PDFs, and a link to the directory itself 404s.
+This writes the `index.html` that makes the link land somewhere — the same shape as a country's,
+and for the same reason: a place to choose a document from, with its editions and PDFs on it.
 
 **The Level-1 category pages are not built any more** *(Bill, 2026-08-24)*. There were ten, one per
 category, written because each sub-topic row on the home page ended with an *All {category}* box
@@ -52,10 +51,7 @@ L1 = {"infra": "ICT Infrastructure", "dpi": "Digital public infrastructure",
 
 KINDS = (("monthly", "Monthly update",
           "What moved this month, place by place — every block carried from that place&rsquo;s own "
-          "monthly update."),
-         ("progress", "Progress report",
-          "Twelve months of movement, indicator by indicator — each indicator&rsquo;s own table "
-          "of the countries with evidence for it."))
+          "monthly update."),)
 
 
 def front_matter(path: Path) -> dict:
@@ -73,7 +69,7 @@ def front_matter(path: Path) -> dict:
 
 
 def period_label(kind: str, period: str) -> str:
-    """A monthly is named by the month it opens in; a progress report states its window."""
+    """A monthly is named by the month it opens in; anything else states its window."""
     if kind == "monthly":
         m = re.match(r"(\d{4})-(\d{2})", period or "")
         return f"{MONTHS[int(m.group(2)) - 1]} {m.group(1)}" if m else ""
@@ -237,8 +233,8 @@ def main() -> int:
             continue
         cat = L1.get(slug.split(".")[0], slug.split(".")[0])
         write(path, label[slug],
-              f"{label[slug]} across Africa: monthly updates compiled place by place and progress "
-              f"reports compiled indicator by indicator from the Data Landscapers base.",
+              f"{label[slug]} across Africa: monthly updates compiled place by place from the "
+              f"Data Landscapers base.",
               e(label[slug]),
               f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '
               f'&nbsp;·&nbsp; page built {built}',

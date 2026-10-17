@@ -65,8 +65,8 @@ git rev-parse HEAD > BUILT-FROM
 ```bash
 python scripts/finance-report.py      # -> outputs/reports/{ISO3}/{ISO3}-finance.md
 rendered=0; failed=0
-for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
-          outputs/reports/*/*-finance.md outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
+for md in outputs/reports/*/*-status.md outputs/reports/*/*-monthly.md \
+          outputs/reports/*/*-finance.md outputs/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
@@ -85,12 +85,12 @@ for md in "R&D/Hyperscaler-dependence/scan/"*/*-hosting.md; do
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | wc -l)
+present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md' ! -name '*-maturity.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
 if [ "$missed" -gt 0 ]; then
   echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
-  find outputs/reports outputs/topics outputs/bulletins -name '*.md'        ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
+  find outputs/reports outputs/topics outputs/bulletins -name '*.md' ! -name '*-maturity.md' | grep -Ev -- '-(status|monthly|finance|bulletin)\.md$'
   exit 1
 fi
 if [ "$failed" -gt 0 ]; then
@@ -119,14 +119,6 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 ```
 
 **`topic-page.py` and `region.py` run after Step 2** — both read what Step 2 rendered. The finance CSVs are dated editions, written before the pages that link them by name.
-
-## Step 4a — build the two progress tables
-
-```bash
-python scripts/progress.py        # -> site/progress/ and site/progress/countries/
-```
-
-Also after Step 2. It writes no edition, so it is safe to run alone after an edit to `content/progress-topics.md` or `content/progress-countries.md`.
 
 ## Step 5 — build the catalogue page
 

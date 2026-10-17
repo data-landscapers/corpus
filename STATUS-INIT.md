@@ -119,4 +119,4 @@ The five `geopol.*` slugs, `data.satellite` and `finance.mou` have no indicator 
 
 ## What this process never does
 
-Touches `ledger.csv`, the monthly or the progress report. Writes anywhere but `outputs/reports/{ISO3}/`. Cites a link it has not resolved. States a `borderline` fact as written. Picks between two equal-tier sources that disagree. Puts a caveat, a hedge or a word about its own evidence on the page. Narrates a disagreement. Uses a `[PROPOSED]` indicator. Writes `finance.budget`. Pads a thin section.
+Touches `ledger.csv` or the monthly. Writes anywhere but `outputs/reports/{ISO3}/`. Cites a link it has not resolved. States a `borderline` fact as written. Picks between two equal-tier sources that disagree. Puts a caveat, a hedge or a word about its own evidence on the page. Narrates a disagreement. Uses a `[PROPOSED]` indicator. Writes `finance.budget`. Pads a thin section.

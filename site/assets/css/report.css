@@ -308,63 +308,6 @@ table.hosting-inst td:nth-child(2) { color: var(--ink-light); }
 table.hosting-inst td:nth-child(n+3):nth-child(-n+6),
 table.hosting-inst th:nth-child(n+3):nth-child(-n+6) { text-align: right; }
 
-/* Indicator frame (country progress reports): topic | indicator | developments
-   | progress. The Developments column is the document — terse summary plus the
-   row's expander — so it takes the room the other three do not need. Topic
-   repeats down a chapter and is set light, because it is there to locate the
-   row rather than to be read. */
-table.indicator td:nth-child(1), table.indicator th:nth-child(1) { width: 17%; }
-table.indicator td:nth-child(2), table.indicator th:nth-child(2) { width: 21%; }
-table.indicator td:nth-child(3), table.indicator th:nth-child(3) { width: 46%; }
-table.indicator td:nth-child(4), table.indicator th:nth-child(4) { width: 16%; }
-table.indicator td:nth-child(1) { color: var(--ink-faint); }
-table.indicator td:nth-child(2) { font-weight: 600; }
-table.indicator td:nth-child(3) { font-family: var(--serif); text-transform: none;
-  letter-spacing: 0; }
-
-/* The same frame sliced by subject (topic progress reports): country |
-   developments | progress. Three columns rather than four — the subject is the
-   heading above the table, so it is not repeated down it — and the room the
-   Topic column gave up goes to Developments, which carries the same prose and
-   the same expander here as it does there. */
-table.topic-progress td:nth-child(1), table.topic-progress th:nth-child(1) { width: 20%; }
-table.topic-progress td:nth-child(2), table.topic-progress th:nth-child(2) { width: 64%; }
-table.topic-progress td:nth-child(3), table.topic-progress th:nth-child(3) { width: 16%; }
-table.topic-progress td:nth-child(1) { font-weight: 600; }
-table.topic-progress td:nth-child(2) { font-family: var(--serif); text-transform: none;
-  letter-spacing: 0; }
-
-/* The row's expander. `summary` is the affordance and has to look like one;
-   the record itself is set apart from the terse summary above it so the two
-   do not read as one paragraph. */
-table.indicator details, table.topic-progress details { margin-top: 0.45rem; }
-table.indicator summary, table.topic-progress summary { cursor: pointer;
-  font-family: "Lato", sans-serif;
-  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em;
-  color: var(--accent); }
-table.indicator details[open] summary,
-table.topic-progress details[open] summary { margin-bottom: 0.35rem; }
-table.indicator details > :not(summary),
-table.topic-progress details > :not(summary) { color: var(--ink-light); }
-
-/* The qualifying clause a Mixed value must carry, set outside its badge. */
-table.indicator .badge-note, table.topic-progress .badge-note { display: block;
-  margin-top: 0.3rem;
-  font-family: var(--serif); font-size: 0.74rem; line-height: 1.35;
-  color: var(--ink-light); text-transform: none; letter-spacing: 0; }
-
-/* Movement (progress reports): instrument | baseline | current | movement.
-   This used to fall through to the gaps widths above, which put 62% on the
-   short retrospective baseline and squeezed the sourced current value —
-   usually the longest cell in the table — into 14%. The current value gets
-   the room instead; the baseline is retrospective, so it is also set light. */
-table.movement td:nth-child(1), table.movement th:nth-child(1) { width: 22%; }
-table.movement td:nth-child(2), table.movement th:nth-child(2) { width: 20%; }
-table.movement td:nth-child(3), table.movement th:nth-child(3) { width: 40%; }
-table.movement td:nth-child(4), table.movement th:nth-child(4) { width: 18%; }
-table.movement td:nth-child(1) { font-weight: 600; }
-table.movement td:nth-child(2) { color: var(--ink-faint); }
-
 .th-note {
   font-weight: 400;
   text-transform: none;
@@ -507,24 +450,6 @@ a.badge:hover::after { opacity: 1; }
   main { min-width: 0; }
 
   .container, .article-body { max-width: none; padding: 0; }
-
-  /* **The indicator expanders print open** (`progress-report-redesign.md` §7).
-     A PDF has no expander and the full record is the document, not an extra.
-     WeasyPrint, which cuts the PDF, has no collapsed state to override — its UA
-     sheet gives `details` a block box and hides nothing — so the only rule the
-     print needs is that the summary line goes: on paper "Full record" labels
-     nothing, since there is no closed state for it to describe.
-
-     **`details > * { display: block }` was here and did real damage** (Bill,
-     2026-09-07 — "padding with a lot of white space"). It was written to force
-     the expander open and never did, because nothing was holding it shut; what
-     it did instead was block-level every direct child of the element. A `<br>`
-     became an empty line box of its own, and every top-level `<a>` broke its
-     sentence onto three lines — one before the link, one for it, one after. A
-     measured Developments cell fell from 246pt to 164pt when the rule went,
-     with no content lost. */
-  table.indicator details > summary,
-  table.topic-progress details > summary { display: none; }
 
   /* Fixed layout makes the declared column percentages binding, so long cell
      text wraps instead of widening the table. */

@@ -37,7 +37,7 @@ The "commit anything outstanding" line runs **after** the gate: running it first
 
 **A held-off document is not restyled**, because the PDF embeds the stylesheet: a CSS change reaches new editions only. `--force` cuts every edition and is a decision, not a habit. Assets are stamped with a digest of their own bytes (`main.css?v=22ef527a`), so the query string changes exactly when the file does.
 
-**The count is asserted because a shrinking loop is silent**: a rename moves filenames out of the glob, the loop renders a subset with a zero exit, and `site/` — never purged — serves the old pages indefinitely. The assertion enumerates without a pattern. `progress-narrative-archive.md` is excluded **by exact filename**, and nothing else is forgiven.
+**The count is asserted because a shrinking loop is silent**: a rename moves filenames out of the glob, the loop renders a subset with a zero exit, and `site/` — never purged — serves the old pages indefinitely. The assertion enumerates without a pattern. Only the maturity documents, which publish elsewhere, are excluded, and nothing else is forgiven.
 
 **The two ways of coming up short are different failures.** A document the loop **never listed** stops the run. A document **tried and failed** does not: it keeps its previous render either way, so withholding the other pages protects nothing.
 
@@ -45,11 +45,11 @@ The "commit anything outstanding" line runs **after** the gate: running it first
 
 `home.py` writes three pages from one set of catalogue counts — home, the country matrix, the taxonomy matrix. The topics page prints `lookups/taxonomy.csv` in its order and wording, so it goes stale when a subject is added there.
 
-**`topic-page.py`, `region.py` and `progress.py` run after Step 2** because each reads what Step 2 actually rendered: the landing page a topic box opens, a region's Reports section, an indicator row's bookmark inside a topic progress report.
+**`topic-page.py` and `region.py` run after Step 2** because each reads what Step 2 actually rendered: the landing page a topic box opens, a region's Reports section.
 
-**`region.py` reuses `country.py`'s machinery** — report rows, the finance pivot, the catalogue cut. Regions differ in one thing: a region issues a monthly update and a progress report, never a status (`REPORT-REGION.md`). **`site/metadata/non-state-finance-metadata.csv` is one field dictionary for the whole site**, hand-maintained and undated because it describes a shape, not a finding; both builders refuse to build without it.
+**`region.py` reuses `country.py`'s machinery** — report rows, the finance pivot, the catalogue cut. Regions differ in one thing: a region issues a monthly update, never a status (`REPORT-REGION.md`). **`site/metadata/non-state-finance-metadata.csv` is one field dictionary for the whole site**, hand-maintained and undated because it describes a shape, not a finding; both builders refuse to build without it.
 
-**Progress is one builder and two readings of one grid**: a 54 × 121 frame with a value in every cell, counted down the columns for `/progress/` and down the rows for `/progress/countries/`. The row sums are asserted — a build where one does not has misread a report. **It reads the published reports, not `indicators.csv`**, whose per-country CSV holds only the rows carrying evidence, so *No evidence* stays a number a report states rather than a subtraction. `check_links()` refuses to build on a missing report or a lost `id`: a dead anchor on the most linked-to page is a defect.
+**The progress tables retired on 2026-10-17** *(Bill)* with the progress reports; `/progress/` and `/progress/countries/` are redirect stubs to `/maturity/`, written by hand.
 
 ## Step 5 — the catalogue
 

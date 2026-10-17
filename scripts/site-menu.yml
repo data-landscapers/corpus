@@ -10,15 +10,10 @@
   url: https://data-landscapers.io/about/
 - label: Corpus
   url: https://corpus.data-landscapers.io/
-- label: Progress
-  url: https://corpus.data-landscapers.io/progress/
-  children:
-    - label: Topics
-      url: https://corpus.data-landscapers.io/progress/
-    - label: Countries
-      url: https://corpus.data-landscapers.io/progress/countries/
 - label: Bulletin
   url: https://corpus.data-landscapers.io/bulletin/
+- label: Maturity
+  url: https://corpus.data-landscapers.io/maturity/
 - label: Countries & Regions
   url: https://corpus.data-landscapers.io/countries/
 - label: Topics

@@ -88,7 +88,7 @@ PARENTS = {f"{SITE_BASE}/catalogue/#dataset", f"{SITE_BASE}/finance/#dataset",
 # have no block yet, and a linter that failed over work nobody has done is a linter that gets
 # switched off.
 DOCUMENT_PAGE = re.compile(
-    r"^(reports/[^/]+/[^/]+|topics/[^/]+/[^/]+-(monthly|progress)|bulletin/index)\.html$")
+    r"^(reports/[^/]+/[^/]+|topics/[^/]+/[^/]+-monthly|bulletin/index)\.html$")
 
 DOC_REQUIRED = ("@context", "@type", "headline", "description", "url",
                 "datePublished", "dateModified", "author", "publisher", "about")

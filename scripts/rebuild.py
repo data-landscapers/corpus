@@ -354,8 +354,8 @@ def main():
             # set of living documents and a moved row can show in any of them, so re-rendering only
             # the live one leaves the others behind their own ledger — which is exactly what check
             # J then reports. `--doc all` means all of *this* unit's documents, so a country
-            # renders three and a region renders two (a monthly and a progress report, never a
-            # status — `REPORT-REGION.md`).
+            # renders two and a region renders one (a monthly, never a status —
+            # `REPORT-REGION.md`).
             if run_soft("report-render.py", "--unit", u, "--doc", "all", "--render"):
                 declined.append(u)
         if declined:
