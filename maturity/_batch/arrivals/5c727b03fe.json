@@ -1,0 +1,14 @@
+{"slug":"2026-05-01-cpv-id4africa-digital-identity-public-infra","studies":{
+"authentication":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Deck states no authentication service."}}},
+"birthidlink":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Only says CRVS-ID integration is expanding, with no link or event stated."}}},
+"civilregister":{"countries":{"CPV":{"facts":[{"sub_indicator":"civil","aspect":"coverage","value":"target","fact":"IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation).","as_of":"2026-05","date_precision":"month","system":"civil registration","class":"civil"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Only an adults-aged-18+ share (~95%) is given; birth and death registration figures are approximate and do not settle the target."}}},
+"idfrombirth":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No ID system feature stated beyond an adult coverage share."}}},
+"internetusage":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Internet penetration ~70-75% has a detached label and no stated basis as a share of people."}}},
+"mobilepenetration":{"countries":{"CPV":{"facts":[],"systems":[{"system":"mobile penetration","country_label":"~130%","class":"other","platform":"","owner":"","tiers":""}],"note":"~130% is a subscription-style rate, not ownership."}}},
+"registry":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No statement on digital entry at local registration offices."}}},
+"ruralelectrification":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Electricity access ~95% is national, not rural."}}}
+}}

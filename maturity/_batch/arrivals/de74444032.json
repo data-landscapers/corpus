@@ -1,0 +1,199 @@
+{
+ "slug": "2024-11-12-bfa-burkina24-veneem-identifiant-unique-etat-civil",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Ministry of Territorial Administration and Mobility launched on 12 November 2024 the pilot phase of the integrated civil-status management system (VENEEM) in Ouagadougou arrondissement 3, after testing in Komsilga and Ouagadougou since June 2024.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "VENEEM",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VENEEM",
+       "country_label": "Burkina Faso",
+       "class": "civil",
+       "platform": "web and smartphone, works offline",
+       "owner": "Ministry of Territorial Administration and Mobility (MATS)",
+       "tiers": "health facilities and civil-status centres"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A unique civil-status identifier is named but not said to be the ID system's number given at birth registration."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "pilot",
+       "fact": "The director of the unique identifier and civil-status document security said VENEEM, used at health facilities and main centres to declare and register events and print the act on site, is in a pilot in three communes (Ouagadougou arrondissement 3, Komsilga), with all Ouagadougou arrondissements, Bobo-Dioulasso and Komsilga to have it before the end of 2024.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "VENEEM",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "civil",
+       "fact": "Declarations are made on VENEEM at the health facility or main centre, can be entered offline, and are sent to the central level when the connection returns, per the director.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "VENEEM",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VENEEM",
+       "country_label": "Burkina Faso",
+       "class": "civil",
+       "platform": "web and smartphone, works offline",
+       "owner": "Ministry of Territorial Administration and Mobility (MATS)",
+       "tiers": "health facilities and civil-status centres"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "2025-06-27-ner-anp-e-passport-e-id-al-itissal",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "On 27 June 2025 Niger's Interior Ministry signed a memorandum with Libyan firm Al Itissal Al Jadeed for the issue of the Nigerien national identity card, introducing an electronic ID card (E-ID).",
+       "as_of": "2025-06-27",
+       "date_precision": "day",
+       "system": "E-ID (carte nationale d'identité électronique)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-ID (carte nationale d'identité électronique)",
+       "country_label": "Niger",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministère de l'Intérieur",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for NER."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "MoUs on a public-private partnership are signed but no amount is named."
+    }
+   }
+  }
+ }
+}

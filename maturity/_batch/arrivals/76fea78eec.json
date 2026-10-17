@@ -1,0 +1,81 @@
+{
+ "slug": "2026-10-01-ken-sdsri-draft-national-ai-policy-public-participation",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Kenya's State Department for Science, Research and Innovation invited public comments, due 14 October 2026, on its drafted National AI Policy for Science, Research and Innovation.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "National AI Policy for Science, Research and Innovation",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this study's questions for this country."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this study's questions for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this study's questions for this country."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this study's questions for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The State Department for Science, Research and Innovation invited the public to comment on the draft National AI Policy for Science, Research and Innovation, deadline 14 October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "National AI Policy for Science, Research and Innovation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

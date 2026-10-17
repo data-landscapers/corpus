@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-techies-gab-strategie-nationale-ia-atelier",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ministry and UNDP held a three-day co-creation workshop as the first step of Gabon's future national AI strategy, with the draft strategy, a validation workshop and government adoption still to come.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "Stratégie nationale IA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

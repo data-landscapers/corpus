@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "4",
-   "standing": "constituted",
-   "rulings": "ruled",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-013;KEN-007;KEN-001",
-   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. A count of 215 determinations runs to March 2025 with no period, and a commentator's 'over 110 decisions in 2025' is not the authority's own figure.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-013;KEN-007;KEN-016",
+      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. A count of 215 determinations runs to March 2025 with no period, and a commentator's 'over 110 decisions in 2025' is not the authority's own figure.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

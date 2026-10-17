@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,international,standing,member,"The ISO member page lists INNOQ as a correspondent member of ISO, with 5 technical committees as participating member and 9 as observing member.",2026,year,Instituto Nacional de Normalização e Qualidade (INNOQ),adoption,2026-01-01-moz-iso-innoq-member,https://www.iso.org/member/1978.html

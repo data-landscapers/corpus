@@ -1,7 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CIV,Stratégie nationale en matière d'intelligence artificielle,stratégie nationale d'IA,thematic,,,,2026-10-10-xwa-seneplus-ia-afrique-francophone-lignes-directrices
 CIV,Projet d'Accélération Digitale en Côte d'Ivoire (PADCI),PADCI,programme,,Ministry of Digital Transition,,2026-09-30-civ-jeuneafrique-padci-shortlist-compact-numerique-ia
-CIV,Compact numérique et intelligence artificielle,compact numérique et IA,,,PADCI,,2026-09-30-civ-jeuneafrique-padci-shortlist-compact-numerique-ia
 CIV,SNDN 2021-2025 (National Digital Development Strategy),SNDN 2021-2025,national,,Ministry of Digital Transition,national,2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report
 CIV,SNDECI 2024-2028 (Stratégie Nationale de Digitalisation de l'Éducation),SNDECI,ministry-plan,,Ministry of National Education,education sector,2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report
 CIV,Réseau National Haut Débit (RNHD),RNHD,programme,,ANSUT,national backbone,2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report
@@ -9,10 +8,8 @@ CIV,Pacte national pour l'intelligence artificielle,Pacte national pour l'IA,the
 CIV,Feuille de route numérique 2026-2028,feuille de route numérique 2026-2028,ministry-plan,,Ministry of Digital Transition and Technological Innovation,national,2026-09-11-afriksoir-cote-divoire-pacte-national-ia
 CIV,Plan national de développement 2026-2030,PND 2026-2030,development-plan,,government,national,2026-09-11-afriksoir-cote-divoire-pacte-national-ia
 CIV,Stratégie numérique nationale,stratégie numérique nationale,national,,Ministry of Digital Transition and Technological Innovation (MTNIT),national,2026-09-04-civ-afriksoir-world-bank-150m-atelier
-CIV,Plateforme d'interopérabilité de l'administration,plateforme d'interopérabilité,,,SNDI,public administration,2026-09-04-civ-afriksoir-world-bank-150m-atelier
 CIV,Stratégie nationale de développement du numérique,stratégie nationale de développement du numérique,national,,Ministry of Digital Transition,national,2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques
 CIV,Plan national de développement 2026-2030,PND 2026-2030,development-plan,,government,national,2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques
-CIV,Plateforme nationale d'interopérabilité,plateforme nationale d'interopérabilité,,,,public administration,2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques
 CIV,Feuille de Route Numérique 2026-2028,Feuille de Route Numérique 2026-2028,ministry-plan,,Ministry of Digital Transition and Technological Innovation (MTNIT),national,2026-09-02-cote-divoire-mtnit-mistral-partenariat-ia
 CIV,Plan National de Développement 2026-2030,PND 2026-2030,development-plan,,government,national,2026-09-02-cote-divoire-mtnit-mistral-partenariat-ia
 CIV,Stratégie nationale de l'intelligence artificielle à l'horizon 2030 (SNIA 2030),SNIA 2030,thematic,,Ministry of Digital Transition and Digitalisation,national,2026-09-01-gcg-analysis-national-ai-strategies-africa
@@ -37,7 +34,6 @@ CIV,PSSIS 2021-2025 (digital health strategic plan),PSSIS 2021-2025,thematic,,he
 CIV,"PSSD 2026-2030 (digital health strategic plan, in budgeting)",PSSD 2026-2030,thematic,,health ministry,health sector,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 CIV,"Digital transformation roadmap (seven pillars, 40 priority projects)",feuille de route numérique,ministry-plan,,Ministry of Digital Transition and Technological Innovation,national,2026-07-08-digital-roadmap-presented-to-itu-leadership-techreviewafrica
 CIV,Pacte Industrie-Enseignement technique et professionnel (PIETP),PIETP,programme,,Ivorian government with French Tech Abidjan,technical and vocational education,2026-06-29-french-tech-abidjan-education-pact-wearetech
-CIV,Digital strategy of 40 flagship projects across seven pillars,,,,Ministry of Digital Transition and Technological Innovation,national,2026-06-15-starlink-licence-5g-launch-gouv-talk-techafricanews
 CIV,"National digital transformation roadmap (seven pillars, 40 priority projects)",feuille de route numérique,ministry-plan,,Ministry of Digital Transition and Technological Innovation,national,2026-06-02-african-digital-week-2026-techreviewafrica
 CIV,ARTCI Regulatory Council roadmap,feuille de route du Conseil de régulation de l'ARTCI,ministry-plan,,ARTCI,regulator,2026-05-12-artci-regulatory-council-roadmap-techreviewafrica
 CIV,Government digital transformation roadmap for public administration (in consultative shaping),feuille de route de transformation numérique,government,,Ministry of Digital Transition and Technological Innovation,public administration,2026-05-10-huawei-public-administration-strategy-techreviewafrica
@@ -59,7 +55,6 @@ CIV,Stratégies de gouvernance des données et d'intelligence artificielle,,them
 CIV,PADCI,PADCI,programme,,Ministry of Digital Transition,national,2026-04-08-yamoussoukro-alignement-strategique-numerique-linfodrome
 CIV,PARAE,PARAE,programme,,,national,2026-04-08-yamoussoukro-alignement-strategique-numerique-linfodrome
 CIV,SNDECI 2024-28 (national digital education strategy),SNDECI,ministry-plan,,Ministry of National Education,education sector,2026-03-31 Africa we have a data problem
-CIV,EMY 101,EMY 101,,WhatsApp and Messenger,Government of Côte d'Ivoire,national,2026-03-20-emy-101-ai-chatbot-public-services-techafricanews
 CIV,MaPoste,MaPoste,programme,super-app on the national identification number and RNPP,ONECI and La Poste de Côte d'Ivoire,"200+ post offices, national",2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services
 CIV,National AI strategy,,thematic,,,national,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026
 CIV,National AI strategy and data governance strategy,,thematic,,,national,"2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026"
@@ -70,7 +65,6 @@ CIV,Stratégie nationale de développement du numérique 2021-2025,SNNCI 2021-20
 CIV,Projet d'Appui au Renforcement de l'Administration Electronique (PARAE),PARAE,programme,,"government, African Development Bank financed",national,2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies
 CIV,Côte d'Ivoire Solidaire,Côte d'Ivoire Solidaire,development-plan,,President Alassane Ouattara,national,2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies
 CIV,Digital Code (Law No. 2017-803),Code du numérique,directive,,government,national,2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies
-CIV,Digital transformation roadmap presented at the Africa Investment Forum 2025,feuille de route de développement numérique,,,Ministry of Digital Transition,national,2025-11-27-digital-transformation-plan-africa-investment-forum-techafricanews
 CIV,Programme National de Connectivité Rurale (PNCR),National Rural Connectivity Programme,programme,,Ministry of Digital Transition,rural localities,2025-11-27-digital-transformation-plan-africa-investment-forum-techafricanews
 CIV,Stratégie Nationale de Développement du Numérique (SNDN 2021-2025),SNDN 2021-2025,national,,Ministry of Digital Transition and Digitalisation (MTND),national,2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final
 CIV,Stratégie Nationale de Transformation Numérique (STNCI 2025-2035),STNCI 2025-2035,national,,Ministry of Digital Transition and Digitalisation (MTND),national,2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final
@@ -94,11 +88,9 @@ CIV,Stratégie nationale de développement du numérique,Stratégie nationale de
 CIV,Plateforme d'interopérabilité de l'administration publique,plateforme d'interopérabilité,programme,UXP (X-Road inspired),SNDI,twelve first-phase administrations,2025-09-25-plateforme-interoperabilite-administration-fratmat
 CIV,Feuille de route de la gouvernance numérique 2022,feuille de route de la gouvernance numérique,government,,"government, with Digital Nation (Estonia)",public administration,2025-09-25-plateforme-interoperabilite-administration-fratmat
 CIV,Plan stratégique Côte d'Ivoire 2030,plan stratégique « Côte d'Ivoire 2030 »,development-plan,,government,national,2025-09-25-plateforme-interoperabilite-administration-fratmat
-CIV,Stratégie Nationale de Développement du Numérique (SNDCI 2021-2025),Stratégie Nationale de Développement du Numérique,,,,,2025-07-31-artci-adoption-ipv6-fratmat
 CIV,stratégie nationale de migration vers l'IPv6,stratégie nationale de migration vers l'IPv6,thematic,,ARTCI,national,2025-07-31-artci-adoption-ipv6-fratmat
 CIV,National Digital Development Strategy (SNDN),Stratégie Nationale de Développement du Numérique,national,,Ministry of Digital Transition and Digitalization,national,2025-07-15-g42-presight-ai-mou-wearetech
 CIV,data management strategy,,thematic,,,national,2025-07-15-g42-presight-ai-mou-wearetech
-CIV,National Digital Strategy 2025,,,,,,2025-07-11-ivoire-tech-forum-launch-techreviewafrica
 CIV,2021-2025 digital strategy,,national,,Ministry of Digital Transition and Digitalization,national,2025-07-01-digital-transformation-chief-interview-techcabal
 CIV,AI strategy,,thematic,,,national,2025-07-01-digital-transformation-chief-interview-techcabal
 CIV,digital governance strategy,,thematic,,,national,2025-07-01-digital-transformation-chief-interview-techcabal
@@ -108,10 +100,6 @@ CIV,Programme national de connectivité rurale (PNCR),Pncr,programme,,,rural whi
 CIV,National Artificial Intelligence Strategy,stratégie nationale pour l'intelligence artificielle,thematic,,Ministry of Digital Transition and Digitalization,national,2025-03-14-ai-data-governance-strategy-wearetech
 CIV,data governance strategy,stratégie de gouvernance des données,thematic,,Ministry of Digital Transition and Digitalization,national,2025-03-14-ai-data-governance-strategy-wearetech
 CIV,National Rural Connectivity Program (PNCR),Programme national de connectivité rurale,programme,,,rural villages,2025-02-26-telecom-expansion-240-sites-telecomreview
-CIV,Ivory Coast's digital agenda,,,,Ministry of Digital Transition and Digitalization,,2025-02-10-togo-digital-cooperation-wearetech
-CIV,national digital transformation strategy,,,,,,2025-02-03-e-justice-platform-wearetech
-CIV,Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025),Stratégie Nationale de Développement du Numérique,,,,,2025-01-01-cote-divoire-dge-telecommunication-prix-moyens-constates
-CIV,Stratégie Nationale de l'Innovation,Stratégie Nationale de l'Innovation,,,,,2025-01-01-cote-divoire-dge-telecommunication-prix-moyens-constates
 CIV,Stratégie Nationale de la Cybersécurité,Stratégie Nationale de la Cybersécurité,thematic,,,,2025-01-01-cote-divoire-dge-telecommunication-prix-moyens-constates
 CIV,stratégie nationale de l'Intelligence Artificielle et de la gestion des données,stratégie nationale de l'Intelligence Artificielle et de la gestion des données,thematic,,,,2025-01-01-cote-divoire-dge-telecommunication-prix-moyens-constates
 CIV,Datafid,Projet Datafid,programme,,"Expertise France, Afristat and Insee (funded by the Direction générale du Trésor, EUR 2.5m grant)",tax and customs administrations,2024-11-05-afd-numerique-bilan-activite-2021-2023
@@ -123,11 +111,9 @@ CIV,Stratégie Nationale de l'Intelligence Artificielle - SNIA 2030,SNIA 2030,th
 CIV,West Africa Unique Identification for Regional Integration and Inclusion (WURI) program,WURI,programme,,World Bank (with ECOWAS Commission),Côte d'Ivoire in first phase launched 5 June 2018,2020-01-01-smart-africa-blueprint-digital-identity
 CIV,schéma directeur de la gouvernance électronique (e-gouv) 2012-2017,schéma directeur de la gouvernance électronique,government,,Ministère de la Poste et des Technologies de l'Information et de la Communication,national,2011-12-17-economie-numerique-mtn-soutient-la-politique-du-gouvernement-un-dispositif-techn
 CIV,National Digital Transformation Strategy 2025-2035 (NDTS 2035),Stratégie de Transformation Numérique de la Côte d'Ivoire,national,,Ministry of Digital Transition and Digitalization (MTND),national,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
-CIV,National Development Plan 2026-2030,Plan National de Développement 2026-2030,,,,national,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
 CIV,"Results Acceleration Program for Inclusive Digitalization in Côte d'Ivoire (RAPID-CI), Phase 1",RAPID-CI,programme,,Government of Côte d'Ivoire with the World Bank (IDA credit of EUR 128.6 million),national,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
 CIV,PARAE (E-Government Strengthening Support Project),Projet d'Appui au Renforcement de l'Administration Electronique,programme,,,national,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
 CIV,PAGDS (Enhancing Government Effectiveness for Improved Public Services),Projet d'Amélioration de la Gouvernance pour la Délivrance des Services de base aux citoyens,programme,,,national,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
 CIV,African Union Digital Transformation Strategy 2020-2030,,regional,,African Union,continental,2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025
-CIV,Réseau National Haut Débit (RNHD),Réseau National Haut Débit (RNHD),,fibre optic,Government of Côte d'Ivoire,"national; 31,604 km built per the government",2025-09-01-civ-bilan-2011-2025-communication-et-transition-numerique
 CIV,SADA Côte d'Ivoire,SADA Côte d'Ivoire rollout,thematic,,Smart Africa; Ministry of Digital Economy,named as evidence of implementation,2025-01-01-gab-repository-of-national-digital-skills-strategies
 CIV,Plan National de Développement 2021-2025,Programme National de Développement 2021-2025 (PND),development-plan,,Ministère du Plan et du Développement,national; the strategy's activities are linked to it,2022-01-26-civ-strategie-nationale-de-developpement-du-numerique-en-cote-d-ivoire-a-l

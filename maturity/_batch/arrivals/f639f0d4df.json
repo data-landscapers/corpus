@@ -1,0 +1,23 @@
+{
+ "slug": "2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil",
+ "studies": {
+  "registry": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "Tchad",
+       "class": "other",
+       "platform": "SMS, solar-powered",
+       "owner": "ANATS",
+       "tiers": ""
+      }
+     ],
+     "note": "Deck says TASDJIL uses SMS but not where or by whom the birth is entered, so no class can be given."
+    }
+   }
+  }
+ }
+}

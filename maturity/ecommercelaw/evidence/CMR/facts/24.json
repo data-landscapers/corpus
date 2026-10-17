@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "At a CENADI workshop, Professor Jean Louis Fendji listed Cameroon's e-commerce law among the local texts that frame aspects of data protection.",
+   "as_of": "2024-08-14",
+   "date_precision": "day",
+   "system": "loi sur le commerce électronique",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

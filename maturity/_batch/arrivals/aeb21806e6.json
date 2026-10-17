@@ -1,0 +1,74 @@
+{
+ "slug": "2024-01-01-mus-cisd-application-development-unit",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "The CISD page lists the e-Payroll system as launched in October 2020 and revamped in September 2023.",
+       "as_of": "2023-09",
+       "date_precision": "month",
+       "system": "e-Payroll",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "renewed",
+       "value": "live",
+       "fact": "The CISD page lists a revamped e-Payroll System in September 2023.",
+       "as_of": "2023-09",
+       "date_precision": "month",
+       "system": "e-Payroll",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Payroll",
+       "country_label": "e-Payroll",
+       "class": "core",
+       "platform": "GOC Cloud",
+       "owner": "Central Information Systems Division",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "The Central Information Systems Division's Application Development Unit says it designs, develops, deploys and maintains applications for various ministries and government departments on the GOC Cloud.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Application Development Unit",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The Application Development Unit of the ministry's CISD says it fixes bugs and upgrades the applications it develops for ministries.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Application Development Unit",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

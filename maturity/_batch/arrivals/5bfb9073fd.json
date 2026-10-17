@@ -1,0 +1,8 @@
+{"slug": "2024-12-06-cpv-expresso-cvtelecom-concurso-cabo-inter-ilhas", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document mentions AI only as a traffic driver; no government AI use stated."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or AI computing built or hosted in the country."}}},
+"fibrebackbone": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Inter-island submarine cable tender is a sea cable, not capital-to-region land backbone; other."}}},
+"internationalbandwidth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Inter-island cable replacement is domestic; no international route stated."}}}
+}}

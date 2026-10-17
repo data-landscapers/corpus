@@ -1,0 +1,124 @@
+{
+ "slug": "2026-10-15-rwa-nisr-data-catalog-home",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "survey",
+       "value": "published",
+       "fact": "The NISR Data Catalog lists the Rwanda Labour Force Survey 2025 as microdata added on 8 April 2026, and the Integrated Household Living Conditions Survey (EICV7) 2023-2024 added on 18 July 2025.",
+       "as_of": "2026-04-08",
+       "date_precision": "day",
+       "system": "Rwanda Labour Force Survey 2025",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NISR Data Catalog",
+       "country_label": "Rwanda Labour Force Survey 2025",
+       "class": "census",
+       "platform": "microdatabk.statistics.gov.rw",
+       "owner": "National Institute of Statistics of Rwanda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The catalogue home states nothing this study asks."
+    }
+   }
+  }
+ }
+}

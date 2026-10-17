@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-08-tcd-uneca-chad-national-ai-strategy-pre-validation",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "UNECA reports Chad pre-validated its draft National Artificial Intelligence Strategy (2027-2035 priorities) at an N'Djamena workshop, to be submitted to the Government by end-2026.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy",
+       "country_label": "Chad",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Telecommunications, the Digital Economy and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

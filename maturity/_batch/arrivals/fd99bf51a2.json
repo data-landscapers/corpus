@@ -1,0 +1,695 @@
+{
+ "slug": "2026-10-16-atu-secures-endorsements-49-african-proposals-itu-pp26",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "The fourth and final African preparatory meeting for the ITU Plenipotentiary Conference, where the 49 proposals were agreed, was held in Abidjan, Cote d'Ivoire, 15 to 17 September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "ATU African preparatory meetings for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ATU African Common Proposals for ITU PP-26",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

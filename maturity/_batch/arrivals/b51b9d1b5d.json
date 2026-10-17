@@ -1,0 +1,14 @@
+{
+ "slug": "2026-07-08 China funds Namibia digital infrastructure",
+ "studies": {
+  "offsitebackup": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No backup or disaster-recovery site stated; the data centre named is the primary site."
+    }
+   }
+  }
+ }
+}

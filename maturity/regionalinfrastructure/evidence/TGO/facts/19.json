@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Lagos-to-Accra terrestrial fibre route",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lagos-to-Accra terrestrial fibre route",
+   "country_label": "Lagos-Accra via Ghana, Togo, Benin",
+   "class": "shared",
+   "platform": "terrestrial fibre",
+   "owner": "CSquared, Phase3, SBIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

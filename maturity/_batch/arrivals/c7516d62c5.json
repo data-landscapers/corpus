@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-08-bdi-rsf-violence-against-journalists",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "RSF says journalist Sandra Muhoza has been arbitrarily detained since April 2024 for relaying information about an alleged arms distribution in a private WhatsApp group.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Burundi authorities",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on consultation on a digital law or policy."
+    }
+   }
+  }
+ }
+}

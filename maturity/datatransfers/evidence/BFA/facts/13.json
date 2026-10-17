@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-01-bfa-cil-formulaire-autorisation-transfert-etranger",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CIL's annex form is an application for authorisation to transfer personal data to a foreign country, asking about the recipient, destination authority, consent and security measures.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CIL transfer authorisation",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "means",
+   "fact": "The CIL published a blank application form for authorisation of a transfer of personal data abroad.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CIL transfer authorisation form",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

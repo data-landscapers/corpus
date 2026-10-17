@@ -1,0 +1,171 @@
+{
+ "slug": "2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "linked",
+       "fact": "The National Bank of Ethiopia and PAPSS announced on 15 October 2026 that Ethiopia has officially joined the PAPSS network, letting Ethiopian financial institutions connect for cross-border payments.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Afreximbank's release says Ethiopia has officially joined the PAPSS network, enabling Ethiopian financial institutions to connect and make cross-border payments with institutions across Africa.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": "PAPSS is a payment settlement system, held by the cross-border payments row."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  }
+ }
+}

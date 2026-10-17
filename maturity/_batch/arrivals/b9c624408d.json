@@ -1,0 +1,81 @@
+{
+ "slug": "2025-11-19-mwi-maravi-airtel-five-international-fibre-routes",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a national digital strategy."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on accessibility for persons with disabilities."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "Airtel Malawi says its proprietary fibre backbone has been reinforced with new routes from Lilongwe to Salima and Blantyre to Mangochi.",
+       "as_of": "2025-11-19",
+       "date_precision": "day",
+       "system": "Airtel proprietary fibre backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel proprietary fibre backbone",
+       "country_label": "Malawi",
+       "class": "backbone",
+       "platform": "",
+       "owner": "Airtel Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "independent",
+       "fact": "Airtel Malawi says it has increased its international connectivity from three to five fibre routes, including new links through Tanzania and through Mozambique via Nacala.",
+       "as_of": "2025-11-19",
+       "date_precision": "day",
+       "system": "Airtel international fibre routes",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet stated."
+    }
+   }
+  }
+ }
+}

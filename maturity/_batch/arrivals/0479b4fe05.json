@@ -1,0 +1,11 @@
+{"slug":"2024-06-02-bfa-burkina24-oni-banfora-cnib","studies":{
+"authentication":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document covers ID card production, not authentication."}}},
+"birthidlink":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No civil register link stated."}}},
+"censuses":{"countries":{"BFA":{"facts":[{"sub_indicator":"census","aspect":"census","value":"taken","fact":"ONI's director general cites the latest census, RGPH 2019, as the population base, giving 12,477,149 inhabitants aged 15 and over.","as_of":"2019","date_precision":"year","system":"RGPH 2019","class":"census"}],"systems":[{"system":"RGPH 2019","country_label":"RGPH 2019","class":"census","platform":"","owner":"","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"BFA":{"facts":[],"systems":[{"system":"CNIB","country_label":"CNIB","class":"idsystem","platform":"","owner":"ONI","tiers":""}],"note":"Share given for adults 15 and over only (10,308,006 of 12,477,149), not the whole population of all ages."}}},
+"idfrombirth":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document does not say who operates or owns the system platform."}}},
+"idregisters":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No public register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"BFA":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"ONI's director general says 10,308,006 people aged 15 and over are enrolled in the ONI database with a valid CNIB, and ONI runs CNIB production centres in eight regions with a ninth planned at Banfora.","as_of":"2024-06-01","date_precision":"day","system":"CNIB","class":"idsystem"}],"systems":[{"system":"CNIB","country_label":"CNIB","class":"idsystem","platform":"","owner":"ONI","tiers":""}],"note":""}}},
+"refugees":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Says only that millions, including internally displaced people, lack a CNIB; no registration or digital service stated."}}}
+}}

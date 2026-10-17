@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-cmr-iso-member-anor",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Agence des Normes et de la Qualité (ANOR) as Cameroon's ISO member body and says it is a member of the IEC, participating in 4 ISO technical committees and observing 41.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "ANOR",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANOR",
+   "country_label": "Agence des Normes et de la Qualité",
+   "class": "adoption",
+   "platform": "",
+   "owner": "ANOR",
+   "tiers": "member body"
+  }
+ ],
+ "note": ""
+}

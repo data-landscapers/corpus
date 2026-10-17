@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-08-ner-hrw-junta-tightens-grip-free-expression",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Human Rights Watch says a Niamey prosecutor charged lawyer Abrourahamane Lirwana with spreading data likely to disturb public order under Niger's cybercrime law, which shows the law is in force.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "cybercrime law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Human Rights Watch says Lirwana was charged under the cybercrime law and detained from 21 September 2026, with prosecutors seeking five years at a 6 October hearing, and that the junta has detained journalists under it.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cybercrime law",
+   "country_label": "Niger",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

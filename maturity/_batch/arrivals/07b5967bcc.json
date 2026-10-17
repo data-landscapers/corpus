@@ -1,0 +1,279 @@
+{
+ "slug": "2023-11-21-mrt-procedures-enrolement-enfant-rnp",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The government procedures portal (last updated 2023-11-21) describes enrolment of newborns into the national biometric register run by the ANRPTS, where parents already hold a national number (NNI).",
+       "as_of": "2023-11-21",
+       "date_precision": "day",
+       "system": "Registre biométrique national",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The government procedures portal (last updated 2023-11-21) describes a standing procedure to enrol a child born to Mauritanian parents in the population register (national biometric register) run by the ANRPTS, free of charge at citizen reception centres.",
+       "as_of": "2023-11-21",
+       "date_precision": "day",
+       "system": "Registre biométrique national",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre biométrique national (ANRPTS)",
+       "country_label": "MRT",
+       "class": "other",
+       "platform": "",
+       "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Mauritania."
+    }
+   }
+  }
+ }
+}

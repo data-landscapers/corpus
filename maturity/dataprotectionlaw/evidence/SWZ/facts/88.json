@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-29-swz-swazi24-maziya-national-data-policy",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Minister Savannah Maziya said Eswatini already has the Data Protection Act as legal groundwork.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "Minister Savannah Maziya said regulations for the data protection law were at an advanced stage, not yet issued.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Eswatini",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

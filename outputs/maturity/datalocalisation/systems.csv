@@ -46,6 +46,7 @@ COM,Data Center de l'Administration Publique,Data Center de l'Administration Pub
 DJI,Wingu Cloud Exchange (WCX),"Wingu Africa regional expansion incl. Djibouti (launched in Ethiopia and Tanzania, not stated for Djibouti)",other,private cloud,Wingu Africa,,2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia
 DJI,Wingu data centres in Djibouti,Wingu (Djibouti),other,,"Wingu, with Djibouti Telecom as state joint-venture partner",government as anchor tenant,2026-06-11 Can Africa supply it's own digital infrastructure
 DJI,Registre National des Personnes Physiques (RNPP),RNPP,other,relational database,"Direction Generale de la Population et de la Famille (DGPF), with ANSIE for development and security","public authorities, public and private bodies under Djiboutian law, their subcontractors",2020-07-13-dji-journalofficiel-decret-2020-146-rnpp
+DZA,Centre national algérien des services numériques,Algeria,other,"Huawei-led consortium build, two active-active data centres at Mohammadia",High Commission for Digitalisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
 EGY,Cloud First Policy,Cloud First Policy (2024),rule,,Supreme Council of Digital Society; MCIT,central government,2024-01-01-egypt-cloud-first-policy-data-localisation-dpa
 EGY,National data-centre strategy (in preparation),استراتيجية وطنية لمراكز البيانات,other,,MCIT,,2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram
 ERI,Eritel Nextcloud Private Cloud Services,Eritel Private Cloud,other,Nextcloud,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
@@ -87,7 +88,7 @@ KEN,Kenya Cloud Policy implementation guidelines,Kenya Cloud Policy implementati
 KEN,Cloud Adoption Committee,Cloud Adoption Committee,other,,Ministry of ICT and the Digital Economy,State organs,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
 KEN,"Nxtra data centre, Tatu City","Nxtra data centre, Tatu City",other,,Airtel Africa,,2026-08-04-techtrends-nxtra-kenya-july-2027-target
 KEN,Microsoft/G42 Olkaria data centre,Microsoft/G42 Olkaria data centre,other,,Microsoft / G42,,2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity
-LBR,National digital identity system / biometric database,National ID card system,,,National Identification Registry,,2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa
+LBR,National digital identity system / biometric database,National ID card system,other,,National Identification Registry,,2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa
 LBY,Libyan Spider Tripoli data center,"Libyan Spider new data center, Tripoli (opened 22 April 2024, year inferred)",other,,Libyan Spider,,2024-05-30-libyan-spider-opens-new-data-center-in-tripoli-to-enhance-security-and-availabil
 LBY,CBL Circular No. 18 data protection system and executive regulation,Data Protection System and Executive Regulation,rule,,Central Bank of Libya,banks; foreign bank branches; fintech and electronic payment providers; exchange and credit companies; leasing companies,2025-01-01-informatics-cbl-personal-data-protection-regulation-session
 LSO,Data Management Policy,Data Management Policy,other,,MICSTI,,2026-06-12-three-digital-policies-signed-lestimes
@@ -194,6 +195,7 @@ SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technolog
 SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
 SWZ,Data Recovery Site,"Data Recovery Site, Lubombo",other,,Government of Eswatini; financed by Exim Bank of India,,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
 SWZ,Data Recovery Site,"Data Recovery Site, Lubombo Region",other,,Government of Eswatini; financed by Exim Bank of India,,2026-09-22-swz-times-data-recovery-site-loan-cancel
+SWZ,National Data Centre,Eswatini,other,,,,2026-04-29-swz-swazi24-maziya-national-data-policy
 SYC,Data Protection Act 2023,Data Protection Act,other,,Information Commission (data protection authority),national,2024-06-04 Review of Seychelles DPA
 SYC,Data Protection Act 2023,Data Protection Act,other,,Information Commission of Seychelles,national,2024-03-25 Data Protection Law Now In Force In Seychelles
 SYC,Data Center 1 - Bon Espoir,"Bon Espoir data centre, Anse Boileau",other,,Cable & Wireless (Seychelles) Limited,,2025-09-04-uptime-institute-bon-espoir-certification

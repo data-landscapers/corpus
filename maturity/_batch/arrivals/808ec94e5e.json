@@ -1,0 +1,7 @@
+{"slug": "2024-12-01-dza-sentinelle-sigb-premiere-phase-deploiement", "studies": {
+"coresystems": {"countries": {"DZA": {"facts": [{"sub_indicator": "core", "aspect": "renewed", "value": "live", "fact": "Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates.", "as_of": "2024-11-29", "date_precision": "day", "system": "Système Intégré de Gestion Budgétaire (SIGB)", "class": "core"}], "systems": [{"system": "Système Intégré de Gestion Budgétaire (SIGB)", "country_label": "SIGB", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The Tier 3 data centre named is the Finance Ministry's own, hosting SIGB; the document does not say it rents to others."}}},
+"health": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern health data."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The Finance Ministry's Tier 3 data centre is stated as hosting its own system, not as a facility for hire."}}},
+"taxadmin": {"countries": {"DZA": {"facts": [], "systems": [], "note": "SIGB is to integrate the tax directorate, but the document states nothing on online filing or electronic payment."}}}
+}}

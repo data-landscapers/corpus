@@ -1,16 +1,17 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source held says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-005",
+      "gaps": "No source held says a national AI strategy is adopted and still running.",
+      "note": "Counted from the four questions by study-ladder-aistrategy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

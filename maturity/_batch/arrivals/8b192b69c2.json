@@ -1,0 +1,266 @@
+{
+ "slug": "2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Chad."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "An ATPE opinion piece says the TASDJIL system of Technidev and ANATS already digitally registers births at a hospital desk at Koukou Angarana in Sila province, with experiences still to be scaled up.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "Chad",
+       "class": "civil",
+       "platform": "TASDJIL",
+       "owner": "Technidev and ANATS",
+       "tiers": "hospital desk"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "An ATPE opinion piece says TASDJIL, from Technidev and ANATS, attributes a National Identification Number (NNI) to children when births are registered at the Koukou Angarana hospital desk.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "Chad",
+       "class": "birthnumber",
+       "platform": "TASDJIL",
+       "owner": "Technidev and ANATS",
+       "tiers": "hospital desk"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "An ATPE opinion piece says TASDJIL registers births at a hospital desk at Koukou Angarana and issues the child an NNI, so births feed the ID number.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "Chad",
+       "class": "crvslink",
+       "platform": "TASDJIL",
+       "owner": "Technidev and ANATS",
+       "tiers": "hospital desk"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "An ATPE opinion piece says births are registered digitally through TASDJIL at a hospital desk at Koukou Angarana, and a one-stop desk at Bol provincial hospital registers children born in the maternity.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "pilot",
+       "fact": "An ATPE opinion piece describes digital birth registration at one hospital desk, Koukou Angarana, and a one-stop desk at Bol, as experiences that must now change scale.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "Chad",
+       "class": "civil",
+       "platform": "TASDJIL",
+       "owner": "Technidev and ANATS",
+       "tiers": "hospital desk"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,272 @@
+{
+ "slug": "2023-11-01-sen-dgpsn-registre-national-unique-interoperability",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The DGPSN presentation gives Senegal's population as 18,000,000 individuals from the 2023 census.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "DGPSN cites Law no. 2008-12 of 25 January 2008 on personal data protection as the framework for RNU data sharing.",
+       "as_of": "2008-01-25",
+       "date_precision": "day",
+       "system": "Law 2008-12",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "DGPSN says RNU data sharing requires authorization for data usage by, and data declaration to, the CDP.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "CDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "DGPSN says SENUM-SA, the national company managing the state's digital infrastructure, hosts and secures the RNU and PNBSF information systems.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "SENUM-SA",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "DGPSN says the information systems of the RNU and the PNBSF are interconnected, with SENUM-SA's technical support, using REST APIs.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "RNU-PNBSF interconnection",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "DGPSN says interoperability of the RNU with the CMU and DGAS systems is in progress, with preliminary studies and an action plan done.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "RNU-CMU/DGAS interoperability",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DGPSN says the RNU MIS and the PNBSF information system are in operation and interconnected, hosted by SENUM-SA.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "RNU-MIS / PNBSF information system",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "DGPSN presents the Registre National Unique, set up by Decree 2021-1052, as covering 541,192 households in 2020-2023, with over 1 million planned for 2024.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Registre National Unique (RNU)",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Registre National Unique (RNU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National Unique (RNU)",
+       "country_label": "RNU",
+       "class": "social",
+       "platform": "RNU-MIS (Java/Wildfly, SQL Server)",
+       "owner": "DGPSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for SEN."
+    }
+   }
+  }
+ }
+}

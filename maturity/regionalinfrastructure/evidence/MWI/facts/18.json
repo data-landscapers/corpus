@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-21-mwi-malawi24-tnm-additional-fibre-routes",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "TNM says its internet runs over cross-border fibre links to Zambia (Mchinji/Chipata) and Mozambique (Muloza/Mulanje) that it restored or acquired in May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Mchinji/Chipata and Muloza/Mulanje fibre links",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

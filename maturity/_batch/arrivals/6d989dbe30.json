@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-14-cmr-businessincameroon-camtel-sic-fibre-public-housing",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says SIC could use CAMTEL data centre services; no in-service hire stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a possible use of CAMTEL data centre services; no in-service hire or tier stated."
+    }
+   }
+  }
+ }
+}

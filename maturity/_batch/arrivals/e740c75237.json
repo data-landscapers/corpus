@@ -1,0 +1,298 @@
+{
+ "slug": "2024-12-24-ssd-tanzaniatimes-no-data-protection-law",
+ "studies": {
+  "datalocalisation": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The East African Community says Rwanda is among five of its eight Partner States that had established dedicated data protection authorities.",
+       "as_of": "2024-12-24",
+       "date_precision": "day",
+       "system": "",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Source lists Somalia both with and without an authority; contradictory, nothing recorded."
+    },
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "The East African Community says South Sudan is yet to form a data protection authority.",
+       "as_of": "2024-12-24",
+       "date_precision": "day",
+       "system": "",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The East African Community says Tanzania is among five of its eight Partner States that had established dedicated data protection authorities.",
+       "as_of": "2024-12-24",
+       "date_precision": "day",
+       "system": "",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The East African Community says Uganda is among five of its eight Partner States that had established dedicated data protection authorities.",
+       "as_of": "2024-12-24",
+       "date_precision": "day",
+       "system": "",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "The Tanzania Times says South Sudan is yet to enact a national data protection law.",
+       "as_of": "2024-12-24",
+       "date_precision": "day",
+       "system": "",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

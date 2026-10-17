@@ -1,0 +1,45 @@
+{
+ "slug": "2026-04-14-ben-ciomag-souverainete-cloud-hebergement",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "An ASIN official said Benin relies on a digital code and on the Autorite de protection des donnees personnelles (APDP) to frame data uses.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "An ASIN official said Benin relies on a digital code and on the APDP to frame data uses.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": "The digital code is mentioned without detail on its data protection content."
+    }
+   }
+  }
+ }
+}

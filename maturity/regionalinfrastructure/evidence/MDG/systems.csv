@@ -2,6 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MDG,DARE1 (Djibouti Africa Regional Express-1) extension,DARE1,shared,submarine cable,DARE1 consortium including Djibouti Telecom,,2025-09-10-dare1-cable-extension-madagascar-2424
 MDG,DARE1 (Djibouti Africa Regional Express 1) extension,DARE1,shared,submarine cable,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
 MDG,2Africa,2Africa (Mahajanga landing),shared,"submarine cable, Alcatel Submarine Networks, 180 Tbit/s",Telma with Vodafone,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,EASSy,EASSy,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,LION,LION,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,METISS,METISS,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,EASSy,EASSy,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,LION,LION,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,METISS,METISS,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar

@@ -1,0 +1,200 @@
+{
+ "slug": "2024-02-20-mli-bamada-mali-recupere-fichiers-ravec",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The government presented Mali Kura Biométrie as a sovereign system keeping the RAVEC identity data under national control, with the president calling it the starting point of Mali's digital sovereignty.",
+       "as_of": "2024-02-13",
+       "date_precision": "day",
+       "system": "Mali Kura Biométrie",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mali Kura Biométrie",
+       "country_label": "Mali Kura Biométrie (RAVEC data system)",
+       "class": "idsystem",
+       "platform": "national, source code and licences held by national experts",
+       "owner": "Ministère de l'Administration territoriale et de la Décentralisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "The government says the source codes and licences of Mali Kura Biométrie are held by national experts, ending dependence on foreign providers (the French firm Idemia).",
+       "as_of": "2024-02-13",
+       "date_precision": "day",
+       "system": "Mali Kura Biométrie",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mali Kura Biométrie",
+       "country_label": "Mali Kura Biométrie (RAVEC data system)",
+       "class": "idsystem",
+       "platform": "national, source code and licences held by national experts",
+       "owner": "Ministère de l'Administration territoriale et de la Décentralisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The government says President Goita officially launched the new sovereign Mali Kura Biométrie system replacing the old RAVEC file on 13 February 2024, after the old system's blockage from April 2023 had slowed biometric ID card production.",
+       "as_of": "2024-02-13",
+       "date_precision": "day",
+       "system": "Mali Kura Biométrie",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mali Kura Biométrie",
+       "country_label": "Mali Kura Biométrie (RAVEC data system)",
+       "class": "idsystem",
+       "platform": "national, source code and licences held by national experts",
+       "owner": "Ministère de l'Administration territoriale et de la Décentralisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for MLI."
+    }
+   }
+  }
+ }
+}

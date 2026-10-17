@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-20-caf-worldbank-pgnsp-isr-simba",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The World Bank ISR says the law on the protection of personal data was adopted in January 2024 and the enactment of two laws (cybersecurity and data protection) was achieved in 2024.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Law on the protection of personal data",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "The World Bank ISR says activities are being planned to support drafting of the implementing decrees of the enacted data protection law.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "Law on the protection of personal data",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{"slug": "2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap", "studies": {
+"admindata": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Named only as the venue of a 2026 meeting."},
+"CPV": {"facts": [], "systems": [], "note": "Mentions integrated registration and high death registration, but no published vital statistics report."},
+"LBR": {"facts": [], "systems": [], "note": "Only a plan to link registration and ID."},
+"RWA": {"facts": [], "systems": [], "note": "Only that reform is under way."},
+"TZA": {"facts": [], "systems": [], "note": "Only a DHS death registration figure for 2017."},
+"UGA": {"facts": [], "systems": [], "note": "Only a DHS death registration figure for 2014."},
+"ZWE": {"facts": [], "systems": [], "note": "Named only as the venue of a registrars' meeting."}}},
+"censuses": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing on a census or survey."},
+"CPV": {"facts": [], "systems": [], "note": "Nothing on a census or survey."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on a census or survey."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on a census or survey."},
+"TZA": {"facts": [], "systems": [], "note": "DHS is cited only as a source of a 2017 death registration figure; no survey publication date."},
+"UGA": {"facts": [], "systems": [], "note": "DHS is cited only as a source of a 2014 death registration figure; no survey publication date."},
+"ZWE": {"facts": [], "systems": [], "note": "Nothing on a census or survey."}}},
+"registry": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Named only as the venue of a 2026 meeting."},
+"CPV": {"facts": [], "systems": [{"system": "Integrated civil registration and ID", "country_label": "CRVS-ID integration", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": "Says integration with ID gives near-universal births and high deaths; does not say records are made digitally at local offices."},
+"LBR": {"facts": [], "systems": [{"system": "Planned civil registration and national ID link", "country_label": "announced link", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": "Only an announced plan."},
+"RWA": {"facts": [], "systems": [], "note": "Only that linkage is advancing, with no office-level digital entry stated."},
+"TZA": {"facts": [], "systems": [], "note": "Only a 2017 death registration rate."},
+"UGA": {"facts": [], "systems": [], "note": "Only a 2014 death registration rate."},
+"ZWE": {"facts": [], "systems": [], "note": "Named only as the venue of a registrars' meeting."}}}
+}}

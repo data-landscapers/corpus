@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-cog-minsante-sic-soins-primaires-communautaires",
+ "studies": {
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "States no count or share of people holding a national ID."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Health primary-care system, not a social programme system."
+    }
+   }
+  }
+ }
+}

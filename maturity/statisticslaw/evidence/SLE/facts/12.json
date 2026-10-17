@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-06-sle-statssl-proactive-publication-scheme",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Statistics Sierra Leone says it is established by the Statistics Act 2002 as the central authority for official statistics, supervised by a Statistics Council, and that the Act guides how it deals with the public.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "Statistics Act 2002",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

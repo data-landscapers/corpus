@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,international,standing,member,"ISO's member page lists the Agence Gabonaise de Normalisation (AGANOR) as Gabon's member, participating in 3 technical committees.",2026,year,AGANOR,adoption,2026-01-01-gab-iso-member-aganor,https://www.iso.org/member/548909.html

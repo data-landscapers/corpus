@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-002,NER,use,access,licensed,"Niger's Institut National de la Statistique grants a worldwide, free, non-exclusive licence to use, modify and distribute its data for commercial and non-commercial purposes with attribution.",2024-10-30,day,INS Niger open data licence (stat-niger.org),open,2024-10-30-ner-ins-licence-donnees-ouvertes,https://www.stat-niger.org/?page_id=4877

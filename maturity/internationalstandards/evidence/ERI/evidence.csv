@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,international,standing,member,The ISO member page lists the Eritrean Standards Institution (ESI) as a correspondent member of ISO.,2026,year,ESI,adoption,2026-01-01-eri-iso-member-esi,https://www.iso.org/member/318778.html

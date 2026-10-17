@@ -1,6 +1,6 @@
 # Mobilisation of non-state finance: private money for digital businesses
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -23,10 +23,10 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 | 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 11 |
-| 2 Nascent | 20 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
-| No evidence | 15 |
+| Unplaced | 2 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -196,6 +196,12 @@ A fund lent USD 32.8 million and Helios Towers committed over USD 100 million to
 
 - Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026 ([source, 2026](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios)).
 
+### Gabon: 2 Nascent
+
+A EUR 650,000 start-up round in 2025 is the only private money held; none raised at home or brought in by government is known.
+
+- Ecofin Agency reports that Gabonese telematics and fleet-management startup POZI raised EUR 650,000 (about US$690,000) in a round led by Saviu Ventures with Emsy Capital and advisory firm Chazai Wamba participating, announced on 3 October 2025 ([source, 2025-10-03](https://www.ecofinagency.com/news-digital/0510-49294-gabon-s-pozi-raises-foreign-investment-in-first-ever-vc-deal-for-local-startup)).
+
 ### Guinea: 2 Nascent
 
 MIGA committed USD 373 million and USD 27 million to two Orange companies in Guinea in 2024; money raised inside Guinea is not known.
@@ -219,6 +225,18 @@ A US company committed about US$6.2 billion in 2026 for a hydropower and AI data
 Two development-bank loans to AXIAN Telecom in 2025 brought private money in; whether any was raised locally or by the state is not known.
 
 - The European Investment Bank (EIB Global, European Union) announced a $100 million financing to AXIAN Telecom for 4G and 5G rollout, of which $40 million goes to Madagascar and $60 million to Tanzania; the document is dated 11 April 2025 and reports an announcement of 10 April 2025 ([source, 2025-04-10](https://techafricanews.com/2025/04/11/eib-grants-100m-to-axian-telecom-for-4g-5g-rollout-in-tanzania-and-madagascar/)).
+
+### Mali: 2 Nascent
+
+Catalyst Fund put $200,000 into one Bamako insurtech in 2025; whether private money came in more than one year is not known.
+
+- ImpactAlpha reports Catalyst Fund has invested $200,000 in Bamako-based insurtech OKO Finance, $150,000 of it for business model expansion ([source, 2025-10-06](https://impactalpha.com/catalyst-fund-backs-mali-based-oko-to-insure-farmers-against-climate-risks/)).
+
+### Mauritius: 2 Nascent
+
+One private amount is held for Mauritius, USD 7.5 million raised by a fintech in 2025; whether money came in other years is not known.
+
+- ImpactAlpha reports that Mauritius-based fintech Kuunda raised a USD 7.5 million pre-Series A round backed by Seedstars Africa Ventures, Accion Ventures, Nedbank, E4E Africa, 4Di Capital and Portugal Gateway Fund ([source, 2025-10-16](https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/)).
 
 ### Morocco: 2 Nascent
 
@@ -250,6 +268,12 @@ Orange Sierra Leone committed USD 50 million in 2025; whether other private mone
 
 - Finance tables: Orange Sierra Leone committed USD 50 million (Self Funded, Active) to Orange Sierra Leone, starting 2025: Orange Sierra Leone's $50 million network modernisation to 4G/5G readiness ([source, 2025](https://mocti.gov.sl/orange-sierra-leone-expands-coverage-with-launch-of-new-network-site-in-mathonkra-tonkolili-district/)).
 
+### Tunisia: 2 Nascent
+
+A Tunisian startup raised USD 1.5 million in one round, co-led by a Tunis fund, in February 2025; other years are unknown.
+
+- Startup Arcube announced a USD 1.5 million (TND 4.7 million) funding round co-led by Tunis-based fund 216 CAPITAL with Fuel Ventures and Oxford Capital Partners ([source, 2025-02-18](https://www.webmanagercenter.com/2025/02/18/541011/la-start-up-arcube-annonce-une-levee-de-fonds-de-15-million-de-dollars-co-dirigee-par-216-capital/)).
+
 ### Uganda: 2 Nascent
 
 Four private deals of USD 15 million, 12 million, 1.6 million and 420,000 came in during 2024, but money raised inside Uganda is not known.
@@ -261,18 +285,6 @@ Four private deals of USD 15 million, 12 million, 1.6 million and 420,000 came i
 Acumen put US$5M into Sun King Zambia and Lupiya pledged K500 million, both in 2026; private money in other years is not known.
 
 - Acumen's Hardest-to-Reach Catalyze initiative closed a US$5M equity investment in Sun King's Zambia subsidiary, a pay-as-you-go solar company whose customers repay by mobile money; the document gives no signing date, so its publication date of 2026-09-25 is used ([source, 2026-09-25](https://www.techtrends.co.zm/acumen-invests-5-million-in-sun-king-to-scale-pay-as-you-go-solar-energy-access-in-zambia/)).
-
-### Gabon: Unplaced
-
-Private money reached Gabon's mobile money business in 2022, but no deal from 2024 is known, so no stage is set.
-
-Not established: No source dated from 2024 names an amount of private money put into a digital business in the country.
-
-### Mauritius: Unplaced
-
-No source from 2024 names an amount of private money put into a digital business in Mauritius, so no stage is set.
-
-Not established: No source dated from 2024 names an amount of private money put into a digital business in the country.
 
 ### Sao Tome and Principe: Unplaced
 
@@ -340,12 +352,6 @@ No private money put into a digital business is named, so no stage is set.
 
 Not established: Nothing held names private money put into a digital business in the country, or says there is none.
 
-### Mali: No evidence
-
-No private money put into a digital business is known, and nothing says there is none, so no stage is set.
-
-Not established: Nothing held names private money put into a digital business in the country, or says there is none.
-
 ### Mauritania: No evidence
 
 No private money put into a digital business in Mauritania is known, nor whether there is none, so no stage is set.
@@ -367,11 +373,5 @@ Not established: Nothing held names private money put into a digital business in
 ### Sudan: No evidence
 
 No private money put into a digital business in Sudan is named, and it is not known whether any exists, so no stage is set.
-
-Not established: Nothing held names private money put into a digital business in the country, or says there is none.
-
-### Tunisia: No evidence
-
-Nothing held names private money put into a digital business in the country, or says there is none, so no stage is set.
 
 Not established: Nothing held names private money put into a digital business in the country, or says there is none.

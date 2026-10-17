@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "draft",
-   "duty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001;GHA-002",
-   "gaps": "No source held says a law, decree or regulation on public bodies sharing data is in force.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "draft",
+      "duty": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001;GHA-003",
+      "gaps": "No source held says a law, decree or regulation on public bodies sharing data is in force.",
+      "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

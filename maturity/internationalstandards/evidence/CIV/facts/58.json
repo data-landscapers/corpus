@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-civ-iso-member-codinorm",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists CODINORM as a Member body for Cote d'Ivoire.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CODINORM",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

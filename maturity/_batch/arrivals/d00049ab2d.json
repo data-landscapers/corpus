@@ -1,0 +1,12 @@
+{"slug":"2025-10-21-nga-punch-data-centre-power-reliability","studies":{
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Document is about data centre power, not procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"datacentres":{"countries":{"NGA":{"facts":[{"sub_indicator":"datacentre","aspect":"centre","value":"service","fact":"Xalam Analytics is cited as saying Nigeria and South Africa together hold more than 65 per cent of Africa's operational colocation capacity, with Nigeria projected to exceed 100 MW installed by 2026.","as_of":"2025-10-21","date_precision":"day","system":"colocation data centres in Nigeria","class":"datacentre"}],"systems":[{"system":"Kasi Cloud Data Centers","country_label":"Nigeria","class":"other","platform":"","owner":"Kasi Cloud","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"nationaldatacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No in-service facility with stated ownership; Kasi Cloud campus is under development."}}},
+"nonstatefinance":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The $50m Elektron Energy power project is described as being developed, with no signed financing stated; it is an energy project, not a digital business."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey of account holding."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

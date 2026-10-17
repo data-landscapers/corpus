@@ -1,0 +1,32 @@
+{
+ "slug": "2026-09-16-mrt-ami-conseil-ministres-protection-espace-numerique",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Cabinet text concerns minors' access to social media; no AI strategy stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No national digital strategy stated."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No interoperability framework stated."
+    }
+   }
+  }
+ }
+}

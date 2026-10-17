@@ -1,0 +1,9 @@
+{"slug": "2025-04-15-som-worldpop-geospatial-training-census-readiness", "studies": {
+"agrisatellite": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on satellite data in farming."}}},
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on AI in government administration."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Machine learning is mentioned only as a possible WorldPop modelling method for inaccessible areas, not an AI model built or hosted in Somalia."}}},
+"censuses": {"countries": {"SOM": {"facts": [{"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "WorldPop says it trained Somalia National Bureau of Statistics and UNFPA staff in an 8-day workshop in Nairobi to delineate pre-census enumeration areas in five districts (Dhusamareeb, Baidoa, Kaxda, Belet Weyne, Kismayo) for the upcoming national census, with full enumeration of those districts to follow if security permits; the last successful census was 50 years ago.", "as_of": "2025-04-15", "date_precision": "day", "system": "Somali national census pre-enumeration area mapping", "class": "census"}], "systems": [{"system": "Somali national census (upcoming)", "country_label": "Upcoming national census", "class": "census", "platform": "WorldPop preEA and Enumeration Effort Metrics tools", "owner": "Somalia National Bureau of Statistics with UNFPA", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Displaced people appear only as a population category in census planning; no registration or digital inclusion is stated."}}}
+}}

@@ -1,0 +1,163 @@
+{
+ "slug": "2024-09-29-som-govstack-digital-leaders-spotlight-somalia",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only donor-programme capacity development and trainings for digital teams of the use cases; no civil-service digital-skills programme stated as delivered."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on finance, revenue or payroll systems."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a plan to build a National Data Centre; none in service stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "none",
+       "fact": "GovStack states that an interoperability platform has not yet been developed in Somalia and all agencies have their own systems.",
+       "as_of": "2024-09-29",
+       "date_precision": "day",
+       "system": "",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Digital Government Roadmap for government's digital transformation, a government-class plan; no national strategy stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024.",
+       "as_of": "2024-09-29",
+       "date_precision": "day",
+       "system": "Content Management System (CMS); High School Records (HSR)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Content Management System (CMS)",
+       "country_label": "Somalia",
+       "class": "eservices",
+       "platform": "Typo3",
+       "owner": "Ministry of Communication and Technology",
+       "tiers": ""
+      },
+      {
+       "system": "High School Records (HSR)",
+       "country_label": "Somalia",
+       "class": "eservices",
+       "platform": "Joget",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no interoperability framework or drafting of one; only that a government enterprise architecture and interoperability platform are not developed."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "GovStack states there is no enabling legislation for data sharing and data analysis yet in Somalia.",
+       "as_of": "2024-09-29",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a plan for a National Data Centre; none in service stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No electricity access figure stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "High School Records (HSR)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "Joget",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": "High school certificate service only; no learner-record EMIS for primary schools stated."
+    }
+   }
+  }
+ }
+}

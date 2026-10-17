@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-bdi-iso-member-bbn",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page describes BBN as an incorporated administrative public institution whose aims include preparing draft national standards.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "BBN",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

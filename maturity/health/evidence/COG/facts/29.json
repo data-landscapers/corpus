@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-01-cog-dpm-open-msupply-esigl-validation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eSIGL (Open mSupply)",
+   "country_label": "Congo",
+   "class": "single-function",
+   "platform": "Open mSupply",
+   "owner": "DPM, Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers a medicines logistics system only, not routine reporting or patient records."
+}

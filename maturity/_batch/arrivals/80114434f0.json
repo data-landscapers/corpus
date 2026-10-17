@@ -1,0 +1,115 @@
+{
+ "slug": "2026-04-14-ben-ciomag-datacenters-et-energie",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a aiabuse question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a aigovernment question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a aisectoral question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a aisystems question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a cloudstrategy question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a datacentres question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a datalocalisation question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a itcapacity question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing a nationaldatacentres question asks; data centres are not stated to rent to others or be nationally owned."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "CIO Mag reports Benin's data centres run on dual power feeds from the SBEE, plus standby generators.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "Benin data centres (ASIN)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Benin data centres (ASIN), one Tier III, about 2 MW",
+       "country_label": "Benin data centres",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (ASIN)",
+       "tiers": "one Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "no evidence",
-   "debate": "",
-   "connection": "",
-   "penalty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "2",
+      "debate": "criticised",
+      "connection": "",
+      "penalty": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-004;MUS-002",
+      "gaps": "No source says the country went the last twelve months with no one punished for what they said or published.",
+      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

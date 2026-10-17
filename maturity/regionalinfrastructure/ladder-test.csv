@@ -1,7 +1,7 @@
 iso3,stage,built,service,stage_sources
 AGO,2,agreed,,AGO-004;AGO-003
-BDI,no evidence,,,
-BEN,no evidence,,,
+BDI,2,agreed,,BDI-001
+BEN,2,agreed,,BEN-001
 BFA,4,,in-service,BFA-001
 BWA,4,agreed,in-service,BWA-002
 CAF,4,building,in-service,CAF-002;CAF-007;CAF-009
@@ -12,42 +12,42 @@ COG,4,building,in-service,COG-003;COG-004;COG-002
 COM,no evidence,,,
 CPV,no evidence,,,
 DJI,4,agreed,in-service,DJI-020;DJI-021
-DZA,2,agreed,,DZA-005
+DZA,4,building,in-service,DZA-001;DZA-002;DZA-003
 EGY,no evidence,,,
 ERI,1,,,ERI-002
 ETH,3,building,,ETH-003;ETH-002
 GAB,4,agreed,in-service,GAB-004
-GHA,no evidence,,,
+GHA,4,agreed,in-service,GHA-001
 GIN,2,agreed,,GIN-002;GIN-001
 GMB,no evidence,,,
-GNB,no evidence,,,
+GNB,unplaced,,,
 GNQ,4,agreed,in-service,GNQ-001
 KEN,4,agreed,in-service,KEN-009;KEN-011
-LBR,no evidence,,,
+LBR,4,,in-service,LBR-002
 LBY,4,agreed,in-service,LBY-001
 LSO,no evidence,,,
 MAR,4,,in-service,MAR-001
 MDG,unplaced,,,
-MLI,4,,in-service,MLI-001
+MLI,4,agreed,in-service,MLI-002;MLI-001
 MOZ,4,,in-service,MOZ-002
 MRT,4,,in-service,MRT-001
 MUS,no evidence,,,
-MWI,unplaced,,,
+MWI,4,,in-service,MWI-002
 NAM,2,agreed,,NAM-002;NAM-001
-NER,4,building,in-service,NER-009;NER-012
+NER,4,building,in-service,NER-001;NER-002;NER-003
 NGA,4,agreed,in-service,NGA-003
 RWA,unplaced,,,
 SDN,2,agreed,,SDN-003;SDN-004
-SEN,4,,in-service,SEN-001
+SEN,4,,in-service,SEN-002;SEN-001
 SLE,2,agreed,,SLE-003;SLE-002
 SOM,4,agreed,in-service,SOM-003
 SSD,2,agreed,,SSD-004;SSD-006
 STP,4,,in-service,STP-003
-SWZ,2,agreed,,SWZ-001
+SWZ,unplaced,,,
 SYC,no evidence,,,
 TCD,3,building,,TCD-001;TCD-002;TCD-007
-TGO,no evidence,,,
-TUN,no evidence,,,
+TGO,5,agreed,in-use,TGO-002
+TUN,2,agreed,,TUN-001
 TZA,4,agreed,in-service,TZA-002;TZA-003
 UGA,4,,in-service,UGA-003;UGA-005
 ZAF,no evidence,,,

@@ -2,7 +2,7 @@
 
 ## National strategy
 
-**Governance and finance.** The [World Bank assessment](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/DE4ACARFrenchuploadedwithACS.pdf>) says technical assistance for the Digital CAR strategy is financed under the Central African Backbone project, co-funded by the European Union and the African Development Bank.
+**Governance and finance.** The [agency's presentation](<https://acdd.gouv.cf/agence.php>) says the ACDD, created by Loi n° 23.008 of 19 June 2023, has as its mission implementing the national strategy for developing the digital ecosystem. The [World Bank assessment](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/DE4ACARFrenchuploadedwithACS.pdf>) says technical assistance for the Digital CAR strategy is financed under the Central African Backbone project, co-funded by the European Union and the African Development Bank.
 
 **Standing.** A [workshop on 10-11 November 2021](<https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/>), opened by the chief of staff of the Ministry of Digital Economy, Posts and Telecommunications, presented the studies for the Plan National Stratégique Centrafrique Digitale 2025.
 

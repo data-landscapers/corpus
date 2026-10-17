@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-05-lby-escwa-digital-development-agenda-workshop",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "ESCWA says it is providing technical cooperation to Libya in preparing a digital development agenda, and with the General Information Authority held a hybrid consultative workshop in Tripoli to introduce the proposed agenda to stakeholders.",
+   "as_of": "2024-09-05",
+   "date_precision": "day",
+   "system": "digital development agenda",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital development agenda",
+   "country_label": "Digital development agenda",
+   "class": "national",
+   "platform": "",
+   "owner": "General Information Authority with ESCWA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

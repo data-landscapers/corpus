@@ -72,8 +72,8 @@ Public dispensaries, health centres and sub-county hospitals were reported moved
 
 *Advancing.*
 
-- The government set 30 September 2026 for facilities to migrate from the SHA Provider Portal to HMIS and then extended the deadline to 30 October 2026, with all public Level 2 to 4 facilities reported migrated and 28 private HMIS platforms certified by the Digital Health Agency ([source, 2026-09-30](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains)).
-- The signed US-Kenya Cooperation Framework states that the Government of Kenya has already deployed TaifaCare HMIS, a hospital management system with clinical management, laboratory, pharmacy and billing modules, in 1,500 public health facilities; it gives no denominator and does not say how many of the 1,500 are primary clinics ([source, 2025-12-04](https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf)).
+- The Ministry of Health's latest update says all 6,427 public Level 2 to 4 facilities have completed the transition to HMIS and 4 public Level 5 facilities have migrated with 23 in progress, while the Level 6 hospitals KNH and KUTRRH had not yet completed it; no date is given for the update, so the document's published date is used ([source, 2026-10-02](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains)).
+- Health CS Duale says the hospital HMIS is to be the primary system through which healthcare services and information are managed, with data captured during the provision of care flowing to other systems and medical records, including scans, becoming accessible across facilities; stated as the intended arrangement, dated to the document's published date ([source, 2026-10-02](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains)).
 - The trial authors state that consultation data at Penda Health's 16 primary care facilities were recorded directly in the cloud-based EMR at the point of care by the clinical officers, who used it for documentation and order entry, during enrolment from 22 April to 16 July 2025 ([source, 2025-07](https://www.nature.com/articles/s41591-026-04503-6)).
 
 ### Morocco: 3 Established
@@ -124,7 +124,7 @@ Two electronic record systems run in over 40 facilities (April 2026) and 111 pri
 
 ### South Africa: 3 Established
 
-Hospital systems run in five provinces and 308 Western Cape primary facilities use electronic records (August 2025); there is no national count.
+Hospital systems run in five provinces and 308 Western Cape primary facilities use electronic records (2025); the national system is in beta, count not known.
 
 *Advancing.*
 
@@ -134,16 +134,20 @@ Hospital systems run in five provinces and 308 Western Cape primary facilities u
 - The Minister of Health's reply NW4495 states KwaZulu-Natal has developed the eHealth system, implemented in phases in 42 public hospitals since March 2020; no total of hospitals is given ([source, 2025-08-01](https://pmg.org.za/committee-question/31734/)).
 - The Minister of Health's reply NW4495 states the Western Cape Department of Health has implemented Clinicom in 53 hospitals, the Primary Health Care Information System in 308 PHC facilities and PREHMIS in City of Cape Town PHC facilities, and recently began implementing the Electronic Continuity of Care Record to collate this patient data ([source, 2025-08-01](https://pmg.org.za/committee-question/31734/)).
 - The Minister of Health's reply NW4495 states the Western Cape's Primary Health Care Information System is implemented in 308 PHC facilities, with PREHMIS in City of Cape Town PHC facilities (number not given); the same reply counts 244 Western Cape and 3,333 national PHC facilities reporting to the 2024/25 Ideal Clinic Assessment ([source, 2025-08-01](https://pmg.org.za/committee-question/31734/)).
+- The reply says PHC facilities of the Free State form part of a selected group of facilities where the EMR is beta tested ([source, 2026-06](https://pmg.org.za/committee-question/38770/)).
 - The National Department of Health describes its EMR solution as capturing clinical information on health encounters at the point of care by health service providers, verified against the patient's unique identifier in the Health Patient Registration System and intended to feed a longitudinal electronic health record; published date used ([source, 2026-03-03](https://www.health.gov.za/wp-content/uploads/2026/03/NDoH04-20252026-Final-BSC-Invitation-to-Bid-EMR-implementation-03-03-2026.pdf)).
 
 ### Tanzania: 3 Established
 
 A government system runs in 23.25% of all health facilities (2023 survey); records are not shown to be shared between facilities.
 
+*Advancing.*
+
 - The Citizen, citing recent Government reporting, states that electronic medical record coverage has reached 100 percent of national, specialised, zonal and regional referral hospitals and that adoption has expanded across district hospitals, health centres and dispensaries, with no figures for the lower tiers; the document gives no date for this, so its published date is used ([source, 2026-09-01](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-health-push-puts-ai-hospital-technology-on-procurement-agenda-5579848)).
 - The mid-term review's figure of facilities using GOT-HoMIS, from SARA 2023, gives 23.25% of health facilities overall, against 32.1% of district hospitals, 44.9% of health centres and 10.63% of dispensaries; this is a share of all facilities, with no numerator or denominator ([source, 2023](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf)).
 - The mid-term review states that all 28 regional hospitals use Afya eHMS, the Ministry of Health's EMR system for patient-level management, and that zonal and specialised hospitals use a mix of systems that includes it; it gives no date, so the document's published month is used ([source, 2025-03](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf)).
 - Against the HSSP V commitment to expand electronic medical records in all facilities from PHC to national hospital, the mid-term review reports EMR used in all facilities at higher levels and in more than 3,000 PHC facilities; it gives no date, so the document's published month is used ([source, 2025-03](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf)).
+- Tanzania's Ministry of Health said 222 public facilities, district, regional referral, zonal, specialised and national hospitals, are connected to an integrated electronic medical records system ([source, 2026-10-13](https://www.thecitizen.co.tz/tanzania/news/national/government-connects-222-public-health-facilities-to-digital-records-system-5630008)).
 
 ### Uganda: 3 Established
 
@@ -318,6 +322,7 @@ The national hospital record system's contract lapsed in December 2024 and a rep
 - By a directive dated 28 October 2025 the Ministry of Health ordered the nationwide rollout of the Ghana Health Information Management System (GHIMS) in November 2025 as the only authorised platform for patient registration, clinical documentation, billing, NHIA claims, referral and continuity-of-care records across the public health system, with Axon Information Systems engaged to implement it ([source, 2025-10-28](https://www.graphic.com.gh/news/general-news/health-ministry-rolls-out-new-digital-system-to-fix-hospital-service-disruptions.html)).
 - The ministry's directive of 28 October 2025 cites nationwide service disruptions to the existing clinical information and billing systems, and the Health Minister told Parliament that the failure of the Lightwave platform left several hospitals unable to access patient records or process insurance claims ([source, 2025-10-28](https://www.graphic.com.gh/news/general-news/health-ministry-rolls-out-new-digital-system-to-fix-hospital-service-disruptions.html)).
 - The Ministry of Health's plan for 2026-2029 gives the values 15%, 25%, 40, 55 and 70 against its indicator for the percentage of all health facilities (public, private and faith-based) with functional EMR systems in use for patient records, the first read as the baseline and the rest as the four plan years; the passage carries no column headings, no numerator or denominator and no baseline year, so the date is the document's, and the share is of all health facilities, not of primary clinics ([source, 2025-10](https://www.moh.gov.gh/wp-content/uploads/2026/08/HSMTDP_Final-Draft_compiled_latest_signed-copy-EDITED-2.pdf)).
+- The editorial says the Ministry of Health discontinued LHIMS after its contract expired in December 2024, and that hospitals in the Ashanti Region and elsewhere were forced to revert to paper during outages and payment disputes ([source, 2025](https://doi.org/10.4314/gmj.v59i4.1)).
 
 ### Guinea: 2 Nascent
 

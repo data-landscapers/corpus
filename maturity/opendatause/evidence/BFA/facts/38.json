@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-17-bfa-citadel-portail-national-donnees",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "CITADEL (Université Joseph Ki-Zerbo) says its national data portal for public decision-making has 147 datasets available and 12 in validation, with no public API, as of 17 June 2026; no licence is stated.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Portail National de Données pour la Décision Publique",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Portail National de Données pour la Décision Publique",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National de Données pour la Décision Publique",
+   "country_label": "data.citadel.bf",
+   "class": "open",
+   "platform": "",
+   "owner": "CITADEL, Université Joseph Ki-Zerbo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

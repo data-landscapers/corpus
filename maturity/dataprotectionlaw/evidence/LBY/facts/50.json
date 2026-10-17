@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-22-lby-smex-libya-ai-strategy-built-without-participation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "SMEX, citing the strategy, says the Data Protection and Privacy Law remains in draft, with adoption targeted for 2026.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "SMEX says Libya currently has no functioning data protection authority.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,18 +1,19 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "4",
-   "law": "in-force",
-   "treaty": "none",
-   "authority": "appointed",
-   "practice": "implementing",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-038;ZWE-002;ZWE-003",
-   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "none",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-038;ZWE-002;ZWE-041",
+      "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

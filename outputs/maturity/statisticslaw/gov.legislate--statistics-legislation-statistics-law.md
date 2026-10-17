@@ -232,8 +232,9 @@ Ghana's 2019 Statistical Service Act is in force; a replacement bill went to con
 
 ### Kenya: 3 Established
 
-Kenya's 2006 Statistics Act is in force; a bill to replace the bureau with an authority was published in April 2026; rules are not known.
+Kenya's 2006 Statistics Act is in force; a bill to replace the bureau went to a Senate committee in October 2026; rules not known.
 
+- KNBS's July 2025 announcement of the second statistics strategy says the Kenya National Bureau of Statistics was established through the Statistics Act of 2006 (Cap. 112, Rev. 2022) as the principal agency for official statistics and coordination of the national statistical system, and that the Act was amended in 2019 to provide for the statistics function at county level ([source, 2006](https://www.knbs.or.ke/the-second-kenya-strategy-for-development-of-statistics/)).
 - The document is the text of Kenya's Statistics Act (Cap. 112), assented to on 23 August 2006 and commenced on 1 February 2007, establishing the Kenya National Bureau of Statistics; this version is the consolidated revision to 31 December 2022 ([source, 2006-08-23](https://new.kenyalaw.org/akn/ke/act/2006/4)).
 
 ### Lesotho: 3 Established
@@ -252,8 +253,9 @@ Liberia's 2004 statistics act is in force and is cited in 2024 surveys; rules ma
 
 ### Libya: 3 Established
 
-Libya's 1963 statistics and census law is listed as in force; rules made under it are not known.
+Libya's 1963 statistics and census law is listed as in force and was under review in 2024; rules made under it are not known.
 
+- The Libya Observer reports the GNU meeting addressed a committee's findings on reviewing and updating the 1963 Statistics and Census Law, to improve the Statistics and Census Authority's operations ([source, 2024-08-29](https://libyaobserver.ly/news/gnu-prepares-national-population-census)).
 - This document is the text of Law No. 16 of 1963 on statistics and censuses, issued by King Idris I on 19 September 1963, which the Law Society's database lists as in force ([source, 1963-09-19](https://lawsociety.ly/legislation/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d9%82%d9%85-16-%d9%84%d8%b3%d9%86%d8%a9-1963-%d9%85-%d9%81%d9%8a-%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84/)).
 
 ### Madagascar: 3 Established
@@ -331,8 +333,8 @@ Seychelles' 2010 statistics act is in force; a 2025 peer review urged adoption o
 
 Sierra Leone's 2002 Statistics Act is in force and is cited in 2023 and 2024 surveys; rules made under it are not known.
 
+- Statistics Sierra Leone says it is established by the Statistics Act 2002 as the central authority for official statistics, supervised by a Statistics Council, and that the Act guides how it deals with the public ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
 - This document is the text of the Statistics Act, 2002, published in the Sierra Leone Gazette Acts Supplement of 7 November 2002 and recorded as passed in Parliament on 12 September 2002; it establishes Statistics Sierra Leone as a body corporate and repeals the Statistics Act 1963 ([source, 2002](https://www.statistics.sl/images/StatisticsSL/Documents/statistics_and_census_acts.pdf)).
-- The Stats SL microdata catalogue entry for the 2024 Annual Agricultural Survey says respondent confidentiality is guaranteed by the Statistics Act of Sierra Leone, enacted in 2002 ([source, 2002](https://microdata.statistics.sl/index.php/catalog/16)).
 
 ### Somalia: 3 Established
 

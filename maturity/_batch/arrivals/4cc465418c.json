@@ -1,0 +1,25 @@
+{
+ "slug": "2024-01-24-lby-gia-personal-data-protection-committee-meeting",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "A committee formed under National Council for Public Freedoms and Human Rights decision 253 of 2023 is drafting a national personal data protection law, per the General Information Authority.",
+       "as_of": "2024-01-10",
+       "date_precision": "day",
+       "system": "national personal data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

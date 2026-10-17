@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-uga-monitor-uganda-champions-au-single-digital-market",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Daily Monitor says Uganda currently relies on a regulatory framework including the National Payment Systems Act and guidelines issued by financial regulators.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "National Payment Systems Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

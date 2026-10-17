@@ -1,0 +1,249 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The 20-year ONIP contract with the IDEMIA/Afritech consortium includes an identity verification platform, and the new biometric card's contactless chip allows authentication of the holder, per BBC News Afrique.",
+       "as_of": "2024-05-14",
+       "date_precision": "day",
+       "system": "ONIP national ID card",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Last census 1984; the article gives no mapping, pilot, funding or date for a census, only planning since 2014 and a 2022 decree."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "BBC News Afrique reports that the CENI began collecting biometric data from people in 2023 when enrolling voters for the elections, and that ONIP draws on the CENI database.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "CENI voter enrolment",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "supplier",
+       "fact": "Under the 20-year contract the IDEMIA/Afritech consortium produces the cards, manages the general population file and builds and operates the identification centres, per BBC News Afrique.",
+       "as_of": "2024-05-14",
+       "date_precision": "day",
+       "system": "ONIP national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONIP national ID card",
+       "country_label": "Carte d'Identité Nationale (ONIP)",
+       "class": "idsystem",
+       "platform": "IDEMIA/Afritech consortium",
+       "owner": "ONIP (Ministry of the Interior)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ONIP resumed issuing the new biometric national ID card on 26 April 2024 in the pilot Kinshasa communes of Bandalungwa, Lingwala, Limete and N'sele, with 8 further communes and then 12 to follow, per BBC News Afrique.",
+       "as_of": "2024-04-26",
+       "date_precision": "day",
+       "system": "ONIP national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "ONIP, created in 2011, was entrusted with building the general population file (fichier général de la population), and a 2022 decree organised identification and census operations, per BBC News Afrique.",
+       "as_of": "2024-05-14",
+       "date_precision": "day",
+       "system": "Fichier général de la population",
+       "class": "population"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing for this study."
+    }
+   }
+  }
+ }
+}

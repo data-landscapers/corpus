@@ -1,0 +1,50 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "pilot",
+   "fact": "The health minister says the pilot of the Dossier Patient Unique Partagé has run in 6 public health establishments in Dakar and the regions since the end of December 2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Dossier Patient Unique Partagé",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier Patient Unique Partagé",
+   "country_label": "Dossier Patient Unique Partagé",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health and Social Action (executed by SENUM SA)",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Social Action",
+   "tiers": ""
+  },
+  {
+   "system": "Hospitalia",
+   "country_label": "Hospitalia",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cubis",
+   "country_label": "Cubis",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,11 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-NGA,WIOCC,WIOCC,,,WIOCC (pan-African operator),,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
-NGA,2Africa,2Africa,,,,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
-NGA,2Africa,2Africa,,,consortium including Meta and Vodafone,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
+NGA,WIOCC,WIOCC,other,,WIOCC (pan-African operator),,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+NGA,2Africa,2Africa,other,,,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+NGA,2Africa,2Africa,other,,consortium including Meta and Vodafone,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
 NGA,PR1 Port Harcourt data centre,PR1,other,,Equinix (MainOne Solutions by Equinix),,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
-NGA,WIOCC,WIOCC,,,WIOCC Group,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
+NGA,WIOCC,WIOCC,other,,WIOCC Group,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
 NGA,ECOWAS Brown Card Insurance Scheme,ECOWAS Brown Card Insurance Scheme (Nigerian National Bureau),other,,ECOWAS Brown Card Permanent Secretariat,national bureaux of member states,2026-08-28-businessday-ecowas-brown-card-digital-transformation
 NGA,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,,AfCFTA Secretariat with Tony Blair Institute for Global Change; Nigeria AfCFTA Coordination Office nationally,national,2026-07-30-nigeria-inaugurates-adapt-forum-digital-trade-afcfta
 NGA,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,TWIN,"AfCFTA Secretariat with Tony Blair Institute, IOTA Foundation and World Economic Forum","national pilot (Nigeria, Kenya, Morocco)",2026-05-26-nigeria-kenya-morocco-afcfta-adapt
 NGA,Nigeria-Equatorial Guinea subsea fibre-optic cable,Nigeria-Equatorial Guinea subsea fibre-optic agreement,shared,,Backbone Connectivity Network Nigeria,,"2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity"
 NGA,Nigeria-Equatorial Guinea subsea fibre-optic cable,subsea fibre-optic cable,shared,,Backbone Connectivity Network Nigeria Ltd,,2026-02-12-nigeria-equatorial-guinea-subsea-fibre
+NGA,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre

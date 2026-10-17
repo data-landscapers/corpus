@@ -1,0 +1,269 @@
+{
+ "slug": "2026-07-07-dza-jeune-independant-centre-national-services-numeriques",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on government AI in use; AI is mentioned only as a computing load."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Capacity for AI computing is mentioned but no AI facility, GPUs or model is named."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil status is named only as a database to be centralised, no register system described."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Le Jeune Indépendant says the centre is connected to several energy sources, beyond its batteries and standby generators, with fully redundant power.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national des services numériques",
+       "country_label": "Algérie",
+       "class": "datacentre",
+       "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+       "owner": "state",
+       "tiers": "Tier III Design"
+      }
+     ],
+     "note": "No PUE or water figure stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Le Jeune Indépendant says the centre, inaugurated 5 July 2026, hosts servers of administrations and companies that are its clients.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national des services numériques",
+       "country_label": "Algérie",
+       "class": "datacentre",
+       "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+       "owner": "state",
+       "tiers": "Tier III Design"
+      }
+     ],
+     "note": "Only one facility holds Tier III; Blida is its mirror site. No cloud region of a global provider."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "Le Jeune Indépendant says the centre, inaugurated 5 July 2026, serves administrations and companies as clients and is built to centralise state databases such as civil status, justice, tax and health.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national des services numériques",
+       "country_label": "Algérie",
+       "class": "datacentre",
+       "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+       "owner": "state",
+       "tiers": "Tier III Design"
+      }
+     ],
+     "note": "No rule or contract terms stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Le Jeune Indépendant says the state's centre, inaugurated 5 July 2026 by President Tebboune, serves administrations and companies as clients.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "Le Jeune Indépendant presents the centre as Algeria's national sovereign cloud inaugurated by the President.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "Le Jeune Indépendant says the centre, inaugurated 5 July 2026, serves administrations and companies as clients and is built to centralise state databases such as civil status, justice, tax and health.",
+       "as_of": "2026-07-05",
+       "date_precision": "day",
+       "system": "Centre national des services numériques",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national des services numériques",
+       "country_label": "Algérie",
+       "class": "datacentre",
+       "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+       "owner": "state",
+       "tiers": "Tier III Design"
+      }
+     ],
+     "note": "Only one facility holds Tier III."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on local civil registration offices."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural access figure stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-ups are named only as expected beneficiaries; no law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  }
+ }
+}

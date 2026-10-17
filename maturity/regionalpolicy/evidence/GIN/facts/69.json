@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-26-gin-hac-onc-niger-digital-regulation-roadmap",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Guinea's Haute Autorite de la Communication is a member of the PRA-UEMOA-Guinee regulators' platform, whose joint communiqué with Niger's ONC names digital regulation as a main challenge and commits to press platforms on algorithm transparency.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "PRA-UEMOA-Guinee",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PRA-UEMOA-Guinee",
+   "country_label": "Guinea",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Audiovisual regulators of UEMOA states and Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

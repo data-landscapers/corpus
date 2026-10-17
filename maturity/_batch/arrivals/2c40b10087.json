@@ -1,0 +1,146 @@
+{
+ "slug": "2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Pilot issues unique numbers with birth acts, but no link between the civil register and an ID system is stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "WURI-Niger and the DGECM-R launched on 15 April 2025 a pilot in four communes with single civil-status counters (Dogondoutchi, Fillingue, Magaria, Tessaoua) to register unregistered under-5s and digitise birth acts held in town hall archives.",
+       "as_of": "2025-04-15",
+       "date_precision": "day",
+       "system": "WURI-Niger under-5 registration pilot",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people holding a national ID is given; the 4 million figure is children targeted."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The Ministry of the Interior says the pilot launched on 15 April 2025 in four communes registers under-5s and issues them a unique identifier number with a new birth certificate, with about 4 million children targeted over three phases.",
+       "as_of": "2025-04-15",
+       "date_precision": "day",
+       "system": "WURI-Niger Numero d'Identifiant Unique pilot",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of the Interior's deputy secretary general says the basic identification system is currently being designed and not yet in service.",
+       "as_of": "2025-04-15",
+       "date_precision": "day",
+       "system": "basic identification system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WURI-Niger unique identifier pilot",
+       "country_label": "Niger",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "DGECM-R / WURI-Niger",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Pilot digitises archived acts and registers births, but entry at the office at registration is not stated."
+    }
+   }
+  }
+ }
+}

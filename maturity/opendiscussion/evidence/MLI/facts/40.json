@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-09-mli-hrw-press-freedom-under-fire",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Malian Association of Private Print Media Publishers denounced the 5 February 2026 arrest of editor Youssouf Sissoko.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Editor Youssouf Sissoko of L'Alternance was arrested on 5 February 2026, charged and held in Bamako's central prison over an article questioning Niger leader Tiani's statements, per Human Rights Watch.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

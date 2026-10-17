@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-12-ken-peopledaily-senate-committee-statistics-bill-2026",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "County statistics offices proposed in a bill; nothing on local government office connection."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Senate Standing Committee on Finance and Budget reviewed the draft Statistics Bill 2026, which would turn KNBS into the Kenya Statistics Authority, with KNBS officials on 12 October 2026 (People Daily).",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Statistics Bill 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

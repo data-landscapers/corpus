@@ -255,10 +255,11 @@ A November 2023 decree creates a per-pupil record that schools are to fill; whet
 
 ### Cote d'Ivoire: 2 Nascent
 
-A per-pupil performance record started in five Abidjan pilot schools, level not named, in January 2024; whether it went further is not known.
+A school information system launched in two regions in July 2025, after a 2024 Abidjan pilot; its coverage and who enters data are unknown.
 
 - The education ministry's SNDECI 2024-2028 says DOBCONNECT was started in January 2024 in 5 pilot establishments of the Abidjan regional directorates (DRENA), with its general rollout due in May 2024, a step the strategy gives as still to come; the level of the 5 establishments is not stated ([source, 2024-01](https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf)).
 - The SNDECI 2024-2028 says DOBCONNECT collects information on pupils' school performance so that each can be followed individually and dropout fought, from January 2024 in its pilot establishments; it does not say who enters the data, where or how often ([source, 2024-01](https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf)).
+- Agence Ecofin reports SIGE was launched on 10 July 2025 in the Bouaké and San Pedro regions ahead of a national extension ([source, 2025-07-10](https://www.agenceecofin.com/actualites-numerique/1307-130038-la-cote-d-ivoire-lance-la-plateforme-sige-pour-mieux-gerer-son-systeme-educatif)).
 - The landing page asks pupils to identify themselves online for school year 2019-2020 and says the platform manages schools from online enrolment through administrative and teaching management to the proclamation of school results, with tools for parents to follow their children; it does not say that schools enter attendance or results during the year ([source, 2019](http://smartecole.cloud/accueil.php)).
 - The landing page presents SMART ECOLE as in service for the 2019-2020 online identification of pupils and gives no number or share of schools using it; the page is undated, so dated to its published year ([source, 2019](http://smartecole.cloud/accueil.php)).
 

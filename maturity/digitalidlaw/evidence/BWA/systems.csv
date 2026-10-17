@@ -1,9 +1,9 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BWA,National Registration Act (Chapter 01:02),National Registration Act,law,,Registrar of National Registration,,1986-12-31-national-registration-act
-BWA,National register and district registers of citizens (identity cards),National register,,,Department of Civil and National Registration,national;district,1986-12-31-national-registration-act
+BWA,National register and district registers of citizens (identity cards),National register,other,,Department of Civil and National Registration,national;district,1986-12-31-national-registration-act
 BWA,"National Registration Act, 1986 (No. 26)",National Registration Act,law,,Parliament of Botswana; Minister responsible for Home Affairs,,1986-12-24-national-registration-act-1986
-BWA,National register and district registers (identity cards),National register,,,Registrar of National Registration,national;district,1986-12-24-national-registration-act-1986
-BWA,Omang (National Identity Card),Omang,,,Ministry of Labour and Home Affairs,national,2026-07-29-botswana-national-id-replacement-delays
-BWA,Electronic Identification System / Digital ID project,Digital ID,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
-BWA,Biometric Omang system,Biometric Omang,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
-BWA,Omang (National Identity Card),Omang,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,National register and district registers (identity cards),National register,other,,Registrar of National Registration,national;district,1986-12-24-national-registration-act-1986
+BWA,Omang (National Identity Card),Omang,other,,Ministry of Labour and Home Affairs,national,2026-07-29-botswana-national-id-replacement-delays
+BWA,Electronic Identification System / Digital ID project,Digital ID,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,Biometric Omang system,Biometric Omang,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,Omang (National Identity Card),Omang,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)

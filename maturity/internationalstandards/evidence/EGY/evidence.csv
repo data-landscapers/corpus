@@ -1,1 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+EGY-001,EGY,international,standing,member,"The IEC members page lists Egypt as an IEC Full Member, with participating status on some technical committees and observer status on others.",2026,year,Egypt IEC national committee,adoption,2026-01-01-egy-iec-members-egypt,https://iec.ch/dyn/www/f?p=103%3A33%3A0%3A%3A%3A%3AFSP_ORG_ID%3A1044
+EGY-002,EGY,international,standing,member,"The ISO member page lists the Egyptian Organization for Standardization and Quality (EOS) as an ISO member body, with ISO membership obtained in 1957.",1957,year,EOS,adoption,2026-01-01-egy-iso-member-eos,https://www.iso.org/member/1700.html

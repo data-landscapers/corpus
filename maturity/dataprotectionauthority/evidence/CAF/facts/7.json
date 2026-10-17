@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-16-caf-village-justice-huit-forces-loi-donnees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Jurist Laurent-Fabrice Zengue writes that Loi 24.001 gives the data protection agency its missions and powers but does not organise it, with an interim arrangement for the agency's non-operation.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "Agence de protection des données personnelles",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

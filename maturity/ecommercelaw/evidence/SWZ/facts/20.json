@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-swz-swazi24-maziya-national-data-policy",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Minister Savannah Maziya listed the Electronic Transactions Act of 2022 among Eswatini's existing legal groundwork.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 2022",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act 2022",
+   "country_label": "Eswatini",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

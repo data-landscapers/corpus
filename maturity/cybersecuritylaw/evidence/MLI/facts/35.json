@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-25-mli-rsf-broadcast-suspension-journalist-arrests",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "RSF says journalist Youssouf Sissoko was sentenced on 23 March 2026 to two years in prison and a 1 million CFA franc fine over an opinion article, under Mali's cybercrime law, which shows the law is in force.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "cybercrime law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "RSF says journalists Chahana Takiou and Abderhmane Keïta were arrested in June 2026 and charged under the cybercrime law, bringing to three the journalists detained under it, after Sissoko's sentence of 23 March 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cybercrime law",
+   "country_label": "Mali",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

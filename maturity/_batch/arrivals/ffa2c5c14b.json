@@ -1,0 +1,119 @@
+{
+ "slug": "2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "Statistics Mauritius published Economic and Social Indicators Issue No 1949, Population and Vital Statistics Jan-Jun 2026, on 28 August 2026, with vital statistics drawn from the Civil Status Division's computerised system.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Economic and Social Indicators Issue No 1949",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "vital",
+       "value": "published",
+       "fact": "The issue reports 6,386 live births and 6,333 deaths registered in January-June 2026, extracted from the Civil Status Division's computerised system, per Statistics Mauritius.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Economic and Social Indicators Issue No 1949",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "computerised system at the Civil Status Division",
+       "country_label": "Civil Status Division computerised system",
+       "class": "civil",
+       "platform": "",
+       "owner": "Civil Status Division",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID system stated."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No census or household survey stated; population figures are provisional estimates."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "Statistics Mauritius states preliminary vital statistics, including 6,386 live births registered in January-June 2026 for the Republic, were extracted from the computerised system in place at the Civil Status Division.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Civil Status Division computerised system",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "The same issue reports 6,333 deaths registered in January-June 2026 compiled from the Civil Status Division's computerised system, per Statistics Mauritius.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "Civil Status Division computerised system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "computerised system at the Civil Status Division",
+       "country_label": "Civil Status Division computerised system",
+       "class": "civil",
+       "platform": "",
+       "owner": "Civil Status Division",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Central computerised system named; no local-office entry, event-level office coverage or record-making stated."
+    }
+   }
+  }
+ }
+}

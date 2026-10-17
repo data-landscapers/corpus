@@ -1,0 +1,9 @@
+{"slug": "2026-10-14-egy-etdatacenters-telecom-egypt-subsea-terrestrial-strategy", "studies": {
+"cloudstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government hosting or cloud policy is stated."}}},
+"datacentrepower": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre power or water arrangement is stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Telecom Egypt data center entity", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Telecom Egypt", "tiers": ""}], "note": "A dedicated data-centre entity is set up, but no facility in service, tier or cloud region is stated."}}},
+"datalocalisation": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No localisation rule is stated."}}},
+"exchangepoints": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No exchange point is mentioned."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Totals of 14+ landing points and 21+ subsea systems combine planned and in-service, so no route is stated in service; the Sharm El Sheikh-Taba cable is not yet in service."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre in service or its ownership tier is stated."}}}
+}}

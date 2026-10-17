@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,standards,standing,body,"ISO's member page says OCC, created by Ordinance No. 74-013 of 1974, is the national metrology, standardization and certification body.",2026,year,OCC,body,2026-01-01-cod-iso-member-occ,https://www.iso.org/member/308894.html

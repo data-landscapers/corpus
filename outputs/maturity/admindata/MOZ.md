@@ -8,6 +8,6 @@
 
 **Published every year.** No source held reports vital statistics published for two successive years. The nearest held fact: [the one given above](<https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/>).
 
-***Noted, not assessed***. [e-RCEV (Sistema de Registo Civil e Estatísticas Vitais)](<https://civil.registos.gov.mz/crvs/Home/About>); [ESSIR-SERV (as named by AIM)](<https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/>); [e-SIRCEV](<https://civil.registos.gov.mz/crvs/>); [SIRCEV (Sistema de Registo Civil e Estatísticas Vitais)](<https://www.studocu.com/row/document/universidade-sao-tomas-de-mocambique/direito/lei-122018-de-4-de-dezembro-revisao-do-codigo-de-registo-civil/158371975>); [MOZDATA](<https://mozdata.ine.gov.mz/index.php/catalog>).
+***Noted, not assessed***. [e-RCEV (Sistema de Registo Civil e Estatísticas Vitais)](<https://civil.registos.gov.mz/crvs/Home/About>); [ESSIR-SERV (as named by AIM)](<https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/>); [e-SIRCEV](<https://civil.registos.gov.mz/crvs/>); [SIRCEV (Sistema de Registo Civil e Estatísticas Vitais)](<https://tempo.co.mz/upload/legislacao/boletins_republica/2018/12%20Dezembro/series-i/br-series-i-04-12-2018-n.%C2%BA-236.pdf>); [MOZDATA](<https://mozdata.ine.gov.mz/index.php/catalog>).
 
 ***Not held***. No source held reports statistics from administrative records published since October 2023.

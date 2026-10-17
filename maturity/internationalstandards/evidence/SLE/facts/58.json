@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-sle-iso-slsb-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page says the Sierra Leone Standards Bureau has been a correspondent member of ISO since 1 January 2009 and is an IEC affiliate.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Sierra Leone Standards Bureau",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sierra Leone Standards Bureau (SLSB)",
+   "country_label": "SLSB",
+   "class": "adoption",
+   "platform": "",
+   "owner": "Sierra Leone Standards Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

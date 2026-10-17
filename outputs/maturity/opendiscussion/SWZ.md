@@ -6,7 +6,7 @@
 
 **Cuts and blocks, and a bar on them.** No cut or block of a connection or a site is held. The nearest held fact is that MISA, the media body, [engaged the Eswatini government on expression and media freedom](<https://misa.org/blog/misa-engages-eswatini-government-on-expression-and-media-freedom/>), in a blog dated 27 February 2026.
 
-**Punishment for speech, and its removal.** No arrest, charge or sanction for speech is held. The nearest held fact is a promised access to information law, which [MISA's account of its talks with the government](<https://misa.org/blog/misa-engages-eswatini-government-on-expression-and-media-freedom/>) names, with no date given for it.
+**Punishment for speech, and its removal.** The Southern Africa Litigation Centre says that [Mphandlana Shongwe was charged under the Suppression of Terrorism Act in 2009 for shouting political slogans at a meeting](<https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/>), and that the charge still stands untried. No removal of such an offence is held.
 
 ***Noted, not assessed***. [An access to information law, promised](<https://misa.org/blog/misa-engages-eswatini-government-on-expression-and-media-freedom/>).
 

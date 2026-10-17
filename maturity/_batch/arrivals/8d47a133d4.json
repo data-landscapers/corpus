@@ -1,0 +1,171 @@
+{
+ "slug": "2025-07-17-cmr-alb-key-features-cameroon-data-protection-law",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The document names Law No. 2010/012 of 21 December 2010 on Cybersecurity and Cybercrime in Cameroon as one of the complementary laws that make the data protection Act enforceable.",
+       "as_of": "2010-12-21",
+       "date_precision": "day",
+       "system": "Law No. 2010/012 on Cybersecurity and Cybercrime",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "The authors say the Act provides for a supervisory authority, the Personal Data Protection Authority, and that it is yet to be established.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "transition",
+       "fact": "The authors say Cameroon enacted Law No. 2024/017 Relating to Personal Data Protection on 23 December 2024, enforceable against controllers and processors after an 18-month grace period from enactment.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 Relating to Personal Data Protection",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The authors say the Act provides for a Personal Data Protection Authority, which is still to be established.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "none",
+       "fact": "The authors say the Act is to be complemented by regulations on implementation, retention, security measures and authorisations, not yet issued.",
+       "as_of": "2025-07-17",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 Relating to Personal Data Protection",
+       "class": "regulation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The authors say Law No. 2024/017 Relating to Personal Data Protection of 23 December 2024 becomes enforceable after an 18-month grace period from enactment.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 Relating to Personal Data Protection",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "The authors say the Personal Data Protection Authority provided for in the Act is yet to be established.",
+       "as_of": "2025-07-17",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The authors say the Act requires all cross-border transfers of personal data to be authorised by the data protection authority, with the Act enforceable after an 18-month grace period.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 Relating to Personal Data Protection",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  }
+ }
+}

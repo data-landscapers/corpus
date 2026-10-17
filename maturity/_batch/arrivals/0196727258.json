@@ -1,0 +1,135 @@
+{
+ "slug": "2025-01-01-lby-informatics-draft-cybercrime-law-session",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Draft cybercrime law is said only to aim at AI-related crime; no AI harm rule or authority is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "A near-finalized draft law on cybercrime and digital evidence was presented for expert feedback at the Informatics Governance Forum workshop, with earlier drafts dating from 2008, 2009 and 2015.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Draft Law on Cybercrime and Digital Evidence",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "A representative of Internet Society Libya said Article 39 (defamation) of the draft cybercrime law could be used to suppress activists and journalists, and proposed civil rather than criminal defamation.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Internet Society Libya",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-11-alchourouk-khadamat-app-app-store-e-houwiya",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Citizen app release; nothing on local government office connection."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Khadamat",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "Ministry of Communication Technologies",
+       "tiers": ""
+      }
+     ],
+     "note": "App gives access to civil-status services for citizens; no office-level birth or death entry stated."
+    }
+   }
+  }
+ }
+}

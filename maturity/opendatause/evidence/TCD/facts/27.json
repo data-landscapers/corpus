@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-21-tcd-tchadinfos-inseed-open-data-portal-atelier",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Open Data Portal (ODP)",
+   "country_label": "Chad ODP",
+   "class": "open",
+   "platform": "AfDB Open Data Portal",
+   "owner": "INSEED with AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": "Workshop to load and validate data on the portal; the story does not say data is published for download."
+}

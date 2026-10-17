@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Interior Minister says infractions over civil status and identity data will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification National (NIN) system",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

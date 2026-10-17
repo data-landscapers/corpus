@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-cod-iso-member-occ",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says OCC, created by Ordinance No. 74-013 of 1974, is the national metrology, standardization and certification body.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "OCC",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Project East2West,Project East2West,shared,terrestrial fibre optic network,"Bayobab (MTN Group), majority; Africa50 co-developer",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
-AGO,"WACS, SACS and MONET submarine cables",Angola Cables submarine infrastructure,,submarine cable,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,"WACS, SACS and MONET submarine cables",Angola Cables submarine infrastructure,other,submarine cable,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
 AGO,Paratus Luanda-Lusaka-Dar es Salaam fibre route,Luanda-Lusaka-Dar es Salaam route,shared,terrestrial fibre,Paratus Group,,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
 AGO,Paratus Angola DC3,"DC3, Luanda",other,Tier IV data centre,Paratus Angola,,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
 AGO,ANGOSAT-2,ANGOSAT-2,shared,satellite,Angola (National Space Programme Management Office; MINTTICS announces),Tmcel and Televisao de Mocambique (Mozambique) in proof-of-concept trials; Telecom Namibia under a pilot agreement,2026-08-25-tmcel-angosat2-satellite-trials-itweb

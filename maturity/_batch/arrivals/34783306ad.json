@@ -1,0 +1,65 @@
+{
+ "slug": "2026-02-09-mli-hrw-press-freedom-under-fire",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Human Rights Watch says Mali's 2019 cybercrime law, articles 20 and 21 of which criminalise 'threats' and 'insults' online with up to 10 years in prison, was used to arrest editor Youssouf Sissoko.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "2019 cybercrime law",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Human Rights Watch reports editor Youssouf Sissoko was arrested on 5 February 2026 under the 2019 cybercrime law, charged by a cybercrime unit prosecutor with spreading false information and insulting a foreign head of state, and held in pretrial custody.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "2019 cybercrime law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "The Malian Association of Private Print Media Publishers denounced the 5 February 2026 arrest of editor Youssouf Sissoko.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Editor Youssouf Sissoko of L'Alternance was arrested on 5 February 2026, charged and held in Bamako's central prison over an article questioning Niger leader Tiani's statements, per Human Rights Watch.",
+       "as_of": "2026-02-05",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

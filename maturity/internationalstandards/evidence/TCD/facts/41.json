@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tcd-iso-atnor-iso-member-page",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Agence Tchadienne de Normalisation (ATNOR) as a correspondent member, observing 7 technical and 2 policy development committees.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Agence Tchadienne de Normalisation",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

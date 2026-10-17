@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-01-cod-iso-member-occ",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection mentioned for goods only; no digital finance rule."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Office Congolais de Controle (OCC) as DRC's ISO member body.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "OCC",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO's member page says OCC, created by Ordinance No. 74-013 of 1974, is the national metrology, standardization and certification body.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "OCC",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

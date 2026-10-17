@@ -1,0 +1,379 @@
+{
+ "slug": "2024-12-04-civ-disruptafrica-hub2-series-a",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Round is an issuer-level EUR8m total with no amount named for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

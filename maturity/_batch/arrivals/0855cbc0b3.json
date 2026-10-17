@@ -1,0 +1,12 @@
+{"slug":"2025-03-28-moz-noticias-registo-civil-bi-interoperabilidade","studies":{
+"authentication":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"MOZ":{"facts":[{"sub_indicator":"link","aspect":"link","value":"inservice","fact":"Jornal Notícias reports that people registered in the Nacala birth campaign can have the Bilhete de Identidade issued on the spot from the electronic data the registrar captured, through interoperability of the two services.","as_of":"2025-03-28","date_precision":"day","system":"registo de nascimento / Bilhete de Identidade interoperability","class":"crvslink"}],"systems":[],"note":""}}},
+"civilregister":{"countries":{"MOZ":{"facts":[{"sub_indicator":"civil","aspect":"births","value":"underway","fact":"Jornal Notícias reports the Government intends to digitise civil registration through the Digital Economy and E-Government sub-projects, with the Ministry of Justice responsible for birth registration, and registrars can enter data on the digital platform once online.","as_of":"2025-03-28","date_precision":"day","system":"plataforma digital de registo de nascimento","class":"civil"}],"systems":[],"note":""}}},
+"egovservices":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No online government service stated."}}},
+"idcoverage":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No count or share of people holding an ID stated."}}},
+"idfrombirth":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No number given at birth stated."}}},
+"idmaintenance":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No public register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No statement on the ID system's uniqueness, biometrics or certification."}}},
+"registry":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Digital capture is described only within a two-month campaign in Nacala (outreach), so no office-level fact."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-local-insurers-go-solo-amid-ai-policy-vacuum",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ITWeb reports South Africa's draft National AI Policy was withdrawn this year over fictitious citations, and the communications department is still targeting 2026/27 to finalise it with an advisory panel reviewing references.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

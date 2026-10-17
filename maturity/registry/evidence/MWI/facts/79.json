@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-10-mwi-times-nrb-targets-8000-children",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "NRB Secretary Mphatso Sambo said NRB had electronic birth and death registration systems, integrated with the national ID system between April 2024 and February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "electronic birth and death registration systems",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": "Document does not say entry is made at the local office or give office coverage."
+}

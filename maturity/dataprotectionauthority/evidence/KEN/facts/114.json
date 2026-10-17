@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-tra-kenya-odpc-hosts-sri-lanka-data-protection-authority",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Kenya's Office of the Data Protection Commissioner, headed by Data Commissioner Immaculate Kassait, hosted a Sri Lankan authority delegation for a three-day study visit covering compliance, complaints, investigations and enforcement.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Kenya",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

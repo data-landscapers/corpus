@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,price,cost,coverage,share:8.45,2025,MWI-004,MWI-003=share:9.46;MWI-002=share:24.15;MWI-001=share:23.6,
+MWI,price,cost,coverage,share:8.45,2025,MWI-004,MWI-005=price:USD:0.38:1;MWI-003=share:9.46;MWI-002=share:24.15;MWI-001=share:23.6,

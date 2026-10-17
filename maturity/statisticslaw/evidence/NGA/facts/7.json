@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-15-nga-nbs-nlfs-q1-2024-microdata",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The catalogue entry says respondent confidentiality is protected by the Statistics Act 2007, published in the Official Gazette No. 60 vol. 94 of 11 June 2007, with section 27 setting data producers' obligation to release anonymised microdata.",
+   "as_of": "2007-06-11",
+   "date_precision": "day",
+   "system": "Statistics Act 2007",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,14 @@
+{"slug": "2024-03-18-tgo-capacity-equiano-togo-cls-traffic", "studies": {
+"exchangepoints": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No exchange point is mentioned."}}},
+"internationalbandwidth": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Capacity Media reports that CSquared landed the Equiano cable in Togo in 2022 and provisioned services in 2023, with 3 Tbps on the cable.", "as_of": "2023", "date_precision": "year", "system": "Equiano", "class": "route"},
+{"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "CSquared's CEO says it increased capacity at the Lome Equiano landing station for Togocom, GVA and other Togo customers and provided capacity to MTN Ghana and Vodafone Ghana, and describes the firm as open-access.", "as_of": "2024-03", "date_precision": "month", "system": "Equiano", "class": "route"}
+], "systems": [{"system": "Equiano", "country_label": "Togo", "class": "route", "platform": "submarine cable landing station at Lome", "owner": "Google; landing station run by CSquared", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No user share is stated."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"mobileaffordability": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No mobile data price is stated."}}},
+"opendiscussion": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on debate, cuts or punishment."}}},
+"regionalinfrastructure": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "shared", "aspect": "service", "value": "in-use", "fact": "CSquared's CEO says it connected its cross-border circuits from Togo into Ghana and Benin and provided capacity to MTN Ghana and Vodafone Ghana through the Equiano landing station in Lome.", "as_of": "2024-03", "date_precision": "month", "system": "CSquared cross-border fibre and Equiano Lome landing station", "class": "shared"}
+], "systems": [], "note": ""}}}
+}}

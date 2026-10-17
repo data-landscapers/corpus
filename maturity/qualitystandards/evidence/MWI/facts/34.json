@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mwi-iso-mbs-member",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the Malawi Bureau of Standards is the national standards body responsible for preparing and publishing Malawi standards.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MBS",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

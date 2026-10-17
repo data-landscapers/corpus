@@ -1,0 +1,9 @@
+{"slug": "2024-02-01-rwa-fosdem-typo3-collaborative-gov-websites", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The slides cover government websites and name no authentication service in Rwanda."}}},
+"digitalsovereignty": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Sovereignty is argued for open-source adoption in general; no Rwandan rule, hosting or contract terms on state data are stated."}}},
+"ecommercelaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No electronic transactions or e-commerce law is mentioned."}}},
+"internationalstandards": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No international standards membership, adoption or rule is mentioned."}}},
+"itcapacity": {"countries": {"RWA": {"facts": [{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The TYPO3 Association's FOSDEM 2024 slides state that a national functional and technical support center for the over 300 Rwandan government websites on the shared TYPO3 platform is operated by RISA.", "as_of": "2024-02", "date_precision": "month", "system": "Gov.rw multi-tenant TYPO3 platform", "class": "staff"}], "systems": [{"system": "Gov.rw multi-tenant TYPO3 platform", "country_label": "Gov.rw", "class": "staff", "platform": "TYPO3", "owner": "RISA", "tiers": ""}], "note": ""}}},
+"offsitebackup": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Disaster recovery and backups appear only as a principle for government websites; no backup site or place is named."}}},
+"qualitystandards": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A national website standard is mentioned but no standards body, issued IT standard or certification is stated."}}}
+}}

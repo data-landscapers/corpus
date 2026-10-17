@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-ssd-salc-oral-statement-cybercrime-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Southern Africa Litigation Centre says Kenya's Court of Appeal struck down two sections of the Computer Misuse and Cybercrimes Act in March 2026, leaving the rest of the Act in place.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Computer Misuse and Cybercrimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Misuse and Cybercrimes Act",
+   "country_label": "Kenya",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

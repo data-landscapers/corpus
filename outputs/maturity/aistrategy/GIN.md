@@ -2,10 +2,10 @@
 
 ## National AI strategy
 
-**Strategy adopted.** Guinea is developing a national AI policy or strategy. [A regional digital rights organisation, in a report published in July 2026, lists Guinea among countries still at different stages of developing their AI policies or strategies](<https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/>). No adoption is stated. No source held names the ministry leading the work, or says how far the drafting has gone.
+**Strategy adopted.** [The ministry responsible for posts, telecommunications and the digital economy (MPTEN) reports that in 2025 a national AI roadmap for 2026 to 2035 was validated](<https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf>). [It also reports that a three-phase strategy to master and regulate AI was adopted that year, using UNDP's AILA methodology](<https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf>). The ministry calls the document the Feuille de route nationale IA 2026-2035.
 
-**Body named and action funded.** [The policy or strategy was still being developed in July 2026](<https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/>). Because the strategy is not yet adopted, there is nothing for a body to carry out or for money to follow. No source held names a council, office, agency or ministry unit set up for it, or public money set aside for it. No implementation plan or budget for it is held.
+**Body named and action funded.** [The ministry's report names the owner of the roadmap as MPTEN itself, and the roadmap covers 2026 to 2035](<https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf>). No source held names a council, office, agency or ministry unit set up or named to carry out the strategy. No source held names public money allocated to it, or an action in it started with its funding named. No implementation plan or budget for it is held.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held says a national AI strategy is adopted and still running.
+***Not held***. No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.

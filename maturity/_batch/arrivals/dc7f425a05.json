@@ -1,0 +1,84 @@
+{
+ "slug": "2026-01-13-mrt-ecofin-us-mauritania-cybersecurity-csirt",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Ecofin says a April 2024 decree created the National Agency for Cybersecurity and Electronic Certification to protect national cyberspace.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "National Agency for Cybersecurity and Electronic Certification",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Ecofin says Mauritania implements a National Digital Security Strategy for 2022-2026 with six strategic objectives.",
+       "as_of": "2026-01-13",
+       "date_precision": "day",
+       "system": "National Digital Security Strategy 2022-2026",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law is stated; Malabo ratification is a treaty, noted only."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "Ecofin says Mauritania ratified the African Union's Malabo Convention in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Ecofin says Mauritania ratified the African Union's Malabo Convention on cybersecurity and personal data protection in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

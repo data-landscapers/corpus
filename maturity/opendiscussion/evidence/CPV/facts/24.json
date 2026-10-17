@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-09-cpv-balai-recaddh-perseguicoes-jornalistas",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The RECADDH network says journalists Herminio Silves and Daniel Almeida are accused of qualified disobedience over reports on a death, and demands the cases be dropped.",
+   "as_of": "2025-08-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The RECADDH human-rights network publicly denounced an escalation of judicial prosecutions and intimidation of journalists in Cabo Verde.",
+   "as_of": "2025-08-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

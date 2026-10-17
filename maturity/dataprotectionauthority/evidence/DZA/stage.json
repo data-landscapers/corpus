@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "3",
-   "standing": "constituted",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-003;DZA-001",
-   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-003;DZA-001",
+      "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

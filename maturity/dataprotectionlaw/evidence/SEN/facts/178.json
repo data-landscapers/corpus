@@ -1,0 +1,27 @@
+{
+ "slug": "2023-11-01-sen-dgpsn-registre-national-unique-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "DGPSN cites Law no. 2008-12 of 25 January 2008 on personal data protection as the framework for RNU data sharing.",
+   "as_of": "2008-01-25",
+   "date_precision": "day",
+   "system": "Law 2008-12",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "DGPSN says RNU data sharing requires authorization for data usage by, and data declaration to, the CDP.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "CDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

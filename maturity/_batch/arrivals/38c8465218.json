@@ -1,0 +1,52 @@
+{
+ "slug": "2025-11-07-mrt-mfwa-activist-arrested-facebook-post",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The Media Foundation for West Africa says journalist Warda Ahmed Souleymane was arrested on 31 October 2025 over a Facebook post calling for peaceful protest against the government and charged on 6 November 2025 with undermining state security.",
+       "as_of": "2025-11-06",
+       "date_precision": "day",
+       "system": "not stated",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "slug": "2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Deputy Minister Nzuza says Home Affairs has made investments in building an e-birth registration platform to make birth registration easier and more accessible.",
+       "as_of": "2025-07-08",
+       "date_precision": "day",
+       "system": "e-birth registration platform",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-birth registration platform",
+       "country_label": "South Africa",
+       "class": "civil",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Deputy Minister Nzuza says Home Affairs set aside R4 million for training, with a Digital Literacy Programme for all staff rolling out over 2025 to 2028 covering information literacy, collaboration tools, devices and software, cyber security and content management.",
+       "as_of": "2025-07-08",
+       "date_precision": "day",
+       "system": "Home Affairs Digital Literacy Programme",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only card issue counts (25 million Smart IDs), not people enrolled as a share of population."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Deputy Minister Nzuza says Home Affairs issued more than 3.5 million Smart ID Cards in 2024/25, over 970,000 of them first-time issues, with over 25 million persons issued since modernisation began.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Smart ID Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart ID Card",
+       "country_label": "South Africa",
+       "class": "idsystem",
+       "platform": "Live Capture",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Deputy Minister Nzuza says birth registration is the foundation of the department's population register.",
+       "as_of": "2025-07-08",
+       "date_precision": "day",
+       "system": "population register",
+       "class": "population"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an e-birth platform under investment and an archive digitisation of 49 million records; no office-level digital entry stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

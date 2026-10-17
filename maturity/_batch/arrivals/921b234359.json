@@ -1,0 +1,22 @@
+{"slug": "2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou", "studies": {
+"fibrebackbone": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document covers a cross-border redundant route, not a national backbone."},
+"GIN": {"facts": [], "systems": [], "note": "Document covers a cross-border redundant route, not a national backbone."},
+"LBR": {"facts": [], "systems": [], "note": "Document covers a cross-border redundant route, not a national backbone."},
+"SLE": {"facts": [], "systems": [], "note": "Document covers a cross-border redundant route, not a national backbone."}}},
+"policyresearch": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No research institution mentioned."},
+"GIN": {"facts": [], "systems": [], "note": "No research institution mentioned."},
+"LBR": {"facts": [], "systems": [], "note": "No research institution mentioned."},
+"SLE": {"facts": [], "systems": [], "note": "No research institution mentioned."}}},
+"regionalinfrastructure": {"countries": {
+"CIV": {"facts": [], "systems": [{"system": "redundant terrestrial fibre route", "country_label": "Cote d'Ivoire", "class": "other", "platform": "terrestrial fibre", "owner": "", "tiers": ""}], "note": "Delegates visited to sign an MoU on a redundant route; no signing reported, so not an agreement."},
+"GIN": {"facts": [], "systems": [{"system": "redundant terrestrial fibre route", "country_label": "Guinea", "class": "other", "platform": "terrestrial fibre", "owner": "", "tiers": ""}], "note": "Delegates visited to sign an MoU on a redundant route; no signing reported, so not an agreement."},
+"LBR": {"facts": [], "systems": [{"system": "redundant terrestrial fibre route", "country_label": "Liberia", "class": "other", "platform": "terrestrial fibre", "owner": "", "tiers": ""}], "note": "Delegates visited to sign an MoU on a redundant route; no signing reported, so not an agreement."},
+"SLE": {"facts": [], "systems": [{"system": "redundant terrestrial fibre route", "country_label": "Sierra Leone", "class": "other", "platform": "terrestrial fibre", "owner": "NatCA (host regulator)", "tiers": ""}], "note": "Delegates visited to sign an MoU on a redundant route; no signing reported, so not an agreement."}}},
+"regionalpolicy": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Framework agreement described as to be signed; no signature or African body meeting reported."},
+"GIN": {"facts": [], "systems": [], "note": "Framework agreement described as to be signed; no signature or African body meeting reported."},
+"LBR": {"facts": [], "systems": [], "note": "Framework agreement described as to be signed; no signature or African body meeting reported."},
+"SLE": {"facts": [], "systems": [], "note": "Framework agreement described as to be signed; no signature or African body meeting reported."}}}
+}}

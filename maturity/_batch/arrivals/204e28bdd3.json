@@ -1,0 +1,7 @@
+{"slug": "2025-03-03-com-mfbsb-mix-id-fonctionnaires", "studies": {
+"civilserviceskills": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only identifies agents to be trained on the MIX-ID system; no digital-skills programme stated."}}},
+"coresystems": {"countries": {"COM": {"facts": [], "systems": [{"system": "MIX-ID", "country_label": "MIX-ID", "class": "other", "platform": "", "owner": "Ministere des Finances, du Budget et du Secteur Bancaire", "tiers": ""}], "note": "MIX-ID staff-management system replacing GISE is in its first enrolment phase; document does not state payroll, finance or tax running on it."}}},
+"idcoverage": {"countries": {"COM": {"facts": [], "systems": [], "note": "No national ID enrolment count or share stated; only 1,000 civil servants targeted for staff-card enrolment."}}},
+"idregisters": {"countries": {"COM": {"facts": [], "systems": [], "note": "MIX-ID is a civil-service register; document does not say it is keyed on a national ID number."}}},
+"idrobustness": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document concerns a civil-service staff system and biometric staff card, not a national ID system."}}}
+}}

@@ -1,0 +1,45 @@
+{
+ "slug": "2026-01-01-lby-iso-lncsm-member-page",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Libyan National Centre for Standardization and Metrology as Libya's ISO member body.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "LNCSM",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO's member page says LNCSM, a public organization established in 1990, is Libya's national standards body and issues and approves standards.",
+       "as_of": "1990",
+       "date_precision": "year",
+       "system": "LNCSM",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

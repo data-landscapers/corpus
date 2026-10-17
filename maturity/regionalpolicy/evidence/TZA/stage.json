@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "5",
-   "part": "active",
-   "effect": "in-use",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-002",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "5",
+      "part": "active",
+      "effect": "in-use",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002;TZA-004",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

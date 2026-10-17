@@ -1,1 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,international,standing,member,ISO's member page lists the Office Congolais de Controle (OCC) as DRC's ISO member body.,2026,year,OCC,adoption,2026-01-01-cod-iso-member-occ,https://www.iso.org/member/308894.html
+COD-002,COD,international,standing,member,The Office Congolais de Controle presents itself as a member of ISO and of the IEC affiliate country programme.,2024-04-25,day,Office Congolais de Controle (OCC),adoption,2024-04-25-cod-occ-semaine-francaise-membre-iso,https://www.occ.cd/2024/04/25/participation-de-locc-a-la-8eme-edition-de-la-semaine-francaise-de-kinshasa/

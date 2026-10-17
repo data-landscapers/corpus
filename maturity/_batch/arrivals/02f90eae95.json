@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-13-ner-anp-comite-strategie-acces-universel",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The ad hoc universal access committee installed on 13 October 2025 includes a representative of the Haute autorite de la protection des donnees a caractere personnel, per the ANP report.",
+       "as_of": "2025-10-13",
+       "date_precision": "day",
+       "system": "Haute autorite de la protection des donnees a caractere personnel",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a universal access strategy committee, a thematic strategy, not a national digital strategy."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police station records."
+    }
+   }
+  }
+ }
+}

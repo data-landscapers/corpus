@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-01-stp-inic-regulamentacoes-lei-1-2024-qni",
+ "studies": {
+  "interoperability": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "INIC's regulations list names \"Lei 1/2024 Quadro Nacional de Interoperabilidade\" among its regulations, alongside a separate Quadro Nacional de Interoperabilidade marked as under discussion; the law's text is not posted.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Quadro Nacional de Interoperabilidade",
+       "class": "framework"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Quadro Nacional de Interoperabilidade",
+       "country_label": "Sao Tome and Principe",
+       "class": "framework",
+       "platform": "",
+       "owner": "INIC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The page names the framework but says nothing of technical standards it sets."
+    }
+   }
+  }
+ }
+}

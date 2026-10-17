@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ecofin reports the Algeria-Tunisia Joint Technical Commission delegations agreed on 6 June 2026 to upgrade the existing terrestrial link between Algeria and Tunisia.",
+   "as_of": "2026-06-06",
+   "date_precision": "day",
+   "system": "Algeria-Tunisia terrestrial link",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": "New Algeria-Tunisia-Italy cable is only planned."
+}

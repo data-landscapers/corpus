@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-tgo-csquared-west-africa-cross-border-backbone",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "CSquared says its existing infrastructure runs from Accra to Lagos, now integrated with a new Abidjan to Monrovia route.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "CSquared West Africa fibre backbone",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSquared West Africa fibre backbone",
+   "country_label": "Ghana",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "CSquared",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

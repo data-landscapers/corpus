@@ -1,2 +1,4 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,GIN,gov.legislate--digital-payments-legislation-payments-law,review,unplaced,4,GIN-005;GIN-004;GIN-003,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-17,TGO,gov.legislate--digital-payments-legislation-payments-law,fact,5,5,TGO-002;TGO-003;TGO-005;TGO-007,Arrivals added TGO-007; stage unchanged.
+2026-10-17,UGA,gov.legislate--digital-payments-legislation-payments-law,fact,4,4,UGA-002;UGA-003,Arrivals added UGA-003; stage unchanged.

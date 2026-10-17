@@ -1,0 +1,199 @@
+{
+ "slug": "2026-10-16-cmr-leconomie-e-gov-africa-summit-aigle-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Secure electronic signature is operational in 37 of 40 administrations on the AIGLE platform, per figures given at the summit.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "AIGLE",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "Secure electronic signature on AIGLE is live across 37 of 40 administrations, per the summit figures.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "AIGLE",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AIGLE",
+       "country_label": "AIGLE",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Ministry of Public Service and Administrative Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "The public service minister presented AIGLE, the platform managing state agents' staff and payroll, with over 342,049 promotion and tenure acts processed automatically since 1 January 2025 and over 3 million payslip notifications sent, per figures given at the summit.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "AIGLE",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AIGLE",
+       "country_label": "AIGLE",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Public Service and Administrative Reform, with Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  }
+ }
+}

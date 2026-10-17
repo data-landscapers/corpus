@@ -60,10 +60,10 @@ Since 2008 Namibia's central bank requires banks to keep core banking systems in
 
 ### Nigeria: 4 Operating
 
-Nigeria's central bank ordered in June 2026 that payment data be stored in Nigeria from January 2027; the deadline has not yet passed.
+Nigeria's central bank ordered in June 2026 payment data be stored in Nigeria from January 2027 and says it will enforce; no penalty is known.
 
+- The CBN, which issued the circular for the payment institutions it licenses, says it will monitor compliance and may impose supervisory sanctions, though the circular sets no penalty schedule (reported 8 October 2026) ([source, 2026-10-08](https://thetrumpet.ng/cbn-insists-on-january-1-2027-deadline-for-banks-fintechs-to-store-payment-data-in-nigeria/)).
 - The directive was issued by the Central Bank of Nigeria for the financial institutions and payment operators it licenses; banks and fintechs interviewed say they have been unable to get clarity from the CBN on hybrid cloud arrangements ([source, 2026-09-29](https://businessday.ng/technology/article/banks-say-cbn-six-month-data-localisation-deadline-too-short-risks-disrupting-payments/)).
-- ThisDay reports the Central Bank of Nigeria as the body that issued the payments data hosting directive to fintechs and that bank CIOs had been unable to get clarity from over the previous three months, as at the 24 September 2026 panel ([source, 2026-09-24](https://www.thisdaylive.com/2026/09/25/stakeholders-fault-cbns-january-timeline-on-data-localisation-call-for-extension/)).
 - Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
 
 ### Rwanda: 4 Operating

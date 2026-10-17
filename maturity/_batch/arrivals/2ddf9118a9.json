@@ -1,0 +1,251 @@
+{
+ "slug": "2024-07-13-eth-addisfortune-e-governance-strategy-consultation",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The Ministry of Innovation & Technology put its five-year e-governance strategy up for final public consultation the week before 13 July 2024, and the minister says its financing is still pending.",
+       "as_of": "2024-07-13",
+       "date_precision": "day",
+       "system": "Digital Government Strategy",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "plan",
+       "value": "costed",
+       "fact": "Addis Fortune reports the five-year e-governance plan requires a USD 40 million investment, excluding infrastructure costs.",
+       "as_of": "2024-07-13",
+       "date_precision": "day",
+       "system": "Digital Government Strategy",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  }
+ }
+}

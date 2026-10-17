@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-14-ken-techtrendske-electronic-birth-notifications-three-counties",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic birth notification",
+   "country_label": "Kenya",
+   "class": "notification",
+   "platform": "hospital management systems linked to civil registration",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": "health facilities to civil registration; pilot in Nandi, Uasin Gishu, Elgeyo Marakwet"
+  }
+ ],
+ "note": "Health facilities notify the registrar of births; a pilot from 2026-10-20 is notification, noted not assessed, and the document says nothing of how local offices make the record."
+}

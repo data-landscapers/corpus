@@ -1,0 +1,180 @@
+{
+ "slug": "2025-12-05-eth-amn-addis-crvs-id-platform",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such thing for Ethiopia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Registration and Vital Statistics with ID System",
+       "country_label": "Integrated digital civil registration and residency service system (Addis Ababa)",
+       "class": "civil",
+       "platform": "",
+       "owner": "Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute",
+       "tiers": "city"
+      }
+     ],
+     "note": "Document says the system is operational in Addis Ababa but not where the event is entered, which events, or office counts."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Addis Ababa Mayor Adanech Abiebie said on 2025-12-05 that the city has launched an integrated digital civil registration and residency system, now operational and replacing previously paper-based processes (city only, no national rollout stated).",
+       "as_of": "2025-12-05",
+       "date_precision": "day",
+       "system": "Civil Registration and Vital Statistics with ID System",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil Registration and Vital Statistics with ID System",
+       "country_label": "Integrated digital civil registration and residency service system (Addis Ababa)",
+       "class": "civil",
+       "platform": "",
+       "owner": "Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute",
+       "tiers": "city"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Addis Ababa Mayor Adanech Abiebie said the new city civil registration system facilitates data sharing among Immigration, Health, Courts, the National ID program and others, with no event or direction of exchange stated.",
+       "as_of": "2025-12-05",
+       "date_precision": "day",
+       "system": "Civil Registration and Vital Statistics with ID System",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil Registration and Vital Statistics with ID System",
+       "country_label": "Integrated digital civil registration and residency service system (Addis Ababa)",
+       "class": "civil",
+       "platform": "",
+       "owner": "Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute",
+       "tiers": "city"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

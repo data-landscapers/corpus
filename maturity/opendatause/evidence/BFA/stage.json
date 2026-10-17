@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "unplaced",
-   "access": "",
-   "breadth": "",
-   "reuse": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No government data published for download is on record since October 2023.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "access": "licensed",
+      "breadth": "several",
+      "reuse": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-007",
+      "gaps": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
+      "note": "Counted from the four questions by study-ladder-opendatause.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

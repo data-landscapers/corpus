@@ -1,0 +1,27 @@
+{
+ "slug": "2024-02-01-rwa-ncsa-standard-contractual-clauses-transfer",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document states that transfers of personal data from Rwanda must comply with Article 49 of Law No 058/2021 of 13/10/2021, and the NCSA clauses are issued to meet that Article.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Article 49 of Law Nº 058/2021",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "means",
+   "fact": "The National Cyber Security Authority published standard contractual clauses for personal data transfer outside Rwanda under Article 49 of Law No 058/2021.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "NCSA Standard Contractual Clauses",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

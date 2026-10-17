@@ -1,0 +1,13 @@
+{"slug": "2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "National ID Program (NIDP)", "tiers": ""}], "note": "The document states no authentication service."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Birth registration and ID are discussed together but no record link is stated."}}},
+"civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No digital civil register is described."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only an unnamed digital transformation agenda and five-year strategy are mentioned; no strategy is described."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A count of 12.2 million is given with no population share."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Operation and ownership of the system are not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID is stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports that the 12-digit Fayda digital ID has been issued to more than 12.2 million individuals.", "as_of": "2025-02-12", "date_precision": "day", "system": "Fayda", "class": "idsystem"}], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "National ID Program (NIDP)", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"ETH": {"facts": [], "systems": [], "note": "UNHCR concern about slow birth registration is mentioned; no refugee registration or access is stated."}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No local office registration system is described."}}}
+}}

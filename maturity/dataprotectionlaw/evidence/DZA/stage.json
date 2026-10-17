@@ -13,7 +13,8 @@
       "flags": "advancing",
       "stage_sources": "DZA-001;DZA-007;DZA-011",
       "gaps": "No named decision or sanction on a controller, and no published count of decisions, sanctions or complaints settled for a stated period, in the 36 months to the as-at.",
-      "note": "Law 18-07 as amended by 25-11 is in force with regulations issued (stage 3 row met). Stage 4 needs application of applied or reported; every application row (DZA-004, 009, 013, 015, 018, 023) is guidance, deliberations, complaint service or training, valued activity, and DZA-015 is a general DPA decision on test results, not a named controller, so activity too."
+      "note": "Law 18-07 as amended by 25-11 is in force with regulations issued (stage 3 row met). Stage 4 needs application of applied or reported; every application row (DZA-004, 009, 013, 015, 018, 023) is guidance, deliberations, complaint service or training, valued activity, and DZA-015 is a general DPA decision on test results, not a named controller, so activity too.",
+      "as_at": "2026-10-17"
     }
   ]
 }

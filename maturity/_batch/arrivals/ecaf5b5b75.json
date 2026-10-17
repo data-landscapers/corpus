@@ -1,0 +1,296 @@
+{
+ "slug": "2024-11-06-mwi-egpaf-value-of-a-birth-certificate",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "admindata": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "EGPAF says the CRVS is fully integrated with Malawi's National ID System.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "crvslink"
+      },
+      {
+       "sub_indicator": "link",
+       "aspect": "events",
+       "value": "both",
+       "fact": "Registration officials say an ID number is generated when a baby is born, and the system freezes the record when a deceased person's ID is presented.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "country_label": "Malawi CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "EGPAF says the upgraded, centralized CRVS is operational in 28 district registration offices, 28 district hospitals and three central hospitals, with electronic birth registration software at 173 sites.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "EGPAF says electronic birth and death registration software is installed at 173 sites.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "country_label": "Malawi CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "country_label": "Malawi CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B;D",
+       "fact": "EGPAF says electronic birth and death registration software is installed at 173 sites.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "civil",
+       "fact": "EGPAF says the CRVS is operational in 28 district registration offices and the hospitals, printing certificates at the facility within five minutes.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:28",
+       "fact": "EGPAF says the CRVS is operational in 28 district registration offices (count given, no total of offices).",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+       "country_label": "Malawi CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  }
+ }
+}

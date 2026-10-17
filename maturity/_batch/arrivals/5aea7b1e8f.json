@@ -1,0 +1,12 @@
+{"slug": "2025-02-18-tun-wmc-arcube-levee-216-capital", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Funding release for an AI airline-ancillaries startup; states nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Private startup product; no government body using AI."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Airline-sector commercial product; no public sector system using AI."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Arcube's AI product is named but the document does not say a model, dataset or AI computing is built or hosted in the country."}}},
+"nonstatefinance": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Startup Arcube announced a USD 1.5 million (TND 4.7 million) funding round co-led by Tunis-based fund 216 CAPITAL with Fuel Ventures and Oxford Capital Partners.", "as_of": "2025-02-18", "date_precision": "day", "system": "Arcube", "class": "private"},
+{"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "The round was co-led by 216 CAPITAL, described as an investment fund based in Tunis and founded there in 2021, so a Tunisian financier is named in the USD 1.5 million round.", "as_of": "2025-02-18", "date_precision": "day", "system": "216 CAPITAL", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A private fund's investment with no public startup scheme named."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
+}}

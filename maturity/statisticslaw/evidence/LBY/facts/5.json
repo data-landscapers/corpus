@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-31-lby-libyaobserver-gnu-prepares-population-census",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Libya Observer reports the GNU meeting addressed a committee's findings on reviewing and updating the 1963 Statistics and Census Law, to improve the Statistics and Census Authority's operations.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "1963 Statistics and Census Law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

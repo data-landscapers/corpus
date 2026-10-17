@@ -1,0 +1,9 @@
+{"slug": "2026-10-16-bdi-setic-services-institutions-publiques", "studies": {
+"civilserviceskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a news headline on developing digital skills; the page states nothing about civil-servant training."}}},
+"dataprotectionlaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a headline on protecting government data; no law is stated."}}},
+"digitalskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a headline on developing digital skills; no public programme is described."}}},
+"digitalsovereignty": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a headline on digital sovereignty; no rule, hosting or contract term is stated."}}},
+"ictstrategy": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The page names a national ICT policy only as the thing SETIC coordinates; no standing, text or period is stated."}}},
+"itcapacity": {"countries": {"BDI": {"facts": [{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "SETIC, the government ICT secretariat, lists as its services developing software and applications for public institutions, hosting national platforms, running a network operations centre and operating and maintaining the network and systems infrastructure of public institutions.", "as_of": "2026-10-16", "date_precision": "day", "system": "SETIC", "class": "staff"}], "systems": [{"system": "SETIC", "country_label": "Secrétariat Exécutif des Technologies de l'Information et de la Communication", "class": "staff", "platform": "", "owner": "Government of Burundi", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on schools or the curriculum."}}}
+}}

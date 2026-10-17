@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-16-gmb-gamtel-co-location-facility-rental",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "GAMTEL's service page says businesses and ISPs can rent space at any of its 43 sites to co-locate servers and networking hardware, with listed monthly floor-space and energy prices.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "GAMTEL Co-Location / Facility Rental Services",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GAMTEL Co-Location / Facility Rental Services",
+       "country_label": "The Gambia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "GAMTEL",
+       "tiers": ""
+      }
+     ],
+     "note": "No tier or cloud region stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Page does not state who owns GAMTEL or call the sites data centres."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

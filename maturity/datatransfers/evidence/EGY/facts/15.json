@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-egy-shura-pdpl-compliance-deadline-oct-31",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Shura Law Firm states that transferring personal data outside Egypt requires a licence or permit from the Centre and the data subject's consent, with the Centre assessing the destination's adequacy; full enforcement from 31 October 2026.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Personal Data Protection Law No. 151 of 2020 and Executive Regulations",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,14 @@
+{
+ "slug": "2026-06-30-lby-cjos-nawa-interoperability-platform",
+ "studies": {
+  "interoperability": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nawa is a hackathon proof-of-concept exchange platform with no framework stated; platform alone places nothing."
+    }
+   }
+  }
+ }
+}

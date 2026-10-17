@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "admin",
-   "stage": "no evidence",
-   "use": "",
-   "vital": "",
-   "series": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names statistics drawn from administrative records, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "admin",
+      "stage": "4",
+      "use": "published",
+      "vital": "published",
+      "series": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-002",
+      "gaps": "No source held reports vital statistics published for two successive years.",
+      "note": "Counted from the four questions by study-ladder-admindata.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,219 @@
+{
+ "slug": "2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Ecofin says Algeria is connected to Europe through the Orval-Alval cable to Spain and the Medex cable to France.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Orval-Alval; Medex",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orval-Alval",
+       "country_label": "Algeria",
+       "class": "route",
+       "platform": "submarine cable to Spain",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Medex",
+       "country_label": "Algeria",
+       "class": "route",
+       "platform": "submarine cable to France",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Ecofin says Tunisia relies on several Mediterranean links, including the Keltra cable to Italy.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Keltra",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Keltra",
+       "country_label": "Tunisia",
+       "class": "route",
+       "platform": "submarine cable to Italy",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Medusa described as a project; not counted."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "Ecofin reports the Algeria-Tunisia Joint Technical Commission delegations agreed on 6 June 2026 to upgrade the existing terrestrial link between Algeria and Tunisia.",
+       "as_of": "2026-06-06",
+       "date_precision": "day",
+       "system": "Algeria-Tunisia terrestrial link",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": "New Algeria-Tunisia-Italy cable is only planned."
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "Ecofin reports the Algeria-Tunisia Joint Technical Commission delegations agreed on 6 June 2026 to upgrade the existing terrestrial link between Algeria and Tunisia.",
+       "as_of": "2026-06-06",
+       "date_precision": "day",
+       "system": "Algeria-Tunisia terrestrial link",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": "New Algeria-Tunisia-Italy cable is only planned."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral commission projects and roaming aims are intent; no signed agreement stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral commission projects and roaming aims are intent; no signed agreement stated."
+    }
+   }
+  }
+ }
+}

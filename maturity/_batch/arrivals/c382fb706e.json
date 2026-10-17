@@ -1,0 +1,16 @@
+{"slug": "2024-05-01-mus-cisd-customer-charter", "studies": {
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The chatbot for ICT support queries is not stated to be AI."}}},
+"coresystems": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The Central Information Systems Division states it handles monthly payroll processing for every Ministry and Department, on a revamped payroll system with an e-payroll module for Finance Officers.", "as_of": "2024-05", "date_precision": "month", "system": "Government Payroll System (e-payroll)", "class": "core"}
+], "systems": [{"system": "Government Payroll System (e-payroll)", "country_label": "Mauritius", "class": "core", "platform": "", "owner": "Central Information Systems Division", "tiers": ""}], "note": ""}}},
+"feedbackportals": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only an online complaint form on one division's own ICT services for ministries; no cases stated."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on national ID."}}},
+"internationalstandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only an ISO 27001 certificate held by the division, which places nothing."}}},
+"itcapacity": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Central Information Systems Division says its on-site officers work with ministry officers as database, system and network administrators running ministries' computerised systems, and that application systems are now managed in-house by the respective institutions.", "as_of": "2024-05", "date_precision": "month", "system": "Central Information Systems Division", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The Central Information Systems Division, a division of the Ministry of Information Technology, Communication and Innovation, says it has developed over 120 application systems and provides payroll, email, websites, network and backup services to Ministries and Departments.", "as_of": "2024-05", "date_precision": "month", "system": "Central Information Systems Division", "class": "staff"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"offsitebackup": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Offsite tape storage is stated but no place is named, so distance cannot be set."}}},
+"qualitystandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on a national standards body; ISO certificates are the division's own."}}}
+}}

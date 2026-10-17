@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Togo's presentation says the IPDCP oversees compliance with national data protection laws for the RSIA and is being consulted on consent tools.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

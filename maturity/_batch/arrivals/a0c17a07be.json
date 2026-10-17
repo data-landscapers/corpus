@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-16-mrt-iso-onanor-member",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists ONANOR as Mauritania's correspondent member, participating on 5 technical committees and observing 10.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "ONANOR",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states no law or decree setting up the body and no standard issued."
+    }
+   }
+  }
+ }
+}

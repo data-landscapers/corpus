@@ -1,0 +1,53 @@
+{
+ "slug": "2026-10-15-ken-citizen-moh-denies-tampering-muranga-health-portal",
+ "studies": {
+  "health": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "clinics",
+       "value": "count:165",
+       "fact": "The Murang'a County government says its Afya Ke electronic medical records system had been operational in 165 health facilities, as reported 2026-10-15 (facility tiers not stated).",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Afya Ke",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "digitised",
+       "value": "emr",
+       "fact": "Murang'a County's Afya Ke electronic medical records system has been used to record and retrieve patient histories, prescriptions and lab results since 2023, in 165 health facilities per the county government; the Health CS says the ministry neither owns nor controls it and calls it a private arrangement between the county and its developers.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Afya Ke",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afya Ke",
+       "country_label": "Afya.Ke",
+       "class": "emr",
+       "platform": "",
+       "owner": "Murang'a County Government and its developers (per Health CS)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Story concerns a county health records system, not a county office connection."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-10-som-unicef-legal-identity-birth-registration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "UNICEF Somalia says the digital CRVS system is used daily to register births and deaths.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Digital CRVS system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:48",
+   "fact": "UNICEF Somalia says the digital CRVS system is operating in 48 districts, scaled up from a 19-district pilot (another account in the source file's note gives 19).",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Digital CRVS system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenCRVS-based digital CRVS",
+   "country_label": "Digital CRVS system",
+   "class": "civil",
+   "platform": "OpenCRVS",
+   "owner": "Ministry of Interior Affairs and Federal Reconciliation",
+   "tiers": "48 districts"
+  }
+ ],
+ "note": ""
+}

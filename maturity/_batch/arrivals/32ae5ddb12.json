@@ -1,0 +1,11 @@
+{"slug": "2026-07-02-gmb-gbos-microdata-catalog", "studies": {
+"accesstoinformationlaw": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document is a microdata catalogue page and says nothing on an access to information law."}}},
+"censuses": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The Gambia Bureau of Statistics microdata catalogue, as of 2 July 2026, lists the Demographic and Health Survey 2019-2020 (entry dated 26 June 2025) and the Labour Force Survey 2018 (entry dated 13 June 2025) among its three studies.", "as_of": "2025-06-26", "date_precision": "day", "system": "DHS 2019-2020", "class": "census"}
+], "systems": [{"system": "GBoS Microdata Catalog", "country_label": "GBoS Microdata Catalog (microdata.gbosdata.org)", "class": "other", "platform": "NADA", "owner": "Gambia Bureau of Statistics", "tiers": ""}], "note": ""}}},
+"ictjobs": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document states no ICT employment share or youth unemployment figure."}}},
+"opendatapolicy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document states nothing on an open data policy."}}},
+"opendatause": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Gambia Bureau of Statistics runs a microdata catalogue that, as of 2 July 2026, holds three survey studies (MICS 2000, DHS 2019-2020, Labour Force Survey 2018), the latest entries dated June and July 2025.", "as_of": "2026-07-02", "date_precision": "day", "system": "GBoS Microdata Catalog", "class": "open"}
+], "systems": [{"system": "GBoS Microdata Catalog", "country_label": "GBoS Microdata Catalog (https://microdata.gbosdata.org/index.php/home)", "class": "open", "platform": "NADA", "owner": "Gambia Bureau of Statistics", "tiers": ""}], "note": "The page states no licence, bodies beyond GBoS or reuse."}}}
+}}

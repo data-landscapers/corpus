@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Orange Liberia says its newly built Monrovia-to-Lugato fibre link connects Liberia to six other undersea cables via Cote d'Ivoire, and its chairman says it carried all of Liberia's international traffic during the ACE outage.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Orange Liberia Monrovia-Lugato fibre link",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

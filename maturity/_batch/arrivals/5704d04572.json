@@ -1,0 +1,61 @@
+{
+ "slug": "2025-03-21-nga-wuzup-oadc-lagos-dedicated-transmission-line",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Open Access Data Centres' Lekki, Lagos facility, operating about 1.5 MW since roughly two months before the report, is described by its CEO as Tier III-certified and supporting cloud services, content delivery and enterprise connectivity.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "OADC Lagos data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OADC Lagos data centre",
+       "country_label": "Open Access Data Centres, Lekki",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Open Access Data Centres (WIOCC Group)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Equiano",
+       "country_label": "Equiano landing at OADC Lagos",
+       "class": "other",
+       "platform": "",
+       "owner": "Google",
+       "tiers": ""
+      }
+     ],
+     "note": "The Lagos centre will become Equiano's landing station; not stated in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Ownership by Nigerian interests is not stated; OADC is described as a WIOCC Group subsidiary."
+    }
+   }
+  }
+ }
+}

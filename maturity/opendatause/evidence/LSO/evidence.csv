@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,use,access,published,"The Bureau of Statistics Lesotho publications page states all listed reports can be downloaded, with Excel tables for national accounts, CPI and GDP.",2025-04,month,bos.gov.ls/publications.htm,open,2025-04-01-lso-bos-publications,https://www.bos.gov.ls/publications.htm

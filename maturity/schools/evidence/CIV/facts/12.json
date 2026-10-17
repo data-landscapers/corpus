@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-13-civ-ecofin-lancement-plateforme-sige",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "pilot",
+   "fact": "Agence Ecofin reports SIGE was launched on 10 July 2025 in the Bouaké and San Pedro regions ahead of a national extension.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "SIGE",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Agence Ecofin reports SIGE is financed by the Millennium Challenge Corporation's Skills for Employability and Productivity programme.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "SIGE",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

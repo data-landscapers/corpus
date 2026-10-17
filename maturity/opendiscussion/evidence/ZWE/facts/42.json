@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-ssd-salc-oral-statement-cybercrime-law",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "The Southern Africa Litigation Centre says courts in Zimbabwe struck down criminal defamation, giving no date.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "No date for the ruling; as_of is the document's date."
+}

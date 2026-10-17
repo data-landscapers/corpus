@@ -1,0 +1,41 @@
+{
+ "slug": "2024-04-01-mrt-somelec-data-center-national-raccordement",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DATA Center National",
+       "country_label": "DATA Center National",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A grid-connection tender for the national data centre; it does not say the centre rents to others."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A grid-connection tender names the national data centre but states no hire, ownership or Tier."
+    }
+   }
+  }
+ }
+}

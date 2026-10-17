@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-lby-informatics-draft-cybercrime-law-session",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "A near-finalized draft law on cybercrime and digital evidence was presented for expert feedback at the Informatics Governance Forum workshop, with earlier drafts dating from 2008, 2009 and 2015.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Draft Law on Cybercrime and Digital Evidence",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

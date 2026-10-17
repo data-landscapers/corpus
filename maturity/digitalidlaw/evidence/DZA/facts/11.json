@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of the Interior lists law 14-03 of 24 February 2014 on travel titles and documents among the texts governing issuance of passports and identity cards.",
+   "as_of": "2014-02-24",
+   "date_precision": "day",
+   "system": "Loi 14-03",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The Ministry of the Interior says executive decree 10-210 of 16 September 2010 instituted the national identification number (NIN) and requires it on official identity, circulation and travel documents.",
+   "as_of": "2010-09-16",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

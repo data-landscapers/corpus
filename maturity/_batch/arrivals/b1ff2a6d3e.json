@@ -1,0 +1,8 @@
+{"slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link", "studies": {
+"broadbandstrategy": {"countries": {"CAF": {"facts": [], "systems": [{"system": "Central African Backbone (CAB)", "country_label": "Central African Republic", "class": "other", "platform": "fibre backbone", "owner": "", "tiers": ""}], "note": "Document names no national broadband plan; the Central African Backbone is a fibre project."}}},
+"digitalstrategy": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "Document names no national digital strategy for CAF."},
+"COD": {"facts": [], "systems": [], "note": "Document only says DRC authorities put terrestrial interconnections in their digital strategy; no standing, text, period or reporting stated."}}},
+"exchangepoints": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document mentions international fibre links only; no exchange point stated."}}},
+"internetusage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The authorities' 15.5% to 30% is a 'taux de penetration', not stated as a share of people using the internet."}}}
+}}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-17-bfa-citadel-portail-national-donnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail National de Données pour la Décision Publique (CITADEL)",
+   "country_label": "data.citadel.bf",
+   "class": "other",
+   "platform": "",
+   "owner": "CITADEL, Université Joseph Ki-Zerbo",
+   "tiers": ""
+  }
+ ],
+ "note": "A portal with no policy behind it stated; nothing on an open data policy."
+}

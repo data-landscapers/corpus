@@ -1,0 +1,16 @@
+{"slug": "2024-02-06-sle-statssl-proactive-publication-scheme", "studies": {
+"accesstoinformationlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Statistics Sierra Leone says the Right to Access Information Commission (RAIC) Act 2013 requires all public authorities to make information available to the public through a publication scheme submitted to the commission for approval by 1 March 2019.", "as_of": "2024-02-06", "date_precision": "day", "system": "RAIC Act (RAIA) 2013", "class": "law"}
+], "systems": [{"system": "RAIC Act (RAIA) 2013", "country_label": "RAIC Act 2013", "class": "law", "platform": "", "owner": "Right to Access Information Commission", "tiers": ""}], "note": ""}}},
+"censuses": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "Statistics Sierra Leone lists a 2021 Mid-Term Population and Housing Census as recently conducted.", "as_of": "2021", "date_precision": "year", "system": "2021 Mid-Term Population and Housing Census", "class": "census"}
+], "systems": [], "note": ""}}},
+"ictjobs": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document gives no ICT employment share or youth unemployment figure."}}},
+"opendatause": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all.", "as_of": "2024-02-06", "date_precision": "day", "system": "Open Data Sierra Leone data portal", "class": "open"}
+], "systems": [{"system": "Open Data Sierra Leone Data Portal", "country_label": "Open Data Sierra Leone (www.statistics.sl)", "class": "open", "platform": "", "owner": "Statistics Sierra Leone", "tiers": "unrestricted and restricted datasets"}], "note": ""}}},
+"statisticslaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Statistics Sierra Leone says it is established by the Statistics Act 2002 as the central authority for official statistics, supervised by a Statistics Council, and that the Act guides how it deals with the public.", "as_of": "2024-02-06", "date_precision": "day", "system": "Statistics Act 2002", "class": "law"}
+], "systems": [], "note": ""}}},
+"statisticsstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document mentions the NSDS only in passing, with no period, adoption, review or evaluation."}}}
+}}

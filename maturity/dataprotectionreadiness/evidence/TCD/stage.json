@@ -1,18 +1,19 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "1",
-   "law": "not-yet",
-   "treaty": "signed",
-   "authority": "",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001;TCD-002",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "1",
+      "law": "not-yet",
+      "treaty": "signed",
+      "authority": "appointed",
+      "practice": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001;TCD-002",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

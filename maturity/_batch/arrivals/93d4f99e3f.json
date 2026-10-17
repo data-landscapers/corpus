@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-09-mar-lematin-mef-datacenter-tier-iii",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Tier III data centre hosts the ministry's own systems; no hire to others stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Tier III data centre hosts the ministry's own systems; no hire to others stated."
+    }
+   }
+  }
+ }
+}

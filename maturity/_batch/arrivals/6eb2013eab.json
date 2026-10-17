@@ -1,0 +1,13 @@
+{"slug":"2026-03-27-com-wearetech-numerisation-etat-civil-nip","studies":{
+"authentication":{"countries":{"COM":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"COM":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"The study validated on 25 March 2026 under the Amecc project creates a Personal Identification Number (NIP) for civil registration and plans interoperability with other state systems, per We are Tech.","as_of":"2026-03-25","date_precision":"day","system":"Numero d'Identification Personnel (NIP)","class":"crvslink"}],"systems":[{"system":"Amecc civil registry digitisation project","country_label":"Comores","class":"other","platform":"","owner":"Government of Comoros","tiers":""}],"note":""}}},
+"civilregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Only a validated preparatory study and a 2023 law; no system procured, piloted or rolled out."}}},
+"idcoverage":{"countries":{"COM":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"COM":{"facts":[],"systems":[],"note":"NIP is planned; the document does not say it is given at birth registration."}}},
+"idmaintenance":{"countries":{"COM":{"facts":[],"systems":[],"note":"Nothing on who operates or owns an ID system."}}},
+"idregisters":{"countries":{"COM":{"facts":[],"systems":[],"note":"No public register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"COM":{"facts":[],"systems":[],"note":"NIP only planned in a validated study; no ID system procured, built or piloted."}}},
+"localgov":{"countries":{"COM":{"facts":[],"systems":[],"note":"No local office connection stated."}}},
+"publicconsultation":{"countries":{"COM":{"facts":[],"systems":[],"note":"Validation workshop on a civil registry study; no outside participants named and not a digital law or policy."}}},
+"registry":{"countries":{"COM":{"facts":[],"systems":[],"note":"Study validated only; no office entering events digitally stated."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-ken-iso-kebs-member-page",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member registry lists the Kenya Bureau of Standards as a member body, participating on 129 technical committees.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "KEBS",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

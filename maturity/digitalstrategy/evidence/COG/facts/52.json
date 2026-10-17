@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-24-cog-convergenceafrique-patn-admin-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "Convergence Afrique reports that the national digital transformation strategy 'Congo Digital 2025' was launched by the government in August 2019 to guarantee equitable access to digital services for all citizens by 2025.",
+   "as_of": "2019-08",
+   "date_precision": "month",
+   "system": "Congo Digital 2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Congo Digital 2025",
+   "country_label": "Congo Digital 2025",
+   "class": "national",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

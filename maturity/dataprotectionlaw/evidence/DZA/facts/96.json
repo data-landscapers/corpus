@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of the Interior lists law 18-07 of 10 June 2018 on the protection of natural persons in personal data processing, supplemented by law 25-11 of 24 July 2025.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "Loi 18-07",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The Ministry of the Interior lists decree 23-73 of 14 February 2023 on the missions and organisation of the executive secretariat of the national personal data protection authority; no appointment is stated.",
+   "as_of": "2023-02-14",
+   "date_precision": "day",
+   "system": "Loi 18-07",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

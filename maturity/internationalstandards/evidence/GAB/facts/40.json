@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gab-iso-member-aganor",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Agence Gabonaise de Normalisation (AGANOR) as Gabon's member, participating in 3 technical committees.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "AGANOR",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,34 +1,19 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-TGO,Digital Strategy,Digital Strategy,,,,,2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness
-TGO,stratégie de transformation numérique,stratégie de transformation numérique,,,gouvernement,,2026-08-05-les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026
 TGO,PNDS 2023-2027,PNDS 2023-2027,ministry-plan,,health sector,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
-TGO,Centre National de Santé Digitale,Centre National de Santé Digitale,,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
-TGO,Togo Digital 2025,stratégie nationale Togo Digital 2025,,,,,2026-06-10-atd-boite-outils-digitaux-tpme
 TGO,Boîte à Outils Digitaux des TPME (BoD-TPME),BoD-TPME,programme,online platform,Agence Togo Digital with GIZ ProDigiT,small and medium enterprises,2026-06-10-atd-boite-outils-digitaux-tpme
-TGO,Stratégie nationale Togo Digital 2025,Stratégie nationale Togo Digital 2025,,,Ministry of Digital Transformation,,2026-05-04-togo-equipe-ses-ecoles-connecte-salles-de-classe-ent
 TGO,Environnement numérique de travail (ENT),ENT,programme,,Ministries of Education and Digital Transformation,schools,2026-05-04-togo-equipe-ses-ecoles-connecte-salles-de-classe-ent
-TGO,eLMIS,eLMIS,,,health supply chain (warehouse),central warehouse,2025-06-04-tgo-gf-oig-25-005
 TGO,Togo Digital 2025-2030,Togo Digital 2025-2030,national,,Ministry of Digital Economy and Digital Transformation,,2025-05-28-wearetech-togo-digital-strategie-2025-2030
 TGO,stratégie nationale de transformation numérique,stratégie nationale de transformation numérique (framework of 2020),national,,government,,2025-05-28-wearetech-togo-digital-strategie-2025-2030
-TGO,e-Gouv,plateforme gouvernementale e-Gouv,,,government,,2025-05-28-wearetech-togo-digital-strategie-2025-2030
-TGO,Togo Digital Strategy,Togo Digital Strategy,,,Ministry of Digital Transition and Digitalization,,2025-02-10-togo-digital-cooperation-wearetech
 TGO,Datafid,Projet Datafid,programme,,"Expertise France, Afristat and Insee",tax and customs administrations,2024-11-05-afd-numerique-bilan-activite-2021-2023
 TGO,Novissi,Novissi,programme,"machine learning, satellite imagery, mobile money","Government of Togo, World Bank financed",national,2023-03-01-govtech-maturity-index-2022-regional-brief-afw
-TGO,2020-2025 roadmap,2020-2025 roadmap,,,Ministry of the Digital Economy and Digital Transformation,,2021-06-08-dcd-togo-first-carrier-neutral-colocation-lome
-TGO,Lomé Data Center,Lomé Data Center,,"carrier-neutral colocation, operated by Africa Data Centres",Société d'Infrastructures Numériques (SIN),private sector and government,2021-06-08-dcd-togo-first-carrier-neutral-colocation-lome
 TGO,Togo Digital Strategy 2025,Togo Digital Strategy 2025 / Digital Togo Strategy 2025,national,,Ministry of Digital Economy and Digital Transformation,,2021-04-29-worldbank-pad3530-warcip-togo-additional-financing
 TGO,Government Roadmap 2020-2025,Government Roadmap 2020-2025,development-plan,,Government of Togo,,2021-04-29-worldbank-pad3530-warcip-togo-additional-financing
 TGO,National Development Plan (PND) 2018-2022,Plan national de développement 2018-2022,development-plan,,Government of Togo,,2021-04-29-worldbank-pad3530-warcip-togo-additional-financing
 TGO,WARCIP Togo Project (APL2),WARCIP Togo,programme,,"Government of Togo, World Bank financed",,2021-04-29-worldbank-pad3530-warcip-togo-additional-financing
 TGO,Stratégie Togo Digital 2025,Stratégie Togo Digital 2025,national,,Ministère de l'Économie Numérique et de la Transformation Digitale (MENTD),state services and digital economy,2021-04-01-togo-mentd-strategie-togo-digital-2025
 TGO,plan stratégique Togo 2025,plan stratégique Togo 2025,development-plan,,Government of Togo,,2021-04-01-togo-mentd-strategie-togo-digital-2025
-TGO,digital transformation strategy,digital transformation strategy,,,Government of Togo,,"2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center"
-TGO,stratégie de transformation digitale,stratégie de transformation digitale,,,Government of Togo,,2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
 TGO,2020-2025 development roadmap,government's 2020-2025 development roadmap,development-plan,,Government of Togo,,2026-04-27-biometricupdate-togo-6m-niu-mosip
 TGO,National Development Plan,National Development Plan,development-plan,,Government of Togo,,2026-04-27-biometricupdate-togo-6m-niu-mosip
-TGO,"e-ID Togo (NIU, MOSIP-based)",NIU and biometric ID card,,MOSIP,ANID,national,2026-04-27-biometricupdate-togo-6m-niu-mosip
-TGO,SIAMU-INAM,SIAMU-INAM,,"same architecture as CNSS SIAMU, hosted in the CNSS data centre",INAM,"national, public-sector health insurance",2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam
-TGO,SIAMU (CNSS),SIAMU,,,CNSS,"national, private-sector health insurance",2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam
 TGO,Togo Digital Strategy 2025,Togo Digital Strategy 2025,national,,Ministry of Public Service Efficiency and Digital Transformation,all sectors,2025-12-03-togo-data-lab-expansion-google-org-cega
 TGO,Togo Data Lab,Togo Data Lab (TDL),programme,,"CEGA and the Ministry, Google.org funded",,2025-12-03-togo-data-lab-expansion-google-org-cega
 TGO,Togo Digital Acceleration Project (P179138),Togo Digital Acceleration Project,programme,,"Government of Togo, World Bank financed",national,2024-11-25-togo-digital-acceleration-project-p179138-pad

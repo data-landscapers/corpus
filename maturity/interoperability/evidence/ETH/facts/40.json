@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-28-eth-atalayar-dt-global-digital-government-strategy",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "DT Global says it is drafting several technical standards documents for Ethiopia, based on the Greek government enterprise architecture, to assist procurement and implementation of the EthioConnect data exchange platform.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Ethiopia technical standards for EthioConnect",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

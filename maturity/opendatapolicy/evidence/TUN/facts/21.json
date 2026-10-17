@@ -1,0 +1,46 @@
+{
+ "slug": "2024-07-01-tun-ogp-tn0053-ouverture-donnees-publiques-irm",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The OGP commitment page states that government decree no. 2021-3 of 6 January 2021 on open public data sets technical specifications for the national open data portal and requires an inventory of priority public data.",
+   "as_of": "2021-01-06",
+   "date_precision": "day",
+   "system": "Decree no. 2021-3 on open public data",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "portal",
+   "fact": "The IRM 2021-2023 results text says a new version of the national open data portal, built to the decree's specifications, was launched in early March 2023.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The IRM text says the portal carried datasets from 23 data producers across 6 themes (consulted April 2024), and that the e-government unit reported about 296 datasets identified by over 40 public entities in the inventory system by end 2023.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National des Données Ouvertes",
+   "country_label": "data.gov.tn",
+   "class": "other",
+   "platform": "",
+   "owner": "Unité de l'administration électronique, Présidence du gouvernement",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "2025-06-13-nam-cpbn-eoi-ifms-support-five-years",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender to support the IFMS does not state it is in use across central government."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "outsourced",
+       "fact": "The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System for five years (EOI closing 30 July 2025).",
+       "as_of": "2025-06-13",
+       "date_precision": "day",
+       "system": "Integrated Financial Management System (IFMS)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Financial Management System (IFMS)",
+       "country_label": "IFMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

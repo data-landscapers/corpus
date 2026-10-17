@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-15-uga-mediacentre-statement-africa-digital-single-market",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no Ugandan data protection law, only 'responsible handling of personal data' as a priority."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes the AfCFTA digital trade protocol and EAC protocols generally; says nothing of Uganda signing or ratifying a digital text."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Hosts a private symposium and names EAC and AfCFTA processes; no membership of a digital policy body, agreement or joint body stated."
+    }
+   }
+  }
+ }
+}

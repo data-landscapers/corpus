@@ -1,0 +1,140 @@
+{
+ "slug": "2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+       "country_label": "NIDCRVS",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Liberia (proposed; OeSD International GmbH as contractor)",
+       "tiers": ""
+      }
+     ],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+       "country_label": "NIDCRVS",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Liberia (proposed; OeSD International GmbH as contractor)",
+       "tiers": ""
+      }
+     ],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+       "country_label": "NIDCRVS",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Liberia (proposed; OeSD International GmbH as contractor)",
+       "tiers": ""
+      }
+     ],
+     "note": "Proposed US$52m build-operate-transfer concession with OeSD International GmbH sent to a House joint committee on 2026-10-15; not ratified, so a plan and not a delivered system; no figures on coverage, links, use or private finance."
+    }
+   }
+  }
+ }
+}

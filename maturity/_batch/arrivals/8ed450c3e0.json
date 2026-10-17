@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-16-world-bank-mrt-2026-wardip-sop1-additional-financing",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Agenda National de Transformation Numérique",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Names the Agenda National de Transformation Numérique only as what the loan serves; no standing stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "An IDA loan to the state is public finance, not private money."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Says nothing on open data."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "WARDIP is a World Bank programme; no African body or agreement is named."
+    }
+   }
+  }
+ }
+}

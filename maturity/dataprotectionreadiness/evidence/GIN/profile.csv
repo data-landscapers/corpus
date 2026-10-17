@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,system,law,coverage,not-yet,2025-11-19,GIN-001;GIN-003;GIN-004,,
-GIN,system,treaty,coverage,ratified,2018-07-31,GIN-006;GIN-007,,nothing dated since 2023-09-28
+GIN,system,law,coverage,in-force,2025-10-14,GIN-008,GIN-001=not-yet;GIN-003=not-yet;GIN-004=not-yet,
+GIN,system,treaty,coverage,ratified,2025-10-14,GIN-006;GIN-007;GIN-009,,
 GIN,system,authority,coverage,none,2024-06-20,GIN-002;GIN-005,,
 GIN,system,practice,coverage,,,,,nothing held

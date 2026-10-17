@@ -1,0 +1,16 @@
+{"slug": "2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers", "studies": {
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [{"system": "Centre national algérien des prestations numériques (Data Center)", "country_label": "Algeria", "class": "other", "platform": "", "owner": "Haut-Commissariat à la numérisation", "tiers": ""}], "note": "Only a planned two-site government data centre (convention signed April 2024); nothing for hire in service, no tier, no cloud region."}}},
+"dataexchange": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The High Commissioner for Digitalisation said a convention was signed in April 2024 with the Huawei Consortium for the national digital services centre, whose national computer system is to hold a national interoperability platform that will interconnect sectoral systems.", "as_of": "2024-04", "date_precision": "month", "system": "plateforme nationale d'interopérabilité", "class": "exchange"}
+], "systems": [{"system": "plateforme nationale d'interopérabilité", "country_label": "Algeria", "class": "exchange", "platform": "", "owner": "Haut-Commissariat à la numérisation", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The High Commissioner for Digitalisation said the national data centre project (two sites, Alger and Blida), signed with Huawei Consortium in April 2024, aims to achieve digital sovereignty and the domiciliation of national data.", "as_of": "2024-04", "date_precision": "month", "system": "Centre national algérien des prestations numériques", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The High Commissioner for Digitalisation said the draft national digital transformation strategy (5 axes, 25 strategic objectives) was approved by the commissariat's steering council on 28 May 2024 and its latest version was submitted to the Presidency about a month before the July 2024 interview.", "as_of": "2024-05-28", "date_precision": "day", "system": "Stratégie nationale de transformation numérique", "class": "national"},
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The article states the Haut-Commissariat à la numérisation, created by presidential decree 23-314 of September 2023 under the Presidency, is charged with following and implementing the national digitalisation strategy.", "as_of": "2023-09", "date_precision": "month", "system": "Stratégie nationale de transformation numérique", "class": "national"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a planned state data centre with Huawei; no nationally owned data centre for hire in service is stated."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document says nothing about police station records."}}},
+"schoolinternet": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document says nothing about school internet or curriculum."}}}
+}}

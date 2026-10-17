@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-uga-ucc-press-release-illegal-wifi-hotspots",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:UGX:2000:1",
+   "fact": "The Uganda Communications Commission states the current average 1GB retail price for licensed operators is UGX 2,000 with taxes and all costs met.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "licensed operators' average 1GB retail price",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

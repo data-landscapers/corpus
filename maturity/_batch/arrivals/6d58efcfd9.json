@@ -1,0 +1,9 @@
+{"slug": "2024-04-15-zwe-herald-debate-over-new-data-prices", "studies": {
+"digitaldivides": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a passing mention of expanding coverage to underserved areas; no programme or rural figure stated."}}},
+"gridreliability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Power outages are mentioned as constant but with no count or frequency."}}},
+"mobileaffordability": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "price", "aspect": "cost", "value": "price:ZWG:92.8:1", "fact": "The Herald reports that Potraz announced a mobile data tariff of ZiG 0.0928 per megabyte in April 2024, equal to ZiG 92.8 per gigabyte at 1,000 MB.", "as_of": "2024-04", "date_precision": "month", "system": "Potraz mobile data tariff", "class": "price"},
+{"sub_indicator": "price", "aspect": "cost", "value": "price:ZWG:138:1.5", "fact": "The Herald reports that NetOne's monthly package of 1.5 GB costs ZiG 138.", "as_of": "2024-04", "date_precision": "month", "system": "NetOne monthly package", "class": "price"}
+], "systems": [{"system": "Potraz tariff", "country_label": "ZiG 0.0098 per second voice, ZiG 0.1207 per SMS", "class": "other", "platform": "", "owner": "Potraz", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A Potraz stakeholder engagement meeting on tariffs is mentioned, but no named digital law or policy is put to outsiders."}}}
+}}

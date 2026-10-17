@@ -1,4 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,Mizaniatouna,Mizaniatouna,other,,Ministry of Finance,national,2026-08-04-tunisia-results-report-2023-2025
-TUN,National Open Data Registry,National Open Data Registry (registre.data.gov.tn),,,Government of Tunisia,,2026-08-04-tunisia-results-report-2023-2025
+TUN,National Open Data Registry,National Open Data Registry (registre.data.gov.tn),other,,Government of Tunisia,,2026-08-04-tunisia-results-report-2023-2025
 TUN,Portail national des données ouvertes,البوابة الوطنية للبيانات المفتوحة,policy,,e-Government Unit (Presidency of the Government),national; public bodies under art. 2 of organic law 2016-22,2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes
+TUN,Portail National des Données Ouvertes,data.gov.tn,other,,"Unité de l'administration électronique, Présidence du gouvernement",,2024-07-01-tun-ogp-tn0053-ouverture-donnees-publiques-irm
+TUN,registre.data.gov.tn,Registre National des Donnees Publiques,other,"web inventory site, companion to the PDIMS inventory system","Unite de l'Administration Electronique, Presidence du Gouvernement, with PAGOF",,2024-07-01-tun-ogptunisie-registre-national-donnees-publiques

@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "certification": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national standards body, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-qualitystandards.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "certification": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001;ETH-002",
+      "gaps": "No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.",
+      "note": "Counted from the four questions by study-ladder-qualitystandards.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

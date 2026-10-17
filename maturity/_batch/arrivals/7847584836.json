@@ -1,0 +1,102 @@
+{
+ "slug": "2026-02-17-cpv-nosi-data-center-praia-sistema-fotovoltaico",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "NOSi, a public enterprise, says its Praia data centre is central to delivering digital services to the State, businesses and society, and launched a solar power system for it on 16 February 2026.",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "Data Center da Praia",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NOSi Data Center da Praia",
+       "country_label": "Data Center da Praia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "NOSi (public enterprise)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "NOSi, a public enterprise, runs the Praia data centre that provides digital services to the State, businesses and society.",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "NOSi",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "NOSi, a public enterprise, says its Praia data centre is central to delivering digital services to the State, businesses and society, and launched a solar power system for it on 16 February 2026.",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "Data Center da Praia",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "NOSi, which operates the Praia data centre, describes itself as a public enterprise (entidade publica empresarial).",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "Data Center da Praia",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NOSi Data Center da Praia",
+       "country_label": "Data Center da Praia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "NOSi (public enterprise)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Parque Tecnologico street address; no hub stated."
+    }
+   }
+  }
+ }
+}

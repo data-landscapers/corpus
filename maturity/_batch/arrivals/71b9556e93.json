@@ -1,0 +1,133 @@
+{
+ "slug": "2025-11-13-cod-acp-senat-delivrance-carte-identite",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on authentication."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ONIP national identity card and general population file",
+       "country_label": "RDC",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office National d'Identification de la Population (ONIP)",
+       "tiers": ""
+      }
+     ],
+     "note": "Card issuance relaunched but the tender is still under review at the procurement directorate; nothing procured, built or issuing."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan only: the document states intentions, a re-tender under review and no system delivered for this question."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2010-2013 police biometric cards are identification and expired; no station record system stated."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The interior minister told the Senate that the ONIP will identify the population by strata, province by province starting with Kinshasa, with refugees and stateless people and internally displaced people named as two of ten strata.",
+       "as_of": "2025-11-12",
+       "date_precision": "day",
+       "system": "ONIP stratified identification",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONIP national identity card and general population file",
+       "country_label": "RDC",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Office National d'Identification de la Population (ONIP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

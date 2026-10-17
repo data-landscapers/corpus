@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+KEN-001,KEN,international,standing,member,"ISO's member registry lists the Kenya Bureau of Standards as a member body, participating on 129 technical committees.",2026-10,month,KEBS,adoption,2026-10-16-ken-iso-kebs-member-page,https://www.iso.org/member/1854.html

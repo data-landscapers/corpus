@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-14-ner-cpj-suspends-9-french-media-outlets",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no census or survey for Niger."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Niger's National Communication Observatory (ONC) said on 8 May 2026 it was suspending nine France-based outlets (France 24, RFI, AFP, TV5Monde, Jeune Afrique, Mediapart, TF1 Info, LSI Africa, France Afrique Media) over content it said threatened public order, as reported by CPJ.",
+       "as_of": "2026-05-08",
+       "date_precision": "day",
+       "system": "ONC suspension of nine outlets",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "CPJ reports the ONC suspended nine outlets from reaching audiences in Niger, with a France 24 channel screen showing 'program blocked'.",
+       "as_of": "2026-05-08",
+       "date_precision": "day",
+       "system": "ONC suspension of nine outlets",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "slug": "2025-09-16-caf-village-justice-huit-forces-loi-donnees",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Jurist Laurent-Fabrice Zengue writes that Loi 24.001 gives the data protection agency its missions and powers but does not organise it, with an interim arrangement for the agency's non-operation.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "Agence de protection des données personnelles",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "transition",
+       "fact": "Jurist Zengue writes the law is promulgated and applied, with a compliance period prescribed and no suspension of the law meanwhile.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "Loi n° 24.001",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "Jurist Zengue writes the law names the agency and gives it powers but does not organise it, and provides an interim arrangement for its non-functioning.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "Loi n° 24.001",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Jurist Zengue writes the law is promulgated and applied, with a compliance period running and no suspension of its execution.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "Loi n° 24.001",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Jurist Zengue writes the law conditions transfers to non-CEMAC or non-ECCAS states on a sufficient level of protection in the recipient state, with further requirements for other transfers.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "Loi n° 24.001",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

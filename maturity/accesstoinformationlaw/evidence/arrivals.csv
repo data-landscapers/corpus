@@ -1,5 +1,5 @@
 iso3,n,slug,listed,outcome,closed
-BDI,16,2026-10-02-burundi-sim-registration-scams,2026-10-17,,
+BDI,16,2026-10-02-burundi-sim-registration-scams,2026-10-17,nothing,2026-10-17
 BDI,17,2026-08-27-burundi-social-media-influencers-law,2026-10-17,capped,2026-10-17
 BDI,18,2026-08-03-telecommunications-un-casse-tete-pour-les-abonnes,2026-10-17,capped,2026-10-17
 BDI,19,2026-06-26-arct-declaration-conformite-commerce-electronique,2026-10-17,capped,2026-10-17
@@ -8,7 +8,7 @@ BDI,21,2026-01-30-assemblee-adoption-loi-protection-donnees,2026-10-17,capped,20
 BDI,22,2025-10-22-conseil-ministres-communique-11-2025,2026-10-17,capped,2026-10-17
 BDI,23,2024-08-22-loi-1-22-code-communications-electroniques-postales,2026-10-17,capped,2026-10-17
 BDI,24,2018-05-11-loi-1-07-systeme-national-paiement,2026-10-17,old,2026-10-17
-BDI,25,2026-02-06-state-bdi-afghs-data-systems-2026-record,2026-10-17,,
+BDI,25,2026-02-06-state-bdi-afghs-data-systems-2026-record,2026-10-17,nothing,2026-10-17
 BDI,26,2026-02-28-abp-quand-la-5g-arrive-avant-la-3g-fonctionnelle,2026-10-17,instrument,2026-10-17
 BDI,27,2025-11-20-brb-cadre-surveillance-paiement,2026-10-17,instrument,2026-10-17
 BDI,28,2022-03-16-loi-1-10-cybercriminalite,2026-10-17,instrument,2026-10-17
@@ -19,9 +19,9 @@ EGY,21,2013-11-01-egy-escwa-national-profile-information-society,2026-10-17,inst
 EGY,22,2013-02-18-egy-mcit-national-ict-strategy-2012-2017,2026-10-17,instrument,2026-10-17
 GHA,22,2025-10-16-gha-nita-data-harmonisation-bill-2025-draft,2026-10-17,instrument,2026-10-17
 GHA,23,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance),2026-10-17,instrument,2026-10-17
-GMB,15,2026-07-02-gmb-gbos-microdata-catalog,2026-10-17,,
-GMB,16,2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data,2026-10-17,,
-GMB,17,2026-05-14-gmb-gambiaj-gpu-press-freedom-threats,2026-10-17,,
+GMB,15,2026-07-02-gmb-gbos-microdata-catalog,2026-10-17,nothing,2026-10-17
+GMB,16,2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data,2026-10-17,fact,2026-10-17
+GMB,17,2026-05-14-gmb-gambiaj-gpu-press-freedom-threats,2026-10-17,fact,2026-10-17
 GMB,18,2018-04-01-gmb-gbos-data-dissemination-policy,2026-10-17,instrument,2026-10-17
 KEN,33,2026-10-13-ken-dawan-access-to-information-policy-explainer,2026-10-17,capped,2026-10-17
 KEN,34,2026-10-13-ken-peopledaily-kabogo-gazettes-access-to-information-policy-2026,2026-10-17,capped,2026-10-17
@@ -35,7 +35,7 @@ MWI,35,2025-11-01-mwi-csea-advancing-open-data-governance-malawi,2026-10-17,inst
 MWI,36,2025-07-02-mwi-ogp-national-action-plan-2026-2029,2026-10-17,instrument,2026-10-17
 RWA,10,2026-04-01-kta-east-africa-data-protection-guide,2026-10-17,instrument,2026-10-17
 SDN,7,2025-09-01-sdn-paradigm-londa-2024-sudan,2026-10-17,instrument,2026-10-17
-SLE,37,2024-02-06-sle-statssl-proactive-publication-scheme,2026-10-17,,
+SLE,37,2024-02-06-sle-statssl-proactive-publication-scheme,2026-10-17,fact,2026-10-17
 SLE,38,2019-11-01-sle-ogp-nap-iii-2019-2021,2026-10-17,instrument,2026-10-17
 SLE,39,2016-01-01-sle-worldbank-open-data-readiness-assessment,2026-10-17,instrument,2026-10-17
 SYC,33,2020-06-08-syc-nation-spatial-data-sharing-policy,2026-10-17,old,2026-10-17
@@ -45,7 +45,7 @@ TZA,9,2026-04-01-kta-east-africa-data-protection-guide,2026-10-17,instrument,202
 TZA,10,2018-06-25-tza-worldbank-sogdat-year3-open-data-policy,2026-10-17,instrument,2026-10-17
 UGA,24,2026-04-15-uga-nita-u-e-gif-2026,2026-10-17,instrument,2026-10-17
 UGA,25,2026-04-01-kta-east-africa-data-protection-guide,2026-10-17,instrument,2026-10-17
-ZAF,42,2025-04-02-zaf-dpsa-data-governance-directive,2026-10-17,,
+ZAF,42,2025-04-02-zaf-dpsa-data-governance-directive,2026-10-17,fact,2026-10-17
 ZAF,43,2025-09-17-zaf-pmg-sassa-biometric-verification-dha,2026-10-17,instrument,2026-10-17
 ZAF,44,2024-11-01-zaf-ndoh-csir-emerging-national-health-information-system,2026-10-17,instrument,2026-10-17
 ZAF,45,2016-07-29-zaf-dpsa-public-service-regulations-2016,2026-10-17,instrument,2026-10-17

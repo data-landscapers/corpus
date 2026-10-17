@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-zwe-herald-potraz-critical-infrastructure-cybersecurity-framework",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A POTRAZ official said Zimbabwe's Cybersecurity Act incorporates cybercrime definitions alongside cybersecurity provisions in one piece of legislation.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Cybersecurity Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

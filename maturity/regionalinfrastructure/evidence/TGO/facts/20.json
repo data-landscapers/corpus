@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-18-tgo-capacity-equiano-togo-cls-traffic",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-use",
+   "fact": "CSquared's CEO says it connected its cross-border circuits from Togo into Ghana and Benin and provided capacity to MTN Ghana and Vodafone Ghana through the Equiano landing station in Lome.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "CSquared cross-border fibre and Equiano Lome landing station",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002;GHA-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-004",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-ecommercelaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

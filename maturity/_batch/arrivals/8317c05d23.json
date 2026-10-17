@@ -1,0 +1,83 @@
+{
+ "slug": "2025-07-17-mwi-nation-data-cost-down-macra",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Transit tariff deals with Tanzania and Zambia are named but fibre routes are not stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "survey:18",
+       "fact": "The National Statistical Office's 2023 ICT Survey found 18 percent of individuals used the internet in the previous three months, up from 14.6 percent in 2019.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "NSO 2023 ICT Survey",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "price:USD:0.38:1",
+       "fact": "Macra says one gigabyte of mobile data now costs $0.38, down from $27.41 in 2020.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "mobile data price",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Macra's director general cites the licensing of Starlink as creating competition on the market.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Malawi",
+       "class": "satellite",
+       "platform": "low-orbit satellite",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

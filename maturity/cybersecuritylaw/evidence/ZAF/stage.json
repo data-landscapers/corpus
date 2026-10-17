@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-002;ZAF-001",
+      "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
+      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

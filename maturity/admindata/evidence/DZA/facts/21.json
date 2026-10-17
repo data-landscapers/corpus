@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-13-dza-econostrum-ons-demographie-natalite-esperance-vie",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "Econostrum reports that Algeria's national statistics office (ONS) published a demography report for 2020-2023 built on an exhaustive survey of the communes' civil-status services covering births, deaths, stillbirths and marriages.",
+   "as_of": "2024-07-13",
+   "date_precision": "day",
+   "system": "ONS demography report 2020-2023",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "vital",
+   "value": "published",
+   "fact": "The ONS demography report for 2020-2023 gives births registered (under 900,000 in 2023) and deaths (192,000 in 2023) from the communes' civil-status services, per Econostrum.",
+   "as_of": "2024-07-13",
+   "date_precision": "day",
+   "system": "ONS demography report 2020-2023",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONS demography report 2020-2023",
+   "country_label": "Rapport sur la démographie en Algérie 2020-2023",
+   "class": "admin",
+   "platform": "",
+   "owner": "Office national des statistiques",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

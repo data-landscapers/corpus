@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-cmr-iso-member-anor",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says ANOR is responsible for developing and certifying standards in Cameroon.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "ANOR",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

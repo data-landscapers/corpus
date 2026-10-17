@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-27-zwe-africanlawmatters-strategy-without-statute-ai",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "African Law Matters says the Cyber and Data Protection Act [Chapter 12:07] has been in force since March 2022.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "African Law Matters says POTRAZ is designated as the Data Protection Authority under the Act.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "African Law Matters says Statutory Instrument 155 of 2024 introduced a licensing framework and required Data Protection Officers by December 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Statutory Instrument 155 of 2024",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

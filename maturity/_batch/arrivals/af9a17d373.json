@@ -1,0 +1,15 @@
+{"slug":"2024-07-01-tun-ogptunisie-registre-national-donnees-publiques","studies":{
+"addressregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on addressing."}}},
+"businessregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on business registration."}}},
+"civilregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on civil registration."}}},
+"electoralregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on the voters' roll."}}},
+"eparticipation":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Comment channel is on inventoried data, not a named draft law or policy."}}},
+"internetusage":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No internet usage figure stated."}}},
+"landregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on land records."}}},
+"opendatapolicy":{"countries":{"TUN":{"facts":[{"sub_indicator":"policy","aspect":"standing","value":"adopted","fact":"The Presidency of the Government's e-administration unit says it built the national public data register in application of government decree 2021-03 and Circular 4 of 2024 on open public data.","as_of":"2024-07-01","date_precision":"day","system":"Decree 2021-03 and Circular 4 of 2024 on open public data","class":"policy"}],"systems":[{"system":"registre.data.gov.tn","country_label":"Registre National des Donnees Publiques","class":"other","platform":"web inventory site, companion to the PDIMS inventory system","owner":"Unite de l'Administration Electronique, Presidence du Gouvernement, with PAGOF","tiers":""}],"note":""}}},
+"opendatause":{"countries":{"TUN":{"facts":[],"systems":[{"system":"registre.data.gov.tn","country_label":"Registre National des Donnees Publiques (registre.data.gov.tn)","class":"other","platform":"web inventory site","owner":"Unite de l'Administration Electronique","tiers":""}],"note":"Site lists inventoried data and metadata; no downloadable datasets or licence stated."}}},
+"populationregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on a population register."}}},
+"publicconsultation":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No named digital law or policy put to outside views."}}},
+"socialregistry":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on a social registry."}}},
+"taxregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on a taxpayer register."}}}
+}}

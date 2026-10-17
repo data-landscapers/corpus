@@ -1,0 +1,72 @@
+{
+ "slug": "2026-10-16-fpa-liberia-cybersecurity-ties-morocco-anca-smart-africa",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions legislation and gaps only; no body, strategy or incident stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Membership of networks only; no legal text named."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Liberia was admitted to the African Network of Cybersecurity Authorities (ANCA), per its Ministry of Posts and Telecommunications.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "ANCA",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Liberia was admitted to Smart Africa, per its Ministry of Posts and Telecommunications.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Smart Africa",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Hosting a conference run by its DGSSI is not a meeting of an African body; the Liberia MoU is only to be pursued."
+    }
+   }
+  }
+ }
+}

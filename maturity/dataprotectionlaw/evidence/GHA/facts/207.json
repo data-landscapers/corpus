@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-13-gha-graphic-dpc-field-enforcement-microfinance-cid",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Executive Director said 14 years after passage of the Data Protection Act, 2012 (Act 843), whose Section 56 makes processing without registration punishable on summary conviction.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Commission's Executive Director and Director of Regulatory and Compliance briefed the press and led the enforcement exercise.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission reported 2,575 data controller registrations in 2026, found two hospitals with expired certificates, and referred a microfinance firm and a clinic to police, with no decision of its own stated.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Act 843",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

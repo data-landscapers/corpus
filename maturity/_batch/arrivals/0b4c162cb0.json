@@ -1,0 +1,52 @@
+{
+ "slug": "2025-10-08-lbr-frontpageafrica-lisa-joins-iso-afsec",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "The Liberia Standards Authority gained Correspondent Membership of ISO, per its statement of 7 October 2025.",
+       "as_of": "2025-10-07",
+       "date_precision": "day",
+       "system": "Liberia Standards Authority",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for the country."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the authority but does not state it was set up by law or issued any standard."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "AFSEC is an electrotechnical standards body, not digital law."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "2024-07-24-lso-lena-iec-update-electors-register",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "slug": "2024-04-04-dza-lasentinelle-etat-civil-nin-revolution",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Algerian Interior Ministry's digitisation of the national civil-status register has digitised more than 100 million marriage, death and birth acts, per La Sentinelle.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "registre national de l'état civil",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Algeria's national identification number (NIN) is carried on the civil-status registers and extracts kept by communes and consulates, per La Sentinelle.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "numéro d'identification national (NIN)",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Algeria has set up a unique national identification number (NIN), attributed to citizens born in Algeria or abroad, resident foreigners and legal persons, per La Sentinelle.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "numéro d'identification national (NIN)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The Algerian government heard a communication on the growth in the number of labelled start-ups and incubators, per La Sentinelle.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "start-up label",
+       "class": "not recorded"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Algeria."
+    }
+   }
+  }
+ }
+}

@@ -15,3 +15,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,SSD,digital.rural--digitalisation-of-rural-health-clinics-emr,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,SYC,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
 2026-10-13,TUN,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-17,COD,digital.rural--digitalisation-of-rural-health-clinics-hmis,fact,3,3,COD-021;COD-022;COD-025;COD-030;COD-034,Arrivals added COD-034; restaged by hand: stage unchanged.
+2026-10-17,GHA,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,2,2,GHA-002;GHA-011;GHA-013;GHA-017;GHA-018;GHA-030;GHA-045,"Arrivals added GHA-044, GHA-045; restaged by hand: stage unchanged."
+2026-10-17,KEN,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,3,3,KEN-001;KEN-003;KEN-026,"Arrivals added KEN-044, KEN-045; restaged by hand: stage unchanged."
+2026-10-17,SEN,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,2,2,SEN-010;SEN-011;SEN-017;SEN-018;SEN-030;SEN-031;SEN-045;SEN-046,Arrivals added SEN-060; restaged by hand: stage unchanged.
+2026-10-17,TZA,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,3,3,TZA-001;TZA-027;TZA-030;TZA-031;TZA-050,"Arrivals added TZA-050, TZA-051; restaged by hand: stage unchanged."
+2026-10-17,ZAF,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,3,3,ZAF-025;ZAF-028;ZAF-029;ZAF-031;ZAF-032;ZAF-033;ZAF-057;ZAF-013,"Arrivals added ZAF-055, ZAF-056, ZAF-057, ZAF-058; restaged by hand: stage unchanged."
+2026-10-17,ZMB,digital.rural--digitalisation-of-rural-health-clinics-emr,fact,3,3,ZMB-019;ZMB-024;ZMB-044;ZMB-027;ZMB-017,"Arrivals added ZMB-053, ZMB-054; restaged by hand: stage unchanged."

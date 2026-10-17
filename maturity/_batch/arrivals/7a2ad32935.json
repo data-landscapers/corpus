@@ -1,0 +1,133 @@
+{
+ "slug": "2026-10-16-gsma-madagascar-digital-reforms-africa-spectrum-policy",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only network coverage for the rural population is stated; no programme or survey split."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2028",
+       "fact": "GSMA's report says its four priorities support Madagascar's Digital Strategic Plan (PSN) 2023-2028.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Digital Strategic Plan (PSN) 2023-2028",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Strategic Plan (PSN) 2023-2028",
+       "country_label": "Madagascar",
+       "class": "national",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The FDTIC fund is named only as a reform recommendation; no amount or act stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only unique mobile internet penetration (14.3%, 2025) is stated, which is not the study's figure."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  }
+ }
+}

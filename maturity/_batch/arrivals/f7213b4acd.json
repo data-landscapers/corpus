@@ -1,0 +1,160 @@
+{
+ "slug": "2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fichier national de l'état civil",
+       "country_label": "CMR",
+       "class": "civil",
+       "platform": "",
+       "owner": "MINDDEVEL",
+       "tiers": ""
+      },
+      {
+       "system": "NIPU",
+       "country_label": "CMR",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Law-level deck; no link between the civil register and the ID system is stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "MINDDEVEL's deck says law 2024/016 consecrates digitalisation of civil-event registration, creates the national civil-status file, and validates electronic civil-status acts produced in pilot operations.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Fichier national de l'état civil",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier national de l'état civil",
+       "country_label": "CMR",
+       "class": "civil",
+       "platform": "",
+       "owner": "MINDDEVEL",
+       "tiers": ""
+      },
+      {
+       "system": "NIPU",
+       "country_label": "CMR",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "NIPU",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier national de l'état civil",
+       "country_label": "CMR",
+       "class": "civil",
+       "platform": "",
+       "owner": "MINDDEVEL",
+       "tiers": ""
+      },
+      {
+       "system": "NIPU",
+       "country_label": "CMR",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about local government office connection."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "MINDDEVEL's deck says law 2024/016 takes internally displaced persons into account in issuing or reconstituting civil-status acts.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fichier national de l'état civil",
+       "country_label": "CMR",
+       "class": "civil",
+       "platform": "",
+       "owner": "MINDDEVEL",
+       "tiers": ""
+      },
+      {
+       "system": "NIPU",
+       "country_label": "CMR",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Law provisions only; no statement that offices enter births or deaths digitally at registration."
+    }
+   }
+  }
+ }
+}

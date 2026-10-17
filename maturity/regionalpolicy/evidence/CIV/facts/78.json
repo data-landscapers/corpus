@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-atu-secures-endorsements-49-african-proposals-itu-pp26",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "ATU African Common Proposals for ITU PP-26",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "The fourth and final African preparatory meeting for the ITU Plenipotentiary Conference, where the 49 proposals were agreed, was held in Abidjan, Cote d'Ivoire, 15 to 17 September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "ATU African preparatory meetings for ITU PP-26",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

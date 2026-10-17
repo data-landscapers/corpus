@@ -1,16 +1,17 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-003",
-   "gaps": "No source held says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "3",
+      "part": "active",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-003",
+      "gaps": "No source held says a thing the country agreed has been put into effect.",
+      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

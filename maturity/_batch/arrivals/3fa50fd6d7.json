@@ -1,0 +1,6 @@
+{"slug": "2024-09-05-lby-escwa-digital-development-agenda-workshop", "studies": {
+"civilserviceskills": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No civil-service digital-skills training stated."}}},
+"digitalskills": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only says the workshop stressed the need to enhance digital skills; no programme stated."}}},
+"digitalstrategy": {"countries": {"LBY": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "ESCWA says it is providing technical cooperation to Libya in preparing a digital development agenda, and with the General Information Authority held a hybrid consultative workshop in Tripoli to introduce the proposed agenda to stakeholders.", "as_of": "2024-09-05", "date_precision": "day", "system": "digital development agenda", "class": "national"}], "systems": [{"system": "digital development agenda", "country_label": "Digital development agenda", "class": "national", "platform": "", "owner": "General Information Authority with ESCWA", "tiers": ""}], "note": ""}}},
+"statisticslaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No statistics law stated."}}}
+}}

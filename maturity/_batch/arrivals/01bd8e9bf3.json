@@ -1,0 +1,218 @@
+{
+ "slug": "2024-05-23-rwa-google-umoja-connectivity-africa",
+ "studies": {
+  "broadbandstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Google announcement of the Umoja cross-border fibre route; states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

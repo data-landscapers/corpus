@@ -1,0 +1,136 @@
+{
+ "slug": "2024-02-09-mar-lavieeco-plateforme-jisr-55-millions-operations",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The Agence de développement du digital says the Jisr platform carries secure data exchange between public administrations and institutions, used in the unified social registry, the Tayssir programme and the Masar school system.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Jisr",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The ADD says over 55 million data exchange operations were recorded on Jisr from February 2023 to 31 January 2024, through 46 APIs giving access to 350 types of beneficiary information.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Jisr",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jisr",
+       "country_label": "Maroc",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Agence de développement du digital (ADD)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on health systems."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Jisr",
+       "country_label": "Maroc",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Agence de développement du digital (ADD)",
+       "tiers": ""
+      }
+     ],
+     "note": "Names the Jisr platform but no framework or rule."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that interoperability could serve the judiciary; no case management system stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or curriculum statement."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Masar named as a school management system only; what it records is not stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The ADD says Jisr is used for data exchange in the unified social registry and the Tayssir family financial support programme.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Jisr",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jisr",
+       "country_label": "Maroc",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Agence de développement du digital (ADD)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry named as a Jisr user; its service status and programmes are not stated."
+    }
+   }
+  }
+ }
+}

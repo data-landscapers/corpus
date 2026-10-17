@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-eri-iso-member-esi",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The ISO member page lists the Eritrean Standards Institution (ESI) as a correspondent member of ISO.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ESI",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

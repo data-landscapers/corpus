@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-16-tun-datagovtn-portail-national-donnees-ouvertes",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The national open data portal data.gov.tn, run by the Présidence du Gouvernement, lists datasets for download from ministries and agencies, with theme counts such as 1,210 in agriculture and 275 in industry, mines and energy; no licence is stated.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "The portal shows datasets from several named public bodies, including the ministries of higher education, culture, agriculture, industry, health and social affairs, and communes such as Kélibia and Jemmel.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "reuse",
+   "value": "reused",
+   "fact": "The portal displays nine reuse cases, including dashboards, a research paper and the Thnity MaaS mobile application published 14 December 2023, built on its data.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National des Données Ouvertes",
+   "country_label": "data.gov.tn",
+   "class": "open",
+   "platform": "",
+   "owner": "Présidence du Gouvernement",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

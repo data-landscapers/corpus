@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-gha-gna-dpc-2575-data-controllers-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Ghana's Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, said it registered 2,575 data controllers in 2026 and is adding spot checks, inspections and complaint investigations under Act 843.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

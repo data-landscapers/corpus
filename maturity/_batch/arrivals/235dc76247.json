@@ -1,0 +1,41 @@
+{
+ "slug": "2024-03-01-mrt-mtnima-tdr-plateforme-communication-gouv",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Terms of reference for an encrypted ministers-only messaging app, not a citizen service."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Contractor builds the app; no statement on government staff running systems."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks."
+    }
+   }
+  }
+ }
+}

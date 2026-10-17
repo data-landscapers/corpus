@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-iso-imanor-member-page",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists IMANOR as Morocco's ISO member body.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "IMANOR",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,187 @@
+{
+ "slug": "2026-01-10-gha-gmj-lessons-discontinued-national-ehr",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "tiers",
+       "value": "T1;T2",
+       "fact": "The vendor Lightwave eHealthCare Solutions says LHIMS was deployed to 253 major facilities at contract expiry: four teaching hospitals, six regional hospitals and 243 district and other hospitals.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "LHIMS",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "last12",
+       "value": "regressing",
+       "fact": "The editorial says the Ministry of Health discontinued LHIMS after its contract expired in December 2024, and that hospitals in the Ashanti Region and elsewhere were forced to revert to paper during outages and payment disputes.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "LHIMS",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LHIMS",
+       "country_label": "Ghana",
+       "class": "emr",
+       "platform": "Lightwave Health Information Management System",
+       "owner": "vendor",
+       "tiers": "T1;T2"
+      },
+      {
+       "system": "GHIMS",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "Ghana Health Information Management System, state-owned",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  }
+ }
+}

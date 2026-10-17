@@ -1,0 +1,45 @@
+{
+ "slug": "2026-01-01-nga-iso-son-member",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Standards Organisation of Nigeria as Nigeria's ISO member body, participating in 109 technical committees.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SON",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO's member page says the Standards Organisation of Nigeria was established by an Enabling Act of 1971 to prepare standards.",
+       "as_of": "1971",
+       "date_precision": "year",
+       "system": "SON",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

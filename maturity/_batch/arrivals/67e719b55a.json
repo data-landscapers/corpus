@@ -1,0 +1,23 @@
+{
+ "slug": "2024-10-24-swz-edn-ifmis-phase-1-launch",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Umsebe IFMIS",
+       "country_label": "Umsebe IFMIS",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "Phase 1 (chart of accounts, planning, budgeting) is only announced to go live; whole-of-government use is set for phase 2 in April 2025."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fichier national de l'état civil",
+   "country_label": "CMR",
+   "class": "civil",
+   "platform": "",
+   "owner": "MINDDEVEL",
+   "tiers": ""
+  }
+ ],
+ "note": "Law provisions only; no statement that offices enter births or deaths digitally at registration."
+}

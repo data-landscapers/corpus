@@ -21,8 +21,8 @@ The Malabo Convention's third chapter commits each party to legal measures again
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 10 |
-| 3 Established | 37 |
+| 4 Operating | 11 |
+| 3 Established | 36 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -69,26 +69,27 @@ Cybercrime law in force since 2026; used in September 2026 to arrest a commentat
 
 ### Mali: 4 Operating
 
-Cybercrime provisions sit in the penal code since December 2024; in 2026 they were used against journalists, including a 12-month sentence in August.
+Cybercrime provisions in the penal code since December 2024 were used against journalists in 2026, with two-year and 12-month sentences; case counts are not known.
 
 - IPI reports that the trial of commentator Mohamed Youssouf Bathily (Ras Bath) began on 10 August 2026 on charges of criminal association and undermining the credibility of the state through information and communication technologies ([source, 2026-08-10](https://ipi.media/mali-military-junta-uses-cybercrime-provisions-to-target-journalists/)).
 - The Pôle national de lutte contre la cybercriminalité sentenced journalist Chahana Takiou, founder-director of the newspaper 22 septembre, to 12 months in prison with 6 suspended on 3 August 2026, for undermining the credit of the State through the judicial institution, after he was summoned by the Pôle and held on remand ([source, 2026-08-03](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac)).
-- IPI states Mali amended its Penal Code in December 2024, incorporating provisions previously contained in the 2019 cybercrime law, and that journalists have been arrested and imprisoned under the new penal code ([source, 2024-12](https://ipi.media/mali-military-junta-uses-cybercrime-provisions-to-target-journalists/)).
+- RSF says journalist Youssouf Sissoko was sentenced on 23 March 2026 to two years in prison and a 1 million CFA franc fine over an opinion article, under Mali's cybercrime law, which shows the law is in force ([source, 2026-03-23](https://rsf.org/en/broadcast-suspension-and-arrests-journalists-mali-nearly-six-years-transition-marked-repression)).
 
 ### Niger: 4 Operating
 
-A 2019 cybercrime law is in force; in October 2025 it was used to charge six journalists.
+A 2019 cybercrime law is in force; it was used to charge six journalists in October 2025 and a lawyer in September 2026.
 
+- Human Rights Watch says Lirwana was charged under the cybercrime law and detained from 21 September 2026, with prosecutors seeking five years at a 6 October hearing, and that the junta has detained journalists under it ([source, 2026-09-21](https://www.hrw.org/news/2026/10/08/nigers-junta-tightens-its-grip-on-free-expression)).
 - Per Human Rights Watch, police in Niamey arrested six journalists on 30 October 2025 and the authorities charged them with complicity in disseminating a document likely to disturb public order under the 2019 cybercrime law, for sharing an invitation to a state press conference; three were detained at Kollo prison. The law was used against journalists ([source, 2025-10-30](https://www.hrw.org/fr/news/2025/11/06/des-journalistes-nigeriens-arretes-en-vertu-de-la-loi-sur-la-cybercriminalite)).
-- Human Rights Watch reports that Niger's 2019 cybercrime law, amended by the junta in 2024 to restore prison terms of up to five years and fines for disseminating data likely to disturb public order, was the law under which charges were brought in October 2025 ([source, 2025-10-30](https://www.hrw.org/fr/news/2025/11/06/des-journalistes-nigeriens-arretes-en-vertu-de-la-loi-sur-la-cybercriminalite)).
+- Human Rights Watch says a Niamey prosecutor charged lawyer Abrourahamane Lirwana with spreading data likely to disturb public order under Niger's cybercrime law, which shows the law is in force ([source, 2026-09-21](https://www.hrw.org/news/2026/10/08/nigers-junta-tightens-its-grip-on-free-expression)).
 
 ### Nigeria: 4 Operating
 
 A cybercrime law is in force and was used in 2026 against activist Omoyele Sowore, and in 2024 against journalists and critics.
 
+- The Southern Africa Litigation Centre says section 24 of the Cybercrimes Act is repeatedly used to arrest journalists for their reporting, giving no dates or names ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 - The DSS is prosecuting activist and presidential candidate Omoyele Sowore under the Cybercrimes Act over his description of the President as a criminal, and its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election ([source, 2026-08-30](https://punchng.com/sowore-serap-lawyer-demand-dss-withdraw-charges/)).
-- SERAP says authorities continue to use section 24 to arrest and charge journalists, bloggers, activists and ordinary citizens, including over posts in WhatsApp alumni groups; no individual case or date is given, so the published date is used ([source, 2026-08-24](https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/)).
-- The commentary describes the Cybercrimes (Prohibition, Prevention, etc.) Act as amended in 2024 as containing interception provisions; no event date is given, so its published date 2026-09-22 is used ([source, 2026-09-22](https://www.vanguardngr.com/2026/09/when-privacy-becomes-content-the-dangerous-normalisation-of-leaked-private-conversations/)).
+- The Southern Africa Litigation Centre says section 24 of Nigeria's Cybercrimes Act is repeatedly used to arrest journalists for their reporting ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 
 ### Sudan: 4 Operating
 
@@ -105,6 +106,13 @@ The Computer Misuse Act is in force, and in 2026 police arrested three men over 
 - Kampala Metropolitan Police arrested and hold three men, Ronald Mayiga, Swaibu Kakaire and Mark Mugoya, over alleged fake news and unlawful obtaining or disclosure of personal data on social media, in an investigation the report places under the Computer Misuse Act; charges were not disclosed and the incidents date to July 2026 ([source, 2026-09-01](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media)).
 - Nilepost says Uganda's cyber-offence framework is anchored in the Computer Misuse Act, 2011 as amended by the Computer Misuse (Amendment) Act, 2022, with some offences carrying up to 10 years in prison ([source, 2026-09-01](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media)).
 
+### Zambia: 4 Operating
+
+Two cyber laws passed in 2025 are in force; a journalist was arrested under one in August 2026; no count of cases is known.
+
+- Paradigm Initiative, citing the African Union's preliminary report, says ZNBC journalist MacPherson Mukuka was arrested under section 10 of the cybercrime law, on recording a private conversation, during the August 2026 elections ([source, 2026-08](https://paradigmhq.org/paradigm-initiatives-statement-to-the-african-commission-on-human-and-peoples-rights-on-the-human-rights-situation-in-africa-at-the-89th-ordinary-session/)).
+- Access Now and the #KeepItOn coalition noted the enactment of the Cybercrimes Act and the Cybersecurity Act and urged the government not to let them become tools to suppress expression; the date is the document's published date ([source, 2026-08-05](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/)).
+
 ### Algeria: 3 Established
 
 A 2009 law on offences linked to information technology is treated as in force by a 2020 decree; no use of it is known.
@@ -113,8 +121,9 @@ A 2009 law on offences linked to information technology is treated as in force b
 
 ### Angola: 3 Established
 
-Law 7/17 of 2017 is in force and a new bill passed parliament in August 2026; no use of either is known.
+Angola's new cybersecurity law and Law 7/17 of 2017 are in force as of October 2026; no use of either is known.
 
+- Angola's minister said the Cybersecurity Law has entered into force ([source, 2026-10-16](https://www.sadc.int/latest-news/sadc-strengthens-regional-cybersecurity-and-cybercrime-cooperation)).
 - A UNITA deputy, quoted by Novo Jornal, says Law 7/17 of 16 February (protection of computer networks and systems) is part of the current legal order and the bill would repeal it; the report dates nothing about Law 7/17 beyond its 2017 enactment, so as_of is the report's publication date ([source, 2026-01-23](https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-de-ciberseguranca-aprovada-mas-com-a-abstencao-da-unita-que-receia-que-governo-recorra-ao-corte-de-internet-nos-dias-das-eleicoes-e-das-manifestacoes-69381.html)).
 
 ### Botswana: 3 Established
@@ -140,8 +149,8 @@ A 2022 cybercrime law is in force and was cited as applied in 2026; no use again
 
 A cybercrime law from December 2010 is in force and was reviewed at a June 2026 workshop; no use against anyone is known.
 
+- At a CENADI workshop, Professor Jean Louis Fendji listed Cameroon's cybersecurity law among the local texts that frame aspects of data protection ([source, 2024-08-14](https://www.dgb.cm/le-cenadi-sensibilise-les-administrations-a-la-protection-des-donnees/)).
 - The Nkafu brief says Cameroon's legal framework is anchored in a 2010 cybersecurity law and 2012 decrees, and calls for the 2010 law to be revised; it dates the statement to the brief's publication on 2026-09-04 ([source, 2010](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/)).
-- Le Jour reports a workshop on 8-9 June 2026 in Yaounde that reviewed articles of law no. 2010/012 of 21 December 2010 on cybercrime in Cameroon, which is treated as the existing law ([source, 2010-12-21](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/)).
 
 ### Cape Verde: 3 Established
 
@@ -200,8 +209,8 @@ Eritrea's Penal Code, read in 2020, covers computer offences in place of a cyber
 
 A cybercrime law has been in force since March 2022; officials say arrests are possible, but no case under it is known.
 
+- The Director of Public Prosecutions said on 1 October 2026 that the Computer Crime and Cybercrime Act No. 6 of 2022 provides the legal framework for offences committed through or against computer systems, and that her office has trained prosecutors on it ([source, 2026-10-01](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/)).
 - An ESCCOM officer said on 27 August 2026 that cyberbullying is a crime under the Computer Crime and Cybercrime Act of 2022 and that people can be arrested for it ([source, 2026-08-27](https://eswatinipositivenews.online/esccom-warns-emaswati-cyberbullying-is-a-crime/)).
-- The Computer Crime and Cybercrime Act, 2022 (Act No. 6 of 2022) was published in the Government Gazette Extraordinary on 4 March 2022 and by section 1(2) came into operation on the date of publication ([source, 2022-03-04](https://www.gov.sz/images/ICT/COMPUTER-CRIME--CYBERCRIME-ACT.pdf)).
 
 ### Gabon: 3 Established
 
@@ -211,14 +220,15 @@ A cybersecurity and cybercrime law, numbered 027/2023, was in force in 2025; no 
 
 ### Gambia: 3 Established
 
-A 2009 act with cybercrime offences is in force and a 2024 cybercrime bill is not enacted; no use of either is known.
+A 2009 act with cybercrime offences is in force and a cybercrime bill was still pending in 2026; no use of either is known.
 
 - The Information and Communications Act, 2009 (No. 2 of 2009) entered into force on 29 May 2009 and carries Part III of Chapter III, 'Computer Misuse and Cyber Crime', creating offences such as unauthorised access to computer data (fine of 200,000 dalasis or up to five years' imprisonment, or both) ([source, 2009-05-29](https://www.wipo.int/wipolex/en/legislation/details/10478)).
 
 ### Guinea: 3 Established
 
-A cybersecurity law is in force; in 2025 the media regulator said it will be used against web media.
+A cybersecurity law is in force; in 2025 the media regulator said it will be used against web media. No case is known.
 
+- The ministry's secretary-general Nouhan Traore says Guinea has put in place the law on cybersecurity and protection of personal data ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 - The president of the Haute Autorité de la Communication says the cybersecurity law, not the press law, will be applied to web media that break the rules, with prison for any person; the document gives no date for the law and is dated by its published date, 2025-07-26 ([source, 2025-07-26](https://aminata.com/guinee_loi-sur-la-cybersecurite-le-president-de-haute-autorite-de-la-communication-apporte-des-precisions/)).
 
 ### Kenya: 3 Established
@@ -269,9 +279,10 @@ Cybersecurity and cybercrime laws were signed in 2026. No use of the law is know
 
 ### Rwanda: 3 Established
 
-A cybersecurity law is in force, as of 2026. Whether it has been used is not known.
+A cybersecurity law is in force, and the Supreme Court upheld one article in June 2025. Whether it has been used is not known.
 
 - The East African Policy Observer, drawing on the Carnegie Endowment's Africa Technology Policy Tracker, says Rwanda's binding legal instruments include cybersecurity law and that all three countries reviewed, Rwanda among them, have cybersecurity laws; no date is given for the statement, so the document's published date is used ([source, 2026-07-30](https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/)).
+- Rwanda's Supreme Court on 5 June 2025 upheld the constitutionality of Article 39 of the 2018 Cybercrime Law, which criminalises publishing rumours through digital platforms, per CIVICUS Monitor ([source, 2025-06-05](https://monitor.civicus.org/explore/opposition-leader-victoire-ingabire-re-arrested-court-ruling-deals-blow-to-freedom-of-expression/)).
 
 ### Sao Tome and Principe: 3 Established
 
@@ -303,6 +314,7 @@ A cybercrime law has been in force since 2021; no case under it is known.
 
 A cybercrime law was reported in force in 2026; no case under it is known.
 
+- The authors Fritz and Limpitlaw state that South Africa's Cybercrimes Act criminalises a range of online wrongdoing and provides investigative powers, evidence preservation and international co-operation ([source, 2026-10-12](https://www.businessday.co.za/lifestyle/2026-10-12-we-regulate-cybercriminals-now-its-time-to-regulate-the-platforms-they-use/)).
 - IOL reports the Cybercrimes Act (2020) as an existing South African law that already provides protections and deals with hacking, online fraud and sharing intimate images without consent; the article is dated 2026-09-16 and gives no other date for the statement ([source, 2026-09-16](https://iol.co.za/news/south-africa/2026-09-16-south-africa-has-no-plan-to-ban-under-16s-from-social-media2/)).
 
 ### South Sudan: 3 Established
@@ -332,17 +344,11 @@ A cybersecurity decree-law has been in force in Tunisia since 2023; no case unde
 
 - Decree-law no. 2023-17 of 11 March 2023 on cybersecurity, published in JORT no. 26, sets audit, labelling, classification, incident-response and critical-infrastructure duties for public and private bodies with fines of 50,000 to 100,000 dinars; its Article 30 brings it into force six months after publication, and the database record gives its status as in force ([source, 2023-03-11](https://legislation-securite.tn/latest-laws/decret-loi-n-2023-17-du-11-mars-2023-relatif-a-la-cybersecurite/)).
 
-### Zambia: 3 Established
-
-Two cyber laws passed in 2025 are in force; no arrest or charge under them is known.
-
-- Access Now and the #KeepItOn coalition noted the enactment of the Cybercrimes Act and the Cybersecurity Act and urged the government not to let them become tools to suppress expression; the date is the document's published date ([source, 2026-08-05](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/)).
-- Opposition running mate Makebi Zulu said that, if elected, his government would repeal the Cyber Crimes and Cyber Security Act, which he said had gagged Zambians since its enactment; the document gives no date for the rally beyond a Friday before its 2026-07-04 publication ([source, 2026-07](https://diggers.news/local/2026/07/04/well-repeal-cyber-law-makebi/)).
-
 ### Zimbabwe: 3 Established
 
-Zimbabwe has no separate cybercrime act; cybercrime offences in the criminal code, amended 2021, are in force; no case of use is known.
+Cybercrime offences in the criminal code, amended 2021, are in force, and officials describe a wider law in 2026; no case of use is known.
 
+- A POTRAZ official said Zimbabwe's Cybersecurity Act incorporates cybercrime definitions alongside cybersecurity provisions in one piece of legislation ([source, 2026-10-15](https://www.heraldonline.co.zw/potraz-moves-to-tighten-cybersecurity-for-critical-infrastructure/)).
 - POTRAZ's Director General stated on 24 January 2026 that Zimbabwe has no standalone cyber crimes act, and that cybercrime offences (hacking, data interference, cyber-bullying, child abuse material and others, ss.163-168) are in force in Part VIII of the Criminal Law (Codification and Reform) Act [Chapter 9:23], as amended in 2021 ([source, 2026-01-24](https://news.pindula.co.zw/2026/01/25/there-is-no-separate-cyber-crimes-act-in-zimbabwe-potraz/)).
 
 ### Djibouti: 2 Nascent
@@ -368,9 +374,10 @@ Cybercrime and cybersecurity bills were still awaiting Parliament in September 2
 
 ### Libya: 2 Nascent
 
-A parliamentary committee was preparing a cybersecurity bill in July 2026; no law in force is known, and no use of one.
+A parliamentary committee was preparing a cybersecurity bill in July 2026; a cybercrime draft went to experts in 2025. No law in force is known.
 
 - On 15 July 2026 a temporary House of Representatives committee (created by Speaker's decision 115 of 2025) met National Security Council officials in Benghazi to work on preparing a comprehensive cybersecurity bill; the document reports a bill in preparation, not an enacted law ([source, 2026-07-15](https://alwasat.ly/news/libya/524932)).
+- A near-finalized draft law on cybercrime and digital evidence was presented for expert feedback at the Informatics Governance Forum workshop, with earlier drafts dating from 2008, 2009 and 2015 ([source, 2025](https://informatics.ly/en/session/cybercrime-law-session/)).
 
 ### Namibia: 2 Nascent
 

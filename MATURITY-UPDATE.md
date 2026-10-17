@@ -3,7 +3,7 @@ type: runbook
 reader: cc
 title: The maturity update — BUILD stage 4c and the indicator rotation — instruction for Claude Code
 opened: 2026-10-09
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-17
 ---
 
 # The maturity update — keeping a finished study current
@@ -12,20 +12,24 @@ last_reviewed: 2026-10-11
 
 **The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and in rotation each indicator is reassessed whole, all 54 countries against the one ladder, and searched for what it does not hold.*
 
-**Held** *(Bill, 2026-10-11)*: **nothing here runs until every indicator has had its first study.** `study-update.py` → `HELD` is the switch: while it is `True`, `list`, `order` and `next` exit 1, which ends stage 4c and the rotation before either starts. Bill says when it is lifted.
+**Lifted** *(Bill, 2026-10-17)*: every indicator has had its first study, so stage 4c and the rotation run. `study-update.py` → `HELD` is the switch.
 
-`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rotation's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries. **CC does the work itself, in the run; no agent is started.**
+`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rotation's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries.
+
+**The facts are in news, not in large documents** *(Bill, 2026-10-17)*. An instrument, a story from before the three-year window and a country's stories past 20 are closed unread; the rest is read once across every study that lists it, by Sonnet drafters (`scripts/study-arrivals.py`).
 
 ## Stage 4c — the night's arrivals
 
-The same set difference as stages 4 and 4b, over a study's reading lists. From `scripts/.workroot/`, for each study `python scripts/study-update.py list` names:
+The same set difference as stages 4 and 4b, over a study's reading lists. From `scripts/.workroot/`:
 
 ```bash
-python scripts/study-select.py {id} --new     # appends the arrivals to the reading lists
-python scripts/study-update.py order          # the open arrivals, by study and country; exit 1 = none
+python scripts/study-select.py {id} --new          # each study: the arrivals onto its lists
+python scripts/study-arrivals.py triage            # instruments and pre-window stories closed unread
+python scripts/study-arrivals.py plan --cap 20     # shared calls; exit 0 with 0 calls = none
+python scripts/study-arrivals.py prompts {dir}     # one drafter file per call
 ```
 
-Exit 1 from `order` ends the stage. Otherwise work each arrival in turn, a country's together.
+Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival stating nothing closes `nothing`. Levels 1 and 2 below work the arrivals left open, a country's together; step 1's reading is the drafter's.
 
 ### Level 1 — add the fact
 

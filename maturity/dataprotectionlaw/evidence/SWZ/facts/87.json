@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-swz-edpa-transfer-authorisation-form",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The EDPA publishes a transfer authorisation form and takes registration of data controllers and processors.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Eswatini Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-sadc-cyber-drill-cybercrime-cooperation-2026",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Angola hosted the seventh SADC Cyber Drill and Cybercrime Cooperation 2026, convened by SADC with AfricaCERT, in Luanda, 5-9 October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "SADC Cyber Drill",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

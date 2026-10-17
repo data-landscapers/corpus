@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-10-gmb-mohrbd-id4africa-crvs-overview",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "The Registrar General's slides report 1,238,662 births in the eCRVS digital cumulative registration from August 2022 to March 2025; deaths in the digital system are not stated.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "eCRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCRVS",
+   "country_label": "Gambia",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Health, Registry of Births and Deaths",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

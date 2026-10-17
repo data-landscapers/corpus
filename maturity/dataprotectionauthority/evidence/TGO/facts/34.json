@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Togo's presentation says the IPDCP ensures compliance with national data protection laws and arbitrates data-related disputes in the RSIA.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

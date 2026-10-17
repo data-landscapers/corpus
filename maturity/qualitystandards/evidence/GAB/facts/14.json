@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gab-aganor-a-propos",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "AGANOR's own page states it was created by decree 0227/PR/MIMT of 23 June 2014 as the national standardization body, with power to draw up, approve and publish Gabonese standards.",
+   "as_of": "2014-06-23",
+   "date_precision": "day",
+   "system": "AGANOR",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": "Certification is listed as a service, but no standard on information technology or data is named."
+}

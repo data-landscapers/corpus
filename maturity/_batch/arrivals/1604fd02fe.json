@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-13-nga-idcnova-dolphin-telecoms-grid-crux-solar-ace-landing-station",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "IDCNOVA reports that the Africa Coast to Europe (ACE) submarine cable terminates at Dolphin Telecoms' cable landing station in Lagos.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "ACE",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ACE",
+       "country_label": "ACE cable, Lagos landing station",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  }
+ }
+}

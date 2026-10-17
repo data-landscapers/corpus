@@ -1,6 +1,6 @@
 # Digital transformation strategy: national strategy
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -105,7 +105,7 @@ Lesotho's digital transformation strategy to 2030 was approved in February 2025 
 - The finance minister told Parliament on 19 February 2025 that the National Digital Policy and the Digital Transformation Strategy had been approved, without naming an approving act or body or giving a date; the speech's date is used ([source, 2025-02-19](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf)).
 - The World Bank appraisal document of 22 December 2023 says a National Digital Transformation Strategy 'was adopted by the previous administration' to set the key interventions for the country's digital agenda, naming no act or adoption date; the document's date is used ([source, 2023-12-22](https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf)).
 - The strategy's text is published on the government's site (gov.ls) ([source, 2024](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/)).
-- The catalogue record describes the strategy as Lesotho's national digital-transformation strategy to 2030, self-dated 2024 and linked to a government-site download, so the as-at falls inside its 2024-2030 period; only a short stub is held, and the self-dated year is used ([source, 2024](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/)).
+- The 2027/28 Budget Strategy Paper commits government to fast-track the National Digital Transformation Strategy (2024-2030) ([source, 2026-10-15](https://budgetportal.finance.gov.ls/PDFDocuments/2027-2028%20Budget%20Strategy%20Paper-639276738396119649.pdf)).
 
 ### Liberia: 3 Established
 
@@ -266,7 +266,7 @@ The Central African Republic had a national digital plan in drafting in 2021, fo
 
 ### Congo: 2 Nascent
 
-Congo adopted Vision Congo Digital 2025 by decree in 2019; its successor is awaiting approval, and its action plan and monitoring are not known.
+Congo adopted Vision Congo Digital 2025 by decree in 2019; its successor awaits approval, and its action plan and monitoring are not known.
 
 *Lapsed.*
 
@@ -274,6 +274,7 @@ Congo adopted Vision Congo Digital 2025 by decree in 2019; its successor is awai
 - The World Bank digital economy diagnostic says the Republic of Congo adopted in June 2019 the national strategy for the digital economy 'Vision Congo Digital 2025', whose three pillars are citizen services, digitalisation of government and development of the private digital sector ([source, 2019-06](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Republique-du-Congo-DE4A-en-Francais.pdf)).
 - Décret n° 2019-150 of 17 June 2019, published in the Journal officiel of 4 July 2019, approves the national strategy for the development of the digital economy; the held passages do not describe the strategy's contents beyond calling for new bodies such as ANSSI, so its coverage of the state is not shown ([source, 2019-06-17](https://sgg.cg/JO/2019/congo-jo-2019-27.pdf)).
 - The repository gives the time frame of the National Digital Development Plan (PNDN) as 2021 - 2025 ([source, 2025](https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies)).
+- Convergence Afrique reports that the national digital transformation strategy 'Congo Digital 2025' was launched by the government in August 2019 to guarantee equitable access to digital services for all citizens by 2025 ([source, 2019-08](https://convergenceafrique.net/2024/06/24/congo-economie-numerique-plusieurs-administrations-publiques-bientot-connectees-a-linternet-haut-debit/)).
 - Minister of Posts, Telecommunications and the Digital Economy Léon Juste Ibombo announced on 13 October 2025 that the Digital Strategy 2030 document was complete and under review by the government's general secretariat before submission to the Head of State for final approval by decree ([source, 2025-10-13](https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy)).
 - Following its mid-term review, the PATN steering committee recommended proposing a date for validation by the Council of Ministers of the strategy "Vision Congo digital 2030"; the article gives no adoption. The review date is not stated, so the article's publication date is used ([source, 2025-10-11](https://www.adiac-congo.com/content/patn-quatre-principaux-objectifs-atteindre-lhorizon-2027-167508)).
 - The strategy is named "Vision Congo digital 2030" ([source, 2025-10-11](https://www.adiac-congo.com/content/patn-quatre-principaux-objectifs-atteindre-lhorizon-2027-167508)).
@@ -350,13 +351,16 @@ Libya's Prime Minister approved a government digital transformation strategy in 
 
 - Prime Minister Abdul Hamid Dabaiba of the Government of National Unity approved the national strategy for government digital transformation, prepared by the Supreme Committee for Digital Transformation, at the Libyan Economic Forum on Monday 21 April 2025, per the General Information Authority (dateline 22 April) ([source, 2025-04-21](https://www.gia.gov.ly/en/2025/04/24/prime-minister-of-the-government-of-national-unity-approves-the-national-strategy-for-government-digital-transformation/)).
 - The vision states that by the end of 2030 everyone in Libya will enjoy world-class government services; the KPI table gives 2022 baselines and 2030 targets ([source, 2022-12](https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf)).
+- The General Information Authority says the Digital Identity Management System for Citizens, including Level 3 biometric identity in technical trials with the Central Bank and banks, is part of implementing the National Digital Transformation Strategy; no target or report is cited ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
 
 ### Madagascar: 2 Nascent
 
 Madagascar has the Plan Stratégique Numérique 2023-2028, presented in 2024 with a USD 800 million estimate, but its adoption and public text are not known.
 
+*Advancing.*
+
 - The UNDP assessment says Madagascar's national digital strategy is 'formalised' and anchored to the Politique Générale de l'État, and that it is in implementation (a consolidation phase); it names no adopting act, no body that adopted it and no approval date, and uses none of approved, adopted, enacted or gazetted, so the value follows the D3 rule; the report's December 2025 publication date is used ([source, 2025-12](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf)).
-- UNDP names the Plan Stratégique Numérique 2023-2028, aligned with the Politique Générale de l'État and the SDGs, as Madagascar's national digital strategy, covering modernisation of the state, public services, digital agriculture, financial inclusion and digital identity; no as-of date is given for the period, so the report's December 2025 publication date is used ([source, 2025-12](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf)).
+- GSMA's report says its four priorities support Madagascar's Digital Strategic Plan (PSN) 2023-2028 ([source, 2026-10-16](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/)).
 
 ### Malawi: 2 Nascent
 

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,standards,standing,body,"ISO's member page says IMANOR, created in 2010 to replace SNIMA, is Morocco's national standards body producing Moroccan standards.",2010,year,IMANOR,body,2026-01-01-mar-iso-imanor-member-page,https://www.iso.org/member/1931.html

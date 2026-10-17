@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-13-egy-shura-pdpl-compliance-deadline-oct-31",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Law No. 151 of 2020 entered into force in October 2020; its regulations' transitional period expires 31 October 2026, per Shura Law Firm.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Personal Data Protection Law No. 151 of 2020",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Personal Data Protection Centre is operating and opened its licence application portal in early October 2026, per Shura Law Firm.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Centre opened its electronic portal for licence, permit and accreditation applications in early October 2026, per Shura Law Firm.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

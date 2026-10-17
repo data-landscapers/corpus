@@ -1,0 +1,45 @@
+{
+ "slug": "2026-01-01-eri-iso-member-esi",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "The ISO member page lists the Eritrean Standards Institution (ESI) as a correspondent member of ISO.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "ESI",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO states ESI was established in 1995 by Proclamation No. 75/1995 as the sole standardization body in Eritrea, with 446 national standards published.",
+       "as_of": "1995",
+       "date_precision": "year",
+       "system": "ESI",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": "No published standard or certification is stated as on information technology or data."
+    }
+   }
+  }
+ }
+}

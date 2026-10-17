@@ -1,13 +1,13 @@
 iso3,stage,standing,reach,stage_sources
 AGO,3,in-force,,AGO-001
 BDI,2,draft,,BDI-002;BDI-003
-BEN,2,draft,,BEN-001
+BEN,3,in-force,,BEN-004
 BFA,3,in-force,,BFA-001
 BWA,3,in-force,,BWA-002
 CAF,no evidence,,,
 CIV,4,in-force,rules,CIV-001;CIV-003;CIV-002
 CMR,2,draft,,CMR-001;CMR-002
-COD,2,draft,,COD-001
+COD,2,draft,,COD-002;COD-001
 COG,1,none,,COG-001
 COM,1,none,,COM-001
 CPV,3,in-force,,CPV-001
@@ -19,7 +19,7 @@ ETH,3,in-force,,ETH-003;ETH-001
 GAB,1,none,,GAB-001
 GHA,5,in-force,applied,GHA-003;GHA-005;GHA-001
 GIN,3,in-force,,GIN-001
-GMB,4,in-force,rules,GMB-004;GMB-006;GMB-003
+GMB,4,in-force,rules,GMB-004;GMB-006;GMB-008
 GNB,2,draft,,GNB-001
 GNQ,2,draft,,GNQ-001;GNQ-002
 KEN,5,in-force,applied,KEN-002;KEN-003
@@ -39,7 +39,7 @@ NGA,5,in-force,applied,NGA-002;NGA-004;NGA-001
 RWA,3,in-force,,RWA-001
 SDN,3,in-force,,SDN-002;SDN-001
 SEN,4,in-force,rules,SEN-003;SEN-002
-SLE,4,in-force,rules,SLE-003;SLE-008;SLE-007
+SLE,4,in-force,rules,SLE-003;SLE-008;SLE-012
 SOM,2,draft,,SOM-001;SOM-002
 SSD,4,in-force,rules,SSD-002;SSD-001
 STP,2,draft,,STP-002;STP-001

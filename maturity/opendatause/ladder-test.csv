@@ -2,7 +2,7 @@ iso3,stage,access,breadth,reuse,stage_sources
 AGO,2,published,,,AGO-001;AGO-002
 BDI,3,licensed,,,BDI-002
 BEN,2,published,,,BEN-001
-BFA,unplaced,,,,
+BFA,4,licensed,several,,BFA-007
 BWA,2,published,,,BWA-001
 CAF,3,licensed,,,CAF-003
 CIV,2,published,,,CIV-001
@@ -19,13 +19,13 @@ ETH,2,published,,,ETH-003
 GAB,no evidence,,,,
 GHA,2,published,,,GHA-001;GHA-002
 GIN,2,published,,,GIN-003
-GMB,no evidence,,,,
+GMB,2,published,,,GMB-001;GMB-002
 GNB,4,licensed,several,,GNB-002;GNB-005
 GNQ,no evidence,,,,
 KEN,unplaced,,,,
 LBR,5,licensed,several,reused,LBR-005
 LBY,4,licensed,several,,LBY-003
-LSO,no evidence,,,,
+LSO,2,published,,,LSO-001
 MAR,2,published,,,MAR-002;MAR-006
 MDG,3,licensed,,,MDG-002
 MLI,3,licensed,,,MLI-002
@@ -34,12 +34,12 @@ MRT,2,published,,,MRT-001
 MUS,2,published,,,MUS-001;MUS-002
 MWI,2,published,,,MWI-001
 NAM,2,published,,,NAM-001
-NER,no evidence,,,,
-NGA,unplaced,,,,
+NER,3,licensed,,,NER-002
+NGA,2,published,,,NGA-002
 RWA,no evidence,,,,
 SDN,no evidence,,,,
 SEN,5,licensed,several,reused,SEN-001
-SLE,unplaced,,,,
+SLE,2,published,,,SLE-006
 SOM,3,licensed,,,SOM-002
 SSD,3,licensed,,,SSD-002
 STP,no evidence,,,,
@@ -50,6 +50,6 @@ TGO,4,licensed,several,,TGO-003
 TUN,no evidence,,,,
 TZA,2,published,,,TZA-002;TZA-003
 UGA,2,published,,,UGA-003;UGA-004
-ZAF,2,published,,,ZAF-001
+ZAF,2,published,,,ZAF-002;ZAF-001
 ZMB,4,licensed,several,,ZMB-002
 ZWE,2,published,,,ZWE-002;ZWE-001

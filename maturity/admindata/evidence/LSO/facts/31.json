@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-01-lso-bos-publications",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Bureau of Statistics Lesotho publications page lists downloadable Crime Statistics 2022, Education Statistical Report 2023 and Annual Foreign Trade Statistics Report 2024.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "BOS publications page",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "vital",
+   "value": "published",
+   "fact": "The Bureau of Statistics Lesotho page lists a Vital Statistics Report 2022 and Vital Statistics (Births & Deaths) 2021 and 2020.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Vital Statistics Report 2022",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "annual",
+   "fact": "The Bureau of Statistics Lesotho page lists vital statistics reports of births and deaths for 2020, 2021 and 2022.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Vital Statistics reports 2020-2022",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vital Statistics Report 2022",
+   "country_label": "Vital Statistics Report 2022",
+   "class": "admin",
+   "platform": "",
+   "owner": "Bureau of Statistics Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

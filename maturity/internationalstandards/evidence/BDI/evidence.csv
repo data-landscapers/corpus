@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,international,standing,member,"ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN) as Burundi's ISO member body, with 11 participating and 28 observing technical-committee memberships.",2026-10-16,day,BBN,adoption,2026-10-16-bdi-iso-member-bbn,https://www.iso.org/member/1591.html

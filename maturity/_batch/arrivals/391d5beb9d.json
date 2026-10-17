@@ -1,0 +1,74 @@
+{
+ "slug": "2026-01-01-egy-legal500-cross-border-transfers-egypt-pdpl",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "transition",
+       "fact": "Legal 500 (Ibrachy & Dermarkar) says Law No. 151 of 2020 has its Executive Regulations in force with a grace period running to 1 November 2026.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Egypt Personal Data Protection Law No. 151 of 2020",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "Legal 500 (Ibrachy & Dermarkar) says the Executive Regulations under the Law were issued in November 2025.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Executive Regulations of Law 151 of 2020",
+       "class": "regulation"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Legal 500 (Ibrachy & Dermarkar) describes the Personal Data Protection Center as operating the licensing regime, with licensing portals and DPO accreditation.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Personal Data Protection Center",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Center",
+       "country_label": "Egypt",
+       "class": "authority",
+       "platform": "licensing portals",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Legal 500 (Ibrachy & Dermarkar) says personal data may not leave Egypt without prior authorisation from the Personal Data Protection Center, under Executive Regulations issued November 2025 with a grace period to 1 November 2026.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Executive Regulations of Law 151 of 2020, transfer authorisation",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": "No dated publication of a country list, model terms or decision on a transfer is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2026-10-14-tra-senum-hosts-central-african-agency-digital-transformation",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Diamniadio datacenter",
+       "country_label": "Diamniadio datacenter",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A visit to the Diamniadio datacenter is scheduled; nothing on hire, Tier or cloud."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Submarine cable infrastructure is a topic of discussion, with no route stated in service."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "ACDD is named as a visiting agency; nothing on its staff or systems."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SENUM SA",
+       "country_label": "Sénégal Numérique S.A.",
+       "class": "other",
+       "platform": "",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": "Discussions topics only; no statement of what SENUM staff run or build."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Diamniadio datacenter visit only; no ownership or hire stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Ministry of the Interior lists presidential decree 23-73 of 14 February 2023 fixing the missions and organisation of the executive secretariat of the national authority for personal data protection; no appointment is stated.",
+   "as_of": "2023-02-14",
+   "date_precision": "day",
+   "system": "Autorite nationale de protection des donnees a caractere personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

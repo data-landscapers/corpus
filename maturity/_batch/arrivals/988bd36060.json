@@ -1,0 +1,32 @@
+{
+ "slug": "2024-02-01-mdg-ugd-tdr-firme-developpement-services",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Staffing terms of reference, no data protection law stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an information portal and a vaccine tool, no online service launched or counted."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

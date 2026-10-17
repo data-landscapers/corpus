@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-eth-iso-member-ies",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO states the Institute of Ethiopian Standards is the national standards body, renamed by Proclamation 1263/2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Institute of Ethiopian Standards",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

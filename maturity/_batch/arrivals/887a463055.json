@@ -1,0 +1,14 @@
+{"slug": "2025-04-01-eth-raxio-et1-data-sheet-technical-specifications", "studies": {
+"datacentrepower": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Raxio's data sheet says the ET1 data centre in Addis Ababa takes a 33kV utility supply directly fed from the nearest substation, with 2N power redundancy and 72 hours of on-site fuel.", "as_of": "2025-04", "date_precision": "month", "system": "Raxio ET1", "class": "datacentre"},
+{"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "Raxio's data sheet states a PUE of 1.3 for the ET1 data centre, with indirect adiabatic cooling.", "as_of": "2025-04", "date_precision": "month", "system": "Raxio ET1", "class": "datacentre"}
+], "systems": [{"system": "Raxio ET1", "country_label": "Raxio Ethiopia ET1", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III"}], "note": "No water use figure is stated."}}},
+"datacentres": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Raxio's data sheet describes ET1 in Addis Ababa's ICT Park as a carrier-neutral colocation data centre holding an Uptime Institute Tier III TCCD certification.", "as_of": "2025-04", "date_precision": "month", "system": "Raxio ET1", "class": "datacentre"}
+], "systems": [{"system": "Raxio ET1", "country_label": "Raxio Ethiopia ET1", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III"}], "note": "No cloud region is stated."}}},
+"exchangepoints": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The sheet says only that ET1 is to host Ethiopia's IXP; no exchange in service is stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing about a national ID system."}}},
+"itcapacity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing about government technical staff."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Raxio ET1", "country_label": "Raxio Ethiopia ET1", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III"}], "note": "The sheet gives no ownership of the Ethiopian facility; it names only Raxio's Amsterdam headquarters."}}},
+"offsitebackup": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document names no government backup site."}}}
+}}

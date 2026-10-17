@@ -12,7 +12,7 @@ COG,2,bill,,COG-004;COG-001
 COM,4,in-force,digital,COM-002;COM-001
 CPV,4,in-force,digital,CPV-002;CPV-001
 DJI,4,in-force,digital,DJI-002;DJI-005;DJI-008
-DZA,4,in-force,digital,DZA-005;DZA-004
+DZA,4,in-force,digital,DZA-005;DZA-007;DZA-004
 EGY,no evidence,,,
 ERI,no evidence,,,
 ETH,4,in-force,digital,ETH-002;ETH-001
@@ -50,6 +50,6 @@ TGO,4,in-force,digital,TGO-003;TGO-005;TGO-001
 TUN,4,in-force,digital,TUN-004;TUN-001
 TZA,3,in-force,,TZA-001
 UGA,5,in-force,applied,UGA-002;UGA-007;UGA-005
-ZAF,3,in-force,,ZAF-006;ZAF-007
+ZAF,3,in-force,,ZAF-003;ZAF-004
 ZMB,3,in-force,,ZMB-001
 ZWE,3,in-force,,ZWE-002;ZWE-001

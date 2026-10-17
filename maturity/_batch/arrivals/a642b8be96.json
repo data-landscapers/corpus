@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-14-tza-mwananchi-eaco-posta-napa",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Tanzania hosted the fifth annual East African Communications Organisation (EACO) postal and logistics meeting in Arusha on 14 October 2026, opened by Deputy Minister Dk Switbert Mkama, per Mwananchi.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "East African Communications Organisation (EACO)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NAPA (Mfumo wa Kitaifa wa Anwani za Makazi na Maeneo)",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

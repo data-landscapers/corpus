@@ -2,7 +2,7 @@
 
 ## National strategy
 
-**Governance and finance.** The Ministry of Posts, Telecommunications and Digital Economy is mandated to implement Vision Congo Digital 2025, coordinated by an inter-ministerial committee, according to the [World Bank appraisal of 11 May 2022](<https://documents1.worldbank.org/curated/en/804131654274496053/pdf/Congo-Republic-of-Congo-Digital-Acceleration-Project.pdf>).
+**Governance and finance.** The Ministry of Posts, Telecommunications and Digital Economy is mandated to implement Vision Congo Digital 2025, coordinated by an inter-ministerial committee, according to the [World Bank appraisal of 11 May 2022](<https://documents1.worldbank.org/curated/en/804131654274496053/pdf/Congo-Republic-of-Congo-Digital-Acceleration-Project.pdf>). The [Digital Strategy 2030 document was completed with World Bank financial support](<https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy>) in October 2025.
 
 **Standing.** [Décret n° 2019-150 of 17 June 2019](<https://sgg.cg/JO/2019/congo-jo-2019-27.pdf>) approves the strategy. A successor, Stratégie numérique 2030, was [reported complete on 13 October 2025](<https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy>) and awaits review and final approval by decree.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-dji-lanation-adn-adhesion-iso-oiml",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "La Nation reports the Agence Djiboutienne des Normes et de la Qualite formally joined ISO and OIML.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "Agence Djiboutienne des Normes et de la Qualite",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

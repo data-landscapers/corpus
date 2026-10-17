@@ -1,0 +1,13 @@
+{"slug": "2025-04-23-mwi-nyasatimes-vital-statistics-report-launch", "studies": {
+"admindata": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Malawi's Minister of Homeland Security launched a Vital Statistics Report on 23 April 2025, developed with the National Statistical Office and the Ministry of Health, with UNDP backing.", "as_of": "2025-04-23", "date_precision": "day", "system": "Vital Statistics Report", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The Vital Statistics Report launched on 23 April 2025 covers birth and death registration patterns for 2015 to 2022, from the government's first national rollout of birth and death registration, per the NRB Principal Secretary.", "as_of": "2025-04-23", "date_precision": "day", "system": "Vital Statistics Report", "class": "admin"}
+], "systems": [{"system": "Vital Statistics Report (2015-2022)", "country_label": "Vital Statistics Report 2015-2022", "class": "admin", "platform": "", "owner": "Ministry of Homeland Security / NRB with NSO", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"civilregister": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Registration is mentioned but no digital system or coverage share is stated."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"landregister": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"populationregister": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No population register is stated."}}},
+"registry": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No statement on how local offices make the record."}}},
+"socialregistry": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on social protection."}}}
+}}

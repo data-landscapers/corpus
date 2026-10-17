@@ -1,13 +1,15 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Project East2West,Project East2West,shared,terrestrial fibre optic network,"Bayobab (MTN Group), majority; Africa50 co-developer",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
-AGO,"WACS, SACS and MONET submarine cables",Angola Cables submarine infrastructure,,submarine cable,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,"WACS, SACS and MONET submarine cables",Angola Cables submarine infrastructure,other,submarine cable,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
 AGO,Paratus Luanda-Lusaka-Dar es Salaam fibre route,Luanda-Lusaka-Dar es Salaam route,shared,terrestrial fibre,Paratus Group,,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
 AGO,Paratus Angola DC3,"DC3, Luanda",other,Tier IV data centre,Paratus Angola,,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
 AGO,ANGOSAT-2,ANGOSAT-2,shared,satellite,Angola (National Space Programme Management Office; MINTTICS announces),Tmcel and Televisao de Mocambique (Mozambique) in proof-of-concept trials; Telecom Namibia under a pilot agreement,2026-08-25-tmcel-angosat2-satellite-trials-itweb
+BDI,DRC-Burundi fibre-optic interconnection project,Burundi,shared,fibre optic,,,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi
 BEN,Customs Declaration Exchange System (CDES),CDES,other,,Benin and Nigeria customs administrations,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Customs Webb,Customs Webb,other,,Benin customs,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Système d'information policière d'Afrique de l'Ouest (SIPAO),SIPAO,other,,"ECOWAS, with Interpol support and EU funding",police,2025-10-02-afis-empreintes-digitales-sipao-cedeao
 BEN,Système automatisé d'identification par empreintes digitales et palmaires (AFIS),AFIS,other,,Benin Republican Police,police,2025-10-02-afis-empreintes-digitales-sipao-cedeao
+BEN,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 BFA,Maroc Telecom Transafrican Terrestrial Fibre Cable,Transafrican terrestrial cable,shared,terrestrial fibre,Maroc Telecom / Moov Africa,"Moov Africa subsidiaries in Mauritania, Mali, Burkina Faso and Niger",2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 BWA,Buitepos-Ngoma corridor,Buitepos-Ngoma corridor,shared,cross-border fibre,MTC (Namibia) and BoFiNet (Botswana),,2026-02-18-mtc-bofinet-namibia-botswana-mou
 BWA,BoFiNet fibre network,Botswana Fibre Network (BoFiNet),other,,BoFiNet,,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
@@ -26,6 +28,7 @@ CIV,RASCOM,Organisation régionale africaine de Communications par Satellite (Ra
 CIV,SIPAO (Système d'information policière d'Afrique de l'Ouest),SIPAO,other,,Ministry of Interior and Security,judicial and investigative services (105 sites interconnected),2026-02-02-securisation-personnes-biens-maillage-territoire-national
 CIV,SIPAO (Système d'Information Policière de l'Afrique de l'Ouest),SIPAO,other,,Ministère de l'Intérieur et de la Sécurité,national,2025-12-19-civ-2026-323-78016002230
 CIV,SIPAO (Système d'Information Policière de l'Afrique de l'Ouest),SIPAO,other,,Ministère de l'Intérieur et de la Sécurité,national,2024-12-18-civ-2025-323-78016002230
+CIV,redundant terrestrial fibre route,Cote d'Ivoire,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
 CMR,N'Djamena-Mbere fiber-optic route,N'Djamena-Mberé,shared,,Sotel Tchad and Airtel Chad (planned),,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica
 CMR,CAB-CORRIDOR,CAB-CORRIDOR,shared,pooled terrestrial fibre,"SPIN Gabon and CAMIX, with a planned economic interest grouping",,2026-10-07-impactechos-cab-corridor-connectivite-afrique-centrale
 CMR,National fibre optic transmission backbone,"national fibre optic transmission backbone, Phase IV",other,,Camtel,,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
@@ -44,6 +47,7 @@ COD,Paratus Mombasa-Goma fibre route,Mombasa to Goma protected fibre route,share
 COD,G2M (Goma-to-Mombasa) fibre route,G2M,shared,terrestrial fibre,Paratus Group,"carriers, ISPs and enterprise customers",2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
 COD,Kigoma-Kalemie fibre-optic cable across Lake Tanganyika,national fibre-optic cable from Kigoma to Kalemie,shared,fibre-optic cable,,,2026-09-05-tanzania-drc-tanganyika-fibre-sgr-dailynews
 COD,G2M (Goma-to-Mombasa) fibre route,G2M,shared,protected terrestrial fibre,Paratus Group,"carriers, ISPs and enterprise clients",2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
+COD,DRC-Burundi fibre-optic interconnection project,Democratic Republic of the Congo,shared,fibre optic,,,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi
 COG,Project East2West,East2West,shared,terrestrial fibre optic network (dark and active fibre),"Bayobab (MTN GlobalConnect Solutions), majority sponsor; Africa50 co-developer; Smart Africa Alliance technical partner",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 COG,Central African Backbone (CAB),Central African Backbone project,shared,terrestrial fibre,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
 COG,"Congo river cables, Brazzaville-Kinshasa",Submarine cables across the Congo river,shared,fibre cable,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
@@ -87,7 +91,7 @@ EGY,Heka Data hyperscale data centre and AI zone (proposed),integrated zone for 
 EGY,Regional Data Center Hub (RDH),Regional Data Center Hub,other,,"Telecom Egypt, to be a wholly-owned subsidiary",,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
 EGY,2Africa,2Africa,shared,submarine cable with two trans-Egypt terrestrial routes,2Africa consortium; Telecom Egypt a member,,2025-11-19-telecom-egypt-completion-of-2africa
 EGY,Coral Bridge,Coral Bridge,other,15 km subsea cable Taba to Aqaba,Telecom Egypt with NaiTel (Aqaba Digital Hub),,2025-09-22-telecom-egypt-pop-aqaba-digital-hub
-EGY,Regional Data Hub,Regional Data Hub (RDH),,,Telecom Egypt,,2025-09-07-telecom-egypt-helios-binding-offer-regional-data-hub
+EGY,Regional Data Hub,Regional Data Hub (RDH),other,,Telecom Egypt,,2025-09-07-telecom-egypt-helios-binding-offer-regional-data-hub
 EGY,WeConnect,WeConnect,other,"online cross-connect platform across 14 subsea systems, 10 cable stations, 10 terrestrial routes",Telecom Egypt,,2023-09-27-telecom-egypt-launch-weconnect
 ERI,2Africa,2Africa,other,submarine cable,Meta-led consortium,,2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks
 ERI,regional submarine festoon cable,regional submarine festoon cable,shared,,,,2021-06-21-world-bank-overview-digital-development-horn-of-africa-eritrea
@@ -103,14 +107,19 @@ ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Eth
 ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio telecom, Djibouti Telecom, Sudatel Group",,2026-02-04-ethiotelecom-horizon-fiber-tripartite-signing
 ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio telecom, Djibouti Telecom, Sudatel Group",,2026-02-04-horizon-fiber-tripartite-deal-techafricanews
 ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio Telecom, Djibouti Telecom, Sudatel Group","national; cross-border (Djibouti, Ethiopia, Sudan)",2026-02-11-dcd-horizon-fiber-agreement
+ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026
 GAB,"Central African Backbone Program, Fourth Phase (CAB4), Gabon Project",CAB4 Gabon,shared,terrestrial fibre backbone,Gabonese Republic (implementing agency CN-TIPPEE),,2012-03-28-wb-gab-005-central-african-backbone-cab4-parent
 GAB,ACE Consortium membership,ACE cable,other,submarine cable,ACE Consortium,,2012-03-28-wb-gab-005-central-african-backbone-cab4-parent
 GAB,CAB-CORRIDOR,CAB-CORRIDOR,shared,terrestrial fibre pooling,SPIN Gabon and CAMIX (Cameroon),,2026-10-07-impactechos-cab-corridor-connectivite-afrique-centrale
 GAB,Africa Coast to Europe (ACE) cable,ACE,other,submarine cable,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 GAB,CAB-CORRIDOR,CAB-CORRIDOR,shared,terrestrial interconnection over the Central African Backbone (CAB),SPIN (Gabon) and CAMTEL (Cameroon),,2026-10-03-cab-corridor-la-spin-et-camtel-renforcent-la-connectivite-numerique-en
 GAB,Gabon-Equatorial Guinea fibre-optic network interconnection,interconnection of fibre-optic networks,shared,fibre-optic,"Gabon and Equatorial Guinea digital-economy ministries; ARCEP, SPIN, ANINF, Moov Africa Gabon Telecom and Airtel Gabon took part in the technical work",,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews
+GHA,CSquared West Africa fibre backbone,Ghana,shared,fibre,CSquared,,2025-08-11-tgo-csquared-west-africa-cross-border-backbone
+GHA,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 GIN,Guinea-Sierra Leone national backbone interconnection,interconnection of national internet backbone networks,shared,,Governments of Guinea and Sierra Leone,,2025-11-17-natca-guinea-free-roaming
 GIN,SOGEB-Leoncom Pamelap fibre interconnection,Guinea-Sierra Leone Digital Pact 2024 interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),"telecom operators (Orange, MTN), enterprises, public institutions, border communities",2025-06-23-sogeb-leonecom-fibre-interconnection
+GIN,redundant terrestrial fibre route,Guinea,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
+GNB,Amilcar Cabral submarine cable,Amilcar Cabral submarine cable,shared,submarine cable,ECOWAS project,,2024-06-14-gnb-ang-amilcar-cabral-cabo-submarino
 GNQ,Equatorial Guinea Internet Exchange Point (IXP),Equatorial Guinea Intenet EXchange Point (IXP),other,,"Regulador de las Telecomunicaciones (lead national agency), under AU PIDA programme 51 with ECCAS as regional coordinator",,2017-01-01-pida-pap-equatorial-guinea-internet-exchange-point
 GNQ,Backbone National Gabonais (BNG) interconnected with the Equatoguinean national fibre network,Interconnexion Gabon - Guinée équatoriale,shared,fibre-optic backbone,SPIN (Gabon side); Equatoguinean national network (GNQ side),national backbone operators of both countries,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
 GNQ,"Interconnection of fibre-optic networks, Gabon - Equatorial Guinea",Interconnection of fibre-optic networks,shared,fibre-optic,,"Gabon ARCEP, SPIN, ANINF, Moov Africa Gabon Telecom, Airtel Gabon with Equatoguinean counterparts",2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews
@@ -127,6 +136,7 @@ KEN,Paratus Mombasa-Goma fibre route,"Mombasa to Goma via Nairobi, Kampala and K
 KEN,Liquid Intelligent Technologies pan-African fibre network,"110,000 km cross-border fibre network",shared,terrestrial fibre,Liquid Intelligent Technologies (Cassava Technologies),"major operators, enterprises and hyperscalers",2026-08-05-eaaif-eastcastle-liquid-82m-eaif
 LBR,TRANSCO CLSG fibre optic network,TRANSCO CLSG,shared,fibre on the TRANSCO CLSG transmission line,TRANSCO CLSG,"national telecom operators and ICT ministries of Liberia, Sierra Leone, Guinea, Cote d'Ivoire",2026-06-16-transco-clsg-fibre-expansion-techafricanews
 LBR,Africa Coast to Europe (ACE) submarine cable,ACE,other,"submarine cable, single landing in Monrovia",,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
+LBR,redundant terrestrial fibre route,Liberia,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
 LBY,Medusa submarine cable,Medusa,shared,"submarine cable, 8,700 km, landing at Misrata",Libyan Post Telecommunications & Information Technology Company (LPTIC); LUIC signed the connection contract,national,2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald
 LSO,SADC-RTGS,SADC Real-Time Gross Settlement,other,,SADC,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
 LSO,TCIB,Transactions Cleared on Immediate Basis,other,,SADC,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
@@ -139,9 +149,9 @@ MAR,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,othe
 MDG,DARE1 (Djibouti Africa Regional Express-1) extension,DARE1,shared,submarine cable,DARE1 consortium including Djibouti Telecom,,2025-09-10-dare1-cable-extension-madagascar-2424
 MDG,DARE1 (Djibouti Africa Regional Express 1) extension,DARE1,shared,submarine cable,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
 MDG,2Africa,2Africa (Mahajanga landing),shared,"submarine cable, Alcatel Submarine Networks, 180 Tbit/s",Telma with Vodafone,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,EASSy,EASSy,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,LION,LION,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
-MDG,METISS,METISS,,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,EASSy,EASSy,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,LION,LION,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,METISS,METISS,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
 MLI,Mali IX (MLIX),"Mali IX (MLIX), Bamako",other,,,,2026-09-03-ecowas-sigtel-regional-fiber-infrastructure
 MLI,Transafrican terrestrial fibre cable (Maroc Telecom),Transafrican terrestrial cable,shared,fibre,Maroc Telecom / Moov Africa,operator,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 MLI,Senegal-Mali national backbone interconnection (Kidira-Diboli),interconnexion des backbones du Senegal et du Mali,shared,fibre optic,SENUM SA (Senegal); SMTD-SA (Mali),,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
@@ -155,9 +165,9 @@ MUS,AFRINIC,African Network Information Centre (AFRINIC),other,,"AFRINIC Ltd, a 
 MWI,Project East2West,East2West,shared,terrestrial fibre optic network (dark and active fibre),"Bayobab (MTN Group), with Africa50 as co-developer",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 MWI,Regional Fibre Connectivity Programme,Regional Fibre Connectivity Programme,shared,,EU,,2025-05-21-republic-of-malawi-eu-partnership-factsheet
 MWI,SADC-RTGS,SADC-RTGS,other,,South African Reserve Bank (Regional Clearing and Settlement Operator),central bank and commercial banks (9 Malawi banks incl. Reserve Bank of Malawi),2026-04-01-sadc-rtgs-settlement-statistics-april-2026
-MWI,"National Data Centre, Lilongwe",National Data Centre,,,"Department of eGovernment, Ministry of ICT",government systems migrating in,2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm
-MWI,"National Data Center, Lilongwe",national Data Center,,,Government of Malawi,first clients migrated,2025-10-03-dmap-implementation-status-report
-MWI,Bolamathu government exchange platform,Bolamathu,,,Government of Malawi,government entities,2025-10-03-dmap-implementation-status-report
+MWI,"National Data Centre, Lilongwe",National Data Centre,other,,"Department of eGovernment, Ministry of ICT",government systems migrating in,2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm
+MWI,"National Data Center, Lilongwe",national Data Center,other,,Government of Malawi,first clients migrated,2025-10-03-dmap-implementation-status-report
+MWI,Bolamathu government exchange platform,Bolamathu,other,,Government of Malawi,government entities,2025-10-03-dmap-implementation-status-report
 MWI,SADC-RTGS,SADC-RTGS,other,,South African Reserve Bank,central bank and commercial banks (9 Malawi banks incl. Reserve Bank of Malawi),2025-08-01-sadc-rtgs-settlement-statistics-august-2025
 MWI,"Government Data Centre (Lilongwe, primary) and Blantyre data centre (secondary/backup)",Government Data Centre,other,hyper-converged infrastructure,Government of Malawi (PPPC with Department of e-Government),national government,2024-03-01 Government Data Center making progress
 MWI,National Data Centre,National Data Centre,other,,Government of Malawi (DMAP),national government,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
@@ -186,16 +196,17 @@ NER,"Dorsale Transsaharienne à Fibre Optique, composante Niger",DTS-FO,shared,t
 NER,Dorsale Transsaharienne à Fibre Optique (DTS),DTS,shared,fibre-optic cable,"Niger government, Niger component supported by the African Development Bank","national and regional interconnection with Algeria, Chad, Nigeria and Benin",2025-11-14-mcnti-niger-receptionne-troncons-dts
 NER,dorsale transsaharienne à fibre optique,Niger,shared,,,,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
 NER,liaison de fibre optique transsaharienne,Niger,shared,,,,2026-08-27-algatedz-algerie-niger-projets-transsahariens
-NGA,WIOCC,WIOCC,,,WIOCC (pan-African operator),,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
-NGA,2Africa,2Africa,,,,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
-NGA,2Africa,2Africa,,,consortium including Meta and Vodafone,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
+NGA,WIOCC,WIOCC,other,,WIOCC (pan-African operator),,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+NGA,2Africa,2Africa,other,,,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+NGA,2Africa,2Africa,other,,consortium including Meta and Vodafone,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
 NGA,PR1 Port Harcourt data centre,PR1,other,,Equinix (MainOne Solutions by Equinix),,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
-NGA,WIOCC,WIOCC,,,WIOCC Group,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
+NGA,WIOCC,WIOCC,other,,WIOCC Group,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
 NGA,ECOWAS Brown Card Insurance Scheme,ECOWAS Brown Card Insurance Scheme (Nigerian National Bureau),other,,ECOWAS Brown Card Permanent Secretariat,national bureaux of member states,2026-08-28-businessday-ecowas-brown-card-digital-transformation
 NGA,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,,AfCFTA Secretariat with Tony Blair Institute for Global Change; Nigeria AfCFTA Coordination Office nationally,national,2026-07-30-nigeria-inaugurates-adapt-forum-digital-trade-afcfta
 NGA,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,TWIN,"AfCFTA Secretariat with Tony Blair Institute, IOTA Foundation and World Economic Forum","national pilot (Nigeria, Kenya, Morocco)",2026-05-26-nigeria-kenya-morocco-afcfta-adapt
 NGA,Nigeria-Equatorial Guinea subsea fibre-optic cable,Nigeria-Equatorial Guinea subsea fibre-optic agreement,shared,,Backbone Connectivity Network Nigeria,,"2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity"
 NGA,Nigeria-Equatorial Guinea subsea fibre-optic cable,subsea fibre-optic cable,shared,,Backbone Connectivity Network Nigeria Ltd,,2026-02-12-nigeria-equatorial-guinea-subsea-fibre
+NGA,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 RWA,Northern Corridor regional communications satellite (NCIP),Rwanda,shared,"satellite (proposed, jointly government-owned)","Uganda, Kenya, Rwanda, South Sudan governments",national governments,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study
 RWA,Northern Corridor Regional Communication and Broadcasting Satellite Initiative (NCRCBSI),Rwanda,shared,"satellite (proposed, jointly owned)","Kenya, South Sudan, Uganda, Rwanda governments",national governments,2026-05-04-east-africa-regional-satellite-ncrcbsi
 RWA,Project East2West,Rwanda,shared,terrestrial fibre optic network,"Bayobab (MTN Group), with Africa50 as co-developer",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
@@ -217,11 +228,12 @@ SDN,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Eth
 SDN,"Port Sudan to Douala Corridor, fiber optic connectivity component (Sudan section)",Sudan Section of the Fiber Optic Connectivity Component of the Port Sudan to Douala Corridor,shared,,African Union PIDA project record,,2023-09-11-pida-port-sudan-douala-fibre-corridor
 SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Senegal;Nigeria;Benin;Togo;Ghana,shared,terrestrial fibre,Phase3 Telecom and Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Djoliba,Djoliba network,shared,terrestrial fibre,Phase3 Telecom,,2025-05-09-techafricanews-phase3-sonatel-fibre
-SEN,Ikasira,Ikasira,,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
+SEN,Ikasira,Ikasira,other,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,interconnexion des backbones du Senegal et du Mali (Kidira-Diboli),Interconnexion des reseaux dorsaux en fibre optique,shared,fibre optic,Senegal Numerique SA (SENUM SA) and Societe malienne de transmission et de diffusion (SMTD-SA),national backbone operators of Senegal and Mali,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
 SLE,TRANSCO CLSG fibre network,TRANSCO CLSG transmission network fibre,shared,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,Sierra Leone-Guinea national backbone interconnection,Sierra Leone-Guinea backbone interconnection,shared,,,,2025-11-17-natca-guinea-free-roaming
 SLE,SOGEB-Leoncom fibre interconnection at Pamelap,Guinea-Sierra Leone fibre interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),,2025-06-23-sogeb-leonecom-fibre-interconnection
+SLE,redundant terrestrial fibre route,Sierra Leone,other,terrestrial fibre,NatCA (host regulator),,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
 SOM,Eastern Africa Regional Digital Integration Project (EARDIP),EARDIP,shared,,"World Bank financing; implemented by EAC, IGAD and the Somali and South Sudanese ministries",regional bodies and national ministries,2026-06-30-world-bank-eardip-isr-seq7
 SOM,Eastern Africa Regional Digital Integration Project (EARDIP),EARDIP,shared,,"Federal Republic of Somalia, with IGAD and EAC; financed by IDA","federal government, Somaliland, regional bodies",2023-06-21-eardip-somalia-financing-agreement
 SSD,Northern Corridor Regional Communication and Broadcasting Satellite Initiative,NCIP regional satellite project,shared,,"Uganda, Kenya, Rwanda, South Sudan (NCIP partner states)",,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study
@@ -251,9 +263,10 @@ TCD,Trans-Saharan fiber optic backbone project (DTS),Chad component,shared,optic
 TCD,Central African Backbone (CAB),Central African Backbone,shared,national fibre networks interconnected,CEMAC member states and development partners,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 TCD,BRIDGE,BRIDGE project (Nigeria),shared,fibre-optic,Nigeria,national,2026-09-17-techafricanews-chad-nigeria-digital-cooperation
 TCD,BRIDGE,projet BRIDGE,shared,"fibre optique, accès ouvert, 90 000 km",Nigeria,national,2026-09-16-tcd-tchadinfos-bosun-tijani-ndjamena-fibre-interconnexion-nigeria
+TGO,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 TUN,MEDUSA submarine cable,MEDUSA,other,"submarine cable, Bizerte landing station",Orange Tunisia (Tunisian section and Bizerte station),,2026-06-26-techafricanews-orange-medusa-cable-operational
 TUN,MEDUSA submarine cable,câble MEDUSA,other,"submarine cable, four fibre pairs at 24 Tbps per pair, Bizerte landing station",Orange Tunisie (Tunisian section and Bizerte station); built by Medusa Submarine Cable System,,2026-06-24-tunisie-cable-medusa-operationnel
-TUN,DIDON,câble DIDON,,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,DIDON,câble DIDON,other,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
 TUN,ViaTunisia (Medusa Submarine Cable System),ViaTunisia,other,"point-to-point submarine cable, France to Tunisia, Marseille and Bizerte landings",Orange (landing partner in Marseille and Bizerte); co-financed by the EU under CEF Digital,,2026-06-05-connectingafrica-viatunisia-subsea-live
 TUN,ViaTunisia (Medusa),ViaTunisia,other,"point-to-point submarine cable, Marseille to Bizerte, system by Alcatel Submarine Networks",Orange; co-financed 30% by the EU under CEF Digital,,2026-06-03-orange-viatunisia-medusa-ready-for-service
 TUN,Medusa Submarine Cable System,Medusa,other,"carrier-neutral submarine cable, 8,760 km, landing at Bizerte",Medusa Submarine Cable System; hosted by Orange Tunisia; Tunisie Telecom a capacity user,,2025-11-01-medusa-lands-in-bizerte
@@ -273,20 +286,20 @@ UGA,Bayobab Mombasa-Kampala fibre network,,shared,fibre optic,Bayobab,,2026-02-0
 UGA,Horizon Fiber,Horizon Fiber Initiative,shared,terrestrial fibre,"Ethio Telecom, Djibouti Telecom, Sudatel","Djibouti, Ethiopia, Sudan; Uganda not named",2026-02-05-horizon-fiber-binding-agreement-connectingafrica
 UGA,Project East2West,East2West,shared,terrestrial fibre optic,Bayobab (MTN GlobalConnect) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 UGA,Paratus Mombasa-Goma protected fibre route,"Mombasa to Goma via Nairobi, Kampala and Kigali",shared,"fibre, 2,000 km",Paratus,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
-ZAF,Wiocc open-access terrestrial fibre footprint,Wiocc,,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
-ZAF,"WIOCC subsea capacity, metro fibre and data centres (South Africa, Nigeria, DRC)",WIOCC,,,WIOCC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+ZAF,Wiocc open-access terrestrial fibre footprint,Wiocc,other,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
+ZAF,"WIOCC subsea capacity, metro fibre and data centres (South Africa, Nigeria, DRC)",WIOCC,other,,WIOCC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 ZAF,Liquid Intelligent Technologies pan-African fibre network,Liquid cross-border fibre network,shared,terrestrial fibre,Liquid Intelligent Technologies (Cassava Technologies),"operators, enterprises, hyperscalers",2026-08-05-eaaif-eastcastle-liquid-82m-eaif
-ZAF,WIOCC Group subsea capacity and terrestrial fibre,WIOCC,,,"WIOCC Group (WIOCC Mauritius, OADC PropCo South Africa)",,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
+ZAF,WIOCC Group subsea capacity and terrestrial fibre,WIOCC,other,,"WIOCC Group (WIOCC Mauritius, OADC PropCo South Africa)",,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
 ZAF,SADC-RTGS,SADC real-time gross settlement (SADC-RTGS) system,other,,"South African Reserve Bank, appointed by the SADC Committee of Central Bank Governors",central banks and participants in 15 SADC countries,2026-07-28-sadc-rtgs-kwanza-official
 ZMB,Project East2West,Project East2West,shared,terrestrial fibre optic cable (dark and active fibre),"Bayobab (MTN Group), majority sponsor, with Africa50",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 ZWE,Powertel-Paratus Zimbabwe DWDM fibre backhaul,Powertel / Paratus Zimbabwe PPP,shared,DWDM fibre,Powertel and Paratus Zimbabwe,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,shared,"terrestrial fibre, 26,000 km in Zimbabwe, linked to Liquid's regional cross-border network",Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,TelOne backbone,TelOne cross-border transit links,shared,100G+ wavelengths,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,DFA Zimbabwe railway fibre backbone,DFA Zimbabwe,shared,"DWDM, 1,500 km Beitbridge-Bulawayo-Harare-Mutare",DFA Zimbabwe with BCS Group and Dandemutande,local ISPs and mobile operators,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
-ZWE,Google Umoja cable system,Umoja,,overland terrestrial fibre,Google,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
-ZWE,Zimbabwe Internet Exchange (ZINX),ZINX,,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Google Umoja cable system,Umoja,other,overland terrestrial fibre,Google,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Zimbabwe Internet Exchange (ZINX),ZINX,other,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Harare Internet Exchange Point (HIX),Harare Regional Internet Exchange Point,shared,"routers, switches, servers",POTRAZ,all internet access providers,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
-ZWE,Zimbabwe Internet Exchange (ZINX),Zimbabwe Internet Exchange,,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,Zimbabwe Internet Exchange (ZINX),Zimbabwe Internet Exchange,other,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
 ZWE,Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor,Powertel-Paratus digital highway,shared,"DWDM fibre, over 10 Tbps capable, 800 Gbps equipped","Powertel Communications (planned, built, owned and operated) with Paratus Zimbabwe under an IRU",,2026-07-03-paratus-powertel-digital-highway
 ZWE,Liquid Intelligent Technologies pan-African fibre network,Liquid cross-border fibre network,shared,"terrestrial fibre, 110,000 km, 25 countries",Liquid Intelligent Technologies (parent Cassava Technologies),"major operators, enterprises, hyperscalers",2026-08-05-eaaif-eastcastle-liquid-82m-eaif
 ZWE,Powertel-Paratus Zimbabwe cross-border fibre corridor,Digital highway / Botswana-Zimbabwe-Zambia digital corridor,shared,DWDM fibre,Powertel Communications (ZESA subsidiary) with Paratus Zimbabwe under an IRU,operators,"2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway"

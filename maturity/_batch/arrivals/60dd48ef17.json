@@ -1,0 +1,25 @@
+{
+ "slug": "2025-06-01-lso-consultancy-services-for-review-of-the-lesotho-communications-policy-2",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The tender notice says the Government of Lesotho approved the Lesotho Digital Transformation Strategy - Agenda 2030 in 2024 and has started implementing it.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Lesotho Digital Transformation Strategy - Agenda 2030",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

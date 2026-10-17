@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-30-cog-adiac-aden-documents-cadres",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Congo's Agence de développement de l'économie numérique (Aden) is stated to ensure the technical management of the government's official web portal gouvernement.cg, per Les Dépêches de Brazzaville.",
+       "as_of": "2024-12-27",
+       "date_precision": "day",
+       "system": "gouvernement.cg",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "gouvernement.cg",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Aden",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

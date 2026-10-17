@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-mli-bamakomatin-protection-enfants-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Journalist Siguéta Salimata Dembélé said Mali has protection mechanisms including the Autorité de protection des données à caractère personnel (APDP), without saying it is appointed or acting.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de protection des données à caractère personnel (APDP)",
+   "country_label": "Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

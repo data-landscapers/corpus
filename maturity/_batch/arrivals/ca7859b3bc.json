@@ -1,0 +1,15 @@
+{"slug": "2026-10-16-sle-mof-dfmst-tier-iii-data-centre-co-location", "studies": {
+"coresystems": {"countries": {"SLE": {"facts": [], "systems": [{"system": "IFMIS", "country_label": "IFMIS", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "The page lists IFMIS as a system the DFMST supports but does not state it is in use across central government."}}},
+"datacentres": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "The Ministry of Finance's DFMST page says it operates a Tier III data centre providing co-location services for a number of institutions in Sierra Leone's financial sector.", "as_of": "2026-10-16", "date_precision": "day", "system": "DFMST Tier III data centre", "class": "datacentre"}
+], "systems": [{"system": "DFMST Tier III data centre", "country_label": "Sierra Leone", "class": "datacentre", "platform": "", "owner": "Ministry of Finance", "tiers": "Tier III"}], "note": ""}}},
+"ictstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The page states no ICT sector policy."}}},
+"itcapacity": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Ministry of Finance's DFMST, established in 2022, lists providing technical support to mission critical systems such as IFMIS and CSDRMS among its core functions.", "as_of": "2026-10-16", "date_precision": "day", "system": "IFMIS", "class": "staff"}
+], "systems": [{"system": "IFMIS", "country_label": "IFMIS", "class": "other", "platform": "", "owner": "Ministry of Finance DFMST", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "The Ministry of Finance's DFMST page says it operates a Tier III data centre providing co-location services for institutions in the financial sector.", "as_of": "2026-10-16", "date_precision": "day", "system": "DFMST Tier III data centre", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The data centre is operated by the Sierra Leone Ministry of Finance's own directorate, the DFMST.", "as_of": "2026-10-16", "date_precision": "day", "system": "DFMST Tier III data centre", "class": "datacentre"}
+], "systems": [], "note": ""}}},
+"offsitebackup": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The page lists business continuity and disaster recovery as a function but names no backup site or place."}}}
+}}

@@ -1,0 +1,70 @@
+{
+ "slug": "2024-02-01-eth-fana-census-forthcoming-triennium",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on statistics from administrative records."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ethiopian Statistics Development Program",
+       "country_label": "ESDP 2024-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Planning and Development; Ethiopian Statistics Service",
+       "tiers": ""
+      }
+     ],
+     "note": "Population and housing census only intended within three years, no mapping, pilot, funding or date stated."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No statistics law or draft stated."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Ministry of Planning and Development unveiled the Ethiopian Statistics Development Program on 1 February 2024, to be executed over three years and including economic, agricultural and population and housing censuses.",
+       "as_of": "2024-02-01",
+       "date_precision": "day",
+       "system": "Ethiopian Statistics Development Program",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ethiopian Statistics Development Program",
+       "country_label": "ESDP 2024-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Planning and Development; Ethiopian Statistics Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

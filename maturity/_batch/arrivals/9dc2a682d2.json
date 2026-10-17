@@ -1,0 +1,20 @@
+{"slug":"2025-10-03-saviu-partners-pozi-2025-pozi-funding-round","studies":{
+"authentication":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention authentication."}}},
+"birthidlink":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention civil register and ID links."}}},
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention e-procurement."}}},
+"centralbank":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention the central bank."}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention consumer protection."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention cross-border payments."}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention government payments to people."}}},
+"idcoverage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention national ID coverage."}}},
+"idfrombirth":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention ID numbers at birth."}}},
+"idmaintenance":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention the national ID system."}}},
+"idregisters":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention public registers keyed on the ID."}}},
+"idrobustness":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention the national ID system."}}},
+"nonstatefinance":{"countries":{"GAB":{"facts":[{"sub_indicator":"private","aspect":"money","value":"committed","fact":"Ecofin Agency reports that Gabonese telematics and fleet-management startup POZI raised EUR 650,000 (about US$690,000) in a round led by Saviu Ventures with Emsy Capital and advisory firm Chazai Wamba participating, announced on 3 October 2025.","as_of":"2025-10-03","date_precision":"day","system":"POZI funding round","class":"private"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document gives no account-holding survey."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention retail digital payments."}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document does not mention tax or fee payment."}}},
+"startups":{"countries":{"GAB":{"facts":[],"systems":[],"note":"A private venture deal with no public startup scheme named."}}},
+"techhubs":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document names no hub, incubator or park."}}}
+}}

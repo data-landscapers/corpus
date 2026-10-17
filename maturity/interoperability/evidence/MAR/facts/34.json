@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-09-mar-lavieeco-plateforme-jisr-55-millions-operations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Jisr",
+   "country_label": "Maroc",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence de développement du digital (ADD)",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the Jisr platform but no framework or rule."
+}

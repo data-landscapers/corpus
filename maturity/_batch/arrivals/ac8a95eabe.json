@@ -1,0 +1,8 @@
+{"slug": "2025-08-29-gin-emedia-datacenter-backup", "studies": {
+"datacentres": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Datacenter national", "country_label": "Guinée", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Uptime certification is claimed but no Tier is stated, and the document does not say the centre rents space or computing to outside organisations."}}},
+"digitalsovereignty": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Sovereignty is only framing; no rule, hosting of named government data or contract data terms is stated."}}},
+"internationalstandards": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only an Uptime certification of a facility is mentioned, which places nothing."}}},
+"nationaldatacentres": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document does not state who owns the data centre or that it is for hire, nor that state data is hosted in it."}}},
+"offsitebackup": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A second backup data centre is only planned, with no place named."}}},
+"techhubs": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The technopole is an announced project with no build or programme stated."}}}
+}}

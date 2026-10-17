@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15-ben-mfwa-kpeidja-prosecution",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA reports journalist Angela Kpeidja was detained on 16 December 2025 over two Facebook posts questioning the security authorities on the day of the attempted coup, and the special prosecutor sought two years, one firm, on 11 May 2026 under Digital Code Article 550.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "Digital Code Article 550",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

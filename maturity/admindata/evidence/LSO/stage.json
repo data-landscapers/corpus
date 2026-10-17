@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "admin",
-   "stage": "4",
-   "use": "published",
-   "vital": "published",
-   "series": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-002",
-   "gaps": "No source held reports vital statistics published for two successive years.",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "admin",
+      "stage": "5",
+      "use": "published",
+      "vital": "published",
+      "series": "annual",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-005;LSO-004",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-admindata.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

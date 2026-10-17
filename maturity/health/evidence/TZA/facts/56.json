@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-13-tza-thecitizen-222-health-facilities-digital-records",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1;T2",
+   "fact": "Tanzania's Ministry of Health said 222 public facilities, district, regional referral, zonal, specialised and national hospitals, are connected to an integrated electronic medical records system.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "integrated electronic medical records system",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The ministry said the integrated EMR system, introduced in October 2025, now connects 222 public facilities.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "integrated electronic medical records system",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated electronic medical records system (Health Data Universal API)",
+   "country_label": "Tanzania",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "T1;T2"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{"slug": "2024-02-15-ner-lesahel-e-secef-sensibilisation-dgi", "studies": {
+"coresystems": {"countries": {"NER": {"facts": [], "systems": [], "note": "Describes an e-invoicing platform only; no finance, tax-filing or payroll system stated."}}},
+"customs": {"countries": {"NER": {"facts": [], "systems": [], "note": "Customs not mentioned."}}},
+"educationmis": {"countries": {"NER": {"facts": [], "systems": [], "note": "Education not mentioned."}}},
+"health": {"countries": {"NER": {"facts": [], "systems": [], "note": "Health not mentioned."}}},
+"healthmis": {"countries": {"NER": {"facts": [], "systems": [], "note": "Health not mentioned."}}},
+"police": {"countries": {"NER": {"facts": [], "systems": [], "note": "Police not mentioned."}}},
+"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "e-SECeF is certified e-invoicing; no electronic payment of taxes stated."}}},
+"schools": {"countries": {"NER": {"facts": [], "systems": [], "note": "Schools not mentioned."}}},
+"taxadmin": {"countries": {"NER": {"facts": [], "systems": [{"system": "e-SECeF", "country_label": "NER", "class": "other", "platform": "online certified e-invoicing platform", "owner": "Direction Generale des Impots", "tiers": ""}], "note": "e-SECeF is e-invoicing with no filing or payment stated, so noted as other."}}}
+}}

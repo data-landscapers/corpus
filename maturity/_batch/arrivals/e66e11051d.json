@@ -1,0 +1,18 @@
+{"slug":"2024-12-28-eth-atalayar-dt-global-digital-government-strategy","studies":{
+"authentication":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Document states nothing on a civil register to ID link."}}},
+"civilserviceskills":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Civil-servant digital skills appear only as an aim of the strategy, not a programme delivered."}}},
+"coresystems":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Document names no finance, tax or payroll system."}}},
+"dataexchange":{"countries":{"ETH":{"facts":[{"sub_indicator":"exchange","aspect":"platform","value":"underway","fact":"DT Global, EU-funded adviser, says it has submitted the technical design of the EthioConnect national data exchange platform and is preparing priority datasets for its pilot project, with procurement still to come.","as_of":"2024-12","date_precision":"month","system":"EthioConnect","class":"exchange"}],"systems":[{"system":"EthioConnect","country_label":"EthioConnect national data exchange platform","class":"exchange","platform":"","owner":"Government of Ethiopia","tiers":""}],"note":""}}},
+"digitalskills":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Skills for the general population appear only as an aim of the strategy."}}},
+"digitalstrategy":{"countries":{"ETH":{"facts":[],"systems":[{"system":"Digital Government and Enterprise Architecture Strategy 2024-2029","country_label":"Ethiopia's Digital Government Strategy 2024-2029","class":"other","platform":"","owner":"Government of Ethiopia","tiers":""}],"note":"Strategy is described as a state-administration strategy; document does not say it was adopted, and gives no body or domestic budget line (about EUR 100m needed, funding unsecured)."}}},
+"egovservices":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No service stated as online; e-services are an aim."}}},
+"idcoverage":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No enrolment figure stated."}}},
+"idfrombirth":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Registries named only as an access aim; no register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Digital ID card mentioned only in passing as a registry to access; nothing on its status."}}},
+"interoperability":{"countries":{"ETH":{"facts":[{"sub_indicator":"framework","aspect":"standing","value":"draft","fact":"DT Global says it is drafting several technical standards documents for Ethiopia, based on the Greek government enterprise architecture, to assist procurement and implementation of the EthioConnect data exchange platform.","as_of":"2024-12","date_precision":"month","system":"Ethiopia technical standards for EthioConnect","class":"framework"}],"systems":[],"note":""}}},
+"landregister":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Land registry named only as an access aim."}}},
+"publicconsultation":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Strategy built after a year-long stakeholder consultation, but the document does not say who outside government took part."}}}
+}}

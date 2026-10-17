@@ -1,0 +1,196 @@
+{
+ "slug": "2023-12-07-afd-com-2023-pagf-si",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "AFD states its EUR 10m PAGF-SI project, from 7 December 2023, updates the Comoros finance administration applications including SYDONIA to improve their interfacing.",
+       "as_of": "2023-12-07",
+       "date_precision": "day",
+       "system": "SYDONIA",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA",
+       "country_label": "SYDONIA",
+       "class": "customs",
+       "platform": "",
+       "owner": "Comoros Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COM."
+    }
+   }
+  }
+ }
+}

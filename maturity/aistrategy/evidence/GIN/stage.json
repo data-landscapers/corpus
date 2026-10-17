@@ -1,16 +1,17 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source held says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-002",
+      "gaps": "No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
+      "note": "Counted from the four questions by study-ladder-aistrategy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

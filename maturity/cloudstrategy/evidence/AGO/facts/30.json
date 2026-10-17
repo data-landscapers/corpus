@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-11-ago-angop-imprensa-nacional-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centres inaugurated, but no hosting or cloud policy is stated."
+}

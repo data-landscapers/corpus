@@ -1,0 +1,437 @@
+{
+ "slug": "2025-08-11-tgo-csquared-west-africa-cross-border-backbone",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "CSquared says it is the landing partner for the Equiano cable in Togo, extending subsea capacity inland.",
+       "as_of": "2025-08-11",
+       "date_precision": "day",
+       "system": "Equiano",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Equiano",
+       "country_label": "Togo",
+       "class": "route",
+       "platform": "submarine cable",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Abidjan to Monrovia route is called the latest addition, with no statement that it is built or in service."
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "CSquared says its existing infrastructure runs from Accra to Lagos, now integrated with a new Abidjan to Monrovia route.",
+       "as_of": "2025-08-11",
+       "date_precision": "day",
+       "system": "CSquared West Africa fibre backbone",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CSquared West Africa fibre backbone",
+       "country_label": "Ghana",
+       "class": "shared",
+       "platform": "fibre",
+       "owner": "CSquared",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Abidjan to Monrovia route is called the latest addition, with no statement that it is built or in service."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

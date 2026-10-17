@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-13-mrt-ecofin-us-mauritania-cybersecurity-csirt",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "ratified",
+   "fact": "Ecofin says Mauritania ratified the African Union's Malabo Convention on cybersecurity and personal data protection in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

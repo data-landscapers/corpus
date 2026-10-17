@@ -1,0 +1,422 @@
+{
+ "slug": "2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "NIDP reports 65M authentications at 1M a day through Fayda, with online and offline authentication modalities (VeriFayda/eSignet).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda authentication",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "NIDP says Fayda authentication is used for harmonisation with banks, telcos (SIMs, mobile wallets) and the Ministry of Revenue.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda authentication",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "NIDP says Fayda is being requested to be delivered for all vital events (birth, marriage, death) at the Civil Registration and Vital Events Agency, with system integration discussions ongoing.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "NIDP says Mesob is a Fayda-based digital one-stop shop for e-government services.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Mesob",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda-TIN harmonisation",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIDP reports 34M people registered in Fayda and over 10M credentials printed.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "NIDP says banks, telcos (SIM cards, mobile wallets) and the Ministry of Revenue verify against Fayda, with 65M authentications.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda authentication",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "sectors",
+       "value": "several",
+       "fact": "NIDP says Fayda is required or harmonised in banking, telecoms, tax, land administration and education.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda authentication",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "NIDP reports 65M authentications at 1M a day and 100 integrations.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda authentication",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "NIDP says Fayda gives displaced populations legal identity and unlocks access to SIM registration and social support programmes.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "NIDP names Telebirr and M-Pesa as mobile wallets harmonised with Fayda.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Telebirr; M-Pesa",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "nationalid",
+       "value": "linked",
+       "fact": "NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs, per the Ministry of Revenue.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Fayda-TIN harmonisation",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program Ethiopia (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

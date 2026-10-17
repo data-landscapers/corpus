@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tza-iso-tbs-iso-member-page",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The ISO member page says the Tanzania Bureau of Standards was established by the Standards Act of 1975, operational from 6 April 1976, with responsibility for formulating standards.",
+   "as_of": "1975",
+   "date_precision": "year",
+   "system": "Tanzania Bureau of Standards",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

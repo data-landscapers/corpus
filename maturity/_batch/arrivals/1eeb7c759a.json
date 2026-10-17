@@ -1,0 +1,139 @@
+{
+ "slug": "2024-09-26-nga-blueprint-npc-nin-newborns",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The NPC says it now generates a NIN for each child at birth registration and synchronises birth registration data with NIMC's NIN records.",
+       "as_of": "2024-09-26",
+       "date_precision": "day",
+       "system": "NPC-NIMC data synchronisation",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The NPC says its digitization includes mobile devices for real-time birth data collection, particularly in remote areas.",
+       "as_of": "2024-09-26",
+       "date_precision": "day",
+       "system": "NPC birth registration digitization",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The NPC's Assistant Director of Civil Registration says a unique NIN is now generated for each child during birth registration and tied to the mother.",
+       "as_of": "2024-09-26",
+       "date_precision": "day",
+       "system": "NIN at birth registration",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NPC says a NIN, unique to each child, is now generated at birth registration.",
+       "as_of": "2024-09-26",
+       "date_precision": "day",
+       "system": "NIN",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile devices are named but not that offices enter events at registration; nothing staged."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Interior Minister says Law 18-07 of 10 June 2018 on personal data processing governs and sanctions illegal use of the NIN.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Law 18-07 of 10 June 2018",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Interior Minister says infractions will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification National (NIN) system",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

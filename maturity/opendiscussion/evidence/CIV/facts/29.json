@@ -1,0 +1,37 @@
+{
+ "slug": "2025-09-03-civ-rfi-cyberactiviste-interpelle-ppa-ci",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RFI reports PPA-CI activist Mamadou Zigui was arrested on 2 September 2025 after a social-media video about the Constitutional Council's candidate-list deliberations.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RFI reports the Abidjan court sentenced PPA-CI activist Gala Kolebi on 30 June 2025 to 18 months and a 500,000 CFA franc fine for disturbing public order and spreading false news.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The opposition party PPA-CI, through Justin Kone Katinan, publicly denounced the arrest of its activist as a violation of freedom of expression.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-10-16-tun-ooredoo-housing-data-center", "studies": {
+"datacentres": {"countries": {"TUN": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Ooredoo Tunisie's own page offers its 188 m2 TIA-942-conformant data centre to business customers as rented racks, cages and shared racks (Housing), with a 99.95% SLA and a 24-month minimum term.", "as_of": "2026-10-16", "date_precision": "day", "system": "Ooredoo Data Center", "class": "datacentre"}], "systems": [{"system": "Ooredoo Data Center", "country_label": "Tunisie", "class": "datacentre", "platform": "", "owner": "Ooredoo Tunisie", "tiers": "TIA-942 conformant, no tier stated"}], "note": ""}}},
+"internationalstandards": {"countries": {"TUN": {"facts": [], "systems": [], "note": "TIA-942 conformity of a facility is a certificate-type claim, not a national standard or rule."}}},
+"nationaldatacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The page does not state who owns Ooredoo Tunisie, so national ownership is not stated."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

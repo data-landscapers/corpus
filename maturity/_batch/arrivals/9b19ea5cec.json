@@ -1,0 +1,13 @@
+{"slug": "2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document does not mention AI harms, rules or an authority."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document names no AI system in government use, only data centres."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document names no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or AI computing, only planned data centres."}}},
+"datacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Two government data centres are planned, not in service, and none is stated to rent to outside organisations."}}},
+"digitalsovereignty": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Angola's national directorate for telecommunications and IT (Matias Borges) announced two new government data centres in Luanda (Camama and a modernised backup at the Centro Nacional de Dados, Rangel) to migrate existing and new government applications to a unified government cloud, a national cloud costing the State USD 89 million.", "as_of": "2024-12-11", "date_precision": "day", "system": "cloud unificada governamental (cloud nacional)", "class": "sovereignty"}
+], "systems": [
+{"system": "Cloud unificada governamental (cloud nacional)", "country_label": "Angola", "class": "sovereignty", "platform": "Camama main data centre (204 server cabinets) and Rangel backup data centre", "owner": "State of Angola", "tiers": "three levels: organs of sovereignty, State administration, information society"}
+], "note": ""}}},
+"nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Government data centres are planned; none is stated to be for hire or in service as a hire facility."}}}
+}}

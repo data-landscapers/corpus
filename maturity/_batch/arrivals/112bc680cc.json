@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-15-zaf-lifestyleandtech-telkom-iec-elections-infrastructure",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Openserve's national fibre network as election backbone but states no capital-to-region link or reach."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "About the national electoral commission, not local government offices."
+    }
+   }
+  }
+ }
+}

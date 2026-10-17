@@ -1,0 +1,14 @@
+{
+ "slug": "2026-10-01-mrt-tawassoul-facturation-paiements-electroniques",
+ "studies": {
+  "paymentslaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a public-sector e-invoicing and tax platform, not a payments law or e-money rules."
+    }
+   }
+  }
+ }
+}

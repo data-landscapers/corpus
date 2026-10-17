@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-15-african-startups-raise-2-49b-in-9-months",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "TechCabal reports that Egyptian payments firm Paymob raised $35 million in Pre-Series C funding led by Mubadala and EBRD.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Paymob",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "TechCabal reports that Egyptian start-up Synapse Analytics raised $13 million in Series A funding led by Partech.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Synapse Analytics",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "TechCabal reports that Nawy Now of Egypt secured a $12.3 million debt facility.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Nawy Now",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

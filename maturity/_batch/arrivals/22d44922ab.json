@@ -1,0 +1,95 @@
+{
+ "slug": "2024-10-31-bdi-unicef-interoperability-birth-registration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a joint order on civil registry and health facility birth registration; it states nothing digital, no ID link and no study aspect."
+    }
+   }
+  }
+ }
+}

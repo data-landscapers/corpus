@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-10-caf-icasees-evaluation-mi-parcours-snds2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail Open Data de la République centrafricaine (ODP-RCA)",
+   "country_label": "CAF",
+   "class": "other",
+   "platform": "",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": "Statistics office portal named; no open data policy stated."
+}

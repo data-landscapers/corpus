@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "fact": "Professor Jean Louis Fendji said at a CENADI workshop that Cameroon has no data protection law yet.",
+   "as_of": "2024-08-14",
+   "date_precision": "day",
+   "system": "",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "The document says Cameroon signed the Malabo Convention on 12 August 2021 and that ratification is awaited.",
+   "as_of": "2021-08-12",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

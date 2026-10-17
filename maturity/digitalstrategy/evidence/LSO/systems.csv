@@ -1,12 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LSO,AI strategy,"Lesotho AI strategy (classified as published, revision under way)",thematic,,,,2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness
 LSO,"Electronic Transactions and Communications Bill, 2026","Electronic Transactions and Communications Bill, 2026",directive,,MICSTI,national,2026-09-30-lso-itweb-electronic-transactions-bill-2026
-LSO,National Digital Policy 2024,National Digital Policy of 2024,,,,,2026-09-30-lso-itweb-electronic-transactions-bill-2026
-LSO,National Digital Transformation Strategy 2024,National Digital Transformation Strategy 2024,,,,,2026-09-30-lso-itweb-electronic-transactions-bill-2026
 LSO,National Digital Transformation Strategy,National Digital Transformation Strategy,national,,MICSTI,national,2026-09-29-lso-gov-cto125-commonwealth-digital-leaders
 LSO,"Electronic Transactions and Communications Bill, 2026","Electronic Transactions and Communications Bill, 2026",directive,,MICSTI,national,2026-09-29-lso-gov-micsti-electronic-transactions-communications-bill
-LSO,National Digital Policy 2024,National Digital Policy of 2024,,,,,2026-09-29-lso-gov-micsti-electronic-transactions-communications-bill
-LSO,National Digital Transformation Strategy 2024,National Digital Transformation Strategy 2024,,,,,2026-09-29-lso-gov-micsti-electronic-transactions-communications-bill
 LSO,Data Value Creation Blueprint,Data Value Creation Blueprint,thematic,,MICSTI with Smart Africa and GIZ,national,2026-09-17-lso-lestimes-first-to-validate-data-value-creation-blueprint
 LSO,"Artificial Intelligence Policy and Implementation Plan (Second Draft, 2025)",Artificial Intelligence Policy and Implementation Plan,thematic,,MICSTI,national,2026-09-01-gcg-analysis-national-ai-strategies-africa
 LSO,National AI Strategy,National AI Strategy,thematic,,MICSTI with the United Nations,national,2026-08-26-thereporter-lesotho-national-ai-strategy-data-centre-blueprint
@@ -19,19 +15,15 @@ LSO,Data Centre Blueprint,Data Centre Blueprint,thematic,,MICSTI with the United
 LSO,Artificial Intelligence Policy,Artificial Intelligence Policy,thematic,,,,2026-08-18-lesotho-national-ai-strategy-data-centre
 LSO,Data Management Policy,Data Management Policy,thematic,,,,2026-08-18-lesotho-national-ai-strategy-data-centre
 LSO,Broadband and Shared Infrastructure Policy,Broadband and Shared Infrastructure Policy,thematic,,,,2026-08-18-lesotho-national-ai-strategy-data-centre
-LSO,National Digital Transformation Strategy,National Digital Transformation Strategy,,,,,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
 LSO,National Strategic Development Plan II,National Strategic Development Plan II,development-plan,,,national,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
-LSO,Interim Computer Security Incident Response Team,interim CSIRT,,,MICSTI,national,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
 LSO,AI policy or strategy,AI policy/strategy (in development),thematic,,,,2026-07-23-cipesa-politics-of-ai-governance-regulation
 LSO,Digital Health Strategy 2025-2030,"Digital Health Strategy 2025-2030 (validated November 2024, promulgation not confirmed)",thematic,,,national,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 LSO,National Data Value Creation Blueprint,National Data Value Creation Blueprint,thematic,,MICSTI with Smart Africa,national,2026-07-16-lesotho-national-data-value-creation-blueprint-workshop
 LSO,LCA Strategic Plan 2026-2029,Strategic Plan 2026-2029,ministry-plan,,Lesotho Communications Authority,national,2026-07-01-lca-strategic-plan-2026-2029
-LSO,Lesotho National Digital Transformation Strategy: Agenda 2030,Lesotho National Digital Transformation Strategy (LNDTS): Agenda 2030,,,,,2026-07-01-lca-strategic-plan-2026-2029
 LSO,Extended National Strategic Development Plan II,NSDP II,development-plan,,,national,2026-07-01-lca-strategic-plan-2026-2029
 LSO,Broadband Infrastructure Sharing Policy,Broadband Infrastructure Sharing Policy,thematic,,MICSTI,national,2026-06-12-three-digital-policies-signed-lestimes
 LSO,Data Management Policy,Data Management Policy,thematic,,MICSTI,national,2026-06-12-three-digital-policies-signed-lestimes
 LSO,Artificial Intelligence Policy,Artificial Intelligence (AI) Policy,thematic,,MICSTI,national,2026-06-12-three-digital-policies-signed-lestimes
-LSO,National Digital Policy,National Digital Policy,,,,,2026-06-12-three-digital-policies-signed-lestimes
 LSO,National Strategic Development Plan II,National Strategic Development Plan II,development-plan,,,national,2026-06-12-three-digital-policies-signed-lestimes
 LSO,e-Government Infrastructure Phase II,e-Government Infrastructure Phase II project,programme,,African Development Bank-supported,national,2026-06-12-three-digital-policies-signed-lestimes
 LSO,National Spatial Development Infrastructure Policy,National Spatial Development Infrastructure Policy (proposed),thematic,,,national,2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooana
@@ -39,22 +31,12 @@ LSO,Digital Health Strategy 2025-30,Digital Health Strategy 2025-30 (validated 2
 LSO,Artificial Intelligence Policy (draft),draft AI policy,thematic,,,national,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026
 LSO,National AI Policy and Implementation Plan (draft),draft National AI Policy and Implementation Plan,thematic,,,national,"2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026"
 LSO,Digital Public Infrastructure Framework,Lesotho's Digital Public Infrastructure (DPI) Framework,thematic,,MICSTI,national,2025-08-26-lesotho-dpi-framework-workshop-lena
-LSO,national digital transformation strategy,national digital transformation strategy,,,,,2025-07-29-lesotho-india-dpi-mou-publiceye
 LSO,Lesotho-India Digital Public Infrastructure MoU,MoU with India's Ministry of Electronics and Information Technology (India Stack),programme,India Stack,MICSTI,national,2025-07-29-lesotho-india-dpi-mou-publiceye
-LSO,Digital Transformation Strategy,Digital Transformation Strategy,,,,,2025-02-19-lesotho-budget-speech-2025-26
-LSO,National Digital Policy,National Digital Policy,,,,,2025-02-19-lesotho-budget-speech-2025-26
 LSO,"Artificial Intelligence, Broadband and Data Management policies","key policies under development: AI, Broadband, Data Management",thematic,,,national,2025-02-19-lesotho-budget-speech-2025-26
 LSO,Government of Lesotho Enterprise Architecture and Interoperability Framework,Government of Lesotho Enterprise Architecture and Interoperability Framework,thematic,,,government,2025-02-19-lesotho-budget-speech-2025-26
 LSO,Broadband and Shared Infrastructure Policy and Implementation Plan (Second Draft),Broadband and Shared Infrastructure Policy,thematic,,"MICSTI, developed with UNDP and Norway Registers Development",national,2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft
-LSO,National Digital Transformation Strategy,National Digital Transformation Strategy,,,,,2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft
-LSO,National Digital Policy,National Digital Policy,,,,,2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft
 LSO,Data Management Policy and Implementation Plan (Second Draft),Data Management Policy,thematic,,"MICSTI, developed with UNDP and Norway Registers Development",national,2025-01-21-lesotho-data-management-policy-second-draft
-LSO,National Digital Transformation Strategy,National Digital Transformation Strategy,,,,,2025-01-21-lesotho-data-management-policy-second-draft
-LSO,National Digital Policy,National Digital Policy,,,,,2025-01-21-lesotho-data-management-policy-second-draft
 LSO,Artificial Intelligence Policy and Implementation Plan (Second Draft),Artificial Intelligence Policy and Implementation Plan,thematic,,"MICSTI, developed with UNDP and Norway Registers Development",national,2025-01-21-lesotho-draft-ai-policy-implementation-plan
-LSO,Lesotho's National Digital Transformation Strategy: Agenda 2030,National Digital Transformation Strategy: Agenda 2030 (cited as a 2024 document),,,,,2025-01-21-lesotho-draft-ai-policy-implementation-plan
-LSO,National Digital Policy 2024,National Digital Policy 2024,,MICSTI,MICSTI,national,2025-01-21-lesotho-draft-ai-policy-implementation-plan
-LSO,Research and Innovation Policy,Research and Innovation Policy (2023),,,"Department of Science, Technology and Innovation, MICSTI",,2025-01-21-lesotho-draft-ai-policy-implementation-plan
 LSO,National Digital Policy 2024-2035,National Digital Policy 2024 (National Digital Transformation Policy),national,,MICSTI,national,2024-12-30-lesotho-national-digital-policy-2024-2035
 LSO,National Digital Transformation Strategy: Agenda 2030,National Digital Transformation Strategy: Agenda 2030,national,,MICSTI,national,2024-12-30-lesotho-national-digital-policy-2024-2035
 LSO,National Digital Transformation Strategy: Agenda 2035,National Digital Transformation Strategy: Agenda 2035 (to be developed 2029-2030),national,,MICSTI,national,2024-12-30-lesotho-national-digital-policy-2024-2035
@@ -63,14 +45,10 @@ LSO,Communications Policy 2008,Lesotho Communications Policy 2008,sector-ict,,,n
 LSO,National Strategic Development Plan II,NSDP II 2018/19-2022/23,development-plan,,,national,2024-12-30-lesotho-national-digital-policy-2024-2035
 LSO,Lesotho E-Government Infrastructure Project,Lesotho E-Government Infrastructure Project (launched 2014),programme,,,national,2024-12-30-lesotho-national-digital-policy-2024-2035
 LSO,Broadband Policy (2014 draft),"Broadband Policy drafted 2014, never adopted",thematic,,MICSTI,national,2024-12-30-lesotho-national-digital-policy-2024-2035
-LSO,Lesotho National Digital Policy 2024,National Digital Policy 2024,,,MICSTI,national,2024-01-01 Lesotho National Digital Policy 2024
-LSO,Digital Transformation Strategy (Agenda 2030),Digital Transformation Strategy (Agenda 2030),,,MICSTI,national,2024-01-01 Lesotho National Digital Policy 2024
 LSO,Lesotho's National Digital Transformation Strategy: Agenda 2030,National Digital Transformation Strategy: Agenda 2030 (2024-2030),national,,MICSTI,national,2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030
-LSO,National Digital Transformation Strategy,National Digital Transformation Strategy,,,,national,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
 LSO,Public Sector Foundations for Service Delivery Project,"Public Sector Foundations for Service Delivery Project (IDA credit, US$12 million)",programme,,Government of Lesotho with the World Bank,national,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
 LSO,Second National Strategic Development Plan,NSDP II,development-plan,,,national,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
 LSO,National Strategic Development Plan II,second National Strategic Development Plan of 2019,development-plan,,,national,2020-02-01-lesotho-digital-economy-diagnostic-worldbank
-LSO,Lesotho Digital Readiness Assessment,Lesotho's Digital Readiness Assessment,,,MICSTI with UNDP,national,2026-08-09-lesotho-public-digital-services-survey
 LSO,National Identity Modernization Framework,Modernization Framework for the National Identity ecosystem,thematic,,"Ministry of Home Affairs, under the Public Sector Foundations for Service Delivery Project",national,2026-06-29-lesotho-home-affairs-digital-id-modernization
 LSO,National Strategic Development Plan II,NSDP II (under review and extension),development-plan,,,national,2026-06-11-lesotho-digital-studio-makoanyane-square-unipod
 LSO,E-Government Project Phase II,E-Government Project Phase II,programme,,MICSTI,national,2026-06-11-lesotho-digital-studio-makoanyane-square-unipod

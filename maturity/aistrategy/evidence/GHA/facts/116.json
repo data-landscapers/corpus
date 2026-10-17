@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The op-ed says Ghana's National AI Strategy 2023-2033 was approved by Cabinet in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National AI Strategy 2023-2033",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The op-ed says President Mahama announced in April 2026 $20 million to fund the rollout of the National AI Strategy.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National AI Strategy 2023-2033",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Responsible AI Office is only proposed, so no body fact."
+}

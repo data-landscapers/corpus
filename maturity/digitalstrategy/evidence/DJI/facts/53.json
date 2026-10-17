@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-01-dji-mcpt-telecommunication-tic-et-postes",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The ministry page says the Schéma Stratégique Intégré was adopted in 2014 to develop the ICT sector over ten years, as the government roadmap including the national ICT development strategy.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Schéma Stratégique Intégré (SSI)",
+   "class": "sector-ict"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "The ministry page says the SSI covers a period of ten years from its 2014 adoption.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Schéma Stratégique Intégré (SSI)",
+   "class": "sector-ict"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

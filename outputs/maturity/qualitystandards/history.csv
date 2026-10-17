@@ -1,0 +1,21 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BDI,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,BDI-002;BDI-001,Arrivals added BDI-002; stage unchanged.
+2026-10-17,CMR,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,CMR-001,Arrivals added CMR-001; stage no evidence -> 2.
+2026-10-17,COD,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,COD-001,Arrivals added COD-001; stage no evidence -> 2.
+2026-10-17,COG,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,COG-001,Arrivals added COG-001; stage no evidence -> 2.
+2026-10-17,DJI,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,DJI-001;DJI-004,Arrivals added DJI-004; stage unchanged.
+2026-10-17,EGY,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,3,3,EGY-003;EGY-002,Arrivals added EGY-004; stage unchanged.
+2026-10-17,ERI,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,ERI-002;ERI-001,Arrivals added ERI-002; stage unchanged.
+2026-10-17,ETH,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,3,ETH-001;ETH-002,Arrivals added ETH-001; ETH-002; stage no evidence -> 3.
+2026-10-17,GAB,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,GAB-001,Arrivals added GAB-001; stage no evidence -> 2.
+2026-10-17,KEN,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,KEN-001;KEN-003,Arrivals added KEN-004; stage unchanged.
+2026-10-17,LBY,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,LBY-001;LBY-003,Arrivals added LBY-003; stage unchanged.
+2026-10-17,MAR,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,MAR-001,Arrivals added MAR-001; stage no evidence -> 2.
+2026-10-17,MOZ,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,MOZ-001;MOZ-002,Arrivals added MOZ-004; stage unchanged.
+2026-10-17,MWI,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,MWI-003;MWI-001,Arrivals added MWI-003; stage unchanged.
+2026-10-17,NAM,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,NAM-003;NAM-001,Arrivals added NAM-004; stage unchanged.
+2026-10-17,NGA,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,no evidence,2,NGA-001,Arrivals added NGA-001; stage no evidence -> 2.
+2026-10-17,SLE,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,SLE-002;SLE-001,Arrivals added SLE-002; stage unchanged.
+2026-10-17,SYC,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,SYC-004;SYC-001,Arrivals added SYC-004; stage unchanged.
+2026-10-17,TUN,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,2,TUN-003;TUN-002,Arrivals added TUN-003; stage unchanged.
+2026-10-17,TZA,gov.standards--national-quality-standards-national-standards-for-information-technology-and-data,fact,2,3,TZA-002;TZA-001,Arrivals added TZA-003; TZA-004; stage 2 -> 3.

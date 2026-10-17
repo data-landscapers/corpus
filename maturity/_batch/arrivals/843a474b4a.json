@@ -1,0 +1,6 @@
+{"slug": "2026-10-16-gabon-aninf-octopus-2026-cybersecurity", "studies": {
+"cybersecurity": {"countries": {"GAB": {"facts": [], "systems": [{"system": "ANINF", "country_label": "National Agency for Digital Infrastructure and Frequencies", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Conference attendance only; no creation, incident, designation or figures stated."}}},
+"cybersecuritylaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only exploring accession to the Budapest Convention; no law or bill stated."}}},
+"digitalsovereignty": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a general presidential vision of digital sovereignty; no policy, rule, hosting or contract terms."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "ANINF staff attend a conference; the document does not say it runs systems for government."}}}
+}}

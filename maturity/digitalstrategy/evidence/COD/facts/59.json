@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-03-cod-acp-inauguration-data-center-national",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "Prime Minister Sama Lukonde says the national digital plan begun on the President's initiative in 2019, built on four pillars (infrastructure, content, uses, governance and regulation), carries the digital development strategy to the 2025 horizon.",
+   "as_of": "2023-11-02",
+   "date_precision": "day",
+   "system": "plan national du numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

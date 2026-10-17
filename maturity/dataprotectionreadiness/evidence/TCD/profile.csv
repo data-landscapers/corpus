@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,system,law,coverage,not-yet,2025-12,TCD-001;TCD-002,,
-TCD,system,treaty,coverage,signed,2015-06-14,TCD-003,,nothing dated since 2023-09-28
+TCD,system,law,coverage,in-force,2026-07-06,TCD-004,TCD-001=not-yet;TCD-002=not-yet,
+TCD,system,treaty,coverage,signed,2015-06-14,TCD-003,,nothing dated since 2023-10-17
 TCD,system,authority,coverage,,,,,nothing held
 TCD,system,practice,coverage,,,,,nothing held

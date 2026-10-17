@@ -1,0 +1,13 @@
+{"slug":"2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi","studies":{
+"businesspayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Notice names no e-procurement."}}},
+"centralbank":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No consumer protection rules stated."}}},
+"crossborderpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No cross-border payment stated."}}},
+"egovservices":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Only DGI tax e-services extension, a tax system used by that agency; no portal stated."}}},
+"g2ppayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No survey figure stated."}}},
+"retailpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Mobile money named only as a tax payment means in a tender; no service status stated."}}},
+"revenuecollection":{"countries":{"MLI":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"Mali's finance ministry project unit (PASG, AfDB-funded) invited firms to extend DGI tax e-procedures to all electronic payment means (bank, cards, mobile money) and all taxes, including a USSD application for declaration and payment.","as_of":"2024-09-30","date_precision":"day","system":"DGI téléservices","class":"revenue"}],"systems":[{"system":"SIGTAS","country_label":"Mali","class":"other","platform":"","owner":"DGI","tiers":""}],"note":""}}},
+"schoolinternet":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No school internet or curriculum content."}}},
+"taxadmin":{"countries":{"MLI":{"facts":[{"sub_indicator":"taxsystem","aspect":"filing","value":"underway","fact":"Mali's finance ministry project unit (PASG, AfDB-funded) sought a consultancy firm to extend DGI tele-services to all taxes, add a USSD app and APIs, and connect all tax centres to the SIGTAS network.","as_of":"2024-09-30","date_precision":"day","system":"SIGTAS","class":"taxsystem"}],"systems":[{"system":"SIGTAS","country_label":"Mali","class":"taxsystem","platform":"","owner":"DGI","tiers":""}],"note":""}}}
+}}

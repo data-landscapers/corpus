@@ -21,12 +21,12 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 4 |
-| 3 Established | 7 |
-| 2 Nascent | 23 |
+| 4 Operating | 5 |
+| 3 Established | 8 |
+| 2 Nascent | 26 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
-| No evidence | 13 |
+| Unplaced | 3 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -41,6 +41,12 @@ Reuse of the government's published data is on record in 2026.
 Reuse of the government's published data is on record in 2026.
 
 - ANSD's national data archive catalogue (ANADS) shows per-dataset view counts, including 4,808,203 views for the 2013 census (RGPHAE) and 19,910 for the 2023 census (RGPH5); the page has no date of its own, so the retrieval date is used ([source, 2026-09-03](http://anads.ansd.sn/index.php/catalog)).
+
+### Burkina Faso: 4 Operating
+
+Several public bodies published data for download in 2026; no reuse of it is on record.
+
+- CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
 
 ### Guinea-Bissau: 4 Operating
 
@@ -96,6 +102,12 @@ Government data was published under an open licence on the INSTAT open data lice
 Government data was published under an open licence on a government site in 2026; several publishing bodies are not on record.
 
 - The IPDP portal of the Fundo de Estradas states its data is available under a Creative Commons licence with attribution; the page has no date, so the capture date 2026-08-08 is used ([source, 2026-08-08](https://www.dadosinfra.co.mz/)).
+
+### Niger: 3 Established
+
+Government data was published under an open licence on the INS Niger open data licence (stat-niger.org) in 2024; several publishing bodies are not on record.
+
+- Niger's Institut National de la Statistique grants a worldwide, free, non-exclusive licence to use, modify and distribute its data for commercial and non-commercial purposes with attribution ([source, 2024-10-30](https://www.stat-niger.org/?page_id=4877)).
 
 ### Somalia: 3 Established
 
@@ -179,6 +191,13 @@ Government data was published for download on the STATBANK in 2026; no open lice
 
 - The Ethiopian Statistics Service says its dissemination office manages the national data dissemination platforms including STATBANK, microdata repositories and web portals, and provides Public Use Files for public access; as_of is the document's published date, as it describes the service running ([source, 2026-05-06](https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/)).
 
+### Gambia: 2 Nascent
+
+Government data was published for download on the GBoS downloads (gbosdata.org/downloads) in 2026; no open licence is on record.
+
+- The Gambia Bureau of Statistics publishes GDP, CPI, PPI, trade and survey reports with microdata for download at gbosdata.org/downloads; no licence is stated ([source, 2026-10-16](https://www.gbosdata.org/downloads)).
+- The Gambia Bureau of Statistics runs a microdata catalogue that, as of 2 July 2026, holds three survey studies (MICS 2000, DHS 2019-2020, Labour Force Survey 2018), the latest entries dated June and July 2025 ([source, 2026-07-02](https://microdata.gbosdata.org/index.php/home)).
+
 ### Ghana: 2 Nascent
 
 Government data was published for download on the Ghana Open Data Initiative portal (data.gov.gh) in 2026; no open licence is on record.
@@ -191,6 +210,12 @@ Government data was published for download on the Ghana Open Data Initiative por
 Government data was published for download on the Open Data Platform (ODP) 2.0 in 2026; no open licence is on record.
 
 - The INS, with African Development Bank support, held a workshop on 20-25 July 2026 on migrating to its Open Data Platform (ODP) 2.0 for disseminating official statistics, and its participants recommended regular feeding of the platform, which the document describes as the INS's statistical dissemination system; it states no dataset count ([source, 2026-07](https://www.stat-guinee.org/index.php/actu/418-atelier-national-de-renforcement-des-capacites-sur-la-modelisation-sdmx-et-la-migration-vers-odp-2-0)).
+
+### Lesotho: 2 Nascent
+
+Government data was published for download on the bos.gov.ls/publications.htm in 2025; no open licence is on record.
+
+- The Bureau of Statistics Lesotho publications page states all listed reports can be downloaded, with Excel tables for national accounts, CPI and GDP ([source, 2025-04](https://www.bos.gov.ls/publications.htm)).
 
 ### Malawi: 2 Nascent
 
@@ -230,6 +255,12 @@ Government data was published for download on a government site in 2026; no open
 
 - The Ministry of Fisheries, Agriculture and Blue Economy describes its Fisheries Information Management System (FIMS) as running and giving the public access to fisheries statistics, licensing and export data, which it calls open data; no dataset count is given, and the as_of is the document's published date ([source, 2026-06-12](https://mofbe.gov.sc/fiti-nmsg-showcases-seychelles-leadership-in-fisheries-transparency-during-cote-divoire-ministerial-visit/)).
 
+### Sierra Leone: 2 Nascent
+
+Government data was published for download on the Open Data Sierra Leone data portal in 2024; no open licence is on record.
+
+- Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
+
 ### South Africa: 2 Nascent
 
 Government data was published for download on the Vulekamali in 2026; no open licence is on record.
@@ -263,12 +294,6 @@ No government data published for download since 2023 is on record, so no stage i
 
 Not established: No government data published for download is on record since October 2023.
 
-### Burkina Faso: Unplaced
-
-No government data published for download since 2023 is on record, so no stage is set.
-
-Not established: No government data published for download is on record since October 2023.
-
 ### Kenya: Unplaced
 
 No government data published for download since 2023 is on record, so no stage is set.
@@ -276,12 +301,6 @@ No government data published for download since 2023 is on record, so no stage i
 Not established: No government data published for download is on record since October 2023.
 
 ### Nigeria: Unplaced
-
-No government data published for download since 2023 is on record, so no stage is set.
-
-Not established: No government data published for download is on record since October 2023.
-
-### Sierra Leone: Unplaced
 
 No government data published for download since 2023 is on record, so no stage is set.
 
@@ -318,24 +337,6 @@ Nothing held says whether a public body publishes data for anyone to download, s
 Not established: Nothing held names government data published for download, or says there is none.
 
 ### Gabon: No evidence
-
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing held names government data published for download, or says there is none.
-
-### Gambia: No evidence
-
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing held names government data published for download, or says there is none.
-
-### Lesotho: No evidence
-
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing held names government data published for download, or says there is none.
-
-### Niger: No evidence
 
 Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
 

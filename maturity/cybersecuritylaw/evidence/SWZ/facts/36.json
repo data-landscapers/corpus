@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-06-swz-eswatinipositive-pm-cybersecurity-cirt-operational",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Prime Minister said the Computer Crime and Cybercrime Act was passed in 2022, and the article's highlights say three major cyber laws and the national strategy are now in force.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Computer Crime and Cybercrime Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

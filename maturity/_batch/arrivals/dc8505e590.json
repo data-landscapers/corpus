@@ -1,0 +1,41 @@
+{
+ "slug": "2025-07-19-tza-ttcl-horohoro-icol-fibre-launch",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact on this question for Tanzania; it describes a cross-border link to a data centre in Kenya."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact on this question for Tanzania; it describes a cross-border link to a data centre in Kenya."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact on this question for Tanzania; it describes a cross-border link to a data centre in Kenya."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact on this question for Tanzania; it describes a cross-border link to a data centre in Kenya."
+    }
+   }
+  }
+ }
+}

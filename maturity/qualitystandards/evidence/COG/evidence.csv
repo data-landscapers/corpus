@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COG-001,COG,standards,standing,body,"The ISO member page says ACONOQ was created by Law No. 19-2015 of 29 October 2015 as the national standardization body, managing the national standards register.",2015-10-29,day,Agence Congolaise de Normalisation et de la Qualité (ACONOQ),body,2026-10-16-cog-iso-member-aconoq,https://www.iso.org/member/11493926.html

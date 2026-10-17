@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-24-bfa-insd-odp-2-0-migration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Open Data Portal ODP 2.0 (AfDB initiative)",
+   "country_label": "BFA",
+   "class": "other",
+   "platform": "ODP 2.0",
+   "owner": "INSD with AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": "Training for migration to a donor-built portal; no data stated as published."
+}

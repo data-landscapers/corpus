@@ -21,12 +21,12 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 5 |
-| 3 Established | 19 |
+| 4 Operating | 8 |
+| 3 Established | 23 |
 | 2 Nascent | 3 |
 | 1 Absent | 3 |
 | Unplaced | 0 |
-| No evidence | 19 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -73,6 +73,20 @@ Botswana's Data Protection Act, in force since January 2025, allows data abroad 
 - The DIAL expert comment says Botswana's adequacy list of countries data may go to had only 2 African countries; it gives no date for the list, so the document's published date of 2026-06-15 is used ([source, 2026-06-15](https://dial.global/africas-digital-future-seamless-data-flows/)).
 - Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
 
+### Burkina Faso: 4 Operating
+
+The data authority took applications to send personal data abroad in 2026 and published its form; no grant or refusal is known.
+
+- The CIL published a blank application form for authorisation of a transfer of personal data abroad ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
+- The CIL's annex form is an application for authorisation to transfer personal data to a foreign country, asking about the recipient, destination authority, consent and security measures ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
+
+### Eswatini: 4 Operating
+
+In 2024 the data protection authority required its permission before personal data leaves Eswatini and published an application form; no approvals or penalties are known.
+
+- The EDPA has published an application form and procedure for authorisation to transfer personal data outside Eswatini ([source, 2024](https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf)).
+- The EDPA requires authorisation before personal data leaves Eswatini, with recipient-country law, contracts and a DPIA supplied ([source, 2024](https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf)).
+
 ### Kenya: 4 Operating
 
 Kenya's 2019 Data Protection Act governs sending personal data abroad, with authority guidance published in 2026; whether it has been applied is not known.
@@ -95,6 +109,13 @@ Morocco's law sets a condition on sending personal data abroad, as stated in 201
 - The DIAL expert comment states that Morocco's 2015 adequacy list, a list of countries personal data may be sent to, did not recognise a single African country; the year is the only date given ([source, 2015](https://dial.global/africas-digital-future-seamless-data-flows/)).
 - The Council of Europe Consultative Committee states that Moroccan law 09-08 (articles 43 and 44) lays down protection of transfers of personal data to foreign countries, in particular where the country does not provide an adequate level of protection; dated 18 October 2012, the document does not give the law's date ([source, 2012-10-18](https://rm.coe.int/16806fdcb3)).
 
+### Rwanda: 4 Operating
+
+Rwanda's 2021 data protection law sets the rule on sending personal data abroad; model clauses came in 2024; use is not known.
+
+- The National Cyber Security Authority published standard contractual clauses for personal data transfer outside Rwanda under Article 49 of Law No 058/2021 ([source, 2024-02](https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf)).
+- The document states that transfers of personal data from Rwanda must comply with Article 49 of Law No 058/2021 of 13/10/2021, and the NCSA clauses are issued to meet that Article ([source, 2024-02](https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf)).
+
 ### Tunisia: 4 Operating
 
 Tunisia's 2004 law bars sending personal data abroad without the authority's prior permission; whether any transfer has been approved, refused or penalised is not known.
@@ -109,12 +130,30 @@ Algeria's 2025 amendment requires an adequacy assessment before data go abroad f
 - The Authority adopted Délibération n° 04 on 15 July 2026 extending the law's rules to images published on social platforms, including treating publication on foreign-run platforms as a transfer abroad ([source, 2026-07-15](https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf)).
 - Law 25-11 of 24 July 2025, published in the Journal Officiel that day, adds article 45 bis 13 to Law 18-07, under which the competent authority assesses the adequate level of protection in a foreign State or international organisation before data are transferred there, for transfers for criminal-justice purposes, and allows transfer on insufficient safeguards only in listed cases (vital interests, public security threat, individual criminal cases); the document gives as_of as its publication date and states no separate entry-into-force date ([source, 2025-07-24](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025048.pdf)).
 
+### Cameroon: 3 Established
+
+Cameroon's December 2024 law requires the authority to authorise every transfer of personal data abroad, after a grace period; guidance is not known.
+
+- The authors say the Act requires all cross-border transfers of personal data to be authorised by the data protection authority, with the Act enforceable after an 18-month grace period ([source, 2024-12-23](https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/)).
+
 ### Cape Verde: 3 Established
 
 Cape Verde law since 2013 lets personal data go abroad only to countries judged adequate or on listed grounds; its application is not known.
 
 - DLA Piper states that Cape Verde's Data Protection Law (Law 133/V/2001 as amended, including by Law 41/VIII/2013 and Law 121/IX/2021) permits international transfer of personal data only to a country with an adequate level of protection, or otherwise with the data subject's consent or in listed situations such as contract necessity or vital interests; the document gives no date for the rule, so its published date of 2025-01-16 is used ([source, 2025-01-16](https://www.dlapiperdataprotection.com/?c=CV&t=law)).
 - Lei n.º 41/VIII/2013, published 17 September 2013 and in force thirty days later, amends the general data protection law (Lei 133/V/2001) so that article 19 allows transfer abroad only to a country assuring an adequate level of protection, the CNPD deciding which foreign states do, and article 20 lets the CNPD permit transfer elsewhere on consent, contract necessity, public interest, vital interests or a public register, or authorise it where the controller gives sufficient guarantees such as adequate contractual clauses ([source, 2013-10](https://www.cnpd.cv/wp-content/uploads/2025/03/Lei-n-41_VIII_2013-regime-juridico-geral-de-proteccao-de-dados-pessoais-das-pessoas-singulares.pdf)).
+
+### Central African Republic: 3 Established
+
+A 2025 source says the law conditions transfers outside CEMAC and ECCAS on sufficient protection in the recipient state; means of complying are not known.
+
+- Jurist Zengue writes the law conditions transfers to non-CEMAC or non-ECCAS states on a sufficient level of protection in the recipient state, with further requirements for other transfers ([source, 2025-09-16](https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html)).
+
+### Chad: 3 Established
+
+A 2026 source says the data protection law requires safeguards and notification or authorisation to send personal data abroad; means of complying are not known.
+
+- The Cabinet Thomas Dingamgoto analysis says articles 29 to 32 of Loi n°007/PR/2015 require a legal basis, adequate safeguards and notification or prior authorisation by ANSICE for sending personal data out of Chad ([source, 2026-07-06](https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/)).
 
 ### Comoros: 3 Established
 
@@ -139,6 +178,13 @@ Transfers abroad need the data protection authority's approval under the digital
 Djibouti's digital code, published in September 2025, bars sending personal data abroad without equivalent protection; whether the authority has published means of complying is unknown.
 
 - Loi n° 019/AN/23/9ème L (Code Numérique), published in the Journal Officiel on 2025-09-18, bars a controller or processor from transferring personal data to a third country or international organisation unless it ensures an equivalent and sufficient level of protection (art. 99), with exceptions such as consent, contract, public interest, legal claims or vital interests, or authorisation by the Commission nationale de protection des données (art. 102); the passages seen state no entry-into-force date, so the publication date is used ([source, 2025-09-18](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf)).
+
+### Egypt: 3 Established
+
+Sending personal data abroad needs the data protection authority's permit, with a grace period ending in 2026; published guidance or use is not known.
+
+- Shura Law Firm states that transferring personal data outside Egypt requires a licence or permit from the Centre and the data subject's consent, with the Centre assessing the destination's adequacy; full enforcement from 31 October 2026 ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
+- Legal 500 (Ibrachy & Dermarkar) says personal data may not leave Egypt without prior authorisation from the Personal Data Protection Center, under Executive Regulations issued November 2025 with a grace period to 1 November 2026 ([source, 2025-11](https://www.legal500.com/guides/hot-topic/strategic-challenges-and-opportunities-in-cross-border-data-transfers-under-egypts-personal-data-protection-regime/?export-pdf=)).
 
 ### Gambia: 3 Established
 
@@ -265,31 +311,7 @@ Nothing held names a rule on sending personal data abroad or says there is none,
 
 Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
 
-### Burkina Faso: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
 ### Burundi: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
-### Cameroon: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
-### Central African Republic: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
-### Chad: No evidence
 
 Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
 
@@ -301,19 +323,7 @@ Nothing held names a rule on sending personal data abroad or says there is none,
 
 Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
 
-### Egypt: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
 ### Equatorial Guinea: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
-### Eswatini: No evidence
 
 Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
 
@@ -350,12 +360,6 @@ Nothing held names a rule on sending personal data abroad or says there is none,
 Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
 
 ### Niger: No evidence
-
-Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing held names a rule on sending personal data abroad, or says there is none.
-
-### Rwanda: No evidence
 
 Nothing held names a rule on sending personal data abroad or says there is none, so no stage is set.
 

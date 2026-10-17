@@ -1,0 +1,25 @@
+{
+ "slug": "2025-01-01-dza-alger16-apn-audition-experts-donnees-personnelles",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "tabled",
+       "fact": "The Assembly's legal affairs committee began examining the bill on protection of natural persons in personal data processing and heard two experts.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "projet de loi relatif à la protection des personnes physiques dans le traitement des données à caractère personnel",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

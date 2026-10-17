@@ -1,9 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LSO,Government of Lesotho Enterprise Architecture and Interoperability Framework,Government of Lesotho Enterprise Architecture and Interoperability Framework,framework,,Government of Lesotho,,2025-02-19-lesotho-budget-speech-2025-26
 LSO,e-Government Interoperability (E-GIF) Framework,E-GIF,framework,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
-LSO,Government of Lesotho Enterprise Architecture (GLEA),GLEA,,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
+LSO,Government of Lesotho Enterprise Architecture (GLEA),GLEA,other,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
 LSO,X-Road,X-Road,other,X-Road,"MICSTI (Ministry of Information, Communications, Science, Technology and Innovation)",government ministries,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,India Stack,India Stack,other,India Stack,MICSTI with India's Ministry of Electronics and Information Technology (MoU),,2025-07-29-lesotho-india-dpi-mou-publiceye
 LSO,Lesotho National Single Window (LNSW),Lesotho National Single Window,other,,Revenue Services Lesotho,central; 12 agencies connected,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
 LSO,Whole-of-government e-payment gateway,whole-of-government e-payment gateway,other,,Central Bank of Lesotho,,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
 LSO,Lesotho Government Data Network (LGDN),LGDN,other,,Government of Lesotho,"ministries, departments, agencies and district government offices",2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030
+LSO,Government Enterprise Architecture (GLEA),GLEA,other,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-03-06-lso-qualisys-glea-egif-development

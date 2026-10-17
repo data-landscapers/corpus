@@ -1,0 +1,18 @@
+{"slug": "2024-02-01-rwa-ncsa-standard-contractual-clauses-transfer", "studies": {
+"cybersecurity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document is data-transfer clauses; it states nothing on a national cyber response body, incidents, critical infrastructure or figures."}}},
+"datalocalisation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Clauses govern transfers abroad under Article 49; no rule that data must stay in the country is stated."}}},
+"dataprotectionlaw": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The National Cyber Security Authority (NCSA) is named as the Supervisory Authority under Law No 058/2021 of 13/10/2021 on personal data protection and privacy, and issued these standard contractual clauses.", "as_of": "2024-02", "date_precision": "month", "system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "NCSA's Data Protection and Privacy Office published standard contractual clauses for transfers of personal data outside Rwanda under Article 49 of Law No 058/2021, as compliance guidance with no decision attached.", "as_of": "2024-02", "date_precision": "month", "system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy", "class": "general"}
+], "systems": [{"system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy", "country_label": "Rwanda", "class": "general", "platform": "", "owner": "National Cyber Security Authority", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The document names the National Cyber Security Authority (NCSA) as the Supervisory Authority under Rwanda's Law No 058/2021 and has it receive breach reports and settle disputes under that law.", "as_of": "2024-02", "date_precision": "month", "system": "National Cyber Security Authority", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "NCSA's Data Protection and Privacy Office published template standard contractual clauses for transfers abroad under Article 49 of Law No 058/2021, which also set 72-hour breach reporting to the authority.", "as_of": "2024-02", "date_precision": "month", "system": "National Cyber Security Authority", "class": "system"}
+], "systems": [], "note": ""}}},
+"datatransfers": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The document states that transfers of personal data from Rwanda must comply with Article 49 of Law No 058/2021 of 13/10/2021, and the NCSA clauses are issued to meet that Article.", "as_of": "2024-02", "date_precision": "month", "system": "Article 49 of Law Nº 058/2021", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "The National Cyber Security Authority published standard contractual clauses for personal data transfer outside Rwanda under Article 49 of Law No 058/2021.", "as_of": "2024-02", "date_precision": "month", "system": "NCSA Standard Contractual Clauses", "class": "rule"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention a national ID system."}}},
+"police": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention police records."}}}
+}}

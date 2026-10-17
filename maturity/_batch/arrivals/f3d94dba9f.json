@@ -1,0 +1,11 @@
+{"slug": "2024-09-18-tgo-mfb-formation-solaf-execution-budget", "studies": {
+"coresystems": {"countries": {"TGO": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Ministry of Finance and Budget says budget data entry is currently done in SIGFiP and in parallel in SOLAF, with 236 regional agents trained in SOLAF on commitment, settlement, ordering and payment mandates in August-September 2024.", "as_of": "2024-09", "date_precision": "month", "system": "SIGFiP", "class": "core"}], "systems": [{"system": "SIGFiP", "country_label": "SIGFiP", "class": "core", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": ""}, {"system": "SOLAF", "country_label": "SOLAF", "class": "other", "platform": "web-based", "owner": "Ministry of Finance and Budget", "tiers": ""}], "note": ""}}},
+"educationexchange": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention education."}}},
+"educationmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention education."}}},
+"egovservices": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Internal public-finance software, no citizen-facing service stated."}}},
+"health": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention health."}}},
+"healthmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention health."}}},
+"police": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention police."}}},
+"schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention schools."}}},
+"schools": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention schools."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-14-tza-tbs-draft-standards-stakeholder-comments",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The Tanzania Bureau of Standards, under the Ministry of Investment, Industry and Trade, is developing Tanzania standards and circulated drafts for comment, including ISO/IEC 23894, 27032, 27035, 27036 and 27043 adoptions.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Tanzania Bureau of Standards",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Bureau of Standards",
+   "country_label": "Tanzania",
+   "class": "body",
+   "platform": "",
+   "owner": "Ministry of Investment, Industry and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": "The IT standards listed are drafts, not issued; the letter states no founding law or certification."
+}

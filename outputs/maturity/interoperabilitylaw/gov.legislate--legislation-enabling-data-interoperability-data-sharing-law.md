@@ -1,6 +1,6 @@
 # Legislation enabling data interoperability: data sharing law
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -24,17 +24,18 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 4 Operating | 8 |
 | 3 Established | 12 |
 | 2 Nascent | 8 |
-| 1 Absent | 0 |
+| 1 Absent | 1 |
 | Unplaced | 0 |
-| No evidence | 26 |
+| No evidence | 25 |
 
 ## Countries
 
 ### Algeria: 4 Operating
 
-A December 2025 presidential decree makes a national system the only channel for data exchange between public bodies; its application is not yet recorded.
+A December 2025 decree makes one national system the only channel for data exchange between public bodies; no order made under it is known.
 
 - Presidential decree no. 25-320 of 30 December 2025 makes the national interoperability system the exclusive framework for exchanging digital data between public institutions and administrations over the secure national interconnection network (Art. 10), and requires each body to classify and catalogue its data to gain access (Art. 12) ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
+- The Interior Minister says public bodies are required under Executive Decree 23-316 to connect their IT systems to the automated NIN generation system ([source, 2023-09-06](https://www.algerie360.com/les-administrations-nont-plus-le-droit-dexiger-ces-documents-saayoud-promet-des-sanctions-severes/)).
 - Presidential decree no. 25-320 of 30 December 2025, published in the Journal Officiel no. 87, sets up a national data governance system whose national interoperability system secures data exchange between public institutions and administrations (Art. 1, 2, 5, 9) ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
 
 ### Botswana: 4 Operating
@@ -82,9 +83,10 @@ A 2019 electronic transactions law lets administrations exchange data and sets a
 
 ### Tunisia: 4 Operating
 
-A 2020 decree-law and its decree require public structures to exchange data electronically; no rule made under them since 2023 is recorded.
+A 2020 decree-law and decree require public bodies to exchange data electronically, in force in 2026 per the Presidency; no rules since 2023 are known.
 
 - Government decree no. 2020-777 of 5 October 2020 says public structures must use electronic exchange among themselves and with users (art. 4), must make the list of their available data flows and licences available to the interoperability operator (art. 20), and may not demand more than one electronic copy of a document (art. 11); the text is binding from 1 January 2021 ([source, 2020-10-05](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/)).
+- The Presidency says the decree-law establishes the principle that users are not asked for data or documents public bodies already hold or that are available through the interconnection platform ([source, 2020-06-10](https://www.alchourouk.com/index.php/article/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D8%AA%D9%85-%D8%AD%D8%A7%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B1%D9%83%D9%8A%D8%B2-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9)).
 - Circular of the Head of Government no. 04 of 2026 lists among its references decree-law no. 31 of 10 June 2020 on electronic data exchange between structures and their users and between structures, as approved by law no. 14 of 7 April 2021; the date of the fact is the approving law, and the circular is of 28 August 2026 ([source, 2021-04-07](https://www.pm.gov.tn/sites/default/files/2026-09/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%B9%D8%AF%D8%AF04%20%D9%84%D8%B3%D9%86%D8%A9%202026_0_0.pdf)).
 
 ### Angola: 3 Established
@@ -178,7 +180,7 @@ The Council of Ministers sent a draft data governance proclamation to parliament
 A data harmonisation bill went to public consultation in November 2025 and a data exchange act is proposed; nothing is in force.
 
 - A representative of the Communications Minister said at the Ghana AI Summit that government was preparing a Data Harmonisation Act (data governance and classification standards across public institutions) and that a proposed Data Exchange Act (a bill, not an act in force) would improve interoperability and facilitate secure data sharing among government agencies ([source, 2026-07-29](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/)).
-- NITA's draft NITA Data Harmonisation Bill 2025 (a bill, not yet law) would give a legal basis for data sharing, standardisation and system integration across public and private institutions; public consultation was set for 19 to 27 November 2025, then Cabinet and Parliament ([source, 2025-10-23](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html)).
+- NITA put out for public consultation the draft Data Harmonisation Bill 2025, to set a legal framework for data sharing, standardisation and interoperability across public and private institutions through a National Data Exchange Platform ([source, 2025-11-19](https://nita.gov.gh/publicconsultation-3-2-2/)).
 
 ### Liberia: 2 Nascent
 
@@ -211,6 +213,12 @@ A draft decree to govern the interoperability platform was due to be presented i
 
 - The ministry's post of 4 May 2026 announces that on 5 May a draft decree (projet de décret) governing the interoperability platform would be presented, so the decree was still a draft decree, not an adopted text ([source, 2026-05](https://fr.linkedin.com/posts/mctnsn_dpi-newdealtechnologique-activity-7457180609757528065-UqRT)).
 - The ministry states on 26 March 2026 that the first phase (MVP 1.0) delivered a national interoperability framework, a draft decree (projet de décret) and a sovereign platform; the decree is a draft decree with no adoption stated ([source, 2026-03-26](https://fr.linkedin.com/posts/mctnsn_newdealtechnologique-interop%C3%A9rabilit%C3%A9-activity-7443068023738900480-ejtp)).
+
+### Somalia: 1 Absent
+
+GovStack stated in September 2024 that Somalia has no data sharing law; whether a draft has appeared since is not known.
+
+- GovStack states there is no enabling legislation for data sharing and data analysis yet in Somalia ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
 
 ### Burundi: No evidence
 
@@ -335,12 +343,6 @@ Not established: Nothing held names a law, decree or regulation on public bodies
 ### Sierra Leone: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for Sierra Leone, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
-### Somalia: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Somalia, or a draft, so no stage is set.
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 

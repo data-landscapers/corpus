@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nga-iso-son-member",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the Standards Organisation of Nigeria was established by an Enabling Act of 1971 to prepare standards.",
+   "as_of": "1971",
+   "date_precision": "year",
+   "system": "SON",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

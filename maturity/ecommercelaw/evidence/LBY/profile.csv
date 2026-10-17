@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,law,standing,coverage,in-force,2022-10-04,LBY-001,,nothing dated since 2023-09-28
-LBY,law,reach,coverage,,,,,nothing held
+LBY,law,standing,coverage,in-force,2022-10,LBY-001;LBY-002,,nothing dated since 2023-10-17
+LBY,law,reach,coverage,none,2023-12-14,LBY-003,,

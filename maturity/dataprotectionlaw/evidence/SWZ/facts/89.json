@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-06-swz-eswatinipositive-pm-cybersecurity-cirt-operational",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Prime Minister said the Data Protection Act was passed in 2022, and the article's highlights say three major cyber laws are now in force.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

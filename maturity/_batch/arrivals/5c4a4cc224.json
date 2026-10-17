@@ -1,0 +1,52 @@
+{
+ "slug": "2025-02-26-bwa-estdev-team-europe-interoperability",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "ESTDEV says Botswana in 2020 created SmartBots, the national digital transformation strategy, providing the framework for digitising all sectors; adoption is not stated.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "SmartBots",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SmartBots",
+       "country_label": "Botswana",
+       "class": "national",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Project to improve e-government services only; no service stated online."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Estonia will help develop a framework; no drafting stated as begun."
+    }
+   }
+  }
+ }
+}

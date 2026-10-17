@@ -2,4 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 BFA,Unique electronic identification of the person (identifiant unique),identification unique électronique de la personne,other,,Ministry of Digital Transition (WURI project),national,2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique
 BFA,WURI programme,Programme WURI,other,,"Ministry of Digital Transition, Posts and Electronic Communication",national,2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique
 BFA,Unique electronic identification system (identifiant unique),système d'identification unique électronique de la personne,other,,Ministry in charge of digital transition,"national; linked to CNIB, passport, driving licence, health and bank records",2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
-BFA,CNIB,CNIB,,,,,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
+BFA,CNIB,CNIB,other,,,,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee

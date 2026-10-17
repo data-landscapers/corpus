@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 SLE,TRANSCO CLSG fibre network,TRANSCO CLSG transmission network fibre,shared,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,Sierra Leone-Guinea national backbone interconnection,Sierra Leone-Guinea backbone interconnection,shared,,,,2025-11-17-natca-guinea-free-roaming
 SLE,SOGEB-Leoncom fibre interconnection at Pamelap,Guinea-Sierra Leone fibre interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),,2025-06-23-sogeb-leonecom-fibre-interconnection
+SLE,redundant terrestrial fibre route,Sierra Leone,other,terrestrial fibre,NatCA (host regulator),,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou

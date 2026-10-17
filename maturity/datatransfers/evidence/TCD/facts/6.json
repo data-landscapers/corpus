@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-tcd-thomasd-transfert-international-donnees",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Cabinet Thomas Dingamgoto analysis says articles 29 to 32 of Loi n°007/PR/2015 require a legal basis, adequate safeguards and notification or prior authorisation by ANSICE for sending personal data out of Chad.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Loi n°007/PR/2015 arts 29-32",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°007/PR/2015 arts 29-32",
+   "country_label": "Loi n°007/PR/2015",
+   "class": "rule",
+   "platform": "",
+   "owner": "ANSICE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

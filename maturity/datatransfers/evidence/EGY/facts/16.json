@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-egy-legal500-cross-border-transfers-egypt-pdpl",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Legal 500 (Ibrachy & Dermarkar) says personal data may not leave Egypt without prior authorisation from the Personal Data Protection Center, under Executive Regulations issued November 2025 with a grace period to 1 November 2026.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Executive Regulations of Law 151 of 2020, transfer authorisation",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "No dated publication of a country list, model terms or decision on a transfer is stated."
+}

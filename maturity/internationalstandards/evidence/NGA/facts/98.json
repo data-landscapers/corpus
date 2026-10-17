@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nga-iso-son-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Standards Organisation of Nigeria as Nigeria's ISO member body, participating in 109 technical committees.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SON",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

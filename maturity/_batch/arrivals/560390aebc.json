@@ -1,0 +1,74 @@
+{"slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe", "studies": {
+"addressregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on addressing."}}},
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on AI harms; it names AI only as a challenge."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states no AI system in administration."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states no AI tool in a sector system."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states no AI model, dataset or computing."}}},
+"authentication": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Ministry of the Interior says the CNIBE biometric ID card carries an electronic authentication certificate and a PKI platform, and that generalised use of the card to authenticate users on the secure-document and civil-status issuance platforms was launched.", "as_of": "2026-05", "date_precision": "month", "system": "CNIBE", "class": "authentication"}
+], "systems": [{"system": "CNIBE", "country_label": "Carte Nationale d'identité biométrique Electronique", "class": "authentication", "platform": "ICAO PKI platform", "owner": "Ministry of the Interior", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The Ministry of the Interior says the central biometric document issuance system is connected to the national civil register (RNEC) and to AFIS, with the national identification number (NIN) as the key between the databases.", "as_of": "2026-05", "date_precision": "month", "system": "RNEC", "class": "crvslink"}
+], "systems": [], "note": ""}}},
+"businessregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on a business register."}}},
+"civilregister": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "The Ministry of the Interior says a computerised civil-status system and a centralised database, the Registre National d'Etat Civil (RNEC), were set up in an operation launched in 2010, with birth-record registers archived digitally.", "as_of": "2010", "date_precision": "year", "system": "RNEC", "class": "civil"}
+], "systems": [{"system": "RNEC", "country_label": "Registre National d'Etat Civil", "class": "civil", "platform": "", "owner": "Ministry of the Interior", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document names no data centre for hire in service; the five-plus national data centres are a stated objective."}}},
+"dataexchange": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The Ministry of the Interior lists among the High Commission for Digitalisation's actions the national interoperability system as the backbone of interoperability and the secure national network IRIES dedicated to data exchange, separate from the internet, without saying either is in service.", "as_of": "2026-05", "date_precision": "month", "system": "IRIES / national interoperability system", "class": "exchange"}
+], "systems": [{"system": "IRIES", "country_label": "IRIES", "class": "exchange", "platform": "", "owner": "High Commission for Digitalisation", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "The Ministry of the Interior lists presidential decree 23-73 of 14 February 2023 fixing the missions and organisation of the executive secretariat of the national authority for personal data protection; no appointment is stated.", "as_of": "2023-02-14", "date_precision": "day", "system": "Autorite nationale de protection des donnees a caractere personnel", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Ministry of the Interior lists law 18-07 of 10 June 2018 on the protection of natural persons in personal data processing, supplemented by law 25-11 of 24 July 2025.", "as_of": "2025-07-24", "date_precision": "day", "system": "Loi 18-07", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The Ministry of the Interior lists decree 23-73 of 14 February 2023 on the missions and organisation of the executive secretariat of the national personal data protection authority; no appointment is stated.", "as_of": "2023-02-14", "date_precision": "day", "system": "Loi 18-07", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of the Interior lists law 14-03 of 24 February 2014 on travel titles and documents among the texts governing issuance of passports and identity cards.", "as_of": "2014-02-24", "date_precision": "day", "system": "Loi 14-03", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The Ministry of the Interior says executive decree 10-210 of 16 September 2010 instituted the national identification number (NIN) and requires it on official identity, circulation and travel documents.", "as_of": "2010-09-16", "date_precision": "day", "system": "NIN", "class": "law"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The Ministry of the Interior says the 2025-2030 digital transformation vision of the High Commission for Digitalisation includes a national sovereign cloud (Cloud Souverain National) and a secure national exchange network separate from the internet.", "as_of": "2026-05", "date_precision": "month", "system": "Cloud Souverain National", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Ministry of the Interior presents a 2025-2030 strategic vision for digital transformation with named objectives, without saying it was adopted.", "as_of": "2026-05", "date_precision": "month", "system": "Vision strategique 2025-2030", "class": "national"},
+{"sub_indicator": "national", "aspect": "period", "value": "to:2030", "fact": "The Ministry of the Interior gives the period of the digital transformation vision as 2025-2030.", "as_of": "2026-05", "date_precision": "month", "system": "Vision strategique 2025-2030", "class": "national"},
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Ministry of the Interior says the High Commission for Digitalisation, created in 2023, is charged with designing and implementing the national digitalisation strategy.", "as_of": "2023", "date_precision": "year", "system": "Haut Commissariat au numerique", "class": "national"}
+], "systems": [], "note": ""}}},
+"electoralregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on a voters' roll."}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It gives over 40 million cards in circulation since 2016, a count of cards and not of people enrolled."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It states no ID number given at birth registration."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The Ministry of the Interior says its own engineers administer the platforms for collecting and centrally processing identity and travel document data, which Algerian engineers developed.", "as_of": "2026-05", "date_precision": "month", "system": "Central document issuance system", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "maintenance", "value": "national", "fact": "The Ministry of the Interior says its strategy was to act as integrator of solutions rather than buy turnkey ones, with the platforms administered by its engineers.", "as_of": "2026-05", "date_precision": "month", "system": "Central document issuance system", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers.", "as_of": "2026-05", "date_precision": "month", "system": "Central document issuance system", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It names no tax, social, payroll, electoral or business register keyed on the NIN; connecting all ministries to the RNEC is listed without a date or status."}}},
+"idrobustness": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Ministry of the Interior says the biometric electronic national ID card (CNIBE) has been issued since January 2016, with more than 40 million cards in circulation, on a unique national identification number (NIN).", "as_of": "2026-05", "date_precision": "month", "system": "CNIBE", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The Ministry of the Interior says delivery of identity and travel documents is conditional on fingerprint matching and that the issuance system is connected to AFIS for fingerprint identification.", "as_of": "2026-05", "date_precision": "month", "system": "CNIBE", "class": "idsystem"}
+], "systems": [{"system": "CNIBE", "country_label": "Carte Nationale d'identite biometrique Electronique", "class": "idsystem", "platform": "", "owner": "Ministry of the Interior", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Ministry of the Interior says generalised use of the CNIBE card to authenticate users on the secure-document and civil-status issuance platforms was launched, and that the card is used in digital public services.", "as_of": "2026-05", "date_precision": "month", "system": "CNIBE", "class": "relying"}
+], "systems": [], "note": ""}}},
+"interoperabilitylaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A law on general rules of the digital domain is listed among actions launched, with no draft or status stated."}}},
+"itcapacity": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Ministry of the Interior says its own engineers administer the platforms for identity and travel document issuance and civil status.", "as_of": "2026-05", "date_precision": "month", "system": "Central document issuance system", "class": "staff"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on land."}}},
+"localgov": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on local government connection."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It names no data centre in service; over five national data centres are a stated objective only."}}},
+"offsitebackup": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Two active-active production sites with disaster recovery are named, with no place or distance given."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on police station records."}}},
+"populationregister": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "The Ministry of the Interior says the operation launched in 2010 aims to constitute the population database through the centralised national civil-status register (RNEC) and the NIN.", "as_of": "2010", "date_precision": "year", "system": "RNEC", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It states nothing on digital entry at local civil registration offices."}}},
+"schoolinternet": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on schools."}}},
+"socialregistry": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on a social registry."}}},
+"startups": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a recommendation to involve startups in building systems; no startup law or fund."}}},
+"taxregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on a tax register."}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on hubs."}}}
+}}

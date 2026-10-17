@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-14-ago-cajnews-q-kon-sistec-twoobii-oneweb-pop-luanda",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Q-KON and SISTEC launched a Luanda Point of Presence for the Twoobii OneWeb LEO service, which SISTEC says it uses to deliver connectivity to enterprise and financial-sector clients in Angola.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Twoobii OneWeb",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Twoobii OneWeb",
+       "country_label": "Angola",
+       "class": "satellite",
+       "platform": "Eutelsat OneWeb LEO",
+       "owner": "Q-KON with SISTEC",
+       "tiers": "enterprise, financial sector, government, defence"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

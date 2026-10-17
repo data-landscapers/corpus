@@ -1,0 +1,9 @@
+{"slug": "2026-10-16-thecitizen-uba-tanzania-launches-papss", "studies": {
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Article covers a bank's cross-border payment service, not public procurement."}}},
+"centralbank": {"countries": {"TZA": {"facts": [{"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "UBA Tanzania launched PAPSS cross-border payments in Tanzania, with its payments manager saying the central banks of participating countries oversee their respective financial systems and exchange rates.", "as_of": "2026-10-16", "date_precision": "day", "system": "PAPSS", "class": "oversight"}], "systems": [{"system": "PAPSS", "country_label": "Tanzania", "class": "oversight", "platform": "Pan-African Payment and Settlement System", "owner": "", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States fee and limits of a bank service only; no consumer rules, complaints body or enforcement."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government payments to people mentioned."}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No survey of account holding stated."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Covers cross-border bank transfers of UBA account holders, not mobile money or domestic retail payments."}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No tax or fee payment mentioned."}}}
+}}

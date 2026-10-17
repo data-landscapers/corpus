@@ -4,6 +4,6 @@ GIN,RTGS,Système de Règlement Brut en Temps Réel,other,,BCRG,interbank,2026-0
 GIN,Switch national,Switch national (with AfricaNenda and GuiM),other,,BCRG; Guinéenne de Monétique,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
 GIN,RTGS,Système de Règlement Brut en Temps Réel de Gros Montants et Paiements Urgents,other,,BCRG,,2025-01-01-bcrg-cadre-reglementaire-systemes-paiement
 GIN,ACH,Chambre de compensation automatisée,other,,BCRG,,2025-01-01-bcrg-cadre-reglementaire-systemes-paiement
-GIN,NimbaPay,NimbaPay,,Mojaloop,Central Bank of the Republic of Guinea (BCRG),"banks, electronic money operators, other financial institutions",2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
-GIN,Nimba Pay,Nimba Pay,,,BCRG,"banks, e-money establishments, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
-GIN,NimbaPay,NimbaPay,,,Guinéenne de la Monétique (GuiM) under the BCRG,"banks, e-money establishments, microfinance institutions",2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
+GIN,NimbaPay,NimbaPay,other,Mojaloop,Central Bank of the Republic of Guinea (BCRG),"banks, electronic money operators, other financial institutions",2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
+GIN,Nimba Pay,Nimba Pay,other,,BCRG,"banks, e-money establishments, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,NimbaPay,NimbaPay,other,,Guinéenne de la Monétique (GuiM) under the BCRG,"banks, e-money establishments, microfinance institutions",2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane

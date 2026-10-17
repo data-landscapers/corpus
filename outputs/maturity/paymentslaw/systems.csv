@@ -19,8 +19,8 @@ BDI,CSD,Dépositaire central des titres (CSD),other,,Banque de la République du
 BDI,Switch national,Switch national,other,,,,2025-11-20-brb-cadre-surveillance-paiement
 BDI,Système de paiement instantané,Système de paiement instantané,other,,,,2025-11-20-brb-cadre-surveillance-paiement
 BDI,Plateformes de monnaie électronique,plateformes de monnaie électronique,other,,"payment institutions, commercial banks, microfinance institutions",payment institutions; commercial banks; microfinance institutions,2025-11-20-brb-cadre-surveillance-paiement
-BEN,PI-SPI,PI-SPI,,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-06-25-bceao-prolongation-delai-connexion-pi-spi
-BEN,PI-SPI,PI-SPI,,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
+BEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-06-25-bceao-prolongation-delai-connexion-pi-spi
+BEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
 BEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-04-02-bceao-connexion-pi-spi
 BEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 BEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
@@ -43,16 +43,16 @@ CIV,PI-SPI,PI-SPI,other,,BCEAO,mentioned as interoperable payment platform; 86 i
 CMR,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monetique de l'Afrique centrale),"BEAC, two Treasuries, banks, microfinance institutions, payment institutions and mobile money operators, aggregators",2026-07-30-cemac-gimacpay-transactions-2025
 CMR,Konoom Mobile Money,Konoom Mobile Money,other,,Konoom Cameroun,mobile money users and distributor network (planned launch),2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 COG,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"banks, microfinance institutions, payment institutions and mobile money operators, aggregators, BEAC, Treasuries",2026-07-30-cemac-gimacpay-transactions-2025
-COG,ARTF digital platform and electronic payment terminals (TPE),plateforme digitale de l'ARTF; terminaux de paiement électronique,,,ARTF (Agence de régulation des transferts de fonds),money-transfer and exchange operators,2026-10-08-cog-adiac-artf-terminaux-paiement-2027
-COG,ARTF digital platform,plateforme digitale de l'ARTF,,,ARTF (Agence de régulation des transferts de fonds),money-transfer operators,2026-10-07-cog-aci-artf-transferts-de-fonds-plateforme-numerique
-COG,FOUTA,plateforme électronique FOUTA,,,"Ministry of Finance, Budget and Public Portfolio",public administrations and taxpayers; paid through commercial banks,2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques
+COG,ARTF digital platform and electronic payment terminals (TPE),plateforme digitale de l'ARTF; terminaux de paiement électronique,other,,ARTF (Agence de régulation des transferts de fonds),money-transfer and exchange operators,2026-10-08-cog-adiac-artf-terminaux-paiement-2027
+COG,ARTF digital platform,plateforme digitale de l'ARTF,other,,ARTF (Agence de régulation des transferts de fonds),money-transfer operators,2026-10-07-cog-aci-artf-transferts-de-fonds-plateforme-numerique
+COG,FOUTA,plateforme électronique FOUTA,other,,"Ministry of Finance, Budget and Public Portfolio",public administrations and taxpayers; paid through commercial banks,2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques
 CPV,Sistema de Gestão de Depósitos e Liquidação (SGDL),SGDL,other,,Banco de Cabo Verde,interbank settlement,2025-01-01-bcv-sistema-de-pagamentos
 CPV,Sistema Integrado de Compensação Interbancária e Liquidação (SICIL),SICIL,other,,"managed by Banco de Cabo Verde, operated by SISP","cheques, credit transfers, card payments clearing",2025-01-01-bcv-sistema-de-pagamentos
 CPV,Sistema de Gestão de Mercados e Ativos (SIGMA),SIGMA,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
 CPV,Sistema de Pagamentos Cabo-verdiano,Sistema de Pagamentos Cabo-verdiano,law,,Banco de Cabo Verde (regulator and superintendent),"participants, payment service providers, system operators, financial institutions",2018-11-28-cabo-verde-decreto-legislativo-7-2018-sistema-pagamentos
 DZA,Switch mobile (interbank mobile payment),Switch mobile,other,,GIE Monétique,seven pilot banks; payment service providers to follow,2026-08-20-elmoudjahid-gie-monetique-benchabla-interview
 DZA,CIB card,Carte CIB,other,,GIE Monétique,,2026-08-20-elmoudjahid-gie-monetique-benchabla-interview
-ERI,EriTel-linked mobile wallets,mobile wallets linked to the state-owned telecom operator EriTel,,,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
+ERI,EriTel-linked mobile wallets,mobile wallets linked to the state-owned telecom operator EriTel,other,,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 GAB,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"BEAC, two Treasuries, 56 banks, 26 microfinance institutions, 16 payment institutions and mobile money operators, 52 aggregators",2026-07-30-cemac-gimacpay-transactions-2025
 GHA,Sentinel (Real-Time VAT framework),Sentinel / RTVAT,other,Sentinel,Ghana Revenue Authority,"banks, payment service providers, electronic money issuers, third-party payment providers",2026-09-27-gha-real-time-vat-cross-border-digital
 GHA,Electronic Transfer Levy Management and Assurance System (ELMAS),ELMAS,other,,Ghana Revenue Authority,"electronic money issuers, payment service providers, banks, specialised deposit-taking institutions",2023-08-08-gra-electronic-transfer-levy-administrative-guidelines
@@ -61,9 +61,9 @@ GIN,RTGS,Système de Règlement Brut en Temps Réel,other,,BCRG,interbank,2026-0
 GIN,Switch national,Switch national (with AfricaNenda and GuiM),other,,BCRG; Guinéenne de Monétique,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
 GIN,RTGS,Système de Règlement Brut en Temps Réel de Gros Montants et Paiements Urgents,other,,BCRG,,2025-01-01-bcrg-cadre-reglementaire-systemes-paiement
 GIN,ACH,Chambre de compensation automatisée,other,,BCRG,,2025-01-01-bcrg-cadre-reglementaire-systemes-paiement
-GIN,NimbaPay,NimbaPay,,Mojaloop,Central Bank of the Republic of Guinea (BCRG),"banks, electronic money operators, other financial institutions",2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
-GIN,Nimba Pay,Nimba Pay,,,BCRG,"banks, e-money establishments, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
-GIN,NimbaPay,NimbaPay,,,Guinéenne de la Monétique (GuiM) under the BCRG,"banks, e-money establishments, microfinance institutions",2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
+GIN,NimbaPay,NimbaPay,other,Mojaloop,Central Bank of the Republic of Guinea (BCRG),"banks, electronic money operators, other financial institutions",2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
+GIN,Nimba Pay,Nimba Pay,other,,BCRG,"banks, e-money establishments, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
+GIN,NimbaPay,NimbaPay,other,,Guinéenne de la Monétique (GuiM) under the BCRG,"banks, e-money establishments, microfinance institutions",2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
 GMB,GAMSWITCH,GAMSWITCH,other,,Central Bank of The Gambia,commercial banks and service providers,2013-07-11-cbg-pricing-policy-electronic-payment-settlement-credit-reference-systems
 GNB,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),PI-SPI,other,,BCEAO,"banks, e-money issuers, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 GNB,PI-SPI (Plateforme interopérable du Système de paiement instantané),PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
@@ -72,12 +72,12 @@ GNQ,Muni Dinero,Muni Dinero,other,mobile app,,,2025-05-27-plan-nacional-cajeros-
 GNQ,GIMACPAY,GIMACPAY,other,,GIMAC,"banks, microfinance institutions, payment institutions, aggregators",2026-08-01-leconomie-paiement-marchand-interoperable-cemac-premier-trimestre-2026
 GNQ,GIMACPAY,GIMACPAY,other,,GIMAC,"banks, microfinance, mobile money",2026-07-30-cemac-gimac-norme-qr-code-interoperable
 KEN,M-Pesa,M-PESA,other,,Safaricom,,2026-08-02-safaricom-mpesa-merchant-fee-cuts-cbk
-LBR,Pay Na-Na,Pay Na-Na,,,Central Bank of Liberia,,2024-01-01 Liberia Mobile Money Regulations (Central Bank of Liberia)
+LBR,Pay Na-Na,Pay Na-Na,other,,Central Bank of Liberia,,2024-01-01 Liberia Mobile Money Regulations (Central Bank of Liberia)
 LBY,LYPay,LYPay instant payment system,other,,Central Bank of Libya,"commercial banks (banking apps, QR code at point of sale)",2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald
 MAR,Switch Al Maghrib,Switch Al Maghrib,other,,Switch Al Maghrib,banks and payment institutions,2026-09-27-mar-instant-payment-mfc-talks
 MAR,Fatourati,Fatourati,other,,Centre Monétique Interbancaire (CMI),32 banks and payment institutions; fintechs and invoicing-software publishers via Fatourati Agrégateur,2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs
-MAR,CMI (Centre Monétique Interbancaire),CMI,,,banks (shareholders),"payment establishments and banks as acquirers, on equitable access to the technical processing platform",2026-07-10-morocco-communique-conjoint-interchange-cap
-MAR,CMI (Centre Monétique Interbancaire),CMI,,,banks (shareholders),multi-acquirer technical platform for payment establishments,2025-10-31-morocco-communique-cmi-desengagement
+MAR,CMI (Centre Monétique Interbancaire),CMI,other,,banks (shareholders),"payment establishments and banks as acquirers, on equitable access to the technical processing platform",2026-07-10-morocco-communique-conjoint-interchange-cap
+MAR,CMI (Centre Monétique Interbancaire),CMI,other,,banks (shareholders),multi-acquirer technical platform for payment establishments,2025-10-31-morocco-communique-cmi-desengagement
 MDG,eAriary,eAriary,other,eCurrency DSC3 (with PayLogic SA),Banky Foiben'i Madagasikara (BFM),"commercial banks, e-money providers, microfinance institutions and fintech companies distribute to the public",2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire
 MDG,e-Ariary,e-Ariary,other,,Banky Foibem-pirenena Madagasikara,"commercial banks, microfinance institutions, Jirama, market vendors, Treasury, tax administration (pilot participants)","2025-05-28 Madagascar Tests e-Ariary, Its Central Bank Digital Currency, to Modernize Payments"
 MLI,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,banks; e-money institutions; payment institutions; microfinance institutions,2026-06-25-bceao-pi-spi-prolongation-delai-communique-web
@@ -101,8 +101,8 @@ SDN,USSD mobile financial services,خدمة الرموز التفاعلية USSD
 SDN,central national switch,المحول القومي المركزي,other,,,,2026-03-31-cbos-ussd-financial-services-regulations
 SEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, microfinance institutions, payment institutions",2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI SPI,other,,BCEAO,"banks, e-money institutions, microfinance institutions, payment institutions",2026-09-23-sen-seneweb-mobile-money-paiement-establishments
-SEN,Orange Money,Orange Money,,,,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
-SEN,Wave,Wave,,,,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Orange Money,Orange Money,other,,,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
+SEN,Wave,Wave,other,,,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Wave Mobile Money,Wave,other,,Wave Digital Finance,,2022-04-21-wave-emoney-license-bceao
 SEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 SEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises

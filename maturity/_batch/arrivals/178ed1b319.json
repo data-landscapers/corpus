@@ -1,0 +1,23 @@
+{
+ "slug": "2024-02-01-ssd-imf-hls-strengthening-budget-execution",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "South Sudan IFMIS",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance and Planning",
+       "tiers": ""
+      }
+     ],
+     "note": "IMF says the IFMIS has modules but is underused and payments are paper-based; it does not state the system is in use across central government."
+    }
+   }
+  }
+ }
+}

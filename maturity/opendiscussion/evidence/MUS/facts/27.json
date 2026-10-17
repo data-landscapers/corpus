@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-07-mus-hrw-ends-social-media-ban-elections",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Human Rights Watch says that on 1 November 2024 the Mauritius communications authority directed internet service providers to suspend access to all social media platforms until after the 10 November elections, and the government rescinded the ban a day later.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "social media suspension",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Human Rights Watch says the social media ban drew swift and widespread outcry from the business community, civil society and opposition politicians inside Mauritius.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "social media suspension",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

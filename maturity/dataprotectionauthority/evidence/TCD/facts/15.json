@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-tcd-thomasd-transfert-international-donnees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Cabinet Thomas Dingamgoto analysis says Loi n°007/PR/2015 gives ANSICE the formalities for data transfers, while the agency's operational effectiveness is not documented.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "ANSICE",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

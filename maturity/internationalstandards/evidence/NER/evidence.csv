@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,international,standing,member,"ISO lists the Agence Nigérienne de Normalisation, de Métrologie et de Certification as a correspondent member.",2026,year,ANMC,adoption,2026-01-01-ner-iso-anmc-member,https://www.iso.org/member/326615.html

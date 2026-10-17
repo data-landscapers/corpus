@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "4",
-   "money": "committed",
-   "home": "raised",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-020;EGY-013;EGY-004;EGY-014",
-   "gaps": "No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "4",
+      "money": "committed",
+      "home": "raised",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-020;EGY-013;EGY-004;EGY-014",
+      "gaps": "No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.",
+      "note": "Counted from the four questions by study-ladder-nonstatefinance.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

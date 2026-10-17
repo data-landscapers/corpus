@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-lso-qualisys-glea-egif-development",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Qualisys Consulting says it is supporting Lesotho's Ministry of Information, Communications, Science, Technology and Innovation in developing the e-Government Interoperability Framework (eGIF) alongside a Government Enterprise Architecture (GLEA).",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "e-Government Interoperability Framework (eGIF)",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Enterprise Architecture (GLEA)",
+   "country_label": "GLEA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information, Communications, Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

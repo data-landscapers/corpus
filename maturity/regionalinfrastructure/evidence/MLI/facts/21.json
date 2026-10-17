@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "In June 2024 Mali's SMTD and Guinea's SOGEB agreed to interconnect the two countries' fibre networks.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "SOGEB-SMTD fibre interconnection",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

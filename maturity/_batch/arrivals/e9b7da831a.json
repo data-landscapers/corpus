@@ -1,0 +1,45 @@
+{
+ "slug": "2026-01-01-syc-iso-sbs-member",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Seychelles Bureau of Standards as an ISO member, observing 21 technical committees and 3 policy development committees; the class of membership is not stated.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Seychelles Bureau of Standards",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "The Seychelles Bureau of Standards was established as a government agency under the SBS Act 1987 and is to develop, declare and promote Seychelles Standards; no information technology standard is named.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Seychelles Bureau of Standards",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

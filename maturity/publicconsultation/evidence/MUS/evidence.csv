@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,consultation,hearing,answered,"The Information and Communication Technologies Authority lists a published ""Response to Consultation Paper on making available additional Spectrum for IMT"" dated 7 November 2024, following its consultation paper of 23 August 2024.",2024-11-07,day,ICTA public consultations register,consultation,2024-11-07-mus-icta-public-consultations,https://www.icta.mu/public-consultations/

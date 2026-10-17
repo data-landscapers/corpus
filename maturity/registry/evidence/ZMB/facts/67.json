@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-28-zmb-dailynation-govt-digitises-nrcs",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:79",
+   "fact": "INRIS has been rolled out in 79 districts, with all city and municipal councils covered and some district councils pending, per the INRIS deputy project manager.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "INRIS",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

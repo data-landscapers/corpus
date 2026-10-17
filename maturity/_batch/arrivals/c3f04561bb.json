@@ -1,0 +1,7 @@
+{"slug": "2024-08-26-dji-douanes-site-de-secours-datacenter", "studies": {
+"datacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Customs only plans a new DataCenter as a roadmap milestone; no data centre for hire or cloud region is stated."}}},
+"dataprotectionlaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The document says nothing about data protection law."}}},
+"nationaldatacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Only a planned customs data centre, used by the customs administration itself; nothing for hire or in service is stated."}}},
+"offsitebackup": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The backup site is stated only as the roadmap's last milestone to install, not in service, and no place is named."}}},
+"schoolinternet": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The document says nothing about schools."}}}
+}}

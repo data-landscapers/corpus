@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "An ATPE opinion piece says births are registered digitally through TASDJIL at a hospital desk at Koukou Angarana, and a one-stop desk at Bol provincial hospital registers children born in the maternity.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "TASDJIL",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "An ATPE opinion piece describes digital birth registration at one hospital desk, Koukou Angarana, and a one-stop desk at Bol, as experiences that must now change scale.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "TASDJIL",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TASDJIL",
+   "country_label": "Chad",
+   "class": "civil",
+   "platform": "TASDJIL",
+   "owner": "Technidev and ANATS",
+   "tiers": "hospital desk"
+  }
+ ],
+ "note": ""
+}

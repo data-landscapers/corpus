@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-egy-iec-members-egypt",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The IEC members page lists Egypt as an IEC Full Member, with participating status on some technical committees and observer status on others.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Egypt IEC national committee",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

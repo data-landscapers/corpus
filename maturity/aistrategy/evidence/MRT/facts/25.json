@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-mrt-ecofin-telecom-quality-are-inspection",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Ecofin Agency states Mauritania has a national artificial intelligence strategy for 2025-2029 providing for applications in healthcare, education, agriculture and transportation.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "national artificial intelligence strategy 2025-2029",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

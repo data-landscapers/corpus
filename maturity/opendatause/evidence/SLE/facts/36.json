@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-06-sle-statssl-proactive-publication-scheme",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "Open Data Sierra Leone data portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Sierra Leone Data Portal",
+   "country_label": "Open Data Sierra Leone (www.statistics.sl)",
+   "class": "open",
+   "platform": "",
+   "owner": "Statistics Sierra Leone",
+   "tiers": "unrestricted and restricted datasets"
+  }
+ ],
+ "note": ""
+}

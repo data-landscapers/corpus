@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-29-nga-npc-first-lady-birth-certificate-nin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-CRVS",
+   "country_label": "national digital Civil Registration and Vital Statistics (e-CRVS)",
+   "class": "civil",
+   "platform": "Barnksforte Technologies Limited (technical partner)",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a symbolic electronic registration at a launch event; no office-level digital entry stated."
+}

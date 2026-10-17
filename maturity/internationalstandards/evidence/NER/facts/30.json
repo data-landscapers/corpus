@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ner-iso-anmc-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO lists the Agence Nigérienne de Normalisation, de Métrologie et de Certification as a correspondent member.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ANMC",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

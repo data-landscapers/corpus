@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source held names a body set up or named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-003;ZAF-001",
+      "gaps": "No source held names a body set up or named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit.",
+      "note": "Counted from the four questions by study-ladder-datagovernance.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

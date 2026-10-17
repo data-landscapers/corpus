@@ -1,8 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 DZA,Projet de loi fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique,projet de loi sur les services de confiance numériques,other,,Ministère de la Poste et des Télécommunications,,2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid
 DZA,ANCE,ANCE (autorité de certification électronique),other,,public body proposed by the draft law,,2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid
-DZA,Biometric ID card system,biometric national ID card,,,,,2025-11-10-digital-id-trust-services-draft-law--biometricupdate
-DZA,National digital identification system,national digital identification system,,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
-DZA,Biometric national ID card,biometric national ID card,,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
-DZA,National digital identification framework,national digital identification framework,,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
-DZA,Biometric identity card,biometric identity card,,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
+DZA,Biometric ID card system,biometric national ID card,other,,,,2025-11-10-digital-id-trust-services-draft-law--biometricupdate
+DZA,National digital identification system,national digital identification system,other,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
+DZA,Biometric national ID card,biometric national ID card,other,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
+DZA,National digital identification framework,national digital identification framework,other,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
+DZA,Biometric identity card,biometric identity card,other,,,,2025-11-04-digital-trust-e-transactions-law--wearetech

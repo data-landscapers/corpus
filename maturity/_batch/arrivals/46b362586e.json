@@ -1,0 +1,15 @@
+{"slug":"2026-05-01-mdg-undp-biometric-enrolment-nui","studies":{
+"authentication":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No link between civil register and ID system stated."}}},
+"civilregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No digital civil register stated; CNECI is named only for the legal framework."}}},
+"digitalidlaw":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No identity law or bill stated."}}},
+"disabilityaccess":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Awareness campaign for people with disabilities only; no accessible service or rule stated."}}},
+"idcoverage":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only a target of 2 million by June 2026 and 12 to 13 million eventually; no count enrolled."}}},
+"idfrombirth":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No operator or ownership stated beyond a World Bank-funded technical infrastructure."}}},
+"idregisters":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The number is meant to become a reference for public services, but no register keyed on it is stated."}}},
+"idrobustness":{"countries":{"MDG":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"UNDP says Madagascar has rolled out a national biometric enrolment programme since 3 April 2026, after a pilot from 27 January 2026 in the 26 communes of Antananarivo Atsimondrano, to give each citizen a unique identification number, with 2 million people targeted by June 2026.","as_of":"2026-04-03","date_precision":"day","system":"programme d'enrolement biometrique (PRODIGY)","class":"idsystem"}],"systems":[{"system":"National biometric enrolment programme / unique identification number","country_label":"Madagascar","class":"idsystem","platform":"PRODIGY (World Bank-funded)","owner":"CNECI","tiers":""}],"note":""}}},
+"localgov":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No local government office connection stated."}}},
+"refugees":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No refugees or displaced people mentioned."}}},
+"registry":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No digital entry of births or deaths at registration offices stated."}}}
+}}

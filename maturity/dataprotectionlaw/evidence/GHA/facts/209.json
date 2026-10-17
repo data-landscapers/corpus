@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-14-gna-ghana-dpc-flags-six-companies-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commission is acting under the Data Protection Act, conducting compliance checks and enforcement, as its Director of Regulatory and Compliance said.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Commission said the week-long exercise was conducted under Section 81 of the Data Protection Act, with Section 53 prohibiting processing without registration and Section 58 requiring a data protection supervisor.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The Commission cited six named companies for operating unregistered or with expired certificates and directed them to report to the CID and the Commission by 15 October 2026.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

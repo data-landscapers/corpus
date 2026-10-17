@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-05-gab-ecofin-pozi-first-foreign-vc-deal",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Ecofin Agency reports Gabonese fleet-management startup POZI announced on 3 October 2025 a EUR 650,000 funding round led by Saviu Ventures with Emsy Capital and Chazai Wamba taking part.",
+       "as_of": "2025-10-03",
+       "date_precision": "day",
+       "system": "POZI funding round",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No public startup law, label or fund stated; the deal is a private investor round."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park stated."
+    }
+   }
+  }
+ }
+}

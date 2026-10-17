@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-13-eth-addisfortune-e-governance-strategy-consultation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Ministry of Innovation & Technology put its five-year e-governance strategy up for final public consultation the week before 13 July 2024, and the minister says its financing is still pending.",
+   "as_of": "2024-07-13",
+   "date_precision": "day",
+   "system": "Digital Government Strategy",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "plan",
+   "value": "costed",
+   "fact": "Addis Fortune reports the five-year e-governance plan requires a USD 40 million investment, excluding infrastructure costs.",
+   "as_of": "2024-07-13",
+   "date_precision": "day",
+   "system": "Digital Government Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

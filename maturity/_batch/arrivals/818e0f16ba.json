@@ -1,0 +1,186 @@
+{
+ "slug": "2025-08-10-som-sonna-unified-digital-civil-registration-19-districts",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Ministry of Interior, Federal Affairs and Reconciliation says it is working to integrate the digital registration system with other government services including national ID.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Ministry says the Unified Digital Civil Registration Service is operational in 19 districts across five Federal Member States, with plans to expand to all regions and districts.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "The Ministry says the service in those 19 districts registers deaths digitally, with records stored in a central national database.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Digital Civil Registration Service",
+       "country_label": "Unified Digital Civil Registration Service",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior, Federal Affairs and Reconciliation",
+       "tiers": "19 districts, central national database"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The Ministry of Interior, Federal Affairs and Reconciliation announced and runs the Unified Digital Civil Registration Service.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B;D",
+       "fact": "Local administrations in the 19 districts digitally register births and deaths, plus marriages and divorces, per the Ministry.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "civil",
+       "fact": "The Ministry says local administrations register events digitally, with records stored in a central national database.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:19",
+       "fact": "The Ministry says the service is operational in 19 named districts.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Unified Digital Civil Registration Service",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Digital Civil Registration Service",
+       "country_label": "Unified Digital Civil Registration Service",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior, Federal Affairs and Reconciliation",
+       "tiers": "19 districts, central national database"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

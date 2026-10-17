@@ -1,0 +1,27 @@
+{
+ "slug": "2025-02-18-tun-wmc-arcube-levee-216-capital",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Startup Arcube announced a USD 1.5 million (TND 4.7 million) funding round co-led by Tunis-based fund 216 CAPITAL with Fuel Ventures and Oxford Capital Partners.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Arcube",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "The round was co-led by 216 CAPITAL, described as an investment fund based in Tunis and founded there in 2021, so a Tunisian financier is named in the USD 1.5 million round.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "216 CAPITAL",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

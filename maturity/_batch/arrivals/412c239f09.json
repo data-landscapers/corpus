@@ -1,0 +1,32 @@
+{
+ "slug": "2025-03-10-gab-gabonmailinfos-gestion-numerique-donnees-scolaires",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Yearbooks are said to have been produced with World Bank support, but no publication or administrative-record source is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says a security framework must be set up; no law stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Tablets and software are pledged and a system is only called necessary; nothing delivered."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{"slug": "2026-01-01-ken-icta-faqs-government-data-centre-dr-konza", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on digital-skills training for civil servants."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Government Data Centre", "country_label": "Government Data Centre", "class": "other", "platform": "", "owner": "ICT Authority / Government of Kenya", "tiers": "tier-2"}], "note": "Government data centre is not stated to rent to outside organisations; Tier 2 only."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only ICT literacy for citizens named, no programme or count stated."}}},
+"digitalsovereignty": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Government data centre named but hosting of state data or systems is not stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ICT Authority Kenya says its Applications Department provides one-stop-shop platforms for government services to citizens and businesses.", "as_of": "2026", "date_precision": "year", "system": "ICT Authority e-government platforms", "class": "eservices"}], "systems": [], "note": ""}}},
+"fibrebackbone": {"countries": {"KEN": {"facts": [], "systems": [], "note": "National Optic Fibre Backbone named only as a managed project; no contract, works or service stated."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government.", "as_of": "2026", "date_precision": "year", "system": "ICT Authority", "class": "staff"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Government Data Centre is not stated to be for hire."}}},
+"offsitebackup": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Disaster recovery at Konza is named but the main site's place is not, so distance is not shown."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "School connectivity mentioned with no figure."}}},
+"techhubs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no hub, incubator or park in service."}}}
+}}

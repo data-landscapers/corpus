@@ -1,0 +1,81 @@
+{
+ "slug": "2024-08-31-lby-libyaobserver-gnu-prepares-population-census",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "The Libya Observer reports the Government of National Unity reviewed progress on the seventh national population census, the first since 2006, with Libya divided into census areas and preparations said to be on track per the approved schedule.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "Seventh national population census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Seventh national population census",
+       "country_label": "Libya census 2024 (in preparation)",
+       "class": "census",
+       "platform": "",
+       "owner": "Statistics and Census Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil Status Authority is named only as a collaborator on the census; no digital registration stated."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Libya Observer reports the GNU meeting addressed a committee's findings on reviewing and updating the 1963 Statistics and Census Law, to improve the Statistics and Census Authority's operations.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "1963 Statistics and Census Law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

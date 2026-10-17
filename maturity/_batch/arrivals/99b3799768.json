@@ -1,0 +1,207 @@
+{
+ "slug": "2024-02-05-lbr-newspublictrust-nir-mobile-teams",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Payroll and TIN interfaces are described, not an authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Enrolment at birth is into a new child system; no link to the civil register is stated."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The document cites the LISGIS 2022 census for the under-20 population share.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "LISGIS census 2022",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a payroll audit interface is mentioned, not a core system in use."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a presidential pledge to feed the elections commission; no register stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The NIR says 700,000 people (13.46% of 5.2 million) are enrolled in the NBIS.",
+       "as_of": "2024-02-05",
+       "date_precision": "day",
+       "system": "National Biometric Identification System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System",
+       "country_label": "NBIS",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The NIR launched Enrolment at Birth on 16 September 2023 to enrol over 500,000 children aged 0-5 into the National Childbirth Enrolment System, which is still being developed.",
+       "as_of": "2023-09-16",
+       "date_precision": "day",
+       "system": "National Childbirth Enrolment System",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Liberia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The NIR and the finance ministry built an interface to audit the government payroll against the registry as new employees join, shared with the audit and civil service agencies.",
+       "as_of": "2024-02-05",
+       "date_precision": "day",
+       "system": "National Biometric Identification System",
+       "class": "register"
+      },
+      {
+       "sub_indicator": "registers",
+       "aspect": "matching",
+       "value": "reported",
+       "fact": "The NIR says a 2018 payroll cleanup using registry attributes found only 60,000 of about 80,000 payroll names showed up.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "National Biometric Identification System",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System",
+       "country_label": "NBIS",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NIR runs the NBIS, enrolling 700,000 people with biometric data and issuing cards with a unique number.",
+       "as_of": "2024-02-05",
+       "date_precision": "day",
+       "system": "National Biometric Identification System",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Biometric Identification System",
+       "country_label": "NBIS",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "nationalid",
+       "value": "linked",
+       "fact": "The NIR says its API connects the Liberia Revenue Authority with new taxpayers wanting a TIN.",
+       "as_of": "2024-02-05",
+       "date_precision": "day",
+       "system": "NIR API to LRA",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

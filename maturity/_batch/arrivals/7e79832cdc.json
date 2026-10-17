@@ -1,0 +1,14 @@
+{"slug":"2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa","studies":{
+"datacentrepower":{"countries":{"COD":{"facts":[],"systems":[{"system":"OADC Texaf Digital-Kinshasa","country_label":"RDC","class":"datacentre","platform":"","owner":"OADC (WIOCC group) with TEXAF","tiers":"Tier-III"}],"note":"Hydro-powered and called efficient on PUE, but no feed, substation, plant or PUE figure is stated."}}},
+"datacentres":{"countries":{"COD":{"facts":[{"sub_indicator":"datacentre","aspect":"centre","value":"tier3","fact":"Actualite.cd reports OADC Texaf Digital-Kinshasa, a 2 MW carrier-neutral colocation data centre, went into service in August 2024 and is Uptime Institute Tier-III certified.","as_of":"2024-08-14","date_precision":"day","system":"OADC Texaf Digital-Kinshasa","class":"datacentre"}],"systems":[{"system":"OADC Texaf Digital-Kinshasa","country_label":"RDC","class":"datacentre","platform":"","owner":"OADC (WIOCC group) with TEXAF","tiers":"Tier-III"}],"note":""}}},
+"digitalstrategy":{"countries":{"COD":{"facts":[],"systems":[],"note":"Only a passing mention of the president's national digital plan; no standing, text or period stated."}}},
+"exchangepoints":{"countries":{"COD":{"facts":[],"systems":[],"note":"Peering ecosystem described as intended; no exchange point stated in service."}}},
+"fibrebackbone":{"countries":{"COD":{"facts":[],"systems":[],"note":"No national backbone stated."}}},
+"idrobustness":{"countries":{"COD":{"facts":[],"systems":[],"note":"Identification is named only as a possible service."}}},
+"internationalbandwidth":{"countries":{"COD":{"facts":[],"systems":[],"note":"2Africa is said to have landed at Moanda but is not stated in service."}}},
+"internationalstandards":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on standards bodies or adopted standards."}}},
+"nationaldatacentres":{"countries":{"COD":{"facts":[],"systems":[{"system":"OADC Texaf Digital-Kinshasa","country_label":"RDC","class":"datacentre","platform":"","owner":"OADC (WIOCC group) with TEXAF","tiers":"Tier-III"}],"note":"Ownership split between OADC and TEXAF not stated, so national ownership is not settled."}}},
+"qualitystandards":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on a national standards body; the Uptime certificate is a foreign certification."}}},
+"startups":{"countries":{"COD":{"facts":[],"systems":[],"note":"No startup law or fund stated."}}},
+"techhubs":{"countries":{"COD":{"facts":[],"systems":[],"note":"Silikin Village is called a digital hub but no programme or tenants are stated."}}}
+}}

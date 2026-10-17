@@ -13,3 +13,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,TUN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,2,TUN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,ZMB,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,ZWE,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,ZWE-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-17,COM,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,3,3,COM-002;COM-001,Arrivals added COM-002; COM-003; stage unchanged.
+2026-10-17,SOM,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,no evidence,1,SOM-001,Arrivals added SOM-001; stage no evidence -> 1.

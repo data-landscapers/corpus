@@ -1,0 +1,47 @@
+{
+ "slug": "2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Cyber and Data Protection Act is reported as being applied against journalists, with 2024 data protection guidelines being aligned to it.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "none",
+   "fact": "The parliamentary committee's member says the Malabo Convention is still 'in the pipeline' and the minister told Parliament it will come for ratification, with no date.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "POTRAZ is the existing regulator doing the data protection job, including training data protection officers.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Data protection officers must register and POTRAZ trains them, and POTRAZ held an October 2025 workshop with the committee to align its 2024 data protection guidelines with the Act.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

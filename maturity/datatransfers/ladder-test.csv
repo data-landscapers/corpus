@@ -2,18 +2,18 @@ iso3,stage,standing,use,stage_sources
 AGO,5,in-force,applied,AGO-005;AGO-001
 BDI,no evidence,,,
 BEN,no evidence,,,
-BFA,no evidence,,,
+BFA,4,in-force,means,BFA-003;BFA-002
 BWA,4,in-force,means,BWA-001;BWA-002
-CAF,no evidence,,,
+CAF,3,in-force,,CAF-001
 CIV,3,in-force,,CIV-001
-CMR,no evidence,,,
+CMR,3,in-force,,CMR-001
 COD,3,in-force,,COD-001
 COG,no evidence,,,
 COM,3,in-force,,COM-001
 CPV,3,in-force,,CPV-001;CPV-002
 DJI,3,in-force,,DJI-001
 DZA,3,in-force,,DZA-002;DZA-001
-EGY,no evidence,,,
+EGY,3,in-force,,EGY-001;EGY-002
 ERI,1,none,,ERI-002
 ETH,5,in-force,applied,ETH-001;ETH-002
 GAB,no evidence,,,
@@ -36,16 +36,16 @@ MWI,3,in-force,,MWI-005;MWI-002
 NAM,1,none,,NAM-001
 NER,no evidence,,,
 NGA,3,in-force,,NGA-001;NGA-002
-RWA,no evidence,,,
+RWA,4,in-force,means,RWA-002;RWA-001
 SDN,1,none,,SDN-001
 SEN,3,in-force,,SEN-001
 SLE,3,in-force,,SLE-001
 SOM,3,in-force,,SOM-001
 SSD,no evidence,,,
 STP,3,in-force,,STP-001;STP-002
-SWZ,no evidence,,,
+SWZ,4,in-force,means,SWZ-002;SWZ-001
 SYC,3,in-force,,SYC-002;SYC-001
-TCD,no evidence,,,
+TCD,3,in-force,,TCD-001
 TGO,no evidence,,,
 TUN,4,in-force,means,TUN-002;TUN-001
 TZA,3,in-force,,TZA-003;TZA-002

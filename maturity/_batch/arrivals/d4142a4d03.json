@@ -1,0 +1,207 @@
+{
+ "slug": "2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+       "as_of": "2024-06-14",
+       "date_precision": "day",
+       "system": "existing submarine cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministers adopted a principle and set deadlines; no signed agreement or works stated."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A shared cable project meeting; shared cables are held by the infrastructure row."
+    }
+   }
+  }
+ }
+}

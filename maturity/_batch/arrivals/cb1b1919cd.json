@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion column describes the National Data Centre hosting government cloud but names no hosting policy."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Backbone connects government sites; no local government office stated."
+    }
+   }
+  }
+ }
+}

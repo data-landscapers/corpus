@@ -2,7 +2,7 @@
 
 ## Data protection system
 
-**Law in force.** [Data Protection Africa states](<https://dataprotection.africa/central-african-republic>) in its factsheet of 28 January 2026 that the Central African Republic has a data protection law in place. The [promulgated text of Loi n° 24.001](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>), adopted in January 2024, gives no commencement date and no compliance period.
+**Law in force.** [Data Protection Africa states](<https://dataprotection.africa/central-african-republic>) in its factsheet of 28 January 2026 that the Central African Republic has a data protection law in place. The [promulgated text of Loi n° 24.001](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>), adopted in January 2024, gives no commencement date and no compliance period. Jurist Zengue [writes in September 2025](<https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html>) that the law is promulgated and applied, with a compliance period running and no suspension of its execution.
 
 **Malabo Convention.** The [African Union's status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records no signature and no ratification of the Convention by the Central African Republic.
 

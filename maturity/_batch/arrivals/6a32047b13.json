@@ -1,0 +1,118 @@
+{
+ "slug": "2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No exchange point mentioned."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on a Kenyan national backbone."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "Minister Silaa says the National Optic Fibre Cable network spans 13,820 km and covers 109 districts, with the remaining 30 districts planned this financial year.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "National Optic Fibre Cable (NOFBI)",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Optic Fibre Cable (NOFBI)",
+       "country_label": "Tanzania",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "TTCL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Kenya's own international routes are not stated."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "independent",
+       "fact": "The Horohoro redundancy route launched with Kenya gives Tanzania a land path to eight undersea cables via Kenya, alongside its three marine cable connections in Dar es Salaam, per Minister Silaa.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "Horohoro redundancy route",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet user share stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "Tanzania and Kenya officially launched the redundancy route of the National Optic Fibre Cable network at the Horohoro border post, which TTCL says runs at 1.6 Tbps and which several unnamed Kenyan companies have started using.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "Horohoro redundancy route",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "Tanzania and Kenya officially launched the redundancy route of the National Optic Fibre Cable network at the Horohoro border post, which TTCL says runs at 1.6 Tbps and which several unnamed Kenyan companies have started using.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "Horohoro redundancy route",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

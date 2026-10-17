@@ -1,0 +1,411 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The ID4Africa deck says Tunisia's Mobile ID, in service since August 2022, lets citizens authenticate reliably to access online services, linking the unique citizen identifier, a mobile number and an electronic certificate.",
+       "as_of": "2022-08",
+       "date_precision": "month",
+       "system": "Mobile ID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The deck says services using the unique citizen identifier and Mobile ID include online school enrolment, the education portal, the citizen services portal, online civil status extracts and the vehicle e-contract.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Mobile ID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "The deck says Mobile ID, in service since August 2022, is a digital identity on the mobile phone tying the identifier, phone number, electronic certificate and an electronic wallet.",
+       "as_of": "2022-08",
+       "date_precision": "month",
+       "system": "Mobile ID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile ID",
+       "country_label": "Tunisia",
+       "class": "authentication",
+       "platform": "mobile phone",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The deck says the 11-digit unique citizen number is assigned at birth or on acquiring Tunisian nationality, and shows the IUC system drawing on the civil status system Madania.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "IUC system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Identifiant Unique Citoyen (IUC) register",
+       "country_label": "Tunisia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Madania",
+       "country_label": "Tunisia",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "The deck says Tunisia has had a centralised national civil status management system since 2004, shown as the information system Madania, and lists its overhaul as part of the strategy.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Madania",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Madania",
+       "country_label": "Tunisia",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "The deck lists setting up a national interoperability system on the Estonian X-Road model, and shows a National Interoperability Platform operated by the Centre National Informatique linking sector systems to the IUC.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Plateforme Nationale d'Interopérabilité",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plateforme Nationale d'Interopérabilité",
+       "country_label": "Tunisia",
+       "class": "exchange",
+       "platform": "X-Road model",
+       "owner": "Centre National Informatique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck only shows the data protection authority in a governance diagram, without stating its appointment or law."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The deck says services using the IUC and Mobile ID include fully online school enrolment, the education and citizen service portals, online civil status extracts and an e-contract for vehicle ownership transfer.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "e-bawaba",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-bawaba",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck gives no count or share of people holding the ID."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The deck says the 11-digit non-significant unique number, set up by decree-law of 12 May 2020, is assigned at birth or on obtaining Tunisian nationality.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "IUC",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Identifiant Unique Citoyen (IUC) register",
+       "country_label": "Tunisia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck names the Ministry of the Interior's management unit but says nothing on who maintains or owns the platform."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The deck says the move from sectoral identifiers (social, education, health) to the new IUC is done through a central correspondence table.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "IUC",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Identifiant Unique Citoyen (IUC) register",
+       "country_label": "Tunisia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The deck presents the IUC register as Tunisia's national unique citizen identifier system under the Ministry of the Interior, used by services with Mobile ID.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "IUC register",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Identifiant Unique Citoyen (IUC) register",
+       "country_label": "Tunisia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck mentions a new legal framework without naming a data sharing law or decree."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The deck lists land property among sectors with generalised information systems, which remain siloed.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "land property information system",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck does not say whether local offices enter events digitally."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Tunisia."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck mentions only online school enrolment and a pupil identifier, not learner records kept at schools."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck names only a social identifier, not a social registry."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The deck names a tax identifier only, not a computerised register."
+    }
+   }
+  }
+ }
+}

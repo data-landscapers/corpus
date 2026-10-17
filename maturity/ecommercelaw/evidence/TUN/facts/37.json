@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The playbook says law 2000-83 recognises the value of the electronic signature where it meets the legal requirements.",
+   "as_of": "2000",
+   "date_precision": "year",
+   "system": "Loi 2000-83",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The playbook says decrees of 2000-2001 organise certification, the conditions for accrediting certification service providers and the technical specifications.",
+   "as_of": "2001",
+   "date_precision": "year",
+   "system": "Decrees of 2000-2001 on certification",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

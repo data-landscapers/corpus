@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-13-gab-infosgabon-frontiere-ere-des-donnees",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers an airport passenger-data system and states nothing about a data protection law."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no rule on sending data abroad."
+    }
+   }
+  }
+ }
+}

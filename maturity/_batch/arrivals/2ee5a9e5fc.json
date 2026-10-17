@@ -1,0 +1,174 @@
+{
+ "slug": "2026-10-15-as-cbn-begins-data-migration-local-hosting",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "ThisDay reports Open Access Data Centres CEO Ayotunde Coker saying banks and financial services companies are OADC's clients and that it can host more data in its facilities.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Open Access Data Centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Access Data Centres",
+       "country_label": "Open Access Data Centres",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The CBN circular of 15 June 2026 requires payments transaction data generated in Nigeria to be stored and managed in Nigeria, with full compliance due 1 January 2027, per CBN's Payments Systems Supervision Department.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "CBN circular of June 15, 2026",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "enforcer",
+       "fact": "The CBN's Payments Systems Supervision Department says CBN will begin enforcement and review compliance with the circular from 1 January 2027.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "CBN circular of June 15, 2026",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "CBN's Babatunde Ajiboye says the CBN itself hosts some sensitive payments data outside Nigeria and has begun migrating it back to be hosted locally.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "CBN payments transaction data migration",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

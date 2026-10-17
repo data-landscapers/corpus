@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Zimbabwe's Cyber and Data Protection Act, introduced about two years ago, is described by panellists as in use, with four journalists reportedly arrested in 2026 on cyberbullying charges.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ acts as the regulator under the Act, training data protection officers and receiving the parliamentary committee's concerns.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act",
+   "country_label": "Zimbabwe",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

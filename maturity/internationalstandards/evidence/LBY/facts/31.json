@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-lby-iso-lncsm-member-page",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Libyan National Centre for Standardization and Metrology as Libya's ISO member body.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "LNCSM",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

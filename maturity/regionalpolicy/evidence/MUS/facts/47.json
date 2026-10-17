@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Bank of Mauritius Governor says the Bank serves as settlement bank for COMESA's Regional Payment and Settlement System (REPSS).",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "REPSS",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Bank of Mauritius Governor says the Bank acts as settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "REPSS",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REPSS",
+   "country_label": "Mauritius",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "COMESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

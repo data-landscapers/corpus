@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 16 |
-| 2 Nascent | 19 |
+| 3 Established | 17 |
+| 2 Nascent | 18 |
 | 1 Absent | 2 |
 | Unplaced | 4 |
 | No evidence | 11 |
@@ -120,6 +120,12 @@ Rwanda approved a national data sharing policy for public institutions in May 20
 
 - The New Times reports that Rwanda approved its National Data Sharing Policy in May 2025 to provide a framework for data exchange between public institutions, with safeguards on privacy and access to restricted data ([source, 2025-05](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister)).
 
+### Sao Tome and Principe: 3 Established
+
+Sao Tome and Principe's regulations list names an interoperability law from 2024; who enforces it and which bodies follow it is not known.
+
+- INIC's regulations list names "Lei 1/2024 Quadro Nacional de Interoperabilidade" among its regulations, alongside a separate Quadro Nacional de Interoperabilidade marked as under discussion; the law's text is not posted ([source, 2024](https://inic.gov.st/regulamentacao.php)).
+
 ### Tanzania: 3 Established
 
 Tanzania's e-government agency approved an interoperability framework in 2016; whether public institutions must follow it is not known.
@@ -202,9 +208,9 @@ Kenya's ICT Authority has published a government interoperability framework whos
 
 ### Lesotho: 2 Nascent
 
-Lesotho's finance minister said in February 2025 that a government interoperability framework is being developed; whether it is adopted or compulsory is not known.
+Lesotho's finance minister said in February 2025, and a consultancy in March 2026, that a government interoperability framework is being developed; adoption is not known.
 
-- The Minister of Finance and Development Planning told Parliament on 19 February 2025 that the Government of Lesotho Enterprise Architecture and Interoperability Framework is being developed to improve efficiency and avoid fragmented ICT deployment across government ([source, 2025-02-19](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf)).
+- Qualisys Consulting says it is supporting Lesotho's Ministry of Information, Communications, Science, Technology and Innovation in developing the e-Government Interoperability Framework (eGIF) alongside a Government Enterprise Architecture (GLEA) ([source, 2026-03-06](https://qualisysconsulting.com/en/blog/news-en-5/advancing-digital-government-in-lesotho-through-enterprise-architecture-and-interoperability-53)).
 
 ### Malawi: 2 Nascent
 
@@ -223,12 +229,6 @@ Mauritania's digital ministry was drafting a framework of public digital service
 Namibia drafted an interoperability framework in 2016 and updated the document in 2021-2022; nothing says the government adopted it.
 
 - Cybernetica states that in its 2021-2022 capacity building project for the Office of the Prime Minister it helped Namibia update its interoperability framework document ([source, 2021](https://cyber.ee/resources/case-studies/namibia/)).
-
-### Sao Tome and Principe: 2 Nascent
-
-Sao Tome and Principe published a first draft interoperability framework in 2021; an interoperability law was still a bill in 2023.
-
-- The same strategy states that a Lei de Interoperabilidade was at the time a draft bill (Projeto de Lei); no date is given for the draft, so the strategy's 2023-12-15 date is used ([source, 2023-12-15](https://www.ager.st/images/estrategia_cyber_.pdf)).
 
 ### Senegal: 2 Nascent
 

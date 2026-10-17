@@ -1,39 +1,19 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,Digitalised community surveillance (Pandemic Fund project),digitalisation de la surveillance communautaire,single-function,,Ministry of Public Health,"community level, 42 municipalities (planned, 2026-2029)",2026-08-01-pandemic-fund-cmr-2026-record
-CMR,National health information systems,systèmes nationaux d'information sanitaire,,,Ministry of Public Health,,2026-08-01-pandemic-fund-cmr-2026-record
 CMR,DHIS2,National DHIS2,hmis,DHIS2,,entered at district level from clinics' manual compilations; described as scaled nationally,2026-03-31 Africa we have a data problem
 CMR,OpenMRS / GNU Health pilots,,tracker,OpenMRS; GNU Health,,"pilots in specific regions (East, Centre) for HIV and TB",2026-03-31 Africa we have a data problem
 CMR,DAMA electronic registers,DAMA,tracker,,PEPFAR-supported,154 PEPFAR sites,2026-03-31 Africa we have a data problem
-CMR,Système national d'information sanitaire,système national d'information sanitaire,,,Ministère de la Santé Publique,,2026-03-10-leconomie-digital-health-strategic-plan-2026-2030
 CMR,DHIS2,Système National d'Information Sanitaire (DHIS2),hmis,DHIS2,Ministère de la Santé Publique,national territory; aggregate data by district and region; Monthly Activity Reports,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,DHIS2 Tracker,DHIS2 Tracker,tracker,DHIS2 Tracker,Ministère de la Santé Publique and partners,"a few sites, for patient management such as tuberculosis",2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,Dossier Médical Électronique (Bahmni),DME,emr,Bahmni,Ministère de la Santé Publique and partners,about fifty pilot health facilities,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,DAMA,registre DAMA,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,Cameroun Health Coverage,Cameroun Health Coverage,,,Ministère de la Santé Publique and partners,patient enrolment for universal health coverage,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,OpenIMIS,OpenIMIS,,openIMIS,Ministère de la Santé Publique and partners,billing and payment of services under universal health coverage,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,Master Patient Index,Master Patient Index,exchange,,"Ministère de la Santé Publique, partner-financed",,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,DHIS2-BUNEC birth declaration interoperability framework,,exchange,DHIS2,Ministère de la Santé Publique; BUNEC,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,"National registries (patients, health professionals, health facilities, essential medicines)",référentiels nationaux,exchange,,Ministère de la Santé Publique,planned by 2030,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
 CMR,National telemedicine platform,plateforme nationale de télémédecine,enabling,,Ministère de la Santé Publique,not in place; target 70% of facilities from referral to district hospitals by 2029,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,LMIS,LMIS,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,eLMIS,eLMIS,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,VLSM,VLSM,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,TAVADON,TAVADON,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,sTrac,sTrac,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,ePT,ePT,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,IASO,IASO,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,CAHIS,CAHIS,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,COHIS,COHIS,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,SAGE X3 ERP,SAGE X3 ERP,,Sage X3,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,ScanForm,ScanForm,,,,,2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030
-CMR,DHIS2,DHIS2,,DHIS2,,,2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon
 CMR,mHealth software (MK WBC),mHealth,tracker,bespoke web and mobile application by MK WBC,UNICEF Cameroon (commissioned by tender); Ministry of Public Health departments took part in the training,"four integrated health centres (CSI) in four pilot health districts of the South Region: Ebolowa, Meyomessala, Sangmelima, Ambam; use to begin after training of 6-11 October 2025",2025-10-06-mkwbc-mhealth-southern-region-health-centres
 CMR,SmartMobileClinic,SmartMobileClinic (SMC),emr,bespoke mobile application by Mapubi Labs,Mapubi e.V. and Health and Research Organisation Cameroon (HERO),rural health centres and health campaigns in 12 target communities,2025-09-01-smartmobileclinic-telehealth-rural-communities-cameroon
-CMR,openIMIS UHC,openIMIS UHC platform,,openIMIS (HL7 FHIR based),"Ministry of Public Health, with GIZ, Swiss TPH and local firm Y-Note","health financing management (invoicing, payments, verification) in more than 500 health facilities in all 10 regions by April 2024; over 1,200 registered users by mid-2024",2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage
 CMR,CamerHealth,CamerHealth,exchange,,Ministry of Public Health,"separate beneficiary registry for the UHC scheme, interoperable with openIMIS",2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage
-CMR,Metabase,UHC Business Intelligence System,,Metabase,"Ministry of Public Health, introduced by GIZ","dashboards for central, regional and district health offices and health facility teams; deployed November 2023",2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage
 CMR,openHIM,,exchange,OpenHIM,,planned interoperability layer between openIMIS and other applications,2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage
-CMR,DHIS2,district health information system DHIS2,,DHIS2,,,2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage
 CMR,DHIS2,système national de gestion d'informations sanitaires (DHIS 2); Rapport Mensuel d'Activités (RMA),hmis,DHIS2,MINSANTE,aggregate monthly activity reports of all health facilities nationwide,2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022
 CMR,"DHIS2 individual declaration forms (births, deaths, causes of death)","formulaires de déclaration de naissances, de décès et de certification des causes de décès (DHIS 2 EVENT)",tracker,DHIS2 Event,MINSANTE,"health facilities of four pilot regions (Centre, Extrême-Nord, Littoral, Sud), trained in 2022 to key the forms into DHIS2; 21,941 births keyed in 2022; cause-of-death data fed regularly by one facility (CURY)",2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022
 CMR,Electronic transmission of death declarations to civil status centres,transmission électronique,exchange,,MINSANTE; BUNEC,some health facilities in four regions from 2022; paper elsewhere,2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022
@@ -42,7 +22,6 @@ CMR,DHIS2 Cameroun,DHIS2 (District Health Information Software); système d'info
 CMR,MatLook clinical information system (MediBoard),MatLook Project,emr,"MediBoard (open source), with a locally developed billing and cash management module","Yaoundé Central Hospital, with Geneva University Hospitals","outpatient consultations of the gynaecology-obstetrics department of Yaoundé Central Hospital, a national referral hospital; one pilot unit",2023-10-18-cmr-implementing-clinical-information-systems-in-sub-saharan-africa-report
 CMR,Dossier médical électronique (DME),DME,emr,,Ministère de la Santé publique,tried out in about fifty health facilities; not deployed nationally,2023-09-01-cmr-sante-publique-le-gouvernement-en-quete-dune-expertise-etrangere-pour
 CMR,SystmOne,,emr,"SystmOne (The Phoenix Partnership, UK)","The Phoenix Partnership, positioned as supplier",proposed pilot of the electronic medical record at the Yaoundé Gynaeco-Obstetric and Paediatric Hospital and the University Teaching Hospital; not in place,2023-09-01-cmr-sante-publique-le-gouvernement-en-quete-dune-expertise-etrangere-pour
-CMR,Système national intégré de gestion informatique,système national intégré de gestion informatique,,,Ministère de la Santé publique,"ministry target of 70% of health facilities in 2024, described as hypothetical",2023-09-01-cmr-sante-publique-le-gouvernement-en-quete-dune-expertise-etrangere-pour
 CMR,DHIS2,DHIS2; HMIS; monthly activity report (RMA); monthly reporting booklet (MRB),hmis,"DHIS2 (version 2.36.9 in use), hosted by BAO Systems",Ministry of Public Health: Health Information Unit (CIS) and Information Technology Unit (CI),"nationwide; aggregate data entry at facility level; 197 health districts and 6,200 facilities counted",2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,DHIS2-based CHIS,CHIS; community RMA,community,DHIS2,"Ministry of Public Health, Health Information Unit","aggregate community programme designed and piloted; scale-up planned stepwise, with training of over 5,000 community health workers and supervisors",2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,TB tracker,TB case based data tracker,tracker,DHIS2 Tracker,Ministry of Public Health,"configured, not deployed; pilot planned in one region in 2023",2022-04-01-cmr-dhis2-operational-plan-2022-2024
@@ -53,21 +32,9 @@ CMR,Immunization tracker,,tracker,DHIS2 Tracker,Ministry of Public Health,planne
 CMR,Disease surveillance tracker,case-based surveillance (CBS) tracker,tracker,DHIS2 Tracker,Ministry of Public Health,"case line listing with GPS location exists for AFP and cholera; full tracker planned, pilot in 5 districts and points of entry in 2024",2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,NTD tracker,,tracker,DHIS2 Tracker,Ministry of Public Health,planned,2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,eLMIS,eLMIS,single-function,openLMIS,,drug and supply chain management system being set up; interoperability with DHIS2 planned for 2024,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,PBF data system,PBF,,OpenHIM-based data collection tool,,2013 to 2019 data imported into DHIS2 but not used routinely,2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,BAHMNI,BAHMNI (EMR),emr,Bahmni,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,DAMA,DAMA,,,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,VINDATA,VINDATA,,,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,OpenHexa,OpenHexa,,OpenHexa,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,DVD-MT,DVD-MT,,,,parallel immunisation data tool being replaced by the WHO immunization analysis app in DHIS2,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,AEFI ODK tool,,,ODK,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
 CMR,NYSS,NYSS,community,,Red Cross partnership,community-based alerts collected by community health workers,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,Data to care portal,,,,,,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,LabBook,,,LabBook,,named as a possible option for laboratories,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,Supra-DHIS2 data warehouse,,,,Ministry of Public Health,planned,2022-04-01-cmr-dhis2-operational-plan-2022-2024
-CMR,CURY hospital information system,CURY hospital information system,,,Ministry of Public Health,"implemented by the ministry and being tested in 5 hospitals including the Centre des Urgences de Yaoundé; little used there; holds patient identity, arrival, destination service, physician, chief complaint, triage and payment status",2022-03-01-cmr-monitoring-of-characteristics-of-the-patients-visiting-an-emergency-ce
-CMR,CURY Epi Info patient database,,,"Epi Info 7.2, exported to Excel","Centre des Urgences de Yaoundé, with Seoul National University Hospital and KOICA funding","one national emergency centre; 18,875 patients' data for January 2016 to June 2018 keyed by one employed doctor from paper records and three other sources between March 2017 and July 2018",2022-03-01-cmr-monitoring-of-characteristics-of-the-patients-visiting-an-emergency-ce
 CMR,Routine facility reporting system,,hmis,,,public primary care facilities and public hospitals report; electronic aggregate entry at district or comparable level rated partial,2021-03-15-cmr-score-for-health-data-technical-package-assessment-summary-for-cameroo
-CMR,National health data portal,,,,,exists; updated less than annually,2021-03-15-cmr-score-for-health-data-technical-package-assessment-summary-for-cameroo
 CMR,DHIS 2-CIS,DHIS2; SNIS,hmis,DHIS2,"Ministry of Public Health, Health Information Unit (CIS)","scaled up in all districts, about 6,000 facilities; compilation at district, regional and national level",2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,DHIS 2-NACC,,single-function,DHIS2,National AIDS Control Committee,"HIV indicators; scaled up in all districts, about 6,000 facilities",2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,OpenMRS EMR (Bahmni),Bahmni EMR,emr,Bahmni (OpenMRS),ICAP,0 facilities implementing; planning for 10 sites,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
@@ -81,9 +48,4 @@ CMR,SIGLe,SIGLe,single-function,with SAGE 100c at regional funds and CENAME,"Min
 CMR,DHIS2 Tracker,DHIS2 tracker,tracker,DHIS2 Tracker,Ministry of Public Health,"planned: longitudinal follow-up of patients in target programmes and a birth and death declaration module, with user training at 3,000 facilities",2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,Unique patient identification system,CIU (Code Identifiant Unique du Patient),exchange,,Ministry of Public Health,absent; consultant budgeted to implement,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,Public health events notification system,,single-function,,Ministry of Public Health,planned,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
-CMR,UHC information management system,,,,Ministry of Public Health,planned: 50% of health facilities by 2024,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,Telemedicine platform,,enabling,,Ministry of Public Health,planned,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
-CMR,CardioPad,CardioPad,,,,,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
-CMR,GiftedMom,Gifted Mom,,,,,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
-CMR,FUCHIA,FUSCHIA,,,,,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
-CMR,SIH,SIH,,,,,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan

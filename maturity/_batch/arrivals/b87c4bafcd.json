@@ -1,0 +1,8 @@
+{"slug": "2025-07-09-lby-spark-smart-tech-seed-funding", "studies": {
+"digitalskills": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says nothing on a public digital-skills programme or a measured share."}}},
+"gridreliability": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Mentions power cuts only as a story, with no outage count for the grid."}}},
+"refugees": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says the incubator assists displaced people but states no registration or digital access."}}},
+"schoolinternet": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on schools or curriculum."}}},
+"startups": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Libya Startup Programme", "country_label": "Libya Startup Programme", "class": "other", "platform": "", "owner": "European Union, co-implemented by SPARK and Super Novae", "tiers": ""}], "note": "The programme is EU-funded, not a Libyan state law or fund."}}},
+"techhubs": {"countries": {"LBY": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "SPARK states that Silphium Labs, a business incubator founded with Omar Al-Mokhtar University and ION+ under the EU-funded Libya Startup Programme, took in Smart Tech in 2024 and ran a final pitching event in May 2025 awarding 15,000 euro seed funding.", "as_of": "2025-05", "date_precision": "month", "system": "Silphium Labs", "class": "hub"}], "systems": [{"system": "Silphium Labs", "country_label": "Silphium Labs", "class": "hub", "platform": "", "owner": "Omar Al-Mokhtar University, ION+, with SPARK and Super Novae", "tiers": ""}], "note": ""}}}
+}}

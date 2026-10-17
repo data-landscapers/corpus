@@ -1,0 +1,25 @@
+{
+ "slug": "2026-07-03-dji-civicus-lens-silence-authoritarianism",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Exiled journalist Zineb Haddaji tells CIVICUS Lens that opposition and exiled media websites are blocked in Djibouti and social media access is restricted at times of political tension.",
+       "as_of": "2026-07-03",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": "Interviewee's claims, undated; RSF rank ignored."
+    }
+   }
+  }
+ }
+}

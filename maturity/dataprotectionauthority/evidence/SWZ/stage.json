@@ -1,16 +1,17 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "4",
-   "standing": "constituted",
-   "rulings": "ruled",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-006;SWZ-007;SWZ-001",
-   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-006;SWZ-007;SWZ-001",
+      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

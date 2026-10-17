@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-07-gmb-personal-data-protection-and-privacy-act-2025",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025) was assented to by the President on 7 November 2025; the excerpt shows no commencement provision.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act, 2025",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The Act names the Information Commission established under the Access to Information Act as its supervisory Commission, in Part 8.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Information Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

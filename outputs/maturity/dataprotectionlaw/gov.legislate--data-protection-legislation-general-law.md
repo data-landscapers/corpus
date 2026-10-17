@@ -23,9 +23,9 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | 5 Leading | 4 |
 | 4 Operating | 10 |
 | 3 Established | 31 |
-| 2 Nascent | 7 |
+| 2 Nascent | 8 |
 | 1 Absent | 1 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
@@ -117,14 +117,16 @@ Gabon has a 2011 data protection law, last amended in 2023, and its authority fi
 
 ### Ghana: 4 Operating
 
-Ghana has the Data Protection Act of 2012, applied by a court against a company in 2024; whether regulations exist under it is not known.
+Ghana's 2012 Data Protection Act was applied by a court in 2024 and against named companies in 2026; regulations under it are not known.
 
 *Under revision; Advancing.*
 
-- The Ghana News Agency describes the Data Protection Commission as established under, and enforcing, the Data Protection Act, 2012 (Act 843), which the Commission declared its '2026 Year of Enforcement' basis ([source, 2026-08-21](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/)).
-- Circuit Court 2, Adentan, Accra applied the Data Protection Act, 2012 (Act 843) in a judgment of 18 September 2024, treating its sections 17 to 30 and 43 as binding on a data processor ([source, 2024-09-18](https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/)).
+- The Data Protection Commission is enforcing the Data Protection Act, 2012 (Act 843) through spot checks, inspections, complaint investigations and registration verification ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
+- The Commission said the week-long exercise was conducted under Section 81 of the Data Protection Act, with Section 53 prohibiting processing without registration and Section 58 requiring a data protection supervisor ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
+- The Commission cited six named companies for operating unregistered or with expired certificates and directed them to report to the CID and the Commission by 15 October 2026 ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
+- The Data Protection Commission is acting under the Data Protection Act, conducting compliance checks and enforcement, as its Director of Regulatory and Compliance said ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
 - The court found Bolt Holdings OU, a named data processor and controller, in breach of sections 20, 21, 28 and 30 of Act 843 over a driver profile registered with the plaintiff's stolen identity, and awarded GHC1,900,000 compensation under section 43(1) plus GHC20,000 costs ([source, 2024-09-18](https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/)).
-- The Commission is acting under Act 843 with Executive Director Dr Arnold Kavaarpuo, and received two pickup vehicles bought from its internally generated funds on 2026-08-20; it operates only from its head office ([source, 2026-08-20](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/)).
+- Circuit Court 2, Adentan, Accra applied the Data Protection Act, 2012 (Act 843) in a judgment of 18 September 2024, treating its sections 17 to 30 and 43 as binding on a data processor ([source, 2024-09-18](https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/)).
 
 ### Kenya: 4 Operating
 
@@ -132,6 +134,7 @@ Kenya's 2019 Data Protection Act is in force and its commissioner has fined busi
 
 *Advancing.*
 
+- TechTrendsKE reports organisations in Kenya face growing compliance demands under the Data Protection Act, 2019, which requires those handling personal data to put safeguards in place ([source, 2026-10-15](https://techtrendske.co.ke/2026/10/15/dama-kenya-launch-train-10000-data-professionals/)).
 - TechTrends KE describes the Data Protection Act, 2019 as the framework under which the ODPC regulates the processing of personal information, without giving a commencement date; dated by the article's published date ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
 - The Star reports the Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021 are in force under the Act, setting 24-month registration certificates and making processing on an expired certificate an offence ([source, 2026-08-28](https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates)).
 - Cadmus Cyber Solutions states that, as at September 2024, the ODPC had fined at least nine businesses a total of KES 26,275,000 under the Data Protection Act and Regulations, including Oppo Kenya (2022, KES 5m) and SBM Bank (2024, KES 450,000) ([source, 2024-09](https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations)).
@@ -241,10 +244,12 @@ Cabo Verde's 2001 data protection law, last amended in 2021, is in force and cas
 
 ### Central African Republic: 3 Established
 
-A personal data protection law was adopted in 2024; no decision under it is recorded, and its commencement date is not known.
+A personal data protection law was adopted in 2024; no regulation or decision under it is recorded, and its commencement date is not known.
+
+*Regulations pending.*
 
 - Data Protection Africa (ALT Advisory) states in its factsheet that the Central African Republic has a data protection law in place ([source, 2026-01-28](https://dataprotection.africa/central-african-republic)).
-- The promulgated text of Loi n° 24.001 on personal data protection, adopted mid-January 2024, is held; the document gives no commencement date and no compliance period (date is the published date, month precision) ([source, 2024-01](https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf)).
+- The World Bank ISR says activities are being planned to support drafting of the implementing decrees of the enacted data protection law ([source, 2024-12-20](https://documents1.worldbank.org/curated/en/099122024184018568/txt/P1746201172f3b05d1a9d118f1eb4b91506.txt)).
 
 ### Comoros: 3 Established
 
@@ -292,14 +297,18 @@ Djibouti enacted a data protection law in June 2025; no decision under it is rec
 
 ### Egypt: 3 Established
 
-Egypt's personal data protection law dates from 2020; its authority has issued guidance, but whether any decision has been made under it is not known.
+Egypt's 2020 data protection law is in force and its authority opened a licensing portal in 2026; no decision under it is known.
 
 *Advancing.*
 
+- Law No. 151 of 2020 entered into force in October 2020 and its Executive Regulations carry a one-year transitional period expiring 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
 - The essay discusses Egypt's Law 151/2020 as the country's operating personal data protection law whose protections AI-driven biometric and location data collection is outpacing; it gives no date of commencement, so the date used is the document's published date (2025-06-21) ([source, 2025-06-21](https://www.thecairoreview.com/essays/regulating-privacy-and-digital-identities-in-the-age-of-ai-the-view-from-egypt)).
 - Baker McKenzie says the Minister of Telecommunications and Information Technology issued Decree No. 816 of 2025 on 1 November 2025, issuing the Executive Regulations of the PDPL ([source, 2025-11-01](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
 - Access Partnership says Executive Regulations No. 816/2025 under Law No. 151/2020 were issued by Ministerial Decree on 1 November 2025 ([source, 2025-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)).
+- Baker McKenzie says the Personal Data Protection Center (PDPC) officially launched its electronic portal in early October 2026 to receive and process applications for accreditation, licences and permits ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
+- Baker McKenzie says the PDPC portal also publishes guidelines and frameworks setting out its requirements for controllers and processors; no sanction or decision is reported ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
 - Tech Hive Advisory says Egypt's Personal Data Protection Centre published guidelines (consent, lawful bases, direct marketing, DPO, ROPA, licences and permits, privacy notice) and breach-notification templates to aid compliance with the law and executive regulations; no sanction is reported (date is January-February 2026, the period covered) ([source, 2026](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
+- Baker McKenzie reports the PDPC launched its licensing and permit portal in early October 2026, weeks before the compliance grace period ends ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
 - Al-Ahram Gate reports that the Personal Data Protection Center (PDPC) was run by an acting chief executive, Soussan El-Okbawy, who chaired a Cairo ICT session on 16 November 2025 and called Law No. 151 of 2020 the foundation for regulating personal data protection ([source, 2025-11-16](https://gate.ahram.org.eg/News/5335073.aspx)).
 
 ### Equatorial Guinea: 3 Established
@@ -326,13 +335,14 @@ The Gambia enacted its first general data protection law in 2025; no decision un
 
 - The document states that President Barrow assented the Personal Data Protection and Privacy Act, 2025 on 7 November 2025, the country's first comprehensive data protection law, and that it has no grace period before it becomes enforceable; it gives no commencement date ([source, 2025-11-07](https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/)).
 - The document refers to regulations and guidance still to be issued under the Act, on research purposes, the income base for fines and transfers, so none were in force; undated, so the publication date of 2026-02-09 is used ([source, 2026-02](https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/)).
+- The Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025) was assented to by the President on 7 November 2025; the excerpt shows no commencement provision ([source, 2025-11-07](https://media2.mofo.com/v3/assets/blt5775cc69c999c255/blt7a10e6071e9d3fad/69d554b553df724b615c685d/personal-data-protection-and-privacy-act-2025.pdf)).
 
 ### Guinea: 3 Established
 
-Guinea has a 2016 cybersecurity and personal data protection law with no decision under it on record; its commencement date is not known.
+Guinea has a 2016 cybersecurity and personal data protection law, said in 2025 to be in place; no decision under it is on record.
 
+- The ministry's secretary-general Nouhan Traore says Guinea has put in place the law on cybersecurity and protection of personal data ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 - ANSSI's summary states Loi L/2016/037/AN on cybersecurity and personal data protection was adopted by the National Assembly and promulgated by President Alpha Condé, covering personal data processing by individuals, companies and public institutions; it gives no commencement statement and dates the law to 2016 only (document published 2016, year precision) ([source, 2016](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf)).
-- The National Assembly's text of Law L/2016/037/AN on cybersecurity and the protection of personal data carries the promulgation formula, with the law number and date left blank, and Part Two is a full personal data protection regime; it states no commencement date, and the record is dated only to July 2016 (document published date, month precision) ([source, 2016-07](https://assembleeguinee.org/loi-ndeg-l-2016-relative-la-cybersecurite-et-la-protection-des-donnees-caractere-personnel-en)).
 
 ### Lesotho: 3 Established
 
@@ -493,6 +503,15 @@ Guinea-Bissau has no data protection law; a bill was awaiting discussion in parl
 - Guinea-Bissau's national UPR report says the National People's Assembly's inaction blocks key legislation, and that several bills, including one on personal data protection, are awaiting discussion; no date is given, so the document's published date of 18 February 2025 is used ([source, 2025-02-18](https://upr-info.org/sites/default/files/country-document/2025-09/A_HRC_WG.6_49_GNB_1_F.pdf)).
 - The speaker said a bill provides for creating a 'Data Protection Agency', with independence risks in its membership and in leaving its organisation to a decree; the article gives no stage for the bill ([source, 2026-09-22](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)).
 
+### Libya: 2 Nascent
+
+Libya's government was drafting a data protection law as of July 2026, with adoption targeted for 2026; no bill before parliament is known.
+
+*Advancing.*
+
+- A committee formed under National Council for Public Freedoms and Human Rights decision 253 of 2023 is drafting a national personal data protection law, per the General Information Authority ([source, 2024-01-10](https://www.gia.gov.ly/en/2024/01/24/the-committee-responsible-for-implementing-the-national-project-for-the-protection-of-personal-data-holds-its-regular-meeting-at-the-headquarters-of-the-general-information-authority/)).
+- SMEX, citing the strategy, says the Data Protection and Privacy Law remains in draft, with adoption targeted for 2026 ([source, 2026-07-22](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
+
 ### Mozambique: 2 Nascent
 
 Mozambique has no data protection law; a bill was still being prepared in August 2026, and when it goes to parliament is not known.
@@ -540,9 +559,3 @@ Eritrea has no data protection law as of 2026 and no supervisory authority; whet
 
 - Law Lab Africa states that no comprehensive data protection law is in force in Eritrea, as of a verification pass on 1 August 2026 ([source, 2026-08-01](https://research.lawlab.africa/eritrea/)).
 - The Horn of Africa Initiative Digital Policy Matrix update (June 2025, World Bank team) states that Eritrea remains at a nascent stage without data protection legislation, unlike Kenya, Somalia and Ethiopia which have enacted frameworks ([source, 2025-06](https://hoainitiative.org/sites/default/files/2025-09/25th%20HoAI%20Ministerial%20-%20Background%20Paper%20on%20Digital%20Integration%20Update.pdf)).
-
-### Libya: Unplaced
-
-A civil-society group published an unofficial draft data protection law in 2026; no government bill or law is known, so no stage is set.
-
-Not established: A civil-society group published an unofficial draft data protection law for comment in March 2026. No source held says the government has a bill or a law.

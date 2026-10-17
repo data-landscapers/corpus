@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-25-zmb-mots-cyber-bills-amendments",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Zambia's Ministry of Technology and Science says the Cyber Security Bill (N.A.B. 29/2024) and Cyber Crimes Bill (N.A.B. 30/2024) were amended in eight clauses and a Notice of Amendments issued to Parliament for resubmission.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Cyber Security Bill and Cyber Crimes Bill",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ministry refers to the review of the Cyber Security and Cybercrimes Act No. 2 of 2021, which it says it consulted on in 2022 and 2024.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cyber Security and Cybercrimes Act No. 2 of 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security and Cybercrimes Act No. 2 of 2021",
+   "country_label": "Zambia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

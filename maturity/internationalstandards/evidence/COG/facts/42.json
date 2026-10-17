@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-cog-iso-member-aconoq",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The ISO member page lists ACONOQ as a member body of ISO and an Affiliate Plus member of the IEC, participating in 2 ISO technical committees and 3 project committees.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Agence Congolaise de Normalisation et de la Qualité (ACONOQ)",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

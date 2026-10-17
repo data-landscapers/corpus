@@ -1,6 +1,6 @@
 # E-commerce legislation: e-commerce law
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -21,8 +21,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 12 |
-| 3 Established | 27 |
+| 4 Operating | 13 |
+| 3 Established | 26 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -35,7 +35,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 Ghana's 2008 Electronic Transactions Act is in force; a November 2023 notice required e-commerce platforms to register, and later enforcement is not known.
 
 - Digital Policy Alert reports that in November 2023 Ghana's Ministry of Communications and Digitalisation issued an enforcement notice under the Electronic Transactions Act requiring all e-commerce platforms and digital delivery companies to register by January 2024 ([source, 2023-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana)).
-- Digital Policy Alert describes Ghana's 2008 Electronic Transactions Act as an existing law that sets fair business practice requirements for suppliers, consumer rights and liability protections for intermediaries ([source, 2008](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana)).
+- The op-ed names the Electronic Transactions Act as part of Ghana's existing legal foundation ([source, 2026-10-16](https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/)).
 
 ### Morocco: 5 Leading
 
@@ -90,7 +90,7 @@ Burundi's 2024 communications code governs e-commerce, and the regulator issued 
 A 2010 e-commerce law is in force with a 2011 application decree, but no use of it is dated in the last three years.
 
 - Decree no. 2011/1521/PM of 15 June 2011 fixes the modalities of application of law no. 2010/021 on electronic commerce, defining the scope of e-commerce activity ([source, 2011-06-15](https://www.mincommerce.gov.cm/sites/default/files/documents/decret-n-2011-1521-pm-du-15-juin-2011-fixant-les-modalites-d-application-de-la-loi-regissant-le-commerce-electronique-au-cameroun.pdf)).
-- Law No. 2010/021 of 21 December 2010, adopted by the National Assembly and promulgated by the President, states that it governs electronic commerce in Cameroon and defines electronic signatures, certificates and certification authorities (capture covers Titles I and the start of II only) ([source, 2010-12-21](https://www.mincommerce.gov.cm/sites/default/files/documents/loi-n-2010-021-du-21-decembre-2010-regissant-le-commerce-electronique-au-cameroun.pdf)).
+- At a CENADI workshop, Professor Jean Louis Fendji listed Cameroon's e-commerce law among the local texts that frame aspects of data protection ([source, 2024-08-14](https://www.dgb.cm/le-cenadi-sensibilise-les-administrations-a-la-protection-des-donnees/)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -160,12 +160,19 @@ Togo's 2017 electronic transactions law, amended in 2023, and its 2018 decree on
 - Decree 2018-062/PR, adopted by the Council of Ministers on 21 March 2018 (105 articles), regulates electronic transactions and services under Law 2017-007: formalities for e-commerce sellers (Art. 6), electronic signatures and qualified certificates, trust service providers and the accreditation procedure ([source, 2018-03-21](https://arcep.tg/wp-content/uploads/2020/11/Decret_2018_062_PR_portant_reglementation_des_transactions_services_electronique.pdf)).
 - Law 2023-012 of 19 July 2023, promulgated and published in Journal officiel no. 55 bis, amends Law 2017-007 of 22 June 2017 on electronic transactions, redefining its terms and adding rules on electronic seals, digital safes, 20-year retention of electronic copies and signatures, and a penalty for usurping the status of trust service provider ([source, 2023-07-19](https://arcep.tg/wp-content/uploads/2025/07/Loi-n2023_012-du-19-juillet-2023-de-2023-portant-modification-de-la-loi-sur-les-transactions-electroniques.pdf)).
 
+### Tunisia: 4 Operating
+
+Tunisia has had an electronic exchanges and commerce law since 2000, with certification decrees reported, but no dated use of it is known.
+
+- The playbook says decrees of 2000-2001 organise certification, the conditions for accrediting certification service providers and the technical specifications ([source, 2001](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- Decree-law 2020-31 of 10 June 2020 (JORT no. 54) enters into force on publication and gives a reliable electronic signature the same evidentiary force as a handwritten one and electronic documents the same force as paper (Arts 4, 6, 16) ([source, 2020-06-10](https://www.marchespublics.gov.tn/fr/legislations/5923/download)).
+
 ### Uganda: 4 Operating
 
 Uganda's 2011 Electronic Transactions Act and its 2013 regulations are in force; any application of them in the last three years is not known.
 
 - The Minister responsible for ICT made the Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42) on 10 September 2013 under section 35 of the Electronic Transactions Act, 2011, gazetted 30 September 2013, covering authenticity of data messages, seller and service provider disclosures, commercial communications and provider liability ([source, 2013-09-10](https://ict.go.ug/public/site/documents/Electronic-Transction-Regulations-SI-42-of-2013.pdf)).
-- The Regulations are made under the Electronic Transactions Act, 2011 (Act No. 8 of 2011), and set offences with fines up to six currency points for sellers failing to give the required information and for unsolicited commercial communications; the document gives no commencement date other than its 2013 making ([source, 2013-09-10](https://ict.go.ug/public/site/documents/Electronic-Transction-Regulations-SI-42-of-2013.pdf)).
+- The Daily Monitor says Uganda currently relies on a piecemeal framework including the Electronic Transactions Act ([source, 2026-10-16](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)).
 
 ### Algeria: 3 Established
 
@@ -240,9 +247,10 @@ Equatorial Guinea enacted a law on electronic signature and documents on 10 Janu
 
 ### Eswatini: 3 Established
 
-Eswatini has an Electronic Communications Transactions Act of 2022, listed in 2024 as overseen by the regulator; no rules made under it are known.
+Eswatini has had an Electronic Transactions Act since 2022, named by ministers in 2025 and 2026; no rules made under it are known.
 
-- APC (published 2024-07-22) lists the Electronic Communications Transactions Act of 2022 among the ICT laws the regulator ESCCOM oversees, and says the four 2022 Acts were tabled in Parliament under certificates of urgency ([source, 2024-07](https://www.apc.org/en/news/risk-human-rights-infringement-eswatini-rushes-regulate-ict-sector)).
+- Minister Savannah Maziya listed the Electronic Transactions Act of 2022 among Eswatini's existing legal groundwork ([source, 2026-04-29](https://swazi24.com/44934/news/maziya-opens-push-for-national-data-policy/)).
+- The Prime Minister said the Electronic Transactions Act was passed in 2022, and the article's highlights say three major cyber laws are now in force ([source, 2025-10-06](https://eswatinipositivenews.online/cybersecurity-key-to-national-security-and-growth-pm/)).
 
 ### Liberia: 3 Established
 
@@ -252,8 +260,9 @@ Liberia's 2002 Electronic Transactions Law gives electronic contracts and signat
 
 ### Libya: 3 Established
 
-Libya's 2022 electronic transactions law is in force and covers online sellers, but no rules made under it are known.
+Libya's 2022 electronic transactions law is in force and covers online sellers; its executive regulation was unpublished in 2023, and no later rules are known.
 
+- Eltumi Partners states Libya passed Law No 6 of 2022 on Electronic Transactions in October 2022, governing the validity and regulation of electronic transactions ([source, 2022-10](https://eltumipartners.com/2023/12/data-protection-under-libya-e-transactions-law/)).
 - Law No. 6 of 2022 on Electronic Transactions, issued by the House of Representatives on 2022-10-04, gives electronic signatures, records and contracts legal effect and sets pre-contract disclosure and return rules for online sellers; the repository lists it as in force and Article 87 makes it effective from issue ([source, 2022-10-04](https://lawsociety.ly/legislation/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-6-%D9%84%D8%B3%D9%86%D8%A9-2022-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%84%D9%83/)).
 
 ### Madagascar: 3 Established
@@ -278,8 +287,9 @@ Mali's 2016 law on electronic transactions regulates e-commerce and is cited by 
 
 ### Mauritania: 3 Established
 
-A 2006 ordinance covers e-commerce operations and a 2018 bill on electronic transactions passed the Assembly; whether the bill became law is not known.
+A 2018 law on electronic exchanges is in force, with a draft decree reported in 2024; whether any decree was adopted is not known.
 
+- Tech Rek reports the draft decree is made under law no. 2018-022 of 12 June 2018 on electronic exchanges ([source, 2018-06-12](https://techrek.info/fr/approbation-de-la-creation-dune-agence-nationale-de-cybersecurite-et-de-certification-electronique/)).
 - The minister told the Assembly that before this bill the law covered banking operations and some aspects of e-commerce under ordinance No. 2006-031 of 23 August 2006 on payment instruments and e-commerce operations, with implementing texts; AMI reports this on 2018-01-30 ([source, 2006-08-23](https://ami.mr/fr/archives/65884)).
 
 ### Mauritius: 3 Established
@@ -331,13 +341,6 @@ Sudan's Electronic Transactions Act of 2007 is the law cited in the May 2026 Sud
 Tanzania's Electronic Transactions Act is in force and was amended by the Finance Act of June 2026; rules made under it are not known.
 
 - Part III of Tanzania's Finance Act, 2026 (published 30 June 2026) amends section 13 of the existing Electronic Transactions Act (Cap. 442), so that Act is in force; the document gives no date for the event beyond its own publication date ([source, 2026-06-30](https://oagmis.oag.go.tz/portal/acts/337/download)).
-
-### Tunisia: 3 Established
-
-Tunisia has had an electronic exchanges and commerce law since 2000, reinforced in 2020, and no implementing rule is known.
-
-- Decree-law 2020-31 of 10 June 2020 (JORT no. 54) enters into force on publication and gives a reliable electronic signature the same evidentiary force as a handwritten one and electronic documents the same force as paper (Arts 4, 6, 16) ([source, 2020-06-10](https://www.marchespublics.gov.tn/fr/legislations/5923/download)).
-- Law no. 2000-83 of 9 August 2000 on electronic exchanges and commerce, promulgated and published in the Journal Officiel no. 64 of 11 August 2000, gives electronic documents and signatures legal effect, creates the national electronic certification agency (ANCE), licenses certification providers and sets consumer rules for online sales (disclosure, 10-working-day withdrawal right, fines) ([source, 2000-08-09](https://www.cmf.tn/sites/default/files/pdfs/reglementation/textes-reference/loi_2000-83_090800_fr.pdf)).
 
 ### Djibouti: 2 Nascent
 

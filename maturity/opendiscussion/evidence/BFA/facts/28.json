@@ -1,0 +1,47 @@
+{
+ "slug": "2026-07-02-bfa-civicus-suspension-student-union-ugeb",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "CIVICUS Monitor reports the General Student Union of Burkina Faso (UGEB) issued a statement criticising the government's security record and the military authorities' failure to restore security.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "UGEB statement",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports the Minister of Territorial Administration suspended UGEB for three months on 26 May 2026 after its statement, and the Ouagadougou prosecutor opened an investigation into its authors.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "UGEB suspension",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports the Higher Council for Communication indefinitely suspended TV5 Monde broadcasts on 5 May 2026 (decision 2026-018/CSC) over its coverage of terrorism and Mali.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "CSC decision 2026-018/CSC",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports imam Mohamad Ishaq Kindo was arrested on 26 May 2026 after publicly criticising a religious freedom bill.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "Arrest of Mohamad Ishaq Kindo",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,7 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,National Open Data Registry (registre.data.gov.tn),National Open Data Registry,open,,"E-Government Unit, Presidency of the Government",,2026-08-04-tunisia-results-report-2023-2025
 TUN,Mizaniatouna,Mizaniatouna (http://www.mizaniatouna.gov.tn),other,,Ministry of Finance,,2026-08-04-tunisia-results-report-2023-2025
-TUN,National open data portal,Portail national des données ouvertes,,,E-Government Unit (Unité de l'administration électronique),,2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes
+TUN,National open data portal,Portail national des données ouvertes,other,,E-Government Unit (Unité de l'administration électronique),,2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes
 TUN,Aswat Nissa femicide platform,Aswat Nissa femicide documentation platform,other,web platform,Aswat Nissa (civil-society association),,2026-08-10-tunisia-aswat-nissa-femicide-platform-wearetech
 TUN,Portail tunisien des industries agroalimentaires,Portail tunisien des industries agroalimentaires (iaa.tn),other,web portal,"Direction generale des industries agroalimentaires, Ministry of Industry, Mines and Energy, with CTAA and Bizerte competitiveness cluster",,2026-07-26-tunisie-portail-agroalimentaire-veille-economique-giz
 TUN,Portail tunisien des industries agroalimentaires,Portail tunisien des industries agroalimentaires,other,web portal,"Ministry of Industry, Mines and Energy (Direction generale des industries agroalimentaires), with CTAA and Bizerte cluster",,2026-07-23-tunisie-portail-industries-agroalimentaires-lancement
+TUN,Portail National des Données Ouvertes,data.gov.tn,open,,Présidence du Gouvernement,,2026-10-16-tun-datagovtn-portail-national-donnees-ouvertes
+TUN,Portail National des Données Ouvertes,data.gov.tn,open,,"Unité de l'administration électronique, Présidence du gouvernement",,2024-07-01-tun-ogp-tn0053-ouverture-donnees-publiques-irm
+TUN,registre.data.gov.tn,Registre National des Donnees Publiques (registre.data.gov.tn),other,web inventory site,Unite de l'Administration Electronique,,2024-07-01-tun-ogptunisie-registre-national-donnees-publiques

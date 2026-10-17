@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-16-bfa-iso-member-abnorm",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO lists ABNORM as Burkina Faso's member body.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "ABNORM",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Page does not say a law or decree set the body up or that it issued an IT standard."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-02-com-mayottehebdo-journaliste-entendue-police",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Mayotte Hebdo says police arrested Al-Watwan correspondent Abdou Moustoifa on 17 November 2025 over a Facebook post about migrants held in a Moroni police station and questioned him for over two hours to learn his source.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Mayotte Hebdo says the Comorian press mobilised in December 2025 against a ministry and CNPA proposal to amend article 169 of the Information Code on source protection, and the journalists' union SNJC obtained its withdrawal.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

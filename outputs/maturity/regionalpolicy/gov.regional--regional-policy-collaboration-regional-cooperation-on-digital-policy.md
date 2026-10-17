@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 10 |
-| 3 Established | 23 |
-| 2 Nascent | 15 |
+| 4 Operating | 11 |
+| 3 Established | 24 |
+| 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -54,16 +54,17 @@ Rwanda is in East Africa's shared roaming area, with rising cross-border calls r
 
 ### Tanzania: 5 Leading
 
-Tanzania is in East Africa's shared roaming area, and regional figures for 2025 show its outbound cross-border calls up by more than half.
+Tanzania hosted regional meetings in October 2026 and is in East Africa's shared roaming area, with 2025 outbound cross-border calls up by more than half.
 
 - EACO reports Tanzania's One Network Area cross-border voice traffic for 2025 as 148.0 million inbound minutes (+36.4%) and 577.7 million outbound minutes (+59.0%, from 363.3 million) ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
+- Tanzania hosted the fifth annual East African Communications Organisation (EACO) postal and logistics meeting in Arusha on 14 October 2026, opened by Deputy Minister Dk Switbert Mkama, per Mwananchi ([source, 2026-10-14](https://www.mwananchi.co.tz/mw/habari/biashara/serikali-yaweka-mkazo-teknolojia-kuboresha-huduma-za-posta-usafirishaji-5632092)).
 
 ### Uganda: 5 Leading
 
-Uganda is in East Africa's shared roaming area, with 2025 call figures published, and won a seat on the African telecommunications union's council in 2026.
+Uganda chaired an East African e-commerce meeting in 2026 and won a seat on the African telecommunications union's council; 2025 roaming-area call figures are published.
 
 - EACO reports Uganda's One Network Area inbound cross-border voice traffic fell 28.0% in 2025, from 1,103.2 million to 794.4 million minutes, which it attributes to over-the-top services substituting voice ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
-- Uganda, which chairs the cluster, hosted in Kampala a Northern Corridor Integration Projects implementation clusters meeting with Kenya, Rwanda and South Sudan at which a joint account for a regional communications satellite feasibility study was reported open; the source gives no meeting date, so the report date 2026-08-24 is used ([source, 2026-08-24](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/)).
+- The EAC says the Regional E-Commerce Engagement Platform meeting of 13-15 October 2026 was chaired by Chris Matsiko of Uganda's Ministry of Trade, Industry and Cooperatives ([source, 2026-10-13](https://www.eac.int/eadrip-news-updates/eardip-press-releases/3609-eac-partner-states-advance-measure-to-strengthen-e-commerce-and-digital-trade)).
 
 ### Algeria: 4 Operating
 
@@ -111,6 +112,12 @@ Liberia's free roaming with Sierra Leone began in August 2025; figures of its us
 - Liberia and Sierra Leone launched a free roaming arrangement in August 2025, letting subscribers travelling between them communicate at local rates; it has since extended to other West African countries with technical implementation progressing ([source, 2025-08](https://allafrica.com/stories/202609040182.html)).
 - The Liberia Revenue Authority and the Gambia Revenue Authority signed a memorandum of engagement under which LRA gives technical assistance to build a revenue collection dashboard prototype in The Gambia; the document gives no signing date, so its publication date is used ([source, 2026-09-21](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)).
 
+### Mauritius: 4 Operating
+
+Mauritius hosted southern Africa's first regional cyber drill in 2018 and settles COMESA payments as at July 2026; use and joint decisions are not known.
+
+- Bank of Mauritius Governor says the Bank acts as settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
+
 ### Namibia: 4 Operating
 
 Namibia cut roaming charges with Botswana and signed a cooperation memorandum with it in August 2026; figures of use are not known.
@@ -120,11 +127,11 @@ Namibia cut roaming charges with Botswana and signed a cooperation memorandum wi
 
 ### Senegal: 4 Operating
 
-Senegal's free roaming with The Gambia began in December 2025 and with Togo and Benin in April 2026; figures of its use are not known.
+Senegal's roaming arrangement took effect in April 2026 and a regional backbone council was installed in October 2026; figures of use are not known.
 
+- The ROA-BN Interministerial Council, described as its highest political and strategic body, was reported as installed, as of the 8 October 2026 report; no installation date given ([source, 2026-10-08](https://aps.sn/lintegration-numerique-ouest-africaine-au-menu-dune-rencontre-a-dakar/)).
 - The first Steering Committee Meeting under the Senegal-Gambia MoU was held in Banjul to set an implementation roadmap; the meeting day is not given, so the published date month is used ([source, 2026-08](https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/)).
-- The free roaming arrangement between Senegal, Togo and Benin took effect on 24 April 2026, with free incoming calls for up to 30 consecutive days and no surcharge on incoming international traffic ([source, 2026-04-24](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative)).
-- Senegal and the Gambia are stated to have a signed MoU covering telecommunications and digital development; no signing date is given, so the published date is used, and the minister's Banjul visit reviewed its implementation roadmap ([source, 2026-08-31](https://techafricanews.com/2026/08/31/senegal-and-gambia-advance-digital-cooperation-on-connectivity-cybersecurity/)).
+- Ministers in charge of telecommunications and digital affairs of the ten ROA-BN members opened a two-day meeting in Dakar on 8 October 2026, hosted by Senegal, to validate a 2030 strategic vision ([source, 2026-10-08](https://aps.sn/lintegration-numerique-ouest-africaine-au-menu-dune-rencontre-a-dakar/)).
 
 ### Togo: 4 Operating
 
@@ -142,7 +149,7 @@ Tunisia has a joint communications commission with Algeria, which met for the fo
 
 ### Angola: 3 Established
 
-Angola signed a communications agreement with Mozambique and hosted a southern African radio spectrum meeting in 2026; nothing agreed is known to be in effect.
+Angola signed a communications agreement with Mozambique and hosted southern African radio and cyber meetings in 2026; nothing agreed is known to be in effect.
 
 - Angola hosted the five-day Third SADC Preparatory Meeting for the ITU World Radiocommunication Conference 2027 in Luanda, which was concluding on 7 August 2026 as SADC members worked on common positions on spectrum, satellite and broadcasting, according to CRASA ([source, 2026-08-07](https://www.linkedin.com/posts/crasa-secretariat-communications-regulators-association-of-southern-africa_sadc-crasa-wrc27-activity-7491456518320721920-81Dp)).
 - Angola hosted in Luanda the third SADC preparatory meeting for the 2027 World Radiocommunication Conference, held 3 to 7 August 2026, supported by its telecommunications ministry; the meeting date is the event date, and the report is dated 6 August ([source, 2026-08-03](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/)).
@@ -162,10 +169,10 @@ Cabo Verde's data protection authority sits on the board of Africa's network of 
 
 ### Chad: 3 Established
 
-Chad initialled a digital cooperation communique with Nigeria in September 2026; nothing agreed is known to be in effect.
+Chad hosted a regional internet governance forum in October 2026 and initialled a Nigeria communique; nothing agreed is known to be in effect.
 
+- Chad hosted the closing of the 2026 Central Africa Internet Governance Forum in N'Djamena on 15 October 2026, where the Declaration of N'Djamena was adopted with ARTAC regulators taking part, per the Secretary of State for Telecommunications ([source, 2026-10-15](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)).
 - Chad's and Nigeria's communications ministers initialled a final communique outlining the digital cooperation framework between the two countries after talks in N'Djamena on 16 September 2026 ([source, 2026-09-16](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/)).
-- ARCEP Tchad hosted the ARTAC-ITU sub-regional workshop in N'Djamena on 15-18 December 2025, with the Chadian minister and ARTAC's executive president opening it and member-country delegations attending ([source, 2025-12-15](https://regulationartac.org/ndjamena-2025-lartac-larcep-tchad-et-luit-tracent-la-nouvelle-feuille-de-route-numerique-de-lafrique-centrale/)).
 
 ### Congo: 3 Established
 
@@ -179,7 +186,7 @@ Congo won a seat on the African telecommunications union's council in July 2026;
 Cote d'Ivoire hosted the African telecommunications union and Africa's data protection authorities in Abidjan in 2026; nothing agreed is known to be in effect.
 
 - Abidjan hosted the African Telecommunications Union's final African preparatory meeting for the ITU Plenipotentiary Conference 2026, which concluded around 18 September 2026; the article gives no exact meeting date, so the month is used ([source, 2026-09](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)).
-- Minister Djibril Ouattara launched the fifth ATU Africa Innovation Challenge in Abidjan on 17 September 2026, during the fourth African preparatory meeting for the ITU Plenipotentiary Conference hosted in Côte d'Ivoire ([source, 2026-09-17](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)).
+- The fourth and final African preparatory meeting for the ITU Plenipotentiary Conference, where the 49 proposals were agreed, was held in Abidjan, Cote d'Ivoire, 15 to 17 September 2026 ([source, 2026-09](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
 
 ### DR Congo: 3 Established
 
@@ -193,6 +200,12 @@ The DR Congo hosted Central Africa's regulators and won back the African telecom
 Djibouti hosted an African Union forum in December 2025 that adopted a digital economy declaration; nothing agreed is known to be in effect.
 
 - Djibouti hosted the 16th African Union Private Sector Forum on 8-10 December 2025, which adopted the 'Djibouti Declaration' on the digital economy and intra-African trade; the African Union Commission says so (event dated at its close, 10 December) ([source, 2025-12-10](https://au.int/en/pressreleases/20251211/16th-psf-concluded-strong-assertion-digital-economy-transformation)).
+
+### Eswatini: 3 Established
+
+Eswatini's regulator signed a cooperation agreement with Lesotho's in October 2026; whether any agreement has been put into effect is not known.
+
+- Eswatini's communications regulator ESCCOM and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, training and cybersecurity cooperation including coordinated incident response and audits ([source, 2026-10-03](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)).
 
 ### Ethiopia: 3 Established
 
@@ -245,6 +258,7 @@ Morocco won a seat on the African telecommunications union's council in July 202
 
 Mozambique signed a communications memorandum with Angola in June 2026; nothing agreed is known to be in effect.
 
+- Mozambique's regulator INCM hosted in Maputo on 6 October 2026 a capacity workshop for members of the Electronic Communications Committee of CRASA, the Communications Regulators' Association of Southern Africa, ahead of that committee's first ordinary meeting there on 7-9 October 2026 ([source, 2026-10-06](https://mznews.co.mz/en/incm-acolhe-workshop-sobre-tecnologias-de-satelite/)).
 - Mozambique and Angola signed a memorandum of understanding on cooperation in communications, ICT, information and meteorology (technical and institutional cooperation, exchange of expertise, best practices for digital transformation), and a second on the space sector, on Monday 22 June 2026 in Maputo; the article is dated 2026-06-23 ([source, 2026-06-22](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity)).
 
 ### Niger: 3 Established
@@ -326,26 +340,19 @@ Equatorial Guinea took part in a Lusophone data governance workshop in June 2026
 - Equatorial Guinea was one of six countries whose delegations took part in the Second Lusophone Africa Data Governance Workshop in Luanda, 15-17 June 2026, hosted by Angola's data protection agency with Smart Africa, the World Bank, CETIC.br and UNESCO; the UNESCO article is dated 2026-07-28 ([source, 2026-06](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda)).
 - Equatorial Guinea is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 alongside the African Union and Smart Africa ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
 
-### Eswatini: 2 Nascent
-
-Eswatini takes part in Smart Africa programmes and southern African ministers' meetings, most recently in 2026; no agreement signed by September 2026 is known.
-
-- Eswatini was among the delegations (with South Africa, Comoros and Botswana) at the SADC regional workshop on data governance held in Harare, hosted by Zimbabwe's ICT ministry with the World Bank, Smart Africa and UNESCO ([source, 2026-08-13](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m)).
-- Smart Africa issued a US$70,000 request for proposals for Eswatini's national data policy, released 25 July 2025 and closing 25 August 2025, showing Eswatini taking part in a Smart Africa programme ([source, 2025-07-25](https://smartafrica.org/wp-content/uploads/2025/07/RFP-Eswatini-Data-Policy.pdf)).
-
 ### Gabon: 2 Nascent
 
-Gabon takes part in Smart Africa's council of technology agencies, as of 2025; no agreement signed or seat won is known.
+Gabon sat in Smart Africa's agency council in 2025 and backed African ITU proposals in 2026; no agreement signed or seat won is known.
 
-- ARTAC announced on 26 September 2026 that its fourth extraordinary Conference of Regulators will be held in Libreville on 20-21 October 2026, hosted by Gabon's regulator ARCEP, which is among the member regulators of ARTAC (a forward notice; the session had not yet taken place) ([source, 2026-09-26](https://regulationartac.org/artac-la-4%e1%b5%89-session-extraordinaire-de-la-conference-des-regulateurs-se-tiendra-les-20-et-21-octobre-2026-a-libreville/)).
-- Gabon's digital ministry committee reviewed the country's preparations to take part in the African Digital Ministers' Council; the document gives no event date, so the published date 2026-07-31 is used ([source, 2026-07-31](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/)).
+- The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026 ([source, 2026-10-16](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
+- The African Union announced on 9 October 2026 that the 6th Ordinary Session of its Specialised Technical Committee on Communication and ICT will be held in Libreville, Gabon, on 26-29 October 2026 (a forward notice; the meeting had not yet taken place), with ministers of AU member states attending; no date is given for the event announcement, so the published date is used ([source, 2026-10-09](https://www.au.int/en/newsevents/20261026/au-innovation-festival-au-innofest26-theme-vibrant-youth-ecosystems-ai-and)).
 
 ### Guinea-Bissau: 2 Nascent
 
-Guinea-Bissau took part in a Lusophone data governance workshop in December 2025; no agreement or role of its own is known.
+Guinea-Bissau joined a Lusophone data workshop in 2025 and endorsed African proposals for the 2026 ITU conference; no agreement is known.
 
+- The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026 ([source, 2026-10-16](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
 - AUDA-NEPAD, the African Union's development agency, launched on 24 July 2026 at the STC-TTIM ministerial segment in Abidjan its Programme for African Developing Island Economies, which Guinea-Bissau joins with six other island states; digital transformation is one of its six pillars, and the programme runs on a 2026-2031 roadmap ([source, 2026-07-24](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies)).
-- UNESCO reports that regulators and policymakers from Guinea-Bissau, with Angola, Sao Tome and Principe and Mozambique (more than 40 in all), took part in a data governance workshop in Maputo on 8-10 December 2025, organised by UNESCO with Mozambique's INTIC and Smart Africa; attendance only, no agreement signed ([source, 2025-12](https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance)).
 
 ### Libya: 2 Nascent
 
@@ -359,13 +366,6 @@ Madagascar took part in African Union and southern African training and meetings
 
 - Madagascar sent a delegation led by the Minister of Labour, Employment and the Public Service to the SADC annual public service general assembly in Eswatini, 28-31 August 2026, where member states discussed digital transformation and digitalisation of public services among other topics; attendance only, no agreement signed ([source, 2026-08](https://moov.mg/article/120425-fonction-publique-madagascar-defend-une-administration-tournee-vers-les-citoyens-a-la-sadc)).
 - A data-policy training session held on 24 September 2025 in Antananarivo, part of a multi-day workshop run by Team Europe's Data Governance in Africa Action, brought together over 50 delegates from SADC, SATA, SAPOA and CRASA to discuss joint approaches to regional cooperation, data-sharing agreements and harmonised cross-border regulation ([source, 2025-09-24](https://www.bmz-digital.global/en/event/data-policy-workshop-regional-cooperation/)).
-
-### Mauritius: 2 Nascent
-
-Mauritius hosted southern Africa's first regional cyber drill in 2018; no agreement, meeting hosted or seat won in the last three years is known.
-
-- The Mauritius Cabinet record of 14 August 2026 states that Mauritius has been a member of SADC since 1995 and that the Prime Minister will attend the 46th SADC Summit in South Africa on 17 August 2026; the document does not mention digital policy ([source, 2026-08-14](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2014%20August%202026.pdf)).
-- The Government of Mauritius hosted the SADC Capacity Building Workshop on Cyber Security and the first SADC Regional Cyber Drill at Ebene on 10-13 September 2018, attended by delegates from fourteen SADC member states, with the SADC ICT Implementing Agency and CRASA ([source, 2018-09](https://www.sadc.int/sites/default/files/2021-06/Media_Statement_SADC_Capacity_Building_Workshop_on_Cyber_Security_and_Cyber_Drill.pdf)).
 
 ### Sao Tome and Principe: 2 Nascent
 
@@ -391,8 +391,8 @@ South Africa pays dues to the African telecommunications union, budgeted for 202
 
 Sudan is listed on Africa's 2025 declaration on artificial intelligence; no agreement or role of its own is known.
 
+- The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026 ([source, 2026-10-16](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
 - Sudan is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 with the African Union and Smart Africa as institutional signatories ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
-- ARICEA's own presentation names Sudan as a member of the Executive Committee of the Association of Regulators of Information and Communications for Eastern and Southern Africa, launched January 2003 under COMESA; the document gives no date for Sudan joining, so the published date is used ([source, 2003-12-07](https://www.itu.int/ITU-D/treg/Events/Seminars/GSR/GSR03/Informal_meeting/ARICEA%20RESENTATION.pdf)).
 
 ### Eritrea: No evidence
 

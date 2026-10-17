@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The playbook says organic law 2004-63 sets the data protection regime including INPDP formalities, and its governance diagram shows the Instance Nationale de Protection des Donnees Personnelles as the body for control and regulatory compliance.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Instance Nationale de Protection des Donnees Personnelles (INPDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

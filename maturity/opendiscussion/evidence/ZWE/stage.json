@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "2",
-   "debate": "criticised",
-   "connection": "",
-   "penalty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001;ZWE-002",
-   "gaps": "No source says the country went the last twelve months with no one punished for what they said or published.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "2",
+      "debate": "criticised",
+      "connection": "",
+      "penalty": "punished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-006;ZWE-007;ZWE-008",
+      "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
+      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

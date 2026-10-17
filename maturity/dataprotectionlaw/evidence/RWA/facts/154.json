@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-01-rwa-ncsa-standard-contractual-clauses-transfer",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The National Cyber Security Authority (NCSA) is named as the Supervisory Authority under Law No 058/2021 of 13/10/2021 on personal data protection and privacy, and issued these standard contractual clauses.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "NCSA's Data Protection and Privacy Office published standard contractual clauses for transfers of personal data outside Rwanda under Article 49 of Law No 058/2021, as compliance guidance with no decision attached.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law Nº 058/2021 relating to the Protection of Personal Data and Privacy",
+   "country_label": "Rwanda",
+   "class": "general",
+   "platform": "",
+   "owner": "National Cyber Security Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

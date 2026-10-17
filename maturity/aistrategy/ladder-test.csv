@@ -13,30 +13,30 @@ COM,1,none,,COM-001
 CPV,2,draft,,CPV-001
 DJI,3,adopted,,DJI-001
 DZA,4,adopted,body,DZA-002;DZA-004;DZA-001
-EGY,4,adopted,body,EGY-002;EGY-004;EGY-001
+EGY,4,adopted,body,EGY-002;EGY-004;EGY-016
 ERI,1,none,,ERI-001
 ETH,4,adopted,body,ETH-003;ETH-002
-GAB,2,draft,,GAB-001
-GHA,3,adopted,,GHA-024;GHA-016
-GIN,2,draft,,GIN-001
+GAB,2,draft,,GAB-005
+GHA,3,adopted,,GHA-023;GHA-024
+GIN,3,adopted,,GIN-002
 GMB,2,draft,,GMB-001
 GNB,no evidence,,,
 GNQ,no evidence,,,
 KEN,4,adopted,body,KEN-002;KEN-018
 LBR,no evidence,,,
-LBY,3,adopted,,LBY-001;LBY-004
+LBY,3,adopted,,LBY-001;LBY-005
 LSO,2,draft,,LSO-001
 MAR,2,draft,,MAR-001
 MDG,no evidence,,,
 MLI,no evidence,,,
-MOZ,2,draft,,MOZ-001
-MRT,3,adopted,,MRT-001
-MUS,4,adopted,body,MUS-002;MUS-010
+MOZ,2,draft,,MOZ-009
+MRT,3,adopted,,MRT-002;MRT-001
+MUS,4,adopted,body,MUS-002;MUS-012
 MWI,2,draft,,MWI-003
-NAM,2,draft,,NAM-006
+NAM,2,draft,,NAM-005
 NER,no evidence,,,
 NGA,2,draft,,NGA-002
-RWA,4,adopted,body,RWA-008;RWA-013;RWA-004
+RWA,4,adopted,body,RWA-008;RWA-013;RWA-011
 SDN,no evidence,,,
 SEN,3,adopted,,SEN-001
 SLE,2,draft,,SLE-003
@@ -45,11 +45,11 @@ SSD,no evidence,,,
 STP,1,none,,STP-001;STP-003
 SWZ,2,draft,,SWZ-001
 SYC,no evidence,,,
-TCD,no evidence,,,
+TCD,2,draft,,TCD-003
 TGO,2,draft,,TGO-001
 TUN,2,draft,,TUN-001
 TZA,2,draft,,TZA-003
 UGA,2,draft,,UGA-001
-ZAF,2,draft,,ZAF-001
+ZAF,2,draft,,ZAF-032;ZAF-010
 ZMB,4,adopted,body,ZMB-003;ZMB-004
 ZWE,5,adopted,funded,ZWE-023;ZWE-015

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-15-com-alwatwan-etat-civil-amecc-2-84-percent",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The French embassy's support to the AMECC 2 civil-registration modernisation project is put at EUR 1 million, per the interior minister (Al-Watwan, 2026-10-15).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "AMECC 2",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "The AMECC 2 coordinator says the new national civil-registration agency is to implement the strategic plan for modernising civil registration (Al-Watwan, 2026-10-15).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "AMECC 2",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": "No digital entry at registration offices is stated; the pre-digitisation study is finished and four pilot centres are being upgraded."
+}

@@ -1,15 +1,16 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "2",
-   "cost": "price:USD:1.4:1",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002",
-   "gaps": "The newest figure, 7.5 per cent for 2026, is above 5 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "3",
+      "cost": "price:UGX:2000:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-007",
+      "gaps": "The newest figure, 2.77 per cent for 2026, is above 2 per cent.",
+      "note": "Counted from the four questions by study-ladder-mobileaffordability.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

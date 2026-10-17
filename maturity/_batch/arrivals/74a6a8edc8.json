@@ -1,0 +1,133 @@
+{
+ "slug": "2025-11-19-ssd-sudanspost-biometric-registration-ghost-workers",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "none",
+       "fact": "Analysts quoted by Sudans Post say South Sudan remains without a national digital ID system and relies on fragmented, project-based biometric databases.",
+       "as_of": "2025-11-19",
+       "date_precision": "day",
+       "system": "none",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil servant biometric registration (World Bank supported)",
+       "country_label": "biometric payroll registration",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Public Service and Human Resource Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  }
+ }
+}

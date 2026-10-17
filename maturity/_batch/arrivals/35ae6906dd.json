@@ -1,0 +1,55 @@
+{
+ "slug": "2024-04-27-gmb-techpoint-gambia-guinea-subsea-cable-mou",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Techpoint Africa says the country is connected to the ACE submarine cable, the first to land there.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "ACE",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Techpoint Africa says the country is connected to the ACE submarine cable, the first to land there.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "ACE",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The reported memorandum is for a shared cable, held by the infrastructure row."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The reported memorandum is for a shared cable, held by the infrastructure row."
+    }
+   }
+  }
+ }
+}

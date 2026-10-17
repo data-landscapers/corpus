@@ -1,16 +1,17 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "1",
-   "standing": "none",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-003;SSD-002",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "1",
+      "standing": "none",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-003;SSD-004",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

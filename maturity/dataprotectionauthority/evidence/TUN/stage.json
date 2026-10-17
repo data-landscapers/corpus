@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "3",
-   "standing": "constituted",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-004;TUN-005",
-   "gaps": "No ruling of the authority against a named organisation in the last three years is held. The members were appointed in April 2021 for three years and no renewal is held; a source dated after the as-at says the authority is at a standstill.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-006;TUN-004",
+      "gaps": "No ruling of the authority against a named organisation in the last three years is held. The members were appointed in April 2021 for three years and no renewal is held; a source dated after the as-at says the authority is at a standstill.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

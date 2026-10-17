@@ -1,0 +1,88 @@
+{
+ "slug": "2024-11-07-mus-icta-public-consultations",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The page lists spectrum and regulatory consultations and says nothing on rural access."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The page states nothing on budget or a digital fund's money."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The page lists consultation papers but does not say they were posted or answered online."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a complaints or feedback channel."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government IT staff."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "answered",
+       "fact": "The Information and Communication Technologies Authority lists a published \"Response to Consultation Paper on making available additional Spectrum for IMT\" dated 7 November 2024, following its consultation paper of 23 August 2024.",
+       "as_of": "2024-11-07",
+       "date_precision": "day",
+       "system": "ICTA public consultations register",
+       "class": "consultation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ICTA public consultations register",
+       "country_label": "Mauritius",
+       "class": "consultation",
+       "platform": "icta.mu website",
+       "owner": "Information and Communication Technologies Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on satellite broadband licensing or sale."
+    }
+   }
+  }
+ }
+}

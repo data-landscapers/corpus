@@ -1,15 +1,16 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "unplaced",
-   "cost": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2024 or later is held for what a month of mobile data costs against income.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "2",
+      "cost": "price:ZWG:92.8:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-003",
+      "gaps": "The newest figure, 5.87 per cent for 2024, is above 5 per cent.",
+      "note": "Counted from the four questions by study-ladder-mobileaffordability.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

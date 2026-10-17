@@ -119,7 +119,7 @@ Nigeria released a National Digital Cloud Policy in August 2026, replacing its 2
 South Africa gazetted its National Policy on Data and Cloud in May 2024; no government cloud or list of providers is named.
 
 - President Ramaphosa said in March 2025 that government published the National Data and Cloud Policy the previous year (2024); the document gives no month ([source, 2024](https://www.gov.za/news/speeches/president-cyril-ramaphosa-microsoft-investment-and-ai-skilling-initiative)).
-- The Department of Communications and Digital Technologies published the National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 on 31 May 2024; it covers national and provincial government and organs of state, and sets out government's position on cloud-based long-term data storage and compute ([source, 2024-05-31](https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf)).
+- National Treasury's reply of 10 September 2024 refers to the 'National Policy on Data and Cloud (2024)' and says Treasury considered its implications and plans to convert its 2016 IFMS licences to cloud-based ([source, 2024-09-10](https://www.treasury.gov.za/publications/other/MinAnsw/2024/PQ%20792_244_%20Bateman__NW1017E%20_FINAL.pdf)).
 
 ### Tanzania: 3 Established
 

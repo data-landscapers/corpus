@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-13-gha-gna-dpc-2575-data-controllers-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Data Protection Commission is enforcing the Data Protection Act, 2012 (Act 843) through inspections and registration checks.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Dr Arnold Kavaarpuo is Executive Director of the Data Protection Commission, which is acting under Act 843.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Commission said it registered 2,575 data controllers in 2026 and is verifying registration status and running inspections.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

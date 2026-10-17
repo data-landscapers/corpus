@@ -4,14 +4,14 @@ AGO,Infra-Estrutura de Chaves Públicas de Angola (ICP-AO),ICP-AO,other,,,,2026-
 AGO,Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas,Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas,other,,IMA (procurement),,2026-10-08-ago-pti-lourenco-regime-assinatura-electronica
 AGO,Regime Jurídico da Assinatura Electrónica e da Certificação Digital,Regime Jurídico da Assinatura Electrónica e da Certificação Digital,law,,President of the Republic (under authorisation of the Assembleia Nacional),,2026-07-30-angola-parliament-electronic-signature-legislative-authorisation
 AGO,Regime Jurídico da Assinatura Electrónica e da Certificação Digital,Regime Jurídico da Assinatura Electrónica e da Certificação Digital,law,,President of the Republic (under authorisation of the Assembleia Nacional),,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
-AGO,Lei 23/11 de 22 de Julho (Lei das Comunicações Electrónicas e Serviços da Sociedade de Informação),Lei 23/11,,,,,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
-AGO,Decreto Presidencial n.º 201/11 de 22 de Julho,Decreto Presidencial 201/11,,,,,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
+AGO,Lei 23/11 de 22 de Julho (Lei das Comunicações Electrónicas e Serviços da Sociedade de Informação),Lei 23/11,other,,,,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
+AGO,Decreto Presidencial n.º 201/11 de 22 de Julho,Decreto Presidencial 201/11,other,,,,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
 AGO,Infra-estrutura de Chaves Públicas de Angola (ICP),ICP-Angola,other,,,,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa
 AGO,Decreto Presidencial n.º 11/26 de 08 de janeiro (Regime Jurídico da Comunicação e Tramitação Electrónica dos Procedimentos Administrativos da Protecção Social Obrigatória),Decreto Presidencial 11/26,other,,Entidade Gestora da Protecção Social Obrigatória,social protection administration (INSS portal users),2026-01-08-decreto-presidencial-11-26-tramitacao-electronica-proteccao-social-obrigatoria
 AGO,Infra-estrutura das Chaves Públicas e do Carimbo do Tempo de Angola,Infra-estrutura das Chaves Públicas e do Carimbo do Tempo,other,,Announced by the telecommunications minister (MINTTICS); no operator named,,2025-06-30-infra-estrutura-de-chaves-publicas-e-carimbo-do-tempo
 BDI,code des communications électroniques et postales,code des communications électroniques et postales,law,,ARCT (regulator),,2026-06-26-arct-declaration-conformite-commerce-electronique
-BDI,Ecosystème National du Commerce Electronique du Burundi,Ecosystème National du Commerce Electronique du Burundi,,,ARCT,,2026-06-26-arct-declaration-conformite-commerce-electronique
-BDI,Ecosystème National de Commerce Electronique du Burundi,écosystème national de commerce électronique,,,ARCT,,2026-05-29-arct-lignes-directrices-ecosysteme-commerce-electronique
+BDI,Ecosystème National du Commerce Electronique du Burundi,Ecosystème National du Commerce Electronique du Burundi,other,,ARCT,,2026-06-26-arct-declaration-conformite-commerce-electronique
+BDI,Ecosystème National de Commerce Electronique du Burundi,écosystème national de commerce électronique,other,,ARCT,,2026-05-29-arct-lignes-directrices-ecosysteme-commerce-electronique
 BEN,Public Key Infrastructure (ASIN),PKI,other,Orbus Digital Services software to be integrated,ASIN (Information and Digital Systems Agency),public and private sectors,"2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals"
 BFA,FasoSign,FasoSign,other,,Ministry of Digital Transition (ANSSI presented the security mechanisms),"central public administration; integrated with SIGED, CIMEXT, SYCAD",2026-09-16-bfa-libreinfo-fasosign-lancement-signature-electronique
 BFA,Electronic signature platform (launch scheduled 2026-09-15),signature électronique,other,,"Ministry of Digital Transition, Posts and Electronic Communications",public administration,2026-09-14-burkina-faso-administration-signature-electronique-wearetech
@@ -21,11 +21,11 @@ CIV,Electronic signature system for public administration,signature électroniqu
 CIV,Government electronic signature programme,signature électronique,other,,Ministère de la Fonction publique et de la Modernisation de l'administration,"Fonction publique, Direction générale des impôts, Construction and Mines ministries, Commerce ministry (enrolment from 2026-08-12), extending to mayors and regional councils",2026-08-13-cote-divoire-commerce-ministry-electronic-signature
 CIV,PKI nationale,Infrastructure à Clés publiques nationale,other,,ANSSI-CI,"all certification authorities operating in Côte d'Ivoire; administration, businesses, citizens",2026-07-25-cote-divoire-anssi-national-pki-commissioned
 CIV,National PKI,national public key infrastructure,other,,ANSSI-CI,certification authorities and trust service providers in Côte d'Ivoire; no timeline for providers to begin using it,2026-07-28-cote-divoire-launches-national-pki
-COD,RDC-PASS,RDC-PASS,,,Ministry of Digital Economy,"national; first operational phase September 2026, 50 enrolment agents trained",2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
-COD,Guichet numérique,Guichet numérique,,,Government,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
-COD,RDCpass,RDCpass,,,Government of DRC,"national; platform online 2026-06-13, citizen registration to follow agent certification",2026-06-13-rdc-pass-plateforme-identite-numerique-nationale
-COD,Autorité nationale de certification électronique,Autorité nationale de certification électronique,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
-COD,RDCPass,RDCPass,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,RDC-PASS,RDC-PASS,other,,Ministry of Digital Economy,"national; first operational phase September 2026, 50 enrolment agents trained",2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,Guichet numérique,Guichet numérique,other,,Government,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,RDCpass,RDCpass,other,,Government of DRC,"national; platform online 2026-06-13, citizen registration to follow agent certification",2026-06-13-rdc-pass-plateforme-identite-numerique-nationale
+COD,Autorité nationale de certification électronique,Autorité nationale de certification électronique,other,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,RDCPass,RDCPass,other,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
 COD,Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026,Arrêté 004/2026,law,,Ministry of Digital Economy,,2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques
 COD,Arrêté interministériel n°015/2026 et n°096/2026 du 20 juillet 2026,Arrêté interministériel 015/2026,law,,Ministry of Digital Economy,,2026-07-20-drc-arrete-interministeriel-015-taux-droits-taxes-redevances-numerique
 COD,Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026,Arrêté 004/2026,law,,Ministry of Digital Economy,,2026-03-11-rdc-arrete-004-2026-autorisations-services-numeriques
@@ -34,7 +34,7 @@ COG,Système de facturation électronique certifiée (SFEC),SFEC,other,,"Minist�
 COG,Système de facturation électronique certifiée (SFEC),SFEC,other,PGSFEC platform; certificates issued by the SFEC certification authority,"Direction générale des impôts et des domaines (DGID), with ANSSI and ACONOQ",taxpayers issuing invoices; terminal and software suppliers and distributors,2026-07-16-cog-arretes-1518-1521-facturation-electronique-certifiee-sfec
 COG,Système de facturation électronique certifié (SFEC),SFEC,other,,Direction générale des impôts et des domaines (DGID),,2026-07-09-cog-decret-2026-101-facturation-electronique-certifiee-sfec
 COM,Computerised civil registry (Amecc programme),Civil Registry Modernization Support Program,other,,"Government of Comoros; funded by French Embassy, UNICEF technical support",national,2026-03-27-comoros-civil-registry-digitisation-pin-wearetech
-COM,Tax tele-procedures platform,plateforme fiscale,,,,taxpayers,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
+COM,Tax tele-procedures platform,plateforme fiscale,other,,,taxpayers,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
 DZA,Law No. 18-05 on e-commerce,القانون رقم 18-05 المتعلق بالتجارة الإلكترونية,law,,,,2026-08-04-algerie-commerce-electronique-cadre-reglementaire
 EGY,منظومة الهوية الرقمية / التحقق البيومتري e-KYC,Digital identity and biometric e-KYC verification,other,,Egyptian state (Digital Egypt strategy),"government, banks, telecoms, digital financial services",2026-05-20-egypt-digital-id-ekyc-esignature-approaching-youm7
 EGY,Digified eKYC and e-contracts platform,Digified,other,proprietary machine-learning ID verification,"Digified (Egyptian regtech firm, licensed by the Financial Regulatory Authority)","lending, investment and insurance companies under the FRA",2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate
@@ -58,6 +58,7 @@ GMB,Gambia Information and Communication Technology Agency Act 2019,GICTA Act 20
 GNB,Projeto de Lei das Transações Eletrónicas,Projeto de Lei das Transações Eletrónicas,law,,ARN-TIC (Autoridade Reguladora Nacional),,2026-05-08-aviso-01-ca-arn-2026-consulta-publica-projeto-lei-transacoes-eletronicas
 LBR,"Electronic Transactions Law (Chapter 13, Title 14)",Electronic Transactions Law,law,,Ministry of Foreign Affairs (Recognition Authority for certification authorities),,2002-06-19-liberia-electronic-transactions-law-chapter-13-title-14
 LBY,PTS unified digital system,PTS,other,,Ministry of Economy and Trade,importers and foreign exporters registering to import goods for trade,2026-09-15-lby-tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports
+LBY,Law No 6 of 2022 on Electronic Transactions,Libya,law,,,,2023-12-14-lby-eltumi-data-protection-etransactions-law
 LSO,"Electronic Transactions and Communications Bill, 2026","Electronic Transactions and Communications Bill, 2026",law,,"MICSTI, supported by UNDP",,2026-09-30-lso-itweb-electronic-transactions-bill-2026
 LSO,"Electronic Transactions and Communications Bill, 2026","Electronic Transactions and Communications Bill, 2026",law,,"MICSTI, supervised by UNDP",,2026-09-29-lso-gov-micsti-electronic-transactions-communications-bill
 MAR,Damanesign,Damanesign,other,qualified electronic signature and seal certificates on USB key,Damanesign (trust service provider approved by DGSSI),"companies, public institutions, regulated professions, import-export operators",2026-10-01-mar-mwn-cash-plus-damanesign-e-signatures
@@ -101,12 +102,13 @@ SEN,APPEL (Achats publics en procédures électroniques),APPEL,other,,ARCOP Sene
 SEN,e-signature system,e-signature system,other,,Government of Senegal (New Deal Technologique),,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
 SEN,electronic signature systems,electronic signature systems,other,,Government of Senegal (New Deal Technologique),,2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives
 SEN,e-signature,e-signature,other,,Government of Senegal (New Deal Technologique),,2025-10-03-techafricanews-national-digital-council
-SEN,LGEC,"LGEC (civil status application, RNEC)",,,ANEC (Agence nationale de l'état civil),,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall
+SEN,LGEC,"LGEC (civil status application, RNEC)",other,,ANEC (Agence nationale de l'état civil),,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall
 SLE,Electronic Transactions Act,Electronic Transactions Act,law,,,,2026-07-29-sierra-leone-implement-electronic-transactions-act
 SLE,Electronic Transactions Act,Electronic Transactions Act,law,,,,2019-12-05-sierralii-record-electronic-transactions-act-2019
 SLE,"Electronic Transactions Bill, 2018","Electronic Transactions Bill, 2018",law,,,,2019-01-24-sierra-leone-electronic-transactions-bill-gazette-supplement
 SLE,Electronic Transactions Act,Electronic Transactions Act,law,,,,2023-01-01-uneca-dtri-sierra-leone-country-profile
 STP,Electronic Signature service,Assinatura Electrónica,other,"open standards, source code available to Government",INIC and DGRN with system integrator Ooru under STP Digital project,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+SWZ,Electronic Transactions Act 2022,Eswatini,law,,,,2026-04-29-swz-swazi24-maziya-national-data-policy
 TGO,Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques,Loi sur les transactions électroniques,law,,Republic of Togo,,2018-03-21-tgo-arcep-decret-2018-062-transactions-electroniques
 TGO,Décret n° 2018-062/PR portant réglementation des transactions et services électroniques,Décret 2018-062,law,,Presidency; ARCEP as delegated certification authority,,2018-03-21-tgo-arcep-decret-2018-062-transactions-electroniques
 TGO,Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques,Loi sur les transactions électroniques,law,,Republic of Togo,,2023-07-19-tgo-jo-loi-2023-012-transactions-electroniques

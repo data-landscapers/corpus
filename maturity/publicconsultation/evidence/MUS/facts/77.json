@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-07-mus-icta-public-consultations",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "answered",
+   "fact": "The Information and Communication Technologies Authority lists a published \"Response to Consultation Paper on making available additional Spectrum for IMT\" dated 7 November 2024, following its consultation paper of 23 August 2024.",
+   "as_of": "2024-11-07",
+   "date_precision": "day",
+   "system": "ICTA public consultations register",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICTA public consultations register",
+   "country_label": "Mauritius",
+   "class": "consultation",
+   "platform": "icta.mu website",
+   "owner": "Information and Communication Technologies Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

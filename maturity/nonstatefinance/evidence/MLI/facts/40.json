@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-06-mli-impactalpha-catalyst-fund-oko",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "ImpactAlpha reports Catalyst Fund has invested $200,000 in Bamako-based insurtech OKO Finance, $150,000 of it for business model expansion.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "OKO Finance",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OKO Finance",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "OKO Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

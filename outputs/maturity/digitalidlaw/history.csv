@@ -3,3 +3,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-12,KEN,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,4,2,KEN-001,Bill's ruling: NIIMS runs on an executive order with no identity law behind it; the 2018 omnibus amendment to the 1947 Act is not that law
 2026-10-13,MOZ,gov.legislate--legislation-covering-digital-id-national-identity-law,review,no evidence,2,MOZ-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,TCD,gov.legislate--legislation-covering-digital-id-national-identity-law,review,no evidence,4,TCD-002;TCD-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-17,DZA,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,4,4,DZA-005;DZA-007;DZA-004,Arrivals added DZA-006; DZA-007; stage unchanged.
+2026-10-17,MWI,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,3,3,MWI-001;MWI-002,Arrivals added MWI-003; stage unchanged.
+2026-10-17,ZAF,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,3,3,ZAF-003;ZAF-004,Arrivals added ZAF-008; stage unchanged.

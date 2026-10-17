@@ -1,0 +1,59 @@
+{
+ "slug": "2024-06-24-zmb-capacity-tower-sector-energy",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Infratel",
+       "country_label": "Infratel",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Infratel is called a towerco and datacentre operator, with no statement that it rents data centre space to others."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Load shedding",
+       "country_label": "12 hours a day from June 2024",
+       "class": "other",
+       "platform": "",
+       "owner": "ZESCO",
+       "tiers": ""
+      }
+     ],
+     "note": "Hours of load shedding only, no outage count."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives a 31% national access rate, not a rural figure."
+    }
+   }
+  }
+ }
+}

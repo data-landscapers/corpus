@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-xwa-togofirst-bceao-doubles-mobile-money-account-limit-cfaf-4-million",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Togo First reports a BCEAO instruction of 8 October 2026 binding the eight WAEMU states raised the e-money balance cap to CFAF 4 million per issuer (from CFAF 2 million since 2015) and cut the demand-deposit float floor from 75% to 65%, effective 2 November 2026.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "BCEAO instruction on electronic money limits",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

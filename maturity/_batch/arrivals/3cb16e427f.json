@@ -1,0 +1,43 @@
+{
+ "slug": "2025-05-23-sle-sltelegraph-apc-digital-census",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "The Sierra Leone Telegraph reports that Statistics Sierra Leone published a timeline for the proposed 2026 Population and Housing Census, with data processing from January to August 2026.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "2026 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2026 Population and Housing Census",
+       "country_label": "PHC 2026",
+       "class": "census",
+       "platform": "",
+       "owner": "Statistics Sierra Leone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The APC letter is opposition criticism of a census timeline; no government consultation on a digital law or policy is stated."
+    }
+   }
+  }
+ }
+}

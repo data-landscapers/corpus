@@ -1,0 +1,10 @@
+{"slug":"2025-06-16-cod-gff-countdown-analyse-donnees-dhis2-2019-2024","studies":{
+"health":{"countries":{"COD":{"facts":[
+{"sub_indicator":"hmis","aspect":"digitised","value":"hmis","fact":"The Countdown analysis says DHIS2 holds the DRC's routine health facility reporting, 2019-2024, with reporting completeness reaching 99% in 2024.","as_of":"2024","date_precision":"year","system":"DHIS2","class":"hmis"},
+{"sub_indicator":"hmis","aspect":"tiers","value":"T3;T4","fact":"The analysis says public primary-level facilities offering the minimum package report essential indicators more reliably in DHIS2.","as_of":"2024","date_precision":"year","system":"DHIS2","class":"hmis"}
+],"systems":[{"system":"DHIS2","country_label":"RDC","class":"hmis","platform":"DHIS2","owner":"","tiers":"T3;T4"}],"note":""}}},
+"healthmis":{"countries":{"COD":{"facts":[
+{"sub_indicator":"hmis","aspect":"system","value":"inservice","fact":"The Countdown analysis says DHIS2 data on facility reporting across the DRC's health zones and districts cover 2019-2024 and are of generally high quality.","as_of":"2024","date_precision":"year","system":"DHIS2","class":"hmis"},
+{"sub_indicator":"hmis","aspect":"completeness","value":"published","fact":"The analysis gives DHIS2 reporting completeness rising to 99% in 2024, with about 90% for six key indicators.","as_of":"2024","date_precision":"year","system":"DHIS2","class":"hmis"}
+],"systems":[],"note":""}}},
+"qualitystandards":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on national standards for information technology or data."}}}}}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-07-01-tun-ogp-tn0053-ouverture-donnees-publiques-irm",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The IRM text says the national open data portal, run by the e-government unit of the Presidency of the Government, offered open datasets from 23 data producers across 6 themes as of April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "The IRM text says 23 data producers published on the portal as of April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "reuse",
+   "value": "reused",
+   "fact": "The IRM text reports 5 data reuses and 233 open data requests on the portal, and a 2023 Open Gov Data Hack run by the e-government unit with the health, social affairs and education ministries.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Portail National des Données Ouvertes (data.gov.tn)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National des Données Ouvertes",
+   "country_label": "data.gov.tn",
+   "class": "open",
+   "platform": "",
+   "owner": "Unité de l'administration électronique, Présidence du gouvernement",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

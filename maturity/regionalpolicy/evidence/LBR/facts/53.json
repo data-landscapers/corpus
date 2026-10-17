@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-fpa-liberia-cybersecurity-ties-morocco-anca-smart-africa",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Liberia was admitted to the African Network of Cybersecurity Authorities (ANCA), per its Ministry of Posts and Telecommunications.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ANCA",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Liberia was admitted to Smart Africa, per its Ministry of Posts and Telecommunications.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Smart Africa",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

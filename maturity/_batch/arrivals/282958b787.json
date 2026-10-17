@@ -1,0 +1,139 @@
+{
+ "slug": "2024-08-11-cod-acp-etat-civil-communication-onip-fgp",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "An ONIP legal expert said civil-status events (births, deaths, marriages) are reported to ONIP for entry in the FGP, which they feed.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "FGP",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP)",
+       "country_label": "RDC",
+       "class": "other",
+       "platform": "",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital civil registration system or its coverage is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No unique number given at birth registration is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ONIP's legal expert described the FGP as holding biographic and biometric identity data and as the single source for producing all secure titles and documents.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "FGP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP)",
+       "country_label": "RDC",
+       "class": "other",
+       "platform": "",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ONIP's legal expert described the FGP as the single reference for identifying individuals, covering Congolese and foreigners resident and Congolese abroad.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "FGP",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "vital",
+       "value": "updated",
+       "fact": "ONIP's legal expert said civil-status events (births, deaths, marriages) feed the FGP after being registered at the commune and reported to ONIP.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "FGP",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "ONIP's legal expert said the FGP is the single data source for producing all secure titles and documents.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "FGP",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP)",
+       "country_label": "RDC",
+       "class": "other",
+       "platform": "",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital entry at local civil registration offices is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,international,standing,member,ISO lists the Institute of Ethiopian Standards as a member body of ISO and an associate member of IEC.,2026,year,Institute of Ethiopian Standards,adoption,2026-01-01-eth-iso-member-ies,https://www.iso.org/member/1725.html

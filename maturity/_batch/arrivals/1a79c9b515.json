@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-afdb-com-001-comoros---project-to-support-the",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Funds a new data centre; planned, not in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Funds a new data centre; planned, not in service."
+    }
+   }
+  }
+ }
+}

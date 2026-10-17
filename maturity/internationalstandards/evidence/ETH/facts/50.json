@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-eth-iso-member-ies",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO lists the Institute of Ethiopian Standards as a member body of ISO and an associate member of IEC.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Institute of Ethiopian Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

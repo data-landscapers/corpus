@@ -1,0 +1,10 @@
+{"slug": "2025-07-30-stp-saudigitus-camada-interoperabilidade-sis", "studies": {
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "Links health information system to civil registration, not the civil register to the ID system."}}},
+"civilregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "Says nothing of how births or deaths are registered."}}},
+"dataexchange": {"countries": {"STP": {"facts": [], "systems": [], "note": "A health-sector interoperability layer, not a government-wide exchange platform."}}},
+"health": {"countries": {"STP": {"facts": [], "systems": [{"system": "Sistema Nacional de Informação de Saúde (DHIS2-based)", "country_label": "STP", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health, SIS department", "tiers": ""}], "note": "Names the national health information system but states nothing on facility reporting, tiers or patient records in use."}}},
+"healthexchange": {"countries": {"STP": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Saudigitus says it is developing, with SIS-STP and UNDP support, an interoperability layer integrating the National Health Information System with the Civil Registration System to share birth and death data.", "as_of": "2025-07-30", "date_precision": "day", "system": "Interoperability layer (National Health Information System - Civil Registration System)", "class": "exchange"}], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"STP": {"facts": [], "systems": [], "note": "Names the national system but does not say facilities report through it; the link to civil registration is in development."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "No ID number at birth mentioned."}}},
+"registry": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on how local registry offices enter events."}}}
+}}

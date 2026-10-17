@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-29-som-govstack-digital-leaders-spotlight-somalia",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "GovStack states there is no enabling legislation for data sharing and data analysis yet in Somalia.",
+   "as_of": "2024-09-29",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

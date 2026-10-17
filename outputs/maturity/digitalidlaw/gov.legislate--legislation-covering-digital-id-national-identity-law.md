@@ -73,9 +73,10 @@ Uganda's 2015 Registration of Persons Act provides a unique number and biometric
 
 ### Algeria: 4 Operating
 
-Algeria's law of February 2026 sets rules for electronic identification tied to the biometric identity card. No rules made under it are known.
+Algeria's February 2026 law covers electronic identification, with a national number required since 2010. No rules made under the law are known.
 
 - By its title Loi n° 26-02 of 17 February 2026 sets the rules for electronic identification, and the stories on its draft say it introduces a national digital identity ([source, 2026-02-17](https://www.mpt.gov.dz/wp-content/uploads/2026/02/Loi-n%C2%B0-26-02.Services-de-Confiance.Identification-electronique.FR_.pdf)).
+- The Ministry of the Interior says executive decree 10-210 of 16 September 2010 instituted the national identification number (NIN) and requires it on official identity, circulation and travel documents ([source, 2010-09-16](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 - Loi n° 26-02 of 17 February 2026 fixes the general rules on trust services for electronic transactions and on electronic identification; it is a law, published by the ministry of post and telecommunications ([source, 2026-02-17](https://www.mpt.gov.dz/wp-content/uploads/2026/02/Loi-n%C2%B0-26-02.Services-de-Confiance.Identification-electronique.FR_.pdf)).
 
 ### Angola: 4 Operating
@@ -267,10 +268,10 @@ Seychelles' identity cards law, amended in 2023, is in force. Whether it provide
 
 ### South Africa: 3 Established
 
-South Africa's 1997 Identification Act is in force, with a replacement bill due in 2027 or 2028. Whether it covers digital identity is not known.
+South Africa's 1997 Identification Act is in force; a replacement bill is due in 2027 or 2028. Whether it covers digital identity is not known.
 
-- The Citizen reports Home Affairs gazetted draft amended regulations in terms of the Identification Act, 1997 (Act No. 68 of 1997) for comment until 6 June 2026, with access to identity information regulated under that Act (document published 2026-05-09, no other date given) ([source, 2026-05-09](https://www.citizen.co.za/news/south-africa/smart-ids-go-digital-home-affairs-publishes-draft-rules/)).
-- The document treats the Identification Act of 1997 as the existing act, with draft amendments to it published for comment until 6 June 2026 (Home Affairs announcement of 5 May 2026); an act of parliament, amended through regulations ([source, 2026-05-05](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments)).
+- The Department of Transport states that the Identification Act, 1997 (Act No. 68 of 1997) designates Home Affairs as the sole authority maintaining the National Population Register and issuing identification documents, and treats it as current law (document published 2026-10-11, no other date given) ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-amend-regulations-prevent-traffic-documents-being-used-identification)).
+- The Citizen reports the Department of Transport saying the Identification Act, 1997 (Act No. 68 of 1997) makes Home Affairs the sole authority to maintain the National Population Register and issue identification documents, and treats it as current law (document published 2026-10-10, no other date given) ([source, 2026-10-10](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/)).
 
 ### Tanzania: 3 Established
 

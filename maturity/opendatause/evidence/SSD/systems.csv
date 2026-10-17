@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SSD,NBS Open Data Portal,"Open Data Portal (NBS, nbs.gov.ss)",open,,National Bureau of Statistics,Public; Registered; Restricted,2026-08-29-south-sudan-nbs-open-data-portal
-SSD,National Data Archive,National Data Archive (NBS microdata),,,National Bureau of Statistics,,2026-08-29-south-sudan-nbs-open-data-portal
-SSD,Food Security Statistics Portal,Food Security Statistics Portal (NBS),,,National Bureau of Statistics,,2026-08-29-south-sudan-nbs-open-data-portal
+SSD,National Data Archive,National Data Archive (NBS microdata),other,,National Bureau of Statistics,,2026-08-29-south-sudan-nbs-open-data-portal
+SSD,Food Security Statistics Portal,Food Security Statistics Portal (NBS),other,,National Bureau of Statistics,,2026-08-29-south-sudan-nbs-open-data-portal
 SSD,CLIMIS,CLIMIS dashboard (climis-southsudan.org),other,,South Sudan IPC Technical Working Group / CLIMIS Data Warehouse,,2026-05-09-south-sudan-climis-ipc-population-dashboard
 SSD,NBS website,National Bureau of Statistics website,open,,National Bureau of Statistics,,2026-04-21-south-sudan-mics7-national-survey-released

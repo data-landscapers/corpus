@@ -1,0 +1,91 @@
+{
+ "slug": "2025-04-02-zaf-dpsa-data-governance-directive",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The DPSA directive says it facilitates implementation of the Promotion of Access to Information Act of 2000, among other legislation.",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "Promotion of Access to Information Act of 2000",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": "Law named only in passing; no rules, oversight body or application stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on an AI strategy."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Minister for Public Service and Administration signed the Determination and Directive on the Implementation of Data Governance in the Public Service, with the Public Service Data Governance Framework as Annexure A, in effect on signature and repealing the 14 February 2024 knowledge and data management directive.",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "Determination and Directive on the Implementation of Data Governance in the Public Service",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "The directive requires each Head of Department to establish a Data Governance Committee and a Data Governance Office and to appoint a Chief Data Officer (which may be filled within 24 months).",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "Determination and Directive on the Implementation of Data Governance in the Public Service",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Service Data Governance Framework",
+       "country_label": "South Africa",
+       "class": "policy",
+       "platform": "",
+       "owner": "Department of Public Service and Administration",
+       "tiers": "national and provincial departments and components"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on an ICT sector policy."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only names a Minimum Interoperability Standard in passing; its adoption or content is not stated."
+    }
+   }
+  }
+ }
+}

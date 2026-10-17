@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-ZAF,Wiocc open-access terrestrial fibre footprint,Wiocc,,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
-ZAF,"WIOCC subsea capacity, metro fibre and data centres (South Africa, Nigeria, DRC)",WIOCC,,,WIOCC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+ZAF,Wiocc open-access terrestrial fibre footprint,Wiocc,other,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
+ZAF,"WIOCC subsea capacity, metro fibre and data centres (South Africa, Nigeria, DRC)",WIOCC,other,,WIOCC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 ZAF,Liquid Intelligent Technologies pan-African fibre network,Liquid cross-border fibre network,shared,terrestrial fibre,Liquid Intelligent Technologies (Cassava Technologies),"operators, enterprises, hyperscalers",2026-08-05-eaaif-eastcastle-liquid-82m-eaif
-ZAF,WIOCC Group subsea capacity and terrestrial fibre,WIOCC,,,"WIOCC Group (WIOCC Mauritius, OADC PropCo South Africa)",,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
+ZAF,WIOCC Group subsea capacity and terrestrial fibre,WIOCC,other,,"WIOCC Group (WIOCC Mauritius, OADC PropCo South Africa)",,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
 ZAF,SADC-RTGS,SADC real-time gross settlement (SADC-RTGS) system,other,,"South African Reserve Bank, appointed by the SADC Committee of Central Bank Governors",central banks and participants in 15 SADC countries,2026-07-28-sadc-rtgs-kwanza-official

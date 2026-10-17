@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-15-zmb-szi-smartcare-pro-400-facilities",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:400",
+   "fact": "SMART Zambia's national coordinator said the government, with US and IHM-Southern Africa support, had digitised 400 health facilities nationwide with the SmartCare Pro Electronic Health Record system.",
+   "as_of": "2024-08-15",
+   "date_precision": "day",
+   "system": "SmartCare Pro",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartCare Pro",
+   "country_label": "SmartCare Pro",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health with SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

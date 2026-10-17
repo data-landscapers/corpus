@@ -1,5 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MAR,Switch Al Maghrib,Switch Al Maghrib,other,,Switch Al Maghrib,banks and payment institutions,2026-09-27-mar-instant-payment-mfc-talks
 MAR,Fatourati,Fatourati,other,,Centre Monétique Interbancaire (CMI),32 banks and payment institutions; fintechs and invoicing-software publishers via Fatourati Agrégateur,2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs
-MAR,CMI (Centre Monétique Interbancaire),CMI,,,banks (shareholders),"payment establishments and banks as acquirers, on equitable access to the technical processing platform",2026-07-10-morocco-communique-conjoint-interchange-cap
-MAR,CMI (Centre Monétique Interbancaire),CMI,,,banks (shareholders),multi-acquirer technical platform for payment establishments,2025-10-31-morocco-communique-cmi-desengagement
+MAR,CMI (Centre Monétique Interbancaire),CMI,other,,banks (shareholders),"payment establishments and banks as acquirers, on equitable access to the technical processing platform",2026-07-10-morocco-communique-conjoint-interchange-cap
+MAR,CMI (Centre Monétique Interbancaire),CMI,other,,banks (shareholders),multi-acquirer technical platform for payment establishments,2025-10-31-morocco-communique-cmi-desengagement

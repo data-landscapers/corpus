@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-moz-iso-innoq-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The ISO member page lists INNOQ as a correspondent member of ISO, with 5 technical committees as participating member and 9 as observing member.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Instituto Nacional de Normalização e Qualidade (INNOQ)",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,182 @@
+{
+ "slug": "2024-12-20-caf-worldbank-pgnsp-isr-simba",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for CAF."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The World Bank ISR says numerous training sessions for civil servants, a third of them women, were held in 2024 under the digital government component, with 367 civil servants and beneficiaries trained to date against a 2,000 target for Dec 2026.",
+       "as_of": "2024-12-20",
+       "date_precision": "day",
+       "system": "Public Sector Digital Governance Project (P174620)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "The World Bank ISR says the law on the protection of personal data was adopted in January 2024 and the enactment of two laws (cybersecurity and data protection) was achieved in 2024.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Law on the protection of personal data",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "none",
+       "fact": "The World Bank ISR says activities are being planned to support drafting of the implementing decrees of the enacted data protection law.",
+       "as_of": "2024-12-20",
+       "date_precision": "day",
+       "system": "Law on the protection of personal data",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank ISR says a clean payroll database is being used to pay civil servants and civil-servant enrolment on the government salary mobile payment system (Patapaye) increased.",
+       "as_of": "2024-12-20",
+       "date_precision": "day",
+       "system": "Patapaye",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Patapaye",
+       "country_label": "Central African Republic",
+       "class": "g2p",
+       "platform": "mobile money",
+       "owner": "Government",
+       "tiers": ""
+      },
+      {
+       "system": "SIMBA",
+       "country_label": "Central African Republic",
+       "class": "other",
+       "platform": "government financial management system",
+       "owner": "Ministry of Finance and Budget",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

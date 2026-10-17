@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-12-bfa-burkina24-veneem-identifiant-unique-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "The director of the unique identifier and civil-status document security said VENEEM, used at health facilities and main centres to declare and register events and print the act on site, is in a pilot in three communes (Ouagadougou arrondissement 3, Komsilga), with all Ouagadougou arrondissements, Bobo-Dioulasso and Komsilga to have it before the end of 2024.",
+   "as_of": "2024-11-12",
+   "date_precision": "day",
+   "system": "VENEEM",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VENEEM",
+   "country_label": "Burkina Faso",
+   "class": "civil",
+   "platform": "web and smartphone, works offline",
+   "owner": "Ministry of Territorial Administration and Mobility (MATS)",
+   "tiers": "health facilities and civil-status centres"
+  }
+ ],
+ "note": ""
+}

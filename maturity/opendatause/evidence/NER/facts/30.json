@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-30-ner-ins-licence-donnees-ouvertes",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "Niger's Institut National de la Statistique grants a worldwide, free, non-exclusive licence to use, modify and distribute its data for commercial and non-commercial purposes with attribution.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "INS Niger open data licence (stat-niger.org)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INS Niger website and open data portal",
+   "country_label": "NER stat-niger.org",
+   "class": "open",
+   "platform": "",
+   "owner": "Institut National de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

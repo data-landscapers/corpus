@@ -1,0 +1,115 @@
+{
+ "slug": "2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No backbone reach or build stated."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No backbone reach or build stated."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No backbone reach or build stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Developing Telecoms says Cote d'Ivoire hosts landing points for six subsea cables: 2Africa, ACE, MainOne, Maroc Telecom West Africa, SAT-3/WASC and WACS.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Subsea cable landings",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Developing Telecoms says Guinea has a single international subsea link, ACE.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "ACE",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Landlocked, no subsea link; the interconnection with Guinea is an agreement, not stated in service."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Guinea's interconnection with Cote d'Ivoire is a plan only, no agreement."
+    },
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "In June 2024 Guinea's SOGEB and Mali's SMTD agreed, with ministry facilitation, to interconnect the two countries' fibre networks.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "SOGEB-SMTD fibre interconnection",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "In June 2024 Mali's SMTD and Guinea's SOGEB agreed to interconnect the two countries' fibre networks.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "SOGEB-SMTD fibre interconnection",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company-level fibre deal and ministry plans; no African body or digital policy agreement stated."
+    }
+   }
+  }
+ }
+}

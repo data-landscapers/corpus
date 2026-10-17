@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The Ministry of the Interior presents a 2025-2030 strategic vision for digital transformation with named objectives, without saying it was adopted.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Vision strategique 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The Ministry of the Interior gives the period of the digital transformation vision as 2025-2030.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Vision strategique 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The Ministry of the Interior says the High Commission for Digitalisation, created in 2023, is charged with designing and implementing the national digitalisation strategy.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Haut Commissariat au numerique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-17-cmr-alb-key-features-cameroon-data-protection-law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The authors say Law No. 2024/017 Relating to Personal Data Protection of 23 December 2024 becomes enforceable after an 18-month grace period from enactment.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 Relating to Personal Data Protection",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The authors say the Personal Data Protection Authority provided for in the Act is yet to be established.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-12-zaf-businessday-regulate-platforms-cybercriminals-use-dsa-lessons",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The authors Fritz and Limpitlaw state that South Africa's Cybercrimes Act criminalises a range of online wrongdoing and provides investigative powers, evidence preservation and international co-operation.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Cybercrimes Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks about this country."
+    }
+   }
+  }
+ }
+}

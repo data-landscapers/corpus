@@ -1,0 +1,70 @@
+{
+ "slug": "2024-03-02-eth-reporter-government-initiates-census",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on statistics from administrative records."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ethiopian Statistics Development Program",
+       "country_label": "ESDP 2024-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Planning and Development; Ethiopian Statistics Service",
+       "tiers": ""
+      }
+     ],
+     "note": "Population census postponed to the programme's final year, possible 2025/26, with no mapping, pilot or funding fixed; last census 2007."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No law or draft stated; only a plan for legislation"
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Reporter says the Ministry of Planning and Development and the Ethiopian Statistics Service launched the Ethiopian Statistical Development Program, costing about ETB 35 billion and running until 2026.",
+       "as_of": "2024-02-01",
+       "date_precision": "day",
+       "system": "Ethiopian Statistics Development Program",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ethiopian Statistics Development Program",
+       "country_label": "ESDP 2024-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Planning and Development; Ethiopian Statistics Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "5",
-   "part": "active",
-   "effect": "in-use",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-005;UGA-006",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "5",
+      "part": "active",
+      "effect": "in-use",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-005;UGA-009",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

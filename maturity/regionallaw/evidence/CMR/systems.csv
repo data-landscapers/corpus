@@ -2,5 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,African Union Convention on Cyber Security and Personal Data Protection,Malabo Convention,harmonisation,,African Union,,2026-02-02-au-malabo-convention-status-list
 CMR,GIMAC Pay,GIMAC Pay,other,,,,2026-08-17-africa-single-payments-market-currencies-divided
 CMR,CEMAC interoperable QR Code standard,norme QR Code interopérable de la CEMAC,harmonisation,,GIMAC; validated by the UMAC Ministerial Committee,"banks, microfinance institutions, mobile-money wallets, payment institutions",2026-07-30-cemac-gimac-norme-qr-code-interoperable
-CMR,GIMACPAY,GIMACPAY,,,GIMAC,"banks, mobile money, microfinance",2026-07-30-cemac-gimac-norme-qr-code-interoperable
+CMR,GIMACPAY,GIMACPAY,other,,GIMAC,"banks, mobile money, microfinance",2026-07-30-cemac-gimac-norme-qr-code-interoperable
 CMR,CEMAC interoperable QR Code (Règlement N°02/26/CEMAC/UMAC/COREFNOFI),QR Code de paiements interopérables de la Cemac,harmonisation,EMVCo standards,BEAC; operations routed and cleared via GIMAC,"banks, microfinance institutions, payment institutions",2026-07-30-gabonreview-beac-qr-code-interoperable-cemac

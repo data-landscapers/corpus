@@ -1,0 +1,15 @@
+{"slug": "2026-01-12-cpv-imij-sniac-sistema-pivot", "studies": {
+"authentication": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "IMIJ states SNIAC has issued about 1,291,910 digital certificates for authentication and qualified digital signature.", "as_of": "2026-01-12", "date_precision": "day", "system": "SNIAC", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "IMIJ states SNIAC supplies identification and authentication (e-ID) data and services to dozens of public and private bodies, including banks and insurers, through more than 134 configured services/APIs and over 30 million requests.", "as_of": "2026-01-12", "date_precision": "day", "system": "SNIAC", "class": "authentication"}
+], "systems": [{"system": "SNIAC", "country_label": "Cabo Verde", "class": "authentication", "platform": "", "owner": "IMIJ", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The document says nothing on links between the civil register and the ID system."}}},
+"idcoverage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "It counts cards issued (about 631,720) but gives no share of the population enrolled."}}},
+"idfrombirth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"CPV": {"facts": [], "systems": [], "note": "It says SNIAC is under IMIJ management but not who operates, maintains or owns the platform."}}},
+"idregisters": {"countries": {"CPV": {"facts": [], "systems": [], "note": "It names no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "IMIJ states SNIAC has contributed to issuing about 631,720 national identity cards (CNI), 513,862 electronic passports and 14,235 residence permits since its implementation.", "as_of": "2026-01-12", "date_precision": "day", "system": "SNIAC", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"populationregister": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No population register is named."}}}
+}}

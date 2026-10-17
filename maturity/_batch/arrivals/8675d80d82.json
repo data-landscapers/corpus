@@ -1,0 +1,16 @@
+{"slug":"2026-10-16-uga-monitor-uganda-champions-au-single-digital-market","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on the central bank's role."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Only planned e-commerce redress and a proposed Consumer Protection Act; no rules in force or drafted stated."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No cross-border payment corridor stated."}}},
+"cybersecuritylaw":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on cybersecurity law."}}},
+"digitalidlaw":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on identity law."}}},
+"digitalstrategy":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Only the AU strategy is named; no Ugandan national strategy stated."}}},
+"ecommercelaw":{"countries":{"UGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Daily Monitor says Uganda currently relies on a piecemeal framework including the Electronic Transactions Act.","as_of":"2026-10-16","date_precision":"day","system":"Electronic Transactions Act","class":"law"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"UGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Daily Monitor says Uganda currently relies on a regulatory framework including the National Payment Systems Act and guidelines issued by financial regulators.","as_of":"2026-10-16","date_precision":"day","system":"National Payment Systems Act","class":"law"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey account share stated."}}},
+"regionalpolicy":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Uganda is said to champion the AU single digital market; no signed agreement, seat or meeting hosted stated."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on mobile money or retail payment services."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on electronic tax payment."}}}
+}}

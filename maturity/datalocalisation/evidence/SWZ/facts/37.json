@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-swz-swazi24-maziya-national-data-policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a National Data Centre keeping government data locally and a draft policy expected to cover cross-border flows; no localisation rule is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-24-eth-insa-cybersecurity-standards-approved",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "The Ethiopian Standards Board officially approved 5 mandatory cybersecurity standards and 31 guidelines and frameworks, drafted by INSA with the Ethiopian Standards Institute, according to INSA.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Ethiopian Standards Board cybersecurity standards",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Standards Board",
+   "country_label": "Ethiopian Standards Board",
+   "class": "body",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

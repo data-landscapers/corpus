@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-05-eth-amn-addis-crvs-id-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Civil Registration and Vital Statistics with ID System",
+   "country_label": "Integrated digital civil registration and residency service system (Addis Ababa)",
+   "class": "civil",
+   "platform": "",
+   "owner": "Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute",
+   "tiers": "city"
+  }
+ ],
+ "note": "Document says the system is operational in Addis Ababa but not where the event is entered, which events, or office counts."
+}

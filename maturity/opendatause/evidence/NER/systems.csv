@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Illimi Niger multisectoral data platform,Illimi Niger platform (no address given),other,,UN Resident Coordinator's Office with the government,,2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel
 NER,Plateforme Nationale d'Information pour la Nutrition (PNIN) web portal,"PNIN portal, Institut National de la Statistique (no address given)",open,,Institut National de la Statistique,,2025-09-18-anp-pnin-portail-web-renove
+NER,INS Niger website and open data portal,NER stat-niger.org,open,,Institut National de la Statistique,,2024-10-30-ner-ins-licence-donnees-ouvertes

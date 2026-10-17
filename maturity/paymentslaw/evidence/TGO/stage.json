@@ -1,16 +1,17 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "connect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-003;TGO-006;TGO-005",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "connect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-002;TGO-003;TGO-005;TGO-007",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

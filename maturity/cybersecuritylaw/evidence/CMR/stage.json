@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001;CMR-002",
-   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-004;CMR-001",
+      "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
+      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

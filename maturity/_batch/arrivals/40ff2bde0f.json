@@ -1,0 +1,44 @@
+{"slug":"2026-01-01-som-id4africa-somali-digital-identity-playbook","studies":{
+"admindata":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Names no published statistics from administrative records."}}},
+"authentication":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The Central Bank of Somalia says all banks are integrated to the NIRA platform and about 20 thousand ID verifications were made from September 2025, when NIRA ID became mandatory for opening and updating accounts.","as_of":"2025-09","date_precision":"month","system":"NIRA national ID platform","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"reach","value":"several","fact":"NIRA says 100+ services are integrated with the national ID, among them the Accountant General's online signature services, banks, telecoms SIM registration and the education, transport and civil service bodies.","as_of":"2026","date_precision":"year","system":"NIRA national ID platform","class":"authentication"}
+],"systems":[{"system":"NIRA national ID platform","country_label":"NIRA national ID platform","class":"authentication","platform":"","owner":"National Identification and Registration Authority","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The CRVS chapter has a heading on integration with the national ID system and states no link, plan or exchange."}}},
+"businesspayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"censuses":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Cites the 2022 Somalia Integrated Household Budget Survey only as the source of bank account charts; states no census or survey result."}}},
+"centralbank":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The central bank's eKYC regulation and ID mandate concern KYC, not a payments mandate, licensing or switch oversight."}}},
+"civilregister":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"civil","aspect":"births","value":"underway","fact":"The CRVS Authority says the national civil registration system is built on OpenCRVS, was approved in November 2023, and was piloted from October 2024 in 20 districts.","as_of":"2024-10","date_precision":"month","system":"OpenCRVS","class":"civil"}
+],"systems":[{"system":"OpenCRVS","country_label":"National CRVS system on OpenCRVS","class":"civil","platform":"OpenCRVS","owner":"CRVS Authority","tiers":"20 pilot districts"}],"note":""}}},
+"consumerprotection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Nothing on consumer rules or redress for digital finance."}}},
+"crossborderpayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"dataprotectionauthority":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Lists an independent Data Protection Authority only as a design-principle oversight line, with no law article, appointment or ruling."}}},
+"dataprotectionlaw":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"NIRA says its operations are governed by the Identification and Registration Act and the Data Protection Act.","as_of":"2026","date_precision":"year","system":"Data Protection Act","class":"general"}
+],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"idcoverage":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Gives 1.4M+ registered as of March 2026 and a 15 million target by 2029 but no population figure or share."}}},
+"idfrombirth":{"countries":{"SOM":{"facts":[],"systems":[],"note":"States no ID number issued at birth registration."}}},
+"idmaintenance":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"maintenance","aspect":"operation","value":"transfer","fact":"NIRA says it has used partnerships with NADRA and the World Bank for knowledge transfer and training to address its institutional capacity gaps.","as_of":"2026","date_precision":"year","system":"NIRA national ID platform","class":"idsystem"}
+],"systems":[],"note":""}}},
+"idregisters":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Names identity verification for civil service payroll but not a register keyed on the ID number."}}},
+"idrobustness":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"NIRA says 1.4M+ people were registered as of March 2026 after a foundational ID mass registration pilot launched in August 2025, with 70 registration centres.","as_of":"2026-03","date_precision":"month","system":"NIRA national ID platform","class":"idsystem"},
+{"sub_indicator":"robustness","aspect":"biometric","value":"checked","fact":"NIRA lists fraud reduction via biometric de-duplication among the early results of the national ID.","as_of":"2026","date_precision":"year","system":"NIRA national ID platform","class":"idsystem"}
+],"systems":[],"note":""}}},
+"idverification":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"The Central Bank of Somalia says it mandated NIRA ID for opening and updating bank accounts from 1 September 2025 and that all banks are integrated to the NIRA platform.","as_of":"2025-09-01","date_precision":"day","system":"NIRA national ID platform","class":"relying"},
+{"sub_indicator":"use","aspect":"sectors","value":"several","fact":"NIRA says banks (KYC), telecoms (mandatory SIM registration), the Civil Service Commission (payroll identity verification) and the education ministry use the national ID for verification.","as_of":"2026","date_precision":"year","system":"NIRA national ID platform","class":"relying"},
+{"sub_indicator":"use","aspect":"usage","value":"reported","fact":"The Central Bank of Somalia says about 20 thousand verifications were made since September 2025, and NIRA says 100+ services are integrated.","as_of":"2026","date_precision":"year","system":"NIRA national ID platform","class":"relying"}
+],"systems":[],"note":""}}},
+"internationalstandards":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Mentions adopting international standards only as a design principle, naming no standard or body."}}},
+"paymentsuptake":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Gives bank-only account shares from the 2022 household budget survey, not a bank or mobile money account share."}}},
+"publicconsultation":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No consultation stated."}}},
+"registry":{"countries":{"SOM":{"facts":[
+{"sub_indicator":"civil","aspect":"offices","value":"pilot","fact":"The CRVS Authority says its OpenCRVS-based digital registration system was launched as a pilot in October 2024 in 20 districts.","as_of":"2024-10","date_precision":"month","system":"OpenCRVS","class":"civil"}
+],"systems":[{"system":"OpenCRVS","country_label":"National CRVS system on OpenCRVS","class":"civil","platform":"OpenCRVS","owner":"CRVS Authority","tiers":"20 pilot districts"}],"note":""}}},
+"retailpayments":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Names the Somali Payment Switch's head but states no mobile money, interoperability or switch service."}}},
+"revenuecollection":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No electronic tax or fee payment stated."}}}
+}}

@@ -1,0 +1,19 @@
+{"slug": "2024-03-02-cog-linkedin-arpce-datacenter-pointe-noire-pca", "studies": {
+"datacentres": {"countries": {"COG": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "ARPCE's Pointe-Noire data centre, described as Tier 3+ with 54 racks, was put into service on 28 February 2024, and ARPCE's director general says it can host public administration and private sector data.", "as_of": "2024-02-28", "date_precision": "day", "system": "ARPCE Pointe-Noire Datacenter", "class": "datacentre"}
+], "systems": [
+{"system": "ARPCE Pointe-Noire Datacenter", "country_label": "Congo", "class": "datacentre", "platform": "", "owner": "ARPCE", "tiers": "Tier 3+"},
+{"system": "ARPCE Brazzaville Datacenter", "country_label": "Congo", "class": "datacentre", "platform": "", "owner": "ARPCE", "tiers": "Tier 2"}
+], "note": ""}}},
+"digitalsovereignty": {"countries": {"COG": {"facts": [], "systems": [], "note": "The director general calls the data centre a tool of digital sovereignty and says it will be able to host public administration data, but no rule, goal document or hosting in place is stated."}}},
+"internationalbandwidth": {"countries": {"COG": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Meta's 2Africa submarine cable, landed on the Congolese coast in August 2023, was officially connected by President Sassou N'Guesso at Pointe-Noire on 28 February 2024.", "as_of": "2024-02-28", "date_precision": "day", "system": "2Africa", "class": "route"}
+], "systems": [
+{"system": "2Africa", "country_label": "Congo", "class": "route", "platform": "", "owner": "Meta", "tiers": ""}
+], "note": ""}}},
+"nationaldatacentres": {"countries": {"COG": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "ARPCE, the state postal and electronic communications regulator, put its Tier 3+ Pointe-Noire data centre into service on 28 February 2024, stated as open to public administration and private sector data.", "as_of": "2024-02-28", "date_precision": "day", "system": "ARPCE Pointe-Noire Datacenter", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The Pointe-Noire Tier 3+ data centre is ARPCE's, the Congolese state regulator, housed in its departmental branch building.", "as_of": "2024-02-28", "date_precision": "day", "system": "ARPCE Pointe-Noire Datacenter", "class": "datacentre"}
+], "systems": [], "note": ""}}},
+"offsitebackup": {"countries": {"COG": {"facts": [], "systems": [], "note": "A continuity plan is mentioned in general terms, but no backup site for a public body's systems, in a named place and in service, is stated."}}}
+}}

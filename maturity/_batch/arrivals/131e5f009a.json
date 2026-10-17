@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-27-tgo-togofirst-arcep-mobile-quality-yas-mat",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom service-quality regulation; states nothing on international IT standards."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom service-quality standards only; no government system data-exchange standards."
+    }
+   }
+  }
+ }
+}

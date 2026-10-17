@@ -1,0 +1,158 @@
+{
+ "slug": "2025-04-01-lso-bos-publications",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Bureau of Statistics Lesotho publications page lists downloadable Crime Statistics 2022, Education Statistical Report 2023 and Annual Foreign Trade Statistics Report 2024.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "BOS publications page",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "vital",
+       "value": "published",
+       "fact": "The Bureau of Statistics Lesotho page lists a Vital Statistics Report 2022 and Vital Statistics (Births & Deaths) 2021 and 2020.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Vital Statistics Report 2022",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "series",
+       "value": "annual",
+       "fact": "The Bureau of Statistics Lesotho page lists vital statistics reports of births and deaths for 2020, 2021 and 2022.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Vital Statistics reports 2020-2022",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Vital Statistics Report 2022",
+       "country_label": "Vital Statistics Report 2022",
+       "class": "admin",
+       "platform": "",
+       "owner": "Bureau of Statistics Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "BOS publications listing states nothing on this question."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "The Bureau of Statistics Lesotho page lists Census 2016 Vol IIIA Population Dynamics and Vol IIIB Socio-Economic Characteristics reports for download.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Census 2016",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "survey",
+       "value": "published",
+       "fact": "The Bureau of Statistics Lesotho page lists the Labour Force Survey 2024 Indicators as its latest release.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Labour Force Survey 2024",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "BOS publications listing states nothing on this question."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "BOS publications listing states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "BOS publications listing states nothing on this question."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "The Bureau of Statistics Lesotho publications page states all listed reports can be downloaded, with Excel tables for national accounts, CPI and GDP.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "bos.gov.ls/publications.htm",
+       "class": "open"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only crime statistics reports (statistics class, not assessed) are listed."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "BOS publications listing states nothing on this question."
+    }
+   }
+  }
+ }
+}

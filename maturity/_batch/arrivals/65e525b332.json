@@ -1,0 +1,187 @@
+{
+ "slug": "2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Technology Times reports Galaxy Backbone owns and operates a Tier 3 certified data centre in Abuja and provides hosting and colocation services.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Galaxy Backbone Tier 3 certified data centre, Abuja",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone data centre, Abuja",
+       "country_label": "Galaxy Backbone data centre",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Federal Government of Nigeria (Galaxy Backbone Limited)",
+       "tiers": "Tier 3"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Technology Times reports Galaxy Backbone, a company owned by the Federal Government, operates a Tier 3 certified data centre in Abuja and sells hosting and colocation.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Galaxy Backbone Tier 3 certified data centre, Abuja",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "Technology Times reports Galaxy Backbone Limited is owned by the Federal Government of Nigeria and runs a Tier 3 data centre in Abuja.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Galaxy Backbone Tier 3 certified data centre, Abuja",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone data centre, Abuja",
+       "country_label": "Galaxy Backbone data centre",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Federal Government of Nigeria (Galaxy Backbone Limited)",
+       "tiers": "Tier 3"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "Galaxy Backbone says its NICTIB fibre network covers 27 state capitals and a new corridor links Abuja to Lagos through Minna, Bida, Mokwa, Ilorin, Ogbomosho, Oyo and Ibadan, with phase II still extending it.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "NICTIB (National ICT Infrastructure Backbone)",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NICTIB",
+       "country_label": "National Information and Communication Technology Infrastructure Backbone",
+       "class": "backbone",
+       "platform": "",
+       "owner": "Galaxy Backbone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "backup",
+       "aspect": "site",
+       "value": "service",
+       "fact": "Technology Times reports Galaxy Backbone, the federal government ICT services company, has a disaster recovery site in Enugu for its Tier 3 data centre in Abuja.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Galaxy Backbone disaster recovery site, Enugu",
+       "class": "backupsite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone data centre, Abuja",
+       "country_label": "Galaxy Backbone data centre",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Federal Government of Nigeria (Galaxy Backbone Limited)",
+       "tiers": "Tier 3"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Technology Times reports Galaxy Backbone, a federal government-owned company, provides ICT services including hosting and connectivity to government agencies.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Galaxy Backbone",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone",
+       "class": "staff",
+       "platform": "",
+       "owner": "Federal Government of Nigeria",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general phrase on bridging the digital divide; no rural programme or figures."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mentions the e-Government master plan in passing; no standing, text or period stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No online government service or portal named."
+    }
+   }
+  }
+ }
+}

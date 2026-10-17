@@ -127,11 +127,12 @@ Senegal is under the regional central bank's 2024 payment rules, with eleven non
 
 ### Togo: 5 Leading
 
-Togo is under the regional central bank's rules, with a new e-money institution licensed in 2025; in 2026 all providers were ordered to connect.
+Togo follows regional central bank rules; an e-money institution was licensed in 2025, and from 2026 all providers must connect and e-money limits rise.
 
+- The BCEAO decided that from 2 November 2026 interoperable e-money transactions within WAEMU must be made through the PI-SPI platform, covering transfers between bank or microfinance accounts and accounts at e-money institutions or payment establishments ([source, 2026-10-02](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf)).
 - iAfrikan reports the BCEAO told every bank, e-money issuer and payment institution in the eight WAEMU countries, Togo included, in April 2026 to be connected to PI-SPI by 30 June 2026, then on 25 June 2026 moved the deadline to 30 September 2026 (microfinance institutions to 30 June 2027) ([source, 2026-06-25](https://iafrikan.com/tomorrow-west-africas-central-bank-finds-out-who-really-runs-its-payments-market)).
-- Finance SAO reports a BCEAO communique of 25 June 2026 set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions in WAEMU to integrate with PI-SPI (30 June 2027 for microfinance institutions); 9 authorised institutions were in Togo at 31 July 2026 ([source, 2026-06-25](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/)).
 - Citing the UMOA Banking Commission's 2025 report, the article says the number of licensed e-money issuers (EME) rose from 14 to 18 in 2025, with Tmoney in Togo among the new approvals (no month given; year of the report used) ([source, 2025](https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/)).
+- Togo First reports a BCEAO instruction of 8 October 2026 binding the eight WAEMU states raised the e-money balance cap to CFAF 4 million per issuer (from CFAF 2 million since 2015) and cut the demand-deposit float floor from 75% to 65%, effective 2 November 2026 ([source, 2026-10-08](https://www.togofirst.com/en/finance/1210-20312-bceao-to-double-mobile-money-account-limit-to-cfaf-4-million)).
 
 ### Algeria: 4 Operating
 
@@ -342,7 +343,7 @@ Tunisia's 2016 banking law licenses non-bank payment establishments, with new ce
 Uganda's 2020 National Payment Systems Act is in force, and the central bank licenses two mobile money operators; no rule to connect providers is known.
 
 - Bank of Uganda's payment systems director said on 2026-09-14 that the wallet providers it supervises and that it licenses are MTN and Airtel, non-bank mobile money operators, under the National Payment Systems Act, 2020 ([source, 2026-09-14](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/)).
-- Bank of Uganda officials told Parliament's COSASE on 2026-09-14 that the bank's oversight of wallet providers, payment firms and deposit-taking institutions rests on the National Payment Systems Act, 2020 ([source, 2026-09-14](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/)).
+- The Daily Monitor says Uganda currently relies on a regulatory framework including the National Payment Systems Act and guidelines issued by financial regulators ([source, 2026-10-16](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)).
 
 ### Comoros: 3 Established
 

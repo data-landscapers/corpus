@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-bdi-iso-member-bbn",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN) as Burundi's ISO member body, with 11 participating and 28 observing technical-committee memberships.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "BBN",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BBN",
+   "country_label": "Bureau Burundais de Normalisation et Contrôle de la Qualité",
+   "class": "adoption",
+   "platform": "",
+   "owner": "BBN",
+   "tiers": "member body"
+  }
+ ],
+ "note": ""
+}

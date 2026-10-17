@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-ssd-salc-oral-statement-cybercrime-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Southern Africa Litigation Centre says Zambia's 2025 Cyber Crimes Act made it an offence to use a computer to publish information damaging a person's reputation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cyber Crimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Crimes Act",
+   "country_label": "Zambia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

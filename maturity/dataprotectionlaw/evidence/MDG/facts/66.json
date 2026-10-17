@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-30-mdg-cnlegis-decret-2025-814-membres-cmil",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Decree 2025-814 of 30 July 2025 is made under Law No. 2014-038 of 9 January 2015 on personal data protection, applying its articles 29.1 and 29.2.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Law No. 2014-038 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Decree 2025-814 of 30 July 2025 records the election and designation of eight members of the Commission Malagasy de l'Informatique et des Libertés.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Commission Malagasy de l'Informatique et des Libertés",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Decree 2025-814 cites Decree 2023-1541 of 6 December 2023 on the CMIL's powers, organisation and personal data processing, with only its article 90 repealed by Decree 2025-696 of 18 June 2025.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "Decree 2023-1541",
+   "class": "regulation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission Malagasy de l'Informatique et des Libertés",
+   "country_label": "Madagascar",
+   "class": "authority",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

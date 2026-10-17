@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-23-som-council-ministers-approves-inclusive-digital-policy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Somalia's Council of Ministers, chaired by the Prime Minister, approved the Inclusive Digital Policy and the Accelerated Governance Strategy (2025-2029) on 23 January 2025, per the Ministry of Communications and Technology.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "Inclusive Digital Policy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Inclusive Digital Policy",
+   "country_label": "Somalia",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

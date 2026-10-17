@@ -170,11 +170,11 @@ Ethiopia published a data protection law in 2024 and its communications regulato
 
 ### Ghana: 4 Operating
 
-Ghana's data protection law is in force and its commission is working in 2026; no ruling against an organisation is known.
+Ghana's data protection law is in force and its commission was registering controllers and referring organisations to police in October 2026; no ruling is known.
 
-- The Commission says all institutions processing personal information must register, that enforcement actions have begun and been combined with public education, and that it has declared 2026 the 'Year of Enforcement'; no named sanction or count is given ([source, 2026-08-21](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/)).
-- Communications Minister Samuel Nartey George told the Government Accountability Series that the Data Protection Commission recorded a 51.5 per cent increase in regulatory activity and a 98.4 per cent increase in newly registered data controllers in January-June 2026, with no decisions or sanctions given ([source, 2026-06](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/)).
-- The Communications Minister said on 7 September 2026 that the Data Protection Commission's regulatory activity rose 51.5 per cent and newly registered data controllers 98.4 per cent in the first half of 2026, showing the existing body is doing the job ([source, 2026-09-07](https://www.myjoyonline.com/data-protection-commission-records-sharp-rise-in-regulatory-activity-sam-george/)).
+- The Commission said it registered 2,575 data controllers in 2026 and is verifying registration status and running inspections ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
+- The Commission recorded 2,575 controller registrations in 2026 and inspected organisations' registration status and data handling, finding expired certificates ([source, 2026-10-12](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)).
+- Dr Arnold Kavaarpuo is Executive Director of the Data Protection Commission, which is acting under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 
 ### Malawi: 4 Operating
 
@@ -190,7 +190,7 @@ A 2017 law is in force and its authority met monthly and took decisions in 2026;
 
 - At the 30 June 2026 session the APD took decisions on its agenda, which included authorisation requests (AOUN data access for TAAZOUR, SAMU caller geolocation, SEHATY insured data), the data-hosting coordination with AN-ETAT and IMT, and ministries' compliance answers under its BEYANAT-HIMAYE programme; the page does not state the outcomes ([source, 2026-06-30](https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-18/)).
 - The site advertises awareness days for ministries' data protection correspondents, electronic communications firms and financial institutions, and compliance support for controllers; the days are undated, so the site's published date of 2026-05-06 is used ([source, 2026-05](https://www.apd.mr/fr/)).
-- The APD held its ordinary monthly session on 30 June 2026 under its president, with its members and the Government Commissioner present ([source, 2026-06-30](https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-18/)).
+- The president of Mauritania's personal data protection authority, Mohamed Lemine Sidi, was sworn in for a second term before the Supreme Court in Nouakchott on Wednesday 2026-10-07, with the authority's secretary general present (AMI, republished by RIM Web 2026-10-08) ([source, 2026-10-07](https://rimweb.net/2026/10/08/le-president-de-lautorite-de-protection-des-donnees-a-caractere-personnel-prete-serment-pour-un-second-mandat/)).
 
 ### Morocco: 4 Operating
 
@@ -205,6 +205,7 @@ Law 09-08 is in force and the CNDP authority is working, issuing guidance in 202
 A data protection law has applied since 2023 and an authority registers controllers (2026); a ruling against an organisation is not known.
 
 - The article states that NCSA has registered data controllers and processors (registration certificates), trained over 100 public sector Data Protection Officers and run sector workshops for pharmacists and local government entities over the last four years; it names no sanction or decision. The article gives no date for these events, so its published date of 2026-01-26 is used ([source, 2026-01-26](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors)).
+- NCSA's Data Protection and Privacy Office published template standard contractual clauses for transfers abroad under Article 49 of Law No 058/2021, which also set 72-hour breach reporting to the authority ([source, 2024-02](https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf)).
 - CIPESA states that Rwanda's AI policy positions the National Cyber Security Authority (NCSA) to oversee data protection compliance relevant to AI systems; the document gives no date for this, so the published date 2026-07-23 is used ([source, 2026-07-23](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/)).
 
 ### Seychelles: 4 Operating
@@ -245,7 +246,7 @@ A data protection law is in force and an authority is appointed and working; no 
 
 - POTRAZ held a National Consultative Workshop on guidelines under the Cyber and Data Protection Act and on amendments to SI 155 of 2024 on administrative fines, at which the inaugural Africa Data Protection Day was marked, per attendee SIRDC; the document gives no workshop date, so its published date is used ([source, 2026-09-23](https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/)).
 - POTRAZ Regulatory Notice 2 of 2026, signed by its director-general, announces mandatory compliance inspections and assessments of data controllers from 1 September 2026, risk-based and starting with financial, insurance, local authority, health and mining sectors; no sanction is reported. Notice date not given, so the published date is used ([source, 2026-08-17](https://postonsunday.co.zw/2026/08/17/potraz-sets-september-deadline-for-data-protection-compliance)).
-- POTRAZ states it is the designated Data Protection Authority under section 5 of the Act and is acting as such, having trained data protection officers and engaged organisations for over two years ([source, 2026-08-17](https://postonsunday.co.zw/2026/08/17/potraz-sets-september-deadline-for-data-protection-compliance)).
+- POTRAZ is the existing regulator doing the data protection job, including training data protection officers ([source, 2026-10-15](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 
 ### Congo: 3 Established
 
@@ -264,9 +265,9 @@ Since 2023 a data protection law is in force; no authority is appointed yet and 
 
 ### Egypt: 3 Established
 
-The law is in force and an authority is appointed in 2026; no ruling against an organisation is reported.
+The law is in force and an authority is appointed and issuing guidance in 2026; no ruling against an organisation is reported.
 
-- Access Partnership says enforcement of the law is expected from 1 November 2026, the end of a one-year grace period (date is the document's published date) ([source, 2026-02-11](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)).
+- Law No. 151 of 2020 entered into force in October 2020; its regulations' transitional period expires 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
 - A 7 August 2026 report says the Personal Data Protection Centre, affiliated to the ICT ministry, is acting under Law 151 of 2020 (executive regulations issued November 2025, compliance deadline November 2026), with an acting chief executive, Susan El-Okbawy, who described its licensing and breach-handling role ([source, 2026-08-07](https://www.youm7.com/story/2026/8/7/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7505610)).
 
 ### Lesotho: 3 Established
@@ -304,7 +305,7 @@ The 2016 data protection law is in force; the authority, appointed, signed a coo
 
 A 2004 law is in force; an authority appointed in 2021 is reported at a standstill in 2026, with no ruling against an organisation known.
 
-- Organic law no. 2004-63 of 27 July 2004 on the protection of personal data was promulgated, setting the general processing, consent and rights regime; the document's capture note of 3 September 2026 calls it the operative statute with no replacement adopted ([source, 2026-09-03](https://legislation-securite.tn/latest-laws/loi-organique-n-2004-63-du-27-juillet-2004-portant-sur-la-protection-des-donnees-a-caractere-personnel/)).
+- The Forum Chawki Gaddes, in a statement of 3 October 2026, cites organic law no. 63 of 2004 as the law guaranteeing personal data protection and says the legal framework of the data protection authority remains in force ([source, 2026-10-03](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/)).
 - Government decree no. 2021-230 of 16 April 2021 appoints twelve named members (two MPs, two judges, ministry representatives, a human rights committee member and an ICT expert) to the national personal data protection authority for three years ([source, 2021-04-16](https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D8%AF%D8%AF-230-%D9%84%D8%B3%D9%86%D8%A9-2021-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2021-%D9%8A%D8%AA%D8%B9/)).
 
 ### Cameroon: 2 Nascent
@@ -312,12 +313,14 @@ A 2004 law is in force; an authority appointed in 2021 is reported at a standsti
 A data protection law came into force in 2026, but no authority is appointed, so no ruling against an organisation is known.
 
 - The Direction Generale du Budget (Ministry of Finance) states that the deadline set for the entry into force of Law No. 2024/017 of 23 December 2024 on personal data protection was reached on 23 June 2026, and that the law is now officially in force ([source, 2026-06-23](https://www.dgb.cm/la-loi-sur-la-protection-des-donnees-personnelles-entre-officiellement-en-vigueur/)).
+- The authors say Law No. 2024/017 Relating to Personal Data Protection of 23 December 2024 becomes enforceable after an 18-month grace period from enactment ([source, 2024-12-23](https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/)).
 
 ### Central African Republic: 2 Nascent
 
 A data protection law is in force, but no authority is appointed, so none has ruled against an organisation, as of 2026.
 
 - Data Protection Africa (ALT Advisory) states in its factsheet that the Central African Republic has a data protection law in place ([source, 2026-01-28](https://dataprotection.africa/central-african-republic)).
+- Jurist Zengue writes the law is promulgated and applied, with a compliance period running and no suspension of its execution ([source, 2025-09-16](https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html)).
 
 ### Equatorial Guinea: 2 Nascent
 
@@ -341,7 +344,7 @@ A law was promulgated in March 2026; whether it is in force is not known, nor an
 
 ### Chad: 1 Absent
 
-A digital law covering data protection was still being finalised in March 2026; no authority or ruling is known.
+A digital law was still being finalised in March 2026; a reform gave the cybersecurity agency data protection duties; no ruling is known.
 
 - Ecofin reports (published 2026-03-16) that Chad's Digital Code, under development since December 2025, incorporates international standards on cybersecurity and data protection ([source, 2025-12](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency)).
 - Minister Boukar Michel announced on 2025-12-09 that authorities are finalizing a new digital law incorporating international standards on cybersecurity, data protection and internet governance ([source, 2025-12-09](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards)).
@@ -380,7 +383,7 @@ Guinea adopted a data protection law in 2016, but no authority is appointed and 
 
 - At the 19 November 2025 closing, Minister Rose Pola Pricemou said Guinea is strengthening its regulatory framework with a new data-protection law, giving no stage, bill or date for it ([source, 2025-11-19](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
 - ANSSI's summary states Loi L/2016/037/AN on cybersecurity and personal data protection was adopted by the National Assembly and promulgated by President Alpha Condé, covering personal data processing by individuals, companies and public institutions; it gives no commencement statement and dates the law to 2016 only (document published 2016, year precision) ([source, 2016](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf)).
-- The African Union's status list of 2 February 2026 records that Guinea ratified or acceded to the Malabo Convention on 2018-07-31 and deposited its instrument on 2018-10-16 ([source, 2018-07-31](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
+- The ministry's secretary-general Nouhan Traore says Guinea signed and ratified the Malabo Convention ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 
 ### Guinea-Bissau: 1 Absent
 

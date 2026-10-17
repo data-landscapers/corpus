@@ -1,0 +1,15 @@
+{"slug": "2026-09-01-mar-aujourdhui-data-centers-avec-quelle-electricite", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority against AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on government use of AI."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on AI in a public sector system."}}},
+"aistrategy": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on a national AI strategy."}}},
+"aisystems": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Aujourd'hui le Maroc reports that an AI Factory at Nouaceur (Nexus) is to be a 16 MW first phase of a programme reaching 36 MW by end 2027, with an announced investment of 12 billion dirhams.", "as_of": "2026-09-01", "date_precision": "day", "system": "Nexus AI Factory", "class": "localai"}
+], "systems": [{"system": "Nexus AI Factory", "country_label": "Morocco", "class": "localai", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "cloud", "value": "region", "fact": "Aujourd'hui le Maroc states that Oracle has opened its first cloud region in Casablanca and is preparing a second at Settat.", "as_of": "2026-09-01", "date_precision": "day", "system": "Oracle cloud region Casablanca", "class": "datacentre"}
+], "systems": [{"system": "Oracle cloud region Casablanca", "country_label": "Morocco", "class": "datacentre", "platform": "Oracle", "owner": "Oracle", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a general remark on sovereignty; no state data policy, rule, hosting or contract terms stated."}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated; projects named are announced."}}},
+"schoolinternet": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document does not concern schools."}}}
+}}

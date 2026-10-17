@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-05-dza-elwatan-centre-national-services-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre national algérien des services numériques",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "Huawei-led consortium build, two active-active data centres at Mohammadia",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a national data centre built to host data on national territory; no rule requiring data to be kept in the country is stated."
+}

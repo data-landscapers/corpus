@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-25-mli-rsf-broadcast-suspension-journalist-arrests",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF says the HAC suspended the private radio phone-in programme Allo Klédu for two months from 19 June 2026 over listeners' contributions, and that journalists Takiou and Keïta were arrested in June 2026 and charged under the cybercrime law.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "RSF says the Maison de la Presse sharply criticised the detention of the two journalists in June 2026, saying the judiciary had fallen short of creating a space of peace and understanding.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

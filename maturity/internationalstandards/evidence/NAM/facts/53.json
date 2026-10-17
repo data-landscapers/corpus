@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-nam-iso-nsi-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Namibian Standards Institution as a member body, participating on 21 technical committees; no IT committee is named.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "NSI",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

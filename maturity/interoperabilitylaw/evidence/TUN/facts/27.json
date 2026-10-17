@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-14-tun-alchourouk-interoperability-platform-presidency",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Tunisia's Presidency of the Government says Decree-law 31 of 2020 (10 June 2020) on electronic exchange of data between public structures and with their users is in force, with its conditions and procedures set by Government order 777 of 5 October 2020.",
+   "as_of": "2020-06-10",
+   "date_precision": "day",
+   "system": "Decree-law 31 of 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "duty",
+   "value": "required",
+   "fact": "The Presidency says the decree-law establishes the principle that users are not asked for data or documents public bodies already hold or that are available through the interconnection platform.",
+   "as_of": "2020-06-10",
+   "date_precision": "day",
+   "system": "Decree-law 31 of 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Interconnection platform (Tunisia)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -22,11 +22,11 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 2 |
-| 2 Nascent | 29 |
+| 3 Established | 3 |
+| 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 21 |
+| No evidence | 18 |
 
 ## Countries
 
@@ -45,6 +45,12 @@ In 2026 the telecoms regulator consulted on satellite guidelines under its 2009 
 - The LTA states it ran the consultation on the draft Satellite Communications Guidelines in accordance with its published Guidelines for Consultation Process of 2009 ([source, 2026-02-23](https://lta.gov.lr/wp-content/uploads/2026/03/CONSULTATION-DOCUMENT-SATELLITE-COMMUNICATIONS-GUIDELINES-FINAL-COPY.pdf)).
 - The LTA says the consultation on the Satellite Communications Guidelines was conducted under Part III, Section 11(4) of the Telecommunications Act of 2007 and the Consultation Process Guidelines for LTA Rules, Orders and Regulations, 2009 ([source, 2026-02-23](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
 - The LTA published a Consultation Report on 2026-04-03 detailing its responses to written stakeholder submissions, and says the final Satellite Communications Guidelines incorporate comments received, for example keeping the five-year NGSO landing-rights term while dropping a seven-day ESIM notice requirement ([source, 2026-04-03](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
+
+### Mauritius: 3 Established
+
+The telecoms regulator consulted on extra mobile spectrum in 2024 and published its response; no rule requiring consultation is known.
+
+- The Information and Communication Technologies Authority lists a published "Response to Consultation Paper on making available additional Spectrum for IMT" dated 7 November 2024, following its consultation paper of 23 August 2024 ([source, 2024-11-07](https://www.icta.mu/public-consultations/)).
 
 ### Senegal: 3 Established
 
@@ -66,6 +72,12 @@ The telecommunications ministry put its draft artificial intelligence law out fo
 
 - Angola's telecommunications ministry (MINTTICS) put its draft Proposta de Lei sobre a Inteligencia Artificial out for public consultation on its consultation portal, which on 2026-08-27 showed 18 contributions from companies, 18 from specialists and 5 from the general public (the page is undated, so the date is the retrieval date) ([source, 2026-08-27](https://consultapublica.minttics.gov.ao/)).
 - The Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS) put its 86-article draft Law on Artificial Intelligence on its public consultation portal in September 2025, and the draft's report says the draft was to go to public consultation open to all public and private entities and interested individuals, and that the consultation was held before the draft goes to the Council of Ministers ([source, 2025-09](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf)).
+
+### Botswana: 2 Nascent
+
+A notice invited comment on the draft Cybersecurity Bill in June 2025, open to all stakeholders; what people said is not known.
+
+- The notice announces public consultations on the draft Cybersecurity Bill on 20 June 2025, open to all stakeholders, with comments invited to the ministry by 23 June 2025 ([source, 2025-06-20](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Preamble_to_the_Cybersecurity_Bill_Revised.pdf)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -137,10 +149,10 @@ The regulator asked the public to comment on draft broadcasting and online conte
 
 ### Ghana: 2 Nascent
 
-The information technology agency put a draft data harmonisation bill out for public comment in November 2025; whether the comments were published is not known.
+The information technology agency invited comments on a draft data bill in November 2025; whether the comments were published is not known.
 
+- NITA invited ministries, assemblies, private sector, academia, civil society, development partners and the public to comment on the draft Data Harmonisation Bill 2025 from 19 to 27 November 2025 ([source, 2025-11-19](https://nita.gov.gh/publicconsultation-3-2-2/)).
 - The National Information Technology Agency (NITA) put out its draft Data Harmonisation Bill 2025 and invited all stakeholders and the general public, including citizens, academia and the private sector, to make submissions in a public consultation announced on 2025-10-23 and set to run from 2025-11-19 to 2025-11-27 via the consultation document on its website ([source, 2025-10-23](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html)).
-- Ghana's OGP Secretariat and Multi-Stakeholder Forum co-created the fifth Open Government Partnership National Action Plan (NAP 5) in 2023 with civil society organisations (including GACC, GII, CDD, IDEG and MFWA) and government agencies in consultative meetings and an October 2023 co-creation workshop, and the plan carries commitments on misinformation on digital platforms, on amending the Electronic Communications Act 2008, and on data sharing and open data (published 2023-12, event dated October 2023) ([source, 2023-10](https://www.opengovpartnership.org/wp-content/uploads/2024/01/Ghana_Action-Plan_2024-2028_December.pdf)).
 
 ### Guinea: 2 Nascent
 
@@ -223,8 +235,8 @@ The regulator consulted companies, civil society and consumer representatives on
 
 Parliament, the communications regulator and the Treasury put digital bills and draft rules out for public comment in 2026; what they heard is not known.
 
-- ICASA's draft notice of intention to conduct a market inquiry into the affordability of telecommunications services, printed in Government Gazette 55476 of 30 September 2026, set out a process inviting stakeholder comments on a supply-side questionnaire and public comment, written representations and possible public hearings on a discussion document; the same gazette withdrew the earlier Notice 4130 and the OTT inquiry Notices 4129 and 4148 ([source, 2026-09-30](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf)).
-- ICASA gazetted on 4 September 2026 a notice of an inquiry under section 4B of the ICASA Act into the impact of over-the-top services on licensees and the regulatory framework, inviting stakeholders' written responses to a questionnaire and public comment on a discussion document, with possible public hearings ([source, 2026-09-04](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf)).
+- ITWeb reports the draft National AI Policy was presented for public comment before it was withdrawn this year ([source, 2026](https://www.itweb.co.za/article/local-insurers-go-solo-amid-ai-policy-vacuum/o1Jr5MxP36rMKdWL)).
+- The Universal Service and Access Agency of South Africa opened a public consultation on a discussion document on whether to retain, revise or replace the 2010 ministerial determination on universal access and universal service, and said it will use submissions from stakeholders and the public to advise the communications and digital technologies minister; the report is dated 2026-10-10 and gives no opening date ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
 
 ### South Sudan: 2 Nascent
 
@@ -237,6 +249,12 @@ A workshop on the data protection bill was held with civil society, reported in 
 In 2026 regulators and academic institutions gave views on a draft data governance strategy at a workshop; whether they were published is not known.
 
 - On 12 March 2026 UNECA, in collaboration with the Government of Tanzania, convened a national validation workshop on the draft Tanzania Electronic Data Governance Strategy in Dodoma, where regulatory authorities, academic institutions and sectoral agencies gave feedback that informed refinements to the strategy, and the Ministry of Communication and Information Technology closed it ([source, 2026-03-12](https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
+
+### Togo: 2 Nascent
+
+In January 2025 the Ministry of Commerce held workshops on e-commerce rules with outside groups; nothing held shows published results or a required consultation.
+
+- The Ministry of Commerce held a two-phase national stakeholder workshop on strengthening the e-commerce regulatory framework, in Kara on 21 January 2025 and Lomé on 24 January 2025, with businesses, consumer associations, regulators and financial service operators taking part ([source, 2025-01-24](https://commerce.gouv.tg/renforcement-du-cadre-reglementaire-du-commerce-electronique-au-togo/)).
 
 ### Tunisia: 2 Nascent
 
@@ -259,12 +277,6 @@ Nothing held shows people outside government were asked about a digital law or p
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Benin: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Botswana: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
 
@@ -336,12 +348,6 @@ Nothing held shows people outside government were asked about a digital law or p
 
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
-### Mauritius: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
 ### Niger: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
@@ -355,12 +361,6 @@ Nothing held shows people outside government were asked about a digital law or p
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Sudan: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Togo: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
 

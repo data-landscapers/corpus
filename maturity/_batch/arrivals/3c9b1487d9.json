@@ -1,0 +1,18 @@
+{"slug": "2025-03-10-mwi-times-nrb-targets-8000-children", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "NRB Secretary Mphatso Sambo told Parliament that between April 2024 and February 2025 NRB integrated electronic birth and death registration systems with the national ID system.", "as_of": "2025-02", "date_precision": "month", "system": "National Registration and Identification System (NRIS)", "class": "crvslink"},
+{"sub_indicator": "link", "aspect": "events", "value": "both", "fact": "NRB Secretary Mphatso Sambo said both the electronic birth and the electronic death registration systems were integrated with the national ID system between April 2024 and February 2025.", "as_of": "2025-02", "date_precision": "month", "system": "National Registration and Identification System (NRIS)", "class": "crvslink"}
+], "systems": [{"system": "National Registration and Identification System (NRIS)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "civil", "aspect": "deaths", "value": "digital", "fact": "NRB Secretary Mphatso Sambo said NRB had integrated electronic birth and death registration systems with the national ID system by February 2025.", "as_of": "2025-02", "date_precision": "month", "system": "electronic birth and death registration systems", "class": "civil"}
+], "systems": [], "note": "Whether births are digital nationally is not stated."}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given; the 8,000-child target is a plan."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No ID number given at birth is stated."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document names no other public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No issuance, biometric check or certification is stated."}}},
+"registry": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "NRB Secretary Mphatso Sambo said NRB had electronic birth and death registration systems, integrated with the national ID system between April 2024 and February 2025.", "as_of": "2025-02", "date_precision": "month", "system": "electronic birth and death registration systems", "class": "civil"}
+], "systems": [], "note": "Document does not say entry is made at the local office or give office coverage."}}}
+}}

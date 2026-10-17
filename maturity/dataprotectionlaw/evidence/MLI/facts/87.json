@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-mli-bamakomatin-protection-enfants-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Journalist Siguéta Salimata Dembélé said Mali has an APDP among its protection mechanisms, with no statement that it is constituted.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "No standing, regulation or application stated for the law itself."
+}

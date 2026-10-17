@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "unplaced",
-   "money": "",
-   "home": "",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source dated from 2024 names an amount of private money put into a digital business in the country.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "2",
+      "money": "committed",
+      "home": "",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002",
+      "gaps": "Only one amount is held from 2024 on, so whether private money came in more than one year is not known.",
+      "note": "Counted from the four questions by study-ladder-nonstatefinance.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-gmb-gbos-downloads",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Gambia Bureau of Statistics downloads page lists The 2024 Gambia Statistical Abstract, a Transport Statistics Summary Report 2025 and International Merchandise Trade Statistics 2015 to 2025 for download.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "The 2024 Gambia Statistical Abstract",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The 2024 Gambia Statistical Abstract",
+   "country_label": "The 2024 Gambia Statistical Abstract",
+   "class": "admin",
+   "platform": "gbosdata.org",
+   "owner": "Gambia Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

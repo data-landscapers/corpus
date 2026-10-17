@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-tun-datagovtn-portail-national-donnees-ouvertes",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The portal's news lists a 27 March 2026 workshop on the final version of the draft national strategy for data governance, opening and valorisation, which covers opening data; adoption is not stated.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Stratégie nationale de gouvernance, d'ouverture et de valorisation des données",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": "The portal is not tied to an adopted policy in the document, so no use fact."
+}

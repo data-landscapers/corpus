@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "DNEC cites law no. 2013-015 of 21 May 2013 on personal data protection.",
+   "as_of": "2013-05-21",
+   "date_precision": "day",
+   "system": "Loi 2013-015",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "DNEC says it works with the APDP, the data protection authority.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

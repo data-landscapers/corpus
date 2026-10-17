@@ -1,0 +1,114 @@
+{
+ "slug": "2026-10-13-gha-graphic-dpc-field-enforcement-microfinance-cid",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Graphic Online reports the Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, ran a field enforcement exercise in Accra on 12 October 2026 under the Data Protection Act, 2012 (Act 843).",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Commission",
+       "country_label": "Ghana",
+       "class": "authority",
+       "platform": "",
+       "owner": "Data Protection Commission",
+       "tiers": ""
+      }
+     ],
+     "note": "Referrals to police are not a ruling; registration count is not a count of rulings."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Executive Director said 14 years after passage of the Data Protection Act, 2012 (Act 843), whose Section 56 makes processing without registration punishable on summary conviction.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Commission's Executive Director and Director of Regulatory and Compliance briefed the press and led the enforcement exercise.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Commission reported 2,575 data controller registrations in 2026, found two hospitals with expired certificates, and referred a microfinance firm and a clinic to police, with no decision of its own stated.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Act 843",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The Commission enforces the Data Protection Act, 2012 (Act 843), which the Executive Director said was passed 14 years ago.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Act 843",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Commission's Executive Director and Director of Regulatory and Compliance are acting in post and ran the 12 October 2026 exercise.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The Commission recorded 2,575 controller registrations in 2026 and inspected organisations' registration status and data handling, finding expired certificates.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

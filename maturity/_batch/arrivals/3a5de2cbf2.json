@@ -1,0 +1,41 @@
+{
+ "slug": "2025-10-31-rwa-rdap-tender-disaster-recovery-site",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender only; no data centre in service stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender for IT equipment for a disaster recovery site; no site in service, place or distance stated."
+    }
+   }
+  }
+ }
+}

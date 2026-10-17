@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-01-dji-iso-member-adn",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "The ISO member page lists the Agence Djiboutienne des Normes et de la Qualit\u00e9 (ADN) as a correspondent member of ISO.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "ADN",
+       "class": "adoption"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ADN",
+       "country_label": "Agence Djiboutienne des Normes et de la Qualit\u00e9",
+       "class": "adoption",
+       "platform": "",
+       "owner": "ADN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO states ADN was created and put into operation in 2022 by Decree No. 2022-092/PR/MCT as the national standards body, developing and monitoring standards.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "ADN",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

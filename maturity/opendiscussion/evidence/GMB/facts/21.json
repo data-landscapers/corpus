@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-14-gmb-gambiaj-gpu-press-freedom-threats",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Gambia Press Union, in a statement to the African Commission's 87th session in Banjul, criticised the Cybercrime Bill 2023, the Communications Bill 2025 and the Criminal Offences Act 2025 as threats to media freedom.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "The Gambia Press Union said criminal defamation and false publication online had previously been struck down by the Supreme Court, giving no date.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Arrests cited (May 2025 protest, March 2026 court incident) are not stated to be for what was said."
+}

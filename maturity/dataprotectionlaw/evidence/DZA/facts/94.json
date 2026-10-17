@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Interior Minister says illegal use of the NIN by third parties falls under Law 18-07 of 10 June 2018 on protection of individuals in personal data processing, with its stated sanctions.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Law 18-07 of 10 June 2018",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Interior Minister says infractions will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

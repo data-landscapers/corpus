@@ -248,6 +248,8 @@ def questions(sid: str) -> str:
                 f'{f}: ' + ", ".join(f'"{f}:{v}"' for v in vs) for f, vs in a["facets"].items())
         if "pattern" in a:
             return f'a value matching {a["pattern"]}'
+        if isinstance(a["values"], dict):
+            return "; ".join(f'for {sub}: ' + ", ".join(f'"{v}"' for v in vs) for sub, vs in a["values"].items())
         return ", ".join(f'"{v}"' for v in a["values"]) + ("; several joined by ';'" if a.get("multi") else "")
 
     aspects = NL.join(f'- aspect "{a["key"]}": {spelt(a)}' for a in study["aspects"])
@@ -287,10 +289,49 @@ def prompts(out: str) -> int:
     return 0
 
 
+DROPPED_FIELDS = ["study", "iso3", "slug", "sub_indicator", "aspect", "value", "fact", "why"]
+
+
+def checked(sid: str, iso: str, slug: str, facts: list[dict], dropped: list[dict]) -> list[dict]:
+    """The facts a study can take: a lone sub-indicator's key is set where the drafter misspelt
+    it, and a fact whose aspect or value is off the study's lists is set aside, never merged,
+    since one bad value stops `study-profile.py` profiling the country."""
+    study = study_lib.load(sid)
+    subs = [s["key"] for s in study["sub_indicators"]]
+    aspects = {a["key"]: a for a in study["aspects"]}
+    keep = []
+    for f in facts:
+        if f.get("sub_indicator") not in subs and len(subs) == 1:
+            f["sub_indicator"] = subs[0]
+        a = aspects.get(f.get("aspect", ""))
+        why = ("not a sub-indicator" if f.get("sub_indicator") not in subs else
+               "not an aspect" if a is None else
+               study_lib.value_problem(a, f["sub_indicator"], str(f.get("value", ""))))
+        if why:
+            dropped.append({"study": sid, "iso3": iso, "slug": slug, "why": why,
+                            **{k: str(f.get(k, "")) for k in ("sub_indicator", "aspect", "value", "fact")}})
+        else:
+            keep.append(f)
+    return keep
+
+
+def classed(sid: str, systems: list[dict]) -> list[dict]:
+    """A system the drafter classed outside the study's typology is `other`, or not kept."""
+    classes = study_lib.load(sid).get("classes") or []
+    out = []
+    for x in systems:
+        if x.get("class") not in classes:
+            if "other" not in classes:
+                continue
+            x = {**x, "class": "other"}
+        out.append(x)
+    return out
+
+
 def fan(today: dt.date) -> int:
     path = os.path.join(BATCH, "calls.json")
     calls = json.load(open(path, encoding="utf-8"))
-    bad, written, empty = [], 0, collections.Counter()
+    bad, written, empty, dropped = [], 0, collections.Counter(), []
     shut = collections.defaultdict(dict)
     for c in calls:
         for st in c["stories"]:
@@ -298,7 +339,11 @@ def fan(today: dt.date) -> int:
             if not os.path.exists(ans):
                 continue
             try:
-                d = json.loads(open(ans, "rb").read().decode("utf-8-sig"))
+                raw = open(ans, "rb").read()
+                try:
+                    d = json.loads(raw.decode("utf-8-sig"))
+                except UnicodeDecodeError:      # a drafter on Windows sometimes writes cp1252
+                    d = json.loads(raw.decode("cp1252"))
             except ValueError as e:
                 bad.append(f"{st['key']}: {e}")
                 continue
@@ -307,6 +352,8 @@ def fan(today: dt.date) -> int:
                 for iso, n in isos.items():
                     part = got.get(iso) or {"facts": [], "systems": [],
                                             "note": "the drafter returned nothing for this country"}
+                    part["facts"] = checked(sid, iso, st["slug"], part.get("facts") or [], dropped)
+                    part["systems"] = classed(sid, part.get("systems") or [])
                     f = os.path.join(study_lib.study_dir(sid), "evidence", iso, "facts", f"{n}.json")
                     if not os.path.exists(f):
                         os.makedirs(os.path.dirname(f), exist_ok=True)
@@ -322,8 +369,11 @@ def fan(today: dt.date) -> int:
         rows = study_lib.read_csv(os.path.join(study_lib.study_dir(sid), "evidence", "arrivals.csv"))
         close(sid, rows, s, today.isoformat())
         empty[sid] = len(s)
+    if dropped:
+        study_lib.write_csv(os.path.join(BATCH, "dropped.csv"), DROPPED_FIELDS, dropped)
     for b in bad:
         print(f"study-arrivals: unreadable answer {b}")
+    print(f"study-arrivals: {len(dropped)} facts off their study's lists set aside in dropped.csv")
     print(f"study-arrivals: fan - {written} facts files written, {sum(empty.values())} arrivals closed "
           f"`nothing`")
     return 1 if bad else 0

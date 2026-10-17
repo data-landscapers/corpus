@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-16-bfa-insd-licence-donnees-ouvertes",
+ "studies": {
+  "opendatapolicy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The page is a data licence of the statistics office, not an open data policy."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "licensed",
+       "fact": "Burkina Faso's INSD states it grants a worldwide, free, non-exclusive licence to copy, modify and distribute its data, including for commercial use, with attribution, for data on its website and open data portal.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "INSD Accord de licence de donnees ouvertes",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INSD website and open data portal",
+       "country_label": "insd.bf",
+       "class": "open",
+       "platform": "",
+       "owner": "INSD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

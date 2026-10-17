@@ -1,0 +1,2 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,MWI,infra.connect--internet-usage-people-who-use-the-internet,fact,1,1,MWI-005,Arrivals added MWI-006; stage unchanged.

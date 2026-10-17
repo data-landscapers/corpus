@@ -1,0 +1,15 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BDI,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,2,BDI-001,Arrivals added BDI-001; stage no evidence -> 2.
+2026-10-17,BEN,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,2,BEN-001,Arrivals added BEN-001; stage no evidence -> 2.
+2026-10-17,COD,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,4,4,COD-005;COD-004,Arrivals added COD-008; stage unchanged.
+2026-10-17,DZA,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,2,4,DZA-001;DZA-002;DZA-003,Arrivals added DZA-006; stage 2 -> 4.
+2026-10-17,GHA,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,4,GHA-001,Arrivals added GHA-001; GHA-002; stage no evidence -> 4.
+2026-10-17,GIN,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,2,2,GIN-002;GIN-001,Arrivals added GIN-003; stage unchanged.
+2026-10-17,GNB,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,unplaced,,Arrivals added GNB-001; stage no evidence -> unplaced.
+2026-10-17,LBR,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,4,LBR-002,Arrivals added LBR-002; stage no evidence -> 4.
+2026-10-17,MLI,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,4,4,MLI-002;MLI-001,Arrivals added MLI-003; MLI-004; stage unchanged.
+2026-10-17,MWI,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,unplaced,4,MWI-002,Arrivals added MWI-002; stage unplaced -> 4.
+2026-10-17,NGA,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,4,4,NGA-003,Arrivals added NGA-004; stage unchanged.
+2026-10-17,TGO,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,5,TGO-002,Arrivals added TGO-001; TGO-002; stage no evidence -> 5.
+2026-10-17,TUN,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,no evidence,2,TUN-001,Arrivals added TUN-001; stage no evidence -> 2.
+2026-10-17,TZA,gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries,fact,4,4,TZA-002;TZA-003,Arrivals added TZA-006; stage unchanged.

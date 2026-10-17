@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,international,standing,member,"ISO's member page lists the Namibian Standards Institution as a member body, participating on 21 technical committees; no IT committee is named.",2026-10,month,NSI,adoption,2026-10-16-nam-iso-nsi-member,https://www.iso.org/member/1569.html

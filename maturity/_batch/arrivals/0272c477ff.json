@@ -1,0 +1,32 @@
+{
+ "slug": "2025-07-08-bwa-hrdc-disaster-recovery-hosting-bofinet",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A five-month extension of HRDC's disaster-recovery hosting contract with BoFiNet; no site place, distance, in-service status or shared government system is stated, and no data centre for hire is described."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A five-month extension of HRDC's disaster-recovery hosting contract with BoFiNet; no site place, distance, in-service status or shared government system is stated, and no data centre for hire is described."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A five-month extension of HRDC's disaster-recovery hosting contract with BoFiNet; no site place, distance, in-service status or shared government system is stated, and no data centre for hire is described."
+    }
+   }
+  }
+ }
+}

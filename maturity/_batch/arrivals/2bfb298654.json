@@ -1,0 +1,47 @@
+{
+ "slug": "2026-10-13-xaf-newslinkghana-agbeti-anca-united-cyber-defence",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says Cabo Verde must strengthen its institutional and regulatory foundations."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says protecting essential services is a priority; no body or strategy stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "A second submarine cable is only being sought; not in service."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-gab-iso-member-aganor",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Agence Gabonaise de Normalisation (AGANOR) as Gabon's member, participating in 3 technical committees.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "AGANOR",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Page does not say a law created the body or name an information technology standard."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "2024-02-23-ssd-ccd-data-stewardship-workshop",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no data protection law, only a general reference to data protection issues."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on health information systems."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on a national ID system."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no government interoperability framework; the data standards are an NGO consortium's."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not address refugee or IDP registration or digital access."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The deduplication prototype is a humanitarian NGO pilot, not a social protection system link."
+    }
+   }
+  }
+ }
+}

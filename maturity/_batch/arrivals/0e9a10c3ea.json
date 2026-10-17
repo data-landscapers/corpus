@@ -1,0 +1,120 @@
+{
+  "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+  "studies": {
+    "addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document lists an address directory feature and a residence address field in the citizen register, but no addressing system giving places addresses."}}},
+    "authentication": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Ministry of the Interior playbook says ANCE/TunTrust acts as root certification authority, with decrees of 2000-2001 setting the conditions for accrediting certification service providers.", "as_of": "2026-05", "date_precision": "month", "system": "ANCE/TunTrust", "class": "authentication"},
+        {"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The playbook lists E-Houwiya as integrated by services of many bodies, including the transport and communications ministry portals, education, CNAM, CNSS, the business register, Tunisie Telecom, five named banks and La Poste.", "as_of": "2026-05", "date_precision": "month", "system": "E-Houwiya", "class": "authentication"},
+        {"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "The playbook says the Mobile ID gives simple, secure access to digital services, and gives +450K Mobile IDs linked to a phone number and +35K linked to devices, with electronic signature of documents and contracts in the citizen portal.", "as_of": "2026-05", "date_precision": "month", "system": "Mobile ID", "class": "authentication"}
+      ],
+      "systems": [
+        {"system": "E-Houwiya", "country_label": "E-Houwiya", "class": "authentication", "platform": "", "owner": "Ministry of the Interior", "tiers": ""},
+        {"system": "TunTrust", "country_label": "ANCE/TunTrust", "class": "authentication", "platform": "", "owner": "ANCE", "tiers": ""}
+      ],
+      "note": ""}}},
+    "birthidlink": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The playbook shows the citizen identifier register initialised and updated from the national civil status system Madania by API, and holding birth-act and death-act references, the date and place of death and civil status.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "crvslink"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "businessregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Businesses appear only as a category of exchange services and as a service using E-Houwiya, not as a business register."}}},
+    "civilregister": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "The playbook names Madania as the national civil status system that feeds the citizen identifier register, and says the citizen portal issues the birth act for the account owner and for children.", "as_of": "2026-05", "date_precision": "month", "system": "Madania", "class": "civil"}
+      ],
+      "systems": [
+        {"system": "Madania", "country_label": "Systeme National de l'Etat Civil (Madania)", "class": "civil", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""}}},
+    "civilserviceskills": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing on digital skills training for civil servants."}}},
+    "dataexchange": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777.", "as_of": "2026-05", "date_precision": "month", "system": "Plateforme Nationale d'Interoperabilite", "class": "exchange"},
+        {"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025.", "as_of": "2025", "date_precision": "year", "system": "Plateforme Nationale d'Interoperabilite", "class": "exchange"}
+      ],
+      "systems": [
+        {"system": "Plateforme Nationale d'Interoperabilite", "country_label": "Plateforme Nationale d'Interoperabilite", "class": "exchange", "platform": "", "owner": "Centre National Informatique", "tiers": ""}
+      ],
+      "note": ""}}},
+    "dataprotectionauthority": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The playbook says organic law 2004-63 sets the data protection regime including INPDP formalities, and its governance diagram shows the Instance Nationale de Protection des Donnees Personnelles as the body for control and regulatory compliance.", "as_of": "2026-05", "date_precision": "month", "system": "Instance Nationale de Protection des Donnees Personnelles (INPDP)", "class": "authority"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "dataprotectionlaw": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The playbook says organic law 2004-63 founds the Tunisian data protection regime: rights of persons, obligations of data controllers, INPDP formalities and sanctions.", "as_of": "2026-05", "date_precision": "month", "system": "Loi organique 2004-63", "class": "general"},
+        {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The playbook's governance diagram shows the Instance Nationale de Protection des Donnees Personnelles as the control and compliance body beside the citizen identifier register, and describes INPDP formalities under law 2004-63.", "as_of": "2026-05", "date_precision": "month", "system": "Instance Nationale de Protection des Donnees Personnelles (INPDP)", "class": "authority"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "ecommercelaw": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The playbook says law 2000-83 recognises the value of the electronic signature where it meets the legal requirements.", "as_of": "2000", "date_precision": "year", "system": "Loi 2000-83", "class": "law"},
+        {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The playbook says decrees of 2000-2001 organise certification, the conditions for accrediting certification service providers and the technical specifications.", "as_of": "2001", "date_precision": "year", "system": "Decrees of 2000-2001 on certification", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "egovservices": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The playbook lists online services across citizen, business, transport, education, university, social, civil servant, justice and finance categories, and citizen portal functions including birth acts, driving licence and vehicle data, electronic signature, notifications and complaints.", "as_of": "2026-05", "date_precision": "month", "system": "Portail Citoyen (e-bawaba.tn)", "class": "eservices"},
+        {"sub_indicator": "eservices", "aspect": "gateway", "value": "single", "fact": "The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies.", "as_of": "2026-05", "date_precision": "month", "system": "Portail Citoyen (e-bawaba.tn)", "class": "eservices"}
+      ],
+      "systems": [
+        {"system": "Portail Citoyen", "country_label": "e-bawaba.tn", "class": "eservices", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""}}},
+    "electoralregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing on the voters' roll."}}},
+    "idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document gives no count or share of the population holding the identifier."}}},
+    "idfrombirth": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "The playbook says the unique citizen identifier (IUC), set up by decree-law 2020-17, is unique, non-significant and sequential, and is given at birth to every person entered in the civil status register.", "as_of": "2026-05", "date_precision": "month", "system": "Identifiant Unique du Citoyen (IUC)", "class": "birthnumber"},
+        {"sub_indicator": "frombirth", "aspect": "national", "value": "national", "fact": "The playbook says the IUC is given to any natural person entered in the civil status register at birth, with the register fed from the national civil status system Madania.", "as_of": "2026-05", "date_precision": "month", "system": "Identifiant Unique du Citoyen (IUC)", "class": "birthnumber"}
+      ],
+      "systems": [
+        {"system": "Identifiant Unique du Citoyen (IUC)", "country_label": "IUC", "class": "birthnumber", "platform": "", "owner": "Ministry of the Interior", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idmaintenance": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The playbook's governance diagram shows the citizen identifier system managed by the Unite de Gestion de l'Identifiant Unique Citoyen within the Ministry of the Interior, with the interoperability platform operated by the Centre National Informatique.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idregisters": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The playbook says the citizen identifier register holds the sectoral identifiers (health, social, pupil) in a correspondence table with the IUC, and that web services let ministries and sectors insert or update their sectoral identifier in it.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "register"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idrobustness": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The playbook describes the unique citizen identifier register as in operation, holding biographic data, civil status and CIN data, with a stated maturity of consolidation phase.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idverification": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The playbook lists services that integrate E-Houwiya, including Tunisie Telecom, the health insurer CNAM, the social security fund CNSS, five named banks, La Poste and insurance.", "as_of": "2026-05", "date_precision": "month", "system": "E-Houwiya", "class": "relying"},
+        {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The playbook lists E-Houwiya integration across telecoms, banking, health insurance, social security, education and public portals.", "as_of": "2026-05", "date_precision": "month", "system": "E-Houwiya", "class": "relying"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing on a land register."}}},
+    "populationregister": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The playbook describes the citizen identifier register, held under the ministry in charge of local affairs, giving an IUC to each person entered in the civil register at birth, to citizens registered abroad and to naturalised persons, and the citizen portal offers access to the national citizen register.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "population"},
+        {"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "The playbook shows the citizen identifier register initialised and updated from the Madania civil status database by API and holding birth-act and death-act references, the date and place of death and civil status.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "population"},
+        {"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform.", "as_of": "2026-05", "date_precision": "month", "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)", "class": "population"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "registry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document does not say whether local civil registration offices enter events digitally when registered."}}},
+    "schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document gives no school internet share or curriculum rule."}}},
+    "socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Social aid appears only as an exchange service category and a sectoral social identifier, with no social registry described."}}},
+    "taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Tax situation appears only as an exchange service category, with no taxpayer register described."}}}
+  }
+}

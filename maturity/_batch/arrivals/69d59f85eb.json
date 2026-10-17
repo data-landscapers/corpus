@@ -1,0 +1,7 @@
+{"slug":"2025-05-03-bfa-cybastion-esignature-training","studies":{
+"authentication":{"countries":{"BFA":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"Cybastion says it is leading implementation of electronic signature through Burkina Faso's public key infrastructure, with the platform installed and about thirty people, including ANSSI staff, trained on it on 28-30 April 2025.","as_of":"2025-04-30","date_precision":"day","system":"national PKI electronic signature platform","class":"authentication"}],"systems":[{"system":"national PKI electronic signature platform","country_label":"Burkina Faso government PKI","class":"authentication","platform":"Cybastion","owner":"ANSSI","tiers":""}],"note":""}}},
+"cybersecurity":{"countries":{"BFA":{"facts":[],"systems":[],"note":"ANSSI is named only as a workshop participant; no creation, incident or alert stated."}}},
+"digitalstrategy":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Names no national digital strategy by title or adoption."}}},
+"ecommercelaw":{"countries":{"BFA":{"facts":[],"systems":[],"note":"States no e-commerce or electronic transactions law."}}},
+"egovservices":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No government online service, portal or count stated."}}},
+"itcapacity":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Training of government IT staff only; platform is vendor-led, no in-house running or build stated."}}}}}

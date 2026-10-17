@@ -2,7 +2,7 @@
 
 ## Access to information law
 
-**Law in force.** The World Bank's [December 2022 open data readiness assessment](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>) says the government, through the BAI presidential reform office, is drafting a new access to information law, an avant-projet with an Open Data section and a decree. The text had been under discussion in government for nearly two years, with no adoption timetable and no civil society involvement. The draft is titled Projet de loi d'accès à l'information, and its owner is the BAI (Bureau d'Analyse et d'Investigation) in the Presidency.
+**Law in force.** Benin's access provisions sit in Loi n° 2015-07, the Code de l'information et de la communication of 2015. The World Bank's [December 2022 open data readiness assessment](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>) calls them extremely limited, with articles 84 and 90 restricting access rights, no request procedure, no designated contact point and no annual report on requests. The same assessment says the BAI presidential reform office was drafting a new access to information law, with no adoption timetable.
 
 **Law put to work and applied.** The same [assessment](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>) says the HAAC, the body named under Loi n° 2015-07, the Code de l'information et de la communication of 2015, does not appear to have undertaken any initiative to promote access to information. Civil society organisations found the right little known and little used, and their test letters to administrations were generally ignored.
 

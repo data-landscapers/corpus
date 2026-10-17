@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-23-gha-nita-data-harmonisation-bill-consultation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NITA put out for public consultation the draft Data Harmonisation Bill 2025, to set a legal framework for data sharing, standardisation and interoperability across public and private institutions through a National Data Exchange Platform.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "NITA Data Harmonisation Bill 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

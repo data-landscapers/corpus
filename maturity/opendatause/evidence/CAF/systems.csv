@@ -1,8 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-CAF,Open Data Platform (ODP) 2.0,ICASEES Open Data Platform (migration to ODP 2.0 planned),,ODP 2.0,ICASEES,,2026-09-20-icasees-sdmx-odp2-cemac-delegation-centrafricaine
+CAF,Open Data Platform (ODP) 2.0,ICASEES Open Data Platform (migration to ODP 2.0 planned),other,ODP 2.0,ICASEES,,2026-09-20-icasees-sdmx-odp2-cemac-delegation-centrafricaine
 CAF,Open Data Portal (ODP),ICASEES Open Data Portal,open,ODP,ICASEES,,2026-06-10-caf-icasees-odp-portal-odin-modernisation
-CAF,ICASEES institutional website,ICASEES website (icasees.org),,,ICASEES,,2026-06-10-caf-icasees-odp-portal-odin-modernisation
-CAF,NADA RCA,"Portail National d'Archivage des Données, https://icasees.org/nada/index.php/home",,NADA,ICASEES,,2026-05-29-caf-nada-new-interface
+CAF,ICASEES institutional website,ICASEES website (icasees.org),other,,ICASEES,,2026-06-10-caf-icasees-odp-portal-odin-modernisation
+CAF,NADA RCA,"Portail National d'Archivage des Données, https://icasees.org/nada/index.php/home",other,NADA,ICASEES,,2026-05-29-caf-nada-new-interface
 CAF,NADA,ICASEES NADA data archive,open,NADA,ICASEES,,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
 CAF,Open Data platform,ICASEES Open Data platform,open,ODP,ICASEES,,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
 CAF,Gouvernemental Centralisé,Government services portal,other,,Ministry of Finance,,2025-12-12 Central African Republic Launches Unified Digital Portal for All Public Services
@@ -12,5 +12,5 @@ CAF,portail Open Data,ICASEES Open Data portal,open,,ICASEES,,2026-03-24-icasees
 CAF,National Summary Data Page (NSDP),CAR National Summary Data Page (e-GDDS),open,IMF e-GDDS,ICASEES,,2025-05-19-imf-car-egdds-implementation
 CAF,CEMAC-Data,CEMAC-Data regional platform (planned),other,,CEMAC Commission,,2026-09-15-xca-7joursinfo-cemac-sdmx-odp2-cemac-data
 CAF,Portail Open Data de la République centrafricaine (ODP-RCA),Portail Open Data de la République centrafricaine,open,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
-CAF,Archives nationales de données,Archives nationales de données,,,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
-CAF,REDATAM,REDATAM platform,,REDATAM,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,Archives nationales de données,Archives nationales de données,other,,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,REDATAM,REDATAM platform,other,REDATAM,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2

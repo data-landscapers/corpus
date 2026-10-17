@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001;TCD-002",
-   "gaps": "No source held says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "3",
+      "part": "active",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-006;TCD-001",
+      "gaps": "No source held says a thing the country agreed has been put into effect.",
+      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-15-caf-africabusinessinsight-digital-public-services-connectivity-barriers",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Its 12 per cent internet-use figure is DataReportal's, which is noted and never used."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal's criminal-record extracts are a public service; nothing on station records."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal's school certificates are a public service; nothing on learner records kept by schools."
+    }
+   }
+  }
+ }
+}

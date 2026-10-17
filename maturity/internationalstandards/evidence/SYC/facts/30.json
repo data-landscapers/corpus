@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-syc-iso-sbs-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Seychelles Bureau of Standards as an ISO member, observing 21 technical committees and 3 policy development committees; the class of membership is not stated.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Seychelles Bureau of Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

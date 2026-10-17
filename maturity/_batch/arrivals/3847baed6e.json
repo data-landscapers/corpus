@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-06-sle-unicef-children-digital-public-infrastructure",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Speaks of data protection safeguards generally; names no law, bill or authority."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "UNICEF says digital birth registration is now an integral part of Sierra Leone's civil registration system, with NCRA staff registering a birth on a portable digital device in Bombali District.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "digital birth registration system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital birth registration system",
+       "country_label": "Sierra Leone",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Civil Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

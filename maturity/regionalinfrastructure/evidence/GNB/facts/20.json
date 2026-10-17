@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-14-gnb-ang-amilcar-cabral-cabo-submarino",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "ECOWAS Commissioner Sediko Douka said commitment to the Amilcar Cabral submarine cable (Cabo Verde to Liberia trunk, with extensions to Gambia, Guinea-Bissau, Guinea and Sierra Leone) was consolidated by a protocol of agreement signed at the second steering committee in April 2023; the study ($1m) and build ($25m) were still unfunded in June 2024.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Amilcar Cabral submarine cable",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amilcar Cabral submarine cable",
+   "country_label": "Amilcar Cabral submarine cable",
+   "class": "shared",
+   "platform": "submarine cable",
+   "owner": "ECOWAS project",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

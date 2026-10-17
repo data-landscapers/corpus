@@ -1,0 +1,280 @@
+{
+ "slug": "2024-03-29-ben-lanation-interoperabilite-rnpp-npi",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says ANIP offers three types of interoperability with the RNPP: simple authentication, strong authentication and data exchange.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "ANIP interoperability (NPI)",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The article says the tax directorate and the emigration and immigration directorate have been trying the RNPP interoperability for several years.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "ANIP interoperability (NPI)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Benin",
+       "class": "population",
+       "platform": "",
+       "owner": "Agence nationale d'identification des personnes (ANIP)",
+       "tiers": ""
+      },
+      {
+       "system": "Numero personnel d'identification (NPI)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": "simple authentication; strong authentication; data exchange"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The article says the tax directorate and the emigration and immigration directorate have been trying interoperability with the RNPP for several years, and ANIP is extending it to about 100 other bodies to integrate the NPI.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "RNPP / NPI",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Benin",
+       "class": "population",
+       "platform": "",
+       "owner": "Agence nationale d'identification des personnes (ANIP)",
+       "tiers": ""
+      },
+      {
+       "system": "Numero personnel d'identification (NPI)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": "simple authentication; strong authentication; data exchange"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The article describes the RNPP as the ANIP-managed database of Beninese and foreigners living in Benin, keyed on a unique identifier, the NPI.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "RNPP / NPI",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Benin",
+       "class": "population",
+       "platform": "",
+       "owner": "Agence nationale d'identification des personnes (ANIP)",
+       "tiers": ""
+      },
+      {
+       "system": "Numero personnel d'identification (NPI)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": "simple authentication; strong authentication; data exchange"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The article describes the RNPP as the database of Beninese and foreigners living in Benin, managed by ANIP.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Benin",
+       "class": "population",
+       "platform": "",
+       "owner": "Agence nationale d'identification des personnes (ANIP)",
+       "tiers": ""
+      },
+      {
+       "system": "Numero personnel d'identification (NPI)",
+       "country_label": "Benin",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": "simple authentication; strong authentication; data exchange"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

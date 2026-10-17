@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-13-sle-emerging-technologies-can-africa-s-digital-infrastructure-ke",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Sierra Leone's regulator NatCA, through its deputy director of engineering, says it is part of the West Africa Telecommunications Regulators Assembly (WATRA).",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "WATRA",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Sierra Leone's regulator NatCA, through its deputy director of engineering, says it is part of the African Telecommunications Union (ATU).",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "African Telecommunications Union",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WATRA",
+       "country_label": "Sierra Leone",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "West Africa Telecommunications Regulators Assembly",
+       "tiers": ""
+      },
+      {
+       "system": "ATU",
+       "country_label": "Sierra Leone",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "African Telecommunications Union",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

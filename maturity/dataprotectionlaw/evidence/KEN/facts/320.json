@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-14-tra-kenya-odpc-hosts-sri-lanka-data-protection-authority",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Office of the Data Protection Commissioner, led by Data Commissioner Immaculate Kassait with two Senior Deputy Data Commissioners, hosted a three-day peer visit.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

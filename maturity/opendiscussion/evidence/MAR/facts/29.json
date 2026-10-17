@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-15-mar-hrw-protests-met-with-repression",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Human Rights Watch says the youth movement GenZ212 called nationwide protests from 27 September 2025 criticising public spending on mega-sporting events and demanding more for health care and education.",
+   "as_of": "2025-09-27",
+   "date_precision": "day",
+   "system": "GenZ212",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Human Rights Watch reports the Agadir Court of First Instance sentenced a man on 4 October 2025 to four years in prison and a 50,000 dirham fine for 'inciting minor offenses and crimes via social media'.",
+   "as_of": "2025-10-04",
+   "date_precision": "day",
+   "system": "Agadir Court of First Instance",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

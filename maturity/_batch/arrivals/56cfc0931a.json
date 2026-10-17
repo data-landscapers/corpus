@@ -1,0 +1,219 @@
+{
+ "slug": "2025-08-10-som-unicef-legal-identity-birth-registration",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "UNICEF Somalia says the digital CRVS system, piloted in 19 districts in 2023 and scaled to 48 districts in 2025, is used daily to register births, though not all regions have it.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Digital CRVS system",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "UNICEF Somalia says the digital CRVS system is deployed with full operational capability for daily registration of vital events such as births and deaths.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Digital CRVS system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OpenCRVS-based digital CRVS",
+       "country_label": "Digital CRVS system",
+       "class": "civil",
+       "platform": "OpenCRVS",
+       "owner": "Ministry of Interior Affairs and Federal Reconciliation",
+       "tiers": "48 districts"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B;D",
+       "fact": "UNICEF Somalia says the digital CRVS system is used daily to register births and deaths.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Digital CRVS system",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "civil",
+       "fact": "UNICEF Somalia says district registrars and health workers register vital events in the digital system, with records held in a secure national data repository.",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Digital CRVS system",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:48",
+       "fact": "UNICEF Somalia says the digital CRVS system is operating in 48 districts, scaled up from a 19-district pilot (another account in the source file's note gives 19).",
+       "as_of": "2025-08-10",
+       "date_precision": "day",
+       "system": "Digital CRVS system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OpenCRVS-based digital CRVS",
+       "country_label": "Digital CRVS system",
+       "class": "civil",
+       "platform": "OpenCRVS",
+       "owner": "Ministry of Interior Affairs and Federal Reconciliation",
+       "tiers": "48 districts"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  }
+ }
+}

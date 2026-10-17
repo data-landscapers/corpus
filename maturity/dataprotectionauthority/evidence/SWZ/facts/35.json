@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-swz-edpa-transfer-authorisation-form",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The EDPA publishes an application form for authorisation to transfer personal data abroad and requires controllers to be registered with it.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Eswatini Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

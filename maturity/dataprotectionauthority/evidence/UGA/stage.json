@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "4",
-   "standing": "constituted",
-   "rulings": "ruled",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-004;UGA-003;UGA-001",
-   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-004;UGA-003;UGA-001",
+      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

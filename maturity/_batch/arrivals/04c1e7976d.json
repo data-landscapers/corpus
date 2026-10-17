@@ -1,0 +1,204 @@
+{
+ "slug": "2024-07-17-mwi-nation-nrb-under-scrutiny",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Deaths and births registration is stated but not as digital."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 12m aged 16+ enrolled, not a share of the whole population."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Principal Secretary says the NRB has registered over 12 million citizens aged above 16 and issued them national IDs with a unique identification number to avoid double registration.",
+       "as_of": "2024-07-17",
+       "date_precision": "day",
+       "system": "National ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID",
+       "country_label": "National ID",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The NRB, per its Principal Secretary, is the only department mandated to register births, deaths, marriages and citizens aged 16+ for national IDs, so one body holds both registers.",
+       "as_of": "2024-07-17",
+       "date_precision": "day",
+       "system": "National Registration Bureau",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Principal Secretary says the National Registration Act of 2010 mandates the NRB to run the national registration and identification system.",
+       "as_of": "2010",
+       "date_precision": "year",
+       "system": "National Registration Act 2010",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The Principal Secretary says the law makes the Malawi Electoral Commission recognise the national ID as the single source of truth for voter registration, after Parliament made it the only proof of identity.",
+       "as_of": "2024-07-17",
+       "date_precision": "day",
+       "system": "National ID for voter registration",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The Principal Secretary says children under 16 get birth registration certificates with a unique identification number, over three million so far.",
+       "as_of": "2024-07-17",
+       "date_precision": "day",
+       "system": "Birth registration certificate with unique ID number",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

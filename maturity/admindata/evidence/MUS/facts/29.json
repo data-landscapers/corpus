@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "Statistics Mauritius published Economic and Social Indicators Issue No 1949, Population and Vital Statistics Jan-Jun 2026, on 28 August 2026, with vital statistics drawn from the Civil Status Division's computerised system.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Economic and Social Indicators Issue No 1949",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "vital",
+   "value": "published",
+   "fact": "The issue reports 6,386 live births and 6,333 deaths registered in January-June 2026, extracted from the Civil Status Division's computerised system, per Statistics Mauritius.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Economic and Social Indicators Issue No 1949",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "computerised system at the Civil Status Division",
+   "country_label": "Civil Status Division computerised system",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Status Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

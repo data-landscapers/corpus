@@ -1,0 +1,101 @@
+{
+ "slug": "2024-09-03-mar-aujourdhui-dgi-simpl-e-services",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Simpl",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "web (J2EE)",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": "Simpl is the tax directorate's own system for its taxpayers; not a multi-ministry government service portal."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The DGI says its Simpl teleservices let taxpayers declare and pay taxes electronically (telepayer).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Simpl",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The DGI figures show 91.1% of 2023 receipts were paid online (telepayee).",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Simpl",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Simpl",
+       "country_label": "Morocco",
+       "class": "revenue",
+       "platform": "web (J2EE)",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The DGI says Simpl modules (TVA, IS, IR) let taxpayers file returns online (teledeclarations).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Simpl",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Simpl",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Simpl",
+       "country_label": "Morocco",
+       "class": "taxsystem",
+       "platform": "web (J2EE)",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

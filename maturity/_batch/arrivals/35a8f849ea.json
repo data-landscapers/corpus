@@ -1,0 +1,144 @@
+{
+ "slug": "2025-03-03-stp-rdpafrica-sistema-integrado-registo-civil",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The registry and notary directorate is running a pilot of a digital identity platform, for which it sought 1,000 volunteer testers.",
+       "as_of": "2025-03-03",
+       "date_precision": "day",
+       "system": "identidade digital",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "identidade digital",
+       "country_label": "São Tomé e Príncipe",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Direção de Registo e Notariado",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The registry and notary directorate launched a new integrated management and identification system for civil registry and notary services, under a project to digitalise them, built with Cabo Verdean technical consultants.",
+       "as_of": "2025-03-03",
+       "date_precision": "day",
+       "system": "sistema integrado de gestão e identificação",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "sistema integrado de gestão e identificação",
+       "country_label": "São Tomé e Príncipe",
+       "class": "civil",
+       "platform": "",
+       "owner": "Direção de Registo e Notariado",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Only criminal-record issuance is described, not a court case management system."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The system is named but the document does not say local offices enter births or deaths in it."
+    }
+   }
+  }
+ }
+}

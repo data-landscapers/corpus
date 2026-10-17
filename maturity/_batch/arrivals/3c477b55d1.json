@@ -1,0 +1,214 @@
+{
+ "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "At a CENADI workshop, Professor Jean Louis Fendji listed Cameroon's cybersecurity law among the local texts that frame aspects of data protection.",
+       "as_of": "2024-08-14",
+       "date_precision": "day",
+       "system": "loi sur la cybersécurité",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The document says Cameroon has no data protection law yet and that administrations are preparing a draft bill (avant-projet de loi), with workshop recommendations addressed to them.",
+       "as_of": "2024-08-14",
+       "date_precision": "day",
+       "system": "avant-projet de loi sur la protection des données",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "none",
+       "fact": "Professor Jean Louis Fendji said at a CENADI workshop that Cameroon has no data protection law yet.",
+       "as_of": "2024-08-14",
+       "date_precision": "day",
+       "system": "",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "signed",
+       "fact": "The document says Cameroon signed the Malabo Convention on 12 August 2021 and that ratification is awaited.",
+       "as_of": "2021-08-12",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "At a CENADI workshop, Professor Jean Louis Fendji listed Cameroon's e-commerce law among the local texts that frame aspects of data protection.",
+       "as_of": "2024-08-14",
+       "date_precision": "day",
+       "system": "loi sur le commerce électronique",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "signed",
+       "fact": "The document says Cameroon signed the African Union Malabo Convention on 12 August 2021 and that ratification is awaited.",
+       "as_of": "2021-08-12",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Cameroon."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-15-digitalbusiness-igf-2026-afrique-centrale-cooperation-numerique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Forum on internet governance; no AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange platform stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Sovereignty defined as a forum theme only; no state data rule, hosting or contract terms stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A regional internet governance forum and a youth school; no named digital law or policy put to outside views."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A regional IGF with ECCAS, AUC, UNECA, ITU attending; no agreement, membership or act of Chad stated."
+    }
+   }
+  }
+ }
+}

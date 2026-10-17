@@ -1,0 +1,135 @@
+{
+ "slug": "2025-10-30-lso-lestimes-nikuv-sues-govt-m39m",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Lesotho."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "supplier",
+       "fact": "Pangea (ex-Nikuv), contracted in 2012 to design, supply and implement Lesotho's civil registration and national ID systems, held maintenance and support agreements with the Ministry of Home Affairs, the latest of September 2024 at US$283,290 a month, ended 30 December 2024 with a new company to take over, per the Lesotho Times.",
+       "as_of": "2024-12-30",
+       "date_precision": "day",
+       "system": "civil registration and national ID systems",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pangea (ex-Nikuv) civil registration and national ID systems",
+       "country_label": "Lesotho",
+       "class": "idsystem",
+       "platform": "Pangea",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Lesotho Times reports Pangea's court claim that the Ministry of Home Affairs kept relying on the national identification systems Pangea implemented through to the December 2024 termination.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "national identification system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

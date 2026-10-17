@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-06-tcd-thomasd-transfert-international-donnees",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Cabinet Thomas Dingamgoto analysis applies Loi n°007/PR/2015 to personal data and treats its articles 29 to 32 as the current transfer regime.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Loi n°007/PR/2015",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The analysis says the law requires notification to or prior authorisation from ANSICE for transfers, and that the agency's operational effectiveness is not documented.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°007/PR/2015",
+   "country_label": "Loi n°007/PR/2015",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-28-bdi-sosmedias-cnc-suspends-yaga",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "SOS Medias Burundi reports the National Communication Council announced on 27 March 2025 the temporary suspension of the Yaga Burundi online media coalition, citing it was not registered.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "National Communication Council",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on consultation on a digital law or policy."
+    }
+   }
+  }
+ }
+}

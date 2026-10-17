@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Stratégie nationale de Gouvernance des Données (SNGD),Burundi,policy,,Ministry of Finance and Digital Economy,,2025-11-11-bdi-dba-strategie-gouvernance-donnees-validee
 BEN,Benin National Data Strategy,National Data Strategy,policy,,Smart Africa Secretariat with GIZ (commissioning the drafting),,2025-11-21 Smart Africa - ToR for Benin National Data Strategy
-BFA,Plan Stratégique de la Santé Numérique (PSSN) 2025-2029,Plan Stratégique de la Santé Numérique,,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
+BFA,Plan Stratégique de la Santé Numérique (PSSN) 2025-2029,Plan Stratégique de la Santé Numérique,other,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 CIV,Stratégie Nationale de la Gouvernance des Données 2024-2030 (SNGD 2030),SNGD 2030,policy,,Ministère de la Transition Numérique et de la Digitalisation,central government,2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030
 CPV,Estratégia Nacional de Dados,Estratégia Nacional de Dados,policy,,Conselho Nacional de Estatística (CNEST),,2025-04-28-cnest-conferencia-estrategia-nacional-dados
 CPV,Data Strategy for Public Administration,Data Strategy for Public Administration,policy,,Ministry of Digital Economy (Secretary of State for the Digital Economy),,2026-05-04-national-data-ai-strategies-techafricanews
@@ -53,7 +54,7 @@ NGA,National Cloud Policy,National Cloud Policy,other,,NITDA,,2026-06-17 Governm
 RWA,Data Sharing Platform,Data Sharing Platform,other,,RISA,government institutions,2025-10-27 Introduction to the Rwanda National Data Sharing Policy
 RWA,Rwanda National Data Sharing Policy,public sector data sharing policy,policy,,Government of Rwanda,national,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Data Governance Unit (NISR),Data Governance Unit,policy,,National Institute of Statistics of Rwanda,national,2026-05-07 What will determine the success of Rwanda’s data governance push
-RWA,Data sharing platform,data sharing platform,,,Data Governance Unit (NISR),national,2026-05-07 What will determine the success of Rwanda’s data governance push
+RWA,Data sharing platform,data sharing platform,other,,Data Governance Unit (NISR),national,2026-05-07 What will determine the success of Rwanda’s data governance push
 SEN,Blueprint on Data Valorisation,Blueprint on Data Valorisation,policy,,"Ministry of Telecommunications and Digital, DTIC, with Smart Africa and GIZ",,2026-09-23-sen-validates-national-blueprint-data-valorisation
 SEN,Stratégie nationale des données (SND),Stratégie nationale des données,policy,,,,2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees
 SEN,Stratégie sur l'intelligence artificielle (SNIA),Stratégie sur l'intelligence artificielle,other,,,,2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees
@@ -64,9 +65,10 @@ SLE,National Data Strategy,National Data Strategy,policy,,Government of Sierra L
 SLE,National Data Strategy,National Data Strategy,policy,,"Ministry of Communication, Technology and Innovation",national,2026-08-21-techreviewafrica-sierra-leone-dsti-data-protection-by-design
 SLE,National Data Protection Policy,National Data Protection Policy,other,,"Ministry of Information and Civic Education; Ministry of Communication, Technology and Innovation",national,2026-04-22-cabinet-data-protection-policy
 SLE,National Data Strategy,National Data Strategy: Development of an Inclusive Data Economy,policy,,Ministry of Information and Communications,national,2023-01-01-sierra-leone-national-data-strategy
-SLE,National Digital Development Council,National Digital Development Council,,,,,2023-01-01-sierra-leone-national-data-strategy
+SLE,National Digital Development Council,National Digital Development Council,other,,,,2023-01-01-sierra-leone-national-data-strategy
 STP,Estratégia de Dados 2025-2030 e Política de Governança de Dados,Estratégia e Política de Governança de Dados,policy,,"Instituto de Inovação e Conhecimento (INIC), Governo de São Tomé e Príncipe",,2025-07-01-inic-sao-tome-estrategia-politica-governanca-de-dados
 SWZ,Mchumanisi (proposed National Data Exchange Platform),Mchumanisi,other,,Government of Eswatini; Ministry of ICT,government institutions,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,National Data Policy,Eswatini,policy,,Ministry of ICT,,2026-04-29-swz-swazi24-maziya-national-data-policy
 TCD,National Data Governance Strategy,Stratégie nationale de gouvernance des données,policy,,"Ministry of Telecommunications, Digital Economy and Digitalization of Administration, with ECA and GIZ",,2026-05-13-uneca-chad-national-data-governance-strategy
 TGO,Observatoire national du numerique (ONN),Observatoire national du numerique,other,,"Ministry of Public Action Efficiency and Digital Transformation, with GIZ",,2025-11-18-togofirst-observatoire-national-du-numerique
 TGO,Open Data platform (opendata.gouv.tg),Open Data,other,,Agence Togo Digital,,2025-01-08-democratisation-de-l-acces-aux-donnees-publiques-au-togo
@@ -80,6 +82,8 @@ UGA,National AI and Emerging Technologies Strategy,National AI & Emerging Techno
 UGA,National AI Strategy,national AI strategy,other,,Ministry of ICT and National Guidance,,2026-03-12-govt-crafts-national-ai-strategy
 UGA,National AI Policy,national artificial intelligence policy,other,,Ministry of ICT and National Guidance,,2025-06-18-uganda-to-develop-national-ai-policy
 UGA,National Information Security Policy (NISP) and National Information Security Framework (NISF) 2026,NISP / NISF,other,,NITA-U,"MDAs, local governments, critical information infrastructure operators",2026-07-15-nita-u-nisf-2026
+UGA,National Data Strategy,Uganda,policy,,Ministry of ICT and National Guidance,,2024-06-19-uga-moict-national-data-strategy-consultations
 ZAF,National Policy on Data and Cloud,National Policy on Data and Cloud (Notice 2533 of 2024),policy,,Department of Communications and Digital Technologies,"national and provincial government, organs of state, private sector",2024-05-31-national-policy-on-data-and-cloud
+ZAF,Public Service Data Governance Framework,South Africa,policy,,Department of Public Service and Administration,national and provincial departments and components,2025-04-02-zaf-dpsa-data-governance-directive
 ZMB,ZNSDI geoportal,Zambia National Spatial Data Infrastructure portal,other,GeoNetwork (open source),Electronic Government Division (SMART Zambia),,2026-06-18-zambia-launches-znsdi-policy-geoportal
 ZWE,National AI and Data Platform,National AI and Data Platform,other,,"Ministry of ICT, Postal and Courier Services (under the National AI Strategy 2026-2030)",,2026-03-16-mnangagwa-launches-five-year-ai-strategy

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "DNEC says it collaborates very well with the Autorite de Protection des Donnees a caractere Personnel (APDP), an operating body.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

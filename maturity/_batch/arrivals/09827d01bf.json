@@ -1,0 +1,25 @@
+{
+ "slug": "2026-07-28-lby-libyareview-whats-preventing-population-census",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "none",
+       "fact": "LibyaReview, citing an Al Jazeera report, says Libya's last nationwide census was completed in 2006 and political division has since prevented the launch of a new one, as the Ministry of Planning's statistics director also says.",
+       "as_of": "2026-07-28",
+       "date_precision": "day",
+       "system": "Population census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-gmb-gbos-downloads",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Gambia Bureau of Statistics publishes GDP, CPI, PPI, trade and survey reports with microdata for download at gbosdata.org/downloads; no licence is stated.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "GBoS downloads (gbosdata.org/downloads)",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

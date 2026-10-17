@@ -1,0 +1,146 @@
+{
+ "slug": "2024-08-29-nga-npc-first-lady-birth-certificate-nin",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The NPC release says NPC, the Health Ministry, NIMC and Barnksforte Technologies have an initiative to issue a national identification number to every child at birth, starting in 2024.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "NIN at birth initiative",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The NPC release says the First Lady's initiative supports birth registration using the national e-CRVS in all health facilities and communities, with symbolic electronic registration of children at the launch, where registrations were previously manual.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "e-CRVS",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-CRVS",
+       "country_label": "national digital Civil Registration and Vital Statistics (e-CRVS)",
+       "class": "civil",
+       "platform": "Barnksforte Technologies Limited (technical partner)",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The NPC release quotes the First Lady on an initiative by NPC, NIMC and Barnksforte to issue a national identification number to every child at birth, starting in 2024.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "NIN at birth initiative",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this question."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-CRVS",
+       "country_label": "national digital Civil Registration and Vital Statistics (e-CRVS)",
+       "class": "civil",
+       "platform": "Barnksforte Technologies Limited (technical partner)",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a symbolic electronic registration at a launch event; no office-level digital entry stated."
+    }
+   }
+  }
+ }
+}

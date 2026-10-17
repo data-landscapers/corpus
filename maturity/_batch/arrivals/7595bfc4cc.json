@@ -1,0 +1,134 @@
+{
+ "slug": "2026-07-27-zwe-africanlawmatters-strategy-without-statute-ai",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "African Law Matters says Cabinet approved Zimbabwe's National AI Strategy 2026-2030 in October 2025 and President Mnangagwa launched it on 13 March 2026.",
+       "as_of": "2026-03-13",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy 2026-2030",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "none",
+       "fact": "African Law Matters says the strategy has no implementation budget and its flagship initiatives carry no financial qualification.",
+       "as_of": "2026-07-27",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy 2026-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy 2026-2030",
+       "country_label": "Zimbabwe",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Government of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "African Law Matters says the Cyber and Data Protection Act, in force from March 2022, designates POTRAZ as the Data Protection Authority.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "POTRAZ",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "African Law Matters says the Cyber and Data Protection Act [Chapter 12:07] has been in force since March 2022.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "Cyber and Data Protection Act",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "African Law Matters says POTRAZ is designated as the Data Protection Authority under the Act.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "POTRAZ",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "African Law Matters says Statutory Instrument 155 of 2024 introduced a licensing framework and required Data Protection Officers by December 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Statutory Instrument 155 of 2024",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "African Law Matters says the Cyber and Data Protection Act has been in force since March 2022.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "Cyber and Data Protection Act",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "African Law Matters says POTRAZ is designated as the Data Protection Authority.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "POTRAZ",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

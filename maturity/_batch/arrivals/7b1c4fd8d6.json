@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-16-rwa-rsb-international-technical-committees",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "The Rwanda Standards Board page lists participating (P) membership of 28 ISO technical committees.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "RSB",
+       "class": "adoption"
+      },
+      {
+       "sub_indicator": "international",
+       "aspect": "use",
+       "value": "writes",
+       "fact": "The RSB page lists Rwanda as a participating member of ISO/IEC JTC 1/SC 40 on IT service management and IT governance, and an observer on JTC 1 and SC 27.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "RSB",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states no law setting up the body and no national IT standard issued."
+    }
+   }
+  }
+ }
+}

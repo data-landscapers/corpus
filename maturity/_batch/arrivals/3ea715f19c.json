@@ -1,0 +1,11 @@
+{"slug": "2024-05-13-bfa-burkina24-anotel-cnib-carte-sim", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states no authentication, e-signature or PKI service."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Carte Nationale d'Identite Burkinabe (CNIB)", "country_label": "Burkina Faso", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "The CNIB is named only as an accepted document; nothing on issuance, biometrics or certification."}}},
+"idverification": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Carte Nationale d'Identite Burkinabe (CNIB)", "country_label": "Burkina Faso", "class": "relying", "platform": "", "owner": "", "tiers": ""}], "note": "SIM sale requires presenting the CNIB as a document; no check against the ID database is stated."}}},
+"refugees": {"countries": {"BFA": {"facts": [{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "ANOTEL, applying decree 2023-1721 of 15 December 2023, states that the refugee identity card and refugee attestation issued by CONAREF are the only documents accepted for refugees to buy a SIM card.", "as_of": "2023-12-15", "date_precision": "day", "system": "CONAREF refugee card and attestation", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

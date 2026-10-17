@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "3",
-   "standing": "constituted",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-009;GHA-002",
-   "gaps": "No ruling of the authority against a named organisation in the last three years is held. The one decision held from the last three years is a court's, which belongs to the law row.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-013;GHA-014",
+      "gaps": "No ruling of the authority against a named organisation in the last three years is held. The one decision held from the last three years is a court's, which belongs to the law row.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

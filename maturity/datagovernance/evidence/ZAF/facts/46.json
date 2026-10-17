@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-02-zaf-dpsa-data-governance-directive",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Minister for Public Service and Administration signed the Determination and Directive on the Implementation of Data Governance in the Public Service, with the Public Service Data Governance Framework as Annexure A, in effect on signature and repealing the 14 February 2024 knowledge and data management directive.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "Determination and Directive on the Implementation of Data Governance in the Public Service",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The directive requires each Head of Department to establish a Data Governance Committee and a Data Governance Office and to appoint a Chief Data Officer (which may be filled within 24 months).",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "Determination and Directive on the Implementation of Data Governance in the Public Service",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Service Data Governance Framework",
+   "country_label": "South Africa",
+   "class": "policy",
+   "platform": "",
+   "owner": "Department of Public Service and Administration",
+   "tiers": "national and provincial departments and components"
+  }
+ ],
+ "note": ""
+}

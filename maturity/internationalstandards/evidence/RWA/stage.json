@@ -1,16 +1,17 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "international",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.",
-   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "international",
+      "stage": "5",
+      "standing": "adopted",
+      "use": "writes",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002",
+      "gaps": "All four questions are answered.",
+      "note": "Counted from the four questions by study-ladder-internationalstandards.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-14-lby-eltumi-data-protection-etransactions-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Eltumi Partners states Libya passed Law No 6 of 2022 on Electronic Transactions in October 2022, governing the validity and regulation of electronic transactions.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "Law No 6 of 2022 on Electronic Transactions",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "none",
+   "fact": "Eltumi Partners states the government has not yet published the executive regulation to the e-Transactions Law and that its applicability is untested.",
+   "as_of": "2023-12-14",
+   "date_precision": "day",
+   "system": "Law No 6 of 2022 on Electronic Transactions",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law No 6 of 2022 on Electronic Transactions",
+   "country_label": "Libya",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

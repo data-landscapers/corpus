@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-ken-sdsri-draft-national-ai-policy-public-participation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Kenya's State Department for Science, Research and Innovation invited public comments, due 14 October 2026, on its drafted National AI Policy for Science, Research and Innovation.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National AI Policy for Science, Research and Innovation",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

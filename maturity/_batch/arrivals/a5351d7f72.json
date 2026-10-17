@@ -1,0 +1,123 @@
+{
+ "slug": "2026-10-12-gha-myjoyonline-nyaho-medical-centre-cid-data-protection-registration",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Commission",
+       "country_label": "Ghana",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling: a referral to CID for a statement is not a decision, order or fine."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "MyJoyOnline says organisations processing personal data must meet registration obligations under the Data Protection Act, 2012 (Act 843), which the DPC enforced on 2026-10-12.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline. No sanction was stated.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The DPC enforced registration obligations under the Data Protection Act, 2012 (Act 843) on 2026-10-12, per MyJoyOnline.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline. It is a registration compliance check with no decision stated.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is not about police records systems."
+    }
+   }
+  }
+ }
+}

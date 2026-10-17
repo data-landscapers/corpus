@@ -1,0 +1,13 @@
+{"slug": "2024-01-24-lbr-csquared-350km-backbone-civ-guinea-borders", "studies": {
+"digitaldivides": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Operator and USAID backbone project; no government rural programme or rural/urban use figures stated."}}},
+"exchangepoints": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No exchange point mentioned."}}},
+"fibrebackbone": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "CSquared, USAID and Digital Invest committed to building a 350 km backbone crossing 13+ towns in Margibi, Bong and Nimba counties and connecting Monrovia to the Ivory Coast and Guinea borders, partly on Liberia Electricity Corporation utility infrastructure.", "as_of": "2024-01-24", "date_precision": "day", "system": "CSquared Liberia fibre backbone", "class": "backbone"},
+{"sub_indicator": "backbone", "aspect": "access", "value": "open", "fact": "CSquared describes the 350 km backbone as Liberia's first open-access fibre backbone, providing high-capacity long-distance transmission services to Liberian telecommunication operators.", "as_of": "2024-01-24", "date_precision": "day", "system": "CSquared Liberia fibre backbone", "class": "backbone"}],
+"systems": [{"system": "CSquared Liberia fibre backbone", "country_label": "Liberia", "class": "backbone", "platform": "fibre", "owner": "CSquared", "tiers": ""}], "note": ""}}},
+"gendergap": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a ranking by A4AI (95th of 100), no gap figure."}}},
+"internationalbandwidth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Cross-border links to neighbours described as enabled by the backbone, but no route stated in service carrying international traffic."}}},
+"internetusage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a 22% penetration rate for early 2022 from Global Data Insights, outside the window and not an ITU or survey figure."}}},
+"mobileaffordability": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data price stated."}}},
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No satellite service mentioned."}}}
+}}

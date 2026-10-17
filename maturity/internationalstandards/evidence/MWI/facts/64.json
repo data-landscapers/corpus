@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mwi-iso-mbs-member",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Malawi Bureau of Standards as Malawi's ISO member body, participating in 13 technical committees.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MBS",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

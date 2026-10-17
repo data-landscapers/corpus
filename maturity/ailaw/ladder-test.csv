@@ -9,7 +9,7 @@ CIV,no evidence,,,
 CMR,no evidence,,,
 COD,1,none,,COD-001
 COG,2,draft,,COG-001
-COM,3,in-force,,COM-001
+COM,3,in-force,,COM-002;COM-001
 CPV,no evidence,,,
 DJI,1,none,,DJI-001
 DZA,no evidence,,,
@@ -17,7 +17,7 @@ EGY,3,in-force,,EGY-002
 ERI,1,none,,ERI-001
 ETH,no evidence,,,
 GAB,3,in-force,,GAB-001
-GHA,2,draft,,GHA-002
+GHA,2,draft,,GHA-001;GHA-002
 GIN,1,none,,GIN-002
 GMB,1,none,,GMB-001
 GNB,no evidence,,,
@@ -40,7 +40,7 @@ RWA,1,none,,RWA-001
 SDN,2,draft,,SDN-001;SDN-002
 SEN,1,none,,SEN-001
 SLE,1,none,,SLE-001
-SOM,no evidence,,,
+SOM,1,none,,SOM-001
 SSD,no evidence,,,
 STP,1,none,,STP-001;STP-003
 SWZ,no evidence,,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tza-iso-tbs-iso-member-page",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The ISO member page lists the Tanzania Bureau of Standards as a member body of ISO, with 42 technical committees as participating member and 148 as observing member.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Tanzania Bureau of Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

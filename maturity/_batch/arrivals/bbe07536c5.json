@@ -1,0 +1,14 @@
+{"slug":"2024-01-01-lso-undp-voter-registration-roundtable","studies":{
+"authentication":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document states no authentication, e-signature or PKI service."}}},
+"birthidlink":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document states no link between civil register and ID system in service or planned."}}},
+"civilregister":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document gives 70% death registration and a need to digitise older documents, but names no digital civil register."}}},
+"electoralregister":{"countries":{"LSO":{"facts":[{"sub_indicator":"electoral","aspect":"roll","value":"inservice","fact":"UNDP reports the IEC registers voters through Mobile Registration Devices and an outsourced Voter Registration Management System, with 1,388,207 voters on the roll as of September 2023.","as_of":"2023-09","date_precision":"month","system":"Voter Registration Management System","class":"electoral"}],"systems":[{"system":"Voter Registration Management System","country_label":"LSO","class":"electoral","platform":"outsourced software; IEC holds no source key","owner":"Independent Electoral Commission","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"LSO":{"facts":[],"systems":[],"note":"95% is of the targeted citizens, about 1.4 million, with no share of the whole population."}}},
+"idfrombirth":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document states no number given at birth."}}},
+"idmaintenance":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on who operates or owns the national ID system; the outsourced software is the voter system."}}},
+"idregisters":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says the voter roll lacks a unique identifier and is not keyed on the national ID."}}},
+"idrobustness":{"countries":{"LSO":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"UNDP reports Home Affairs says it has registered 95% of targeted citizens, approaching 1.4 million, capturing ten fingerprints and a photo, with charge-free ID issuance and continuous data update.","as_of":"2023-12-21","date_precision":"day","system":"National identity registration (DNICR)","class":"idsystem"}],"systems":[{"system":"National identity registration (DNICR)","country_label":"LSO","class":"idsystem","platform":"","owner":"Ministry of Home Affairs, National Identity and Civil Registration Department","tiers":""}],"note":""}}},
+"internationalstandards":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document only recommends reviewing technology and cyber security standards."}}},
+"localgov":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document is not about local government offices."}}},
+"registry":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document names no digital entry at local civil registration offices."}}}
+}}

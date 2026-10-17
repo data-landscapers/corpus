@@ -1,0 +1,12 @@
+{"slug":"2025-11-05-zaf-pmg-nw5645-south-africans-without-ids","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Smart ID and passport applications via bank apps are service channels, no authentication service stated."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No link between civil register and ID stated."}}},
+"digitalidlaw":{"countries":{"ZAF":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Minister of Home Affairs replies that under Section 15 of the Identification Act, No. 68 of 1997, anyone aged 16 or over must apply for an identity card.","as_of":"2025-11-05","date_precision":"day","system":"Identification Act 68 of 1997","class":"law"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Gives 4,432,923 people aged 16+ without ID, but no enrolled count or population denominator."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Minister of Home Affairs says the department has a 2025/26 target to issue 2,750,000 Smart ID cards, and that Green ID books and Smart ID cards have been issued.","as_of":"2025-11-05","date_precision":"day","system":"Smart ID card","class":"idsystem"}],"systems":[{"system":"Smart ID card","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"populationregister":{"countries":{"ZAF":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The Minister of Home Affairs cites the National Population Register as showing 4,432,923 South Africans aged 16 and over without a Green ID book or Smart ID card.","as_of":"2025-11-05","date_precision":"day","system":"National Population Register","class":"population"}],"systems":[{"system":"National Population Register","country_label":"South Africa","class":"population","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"registry":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on civil registration offices."}}}
+}}

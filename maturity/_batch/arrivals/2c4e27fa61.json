@@ -1,0 +1,124 @@
+{
+ "slug": "2026-10-13-egy-shura-pdpl-compliance-deadline-oct-31",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "transition",
+       "fact": "Law No. 151 of 2020 entered into force in October 2020 and its Executive Regulations carry a one-year transitional period expiring 31 October 2026, per Shura Law Firm.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Personal Data Protection Law No. 151 of 2020",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "Decree No. 816 of 2025 of the Minister of Communications and Information Technology promulgated the Executive Regulations on 1 November 2025, per Shura Law Firm.",
+       "as_of": "2025-11-01",
+       "date_precision": "day",
+       "system": "Decree No. 816 of 2025",
+       "class": "regulation"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Personal Data Protection Centre exists and opened its electronic portal for licence, permit and accreditation applications in early October 2026, per Shura Law Firm.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Personal Data Protection Centre",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Centre opened its licence and permit application portal in early October 2026 and may exercise full inspection and enforcement powers from 31 October 2026, per Shura Law Firm.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Personal Data Protection Centre",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Law No. 151 of 2020",
+       "country_label": "Egypt",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Law No. 151 of 2020 entered into force in October 2020; its regulations' transitional period expires 31 October 2026, per Shura Law Firm.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Personal Data Protection Law No. 151 of 2020",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Personal Data Protection Centre is operating and opened its licence application portal in early October 2026, per Shura Law Firm.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Personal Data Protection Centre",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The Centre opened its electronic portal for licence, permit and accreditation applications in early October 2026, per Shura Law Firm.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Personal Data Protection Centre",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Shura Law Firm states that transferring personal data outside Egypt requires a licence or permit from the Centre and the data subject's consent, with the Centre assessing the destination's adequacy; full enforcement from 31 October 2026.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Personal Data Protection Law No. 151 of 2020 and Executive Regulations",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

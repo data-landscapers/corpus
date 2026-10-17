@@ -1,0 +1,11 @@
+{"slug": "2024-01-13-eth-addisfortune-lawmakers-scrutinise-data-protection-bill", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Mentions only stakeholder concern about AI oversight; no AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No sectoral AI use stated."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Data protection bill only; no digital financial services consumer rules stated."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "Addis Fortune reports that Ethiopia's first personal data protection proclamation, three years in the making, was put before Parliament's Standing Committee on Human Resource Development, Employment & Technology Affairs the week before 13 January 2024.", "as_of": "2024-01", "date_precision": "month", "system": "Personal data protection proclamation (draft)", "class": "general"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No international standards membership, adoption or rule stated."}}}
+}}

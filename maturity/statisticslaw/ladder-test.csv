@@ -22,9 +22,9 @@ GIN,4,in-force,rules,GIN-003;GIN-002;GIN-001
 GMB,3,in-force,,GMB-001;GMB-002
 GNB,4,in-force,rules,GNB-002;GNB-001
 GNQ,3,in-force,,GNQ-001
-KEN,3,in-force,,KEN-002
+KEN,3,in-force,,KEN-004;KEN-002
 LBR,3,in-force,,LBR-002;LBR-003
-LBY,3,in-force,,LBY-001
+LBY,3,in-force,,LBY-002;LBY-001
 LSO,3,in-force,,LSO-005;LSO-002
 MAR,3,in-force,,MAR-004
 MDG,3,in-force,,MDG-001;MDG-002
@@ -39,7 +39,7 @@ NGA,3,in-force,,NGA-002;NGA-004
 RWA,3,in-force,,RWA-001
 SDN,3,in-force,,SDN-002;SDN-001
 SEN,4,in-force,rules,SEN-002;SEN-003;SEN-004
-SLE,3,in-force,,SLE-001;SLE-002
+SLE,3,in-force,,SLE-004;SLE-001
 SOM,3,in-force,,SOM-001
 SSD,3,in-force,,SSD-002;SSD-001
 STP,3,in-force,,STP-001

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-gha-gna-bog-cross-border-payment-pilots-rwanda-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "Bank of Ghana's governor said it has a Licence Passporting Framework with the National Bank of Rwanda for fintech licences, offered as a model for more than 10 other countries to join.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Licence Passporting Framework",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Licence Passporting Framework",
+   "country_label": "Rwanda",
+   "class": "harmonisation",
+   "platform": "",
+   "owner": "Bank of Ghana and National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

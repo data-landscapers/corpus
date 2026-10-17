@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NGA-001,NGA,international,standing,member,"ISO's member page lists the Standards Organisation of Nigeria as Nigeria's ISO member body, participating in 109 technical committees.",2026,year,SON,adoption,2026-01-01-nga-iso-son-member,https://www.iso.org/member/1982.html

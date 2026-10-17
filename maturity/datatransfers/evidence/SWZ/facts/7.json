@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-swz-edpa-transfer-authorisation-form",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The EDPA requires authorisation before personal data leaves Eswatini, with recipient-country law, contracts and a DPIA supplied.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Eswatini Data Protection Authority",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "means",
+   "fact": "The EDPA has published an application form and procedure for authorisation to transfer personal data outside Eswatini.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Eswatini Data Protection Authority",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gin-mpten-realisations-2025",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The ministry (MPTEN) states that texts on personal data protection are in progress, a legal framework being developed.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Textes sur la protection des données personnelles",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

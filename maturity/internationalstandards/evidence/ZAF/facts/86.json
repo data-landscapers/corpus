@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-zaf-iso-sabs-committee-participation",
+ "facts": [
+  {
+   "fact": "ISO's membership page lists the South African Bureau of Standards as participating in ISO/IEC JTC 1 and its subcommittees on information technology, including SC 27 information security, SC 37 biometrics and SC 42 artificial intelligence.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SABS",
+   "class": "adoption",
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member"
+  },
+  {
+   "fact": "ISO's membership page lists the South African Bureau of Standards as participating in ISO/IEC JTC 1 and its subcommittees on information technology, including SC 27 information security, SC 37 biometrics and SC 42 artificial intelligence.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SABS",
+   "class": "adoption",
+   "sub_indicator": "international",
+   "aspect": "use",
+   "value": "writes"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SABS",
+   "country_label": "South African Bureau of Standards",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

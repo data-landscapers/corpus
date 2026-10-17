@@ -1,0 +1,11 @@
+{"slug":"2026-09-01-ben-cpj-letter-to-president","studies":{
+"ailaw":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Letter names no AI law or rule."}}},
+"dataprotectionlaw":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Letter names the Digital Code only for its Article 550 on harassment, not for data protection."}}},
+"digitalidlaw":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Letter states nothing on an identity law."}}},
+"ecommercelaw":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Letter states nothing on electronic transactions or e-commerce."}}},
+"opendiscussion":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"discussion","aspect":"penalty","value":"punished","fact":"CPJ states that journalists Comlan Hugues Sossoukpè and Ali Moumouni, held without trial for 10 months by 24 May 2026, remained imprisoned on 1 September 2026 on charges including harassment through electronic communications, which CPJ says were brought in retaliation for critical reporting.","as_of":"2026-09-01","date_precision":"day","system":"Digital Code Article 550","class":"discussion"},
+{"sub_indicator":"discussion","aspect":"penalty","value":"punished","fact":"CPJ states that journalist Angela Kpeidja was sentenced to 12 months in prison for asking questions on Facebook about the December 2025 coup attempt as it unfolded.","as_of":"2025-12","date_precision":"month","system":"","class":"discussion"}
+],"systems":[],"note":""}}},
+"refugees":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Letter states nothing on refugees or displaced people's registration or digital access."}}}
+}}

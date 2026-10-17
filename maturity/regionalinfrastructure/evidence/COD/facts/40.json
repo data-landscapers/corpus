@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "The DRC-Burundi fibre-optic interconnection project, a joint initiative between the two countries, had its memorandum of understanding adopted by Burundi's Council of Ministers on 8 May 2024, per ABP.",
+   "as_of": "2024-05-08",
+   "date_precision": "day",
+   "system": "DRC-Burundi fibre-optic interconnection project",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DRC-Burundi fibre-optic interconnection project",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "shared",
+   "platform": "fibre optic",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

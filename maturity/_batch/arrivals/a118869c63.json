@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-15-ampath-downplays-data-breach-claims",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's breach response is stated; no national cyber body is named."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "ITWeb reports Ampath says it notified the Information Regulator of the 2 October cyber incident, and that POPIA requires organisations to notify the regulator of breaches.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Information Regulator",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ITWeb states that under the Protection of Personal Information Act organisations must notify the regulator and affected data subjects of unauthorised access to personal information.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Protection of Personal Information Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

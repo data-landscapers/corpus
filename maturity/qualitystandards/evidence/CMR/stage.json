@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "certification": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national standards body, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-qualitystandards.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "body",
+      "certification": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source held names a national standard on information technology or data.",
+      "note": "Counted from the four questions by study-ladder-qualitystandards.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

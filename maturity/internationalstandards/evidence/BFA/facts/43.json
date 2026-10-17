@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-bfa-iso-member-abnorm",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO lists ABNORM as Burkina Faso's member body.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "ABNORM",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

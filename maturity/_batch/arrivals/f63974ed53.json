@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-13-zaf-itweb-icasa-regulatory-remit-digital-economy",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the regulator sees data sovereignty and cloud policy as considerations; no hosting policy stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  }
+ }
+}

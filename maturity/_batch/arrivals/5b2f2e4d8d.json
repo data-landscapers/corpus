@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-19-swz-times-budget-through-ifmis",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "Umsebe IFMIS",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "The minister says the next budget is expected to run through IFMIS; no system is stated as in use or down."
+    }
+   }
+  }
+ }
+}

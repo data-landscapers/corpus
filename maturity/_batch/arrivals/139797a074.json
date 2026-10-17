@@ -1,0 +1,176 @@
+{
+ "slug": "2026-06-29-zaf-pmg-nw2881-digital-health-hie-emr",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on core financial, tax or payroll systems."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a health-sector exchange is stated; no government-wide platform."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about health only."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The Minister of Health's reply says the EMR for primary health care is developed and owned by the state, in-house.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "governance",
+       "value": "plan:current",
+       "fact": "The reply says the EMR is part of the Department's Annual Performance Plan reported to Parliament.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "clinics",
+       "value": "pilot",
+       "fact": "The reply says PHC facilities of the Free State form part of a selected group of facilities where the EMR is beta tested.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "The reply says beta and user acceptance testing continues and a tender was advertised for training and change management for rollout of the EMR.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "country_label": "National EMR for PHC",
+       "class": "emr",
+       "platform": "",
+       "owner": "National Department of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National health information exchange",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No national health management information system is described."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No government-wide interoperability framework is stated; only health-sector standards."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only health-sector normative standards are stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The reply says the national EMR for PHC was developed in-house by the Department of Health, with no procurement adjudication.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "National Electronic Medical Record (EMR) system for PHC",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about health only."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about health only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-07-gmb-personal-data-protection-and-privacy-act-2025",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Gambia's Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025, assented 7 November 2025) names the Information Commission established under the Access to Information Act as the Commission, with Part 8 on its functions, powers and fines.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Information Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Commission",
+   "country_label": "The Gambia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

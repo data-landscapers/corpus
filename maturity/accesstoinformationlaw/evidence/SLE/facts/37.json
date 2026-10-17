@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-06-sle-statssl-proactive-publication-scheme",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Statistics Sierra Leone says the Right to Access Information Commission (RAIC) Act 2013 requires all public authorities to make information available to the public through a publication scheme submitted to the commission for approval by 1 March 2019.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "RAIC Act (RAIA) 2013",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAIC Act (RAIA) 2013",
+   "country_label": "RAIC Act 2013",
+   "class": "law",
+   "platform": "",
+   "owner": "Right to Access Information Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

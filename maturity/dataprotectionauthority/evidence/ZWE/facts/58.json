@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-27-zwe-africanlawmatters-strategy-without-statute-ai",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "African Law Matters says the Cyber and Data Protection Act, in force from March 2022, designates POTRAZ as the Data Protection Authority.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

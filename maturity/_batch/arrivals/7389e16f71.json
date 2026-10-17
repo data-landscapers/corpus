@@ -1,0 +1,25 @@
+{
+ "slug": "2025-07-21-civ-afriksoir-procureur-met-en-garde-reseaux",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Cote d'Ivoire's prosecutor says a nurse was sentenced on 18 July 2025 to 36 months in prison and a 5 million fine for an outrageous social-media comment about a state institution.",
+       "as_of": "2025-07-18",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-25-zmb-mots-cyber-bills-amendments",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The ministry says a Technical Committee of government and civil society representatives met on 26 February, 10 March and 11 March 2025 on civil society concerns about the Cyber Security Bill and Cyber Crimes Bill, after the President deferred both.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Technical Committee on the cyber bills",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "answered",
+   "fact": "The ministry's published statement says eight clauses were amended after the consultations and a Notice of Amendments issued to Parliament, and claims 98 percent of concerns were resolved.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Technical Committee on the cyber bills",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "The Technical Committee's members are not named and it gave no stated opinion as a standing body, so no standing fact."
+}

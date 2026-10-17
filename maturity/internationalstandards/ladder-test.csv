@@ -1,55 +1,55 @@
 iso3,stage,standing,use,stage_sources
 AGO,2,member,,AGO-001
-BDI,no evidence,,,
+BDI,2,member,,BDI-001
 BEN,2,member,,BEN-001
-BFA,no evidence,,,
+BFA,2,member,,BFA-001
 BWA,no evidence,,,
 CAF,no evidence,,,
-CIV,no evidence,,,
-CMR,no evidence,,,
-COD,no evidence,,,
-COG,no evidence,,,
+CIV,2,member,,CIV-001
+CMR,2,member,,CMR-001
+COD,2,member,,COD-001;COD-002
+COG,2,member,,COG-001
 COM,no evidence,,,
 CPV,no evidence,,,
-DJI,no evidence,,,
+DJI,2,member,,DJI-001;DJI-002
 DZA,3,adopted,,DZA-001
-EGY,no evidence,,,
-ERI,no evidence,,,
-ETH,no evidence,,,
-GAB,no evidence,,,
-GHA,no evidence,,,
+EGY,2,member,,EGY-001;EGY-002
+ERI,2,member,,ERI-001
+ETH,2,member,,ETH-001
+GAB,2,member,,GAB-001
+GHA,2,member,,GHA-001
 GIN,no evidence,,,
 GMB,3,adopted,,GMB-002;GMB-001
 GNB,no evidence,,,
 GNQ,no evidence,,,
-KEN,no evidence,,,
-LBR,no evidence,,,
-LBY,no evidence,,,
+KEN,2,member,,KEN-001
+LBR,2,member,,LBR-001
+LBY,2,member,,LBY-001
 LSO,no evidence,,,
-MAR,no evidence,,,
+MAR,2,member,,MAR-001
 MDG,2,member,,MDG-001
 MLI,2,member,,MLI-001
-MOZ,no evidence,,,
-MRT,no evidence,,,
+MOZ,2,member,,MOZ-001
+MRT,2,member,,MRT-001
 MUS,3,adopted,,MUS-001
-MWI,no evidence,,,
-NAM,no evidence,,,
-NER,no evidence,,,
-NGA,no evidence,,,
-RWA,no evidence,,,
+MWI,2,member,,MWI-001
+NAM,2,member,,NAM-001
+NER,2,member,,NER-001
+NGA,2,member,,NGA-001
+RWA,5,adopted,writes,RWA-002
 SDN,3,adopted,,SDN-001
 SEN,2,member,,SEN-001
-SLE,no evidence,,,
+SLE,2,member,,SLE-001
 SOM,2,member,,SOM-001
 SSD,no evidence,,,
 STP,2,member,,STP-001
 SWZ,3,adopted,,SWZ-001;SWZ-002
-SYC,no evidence,,,
-TCD,no evidence,,,
+SYC,2,member,,SYC-001
+TCD,2,member,,TCD-001
 TGO,2,member,,TGO-001
-TUN,no evidence,,,
-TZA,no evidence,,,
+TUN,2,member,,TUN-001
+TZA,2,member,,TZA-001;TZA-002
 UGA,4,adopted,required,UGA-001
-ZAF,no evidence,,,
+ZAF,5,adopted,writes,ZAF-002
 ZMB,no evidence,,,
 ZWE,3,adopted,,ZWE-001

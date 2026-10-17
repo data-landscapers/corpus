@@ -18,6 +18,7 @@ AGO,Raxio Angola (AG1),Raxio Angola (AG1),other,,Raxio Group,,2025-10-02 Raxio O
 AGO,"Paratus Angola DC1, DC2 and DC3 (Luanda)",Paratus Angola data centres,other,,"Paratus Group (Paratus Angola, previously ITA)",,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
 AGO,Cloud Nacional de Angola,Cloud Nacional de Angola (Nuvem Governamental Unificada),other,,MINTTICS through INFOSI,ministerial departments; the document says existing applications are to be migrated to it,2023-02-15-angola-minttics-cloud-nacional-ecossistema-digital
 AGO,"Africell Angola data center (Kings Tower, Luanda)",Africell data center,other,,Africell Angola,,2021-10-20 Africell opens high-tech data center in Angola
+AGO,Data Center e Cloud do Governo,Angola,other,,Government of Angola,,2026-09-11-ago-angop-imprensa-nacional-data-center
 BDI,data center du Setic (modernisation prevue),data center du Secretariat executif des TIC (Setic),other,,Setic,,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BDI,cloud souverain (prevu),cloud souverain,other,,,,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BDI,SETIC virtualisation and backup equipment (tendered),equipements et licences pour la virtualisation et backup du SETIC,other,,SETIC / PAFEN,,2026-04-08-pafen-aao-equipements-additionnels-setic-virtualisation-backup
@@ -60,7 +61,7 @@ CMR,ST Digital data centres,ST Digital,other,,ST Digital,,2026-06-11 Can Africa 
 CMR,"Datacenter National Public (planned, main and backup sites)",Datacenter National Public,other,,"Ministère des Mines, de l'Industrie et du Développement Technologique (MINMIDT)",national,2024-05-13-cmr-armp-ami-etude-datacenter-national
 CMR,CSIRT/SOC/PKI platform (planned),plateforme CSIRT/SOC/PKI,other,,MINMIDT,national,2024-05-13-cmr-armp-ami-etude-datacenter-national
 CMR,CENADI study 'Datacenter au Cameroun : Compétitivité et viabilité',étude Datacenter au Cameroun,other,,CENADI,national,2025-07-09-cmr-dgb-cenadi-etude-datacenters
-COD,Cloud souverain,Cloud souverain,,,Ministere de l'Economie numerique,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,Cloud souverain,Cloud souverain,other,,Ministere de l'Economie numerique,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
 COD,"National datacenter, Kinshasa",premier datacenter national,other,"Huawei-built; 54 servers, 1,278 TB",Government (Primature),,2023-11-08-cod-ciomag-premier-datacenter-national
 COD,Wiocc data centre,centre de données Wiocc,other,open-access model,Private (Wiocc),private market,2026-03-01-cod-ptn-tdr-hebergement-donnees-publiques
 COD,Raxio data centre,centre Raxio,other,"Tier III, about 400 racks",Private (Raxio),private market,2026-03-01-cod-ptn-tdr-hebergement-donnees-publiques
@@ -78,7 +79,7 @@ DJI,Wingu,Wingu,other,,Wingu (data centre operator; Djibouti Telecom a state joi
 DZA,Deuxième Centre national de données (Blida),Centre national de données,other,,Haut-Commissariat à la numérisation,national,2026-09-02-hcn-blida-deuxieme-centre-national-donnees-tier-iii-design
 DZA,Premier Centre national de données (El Mohammadia),Centre national de données,other,,Haut-Commissariat à la numérisation,national,2026-09-02-hcn-blida-deuxieme-centre-national-donnees-tier-iii-design
 DZA,National Data Center / National Digital Services Center,Centre national des services numériques,other,,Government of Algeria,all public administrations (ordered to connect),2026-07-15-one-month-deadline-data-center-integration--wearetech
-DZA,Dzair Digital Services,Dzair Digital Services,,,Government of Algeria,national,2026-07-15-one-month-deadline-data-center-integration--wearetech
+DZA,Dzair Digital Services,Dzair Digital Services,other,,Government of Algeria,national,2026-07-15-one-month-deadline-data-center-integration--wearetech
 DZA,"National Digital Services Center (Algiers and Blida, active-active)",Centre national des services numériques,other,Huawei,Government of Algeria / Haut-Commissariat à la numérisation,all public administrations,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
 DZA,"Data center, Constantine",Data Center de Constantine,other,,Algérie Télécom,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
 DZA,"AI data center, Oran",Data Center IA d'Oran,other,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
@@ -86,7 +87,7 @@ DZA,Centre national des services numériques,Centre national des services numér
 DZA,Centre national des services numériques (Alger and Blida),Centre national des services numériques,other,"Huawei servers, storage and network",State,national,2026-07-05-jeune-independant-centre-national-services-numeriques
 DZA,Data Center de Constantine,Data Center de Constantine,other,,Algérie Télécom,"enterprises, regional",2026-07-05-jeune-independant-centre-national-services-numeriques
 DZA,Data Center IA d'Oran,Data Center IA d'Oran,other,,,,2026-07-05-jeune-independant-centre-national-services-numeriques
-DZA,National cloud (objective),cloud national,,,,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,National cloud (objective),cloud national,other,,,,2026-07-05-jeune-independant-centre-national-services-numeriques
 DZA,National Digital Services Centre (Mohammadia),المركز الوطني للخدمات الرقمية,other,,High Commission for Digitalisation,,2026-07-05-national-centre-digital-services-inauguration-echorouk
 DZA,State sovereign cloud at the National Digital Services Centre,السحابة السيادية للدولة,other,,High Commission for Digitalisation,National People's Assembly,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
 DZA,Mohammadia Data Center / Cloud national,Cloud national,other,Huawei,High Commission for Digitalisation,,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
@@ -107,7 +108,7 @@ EGY,National data centre strategy,الاستراتيجية الوطنية لمر
 EGY,National data centre strategy,الاستراتيجية الوطنية لمراكز البيانات,policy,,Ministry of Communications and Information Technology,national,2026-07-21-ahram-ict-minister-450-digital-services-2030
 EGY,National data centre strategy,الاستراتيجية الوطنية لمراكز البيانات,policy,,Ministry of Communications and Information Technology,national,2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram
 ERI,Eritel Nextcloud (Private Cloud Services),Eritel Private Cloud Services,other,"Nextcloud, offered as Platform-as-a-Service",Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
-ETH,own cloud infrastructure (built under Digital Ethiopia 2025),Ethiopia's own cloud infrastructure,,,INSA,,2025-12-21 PM Abiy launches Digital Ethiopia 2030 strategy
+ETH,own cloud infrastructure (built under Digital Ethiopia 2025),Ethiopia's own cloud infrastructure,other,,INSA,,2025-12-21 PM Abiy launches Digital Ethiopia 2030 strategy
 ETH,Gotera Cloud (G-Cloud),Gotera Cloud (G-Cloud),other,,Information Network Security Administration (INSA),"e-government, local institutions, digital finance and other sectors",2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud
 ETH,National Cloud,National Cloud,other,planned,Government of Ethiopia,"sectors incl. agriculture, trade, investment, media; operational in an estimated 18-24 months (May 2026)",2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,Telecloud,Telecloud,other,cloud-computing service launched October 2022,Ethio Telecom,public and private institutions,2026-05-19-eth-cioafrica-national-cloud-18-24-months
@@ -119,7 +120,7 @@ GAB,Data center de Nkok (ST Digital),"premier data center souverain, certifié T
 GAB,Data Center national,Data Center national,other,,ANINF with Cybastion group,Public and private data (stated aim),2025-06-29-gabon-lunion-national-datacenter
 GAB,Data Center national de l'ANINF,Data Center national,other,,"ANINF (Agence Nationale des Infrastructures Numériques et des Fréquences), built under a convention with the Cybastion group","public data processing and protection, per the Presidency",2025-06-29-gab-presidence-data-center-national-aninf
 GHA,Enhanced regulatory framework for cloud and data centres,Regulatory framework for cloud and data centres,policy,,"Ministry of Communications, Digital Technology and Innovations; NITA; Smart Africa",,2024-06-26-government-working-to-host-all-data-centres-locally
-GHA,Bank of Ghana localisation of critical financial workloads,Bank of Ghana push toward localization of critical financial workloads,,,Bank of Ghana,,2026-05-05-ai-future-infrastructure-not-ambition-myjoy
+GHA,Bank of Ghana localisation of critical financial workloads,Bank of Ghana push toward localization of critical financial workloads,other,,Bank of Ghana,,2026-05-05-ai-future-infrastructure-not-ambition-myjoy
 GHA,"Onix data centre, Accra",Onix Tier IV data centre,other,,"Onix (majority-owned by AIIM, Old Mutual)",,2026-06-11 Can Africa supply it's own digital infrastructure
 GIN,national data centre (first Tier III),Guinea national data centre,other,,,,2025-09-05 Guinea Launches National Domain .gn and Unveils First Tier III Data Center
 GIN,Data Center national Tier III,Data Center national Tier lll,other,,"COREX, for the State; launched by the Presidency's directeur de cabinet","state data, per the minister; centre also open to other countries' data",2025-09-04-gin-guineenews-data-center-national-tier3
@@ -128,7 +129,7 @@ GMB,Government Cloud Strategy 2023-2027,Government Cloud Strategy,policy,,Minist
 GNB,National GovCloud,National GovCloud for Guinea-Bissau,other,,Government of Guinea-Bissau,,2025-09-18-cybil-feasibility-study-guinea-bissau-cybersecurity
 GNB,Guinea-Bissau Data Centre,National Data Centre,other,,,,2024-06-20-gnb-undp-national-data-centre-strategy-consultant
 KEN,Konza data centre,Konza data centre,other,,State-owned,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
-KEN,e-Citizen,e-Citizen,,,,State organs,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,e-Citizen,e-Citizen,other,,,State organs,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
 LBY,National Cloud Computing Policy,National Cloud Computing Policy (proposed),policy,,"General Information Authority (Libya), with ESCWA as consulting partner",,2026-01-01-gia-national-cloud-computing-policy-escwa
 LSO,Data Centre Blueprint,Data Centre Blueprint,other,,MICSTI,,2026-08-18-lesotho-national-ai-strategy-data-centre
 LSO,Data centre implementation roadmap,data centre implementation roadmap,other,,Government of Lesotho with UN ODET,,2026-08-14-lesotho-odet-ai-data-strategy-workshop
@@ -162,7 +163,7 @@ MRT,National cloud platform,national cloud,other,,Ministry of Digital Transforma
 MRT,"Nouakchott National Data Center (Tier III, WARDIP)",National Data Center,other,,,government,2026-06-30-national-cloud-launch-ecofin
 MRT,National Mauritanian Cloud,السحابة الوطنية الموريتانية,other,,Ministry of Digital Transformation,national; digital public services,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
 MRT,Nouakchott data centre,مركز البيانات في نواكشوط,other,,,,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
-MRT,Maadeni (النظام المعلوماتي المندمج معدني),Maadeni,,,Agence nationale Maaden Mauritanie,national agency; interconnected with the national population register and GIMTEL CONNECT,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
+MRT,Maadeni (النظام المعلوماتي المندمج معدني),Maadeni,other,,Agence nationale Maaden Mauritanie,national agency; interconnected with the national population register and GIMTEL CONNECT,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,Nouakchott national data centre,Tier III national data centre in Nouakchott,other,,Government of Mauritania,,2026-02-10-digital-economy-country-commercial-guide-tradegov
 MRT,Nouakchott data centre,Nouakchott data centre,other,Tier III (Uptime Institute certified),Operated by International Mauritania Telecom (IMT/GIE): the State via Mauripost and the three telecom operators; built with a EUR 15 million EIB loan,,"2025-08-20 Construction of a Datacenter in Nouakchott, Mauritania (EEAS)"
 MRT,Nouakchott national data centre,Centre de données de Nouakchott,other,Tier III data centre (Uptime Institute certified),Government of Mauritania; to be managed by International Mauritania Telecom (IMT),national,2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)
@@ -170,7 +171,7 @@ MRT,Centre de Données de Nouakchott,Centre de Données de Nouakchott,other,"Tie
 MUS,Government Online Centre (GOC),Government Online Centre,other,scale-out storage,"Ministry of Information Technology, Communication and Innovation",central government,2026-03-27-goc-scale-out-storage-solution-award
 MUS,Government Online Centre (GOC),Government Online Centre,other,"clustered hypervisor, SAN, backup; main site and DR site","Ministry of Information Technology, Communication and Innovation",central government,2026-01-01-goc-san-executive-summary-bid-evaluation
 MUS,Government Online Centre (GOC),Government Online Centre,other,scale-out storage,"Ministry of Information Technology, Communication and Innovation",central government,2025-10-06-scale-out-storage-solution-goc-tender
-MUS,Sovereign Cloud for the Government of Mauritius,Sovereign Cloud,,,"Ministry of Information Technology, Communication and Innovation",,2025-09-19-sovereign-cloud-rfi-clarification-no-2
+MUS,Sovereign Cloud for the Government of Mauritius,Sovereign Cloud,other,,"Ministry of Information Technology, Communication and Innovation",,2025-09-19-sovereign-cloud-rfi-clarification-no-2
 MUS,"Government Online Centre (GOC), Ebene",Government Online Centre,other,,Government of Mauritius,government departments,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Mauritius Telecom Tier IV data centre, Rose-Belle",data centre de Mauritius Telecom a Rose-Belle,other,,Mauritius Telecom,"government projects (e-Health, new government portal, Mobile ID, penalty points system, government AI equipment)",2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,Government Online Centre data centre,GOC,other,,"Government Online Centre, under MITCI","Ministries, Departments and parastatal bodies",2025-05-01-mus-mitci-annual-report-2023-2024
@@ -203,10 +204,10 @@ NGA,Galaxy Backbone Limited government cloud aggregation,Galaxy Backbone Limited
 NGA,National Digital Marketplace,National Digital Marketplace,other,,Federal Government of Nigeria,federal,2026-08-17-nigeria-national-digital-cloud-policy-fmcide-announcement
 NGA,National Digital Marketplace,National Digital Marketplace,other,,"NITDA, Bureau of Public Procurement and Galaxy Backbone Limited","federal ministries, departments and agencies",2026-10-05-nga-a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-busin
 NGA,Galaxy Backbone shared government platforms,Galaxy Backbone Limited (GBB),other,,Galaxy Backbone Limited,"federal ministries, departments and agencies",2026-10-05-nga-a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-busin
-NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,,,NITDA,,2026-09-17-nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy
-NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,,,NITDA,,2026-08-25-nigeria-national-cloud-taskforce-itweb
-NGA,National Sovereign Cloud initiative,National Sovereign Cloud initiative,,,NITDA,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
-NGA,Galaxy Backbone cloud,Galaxy Backbone,,,Galaxy Backbone,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-09-17-nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-08-25-nigeria-national-cloud-taskforce-itweb
+NGA,National Sovereign Cloud initiative,National Sovereign Cloud initiative,other,,NITDA,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
+NGA,Galaxy Backbone cloud,Galaxy Backbone,other,,Galaxy Backbone,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
 NGA,National Sovereign Cloud Initiative,NSCI,other,,NITDA,national,2026-09-12-newswatch-nigeria-national-sovereign-cloud-initiative
 NGA,Cloud First Policy,Cloud First Policy,policy,,NITDA,"ministries, departments and agencies",2026-09-12-newswatch-nigeria-national-sovereign-cloud-initiative
 NGA,National Cloud Computing Policy,National Cloud Computing Policy (Cloud First),policy,,NITDA,government institutions,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
@@ -237,7 +238,7 @@ SEN,Diamniadio National Datacenter (DND),Diamniadio National Datacenter,other,Hu
 SEN,Data center Orana,Orana,other,,Sénégal Numérique SA (SENUM SA),State structures; 176 structures have hosted data at SENUM across its data centres,2025-01-01-senum-transformation-digitale-administration
 SEN,Data center Technopole,Technopole,other,,Sénégal Numérique SA (SENUM SA),State structures,2025-01-01-senum-transformation-digitale-administration
 SEN,Data center Diamniadio,Diamniadio,other,,Sénégal Numérique SA (SENUM SA),State structures,2025-01-01-senum-transformation-digitale-administration
-SEN,Cloud souverain,Cloud souverain,,,,,2025-01-01-senum-transformation-digitale-administration
+SEN,Cloud souverain,Cloud souverain,other,,,,2025-01-01-senum-transformation-digitale-administration
 SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,other,Huawei equipment and technical support,State Informatics Agency (ADIE),government agencies and state-owned firms such as Senelec; also enterprises and other public bodies,2021-06-23-dcd-senegal-diamniadio-national-datacenter-state-data-migration
 SEN,Datacenter de Diamniadio,Datacenter de Diamniadio,other,,Agence de l'informatique de l'Etat (ADIE),"administration data, with space for the private sector",2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards
 SEN,Diamniadio National Data Center,Diamniadio National Data Center (Smart Sénégal),other,Tier 3 data center built by Huawei,Government of Senegal / ADIE,,2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart
@@ -259,14 +260,14 @@ SWZ,National Data Centre,National Data Centre,other,,"Royal Science and Technolo
 SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
 SWZ,Government in Your Hand,Government in Your Hand,other,,RSTP (operator),central government,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
 SWZ,Mchumanisi,Mchumanisi (proposed National Data Exchange Platform),other,,"Government, under the proposed National Data Governance Policy",government institutions,2026-07-22-mchumanisi-data-exchange-platform
-SWZ,Royal Science and Technology Park (RSTP) hosting,RSTP,,,Royal Science and Technology Park,ministries (national),2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
+SWZ,Royal Science and Technology Park (RSTP) hosting,RSTP,other,,Royal Science and Technology Park,ministries (national),2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
 SWZ,National Data Centre,National Data Centre (NDC),other,"Tier-III colocation facility offering cloud VM (VDS, VPC), cloud ERP/CRM and managed services",Royal Science and Technology Park (RSTP),,2023-07-01-rstp-national-data-centre-brochure
 SWZ,National Data Centre,National Data Centre (NDC),other,"colocation, IaaS, PaaS and SaaS services; four 500 KVA diesel generators",Royal Science and Technology Park (RSTP),,2021-01-01 The National Data Centre - Royal Science and Technology Park
 SWZ,"Data Recovery Site (DRS), Siteki",Data Recovery Site,other,,Government of Eswatini (ICT ministry); financed by Exim Bank of India loan,,2026-10-05-swz-times-e182m-data-centre-loan-not-cancelled
 SWZ,"Data Recovery Site, Lubombo Region",Data Recovery Site,other,,Government of Eswatini; financed by Exim Bank of India loan,,2026-09-22-swz-times-data-recovery-site-loan-cancel
 SWZ,Integrated Financial Management Information System,Integrated Financial Management Information System,other,,Ministry of Finance,government ministries,2025-12-05-fintech-to-reduce-cash-reliance
 SWZ,Data centre disaster recovery facility (ESCCOM consultancy tender),data centre disaster recovery,other,,Eswatini Communications Commission (ESCCOM),,2025-10-21-esppra-announces-nine-tenders
-SWZ,Government in Your Hand,Government in Your Hand,,,Ministry of ICT / Digital Eswatini Project,,2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)
+SWZ,Government in Your Hand,Government in Your Hand,other,,Ministry of ICT / Digital Eswatini Project,,2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)
 SWZ,National Data Centre disaster recovery site,Disaster Recovery Site for the national data centre (RSTP Phase 2),other,,Government of Eswatini / Royal Science and Technology Park,government IT systems,2021-01-01-indiaexim-swz-drs-data-centre-2021-construction-of-disaster-recovery-site-for
 SYC,Tier IV certified data centre (Cable & Wireless Seychelles),country's first Tier IV certified data centre,other,,Cable & Wireless Seychelles,"government services, financial institutions, local businesses",2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre
 SYC,Data Center 1 - Bon Espoir,Data Center 1 - Bon Espoir,other,,Cable & Wireless (Seychelles) Limited,,2025-09-04-uptime-institute-bon-espoir-certification
@@ -296,14 +297,14 @@ TUN,G-cloud label,Fournisseur de services informatiques en nuage gouvernemental 
 TUN,N-cloud label,Fournisseur de services informatiques en nuage national (N-cloud),policy,,Agence Nationale de la Cybersecurite (ANCS),third tier: used by government structures for businesses or citizens,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
 TZA,"Cloud Computing Guidelines for Financial Service Providers, 2025","Cloud Computing Guidelines for Financial Service Providers, 2025",other,,Bank of Tanzania,financial service providers licensed by the Bank,2025-08-01-bot-cloud-computing-guidelines-financial-service-providers
 TZA,Wingu Cloud Exchange (WCX),Wingu Cloud Exchange,other,"Wingu Compute, Kubernetes, Wingu Security",Wingu Africa (commercial operator),,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
-UGA,National Data Centre,National Data Centre,,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
+UGA,National Data Centre,National Data Centre,other,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
 UGA,UGHub,UGHub data integration platform,other,,NITA-U,"Ministries, Departments and Agencies (37 percent connected)",2026-06-22-nita-u-five-year-digital-strategy
-UGA,National Data Centre,National Data Centre,,,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
+UGA,National Data Centre,National Data Centre,other,,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,UGHub,UGHub data integration platform,other,,NITA-U,"Ministries, Departments and Agencies (37 percent connected)",2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,ABQ Cloud,ABQ Cloud,other,"hosted at Raxio Data Centre, Namanve","ABQ Cloud, with Roke Cloud and Raxio; launched with STI-OP","startups, enterprises, government institutions, innovators",2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem
 UGA,Government Cloud (National Data Center),Government Cloud / U-Cloud,other,,NITA-U,"ministries, departments, agencies and local governments",2018-10-01-uga-nita-national-cloud-computing-guidelines
 UGA,National Data Centre,National Data Centre,other,,NITA-U,government entities (95 entities served in FY2022/23),2023-01-01-uga-nita-statistical-abstract-2023
-ZAF,Unified cloud-enabled government data centres,"unified, cloud-enabled data centers",,,SITA (sources infrastructure and cloud services for government),national and provincial government,2024-05-31-national-policy-on-data-and-cloud
+ZAF,Unified cloud-enabled government data centres,"unified, cloud-enabled data centers",other,,SITA (sources infrastructure and cloud services for government),national and provincial government,2024-05-31-national-policy-on-data-and-cloud
 ZAF,National Data and Cloud Policy,National Data and Cloud Policy,policy,,Government of South Africa,,2025-03-06-ramaphosa-microsoft-investment-ai-skilling-remarks
 ZAF,Data and Cloud Strategy,Data and Cloud Strategy,policy,,DCDT,,2024-10-11 South Africa's Significant Improvement in the UN e-Government Index 2024
 ZAF,National e-Government Portal,National e-Government Portal (eservices.gov.za),other,,"SITA, with DCDT",national,2024-10-11 South Africa's Significant Improvement in the UN e-Government Index 2024

@@ -3,7 +3,6 @@ AGO,Agência de Protecção de Dados,APD,authority,,Angola,national,2026-08-19-s
 AGO,Agência de Protecção de Dados,APD,authority,,Angola,national,2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center
 AGO,Agência de Protecção de Dados,APD,authority,,Angola,national,2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo
 AGO,Lei de Protecção de Dados Pessoais (Lei n.º 22/11),Lei de Protecção de Dados Pessoais,general,,Assembleia Nacional,,2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados
-AGO,Base de Dados de Cidadãos Maiores (BDCM),Base de Dados de Cidadãos Maiores,,,,,2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados
 AGO,Lei n.º 22/11 (LPDP),Lei de Protecção de Dados Pessoais,general,,,,2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)
 AGO,Lei n.º 23/11 (LCE),Lei das Comunicações Electrónicas e dos Serviços da Sociedade da Informação,adjacent,,,,2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)
 AGO,Agência Angolana de Protecção de Dados (APD),Agência de Protecção de Dados,authority,,,,2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)
@@ -119,11 +118,12 @@ DZA,ANPDP,Autorité nationale de la protection des données,authority,,,,2025-12
 EGY,Personal Data Protection Law No. 151 of 2020,Personal Data Protection Law (PDPL),general,,,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),PDPL Executive Regulations,regulation,,Minister of Telecommunications and Information Technology,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-10-07-egypt-personal-data-protection-law-update
-EGY,PDPC electronic portal,PDPC portal,,Digital Egypt authentication tied to national ID,Personal Data Protection Center,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Centre,authority,,,,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),Executive Regulations No. 816/2025,regulation,,Minister of Telecommunications,,2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)
 EGY,Personal Data Protection Center (PDPC),مركز حماية البيانات الشخصية,authority,,,,2025-11-16-egypt-data-sovereignty-pdpc-cairo-ict-ahram
+EGY,Personal Data Protection Center,Egypt,authority,licensing portals,state,,2026-01-01-egy-legal500-cross-border-transfers-egypt-pdpl
+EGY,Personal Data Protection Law No. 151 of 2020,Egypt,general,,,,2026-10-13-egy-shura-pdpl-compliance-deadline-oct-31
 ETH,Personal Data Protection Proclamation,Personal Data Protection Proclamation,general,,Federal Democratic Republic of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,Ethiopian Communications Authority,Ethiopian Communications Authority (ECA),authority,,Federal Government of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,ECA data controller and processor registration portal,digital registration portal,authority,,Ethiopian Communications Authority,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
@@ -267,7 +267,6 @@ MRT,Délibération n° 2025/004,Délibération 004/2025 (transfers abroad),regul
 MRT,Délibération n° 2025/005,Délibération 005/2025 (cloud abroad),regulation,,APD,,2026-04-29-mauritanie-apd-reunion-mensuelle-transferts-etranger-cloud-deliberations-2025-004-005
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,Loi n° 2017-020 relative à la protection des données à caractère personnel,Loi 2017-020 of 22 July 2017,general,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
-MRT,Maadeni,معدني (Maadeni),,,Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-02-10-digital-economy-country-commercial-guide-tradegov
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2025-11-19-apd-ijtimaa-shahri-rabt-bayni-wakala-sijil-sukkan-sijil-suhufiyin
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2025-11-19-mauritanie-apd-reunion-mensuelle-referentiel-controle-agents-assermentes
@@ -407,7 +406,6 @@ SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communica
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,general,,Parliament; supervised by ESCCOM as EDPA,,2026-08-16-eswatiniobserver-data-protection-act-online-shaming
 SWZ,"Computer Crime and Cybercrime Act, 2022",Computer Crime and Cybercrime Act,adjacent,,,,2026-08-16-eswatiniobserver-data-protection-act-online-shaming
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,general,,Parliament; supervised by ESCCOM as EDPA,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
-SWZ,Online Media Publishing Guidelines 2026,Online Media Publishing Guidelines 2026,,,Ministry of ICT,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-08-04-eswatini-online-media-publishing-guidelines-2026
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,general,,Parliament; supervised by ESCCOM as EDPA,,2026-06-24-home-affairs-investigated-for-sensitive-data-breach
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-06-24-home-affairs-investigated-for-sensitive-data-breach
@@ -476,7 +474,6 @@ ZAF,"Promotion of Access to Information Act, 2000 (PAIA)",PAIA,adjacent,,Informa
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2026-06-16-paia-enforcement-mining-house-sibanye
 ZAF,"Protection of Personal Information Act, 2013 (POPIA)",POPIA,general,,Information Regulator,,2026-06-14-inforeg-first-enforcement-notice-2026
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2026-06-14-inforeg-first-enforcement-notice-2026
-ZAF,Information Regulator eServices Portal,eServices Portal,,,Information Regulator,responsible parties registering information officers,2026-06-14-inforeg-first-enforcement-notice-2026
 ZAF,"Protection of Personal Information Act, 2013 (POPIA)",POPIA,general,,Information Regulator,,2026-03-06-popia-regulations-processing-health-information-2026
 ZAF,"Regulations relating to the Processing of Data Subjects' Health Information by Certain Responsible Parties, 2026",POPIA health information regulations,regulation,,Information Regulator,,2026-03-06-popia-regulations-processing-health-information-2026
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2026-03-06-popia-regulations-processing-health-information-2026
@@ -486,7 +483,6 @@ ZAF,Information Regulator,Information Regulator,authority,,Information Regulator
 ZAF,eServices Portal,eServices Portal,authority,online portal,Information Regulator (South Africa),national,2025-04-15-mandatory-eportal-breach-reporting
 ZAF,Protection of Personal Information Act 4 of 2013 (POPIA),POPIA,general,,Information Regulator,,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
-ZAF,Information Regulator e-Services Portal,e-Services Portal,,,Information Regulator,public and private bodies registering information officers and submitting section 22 security compromise reports,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
 ZAF,Protection of Personal Information Act 4 of 2013 (POPIA),POPIA,general,,Information Regulator (enforcer),,2024-02-21-zaf-enforcement-notice-ft-rams-consulting
 ZAF,Information Regulator,Information Regulator,authority,,Information Regulator,,2024-02-21-zaf-enforcement-notice-ft-rams-consulting
 ZMB,Data Protection Commission of Zambia,Data Protection Commission (DPC),authority,,,,2026-08-10-zambia-dzap-data-protection-compliance-system

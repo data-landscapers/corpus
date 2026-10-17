@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-15-zwe-herald-potraz-critical-infrastructure-cybersecurity-framework",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "POTRAZ stressed that data controllers processing personal information must be licensed under Zimbabwe's Cyber and Data Protection Act.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ is acting on the Cyber and Data Protection Act's licensing requirements for data controllers.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

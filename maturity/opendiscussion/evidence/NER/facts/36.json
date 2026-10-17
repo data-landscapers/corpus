@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-ner-hrw-junta-tightens-grip-free-expression",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Human Rights Watch says lawyer Abrourahamane Lirwana was charged and detained from 21 September 2026 over comments about the army, apparently a 12 September Facebook post, and prosecutors sought five years on 6 October.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Journalist Moussa Kaka's detention is not recorded: the document says authorities have not named his offence."
+}

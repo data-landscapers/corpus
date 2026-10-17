@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-14-itweb-free-cyber-crime-victim-helpline-south-africa-pilot",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "A private helpline pilot; no national body stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Service says it follows POPIA; no statement of the law's standing or application."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Helpline refers victims to SAPS; no station records stated."
+    }
+   }
+  }
+ }
+}

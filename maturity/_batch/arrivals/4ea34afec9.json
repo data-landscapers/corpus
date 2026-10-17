@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-15-south-africa-ai-policy-hallucinations",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Minister Malatsi says an independent AI review panel is preparing a replacement for the withdrawn draft national AI policy, which Cabinet is to finalise before end-March 2027.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "National AI Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Public consultation on the replacement policy is only expected from April 2027; none held in this report."
+    }
+   }
+  }
+ }
+}

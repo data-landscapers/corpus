@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-16-ssd-radiotamazuj-qa-census-before-elections-ting",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The NBS chair told Radio Tamazuj that the statistics bill was passed in July 2024; assent and promulgation are not stated.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "South Sudan statistics bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

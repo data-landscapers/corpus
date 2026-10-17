@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-06-tcd-thomasd-transfert-international-donnees",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Cabinet Thomas Dingamgoto analysis applies Loi n°007/PR/2015 to personal data, including transfers abroad under articles 29 to 32.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Loi n°007/PR/2015",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

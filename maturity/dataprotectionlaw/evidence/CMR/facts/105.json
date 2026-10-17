@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The document says Cameroon has no data protection law yet and that administrations are preparing a draft bill (avant-projet de loi), with workshop recommendations addressed to them.",
+   "as_of": "2024-08-14",
+   "date_precision": "day",
+   "system": "avant-projet de loi sur la protection des données",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

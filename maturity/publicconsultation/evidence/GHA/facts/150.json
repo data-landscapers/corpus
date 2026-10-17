@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-23-gha-nita-data-harmonisation-bill-consultation",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "NITA invited ministries, assemblies, private sector, academia, civil society, development partners and the public to comment on the draft Data Harmonisation Bill 2025 from 19 to 27 November 2025.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "NITA Data Harmonisation Bill 2025 consultation",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

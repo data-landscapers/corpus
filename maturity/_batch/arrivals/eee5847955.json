@@ -1,0 +1,36 @@
+{"slug": "2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "An Emerging Technologies Bill is only said to be in development; no published draft or rule on AI harms stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on government bodies using AI."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The op-ed says Ghana's National AI Strategy 2023-2033 was approved by Cabinet in February 2026.", "as_of": "2026-02", "date_precision": "month", "system": "National AI Strategy 2023-2033", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "funded", "fact": "The op-ed says President Mahama announced in April 2026 $20 million to fund the rollout of the National AI Strategy.", "as_of": "2026-04", "date_precision": "month", "system": "National AI Strategy 2023-2033", "class": "strategy"}
+], "systems": [], "note": "Responsible AI Office is only proposed, so no body fact."}}},
+"aisystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The op-ed says President Mahama announced in April 2026 a $250 million investment to build an AI Computing Centre.", "as_of": "2026-04", "date_precision": "month", "system": "AI Computing Centre", "class": "localai"}
+], "systems": [], "note": ""}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The op-ed says the Cyber Security Authority, led by Dr Albert Antwi-Boasiako, coordinates national cyber defence under the Cybersecurity Act of 2020.", "as_of": "2026-10-16", "date_precision": "day", "system": "Cyber Security Authority", "class": "response"}
+], "systems": [{"system": "Cyber Security Authority", "country_label": "Cyber Security Authority (CSA)", "class": "response", "platform": "", "owner": "government", "tiers": ""}], "note": "No incident, designation or figures stated."}}},
+"cybersecuritylaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The op-ed says the Cybersecurity Act of 2020 provides a framework for protecting critical information infrastructure and prosecuting cybercrimes.", "as_of": "2020", "date_precision": "year", "system": "Cybersecurity Act 2020", "class": "law"}
+], "systems": [], "note": "No use of the law stated."}}},
+"datacentrepower": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Power risks discussed generally; no secured supply, reservation, PUE or water figure for a named data centre in service."}}},
+"datacentres": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The op-ed says Ghana hosts around five major data centre facilities near Accra, and that PAIX Data Centres has upgraded its Accra facility to 1.2 megawatts.", "as_of": "2026-10-16", "date_precision": "day", "system": "PAIX Accra", "class": "datacentre"}
+], "systems": [{"system": "PAIX Accra", "country_label": "PAIX Data Centres", "class": "datacentre", "platform": "", "owner": "PAIX", "tiers": ""}], "note": "No tier or cloud region stated."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The op-ed says the Data Protection Act (Act 843), enacted in 2012, is part of Ghana's existing legal foundation.", "as_of": "2012", "date_precision": "year", "system": "Data Protection Act (Act 843)", "class": "general"}
+], "systems": [], "note": "No authority, regulation or application stated."}}},
+"digitalsovereignty": {"countries": {"GHA": {"facts": [], "systems": [], "note": "General sovereignty discussion only; no rule or hosting of state data stated."}}},
+"ecommercelaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The op-ed names the Electronic Transactions Act as part of Ghana's existing legal foundation.", "as_of": "2026-10-16", "date_precision": "day", "system": "Electronic Transactions Act", "class": "law"}
+], "systems": [], "note": "No rules or application stated."}}},
+"exchangepoints": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The op-ed says the Ghana Internet Exchange (GIX) in Accra enables local traffic routing.", "as_of": "2026-10-16", "date_precision": "day", "system": "Ghana Internet Exchange (GIX)", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Says only that over 15 carriers operate through landing hubs on subsea routes; no cable stated as landed and in service."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No nationally owned data centre stated."}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}},
+"techhubs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Hubs mentioned only as possible partners; no hub stated."}}}
+}}

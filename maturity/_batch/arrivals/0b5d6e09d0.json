@@ -1,0 +1,5 @@
+{"slug": "2025-11-10-stp-ine-itu-umc-workshop-presentation", "studies": {
+"admindata": {"countries": {"STP": {"facts": [], "systems": [], "note": "INE receives regulator data from AGER on request and cites difficulty accessing administrative data; no statistics from records, agreement or pilot stated."}}},
+"censuses": {"countries": {"STP": {"facts": [], "systems": [{"system": "MICS6", "country_label": "MICS6 2019", "class": "other", "platform": "", "owner": "INE", "tiers": ""}], "note": "Names RGPH, MICS and IOF as sources but gives no census date or preparation, and the only survey figures are MICS6 2019."}}},
+"mobilepenetration": {"countries": {"STP": {"facts": [], "systems": [{"system": "Households with a mobile phone", "country_label": "87.1% of households, MICS6 2019", "class": "other", "platform": "", "owner": "INE", "tiers": ""}], "note": "Only a household figure for 2019; no share of people owning a phone."}}}
+}}

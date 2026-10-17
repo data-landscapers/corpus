@@ -1,16 +1,17 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "used",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002;NER-001",
-   "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "used",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-004;NER-002;NER-003",
+      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
+      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

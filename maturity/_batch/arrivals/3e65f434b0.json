@@ -1,0 +1,11 @@
+{"slug":"2025-04-10-gmb-mohrbd-id4africa-crvs-overview","studies":{
+"authentication":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Slides state nothing on authentication."}}},
+"birthidlink":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No link between the civil register and the ID system is stated."}}},
+"civilregister":{"countries":{"GMB":{"facts":[{"sub_indicator":"civil","aspect":"births","value":"inservice","fact":"The Registrar General's slides report 1,238,662 births in the eCRVS digital cumulative registration from August 2022 to March 2025, shown for every local government area, equal to 53% of a 2.4m population.","as_of":"2025-03","date_precision":"month","system":"eCRVS","class":"civil"}],"systems":[{"system":"eCRVS","country_label":"Gambia","class":"civil","platform":"","owner":"Ministry of Health, Registry of Births and Deaths","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Birth registration shares only; no count of people holding a national ID."}}},
+"idfrombirth":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No identity number given at birth is stated."}}},
+"idmaintenance":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on the national ID system."}}},
+"registry":{"countries":{"GMB":{"facts":[{"sub_indicator":"civil","aspect":"events","value":"B","fact":"The Registrar General's slides report 1,238,662 births in the eCRVS digital cumulative registration from August 2022 to March 2025; deaths in the digital system are not stated.","as_of":"2025-03","date_precision":"month","system":"eCRVS","class":"civil"}],"systems":[{"system":"eCRVS","country_label":"Gambia","class":"civil","platform":"","owner":"Ministry of Health, Registry of Births and Deaths","tiers":""}],"note":""}}}
+}}

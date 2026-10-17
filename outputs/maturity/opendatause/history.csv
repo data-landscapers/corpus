@@ -1,0 +1,6 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BFA,data.open--use-of-open-data-use-of-open-data,fact,unplaced,4,BFA-007,Arrivals added BFA-005; BFA-006; BFA-007; stage unplaced -> 4.
+2026-10-17,GMB,data.open--use-of-open-data-use-of-open-data,fact,no evidence,2,GMB-001;GMB-002,Arrivals added GMB-001; GMB-002; stage no evidence -> 2.
+2026-10-17,LSO,data.open--use-of-open-data-use-of-open-data,fact,no evidence,2,LSO-001,Arrivals added LSO-001; stage no evidence -> 2.
+2026-10-17,NER,data.open--use-of-open-data-use-of-open-data,fact,no evidence,3,NER-002,Arrivals added NER-002; stage no evidence -> 3.
+2026-10-17,SLE,data.open--use-of-open-data-use-of-open-data,fact,unplaced,2,SLE-006,Arrivals added SLE-006; stage unplaced -> 2.

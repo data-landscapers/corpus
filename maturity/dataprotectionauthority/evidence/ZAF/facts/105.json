@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-ampath-downplays-data-breach-claims",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb reports Ampath says it notified the Information Regulator of the 2 October cyber incident, and that POPIA requires organisations to notify the regulator of breaches.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "2026-07-22-lby-smex-libya-ai-strategy-built-without-participation",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "SMEX says the Government of National Unity unveiled the National Artificial Intelligence Strategy 2026-2030 on 1 June 2026 in Tripoli.",
+       "as_of": "2026-06-01",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy 2026-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy 2026-2030",
+       "country_label": "Libya",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Government of National Unity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "SMEX says Libya currently has no functioning data protection authority.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "SMEX, citing the strategy, says the Data Protection and Privacy Law remains in draft, with adoption targeted for 2026.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Data Protection and Privacy Law",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "SMEX says Libya currently has no functioning data protection authority.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

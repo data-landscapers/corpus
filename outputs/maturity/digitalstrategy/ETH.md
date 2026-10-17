@@ -4,7 +4,7 @@
 
 **Governance and finance.** The National Digital Transformation Council, chaired by Deputy Prime Minister Temesgen Tiruneh, met on 30 July 2026 and was [said to provide strategic leadership for the Digital Ethiopia Strategy](<https://www.fanamc.com/english/deputy-pm-says-technology-must-improve-lives-not-just-modernize-systems/>). Public ICT and digital allocations rose from about USD 250 million in 2020 to USD 500 million in 2024, which [Paradigm Initiative attributes to the predecessor, Digital Ethiopia 2025](<https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/>).
 
-**Standing.** The Council of Ministers [approved Digital Ethiopia 2030 on 29 November 2025](<https://www.ena.et/web/eng/w/eng_7816242>) and the Prime Minister [launched it on 20 December 2025](<https://www.ena.et/web/eng/w/eng_7967007>), as the successor to Digital Ethiopia 2025.
+**Standing.** The Council of Ministers [approved Digital Ethiopia 2030 on 29 November 2025](<https://www.ena.et/web/eng/w/eng_7816242>) and the Prime Minister [launched it on 20 December 2025](<https://www.ena.et/web/eng/w/eng_7967007>), as the successor to Digital Ethiopia 2025. On 9 September 2026 the Minister of Innovation and Technology [reaffirmed the Ministry's work towards the objectives of the strategy](<https://techafricanews.com/2026/09/09/safaricom-ethiopia-government-network-expansion-digital-transformation/>).
 
 **Text.** The [Ethiopian News Agency describes Digital Ethiopia 2030 as a comprehensive national blueprint building on the Homegrown Economic Reform Agenda](<https://www.ena.et/web/eng/w/eng_7967007>).
 

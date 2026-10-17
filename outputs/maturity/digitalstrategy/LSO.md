@@ -8,7 +8,7 @@
 
 **Text.** [The strategy's text is published on the government's website](<https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/>).
 
-**Period.** [The strategy is catalogued as Lesotho's national digital transformation strategy to 2030, self-dated 2024](<https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/>).
+**Period.** [The strategy is catalogued as Lesotho's national digital transformation strategy to 2030, self-dated 2024](<https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/>), and [the 2027/28 Budget Strategy Paper of October 2026 commits government to fast-track the 2024-2030 strategy](<https://budgetportal.finance.gov.ls/PDFDocuments/2027-2028%20Budget%20Strategy%20Paper-639276738396119649.pdf>).
 
 **Delivery plan.** The text [sets initiatives by priority, the highest to start within about 12 months of operationalisation and medium ones within three to five years](<https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/>), and states no cost. The National Digital Policy [lists development of a detailed action plan for the strategy as a task for 2024-2025](<https://www.gov.ls/download/national-digital-policy-2024-2035/>).
 

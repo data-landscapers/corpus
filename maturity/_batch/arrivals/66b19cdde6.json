@@ -1,0 +1,86 @@
+{
+ "slug": "2025-09-04-lbr-thenews-africa-cdc-hie-maturity-assessment",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "DHIS2",
+       "class": "other",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+    }
+   }
+  }
+ }
+}

@@ -98,8 +98,8 @@ Ghana ratified the African Union cyber security and data protection convention i
 
 Guinea ratified the African Union's cyber security and data protection convention in 2018; no national law giving effect to it is known.
 
+- The ministry's secretary-general Nouhan Traore says Guinea signed and ratified the Malabo Convention ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 - The African Union Commission status list of 2 February 2026 records Guinea with ratification/accession on 31 July 2018 and deposit on 16 October 2018, and no date of signature, for the Malabo Convention ([source, 2018-10-16](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-- Presidential decree D/2017/184/PRG/SGG, signed at Conakry on 26 July 2017 and effective from signature, ratifies the African Union Convention on Cyber Security and Personal Data Protection signed at Malabo on 27 June 2014, following authorising law L/2017/023/AN of 16 June 2017 ([source, 2017-07-26](https://anssi.gov.gn/wp-content/uploads/2025/03/ratification.jpg)).
 
 ### Lesotho: 3 Established
 
@@ -118,8 +118,8 @@ Madagascar ratified the African Union's cyber security and data protection conve
 
 Mauritania ratified the African Union's cyber security and data protection convention in 2023; no national law giving effect to it is known.
 
+- Ecofin says Mauritania ratified the African Union's Malabo Convention on cybersecurity and personal data protection in 2023 ([source, 2023](https://www.ecofinagency.com/news-digital/1301-51879-u-s-mauritania-discuss-cybersecurity-partnerships-and-capacity-building)).
 - NotreAfrik says the Malabo Convention reached its 15-ratification threshold and entered into force on 8 June 2023, thirty days after Mauritania's ratification, so Mauritania had ratified by about May 2023; the article gives no exact date for it ([source, 2023-05](https://notreafrik.com/convention-de-malabo-ratifications/)).
-- The African Union Commission's status list of 2 February 2026 records Mauritania as having ratified the Convention on 19 April 2023 and deposited the instrument on 9 May 2023 ([source, 2023-04-19](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Mauritius: 3 Established
 

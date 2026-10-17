@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-10-som-sonna-unified-digital-civil-registration-19-districts",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Interior, Federal Affairs and Reconciliation announced and runs the Unified Digital Civil Registration Service.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "Local administrations in the 19 districts digitally register births and deaths, plus marriages and divorces, per the Ministry.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:19",
+   "fact": "The Ministry says the service is operational in 19 named districts.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Digital Civil Registration Service",
+   "country_label": "Unified Digital Civil Registration Service",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Interior, Federal Affairs and Reconciliation",
+   "tiers": "19 districts, central national database"
+  }
+ ],
+ "note": ""
+}

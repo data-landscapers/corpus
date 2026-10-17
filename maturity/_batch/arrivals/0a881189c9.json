@@ -1,0 +1,23 @@
+{
+ "slug": "2024-09-05-lby-gia-circular-1-2024-data-protection",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "A circular requiring prior permission for personal-data projects is not a general law or a statement of absence."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular is a permission gate under a 1990 information-system law; no data protection law, treaty or authority practice stated."
+    }
+   }
+  }
+ }
+}

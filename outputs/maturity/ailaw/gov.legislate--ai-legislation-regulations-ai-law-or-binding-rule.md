@@ -1,6 +1,6 @@
 # AI legislation / regulations: AI law or binding rule
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -24,9 +24,9 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 9 |
-| 1 Absent | 14 |
+| 1 Absent | 15 |
 | Unplaced | 0 |
-| No evidence | 24 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -34,6 +34,7 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 
 A media code in force since February 2026 requires AI-generated content to be labelled; there is no law on AI itself.
 
+- Al-watwan reports the UNESCO RAM 2.0 finding that Comoros has legislation with several provisions on artificial intelligence in the media ([source, 2026-10-02](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html)).
 - The CNPA states that the new Code de l'information et de la communication, adopted by Loi n°25-021/AU of 26 December 2025 and promulgated by Décret n°26-023/PR of 2 February 2026, requires explicit labelling of any content generated or heavily modified by AI (article 231), with CNPA sanctions up to 1,000,000 KMF ([source, 2026-02-02](https://www.cnpa-comores.org/un-nouveau-souffle-pour-le-cnpa/)).
 
 ### Egypt: 3 Established
@@ -197,6 +198,12 @@ The justice minister said in September 2026 that no specific AI legislation has 
 
 - Sierra Leone's attorney-general and justice minister Alpha Sesay told UNESCO in Riyadh that the country has established a position on AI but has not yet enacted specific AI legislation (meeting 2026-09-16, reported 2026-09-17) ([source, 2026-09-16](https://sierraloaded.sl/news/sierra-leone-unesco-governance-saudi-arabia/)).
 
+### Somalia: 1 Absent
+
+A May 2026 analysis reports Somalia has no national AI law and no dedicated AI legislation; whether any draft exists is not known.
+
+- Ecofin Agency, citing an analysis published in May 2026, reports Somalia has no national AI law and no dedicated AI legislation ([source, 2026-05](https://www.ecofinagency.com/news-digital/1707-57474-somalia-launches-university-ai-center-to-tackle-local-development-challenges)).
+
 ### South Africa: 1 Absent
 
 Two sources of August 2026 say South Africa has no law or regulations on AI; national rules are expected in 2027.
@@ -332,12 +339,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Niger: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Somalia: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

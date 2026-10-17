@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-12-mus-radio1-mansoor-data-centres-ai",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States only an opinion that Mauritius lacks the water and energy for data centres; no data centre, tier, owner or cloud region is stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States only an opinion that Mauritius lacks the water and energy for data centres; no data centre, tier, owner or cloud region is stated."
+    }
+   }
+  }
+ }
+}

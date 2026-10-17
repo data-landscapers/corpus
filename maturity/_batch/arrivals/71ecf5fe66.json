@@ -1,0 +1,115 @@
+{
+ "slug": "2024-09-24-eri-embassy-us-launch-caps-online-consular",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Eritrean embassy in the USA launched on 24 September 2024 the Consular Affairs Processing System (CAPS), built by the Ministry of Foreign Affairs, through which consular services including ID card, entry visa and passport renewal applications are begun online.",
+       "as_of": "2024-09-24",
+       "date_precision": "day",
+       "system": "Consular Affairs Processing System (CAPS)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Consular Affairs Processing System (CAPS)",
+       "country_label": "Eritrea",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Foreign Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eritrea."
+    }
+   }
+  }
+ }
+}

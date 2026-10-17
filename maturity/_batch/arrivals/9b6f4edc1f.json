@@ -1,0 +1,13 @@
+{"slug":"2026-10-16-lso-rsl-individual-taxpayer-registration-form","studies":{
+"addressregister":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Form collects postal and physical address as free text; no addressing system stated."}}},
+"authentication":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Form takes ID details and copies; no authentication service stated."}}},
+"birthidlink":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Nothing on civil register and ID link."}}},
+"egovservices":{"countries":{"LSO":{"facts":[{"sub_indicator":"eservices","aspect":"services","value":"underway","fact":"Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to.","as_of":"2026-10-16","date_precision":"day","system":"RSL eServices (eForms)","class":"eservices"}],"systems":[{"system":"RSL eServices (eForms)","country_label":"Lesotho","class":"eservices","platform":"","owner":"Revenue Services Lesotho","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"LSO":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Form asks for the Lesotho ID number and a copy, but does not say the tax register is keyed on it or checked against it."}}},
+"idrobustness":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Form names a Lesotho Identification but says nothing on how the system issues or secures it."}}},
+"revenuecollection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Registration form only; no payment or filing stated."}}},
+"taxregister":{"countries":{"LSO":{"facts":[{"sub_indicator":"taxpayers","aspect":"register","value":"inservice","fact":"Revenue Services Lesotho's online form registers individual taxpayers (employees, directors, partners) and asks for a TIN (New) in the format 200000000-0.","as_of":"2026-10-16","date_precision":"day","system":"RSL taxpayer registration (TIN)","class":"tax"}],"systems":[{"system":"RSL taxpayer registration (TIN)","country_label":"Lesotho","class":"tax","platform":"","owner":"Revenue Services Lesotho","tiers":""}],"note":""}}}
+}}

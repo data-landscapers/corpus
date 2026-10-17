@@ -1,15 +1,15 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-NER,Registre National de la Population (RNP),RNP,,,DGATDD / ANEI,"national; first phase in Niamey, then other regions",2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,,2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Registre National de la Population (RNP),RNP,,,ANEI,national; deconcentrated actors to run registration operations,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Agence Nationale de l'Enregistrement et d'Identification des personnes physiques,ANEI,,,Ministry of the Interior,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,WURI-Niger (OURI in this text),projet OURI,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Registre National de la Population (RNP),RNP,,,ANEI,national; to be interoperable with functional registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,Registre National d'Etat Civil (RNEC),RNEC,,,"Direction Générale de l'état civil, des migrations et des réfugiés",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,WURI-Niger,WURI-Niger,,,World Bank-financed,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National de la Population (RNP),RNP,other,,DGATDD / ANEI,"national; first phase in Niamey, then other regions",2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,other,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,other,,Government of Niger,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,ANEI,national; deconcentrated actors to run registration operations,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,other,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et d'Identification des personnes physiques,ANEI,other,,Ministry of the Interior,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,WURI-Niger (OURI in this text),projet OURI,other,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,ANEI,national; to be interoperable with functional registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),RNEC,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,other,,Government of Niger,public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,WURI-Niger,WURI-Niger,other,,World Bank-financed,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National de la Population (RNP),Registre National de la Population,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
 NER,Carte Nationale d'Identité Biométrique (CNIB),Carte Nationale d'Identité Biométrique,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
 NER,WURI,projet WURI,other,,,,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez

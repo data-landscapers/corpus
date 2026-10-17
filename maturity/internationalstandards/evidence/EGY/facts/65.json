@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-egy-iso-member-eos",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The ISO member page lists the Egyptian Organization for Standardization and Quality (EOS) as an ISO member body, with ISO membership obtained in 1957.",
+   "as_of": "1957",
+   "date_precision": "year",
+   "system": "EOS",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EOS",
+   "country_label": "Egyptian Organization for Standardization and Quality",
+   "class": "adoption",
+   "platform": "",
+   "owner": "EOS",
+   "tiers": ""
+  }
+ ],
+ "note": "TC participation counts are not tied to information technology committees."
+}

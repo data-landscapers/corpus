@@ -12,12 +12,12 @@ COG,no evidence,,,
 COM,no evidence,,,
 CPV,4,in-force,required,CPV-002;CPV-001
 DJI,no evidence,,,
-DZA,4,in-force,required,DZA-003;DZA-002
+DZA,4,in-force,required,DZA-003;DZA-005;DZA-002
 EGY,no evidence,,,
 ERI,no evidence,,,
 ETH,2,draft,,ETH-001;ETH-002
 GAB,4,in-force,required,GAB-002;GAB-004;GAB-001
-GHA,2,draft,,GHA-001;GHA-002
+GHA,2,draft,,GHA-001;GHA-003
 GIN,3,in-force,,GIN-002
 GMB,no evidence,,,
 GNB,3,in-force,,GNB-001;GNB-003
@@ -40,14 +40,14 @@ RWA,no evidence,,,
 SDN,no evidence,,,
 SEN,2,draft,,SEN-001;SEN-002
 SLE,no evidence,,,
-SOM,no evidence,,,
+SOM,1,none,,SOM-001
 SSD,no evidence,,,
 STP,3,in-force,,STP-001
 SWZ,no evidence,,,
 SYC,no evidence,,,
 TCD,no evidence,,,
 TGO,no evidence,,,
-TUN,4,in-force,required,TUN-002;TUN-004
+TUN,4,in-force,required,TUN-002;TUN-006;TUN-004
 TZA,3,in-force,,TZA-001
 UGA,3,in-force,,UGA-001
 ZAF,3,in-force,,ZAF-002

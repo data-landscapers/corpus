@@ -27,7 +27,8 @@
       "flags": "",
       "stage_sources": "SEN-010;SEN-011;SEN-017;SEN-018;SEN-030;SEN-031;SEN-045;SEN-046",
       "gaps": "The 1% is of the 102 district health centres only, with health posts outside the denominator; hospital use is established at one named regional hospital, and the one health post is a pilot site reported in April 2025. Retrieval of the record at another facility is not stated, so `shared` is not held. Inside the twelve months SEN-012 (advancing, 31 October 2025) and SEN-034 (the 51-centre pilot not started at December 2025) disagree; the newer stands and no flag is set. No fact says whether that pilot began in 2026.",
-      "note": "The record runs at pilot facilities: one regional hospital, about one health centre in 102 and one health post. Stage 3 needs most T1 and T2 hospitals or primary clinics across some districts, and neither is evidenced."
+      "note": "The record runs at pilot facilities: one regional hospital, about one health centre in 102 and one health post. Stage 3 needs most T1 and T2 hospitals or primary clinics across some districts, and neither is evidenced.",
+      "as_at": "2026-10-17"
     }
   ]
 }

@@ -1,0 +1,438 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "Interior Minister Said Sayoud says administrations can now consult civil status data directly in the Registre National Automatise de l'Etat Civil, set up under Executive Decree 15-204 of 27 July 2015.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Interior Minister says infractions over civil status and identity data will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Interior Minister says illegal use of the NIN by third parties falls under Law 18-07 of 10 June 2018 on protection of individuals in personal data processing, with its stated sanctions.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Law 18-07 of 10 June 2018",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Interior Minister says infractions will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The Interior Minister says Law 18-07 of 10 June 2018 on personal data processing governs and sanctions illegal use of the NIN.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Law 18-07 of 10 June 2018",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Interior Minister says infractions will be sanctioned in coordination with the Autorite Nationale de Protection des Donnees a Caractere Personnel.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Autorite Nationale de Protection des Donnees a Caractere Personnel",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Interior Minister refers to an automated system generating the NIN and to biometric national identity cards, which public bodies use to obtain identity information.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Numero d'Identification National (NIN) system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Interior Minister says public bodies connected to the automated NIN generation system obtain identity information electronically, sparing holders of biometric ID documents from presenting several documents.",
+       "as_of": "2025-12-08",
+       "date_precision": "day",
+       "system": "Numero d'Identification National (NIN) system",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Executive Decree 23-316 of 6 September 2023 obliges public bodies to connect their IT systems to the automated NIN generation system, per the Interior Minister.",
+       "as_of": "2023-09-06",
+       "date_precision": "day",
+       "system": "Executive Decree 23-316",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "duty",
+       "value": "required",
+       "fact": "The Interior Minister says public bodies are required under Executive Decree 23-316 to connect their IT systems to the automated NIN generation system.",
+       "as_of": "2023-09-06",
+       "date_precision": "day",
+       "system": "Executive Decree 23-316",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification National (NIN) system",
+       "country_label": "DZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      },
+      {
+       "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+       "country_label": "DZA",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Algeria."
+    }
+   }
+  }
+ }
+}

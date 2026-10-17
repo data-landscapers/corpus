@@ -1,0 +1,52 @@
+{
+ "slug": "2024-04-19-zwe-unicef-zimstat-census-data-profiles",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on administrative statistics."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "UNICEF Zimbabwe and ZIMSTAT announced in April 2024 a rollout of provincial and district data profiles derived from analysis of the 2022 Population and Housing Census.",
+       "as_of": "2024-04-17",
+       "date_precision": "day",
+       "system": "2022 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government connection."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a statistics law."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-14-som-opinion-ai-public-administration",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece proposing AI adoption; states nothing about administrative statistics in Somalia."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece proposing AI adoption; states nothing about a data protection law in Somalia."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece proposing AI adoption; states nothing about local government connection in Somalia."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,334 @@
+{
+ "slug": "2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "CSquared says CSquared Woezon is the landing partner for the Equiano cable system in Togo, the first landing of the system in continental Africa.",
+       "as_of": "2025-05-06",
+       "date_precision": "day",
+       "system": "Equiano cable system",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced.",
+       "as_of": "2025-05-06",
+       "date_precision": "day",
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "country_label": "Lagos-Accra via Ghana, Togo, Benin",
+       "class": "shared",
+       "platform": "terrestrial fibre",
+       "owner": "CSquared, Phase3, SBIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced.",
+       "as_of": "2025-05-06",
+       "date_precision": "day",
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "country_label": "Lagos-Accra via Ghana, Togo, Benin",
+       "class": "shared",
+       "platform": "terrestrial fibre",
+       "owner": "CSquared, Phase3, SBIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced.",
+       "as_of": "2025-05-06",
+       "date_precision": "day",
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "country_label": "Lagos-Accra via Ghana, Togo, Benin",
+       "class": "shared",
+       "platform": "terrestrial fibre",
+       "owner": "CSquared, Phase3, SBIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced.",
+       "as_of": "2025-05-06",
+       "date_precision": "day",
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lagos-to-Accra terrestrial fibre route",
+       "country_label": "Lagos-Accra via Ghana, Togo, Benin",
+       "class": "shared",
+       "platform": "terrestrial fibre",
+       "owner": "CSquared, Phase3, SBIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

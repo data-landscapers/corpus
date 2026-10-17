@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-13-paradigm-initiative-statement-achpr-89th-session-human-rights-situation-africa",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Paradigm Initiative says Zambia's Cybersecurity and Cybercrime Act of 2025 was used around the August 2026 elections, which shows the Act is in force.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cybersecurity and Cybercrime Act of 2025",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Paradigm Initiative, citing the African Union's preliminary report, says ZNBC journalist MacPherson Mukuka was arrested under section 10 of the cybercrime law, on recording a private conversation, during the August 2026 elections.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Cybersecurity and Cybercrime Act of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity and Cybercrime Act of 2025",
+   "country_label": "Zambia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

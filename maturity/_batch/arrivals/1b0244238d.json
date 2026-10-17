@@ -1,0 +1,32 @@
+{
+ "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026",
+ "studies": {
+  "broadbandstrategy": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
+    }
+   }
+  }
+ }
+}

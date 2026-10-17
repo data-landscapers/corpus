@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-26-bwa-estdev-team-europe-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "ESTDEV says Botswana in 2020 created SmartBots, the national digital transformation strategy, providing the framework for digitising all sectors; adoption is not stated.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "SmartBots",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartBots",
+   "country_label": "Botswana",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

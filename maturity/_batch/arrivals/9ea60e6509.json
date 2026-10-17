@@ -1,0 +1,162 @@
+{
+ "slug": "2026-03-10-ner-lesahel-sg-interieur-visite-cni-passeports",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Card authentication use is stated as intended only; no service in use or contracted."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Biometric data centre at the DST serves the state only; none for hire stated."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a December 2025 passport decree is mentioned; no identity law stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated; birth extract is a card requirement."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No register keyed on the ID number stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centre is not stated to be for hire."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Public-private partnership named but no amount stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police station records."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "Alitisal Aljadeed's engineer says the biometric ID card and passport project, run as a public-private partnership with a local company, includes training of local teams to transfer skills.",
+       "as_of": "2026-03-06",
+       "date_precision": "day",
+       "system": "nouvelle carte nationale d'identité biométrique",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID card and passport project",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "Al Itissal Al Jadeed (Alitisal Aljadeed) with a local partner",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The interior ministry's secretary general says the contract with Alitisal Aljadeed for the biometric national ID card, with fingerprints, a unique identifier and an encrypted QR code, is 85% executed with equipment in place and cards not yet issued.",
+       "as_of": "2026-03-06",
+       "date_precision": "day",
+       "system": "nouvelle carte nationale d'identité biométrique",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national biometric ID card and passport project",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "Al Itissal Al Jadeed (Alitisal Aljadeed) with a local partner",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

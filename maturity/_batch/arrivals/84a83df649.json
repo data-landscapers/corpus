@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-02-egy-hrw-arrest-matsda2sh-newsroom",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Human Rights Watch says Egyptian security forces arrested the six journalists of the Matsda2sh newsroom on 28-29 September 2026, and the Interior Ministry said they were suspected of preparing fabricated news.",
+       "as_of": "2026-09-28",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -9,7 +9,7 @@ SWZ,CMIS,CMIS,other,SQL Server,Ministry of Health HMIS Unit,hospitals; clinics,2
 SWZ,DHIS2,DHIS2,other,DHIS2,,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
 SWZ,OpenFn data flows CMIS to DHIS2,,other,OpenFn,Ministry of Health HMIS Unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
 SWZ,FHIR-based health information exchange on OpenHIM Platform with Master Patient Index,,other,OpenHIM; FHIR,"Eswatini health IT teams, with Jembi and DataFI",health facilities,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
-SWZ,Population Registry,Population Registry,,,,national,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
-SWZ,ERS Fiscalization Solution,Fiscalization Solution,,,Eswatini Revenue Service,retail sector,2025-10-29-ers-intensifies-drive-close-tax-gap
+SWZ,Population Registry,Population Registry,other,,,national,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
+SWZ,ERS Fiscalization Solution,Fiscalization Solution,other,,Eswatini Revenue Service,retail sector,2025-10-29-ers-intensifies-drive-close-tax-gap
 SWZ,Government interoperability framework (GIF),GIF,framework,,Ministry of ICT,,2024-01-01-swz-iom-migration-digital-maturity-assessment
 SWZ,Data-sharing platform hosted by RSTP,data-sharing platform,other,RSTP,,,2024-01-01-swz-iom-migration-digital-maturity-assessment

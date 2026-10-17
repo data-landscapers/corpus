@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-17-mwi-nation-data-cost-down-macra",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:USD:0.38:1",
+   "fact": "Macra says one gigabyte of mobile data now costs $0.38, down from $27.41 in 2020.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "mobile data price",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-gha-graphic-dpc-field-enforcement-microfinance-cid",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Graphic Online reports the Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, ran a field enforcement exercise in Accra on 12 October 2026 under the Data Protection Act, 2012 (Act 843).",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Referrals to police are not a ruling; registration count is not a count of rulings."
+}

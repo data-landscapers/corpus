@@ -1,0 +1,174 @@
+{
+ "slug": "2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "TPEE",
+       "country_label": "Tableau prévisionnel des emplois et des effectifs",
+       "class": "other",
+       "platform": "",
+       "owner": "MENAPLN",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a ministry-level teacher HR tool is described; no core finance, revenue or payroll system stated."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Système informatisé de gestion des ressources humaines",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education (MENRSE)",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a ministry-level teacher HR tool is described; no core finance, revenue or payroll system stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Teacher-management software (modelled on Senegal's MIRADOR)",
+       "country_label": "logiciel de gestion des enseignants",
+       "class": "other",
+       "platform": "",
+       "owner": "Education ministry, financed by PREAT",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a ministry-level teacher HR tool is described; no core finance, revenue or payroll system stated."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Système informatisé de gestion des ressources humaines",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education (MENRSE)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Teacher-management software (modelled on Senegal's MIRADOR)",
+       "country_label": "logiciel de gestion des enseignants",
+       "class": "other",
+       "platform": "",
+       "owner": "Education ministry, financed by PREAT",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Teacher-management software (modelled on Senegal's MIRADOR)",
+       "country_label": "logiciel de gestion des enseignants",
+       "class": "other",
+       "platform": "",
+       "owner": "Education ministry, financed by PREAT",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a teacher-management tool, nothing this study asks."
+    }
+   }
+  }
+ }
+}

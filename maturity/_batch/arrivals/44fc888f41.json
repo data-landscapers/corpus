@@ -1,0 +1,272 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Togo."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Togo's presentation says the RSIA federated inter-administration exchange network was in a pilot phase launched in Q4 2024, with the pilot to finish in Q2 2025.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "RSIA",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "Togo's presentation says 15 public institutions were connected to the RSIA in its Q4 2024 pilot phase, to scale to 25+ by end 2025.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "RSIA",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSIA (Réseau Sécurisé Inter Administration)",
+       "country_label": "Togo",
+       "class": "exchange",
+       "platform": "federated, local security servers",
+       "owner": "Agence Togo Digital",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Togo's presentation says the IPDCP ensures compliance with national data protection laws and arbitrates data-related disputes in the RSIA.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "IPDCP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Togo's presentation says the IPDCP oversees compliance with national data protection laws for the RSIA and is being consulted on consent tools.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "IPDCP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Togo's presentation says the e-ID programme launched in 2023 assigns a unique biometric identifier to each resident, led by the National Identity Agency.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "e-ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identity Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Togo's presentation says the Social Registry of Individuals and Households (RSPM) was in development and initial integration in 2025, using the e-ID as its unique key.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "RSPM",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSPM",
+       "country_label": "Togo",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "Togo's presentation says the RSPM social registry was in development and initial integration in 2025, with full-scale operation planned for 2026.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "RSPM",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSPM",
+       "country_label": "Togo",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Togo's presentation says the RSPM was being integrated in 2025 to link socio-economic data across institutions through the e-ID, over the RSIA.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "RSPM",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSPM",
+       "country_label": "Togo",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-05-zaf-pmg-nw5645-south-africans-without-ids",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Minister of Home Affairs replies that under Section 15 of the Identification Act, No. 68 of 1997, anyone aged 16 or over must apply for an identity card.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Identification Act 68 of 1997",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

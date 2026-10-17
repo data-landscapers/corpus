@@ -1,0 +1,7 @@
+{"slug": "2025-03-20-gab-agp-atelier-strategie-nationale-ia", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The workshop aims at a legal and regulatory framework for AI but states no rule, draft or authority on AI harms."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Public administration is named only as an area to explore; no AI system in use or under way is stated."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Health and education are named only as areas to explore; no sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"GAB": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The UNESCO National Commission with the national technical committee for AI (CTN-IA) opened a two-day workshop on 20 March 2025 to support the drawing up of a national AI strategy for Gabon, with strategic recommendations expected at its close (AGP).", "as_of": "2025-03-20", "date_precision": "day", "system": "national AI strategy", "class": "strategy"}], "systems": [{"system": "Comité technique national pour l'Intelligence artificielle (CTN-IA)", "country_label": "Gabon", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated as built or hosted in Gabon."}}}
+}}

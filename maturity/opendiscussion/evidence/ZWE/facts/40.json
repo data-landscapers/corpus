@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Media Alliance of Zimbabwe, with International Media Support, held a dialogue criticising the Cyber and Data Protection Act as being used to silence journalists.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Media Alliance of Zimbabwe",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MAZ's coordinator says four journalists were reportedly arrested in 2026 on cyberbullying charges over stories they wrote.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

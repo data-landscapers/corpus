@@ -1,0 +1,61 @@
+{
+ "slug": "2024-10-19-gab-lejdl-identification-nationale-apprenants-ina",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Identification operation; no statistics from administrative records stated."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "INA assignment is under way but no exchange between education systems is stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "SOSUP launched a national operation to identify schools and assign each learner a unique national identifier (INA), collecting school and pupil files through provincial and zonal academic delegates to centralise school data, per Le Journal des Lycées.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Opération Nationale d'Identification des Établissements et des Apprenants (INA)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INA",
+       "country_label": "Identifiant National Apprenant",
+       "class": "emis",
+       "platform": "",
+       "owner": "SOSUP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Data capture is by files sent up through delegates; no school-level routine entry or live system stated."
+    }
+   }
+  }
+ }
+}

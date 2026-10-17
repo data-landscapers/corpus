@@ -4,30 +4,30 @@ AGO,Bilhete de Identidade de Cidadão Nacional,Bilhete de Identidade (BI),other,
 AGO,Bilhete de Identidade,Bilhete de Identidade (BI),other,,,,2026-04-29-ago-oge-2026-i-trimestre-execucao-lei-identificacao
 AGO,Plataforma de Gestão Integrada da Identificação Civil e Criminal,Plataforma de Gestão Integrada da Identificação Civil e Criminal,other,China National Electronics Import & Export Corporation (supplier),Ministério da Justiça e dos Direitos Humanos,,2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento
 AGO,Bilhete de Identidade,Bilhete de Identidade (BI),other,,Ministry of Justice and Human Rights,banks; telecommunications services; schools; property registry; contracts,2026-04-29-bi-documento-unico-valido-identificacao
-BDI,Fichier National d'Identification / Carte Nationale d'Identité,Fichier National de l'Identification/Carte Nationale d'Identité,,,Ministry of Interior,communal offices issue the card,2026-01-01-isoko-fichier-national-identification-carte-nationale-identite
+BDI,Fichier National d'Identification / Carte Nationale d'Identité,Fichier National de l'Identification/Carte Nationale d'Identité,other,,Ministry of Interior,communal offices issue the card,2026-01-01-isoko-fichier-national-identification-carte-nationale-identite
 BEN,Registre national biométrique de la population (RNPP),registre national biométrique de la population,other,,ANIP,,2025-06-23-article-6-loi-identification-retouche
 BEN,Registre National des Personnes Physiques (RNPP),Registre National des Personnes Physiques,other,,ANIP,,2026-05-07-anip-rnpp-nouvelles-precisions
 BEN,"Certificat du numéro personnel d'identification (Cnpi/fID, carte C'est moi)",Certificat du NPI,other,,ANIP,,2024-05-06 Benin - the NPI certificate as the base for electronic identity
 BEN,Registre national des personnes physiques (RNPP),Registre national des personnes physiques,other,,ANIP,,2026-07-16-adjinacou-maternite-identite-legale
-BEN,Guichet unique d'enregistrement des naissances,guichet unique,,,ANIP with Ministry of Health,health facilities,2026-07-16-adjinacou-maternite-identite-legale
+BEN,Guichet unique d'enregistrement des naissances,guichet unique,other,,ANIP with Ministry of Health,health facilities,2026-07-16-adjinacou-maternite-identite-legale
 BEN,Registre national des personnes physiques (RNPP),Registre national des personnes physiques,other,,ANIP,,2026-05-06-anip-rnpp-actes-naissance-securises
 BEN,Registre National des Personnes Physiques (RNPP),RNPP,other,,ANIP,national,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
 BEN,Numero Personnel d'Identification (NPI),NPI,other,,ANIP,national,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
 BEN,Carte Nationale d'Identite Biometrique (CNIB),CNIB,other,,ANIP,national,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
 BEN,Registre national des personnes physiques (RNPP),RNPP,other,,,national; health services and civil registration centres declare to it,2021-01-06-loi-2020-34-etat-civil-dematerialise
-BEN,Fichier national de l'etat civil,,,,,national,2021-01-06-loi-2020-34-etat-civil-dematerialise
+BEN,Fichier national de l'etat civil,,other,,,national,2021-01-06-loi-2020-34-etat-civil-dematerialise
 BFA,Unique electronic identification of the person (identifiant unique),identification unique électronique de la personne,other,,Ministry of Digital Transition (WURI project),national,2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique
 BFA,WURI programme,Programme WURI,other,,"Ministry of Digital Transition, Posts and Electronic Communication",national,2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique
 BFA,Unique electronic identification system (identifiant unique),système d'identification unique électronique de la personne,other,,Ministry in charge of digital transition,"national; linked to CNIB, passport, driving licence, health and bank records",2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
-BFA,CNIB,CNIB,,,,,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
+BFA,CNIB,CNIB,other,,,,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
 BWA,National Registration Act (Chapter 01:02),National Registration Act,law,,Registrar of National Registration,,1986-12-31-national-registration-act
-BWA,National register and district registers of citizens (identity cards),National register,,,Department of Civil and National Registration,national;district,1986-12-31-national-registration-act
+BWA,National register and district registers of citizens (identity cards),National register,other,,Department of Civil and National Registration,national;district,1986-12-31-national-registration-act
 BWA,"National Registration Act, 1986 (No. 26)",National Registration Act,law,,Parliament of Botswana; Minister responsible for Home Affairs,,1986-12-24-national-registration-act-1986
-BWA,National register and district registers (identity cards),National register,,,Registrar of National Registration,national;district,1986-12-24-national-registration-act-1986
-BWA,Omang (National Identity Card),Omang,,,Ministry of Labour and Home Affairs,national,2026-07-29-botswana-national-id-replacement-delays
-BWA,Electronic Identification System / Digital ID project,Digital ID,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
-BWA,Biometric Omang system,Biometric Omang,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
-BWA,Omang (National Identity Card),Omang,,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,National register and district registers (identity cards),National register,other,,Registrar of National Registration,national;district,1986-12-24-national-registration-act-1986
+BWA,Omang (National Identity Card),Omang,other,,Ministry of Labour and Home Affairs,national,2026-07-29-botswana-national-id-replacement-delays
+BWA,Electronic Identification System / Digital ID project,Digital ID,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,Biometric Omang system,Biometric Omang,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
+BWA,Omang (National Identity Card),Omang,other,,Ministry of Labour and Home Affairs,national,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
 CAF,Système national d'identité numérique (SNID),SNID,other,,Office national d'identification (ONI),national,2025-11-28-car-systeme-national-identite-numerique-snid
 CIV,Registre national des personnes physiques (RNPP) / Numéro national d'identification (NNI),RNPP; NNI,other,,ONECI,,2026-07-30-cote-divoire-digital-identity-connected-not-identified
 CIV,Registre national des personnes physiques (RNPP) / Numéro national d'identification (NNI),RNPP; NNI,other,,ONECI,"public, parapublic and private actors certify personal data against the RNPP",2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
@@ -37,7 +37,7 @@ CIV,Biometric digital-ID (electronic smart card),Digital identification,other,,,
 CMR,Unique Personal Identification Number (UPIN),Unique Personal Identification Number,other,,BUNEC,,2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization
 CMR,new biometric national ID,new biometric national ID,other,,,,2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization
 CMR,national civil-status database,national database,other,,BUNEC,,2025-03-27 Digital Transformation of Civil Registration in Cameroon - e-Governance innovations (Law 2024-016)
-COD,Fichier Général de la Population (FGP),Fichier Général de la Population,,,Office National d'Identification de la Population (ONIP),national,2022-03-02-decret-22-07-fichier-general-population
+COD,Fichier Général de la Population (FGP),Fichier Général de la Population,other,,Office National d'Identification de la Population (ONIP),national,2022-03-02-decret-22-07-fichier-general-population
 COD,Fichier Général de la Population,Fichier Général de la Population (FGP),other,,,,2026-06-12-proposition-loi-identification-personnes-physiques-actualite
 COD,Carte d'identité nationale,Carte d'identité nationale,other,,,,2026-06-12-proposition-loi-identification-personnes-physiques-actualite
 COG,carte nationale d'identité (CNI),cartes nationales d'identité,other,,Ministère de l'Intérieur,national,2026-08-09-starducongo-100000-passeports-vierges-330000-cartes-identite
@@ -65,19 +65,19 @@ DJI,Carte nationale d'identité biométrique,carte nationale d'identité biomét
 DJI,Registre National des Personnes Physiques (RNPP) and Numéro National d'Identification (NNI),RNPP / NNI,other,,DGPF (administration); ANSIE (technical management and security),,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques
 DZA,Projet de loi fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique,projet de loi sur les services de confiance numériques,other,,Ministère de la Poste et des Télécommunications,,2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid
 DZA,ANCE,ANCE (autorité de certification électronique),other,,public body proposed by the draft law,,2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid
-DZA,Biometric ID card system,biometric national ID card,,,,,2025-11-10-digital-id-trust-services-draft-law--biometricupdate
-DZA,National digital identification system,national digital identification system,,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
-DZA,Biometric national ID card,biometric national ID card,,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
-DZA,National digital identification framework,national digital identification framework,,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
-DZA,Biometric identity card,biometric identity card,,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
+DZA,Biometric ID card system,biometric national ID card,other,,,,2025-11-10-digital-id-trust-services-draft-law--biometricupdate
+DZA,National digital identification system,national digital identification system,other,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
+DZA,Biometric national ID card,biometric national ID card,other,,,,2025-11-05 Algeria approves draft law on national digital ID and trust services
+DZA,National digital identification framework,national digital identification framework,other,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
+DZA,Biometric identity card,biometric identity card,other,,,,2025-11-04-digital-trust-e-transactions-law--wearetech
 EGY,Child national ID card proposal (بطاقة رقم قومي للأطفال),بطاقة رقم قومي للأطفال,other,,Member of the House of Representatives Mai Karam Gabr (proposer); Tansiqiya workshops,,2026-04-19-egypt-child-national-id-biometric-registry-proposal-youm7
 EGY,Digital Identification Process (FRA Decree 140 of 2023),Digital Identification Process,other,,Financial Regulatory Authority (FRA),non-banking financial services entities,2023-07-31-egypt-digital-id-checks-fintech-transactions
 ERI,National ID card,National ID,other,,,,2026-03-02-uk-gov-eritrea-knowledge-base-profile
 ERI,Eritrean ID card,Eritrean ID card,other,,Department of Immigration and Nationality,,2025-11-01-us-state-dept-eritrea-civil-documents-national-id
 ERI,Eritrean National ID,National ID,other,Consular Affairs Processing System (CAPS) online application,"Embassy of Eritrea, Washington DC",,2024-10-17-eritrea-embassy-national-id
-ETH,Fayda,Fayda national digital identification system,,,National ID Programme,banks,2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline
-ETH,Fayda,Fayda digital ID,,,National ID Programme,banks and financial institutions,2025-12-10 NBE launches full integration of Fayda digital ID with the banking system
-ETH,Digital Identification System,"Ethiopian Digital Identification System (Unique Number, with Alias Numbers)",,,"Digital Identification Institution, to be set up by Council of Ministers regulation or within a government body (Article 5)","relying parties, authentication service providers",2023-04-18-ethiopia-digital-identification-proclamation-1284-2023-full-text
+ETH,Fayda,Fayda national digital identification system,other,,National ID Programme,banks,2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline
+ETH,Fayda,Fayda digital ID,other,,National ID Programme,banks and financial institutions,2025-12-10 NBE launches full integration of Fayda digital ID with the banking system
+ETH,Digital Identification System,"Ethiopian Digital Identification System (Unique Number, with Alias Numbers)",other,,"Digital Identification Institution, to be set up by Council of Ministers regulation or within a government body (Article 5)","relying parties, authentication service providers",2023-04-18-ethiopia-digital-identification-proclamation-1284-2023-full-text
 ETH,Fayda digital ID,ፋይዳ ዲጂታል መታወቂያ (Fayda),other,,National ID Program,banks,2025-12-10-nbe-banks-verifayda-2-migration
 ETH,VeriFayda 2,VeriFayda 2,other,EthSwitch,National ID Program and EthSwitch,banks,2025-12-10-nbe-banks-verifayda-2-migration
 GAB,Système national d'identité digitale (SNID),SNID,other,,ANINF,"banks, SIM issuance, health, administration",2025-09-16-gabon-digital-identity-governance-milestone
@@ -119,7 +119,7 @@ GIN,Registre national des personnes physiques (RNPP),Registre national des perso
 GIN,Diama Djigui,Diama Djigui,other,"national interoperability and identity-verification platform for the RNPP (MoU with NG Tech Innovation, signed 2026-07-24)",ONECI,health and education data verification mentioned,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil
 GIN,Registre national des personnes physiques (RNPP),registre national des personnes physiques,other,,ONECI (Office national de l'état civil et de l'identification),"DGE (electoral directorate), as sole source of voter identification data under a convention signed 2026-01-22",2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,FUGAS,unified administrative and payroll management system,other,,Ministry of Labour,central government public workforce,2025-11-30 Guinea Claims $26.9M Saved Since 2024 with Biometric Audit of Public Workforce (FUGAS)
-GMB,national identity cards,national identity card,,,Immigration Department,national,2025-08-11-udp-alarm-unlawful-id-cards-abroad-thepoint
+GMB,national identity cards,national identity card,other,,Immigration Department,national,2025-08-11-udp-alarm-unlawful-id-cards-abroad-thepoint
 GMB,National Digital ID and Digital Transformation Strategy 2023-2028,National Digital ID Strategy,other,,Ministry of Communications and Digital Economy,,2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy
 GMB,National Digital Identity Strategy,National Digital Identity Strategy,other,,Ministry of Communications and Digital Economy,,2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)
 GNB,Bilhete de Identidade (BI) issuance centres,Bilhete de Identidade,other,,"Ministry of Justice and Human Rights; Directorate-General of Civil Identification, Registries and Notary",national; 18 issuance centres after Bolama,2026-06-08-gnb-ang-bolama-centro-producao-bilhete-identidade
@@ -157,7 +157,7 @@ MOZ,Digital Certification System,Digital Certification System (DCS),other,MoDi S
 MOZ,National Mobile Digital Identity and Electronic Signature Infrastructure,,other,,ATDI,,2026-08-25-mozambique-tablu-tech-digital-trust-biometricupdate
 MOZ,National mobile digital ID and e-signature infrastructure (EDGE),mobile digital ID,other,"smartphone app, Java Card SIM, eSIM",ATDI,three-tier,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
 MOZ,National mobile digital identity and electronic signature infrastructure (EDGE),mobile digital identity,other,"mobile app, starter card, virtual card",ATDI,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
-MOZ,National Population Registry,National Population Registry,,,National Directorate of Civil Identification,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
+MOZ,National Population Registry,National Population Registry,other,,National Directorate of Civil Identification,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
 MOZ,Sistema de Identidade Civil Electrónica,Sistema Electrónico de Identificação Civil,other,,"Direcção Nacional de Identificação Civil, Ministério do Interior",,2023-03-01-dnic-civil-identification-system
 MOZ,Bilhete de Identidade,"Bilhete de Identidade (biometric identity card, Decree 11/2008 of 29 April)",other,,Council of Ministers,,2022-03-16-moz-parlamento-ar-aprova-lei-identificacao-civil
 MRT,Registre National Biométrique des Populations,Registre National Biométrique des Populations,other,,structure named in article 6 of the 2011 Civil Status Code,Centres d'Accueil des Citoyens,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques
@@ -174,17 +174,17 @@ MWI,National ID (National Registration Bureau),National ID,other,,National Regis
 MWI,Digital national ID cards (mobile-accessible),digital national identity cards,other,,National Registration Bureau,,2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa
 NAM,Electronic identity (E-ID) card and national identity management system,E-ID,other,,"Ministry of Home Affairs, Immigration, Safety and Security",national,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,"National Civil Register (Birth, Marriage, Death and Identity Registers)",Civil Register,other,,Registrar-General,national,"2024-12-30 Civil Registration and Identification Act, 2024"
-NER,Registre National de la Population (RNP),RNP,,,DGATDD / ANEI,"national; first phase in Niamey, then other regions",2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,,2026-08-29-niger-agadez-reformes-etat-civil-identification
-NER,Registre National de la Population (RNP),RNP,,,ANEI,national; deconcentrated actors to run registration operations,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Agence Nationale de l'Enregistrement et d'Identification des personnes physiques,ANEI,,,Ministry of the Interior,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,WURI-Niger (OURI in this text),projet OURI,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
-NER,Registre National de la Population (RNP),RNP,,,ANEI,national; to be interoperable with functional registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,Registre National d'Etat Civil (RNEC),RNEC,,,"Direction Générale de l'état civil, des migrations et des réfugiés",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
-NER,WURI-Niger,WURI-Niger,,,World Bank-financed,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National de la Population (RNP),RNP,other,,DGATDD / ANEI,"national; first phase in Niamey, then other regions",2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,other,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,other,,Government of Niger,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,ANEI,national; deconcentrated actors to run registration operations,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,other,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et d'Identification des personnes physiques,ANEI,other,,Ministry of the Interior,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,WURI-Niger (OURI in this text),projet OURI,other,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,ANEI,national; to be interoperable with functional registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),RNEC,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,other,,Government of Niger,public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,WURI-Niger,WURI-Niger,other,,World Bank-financed,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National de la Population (RNP),Registre National de la Population,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
 NER,Carte Nationale d'Identité Biométrique (CNIB),Carte Nationale d'Identité Biométrique,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
 NER,WURI,projet WURI,other,,,,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
@@ -213,23 +213,23 @@ NGA,National Identity Management Commission Act 2026,NIMC Act 2026,law,,National
 NGA,National Identification Number,NIN,other,,National Identity Management Commission,Nigeria Immigration Service passports; insurers; financial institutions; public agencies,2026-07-22-thisday-shettima-digital-transformation-nimc-act-2026
 NGA,National Identity Management Commission Act 2026,NIMC Act 2026,law,,National Identity Management Commission,,2026-08-24-nimc-act-2026-id4d-acoe-roundtable
 NGA,Nigeria Digital Identification for Development Project,Nigeria Digital ID4D Project,other,,"Project Implementation Unit, World Bank supported",,2026-08-24-nimc-act-2026-id4d-acoe-roundtable
-NGA,National Identification Number (NIN) system,NIN,,,NIMC,,2026-08-13-nigeria-s-identity-law-raises-questions-over-who-regulates-digital-signatures
+NGA,National Identification Number (NIN) system,NIN,other,,NIMC,,2026-08-13-nigeria-s-identity-law-raises-questions-over-who-regulates-digital-signatures
 NGA,National Public Key Infrastructure (Root Certification Authority),National PKI,other,,NIMC,,2026-08-13-nigeria-s-identity-law-raises-questions-over-who-regulates-digital-signatures
-NGA,National Identification Number (NIN) system,NIN,,,NIMC,,2026-07-21-nigeria-nimc-new-duties-digital-ecosystem
+NGA,National Identification Number (NIN) system,NIN,other,,NIMC,,2026-07-21-nigeria-nimc-new-duties-digital-ecosystem
 NGA,National Public Key Infrastructure (Root Certification Authority),National PKI,other,,NIMC,,2026-07-21-nigeria-nimc-new-duties-digital-ecosystem
-NGA,National Identification Number (NIN) system,NIN,,,NIMC,,2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M
-NGA,National Identification Number (NIN) system,NIN,,,NIMC,,2026-06-26-state-house-tinubu-signs-nimc-act-2026
-NGA,National Identification Number (NIN) system,NIN,,,NIMC,,2026-06-26-tinubu-signs-nimc-act-2026-cybersecurity
+NGA,National Identification Number (NIN) system,NIN,other,,NIMC,,2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M
+NGA,National Identification Number (NIN) system,NIN,other,,NIMC,,2026-06-26-state-house-tinubu-signs-nimc-act-2026
+NGA,National Identification Number (NIN) system,NIN,other,,NIMC,,2026-06-26-tinubu-signs-nimc-act-2026-cybersecurity
 NGA,National Identity Database (NIDB),National Identity Database,other,,National Identity Management Commission,,2026-09-23-nga-ncw-nimc-ninauth-consent-verification
 NGA,NINAuth,NIN Authentication (NINAuth),other,,National Identity Management Commission,"banks, telecoms, immigration, tax bodies",2026-09-23-nga-ncw-nimc-ninauth-consent-verification
 NGA,NINAuth,NINAuth,other,,National Identity Management Commission,,2026-09-18-nga-blueprint-digital-id-akume
 NGA,National Identification Number (NIN) system,NIN,other,,National Identity Management Commission,,2026-08-19-nigeria-nimc-pki-digital-identity
 NGA,National Public Key Infrastructure (NPKI),National Public Key Infrastructure,other,,NIMC as Root Certification Authority,,2026-08-19-nigeria-nimc-pki-digital-identity
 NGA,National Public Key Infrastructure (NPKI),National Public Key Infrastructure,other,,NITDA,,2026-07-23-nimc-nitda-collaborate-digital-identity-agenda
-NGA,NIMC digital identity infrastructure,NIMC digital identity infrastructure,,,National Identity Management Commission (NIMC),Ministry of Solid Minerals Development (planned),2026-07-20-thisday-alake-nimc-digital-identity-illegal-mining
-NGA,NIMC digital identity infrastructure,digital identity,,,National Identity Management Commission (NIMC),"Federal Ministry of Health and Social Welfare, primary healthcare centres, National Health Insurance programme (planned)",2026-07-19-fg-digital-id-healthcare-uhc-2030
-NGA,National Identity Database,National Identity Database; National Identification Number (NIN),,,National Identity Management Commission (NIMC),"Ministries of Information, Humanitarian Affairs and Industry, Trade and Investment; National Orientation Agency (partners)",2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership
-NGA,National Identification Number (NIN),NIN,,,National Identity Management Commission (NIMC),,2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework
+NGA,NIMC digital identity infrastructure,NIMC digital identity infrastructure,other,,National Identity Management Commission (NIMC),Ministry of Solid Minerals Development (planned),2026-07-20-thisday-alake-nimc-digital-identity-illegal-mining
+NGA,NIMC digital identity infrastructure,digital identity,other,,National Identity Management Commission (NIMC),"Federal Ministry of Health and Social Welfare, primary healthcare centres, National Health Insurance programme (planned)",2026-07-19-fg-digital-id-healthcare-uhc-2030
+NGA,National Identity Database,National Identity Database; National Identification Number (NIN),other,,National Identity Management Commission (NIMC),"Ministries of Information, Humanitarian Affairs and Industry, Trade and Investment; National Orientation Agency (partners)",2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership
+NGA,National Identification Number (NIN),NIN,other,,National Identity Management Commission (NIMC),,2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework
 NGA,"National Identity Management Commission (Establishment) Act, 2026",NIMC Act 2026,law,,National Identity Management Commission,national,2026-08-11-nigeria-nimc-act-2026-legal-analysis
 NGA,National Identity Database,National Identity Database,other,,National Identity Management Commission,national,2026-08-11-nigeria-nimc-act-2026-legal-analysis
 NGA,National Public Key Infrastructure,National Public Key Infrastructure,other,,National Identity Management Commission,national,2026-08-11-nigeria-nimc-act-2026-legal-analysis
@@ -259,7 +259,7 @@ SSD,Nationality Act 2011,"The Nationality Act, 2011",other,,Directorate of Natio
 SSD,National Identity Card (NIC) and Personal Identification Number (PIN),National Identity Card,other,,DCRNPI,"national; the card is the intended primary proof of identity, but most people do not obtain it",2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
 SSD,Nationality Certificate (NC),Nationality Certificate,other,,,national; prerequisite for the NIC,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
 SSD,Civil Registry,Civil Registry,other,,DCRNPI,the document says it is not yet operational,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
-STP,Centro de Identificação Civil e Criminal (CICC),Centro de Identificação Civil e Criminal,,,"Direcção Geral dos Registos e do Notariado (DGRN), Ministério da Justiça",national,2026-01-01-sao-tome-dgrn-centro-de-identificacao-civil-e-criminal
+STP,Centro de Identificação Civil e Criminal (CICC),Centro de Identificação Civil e Criminal,other,,"Direcção Geral dos Registos e do Notariado (DGRN), Ministério da Justiça",national,2026-01-01-sao-tome-dgrn-centro-de-identificacao-civil-e-criminal
 STP,"Digital Identity (new foundational identity, bilhete de identidade, with Verifiable Credentials Infrastructure)",Identidade Digital / bilhete de identidade,other,Verifiable Credentials Infrastructure and DEX interoperability platform built by system integrator Ooru,"INIC and DGRN, under the World Bank STP Digital project (P177158)",planned mass population registration January/February 2026,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
 SWZ,"Electronic IDs (planned, Government in Your Hand)",Electronic IDs,other,,Ministry of ICT,,2026-06-24-ict-trains-change-agents-e1-2bn-digitization
 SWZ,National population register,national population register,other,,,,"2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank"
@@ -275,7 +275,7 @@ TCD,Integrated Population and Secure Documents Management System (SIGPTS),SIGPTS
 TCD,National Biometric Population Register,National Biometric Population Register,other,Idemia,ANATS,national,2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr
 TCD,registre national biométrique,registre national biométrique,other,,Agence nationale des titres sécurisés (ANATS),national,2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants
 TCD,TASDJIL,TASDJIL,other,"SMS-based, solar-powered, needs no internet connection",ANATS,,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil
-TCD,ANATS,Agence Nationale des Titres Sécurisés,,,Ministry in charge of security,,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil
+TCD,ANATS,Agence Nationale des Titres Sécurisés,other,,Ministry in charge of security,,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil
 TCD,SIGPTS,Système intégré de gestion des populations et des titres sécurisés,other,,ANATS,national; refugee pilot at N'Djamena and Abéché,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
 TCD,RNBP,Registre national biométrique des populations,other,,ANATS,,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
 TCD,TASDJIL,Tasdjil,other,application built with UNICEF and Technidev,ANATS,health-centre one-stop counters,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
@@ -293,10 +293,10 @@ TUN,Biometric national identity card,Biometric Identity Card,other,,Ministry of 
 TUN,Biometric national identity card,Biometric ID card,other,,Ministry of Interior,,2024-04-23 Tunisia to Get Biometric IDs in H1 of 2025
 TUN,National identity card with electronic chip,Carte nationale d'identité,other,,Ministry of Interior (specialised services); Directorate General of National Security,"police, national guard, customs",2024-03-11-loi-organique-2024-22-carte-identite-nationale
 TUN,Biometric national identity card,Biometric ID,other,,Ministry of Interior,,2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights
-TZA,NIDA,National Identification Authority,,,Ministry of Home Affairs,,2026-01-07-nida-mulls-child-registration
-TZA,NIDA,National Identification Authority,,,,,2026-01-06-tanzania-legislative-framework-infant-id-registration
-TZA,eRITA,eRITA,,,"Registration, Insolvency and Trusteeship Agency (RITA)",,2026-01-06-tanzania-legislative-framework-infant-id-registration
-TZA,NIDA,National Identification Authority,,,Ministry of Home Affairs,,2026-01-04 Tanzania rolls out infant registration for stronger citizen ID
+TZA,NIDA,National Identification Authority,other,,Ministry of Home Affairs,,2026-01-07-nida-mulls-child-registration
+TZA,NIDA,National Identification Authority,other,,,,2026-01-06-tanzania-legislative-framework-infant-id-registration
+TZA,eRITA,eRITA,other,,"Registration, Insolvency and Trusteeship Agency (RITA)",,2026-01-06-tanzania-legislative-framework-infant-id-registration
+TZA,NIDA,National Identification Authority,other,,Ministry of Home Affairs,,2026-01-04 Tanzania rolls out infant registration for stronger citizen ID
 UGA,National identification card,National identification card,other,,National Identification and Registration Authority (the Authority),,2024-08-12-uganda-si-67-2024-registration-of-persons-amendment-regulations
 UGA,National Identification Register,National Identification Register,other,,National Identification and Registration Authority (NIRA),,2015-03-26-registration-of-persons-act-2015
 UGA,National identification number,National identification number (NIN),other,,National Identification and Registration Authority (NIRA),,2015-03-26-registration-of-persons-act-2015

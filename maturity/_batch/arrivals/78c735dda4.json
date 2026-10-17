@@ -1,0 +1,184 @@
+{
+ "slug": "2026-10-16-liberianobserver-house-reviews-national-digital-id-overhaul",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Liberian Observer reports a proposed NIDCRVS concession with OeSD International GmbH, referred to a House joint committee on 2026-10-13, would integrate national identification with civil registration in one digital platform.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "NIDCRVS",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDCRVS",
+       "country_label": "National Identification Central Digital Civil Registration and Vital Statistics System",
+       "class": "other",
+       "platform": "",
+       "owner": "OeSD International GmbH (BOT concession)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Liberian Observer reports a proposed concession agreement between Liberia's government and OeSD International GmbH for a digital civil registration system recording births, deaths and marriages, referred to a joint committee and not yet ratified.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "NIDCRVS",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDCRVS",
+       "country_label": "National Identification Central Digital Civil Registration and Vital Statistics System",
+       "class": "other",
+       "platform": "",
+       "owner": "OeSD International GmbH (BOT concession)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "The Liberian Observer reports the proposed Build-Operate-Transfer concession has OeSD International GmbH operate and maintain the system before transferring it to the Liberian government, with training and expertise transfer to be examined by a joint committee.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "NIDCRVS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDCRVS",
+       "country_label": "National Identification Central Digital Civil Registration and Vital Statistics System",
+       "class": "other",
+       "platform": "",
+       "owner": "OeSD International GmbH (BOT concession)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Liberian Observer reports a proposed concession agreement with OeSD International GmbH for a biometric national ID system issuing unique numbers and digital cards, referred to a House joint committee on 2026-10-13 and not yet ratified.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "NIDCRVS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDCRVS",
+       "country_label": "National Identification Central Digital Civil Registration and Vital Statistics System",
+       "class": "other",
+       "platform": "",
+       "owner": "OeSD International GmbH (BOT concession)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  }
+ }
+}

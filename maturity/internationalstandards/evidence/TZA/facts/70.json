@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-14-tza-tbs-draft-standards-stakeholder-comments",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The Tanzania Bureau of Standards letterhead describes it as a member of the International Standardization (ISO), and an agent for ISO.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Tanzania Bureau of Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Bureau of Standards",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Investment, Industry and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft adoptions of ISO/IEC 23894, 27032, 27035, 27036 and 27043 are out for comment and do not count as adopted."
+}

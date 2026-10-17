@@ -1,6 +1,22 @@
 {
   "iso3": "COG",
   "cells": [
-    {"sub_indicator": "national", "stage": "2", "governance": "body:mandated", "standing": "adopted", "text": "", "period": "to:2025", "plan": "none", "reporting": "none", "last12": "", "cap": "", "flags": "lapsed", "stage_sources": "COG-007;COG-011;COG-014;COG-019;COG-003;COG-016;COG-017", "gaps": "No row for a public text of Vision Congo Digital 2025; no action plan or monitoring shown, and no domestic budget line for it. The successor, Stratégie numérique 2030, is validated at ministry level but not adopted by decree; its finance is donor (World Bank) only.", "note": "Instrument: Vision Congo Digital 2025, adopted by decree 2019-150, period ended 2025, with the successor Stratégie numérique 2030 in preparation. A lapsed strategy with a successor in preparation is stage 2."}
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "body:mandated;finance:donor",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2025",
+      "plan": "none",
+      "reporting": "none",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed",
+      "stage_sources": "COG-007;COG-011;COG-014;COG-019;COG-051;COG-003;COG-016;COG-017",
+      "gaps": "No row for a public text of Vision Congo Digital 2025; no action plan or monitoring shown, and no domestic budget line for it. The successor, Stratégie numérique 2030, is validated at ministry level but not adopted by decree (a January 2026 seminar speaks of still defining the strategy); its finance is donor (World Bank) only.",
+      "note": "Instrument: Vision Congo Digital 2025, adopted by decree 2019-150, period ended 2025, with the successor Stratégie numérique 2030 in preparation. A lapsed strategy with a successor in preparation is stage 2.",
+      "as_at": "2026-10-17"
+    }
   ]
 }

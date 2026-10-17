@@ -1,0 +1,32 @@
+{
+ "slug": "2024-06-01-gmb-mops-pensions-software",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Plus Code in the ministry's site header; no statement about a national addressing system."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Pensions software built by a local consultant (deputy Accountant General) and team and only validated in a workshop; not stated as live or as government staff running it."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Internal validation workshop on pensions software; not a digital law or policy and no outside participants named."
+    }
+   }
+  }
+ }
+}

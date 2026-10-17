@@ -1,5 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Senegal;Nigeria;Benin;Togo;Ghana,shared,terrestrial fibre,Phase3 Telecom and Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Djoliba,Djoliba network,shared,terrestrial fibre,Phase3 Telecom,,2025-05-09-techafricanews-phase3-sonatel-fibre
-SEN,Ikasira,Ikasira,,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
+SEN,Ikasira,Ikasira,other,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,interconnexion des backbones du Senegal et du Mali (Kidira-Diboli),Interconnexion des reseaux dorsaux en fibre optique,shared,fibre optic,Senegal Numerique SA (SENUM SA) and Societe malienne de transmission et de diffusion (SMTD-SA),national backbone operators of Senegal and Mali,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira

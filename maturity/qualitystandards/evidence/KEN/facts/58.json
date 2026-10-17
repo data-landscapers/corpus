@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-ken-iso-kebs-member-page",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The Kenya Bureau of Standards was established by the Standards Act, Chapter 496, and started operations in July 1974, per ISO's member page.",
+   "as_of": "1974-07",
+   "date_precision": "month",
+   "system": "KEBS",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

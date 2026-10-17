@@ -1,0 +1,45 @@
+{
+ "slug": "2026-10-16-nam-iso-nsi-member",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Namibian Standards Institution as a member body, participating on 21 technical committees; no IT committee is named.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "NSI",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO's member page says the NSI is established by section 2 of the Standards Act, 2005 as Namibia's national standards body.",
+       "as_of": "2005",
+       "date_precision": "year",
+       "system": "NSI",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

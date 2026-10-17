@@ -1,0 +1,117 @@
+{
+ "slug": "2024-09-10-zaf-treasury-pq792-ifms-status-reply",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "National Treasury's reply of 10 September 2024 refers to the 'National Policy on Data and Cloud (2024)' and says Treasury considered its implications and plans to convert its 2016 IFMS licences to cloud-based.",
+       "as_of": "2024-09-10",
+       "date_precision": "day",
+       "system": "National Policy on Data and Cloud (2024)",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Integrated Financial Management System (IFMS)",
+       "country_label": "ZAF",
+       "class": "other",
+       "platform": "COTS solution procured 2016",
+       "owner": "National Treasury and SITA",
+       "tiers": ""
+      }
+     ],
+     "note": "IFMS is a replacement project still being developed, not stated as in use."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "National Treasury's reply of 10 September 2024 refers to the 'National Policy on Data and Cloud (2024)' and says Treasury considered its implications and plans to convert its 2016 IFMS licences to cloud-based.",
+       "as_of": "2024-09-10",
+       "date_precision": "day",
+       "system": "National Policy on Data and Cloud (2024)",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this."
+    }
+   }
+  }
+ }
+}

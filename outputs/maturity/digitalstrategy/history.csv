@@ -3,3 +3,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,GAB,gov.policy--digital-transformation-strategy-national-strategy,review,unplaced,2,GAB-063,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,TUN,gov.policy--digital-transformation-strategy-national-strategy,review,unplaced,unplaced,TUN-003;TUN-001;TUN-004;TUN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,LSO,gov.policy--digital-transformation-strategy-national-strategy,review,3,3,LSO-003;LSO-013;LSO-012;LSO-011,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,BWA,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,BWA-013;BWA-004;BWA-010,Arrivals added BWA-047; restaged by hand: stage unchanged.
+2026-10-17,CAF,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,CAF-004;CAF-005,Arrivals added CAF-030; restaged by hand: stage unchanged.
+2026-10-17,COD,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,COD-034;COD-035;COD-036;COD-007;COD-009,Arrivals added COD-057; restaged by hand: stage unchanged.
+2026-10-17,COG,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,COG-007;COG-011;COG-014;COG-019;COG-051;COG-003;COG-016;COG-017,Arrivals added COG-051; restaged by hand: stage unchanged.
+2026-10-17,DZA,gov.policy--digital-transformation-strategy-national-strategy,fact,3,3,DZA-005;DZA-010;DZA-046;DZA-052;DZA-053,"Arrivals added DZA-061, DZA-062, DZA-063, DZA-064, DZA-065, DZA-066; restaged by hand: stage unchanged."
+2026-10-17,ETH,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,ETH-013;ETH-010,"Arrivals added ETH-021, ETH-022; restaged by hand: stage unchanged."
+2026-10-17,LBY,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,LBY-004;LBY-008;LBY-001,Arrivals added LBY-022; restaged by hand: stage unchanged.
+2026-10-17,LSO,gov.policy--digital-transformation-strategy-national-strategy,fact,3,3,LSO-003;LSO-013;LSO-012;LSO-041,"Arrivals added LSO-041, LSO-042; restaged by hand: stage unchanged."
+2026-10-17,MDG,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,MDG-003;MDG-032,Arrivals added MDG-032; restaged by hand: stage unchanged.
+2026-10-17,SOM,gov.policy--digital-transformation-strategy-national-strategy,fact,2,2,SOM-002;SOM-004;SOM-006,Arrivals added SOM-010; restaged by hand: stage unchanged.

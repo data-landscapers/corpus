@@ -1,0 +1,27 @@
+{
+ "slug": "2024-02-01-rwa-ncsa-standard-contractual-clauses-transfer",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The document names the National Cyber Security Authority (NCSA) as the Supervisory Authority under Rwanda's Law No 058/2021 and has it receive breach reports and settle disputes under that law.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National Cyber Security Authority",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "NCSA's Data Protection and Privacy Office published template standard contractual clauses for transfers abroad under Article 49 of Law No 058/2021, which also set 72-hour breach reporting to the authority.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National Cyber Security Authority",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

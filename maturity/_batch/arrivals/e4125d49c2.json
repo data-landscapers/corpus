@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-14-mwi-ogp-action-plan-review-2026-2029",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The OGP Independent Reporting Mechanism says Malawi's 2026-2029 open government action plan, which has a digital governance theme, drew on input from 45 civil society organisations and a final validation meeting at which some CSOs gave input, though the draft was not shared in advance.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Malawi Action Plan 2026-2029",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

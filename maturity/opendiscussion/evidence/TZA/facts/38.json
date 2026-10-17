@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-02-eth-amnesty-east-southern-africa-media-freedom",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Amnesty International says Tanzania's authorities imposed a partial internet shutdown during the October 2025 general elections.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Amnesty International says the Tanzania Communications Regulatory Authority imposed a 90-day ban on JamiiForums in September 2025, alleging it published misleading and defamatory content about the government.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

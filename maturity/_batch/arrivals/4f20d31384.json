@@ -1,0 +1,45 @@
+{
+ "slug": "2025-03-26-zmb-tiz-joint-cso-statement-cyber-bills",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "Eleven Zambian civil society organisations, including Transparency International Zambia and MISA, said in a joint statement that the Cyber Security and Cyber Crimes Bills still need substantial safeguards against abuse and overreach.",
+       "as_of": "2025-03-26",
+       "date_precision": "day",
+       "system": "Cyber Security Bill and Cyber Crimes Bill",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The civil society signatories say the government deferred the Cyber Bills and created a platform for dialogue with civil society groups, at which they made submissions, though many recommendations were rejected.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Cyber Security Bill and Cyber Crimes Bill",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

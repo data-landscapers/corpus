@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-11-osiris-sen-marches-publics-ia-generative",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that no Senegalese text governs AI in public procurement; nothing on a national AI strategy."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no authority, appointment or ruling."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Consultant Boubacar Diallo says Law No. 2008-12 of 25 January 2008 on personal data remains the foundation for data in Senegal, though outdated.",
+       "as_of": "2026-10-11",
+       "date_precision": "day",
+       "system": "Loi n\u00b0 2008-12 du 25 janvier 2008",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

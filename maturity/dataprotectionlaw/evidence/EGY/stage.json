@@ -1,6 +1,20 @@
 {
   "iso3": "EGY",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "issued", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "EGY-013;EGY-002;EGY-008;EGY-006;EGY-011", "gaps": "No named sanction, decision or published count of settled cases is reported under the law; EGY-006 reports guidance and templates only. EGY-001 and EGY-003/004/005 are dated October 2026, after the as-at, and set nothing; EGY-009 (transition, Feb 2026) is a weaker standing than EGY-013's in-force and is not the country's.", "note": "Standing is in-force and regulations are issued, but application is activity (guidelines, no decision), so stage 4 is not met. Authority is constituted (acting head, Nov 2025), so no cap applies."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "EGY-015;EGY-013;EGY-002;EGY-008;EGY-003;EGY-004;EGY-006;EGY-005;EGY-011",
+      "gaps": "No named sanction, decision or published count of settled cases is reported under the law; EGY-004 and EGY-006 report guidelines, frameworks and templates only. Sources describe a compliance grace period to 31 October or 1 November 2026 (EGY-001, EGY-009, EGY-014, EGY-015); EGY-015 dates the law's entry into force to October 2020, so standing is read as in force with the grace period noted.",
+      "note": "Standing is in-force and regulations are issued, but application is activity (guidelines and a licensing portal, no decision), so stage 4 is not met. Authority is constituted (acting head Nov 2025, portal live Oct 2026), so no cap applies.",
+      "as_at": "2026-10-17"
+    }
   ]
 }

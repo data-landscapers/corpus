@@ -1,0 +1,22 @@
+{"slug":"2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor","studies":{
+"dataprotectionauthority":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"POTRAZ, the telecoms regulator, is the regulator the parliamentary committee took data protection concerns to and it trains data protection officers, per a panellist at a MAZ-IMS dialogue.","as_of":"2026-10-15","date_precision":"day","system":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","class":"authority"}],
+"systems":[{"system":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","country_label":"Zimbabwe","class":"authority","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"dataprotectionlaw":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Zimbabwe's Cyber and Data Protection Act, introduced about two years ago, is described by panellists as in use, with four journalists reportedly arrested in 2026 on cyberbullying charges.","as_of":"2026-10-15","date_precision":"day","system":"Cyber and Data Protection Act","class":"general"},
+{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"POTRAZ acts as the regulator under the Act, training data protection officers and receiving the parliamentary committee's concerns.","as_of":"2026-10-15","date_precision":"day","system":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","class":"authority"}],
+"systems":[{"system":"Cyber and Data Protection Act","country_label":"Zimbabwe","class":"general","platform":"","owner":"Parliament of Zimbabwe","tiers":""}],"note":""}}},
+"dataprotectionreadiness":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"system","aspect":"law","value":"in-force","fact":"The Cyber and Data Protection Act is reported as being applied against journalists, with 2024 data protection guidelines being aligned to it.","as_of":"2026-10-15","date_precision":"day","system":"Cyber and Data Protection Act","class":"system"},
+{"sub_indicator":"system","aspect":"treaty","value":"none","fact":"The parliamentary committee's member says the Malabo Convention is still 'in the pipeline' and the minister told Parliament it will come for ratification, with no date.","as_of":"2026-10-15","date_precision":"day","system":"Malabo Convention","class":"system"},
+{"sub_indicator":"system","aspect":"authority","value":"appointed","fact":"POTRAZ is the existing regulator doing the data protection job, including training data protection officers.","as_of":"2026-10-15","date_precision":"day","system":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","class":"system"},
+{"sub_indicator":"system","aspect":"practice","value":"implementing","fact":"Data protection officers must register and POTRAZ trains them, and POTRAZ held an October 2025 workshop with the committee to align its 2024 data protection guidelines with the Act.","as_of":"2025-10","date_precision":"month","system":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","class":"system"}],
+"systems":[],"note":""}}},
+"opendatapolicy":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only a parliamentary committee motion for an open data policy is mentioned; no drafting reported."}}},
+"opendatause":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No published data or portal is stated."}}},
+"opendiscussion":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"discussion","aspect":"debate","value":"criticised","fact":"The Media Alliance of Zimbabwe, with International Media Support, held a dialogue criticising the Cyber and Data Protection Act as being used to silence journalists.","as_of":"2026-10-15","date_precision":"day","system":"Media Alliance of Zimbabwe","class":"discussion"},
+{"sub_indicator":"discussion","aspect":"penalty","value":"punished","fact":"MAZ's coordinator says four journalists were reportedly arrested in 2026 on cyberbullying charges over stories they wrote.","as_of":"2026","date_precision":"year","system":"Cyber and Data Protection Act","class":"discussion"}],
+"systems":[],"note":""}}},
+"regionallaw":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Malabo is said only to be unratified and in the pipeline; signature is not stated."}}}
+}}

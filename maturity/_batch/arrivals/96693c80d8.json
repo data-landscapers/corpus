@@ -1,0 +1,150 @@
+{
+ "slug": "2026-08-30-som-dawan-payroll-linked-national-id-2027",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government Payroll System",
+       "country_label": "Government Payroll System",
+       "class": "other",
+       "platform": "",
+       "owner": "Office of the Accountant General",
+       "tiers": ""
+      }
+     ],
+     "note": "Payroll system is named but the document does not state it is in use across central government."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Office of the Accountant General directed federal ministries and agencies to integrate the Government Payroll System with the National Identification System run by NIRA, with a pilot in five institutions from 1 October 2026 and full implementation targeted for 31 December 2027.",
+       "as_of": "2026-08-30",
+       "date_precision": "day",
+       "system": "Government Payroll System",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Payroll System",
+       "country_label": "Government Payroll System",
+       "class": "other",
+       "platform": "",
+       "owner": "Office of the Accountant General",
+       "tiers": ""
+      },
+      {
+       "system": "National Identification System",
+       "country_label": "National Identification System (NIRA)",
+       "class": "other",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

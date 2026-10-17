@@ -1,0 +1,11 @@
+{"slug": "2026-08-21-tun-lapresse-vie-scolaire-inscription", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Fatma Nouiri of the CNTE said on 21 August 2026 that Vie scolaire parent accounts are created from the national identity card number and date of birth, checked automatically against the Centre national de l'informatique database, and parents with an activated digital identity enter the platform directly.", "as_of": "2026-08-21", "date_precision": "day", "system": "Vie scolaire", "class": "authentication"}], "systems": [{"system": "Vie scolaire", "country_label": "Vie scolaire", "class": "other", "platform": "", "owner": "Centre national des technologies de l'education", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The pupil unique identifier is a school identifier, not a number given at birth registration."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document does not say who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A school platform checking parents against the CNI database is not a public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document says nothing on the ID system's issuing, biometrics or certification."}}},
+"itcapacity": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Says the platform was developed 100% in Tunisia under the CNTE, but not whether government staff or a contractor built it."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No figure for secondary schools with internet and no statement on a compulsory digital curriculum."}}}
+}}

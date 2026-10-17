@@ -1,0 +1,55 @@
+{
+ "slug": "2026-10-12-gha-ghanaweb-dpc-online-fraud-ghs10m-h1-2026",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Executive Director Dr Arnold Kavaarpuo spoke for the Data Protection Commission, which he said had intensified compliance monitoring and enforcement and designated 2026 its year of enforcement.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": "No named ruling or figures stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Dr Kavaarpuo said the Data Protection Act, 2012 (Act 843) sets duties for organisations and the Commission is ensuring compliance with it.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, briefed the press on its enforcement of Act 843.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

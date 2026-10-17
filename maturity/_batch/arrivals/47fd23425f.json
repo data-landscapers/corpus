@@ -1,0 +1,10 @@
+{"slug": "2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv", "studies": {
+"cybersecurity": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mentions only Galaxy Backbone's own security operations centre, not a national body."}}},
+"datacentres": {"countries": {"NGA": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "two", "fact": "Galaxy Backbone says its Kano data centre holds Uptime Institute Tier IV Certification of Constructed Facility, alongside its existing Uptime-certified Tier III data centre in Abuja, and encourages organisations to host and collocate with it.", "as_of": "2024-06-28", "date_precision": "day", "system": "Galaxy Backbone data centres (Kano, Abuja)", "class": "datacentre"}], "systems": [{"system": "Galaxy Backbone Kano data centre", "country_label": "Galaxy Backbone Kano data centre", "class": "datacentre", "platform": "", "owner": "Galaxy Backbone", "tiers": "Tier IV (constructed facility)"}, {"system": "Galaxy Backbone Abuja data centre", "country_label": "Galaxy Backbone Abuja data centre", "class": "datacentre", "platform": "", "owner": "Galaxy Backbone", "tiers": "Tier III"}], "note": ""}}},
+"digitalsovereignty": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a general reference to data sovereignty; no state data rule, hosting or contract terms stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on national ID."}}},
+"itcapacity": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Does not state that government staff run systems or that Galaxy Backbone serves ministries."}}},
+"nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not state Galaxy Backbone's ownership or that state data is hosted there."}}},
+"offsitebackup": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No backup or disaster-recovery site for a public body is stated."}}},
+"satellitebroadband": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a headline in the page's trending list; the document states nothing on satellite licensing or sale."}}}
+}}

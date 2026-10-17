@@ -1,0 +1,32 @@
+{
+ "slug": "2026-05-21-gnb-maisafrika-lei-integridade-digital",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The Digital Integrity Law is a law against false online content, not a data protection law."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law, authority or ratification is stated; Malabo ratification is only an aim."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Authorities only say they want to ratify the Malabo and Budapest conventions; no signature or ratification is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-egy-iso-member-eos",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO states a 1979 Presidential Decree reorganised EOS as the only official authority for standardization, quality control and metrology, elaborating national standards.",
+   "as_of": "1979",
+   "date_precision": "year",
+   "system": "EOS",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": "Certification schemes named cover products, not standards on information technology or data."
+}

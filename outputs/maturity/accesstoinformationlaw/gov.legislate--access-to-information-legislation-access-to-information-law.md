@@ -22,8 +22,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 11 |
-| 3 Established | 12 |
-| 2 Nascent | 14 |
+| 3 Established | 13 |
+| 2 Nascent | 13 |
 | 1 Absent | 5 |
 | Unplaced | 1 |
 | No evidence | 3 |
@@ -70,7 +70,7 @@ Nigeria's 2011 Freedom of Information Act is in force and the Federal High Court
 
 ### South Africa: 5 Leading
 
-South Africa's 2000 access to information law is enforced by the Information Regulator, which ordered a mining company to disclose records in May 2026.
+The Information Regulator enforced the 2000 access law in May 2026, ordering a mining firm to disclose records; request volumes are not known.
 
 - The Information Regulator issued an enforcement notice on 22 May 2026 under section 77J(1)(a) of PAIA directing Sibanye-Stillwater to grant a complainant access to compliance reports, after a complaint lodged on 15 September 2023 and an investigation report ([source, 2026-05-22](https://www.mondaq.com/southafrica/contracts-and-commercial-law/1797238/landmark-ruling-for-private-bodies-under-paia-information-regulators-enforcement-notice-against-mining-house)).
 - ITWeb reports that the Information Regulator, headed by chairperson Pansy Tlakula, is set up and holds the oversight mandate for the Promotion of Access to Information Act, and held a media briefing at its new headquarters in Woodmead on 31 August 2026 ([source, 2026-08-31](https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye)).
@@ -106,7 +106,7 @@ The Gambia's 2021 Access to Information Act is in force and its Information Comm
 
 - The Information Commission, with Deputy Chairperson John Charles Njie, is in operation and implements the Access to Information Act; dated to publication ([source, 2026-09-25](https://thepoint.gm/africa/gambia/national-news/information-commission-trains-csos-on-access-to-information-data-protection)).
 - UNFPA tenders a communication strategy for the Information Commission of The Gambia, which exists as the Act's oversight body; dated to publication ([source, 2026-08-17](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia)).
-- The Commission's Deputy Chairperson says it implements the Access to Information Act, which is in force; dated to publication ([source, 2026-09-25](https://thepoint.gm/africa/gambia/national-news/information-commission-trains-csos-on-access-to-information-data-protection)).
+- The Gambia Immigration Department, in a press release reported by Gambiana, reaffirmed its commitment to the Access to Information Act, 2021 ([source, 2026-10-13](https://gambiana.com/gid-denies-losing-access-to-national-id-card-data/)).
 
 ### Liberia: 4 Operating
 
@@ -139,11 +139,11 @@ Seychelles' 2018 Access to Information Act is in force with a commission that sa
 
 ### Sierra Leone: 4 Operating
 
-Sierra Leone's 2013 Right to Access Information Act is in force with a working commission; a bill to replace it went to Cabinet in 2026.
+Sierra Leone's 2013 access act is in force with a working commission and a publication-scheme rule; a replacement bill went to Cabinet in 2026.
 
 - The Right to Access Information Commission presented its 6th annual report, submitted under Section 41 of the RAIC Act, to the Minister of Information and Civic Education on 17 November 2025, showing the body in operation ([source, 2025-11-17](https://moice.gov.sl/raic-presents-6th-annual-report-to-minister-chernor-bah-highlighting-significant-progress-in-access-to-information/)).
 - The page, dated 18 January 2017, describes the Right to Access Information Commission as in operation, coordinating the open data programme, chairing a 60-member Open Data Council and providing overall management of the open data portal ([source, 2017-01-18](https://raic.gov.sl/index.php/programmes/open-data)).
-- The Right to Access Information Commission's open data page lists the Right to Access Information Act 2013 among its documents, and its sibling policy document quotes the Act as giving every person the right to access information held by a public authority ([source, 2013](https://raic.gov.sl/index.php/programmes/open-data)).
+- Statistics Sierra Leone says the Right to Access Information Commission (RAIC) Act 2013 requires all public authorities to make information available to the public through a publication scheme submitted to the commission for approval by 1 March 2019 ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
 
 ### South Sudan: 4 Operating
 
@@ -178,6 +178,12 @@ Zimbabwe's 2020 Freedom of Information Act is in force with regulations of 2021;
 Angola's 2002 law on access to administrative documents is in force; rules made under it and an oversight body are not known.
 
 - The document is the text of Angola's Law no. 11/02 of 16 August 2002, the Law on Access to Administrative Documents (Lei de Acesso aos Documentos Administrativos), dated by its title to 16 August 2002 ([source, 2002](https://angolex.com/paginas/leis/lei-de-acesso-aos-documentos-administrativos-11a-02a.html)).
+
+### Benin: 3 Established
+
+Benin's 2015 code gives limited access rights with no request procedure; a new law was in draft in December 2022; oversight is not known.
+
+- The assessment says the current Beninese legislation on access to information (Loi n° 2015-07, with articles 84 and 90 limiting access rights) exists but is extremely limited, with no request procedure, no designated contact point and no annual report on requests, and that its implementation is very weak ([source, 2022-12](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
 
 ### Botswana: 3 Established
 
@@ -247,12 +253,6 @@ Sudan's Right to Access Information Law of 2015 is on the books; nothing since 2
 Tanzania's 2016 Access to Information Act has been in force since July 2017; rules made under it are not known.
 
 - The document is the text of Tanzania's Access to Information Act, 2016 (Chapter 149), assented to on 23 September 2016, gazetted on 30 September 2016 and commenced on 1 July 2017 by the Access to Information (Date of Commencement) Notice, 2017; it gives every citizen a right to request information from public bodies and applies to Mainland Tanzania only ([source, 2016](https://tanzlii.org/akn/tz/act/2016/6/eng@2016-09-30)).
-
-### Benin: 2 Nascent
-
-Benin was drafting an access to information law as of December 2022, with no adoption timetable; nothing held says it is in force or applied.
-
-- The World Bank open data readiness assessment says the government, through the BAI presidential reform office, is drafting a new access to information law (an avant-projet with an Open Data section and decree) that has been under discussion in government for nearly two years, with no adoption timetable and no civil society involvement ([source, 2022-12](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
 
 ### Burundi: 2 Nascent
 

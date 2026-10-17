@@ -22,11 +22,11 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 6 |
-| 2 Nascent | 32 |
+| 3 Established | 8 |
+| 2 Nascent | 37 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 14 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -65,6 +65,13 @@ Eswatini designated a national standard on address data in 2025; certification a
 - General Notice No. 79 of 2025, under the Standards and Quality Act, 2023 (Act No. 16 of 2023), designated 19 new Eswatini National Standards, including the National Addressing Standard Part 1 (SZNS ISO 19160-1:2015) and Part 2 (SZNS ISO 19160-2:2022) on address classes and assigning and maintaining addresses; the article names no standards body and gives the publication date as the date ([source, 2025-08-22](https://times.co.sz/25189/business/eswatini-issues-19-new-national-standards-across-key-sectors/)).
 - The Standards and Quality Act (Act 10 of 2003), assented to on 8 November 2001 with commencement to be proclaimed by the Minister, establishes the Eswatini Standards Authority as a body corporate with power to draft, issue, amend and withdraw Eswatini standards ([source, 2001-11-08](https://faolex.fao.org/docs/pdf/swa142025.pdf)).
 
+### Ethiopia: 3 Established
+
+Ethiopia approved mandatory national cybersecurity standards in April 2026; whether anyone can be certified against them is not known.
+
+- The Ethiopian Standards Board officially approved 5 mandatory cybersecurity standards and 31 guidelines and frameworks, drafted by INSA with the Ethiopian Standards Institute, according to INSA ([source, 2026-04-24](https://www.linkedin.com/posts/information-network-security-administration_insa-digitalethiopia2030-cybersecurity-activity-7453356614822277120-hb2m)).
+- ISO states the Institute of Ethiopian Standards is the national standards body, renamed by Proclamation 1263/2021 ([source, 2021](https://www.iso.org/member/1725.html)).
+
 ### Gambia: 3 Established
 
 The Gambia's standards bureau listed an information security standard as a national standard in 2022; certification against it is not known.
@@ -86,6 +93,13 @@ Sudan's standards organisation lists national standards on digital repositories 
 - SSMO's catalogue lists item 16, 'the digital repository', Sudanese Standard 6392:2019, and item 49, an information and documentation standard on open systems interconnection application protocol, Sudanese Standard 1841-2:2016 (ISO 10161-2:2014) ([source, 2019](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005)).
 - SSMO's catalogue lists item 40, an information technology standard on yield of toner cartridges for monochrome printers, Sudanese Standard 4469:2018, equivalent to ISO 19752:2017 ([source, 2018](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005)).
 - The Sudanese Standards and Metrology Organization (SSMO) is reported operating, with a director general and a White Nile State branch that launched electronic fee collection through the Eysali system; the article does not say what law set it up and names no IT or data standard ([source, 2026-09-15](https://alradarnews.net/?p=28749)).
+
+### Tanzania: 3 Established
+
+Tanzania's standards bureau introduced an accessibility standard for ICT products, reported in October 2026; whether anyone can be certified against it is not known.
+
+- TCRA's Director General said the Tanzania Bureau of Standards (TBS) has newly introduced a Tanzania Standard on accessibility of communications and ICT products and services for persons with disabilities; the document gives no standard number or issue date (published 2026-10-09, used as the date) ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
+- The Tanzania Bureau of Standards (TBS) published its list of new and revised compulsory Tanzania Standards as of October 2025, enforceable under the Standards Act, Cap. 130 (R.E. 2023), which shows a national standards body exists in law; the captured entries are on batteries, conductors, fasteners, wire and similar goods and name no standard on information technology, security, software or data, and the document says its list continues beyond the capture (published 2025-10, used as the date) ([source, 2025-10](https://www.tbs.go.tz/uploads/text-editor/files/LIST%20OF%20COMPULSORY%20TANZANIA%20STANDARD_1785231917.pdf)).
 
 ### Angola: 2 Nascent
 
@@ -116,9 +130,16 @@ Burkina Faso's standards agency has had its statutes since 2016; no national sta
 
 ### Burundi: 2 Nascent
 
-Burundi's standards bureau signed a cooperation memorandum with its Congolese counterpart in 2025; no national standard on information technology or data is known.
+Burundi's standards bureau drafts national standards and signed a 2025 cooperation memorandum; no standard on information technology or data is known.
 
+- ISO's member page describes BBN as an incorporated administrative public institution whose aims include preparing draft national standards ([source, 2026-10-16](https://www.iso.org/member/1591.html)).
 - Bankable reports that the Bureau burundais de normalisation et de contrôle de la qualité (BBN) signed a memorandum with the Congolese Office congolais de contrôle in Bujumbura on 29 August 2025 on cooperation in standardisation, quality control and certification, so a national standards body exists; the article names no IT or data standard ([source, 2025-08-29](https://bankable.africa/fr/climat-des-affaires/0109-1626-commerce-rdc-burundi-vers-une-reduction-des-barrieres-non-tarifaires)).
+
+### Cameroon: 2 Nascent
+
+Cameroon's standards agency, ANOR, was listed as developing and certifying standards in 2026; whether any covers information technology or data is not known.
+
+- ISO's member page says ANOR is responsible for developing and certifying standards in Cameroon ([source, 2026-10-16](https://www.iso.org/member/1623.html)).
 
 ### Cape Verde: 2 Nascent
 
@@ -133,18 +154,37 @@ Chad's standards agency adopted draft national standards in 2026, none on inform
 - ATNOR's own site describes it as a public administrative establishment under the Ministry of Commerce and Industry that prepares and manages Chad's national standards, and records its technical committees adopting draft Chadian standards (NTD) on 31 July, 5 August (ten international quality-management standards as drafts) and 7 August 2026; none is on information technology or data ([source, 2026-08-07](https://atnor.td/)).
 - ATNOR's page on the standardisation law says the law creates the national standardisation structures, including the Agence Tchadienne de Normalisation, charged with preparing, publishing and issuing Chadian standards and with adopting international standards as national ones; the page carries no date, so the 2014 published date is used ([source, 2014](https://www.atnor.td/la-loi-relative-a-la-normalisation/)).
 
+### Congo: 2 Nascent
+
+The national standards body was created by law in 2015; whether it has issued a standard on information technology or data is not known.
+
+- The ISO member page says ACONOQ was created by Law No. 19-2015 of 29 October 2015 as the national standardization body, managing the national standards register ([source, 2015-10-29](https://www.iso.org/member/11493926.html)).
+
+### DR Congo: 2 Nascent
+
+The Office congolais de contrôle, set up in 1974, is the national standards and certification body; no national standard on information technology or data known.
+
+- ISO's member page says OCC, created by Ordinance No. 74-013 of 1974, is the national metrology, standardization and certification body ([source, 2026](https://www.iso.org/member/308894.html)).
+
 ### Djibouti: 2 Nascent
 
 Djibouti's standards agency, created by law in 2021, set up its first two technical committees in 2025; neither covers information technology or data.
 
 - The Council of Ministers of 13 January 2026 examined the 2026 budget of the Agence Djiboutienne des Normes et de la Qualite (ADN) at 134.9 million FDJ, up from 112.1 million in 2025, and stated that in 2025 the ADN made two technical standardisation committees operational, for agri-food products and for electrical and household-appliance products; no IT or data standard is mentioned ([source, 2026-01-13](https://www.presidence.dj/conseil-des-ministres/2026-01-13)).
-- Decree 2022-092/PR/MCT of 4 May 2022 organises the ADN, a public industrial and commercial body under the Ministry of Commerce and Tourism, and calls it the national reference body for drawing up standards, charged with preparing and approving standards, certification of conformity and accreditation of conformity-assessment bodies; no IT or data standard is named ([source, 2022-05-04](https://www.journalofficiel.dj/texte-juridique/decret-n2022-092-pr-mct-portant-organisation-et-fonctionnement-de-lagence-djiboutienne-des-normes-et-de-la-qualite/)).
+- ISO states ADN was created and put into operation in 2022 by Decree No. 2022-092/PR/MCT as the national standards body, developing and monitoring standards ([source, 2022](https://www.iso.org/member/10466380.html)).
 
 ### Eritrea: 2 Nascent
 
-Eritrea's standards institution was established by proclamation in 1995; no national standard on information technology or data is known.
+Eritrea's standards institution, set up in 1995, has published 446 national standards; whether any covers information technology or data is not known.
 
+- ISO states ESI was established in 1995 by Proclamation No. 75/1995 as the sole standardization body in Eritrea, with 446 national standards published ([source, 1995](https://www.iso.org/member/318778.html)).
 - Proclamation No. 75 of 1995 establishes the Eritrean Standards Institution as an autonomous body with legal personality, the sole national organ for standardization, quality assurance and metrology, with power to prepare compulsory Eritrean Standards; the abstract names no information technology or data standard ([source, 1995-09-20](https://www.ecolex.org/details/legislation/proclamation-to-provide-for-the-establishment-of-the-eritrean-standards-institution-no-75-of-1995-lex-faoc203313/)).
+
+### Gabon: 2 Nascent
+
+Gabon's standards agency was created by decree in 2014; whether it has issued any standard on information technology or data is not known.
+
+- AGANOR's own page states it was created by decree 0227/PR/MIMT of 23 June 2014 as the national standardization body, with power to draw up, approve and publish Gabonese standards ([source, 2014-06-23](https://aganor.ga/aganor/a-propos-de-laganor/)).
 
 ### Ghana: 2 Nascent
 
@@ -161,7 +201,7 @@ Guinea's standards institute was organised by decree in 2023; no national standa
 
 ### Kenya: 2 Nascent
 
-Kenya's standards bureau has existed since 1974; a national standard on information technology or data issued by it is not known.
+Kenya's standards bureau was set up by statute and began operating in 1974; a national standard on information technology or data is not known.
 
 - The Kenya Bureau of Standards (KEBS), led by director general Esther Ngari and overseen by a National Standards Council chaired by Dr Chris Wamalwa, was in operation in August 2026; the article does not say what law set it up and names no IT or data standard ([source, 2026-08-28](https://www.thecoast.co.ke/2026/08/28/kenya-to-permanently-host-arso-headquarters-backs-common-certificate/17/54/business-news/thecoast/18260/04/)).
 - The ICT Authority's Government Data Centre Standard (ICTA.2.002:2019) says the Kenya Bureau of Standards (KEBS) is the source of information on valid national and international standards and took part in developing the ICTA standards under a memorandum of understanding; the document gives no date for KEBS's creation or its legal basis, and its date is the document's board approval ([source, 2020-01-13](https://cms.icta.go.ke/sites/default/files/2022-05/Data%20Centre%20Standard.pdf)).
@@ -183,7 +223,7 @@ Liberia established its standards authority by an Act published in 2022; no nati
 Libya's standards centre, created by a 1990 law, adopted new standards in 2026; none is known to cover information technology or data.
 
 - On 3 February 2026 the Supreme Committee of the National Centre for Standardization and Metrology, meeting at the Ministry of Planning, adopted the Centre's 2026 plan and a number of Libyan standards, none named as information technology or data standards ([source, 2026-02-03](https://lana.gov.ly/post.php?id=350300&lang=ar)).
-- Law 5 of 1990, issued 15 May 1990, creates the National Centre for Standardization and Metrology, charged with quality control and with preparing, adopting and supervising standards, and makes the standards it adopts binding nationwide ([source, 1990-05-15](https://aladel.gov.ly/home/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d9%82%d9%85-5-%d9%84%d8%b3%d9%86%d8%a9-1990%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85/)).
+- ISO's member page says LNCSM, a public organization established in 1990, is Libya's national standards body and issues and approves standards ([source, 1990](https://www.iso.org/member/1890.html)).
 
 ### Madagascar: 2 Nascent
 
@@ -196,8 +236,8 @@ Madagascar's standards bureau dates from 1998; a 2025 assessment found no progra
 
 Malawi's standards bureau, established by a 2012 Act, is accredited to certify quality management; no national standard on information technology or data is known.
 
+- ISO's member page says the Malawi Bureau of Standards is the national standards body responsible for preparing and publishing Malawi standards ([source, 2026](https://www.iso.org/member/1921.html)).
 - A SADCAS accreditation certificate dated 14 December 2025 describes the Malawi Bureau of Standards as established by the Malawi Bureau of Standards Act (Cap 51:02); it names no national standard on information technology or data ([source, 2025-12-14](https://www.sadcas.org/sites/default/files/2026-04/CBAS%20-%20MBS%20-%20Cert%20%26%20SoA%20%28QMS%20Certification%29%20%28Issue%2001%29%20Dec%202025.pdf)).
-- The Malawi Bureau of Standards Act, No. 14 of 2012 (assented 12 July 2012, published 27 July 2012), establishes the Malawi Bureau of Standards as a body corporate with the object of preparing and issuing standards, under a Malawi Standards Board; the captured text names no standard on information technology or data ([source, 2012-07-12](https://portal.trade.gov.mw/en-gb/site/display/48)).
 
 ### Mali: 2 Nascent
 
@@ -213,6 +253,12 @@ Mauritania set up a standards office and a standardisation council by decree in 
 - Decree 2023-113 of 7 September 2023 creates the Conseil National de Normalisation et de Promotion de la Qualité, an advisory body under the industry minister, under articles 2 and 15 of law 2010-003 of 14 January 2010 on standardisation and quality promotion ([source, 2023-09-07](https://faolex.fao.org/docs/pdf/mau229551.pdf)).
 - Decree 2023-113 of 7 September 2023 (Journal Officiel no. 1543, 15 October 2023) states that the Office National de Normalisation et de Métrologie was instituted by decree 2023-080 of 9 May 2023, and gives it the secretariat of the new national standardisation council and the accreditation cell; the document names no national standard on information technology or data ([source, 2023-05-09](https://faolex.fao.org/docs/pdf/mau229551.pdf)).
 
+### Morocco: 2 Nascent
+
+Morocco's standards body, IMANOR, has existed since 2010; its standards on information technology and any certification against them are not known.
+
+- ISO's member page says IMANOR, created in 2010 to replace SNIMA, is Morocco's national standards body producing Moroccan standards ([source, 2010](https://www.iso.org/member/1931.html)).
+
 ### Mozambique: 2 Nascent
 
 Mozambique's standards institute certifies quality management under a 2022 decree; no national standard on information technology or data is known.
@@ -226,6 +272,12 @@ Namibia's standards institution had published 235 standards by 2025; none on inf
 
 - The Namibian Standards Institution (NSI) notice of 2026-06-15 states that four standards (chilled seafood, dates, laundry process management, refrigerating-appliance energy performance) were officially developed as NAMS, Namibian Standards, and are on sale through the NSI; the notice does not mention a law or decree setting up the body ([source, 2026-06-15](https://nsi.com.na/officially-developed-namibian-standards-nams-food-products-and-food-safety-management/)).
 - The Namibia Standards Institution leads the national standardisation strategy; its chief executive says it has published 235 standards since its establishment in 2008 and the national stock is 275, with a target of 1,267 within three years, but the article names no standard on information technology or data ([source, 2025-10-15](https://thebrief.com.na/2025/10/namibia-lags-behind-region-with-235-standards-plans-to-develop-1200/)).
+
+### Nigeria: 2 Nascent
+
+Nigeria's standards organisation was set up by an Act of 1971 to prepare standards; whether any covers information technology or data is not known.
+
+- ISO's member page says the Standards Organisation of Nigeria was established by an Enabling Act of 1971 to prepare standards ([source, 1971](https://www.iso.org/member/1982.html)).
 
 ### Rwanda: 2 Nascent
 
@@ -245,13 +297,14 @@ São Tomé and Príncipe's quality institute covered standardisation in 2026; no
 
 Seychelles' standards bureau works under a 2014 Act, with a new board from 2025; no national standard on information technology or data is known.
 
+- The Seychelles Bureau of Standards was established as a government agency under the SBS Act 1987 and is to develop, declare and promote Seychelles Standards; no information technology standard is named ([source, 2026](https://www.iso.org/member/2084.html)).
 - Official Gazette General Notice No. 985 of 2025 records the President appointing an eight-member Board of the Seychelles Bureau of Standards for three years from 1 August 2025, under section 5 of the Seychelles Bureau of Standards Act 2014 as last amended by Act 16 of 2021; the notice names no standard ([source, 2025-09-18](https://www.gazette.sc/sites/default/files/2025-09/Gazette%20No%2064%20-%2029th%20September%202025.pdf)).
-- SeyLII's record of the Seychelles Bureau of Standards Act, 2014 (Act 2 of 2014) shows it repealing the earlier Bureau of Standards Act, commenced 16 June 2014 and amended in 2016 and 2021; only the citation and history page is captured, not the Act's text ([source, 2014-06-16](https://seylii.org/akn/sc/act/2014/2/eng@2014-03-31)).
 
 ### Sierra Leone: 2 Nascent
 
-Sierra Leone's standards bureau had published 204 national standards by 2023 and has an information security committee; no such national standard is known.
+Sierra Leone's standards bureau, set up by law in 1996, had published 204 national standards by 2023; none on information technology or data is known.
 
+- ISO's member page says the Sierra Leone Standards Bureau was created by the Standards Act No 2 of 1996 to coordinate standardization and quality management and offers development and sale of national standards ([source, 2026-10-16](https://www.iso.org/member/576517.html)).
 - The Sierra Leone Standards Bureau states that its Standards Department develops and publishes national standards under the Standards Act No. 2 of 1996, and that it has published 204 national standards in the public gazette; it names a technical committee on Information Security Management Systems but no national IT or data standard issued; published date used because the page gives no event date ([source, 2023](https://slsb.gov.sl/standards-overview/)).
 
 ### Somalia: 2 Nascent
@@ -267,12 +320,6 @@ South Sudan's standards bureau was established by a 2012 Act and was operating i
 - The South Sudan National Bureau of Standards (SSNBS) is described as operating, with a technical manager speaking for it at the World Metrology Day event on 2026-05-20; the article does not say what law or decree set it up ([source, 2026-05-20](https://www.onecitizendaily.com/index.php/2026/05/21/ssnbs-plans-to-tackle-internet-data-bundle-billing-complaints/)).
 - The National Bureau of Standards Act, 2012 establishes the National Bureau of Standards as a body corporate (s.5) with the function of formulating, adopting and endorsing standard specifications as South Sudan standards (s.8), though the captured text names no standard on information technology, software or data; the Act gives no date beyond 2012, so the year is the document's published date ([source, 2012](https://mojca.gov.ss/wp-content/uploads/2023/03/National-Bureau-of-Standards-Act-2012.pdf)).
 
-### Tanzania: 2 Nascent
-
-Tanzania's standards bureau listed its compulsory standards in 2025; none seen covers information technology or data.
-
-- The Tanzania Bureau of Standards (TBS) published its list of new and revised compulsory Tanzania Standards as of October 2025, enforceable under the Standards Act, Cap. 130 (R.E. 2023), which shows a national standards body exists in law; the captured entries are on batteries, conductors, fasteners, wire and similar goods and name no standard on information technology, security, software or data, and the document says its list continues beyond the capture (published 2025-10, used as the date) ([source, 2025-10](https://www.tbs.go.tz/uploads/text-editor/files/LIST%20OF%20COMPULSORY%20TANZANIA%20STANDARD_1785231917.pdf)).
-
 ### Togo: 2 Nascent
 
 Togo's standards agency drew up 46 national standards, presented in 2026, all on food; none on information technology or data is known.
@@ -283,8 +330,8 @@ Togo's standards agency drew up 46 national standards, presented in 2026, all on
 
 Tunisia's standards institute opened an enquiry on draft standards in 2026, none on information technology or data.
 
+- ISO's registry entry describes INNORPI as a public institution under the Ministry of Industry in charge of standardization and product and quality systems certification ([source, 2026-10-16](https://www.iso.org/member/2158.html)).
 - INNORPI, the Institut National de la Normalisation et de la Propriete Industrielle, issued standardization bulletin no. 441 on 25 May 2026 opening a two-month public enquiry on draft Tunisian standards under law 38-2009 and decree 2011-1083; the drafts (measurement, quality management, electrical and fibre-optic cable standards) include no information technology, information security, software or data standard ([source, 2026-05-25](http://www.innorpi.tn/sites/default/files/2026-05/Officiel%20EP%20441_0.pdf)).
-- The Libyan national standards centre reports that Tunisia's delegation at the 20th Libya-Tunisia working group on mutual recognition of conformity certificates was headed by the Institut national de la normalisation et de la propriete industrielle (INNORPI), which it treats as Tunisia's national standards institute; the document does not mention the law that set it up or any IT standard ([source, 2025-12-18](https://lncsm.org.ly/2025/12/18/%d8%a7%d8%ae%d8%aa%d9%8f%d8%aa%d9%85%d8%aa-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d8%b4%d9%80%d8%b1%d9%8a%d9%86-%d9%84%d9%81%d8%b1%d9%8a/)).
 
 ### Uganda: 2 Nascent
 
@@ -300,12 +347,6 @@ Zambia's standards bureau said in 2026 that its standards cover information tech
 - Zambia Monitor reports the Zambia Bureau of Standards (ZABS), described as a national standards body, signed a technical cooperation agreement with the Rwanda Standards Board on standardisation, conformity assessment and quality assurance at the 32nd ARSO General Assembly in Mombasa; the report names no IT or data standard and does not say how ZABS was established ([source, 2026-09-03](https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/)).
 - ZABS states on its own site that it develops, publishes, maintains or withdraws Zambian National Standards, has developed standards in sectors including Information Communication Technology, and counts 6,500+ Zambian National Standards and 50+ international standards adopted as ZS; the page has no date, so the published date 2026-08-29 is used ([source, 2026-08-29](https://www.zabs.org.zm/standards-development)).
 
-### Cameroon: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
 ### Central African Republic: No evidence
 
 Nothing held names a national standards body or says there is none, so no stage is set.
@@ -318,19 +359,7 @@ Nothing held names a national standards body or says there is none, so no stage 
 
 Not established: Nothing held names a national standards body, or says there is none.
 
-### Congo: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
 ### Cote d'Ivoire: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
-### DR Congo: No evidence
 
 Nothing held names a national standards body or says there is none, so no stage is set.
 
@@ -342,37 +371,13 @@ Nothing held names a national standards body or says there is none, so no stage 
 
 Not established: Nothing held names a national standards body, or says there is none.
 
-### Ethiopia: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
-### Gabon: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
 ### Guinea-Bissau: No evidence
 
 Nothing held names a national standards body or says there is none, so no stage is set.
 
 Not established: Nothing held names a national standards body, or says there is none.
 
-### Morocco: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
 ### Niger: No evidence
-
-Nothing held names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing held names a national standards body, or says there is none.
-
-### Nigeria: No evidence
 
 Nothing held names a national standards body or says there is none, so no stage is set.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "The document says Cameroon signed the African Union Malabo Convention on 12 August 2021 and that ratification is awaited.",
+   "as_of": "2021-08-12",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

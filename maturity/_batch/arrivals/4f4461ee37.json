@@ -1,0 +1,68 @@
+{
+ "slug": "2024-02-13-sdn-okayafrica-zain-data-centre-generators-stopped",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names Zain Sudan's main Jabra data centre and Sudani's temporary Port Sudan one, but neither is stated to rent to others."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage count; only generators stopped at one data centre."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet given."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Sudani's temporary data centre is the operator's own and not stated to be for hire."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public body's backup site; a minister only urges operators to build disaster recovery centres."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The blackout is blamed on the RSF, a non-government group, with no order by government, regulator or security forces stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Says many Sudanese resorted to Starlink, but no licence or sale is stated."
+    }
+   }
+  }
+ }
+}

@@ -100,6 +100,7 @@ Sierra Leone published its first National Data Strategy in January 2023 and was 
 
 South Africa issued its National Policy on Data and Cloud in the Government Gazette in May 2024; no body to carry it out is held.
 
+- National Treasury's reply of 10 September 2024 refers to the 'National Policy on Data and Cloud (2024)' and says Treasury considered its implications and plans to convert its 2016 IFMS licences to cloud-based ([source, 2024-09-10](https://www.treasury.gov.za/publications/other/MinAnsw/2024/PQ%20792_244_%20Bateman__NW1017E%20_FINAL.pdf)).
 - The Department of Communications and Digital Technologies issued the final National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 of 31 May 2024, setting government policy on the collection, storage, use and sharing of data across national and provincial government, organs of state and the private sector; the notice carries no printed day, so the date is the gazette date ([source, 2024-05-31](https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf)).
 
 ### Botswana: 2 Nascent
@@ -218,9 +219,9 @@ Tanzania's electronic data governance strategy was validated at a workshop in Ma
 
 ### Tunisia: 2 Nascent
 
-Tunisia's national strategy for governing and opening public data was a final draft in March 2026; approval is not known.
+Tunisia's national data strategy was a final draft in March 2026; whether the government has approved it is not known.
 
-- OGP Tunisie reports a workshop on 26 March 2026, held with the PAGOF programme, to present and discuss the final draft of the National Strategy for the Governance, Opening and Valorisation of Public Data, under government decree 2021-3; no adoption is stated ([source, 2026-03-26](http://www.ogptunisie.gov.tn/?p=6651)).
+- The Tunisian open data portal's news lists a 27 March 2026 workshop presenting and discussing the final version of the draft national strategy for data governance, opening and valorisation ([source, 2026-03-27](https://data.gov.tn/fr/)).
 
 ### Uganda: 2 Nascent
 

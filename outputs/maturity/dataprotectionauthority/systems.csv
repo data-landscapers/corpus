@@ -55,6 +55,7 @@ BFA,Loi n°001-2021/AN portant protection des personnes à l'égard du traitemen
 BFA,Commission de l'Informatique et des Libertés (CIL),CIL,authority,,State of Burkina Faso,national,2024-01-15-comprendre-protection-donnees-personnelles-burkina-faso
 BFA,Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel,Loi n°001-2021/AN,other,,Assemblée nationale,national,2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel
 BFA,Commission de l'Informatique et des Libertés (CIL),CIL,authority,,State of Burkina Faso,national,2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel
+BFA,Commission de l'Informatique et des Libertés,Burkina Faso,authority,,,,2026-09-01-bfa-cil-formulaire-autorisation-transfert-etranger
 BWA,Data Protection Act No. 18 of 2024,Data Protection Act,other,,,national; public and private controllers,2026-07-28-mmegi-govt-e-payslip-fails-data-protection-compliance-test
 BWA,Information and Data Protection Commission,IDPC,authority,,,national,2026-07-28-mmegi-govt-e-payslip-fails-data-protection-compliance-test
 BWA,Data Protection Act No. 18 of 2024,Data Protection Act,other,,,national,2026-07-18-bwa-idpc-suspends-dpsm-epayslip-portal
@@ -108,10 +109,12 @@ DZA,Algerian DPA,Algeria's DPA,authority,,,,2026-06-23 Bimonthly Update on Priva
 DZA,National Data Governance Framework,dispositif national de gouvernance des données,other,,,public institutions,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
 DZA,Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11),loi 18-07 modifiée par la loi 25-11,other,,,,2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid
 DZA,ANPDP,Autorité nationale de la protection des données,authority,,,,2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid
+DZA,Numero d'Identification National (NIN) system,DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
+DZA,Registre National Automatise de l'Etat Civil (RNAEC),DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
 EGY,Personal Data Protection Law No. 151 of 2020,Personal Data Protection Law (PDPL),other,,,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),PDPL Executive Regulations,other,,Minister of Telecommunications and Information Technology,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-10-07-egypt-personal-data-protection-law-update
-EGY,PDPC electronic portal,PDPC portal,,Digital Egypt authentication tied to national ID,Personal Data Protection Center,,2026-10-07-egypt-personal-data-protection-law-update
+EGY,PDPC electronic portal,PDPC portal,other,Digital Egypt authentication tied to national ID,Personal Data Protection Center,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),Executive Regulations No. 816/2025,other,,Minister of Telecommunications,,2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)
 EGY,Personal Data Protection Center (PDPC),مركز حماية البيانات الشخصية,authority,,,,2025-11-16-egypt-data-sovereignty-pdpc-cairo-ict-ahram
@@ -138,6 +141,10 @@ GHA,Data Protection Commission,Data Protection Commission,authority,,"Ministry o
 GHA,Data Protection Commission,Data Protection Commission,authority,,"Ministry of Communication, Digital Technology and Innovations",,2026-02-20-dpc-ghana-vehicles-regional-enforcement
 GHA,Data Protection Commission,Data Protection Commission,authority,,"Ministry of Communication, Digital Technology and Innovations",,2026-01-01-gha-2026-026-02603-02603005
 GHA,Data Protection Commission,Data Protection Commission,authority,,,,2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework
+GHA,Data Protection Commission,Ghana,authority,,,,2026-10-13-gha-gna-dpc-2575-data-controllers-enforcement
+GHA,Data Protection Commission,Ghana,authority,,Data Protection Commission,,2026-10-13-gha-graphic-dpc-field-enforcement-microfinance-cid
+GHA,Data Protection Commission,Ghana,authority,,,,2026-10-12-gha-myjoyonline-nyaho-medical-centre-cid-data-protection-registration
+GHA,Data Protection Commission,Ghana,authority,,,,2026-10-14-gna-ghana-dpc-flags-six-companies-data-protection
 GIN,Autorité de Protection des Données à caractère Personnel (APDP),APDP,authority,,Republic of Guinea (bill before the CNT),,2024-06-21-cnt-autorite-protection-donnees-apdp-en-debat
 GIN,Loi L/2016/037/AN relative à la cybersécurité et la protection des données à caractère personnel,Loi L/2016/037/AN,other,,Assemblée nationale de Guinée,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
 GIN,Autorité de Protection des données à caractère personnel,Autorité de Protection,authority,,,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -147,6 +154,7 @@ GMB,Information Commission of The Gambia,Information Commission,authority,,Gover
 GMB,Personal Data Protection and Privacy Act 2025,"Personal Data Protection and Privacy Act, 2025",other,,National Assembly of The Gambia,,"2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025"
 GMB,Commission under the Personal Data Protection and Privacy Act,Commission,authority,,,,"2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025"
 GMB,Personal Data Protection and Privacy Act 2025,"Personal Data Protection and Privacy Act, 2025",other,,National Assembly of The Gambia,,2025-10-13 Gambia Passes Landmark Data Protection and Privacy Law
+GMB,Information Commission,The Gambia,authority,,,,2025-11-07-gmb-personal-data-protection-and-privacy-act-2025
 GNB,Projecto de lei de protecção de dados (Agência de protecção de dados),Agência de protecção de dados,other,,,,2026-09-23-cedeao-court-justice-digital-rights-framework-aip
 GNB,ECOWAS Supplementary Act A/SA.1/01/10 on Personal Data Protection,Acte additionnel de 2010,other,,ECOWAS,,2026-09-23-cedeao-court-justice-digital-rights-framework-aip
 GNQ,"Ley Núm. 1/2016, de Protección de Datos Personales",Ley de Protección de Datos Personales,other,,Government of Equatorial Guinea; sanctioning power with the Minister of Telecommunications and New Technologies,public and private sector files and processing,2016-07-22-guinea-ecuatorial-ley-1-2016-proteccion-datos-personales
@@ -170,6 +178,7 @@ KEN,Office of the Data Protection Commissioner,Office of the Data Protection Com
 KEN,Office of the Data Protection Commissioner,Office of the Data Protection Commissioner (ODPC),authority,,Kenya,,2026-07-01-odpc-kenya-guidance-note-artificial-intelligence
 KEN,Office of the Data Protection Commissioner,Office of the Data Protection Commissioner (ODPC),authority,,Kenya,,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
 KEN,Office of the Data Protection Commissioner,Office of the Data Protection Commissioner (ODPC),authority,,Kenya,,2025-05-19-draft-guidance-biometrics-age-assurance-biometricupdate
+KEN,Office of the Data Protection Commissioner,Kenya,authority,,,,2026-10-14-tra-kenya-odpc-hosts-sri-lanka-data-protection-authority
 LBR,"Constitution of Liberia, Article 16",Constitution Article 16,other,,Republic of Liberia,national,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Policy to implement the ECOWAS Data Protection Act,,other,,Ministry of Posts and Telecommunications with the LTA,national; being drafted,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Independent Information Commissioner,Independent Information Commissioner,authority,,"Government of Liberia, created by the Freedom of Information Act of 2010",national; designated supervisory authority under the Act,2026-03-23-liberia-data-protection-act-printed-act-mopt
@@ -212,6 +221,7 @@ MLI,Autorité de Protection des Données à Caractère Personnel (APDP),APDP,aut
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2025-08-06-mli-sanction-apdp-amende-de-5-millions-de-f-cfa-prononcee-pour-entrave-a-l
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2025-06-19-mli-sanction-pour-non-respect-des-donnees-personnelles-penalite-de-5-milli
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2024-05-14-mli-decret-n2024-0300-pt-rm-du-14-mai-2024-instituant-le-paiement-des-frai
+MLI,Autorité de protection des données à caractère personnel (APDP),Mali,authority,,,,2026-10-13-mli-bamakomatin-protection-enfants-en-ligne
 MOZ,Personal Data Protection Law (draft),Personal Data Protection Law,other,,Government of Mozambique,,2025-09-23 Review of Mozambique's Proposed Personal Data Protection Law
 MOZ,National Authority for the Protection of Personal Data (ANPD),ANPD,authority,,Regulatory Authority for ICT (designated by the draft),,2025-09-23 Review of Mozambique's Proposed Personal Data Protection Law
 MOZ,National Council for the Protection of Personal Data (CNPD),CNPD,authority,,Prime Minister (chair),,2025-09-23 Review of Mozambique's Proposed Personal Data Protection Law
@@ -238,7 +248,7 @@ MRT,Délibération n° 2025/004,Délibération 004/2025 (transfers abroad),other
 MRT,Délibération n° 2025/005,Délibération 005/2025 (cloud abroad),other,,APD,,2026-04-29-mauritanie-apd-reunion-mensuelle-transferts-etranger-cloud-deliberations-2025-004-005
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,Loi n° 2017-020 relative à la protection des données à caractère personnel,Loi 2017-020 of 22 July 2017,other,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
-MRT,Maadeni,معدني (Maadeni),,,Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
+MRT,Maadeni,معدني (Maadeni),other,,Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-02-10-digital-economy-country-commercial-guide-tradegov
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2025-11-19-apd-ijtimaa-shahri-rabt-bayni-wakala-sijil-sukkan-sijil-suhufiyin
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2025-11-19-mauritanie-apd-reunion-mensuelle-referentiel-controle-agents-assermentes
@@ -357,7 +367,7 @@ STP,Agência Nacional de Proteção de Dados Pessoais,ANPDP,authority,,São Tom�
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,other,,Parliament; supervised by ESCCOM as EDPA,,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,other,,Parliament; supervised by ESCCOM as EDPA,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
-SWZ,Online Media Publishing Guidelines 2026,Online Media Publishing Guidelines 2026,,,Ministry of ICT,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
+SWZ,Online Media Publishing Guidelines 2026,Online Media Publishing Guidelines 2026,other,,Ministry of ICT,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-08-04-eswatini-online-media-publishing-guidelines-2026
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,other,,Parliament; supervised by ESCCOM as EDPA,,2026-06-24-home-affairs-investigated-for-sensitive-data-breach
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-06-24-home-affairs-investigated-for-sensitive-data-breach
@@ -377,6 +387,7 @@ SYC,Information Commission,Information Commission,authority,,Republic of Seychel
 SYC,Information Commission Seychelles,Information Commission Seychelles,authority,,Information Commission Seychelles,,2026-04-13-nationalassembly-infocom-annual-report-2025
 TCD,ANSICE,Agence Nationale de Sécurité Informatique et de Certification Electronique,other,,Presidency of Chad (appointments by decree),,2026-05-05-tcd-alwihda-nominations-dg-ansice
 TCD,ANSICE,Agence Nationale de Sécurité Informatique et de Certification Electronique,authority,,Presidency of Chad (appointments by decree),"national; directorates for personal data control and protection, digital trust and information systems security",2026-06-01-tcd-alwihda-nominations-direction-generale-ansice
+TCD,ANSICE,ANSICE,authority,,,,2026-07-06-tcd-thomasd-transfert-international-donnees
 TGO,Loi n°2019-014 relative à la protection des données à caractère personnel,Loi n°2019-014 du 29 octobre 2019,other,,Parliament of Togo,,2026-10-05-tgo-lenouveaureporter-ipdcp-certification-cpd-atakpame
 TGO,IPDCP,Instance de protection des données à caractère personnel,authority,,State of Togo,,2026-10-05-tgo-lenouveaureporter-ipdcp-certification-cpd-atakpame
 TGO,Loi n°2019-014 relative à la protection des données à caractère personnel,Loi n°2019-014 du 29 octobre 2019,other,,Parliament of Togo,,2026-09-15-levisionnaire-togo-ipdcp-mise-en-conformite-administrations
@@ -423,7 +434,7 @@ ZAF,Protection of Personal Information Act (Popia),Popia,other,,Information Regu
 ZAF,Information Regulator,Information Regulator,authority,,Information Regulator,,2026-08-17-businessday-information-regulator-sca-matric-results-popia
 ZAF,"Protection of Personal Information Act, 2013 (POPIA)",POPIA,other,,Information Regulator,,2026-06-14-inforeg-first-enforcement-notice-2026
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2026-06-14-inforeg-first-enforcement-notice-2026
-ZAF,Information Regulator eServices Portal,eServices Portal,,,Information Regulator,responsible parties registering information officers,2026-06-14-inforeg-first-enforcement-notice-2026
+ZAF,Information Regulator eServices Portal,eServices Portal,other,,Information Regulator,responsible parties registering information officers,2026-06-14-inforeg-first-enforcement-notice-2026
 ZAF,"Protection of Personal Information Act, 2013 (POPIA)",POPIA,other,,Information Regulator,,2026-03-06-popia-regulations-processing-health-information-2026
 ZAF,"Regulations relating to the Processing of Data Subjects' Health Information by Certain Responsible Parties, 2026",POPIA health information regulations,other,,Information Regulator,,2026-03-06-popia-regulations-processing-health-information-2026
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2026-03-06-popia-regulations-processing-health-information-2026
@@ -434,7 +445,7 @@ ZAF,Protection of Personal Information Act 4 of 2013 (POPIA),POPIA,other,,Inform
 ZAF,Information Regulator,Information Regulator,authority,,Information Regulator,,2024-02-21-zaf-enforcement-notice-ft-rams-consulting
 ZAF,Protection of Personal Information Act 4 of 2013 (POPIA),POPIA,other,,Information Regulator,,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
-ZAF,Information Regulator e-Services Portal,e-Services Portal,,,Information Regulator,public and private bodies registering information officers and submitting section 22 security compromise reports,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
+ZAF,Information Regulator e-Services Portal,e-Services Portal,other,,Information Regulator,public and private bodies registering information officers and submitting section 22 security compromise reports,2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,national,2026-06-29-gsma-scaling-ai-for-smes-south-africa-data-governance
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,national,2026-06-18-misdirected-email-enforcement-notice
 ZAF,Information Regulator of South Africa,Information Regulator,authority,,,national,2026-04-29-information-regulator-blouberg-municipality-popia-fine
@@ -486,3 +497,4 @@ ZWE,Postal and Telecommunications Regulatory Authority (POTRAZ),Data Protection 
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POTRAZ, designated Data Protection Authority",authority,,POTRAZ,,2026-08-06-zimbabwe-cyber-data-protection-act-analysis-part1
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POTRAZ, designated Data Protection Authority",authority,,POTRAZ,,2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POTRAZ, designated Data Protection Authority",authority,,POTRAZ,,2021-01-01-cyber-and-data-protection-act
+ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),Zimbabwe,authority,,Government of Zimbabwe,,2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor

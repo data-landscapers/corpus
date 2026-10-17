@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mus-civicus-social-media-suspension-reversed",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CIVICUS Monitor says the Mauritian Information and Communications Authority directed internet service providers on 1 November 2024 to suspend access to Facebook, Instagram, TikTok and X, and that the ban was lifted on 2 November 2024 after 24 hours.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Facebook, Instagram, TikTok and X suspension",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "CIVICUS Monitor says civil society groups and businesses opposed the social media suspension and that members of the party Linion Reform protested in front of the National Assembly on 1 November 2024.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Facebook, Instagram, TikTok and X suspension",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

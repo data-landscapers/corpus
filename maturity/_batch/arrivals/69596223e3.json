@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-14-tra-ghana-sam-george-2000-laptops-knust-one-million-coders",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Tech Review Africa reports President Mahama launched Ghana's National AI Strategy in April 2026 and it has entered the implementation phase.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "National AI Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

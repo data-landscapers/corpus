@@ -15,7 +15,7 @@ CIV,RNPP,Registre National des Personnes Physiques,other,biometric population re
 CIV,Plateforme d'interopérabilité des e-services,plateforme d'interopérabilité des e-services,other,,the State,all administrative authorities (bound to connect),2017-08-02-civ-ordonnance-2017-500-echanges-electroniques-autorites-administratives
 CIV,Référentiel général d'interopérabilité,référentiel général d'interopérabilité,other,,the State,all administrative authorities,2017-08-02-civ-ordonnance-2017-500-echanges-electroniques-autorites-administratives
 CMR,Plateforme nationale unifiée (single access point for digital public services),plateforme nationale unifiée,other,,GovTech Cameroun,,2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov
-COD,Registre National des SIH Homologués,Registre National des SIH Homologués,,,ANICNS,,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,Registre National des SIH Homologués,Registre National des SIH Homologués,other,,ANICNS,,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
 COD,Architecture d'Entreprise en santé numérique,Architecture d'Entreprise en santé numérique,other,,ANICNS,health facilities,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
 COD,data-sharing platform (planned),data-sharing platform,other,,"Ministry of Post, Telecommunications and Digital Affairs (MPTN)",,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
 COD,Guichet numérique,Guichet numérique,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
@@ -32,6 +32,8 @@ DZA,IRIES,الشبكة السيادية المؤمنة الوطنية (national 
 DZA,النظام الوطني للتشغيل البيني (national interoperability system),النظام الوطني للتشغيل البيني,other,,,"ministries such as health, justice and interior",2026-09-20-dza-echaab-rakmana-shafafiya-asrana
 DZA,Dzair Digital Services,dzair digital services,other,,,,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
 DZA,Dispositif national de gouvernance des données,dispositif national de gouvernance des données,other,,Prime Minister's office (launch); established by presidential decree 25-320,,2026-02-09-radioalgerienne-lancement-dispositif-gouvernance-donnees
+DZA,Numero d'Identification National (NIN) system,DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
+DZA,Registre National Automatise de l'Etat Civil (RNAEC),DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
 EGY,National Property Identification System (National Property ID),National Property ID,other,,"Egyptian government entities, under Law 88 of 2025 per other documents","government entities, utilities, municipalities, taxation authorities",2026-07-05-egypt-property-registration-rate-below-10pct
 EGY,Real Estate Wealth Management System (REWMS),REWMS,other,,,,2026-07-05-egypt-property-registration-rate-below-10pct
 EGY,Property Egypt platform,Property Egypt,other,,Ministry of Communications and Information Technology,national,2025-12-18-property-egypt-platform-launch
@@ -131,9 +133,10 @@ SOM,"National civil registration database and digital registration system (Law N
 SWZ,Health Information Exchange,Health Information Exchange,other,HL7/FHIR standards,Ministry of Health,Ministry of Health,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
 SYC,"National Addressing Database Unit (under the National Addressing System Bill, 2026)",National Addressing System,other,,National Addressing Department,,2026-04-03-seychelles-national-addressing-system-bill-cabinet
 SYC,National Addressing and Postcode System,National Addressing System,other,S42 address standard,Seychelles Postal Regulator,,2025-01-01 National Addressing System - Seychelles Postal Regulator
-TGO,GUFORD (Guichet Unique des Formalités et de délivrance des Documents du commerce international),GUFORD,,,,,2025-09-30-togo-decret-2025-018-bis-guford-guichet-unique-jo
+TGO,GUFORD (Guichet Unique des Formalités et de délivrance des Documents du commerce international),GUFORD,other,,,,2025-09-30-togo-decret-2025-018-bis-guford-guichet-unique-jo
 TGO,Registre social des personnes et des ménages,Registre social des personnes et des ménages (RSPM),other,,Ministère de l'Economie Numérique et de la Transformation Digitale (issuer of the order),,2024-09-30-togo-jo-arrete-007-acces-partage-donnees-rspm
 TUN,Plateforme d'interopérabilité (national interoperability platform),plateforme d'interopérabilité,other,,"interoperability operator (personne publique), under the ministry in charge of communication technologies",structures publiques and other structures running a public service,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite
+TUN,Interconnection platform (Tunisia),Tunisia,other,,Presidency of the Government,,2026-10-14-tun-alchourouk-interoperability-platform-presidency
 TZA,"e-Government Act, Cap. 273 (Act No. 10 of 2019)",e-Government Act,law,,Parliament; administered by the e-Government Authority,all public institutions,2019-09-19-e-government-act-cap273
 UGA,national databank,national databank,other,,NITA-U,,2009-07-31-nita-u-act
 ZAF,MzansiXchange,MzansiXchange,other,X-Road,National Treasury,national government departments (pilot),2025-11-05-govt-data-exchange-estonia-xroad

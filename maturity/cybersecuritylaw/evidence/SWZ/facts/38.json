@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-swz-swazi24-maziya-national-data-policy",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Minister Savannah Maziya said Eswatini already has the Computer Crime and Cybercrime Act as legal groundwork, with its regulations at an advanced stage.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Computer Crime and Cybercrime Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Crime and Cybercrime Act",
+   "country_label": "Eswatini",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -20,13 +20,13 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 10 |
-| 3 Established | 14 |
+| 5 Leading | 3 |
+| 4 Operating | 12 |
+| 3 Established | 15 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 20 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -43,6 +43,19 @@ Vital statistics from civil registration were published two years running, the l
 
 - The 2022 report is stated to be the seventh in a series of annual CRVS reports produced since 2016, released October 2023, and the foreword says producing the annual report is a continuous process ([source, 2023-10](https://www.afro.who.int/sites/default/files/2023-10/Vital%20Statistics%20Report%202022%20%281%29.pdf)).
 - The 2025 CRVS Annual Report, covering 2025 and giving birth registration completeness of 61% and death registration of 62%, was launched at the 9th Africa CRVS Day event; the article gives no event date, so the publication date is used ([source, 2026-08-25](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/)).
+
+### Lesotho: 5 Leading
+
+Vital statistics from civil registration were published two years running, the latest in 2025.
+
+- The Bureau of Statistics Lesotho page lists vital statistics reports of births and deaths for 2020, 2021 and 2022 ([source, 2025-04](https://www.bos.gov.ls/publications.htm)).
+- The Bureau of Statistics Lesotho page lists a Vital Statistics Report 2022 and Vital Statistics (Births & Deaths) 2021 and 2020 ([source, 2025-04](https://www.bos.gov.ls/publications.htm)).
+
+### Algeria: 4 Operating
+
+Vital statistics from civil registration were published in 2024; a report two years running is not known.
+
+- The ONS demography report for 2020-2023 gives births registered (under 900,000 in 2023) and deaths (192,000 in 2023) from the communes' civil-status services, per Econostrum ([source, 2024-07-13](https://econostrum.info/algerie/demographie-natalite-esperance-de-vie/)).
 
 ### Botswana: 4 Operating
 
@@ -68,11 +81,17 @@ Vital statistics from civil registration were published in 2024; a report two ye
 
 - INEGE published edition no. 1 of Hechos Vitales Guinea Ecuatorial 2023 in October 2024, with chapters on births and deaths for 2023 ([source, 2024-10](https://inege.org/wp-content/uploads/2024/10/PUBLICACION-HECHOS-VITALES-1.pdf)).
 
-### Lesotho: 4 Operating
+### Malawi: 4 Operating
 
-Vital statistics from civil registration were published in 2024; a report two years running is not known.
+Vital statistics from civil registration were published in 2025; a report two years running is not known.
 
-- The Bureau of Statistics published the 2022 Vital Statistics Report (Statistical Report No. 04, 2024) on births, deaths, marriages and divorces registered in 2022, disseminated on the BOS website and MOHA dashboard; release date given only as 2024 (document published date used) ([source, 2024](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/lesotho-2022-vital-statistics-report.pdf)).
+- The Vital Statistics Report launched on 23 April 2025 covers birth and death registration patterns for 2015 to 2022, from the government's first national rollout of birth and death registration, per the NRB Principal Secretary ([source, 2025-04-23](https://www.nyasatimes.com/chingoma-unveils-groundbreaking-vital-statistics-and-verbal-autopsy-reports/)).
+
+### Mauritius: 4 Operating
+
+Vital statistics from civil registration were published in 2026; a report two years running is not known.
+
+- The issue reports 6,386 live births and 6,333 deaths registered in January-June 2026, extracted from the Civil Status Division's computerised system, per Statistics Mauritius ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
 
 ### Namibia: 4 Operating
 
@@ -141,6 +160,12 @@ A statistical product was published from administrative records in 2024; no vita
 The Education Statistics Annual Abstract 2022/2023 was published from administrative records in 2023; no vital statistics report is known.
 
 - The Ministry of Education's EMIS and ICT Executive Office released the Education Statistics Annual Abstract 2022/2023 (2015 E.C.), dated October 2023, covering general education from records collected by EMIS; the foreword text names the 2021/22 year, but the cover says 2022/23 ([source, 2023-10](https://moe.gov.et/storage/Books/ESAA%202022-23%20Final.pdf)).
+
+### Gambia: 3 Established
+
+The 2024 Gambia Statistical Abstract was published from administrative records in 2026; no vital statistics report is known.
+
+- The Gambia Bureau of Statistics downloads page lists The 2024 Gambia Statistical Abstract, a Transport Statistics Summary Report 2025 and International Merchandise Trade Statistics 2015 to 2025 for download ([source, 2026-10-16](https://www.gbosdata.org/downloads)).
 
 ### Kenya: 3 Established
 
@@ -243,12 +268,6 @@ No statistics from administrative records published since 2023, or work towards 
 
 Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
 
-### Algeria: No evidence
-
-Nothing held says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing held names statistics drawn from administrative records, or says there are none.
-
 ### Benin: No evidence
 
 Nothing held says whether the country draws statistics from administrative records, so no stage is set.
@@ -291,12 +310,6 @@ Nothing held says whether the country draws statistics from administrative recor
 
 Not established: Nothing held names statistics drawn from administrative records, or says there are none.
 
-### Gambia: No evidence
-
-Nothing held says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing held names statistics drawn from administrative records, or says there are none.
-
 ### Guinea: No evidence
 
 Nothing held says whether the country draws statistics from administrative records, so no stage is set.
@@ -309,19 +322,7 @@ Nothing held says whether the country draws statistics from administrative recor
 
 Not established: Nothing held names statistics drawn from administrative records, or says there are none.
 
-### Malawi: No evidence
-
-Nothing held says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing held names statistics drawn from administrative records, or says there are none.
-
 ### Mauritania: No evidence
-
-Nothing held says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing held names statistics drawn from administrative records, or says there are none.
-
-### Mauritius: No evidence
 
 Nothing held says whether the country draws statistics from administrative records, so no stage is set.
 

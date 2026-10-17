@@ -1,0 +1,7 @@
+{"slug": "2025-11-27-som-garowe-hormuud-oped-solar-data-centres", "studies": {
+"datacentres": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Hormuud Telecom data centres (11, 10 MW combined)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Hormuud Telecom", "tiers": ""}], "note": "The chairman says Hormuud operates 11 data centres supporting its digital services; the op-ed does not say any rents space, power or computing to others."}}},
+"datalocalisation": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about a rule that data must be kept in the country."}}},
+"nationaldatacentres": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Hormuud Telecom data centres (11, 10 MW combined)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Hormuud Telecom", "tiers": ""}], "note": "No statement that any Hormuud data centre is for hire, and no statement on Tier or government hosting."}}},
+"nonstatefinance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only a BECO pledge of $300 million to renewable energy, which is a pledge and not a digital business; no amount put into a digital business is stated."}}},
+"offsitebackup": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about off-site backup for government systems."}}}
+}}

@@ -1,8 +1,20 @@
 {
   "iso3": "CAF",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "provided", "standing": "in-force", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "CAF-001;CAF-003",
-     "gaps": "No regulation, decision, sanction or count under Loi n° 24.001 is held. The authority is not appointed as of 28 January 2026 (CAF-002), the ministry acting meanwhile under Article 57 (CAF-004); the text gives no commencement date, and CAF-001 (in force, 2026) is later than CAF-003 (enacted, 2024-01).",
-     "note": "Standing is in-force on the tracker's later statement, which places stage 3. Stage 4 needs a dated applied or reported fact and none is held, so the cap is not reached."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "in-force",
+      "regulations": "none",
+      "application": "",
+      "last12": "",
+      "cap": "",
+      "flags": "regulations pending",
+      "stage_sources": "CAF-001;CAF-007",
+      "gaps": "No issued regulation, decision, sanction or count under Loi n° 24.001 is held; the World Bank (CAF-007, 20 December 2024) records implementing decrees still to be drafted. The authority is not appointed as of 28 January 2026 (CAF-002), the ministry acting meanwhile under Article 57 (CAF-004). Standing differs between sources: in force on CAF-001 (28 January 2026), the newest, against transition on CAF-005 (16 September 2025) and enacted on CAF-003 and CAF-006 (2024); the text gives no commencement date.",
+      "note": "Standing is in-force on the newest statement, which places stage 3. Stage 4 needs a dated applied or reported fact and none is held, so the cap is not reached.",
+      "as_at": "2026-10-17"
+    }
   ]
 }

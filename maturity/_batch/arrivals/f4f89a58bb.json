@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-14-tun-assabah-employment-ministry-tunisie-telecom-framework",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Tunisie Telecom national data centre",
+       "country_label": "Tunisia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Tunisie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": "Tunisie Telecom's national data centre is named, but not as renting to others, and its hosting of the ministry's distance-training system is a pledge, not a delivered service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Tunisie Telecom national data centre",
+       "country_label": "Tunisia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Tunisie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": "Tunisie Telecom's national data centre is named, but not as renting to others, and its hosting of the ministry's distance-training system is a pledge, not a delivered service."
+    }
+   }
+  }
+ }
+}

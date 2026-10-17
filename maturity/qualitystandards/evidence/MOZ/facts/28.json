@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-moz-iso-innoq-member",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The ISO member page says INNOQ was established on 24 March 1993 by Law Decree 02/93 of the Council of Ministers as the central body coordinating standardization and quality at national level.",
+   "as_of": "1993-03-24",
+   "date_precision": "day",
+   "system": "Instituto Nacional de Normalização e Qualidade (INNOQ)",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

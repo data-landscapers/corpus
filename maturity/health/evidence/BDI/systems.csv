@@ -1,9 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BDI,eLMIS Medexis,eLMIS Medexis,single-function,Medexis,"Ministry of Public Health, with i+Solutions and the Embassy of the Netherlands","all public and faith-based health facilities (956 facilities, rollout complete 2025); extension to private facilities planned (June 2026)",2026-06-26-burundi-elmis-medexis-health-rollout-wearetech
 BDI,DataToCare,"DataToCare, système intégré de gestion des informations de laboratoire (LIS)",single-function,DataToCare (Desktop and Web),"Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie médicale, with UNDP support and Global Fund C19RM financing","nine pilot laboratory sites deployed 18-29 May 2026 (national reference laboratory at INSP, CHUK Kamenge, Hôpital Militaire de Kamenge, ANSS, Kinama health centre, Ngozi and Gitega regional hospitals, Muyinga hospital, Kigutu); 10 instruments connected, 64 planned nationwide",2026-05-29-pnud-digitalisation-laboratoires-datatocare
-BDI,DHIS2,DHIS2,,DHIS2,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
-BDI,SIDAInfo,SIDAInfo,,,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
-BDI,OpenClinic,OpenClinic,,OpenClinic,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
 BDI,DHIS2,DHIS2,hmis,DHIS2,,"national, down to district level; rural clinics on paper with aggregates entered at district (stated as likely)",2026-03-31 Africa we have a data problem
 BDI,OpenClinic GA,OpenClinic GA,emr,OpenClinic GA,,"piloted in 11 hospitals, mostly district level",2026-03-31 Africa we have a data problem
 BDI,Entrepôt national de données paludisme,entrepôt national de données paludisme (projet Malariya Pi),single-function,,"Ministry of Public Health (PNILP, with the SNIS directorate and the health-sector IT directorate), built by Bluesquare with Enabel; financed by the Gates Foundation and Belgium",national; under construction as of March 2026,2026-03-31-bluesquare-structurer-utilisation-donnees-lutte-paludisme-burundi
@@ -11,7 +8,6 @@ BDI,Malariya Pi / HealthPulse AI,application Malariya Pi/Health Pulse,single-fun
 BDI,Health Pulse,outil Health Pulse (projet Malariya Pi),single-function,"HealthPulse (Audere), mobile","Ministry of Public Health and AIDS Control through PNILP, with Enabel's Malariya Pi project",pilot in Cibitoke and Kirundo provinces (October 2024); facility tiers not stated,2024-10-15-enabel-amelioration-diagnostic-paludisme-burundi-outil-pilote-ia
 BDI,DHIS2,"DHIS2, plateforme nationale du système national d'information sanitaire",hmis,DHIS2,MSPLS (Direction du Système National d'Information Sanitaire),"all provinces; health centres (CDS), hospitals, health districts and provinces; also holds community and routine surveillance data",2023-03-01-burundi-digital-health-assessment
 BDI,OpenClinic,"Open Clinic, système de gestion des données hospitalières et des centres de santé",emr,OpenClinic,Enabel / MSPLS-PROGISSA,"39 of the 41 computerised hospitals (of 71), almost all provinces; six pilot health centres",2023-03-01-burundi-digital-health-assessment
-BDI,Quick Soft,"Quick Soft, système de gestion des données hospitalières",,Quick Soft (Soft Center),Soft Center / MSPLS-PROGISSA,two hospitals: Mpanda (Bubanza) and Kibumbu (Mwaro),2023-03-01-burundi-digital-health-assessment
 BDI,Open RBF,Open RBF,single-function,OpenRBF,World Bank / MSPLS,all provinces; performance-based financing and free-care data,2023-03-01-burundi-digital-health-assessment
 BDI,GMAO,"GMAO, gestion de la maintenance assistée par ordinateur",single-function,,Enabel / MSPLS-DISE,"districts of Kirundo, Muramvya, Bujumbura and Rumonge, extension under way since 2022",2023-03-01-burundi-digital-health-assessment
 BDI,SIDA Info,SIDA INFO,tracker,,PNLS / USAID projects,almost all health facilities; medical record of people living with HIV,2023-03-01-burundi-digital-health-assessment
@@ -31,12 +27,6 @@ BDI,Heroda,Heroda,emr,Heroda,MSPLS (DSNIS) action-research project,three health 
 BDI,OpenRBF,OpenRBF,single-function,"OpenRBF, locally modified",MSPLS (CTN),results-based financing data; tiers not stated,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,GMAO,"GMAO, gestion de la maintenance assistée par ordinateur",single-function,,MSPLS (DISE),two provinces,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,Labware,Laboratory Information System (LIS) Labware,single-function,LabWare,"MSPLS, World Bank financing (EAC regional project)","a number of reference laboratories; interfaced with the hospital system only at CHUK, abandoned by some hospitals",2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
-BDI,SPT,Stratégie Plaintes Traitements (SPT) informatisée,,,MSPLS,health centres; clinical decision support,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
-BDI,Ikirezi,modules Ikirezi,,,,computerised hospitals; diagnostic and therapeutic decision support,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
-BDI,DHIS2,DHIS2,,DHIS2,,,2026-08-04-insbu-actualites-et-evenements
-BDI,DHIS2,entrepôt de données DHIS2,,DHIS2,,implemented on a very large scale; tiers not stated,2023-05-10-pddsp-plan-directeur-digitalisation-services-publics-2023-2033
-BDI,DHIS2,DHIS2,,DHIS2,"MSPLS, under the PNDIS",said with Open Clinic to connect all hospitals and health centres,2020-01-01-burundi-digital-economy-assessment
-BDI,Open Clinic,Open Clinic,,OpenClinic,"MSPLS, under the PNDIS",said with DHIS2 to connect all hospitals and health centres,2020-01-01-burundi-digital-economy-assessment
 BDI,DHIS2,DHIS 2,hmis,DHIS2,"Ministry of Public Health (MSPLS), under the PNDIS",all public and faith-based hospitals and health centres; all health regions and districts,2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Open Clinic,"Open Clinic, integrated hospital MIS",emr,OpenClinic,"Ministry of Public Health (MSPLS), with Enabel and EU support","23 hospitals (15 public, 8 private); 14 more planned by June 2022",2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,SIDAinfo,SIDAinfo,emr,,Burundi Government (Ministry of Public Health signatory); improvements funded by the U.S. Government,"460 facilities by 2026 and 572 by 2028, as commitments; tiers not stated",2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
@@ -48,15 +38,9 @@ BDI,Sage,,single-function,Sage,Burundi Government,warehouse management; not stat
 BDI,SNIS (DHIS2),Système National d'Information Sanitaire (SNIS),hmis,DHIS2,,not stated; data reviewed at health-district meetings,2025-07-01-bdi-rapport-annuel-2024
 BDI,MEDEXIS,MEDEXIS,single-function,MEDEXIS,,"drug tracing from CAMEBU down to the health district; 359 ministry staff trained at central level and in 11 districts of 3 provincial health offices, enabling use in 172 health facilities (2024)",2025-07-01-bdi-rapport-annuel-2024
 BDI,e-Surv Compagnon,e-Surv Compagnon,single-function,,,routine polio surveillance; 183 surveillance focal points and district team members trained (2024),2025-07-01-bdi-rapport-annuel-2024
-BDI,EIOS,,,EIOS,,35 central-level staff certified (2024),2025-07-01-bdi-rapport-annuel-2024
 BDI,GLASS,,single-function,GLASS,WHO (global platform),antimicrobial resistance surveillance data reported by WHO,2025-07-01-bdi-rapport-annuel-2024
-BDI,ODK Collect,,,ODK,,28 supervisions of vaccine-preventable-disease surveillance (2024),2025-07-01-bdi-rapport-annuel-2024
-BDI,Kobocollect,,,KoboCollect,,infection prevention and control assessments in 46 mpox treatment facilities (2024),2025-07-01-bdi-rapport-annuel-2024
-BDI,Observatoire National de Santé (ONS),Observatoire National de Santé,,,,not stated,2025-07-01-bdi-rapport-annuel-2024
 BDI,"DHIS2 (plateforme nationale, SNIS)",Système National d'Information Sanitaire (SNIS),hmis,DHIS2,"Ministry of Public Health, Direction du SNIS (DSNIS)","health centres (CDS), district, regional and national hospitals, public, faith-based, associative and private; community (GASC) reports keyed at the health centre",2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,Open Clinic,Open Clinic,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,Open carenet,Open carenet,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,Quick soft center,Quick soft center,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,SIDA Info,SIDA Info,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,Open RBF,Open RBF,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
-BDI,GMAO,Gestion de maintenance assistée par ordinateur (GMAO),,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,SIDAinfo,SIDAinfo Electronic Medical Records systems,emr,,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,Ibipimo,Ibipimo lab management system,single-function,,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,eLMIS,eLMIS pharmacy management system,single-function,,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
+BDI,DHIS2 Tracker,DHIS2 Tracker surveillance and outbreak response data system,tracker,DHIS2,,,2026-02-06-state-bdi-afghs-data-systems-2026-record

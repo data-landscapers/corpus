@@ -1,0 +1,4 @@
+{"slug": "2025-07-28-caf-ecomatin-moov-20-milliards-4g-bangui", "studies": {
+"digitaldivides": {"countries": {"CAF": {"facts": [], "systems": [{"system": "Moov Africa 4G+ roll-out", "country_label": "operator commercial roll-out, Bangui first", "class": "other", "platform": "4G+", "owner": "Moov Africa Centrafrique", "tiers": ""}], "note": "Operator's commercial roll-out with no government programme or rural and urban split."}}},
+"internetusage": {"countries": {"CAF": {"facts": [], "systems": [{"system": "ITU ICT Development Index internet coverage index", "country_label": "14 per cent at end 2024, a coverage index, with 1.8 million internet users counted by the regulator", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}], "note": "The 14 per cent is given as a coverage index and the 1.8 million is a user count; neither is stated as a share of the population using the internet."}}}
+}}

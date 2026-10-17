@@ -1,0 +1,39 @@
+{
+ "slug": "2026-02-06-state-bdi-afghs-data-systems-2026-record",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIDAinfo",
+   "country_label": "SIDAinfo Electronic Medical Records systems",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ibipimo",
+   "country_label": "Ibipimo lab management system",
+   "class": "single-function",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "eLMIS",
+   "country_label": "eLMIS pharmacy management system",
+   "class": "single-function",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2 Tracker",
+   "country_label": "DHIS2 Tracker surveillance and outbreak response data system",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The MOU states only planned US funding for named systems, subject to availability of funds; it states no tiers, deployment, ownership or rollout delivered."
+}

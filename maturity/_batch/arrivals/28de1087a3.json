@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-30-burundi-brb-815000-cybertheft-poland-trail",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Incident was reported to police and judicial authorities; no national cyber body or strategy is stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No law, bill, arrest or charge under a cyber law is stated; no suspect identified."
+    }
+   }
+  }
+ }
+}

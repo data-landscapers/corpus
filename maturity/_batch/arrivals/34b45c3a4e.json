@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-16-cmr-orange-business-data-center-tiers-iii",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Orange Business Cameroun's own page describes its data centre, open since May 2017 with 340 racks in two white rooms, as 'Tiers III+', claiming 99.82% availability; no certification is named.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Data center Orange Tiers III+",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data center Orange Tiers III+",
+       "country_label": "Cameroon",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Orange Cameroun",
+       "tiers": "Tiers III+ (operator claim)"
+      }
+     ],
+     "note": "Page does not say in terms that space is rented to other organisations; no cloud region stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a data centre, not a national ID system."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Page does not state the owner's nationality or any state hosting."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "2025-04-25-zmb-zambiamonitor-cabinet-approves-repeal-data-protection-act",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No authority is named or described."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Cabinet spokesperson Cornelius Mweetwa described the Data Protection Act No. 3 of 2021 as the existing law that established a foundation for protecting personal data.",
+       "as_of": "2025-04-24",
+       "date_precision": "day",
+       "system": "Data Protection Act No. 3 of 2021",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "Cabinet approved in principle, at its 8th meeting, introducing a Bill in Parliament to repeal the 2021 Act and cover non-personal, industrial and public data, per Mweetwa.",
+       "as_of": "2025-04-24",
+       "date_precision": "day",
+       "system": "Bill repealing Data Protection Act No. 3 of 2021",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act No. 3 of 2021",
+       "country_label": "Zambia",
+       "class": "general",
+       "platform": "",
+       "owner": "Government of Zambia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

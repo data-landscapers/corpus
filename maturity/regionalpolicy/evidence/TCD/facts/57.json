@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-dari-infos-cloture-fgi-afrique-centrale-ndjamena",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Chad hosted the closing of the 2026 Central Africa Internet Governance Forum in N'Djamena on 15 October 2026, where the Declaration of N'Djamena was adopted with ARTAC regulators taking part, per the Secretary of State for Telecommunications.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "FGI-AC / Declaration of N'Djamena",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Forum sur la Gouvernance de l'Internet-Afrique Centrale (FGI-AC)",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

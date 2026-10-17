@@ -1,0 +1,25 @@
+{
+ "slug": "2025-06-12-tcd-mpntic-missions-attributions-psdnp",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The ministry's remit page says it implements the plan stratégique de développement du numérique et des postes (PSDNP) 2020-2030.",
+       "as_of": "2025-06-12",
+       "date_precision": "day",
+       "system": "PSDNP 2020-2030",
+       "class": "ministry-plan"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

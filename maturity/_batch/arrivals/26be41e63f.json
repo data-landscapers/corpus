@@ -1,0 +1,11 @@
+{"slug": "2024-11-28-cmr-minddevel-projet-loi-2063-etat-civil-nipu", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The notice reports a civil-registration bill passed by the Assembly and says nothing of an authentication service."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The notice names no link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A bill on digitising civil registration passed the Assembly, but no digital register is stated as procured, piloted or in service."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The bill introduces a unique personal ID number, but the notice does not say it is given at birth."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No public register is stated as keyed on the ID number."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A unique personal ID number is introduced by a bill only; no system, biometrics or certification stated."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The notice says the bill centres on digitising registration but states nothing of local offices entering events digitally."}}}
+}}

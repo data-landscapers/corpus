@@ -1,0 +1,45 @@
+{
+ "slug": "2024-09-16-ssd-radiotamazuj-qa-census-before-elections-ting",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding.",
+       "as_of": "2024-09-16",
+       "date_precision": "day",
+       "system": "South Sudan population census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The NBS chair told Radio Tamazuj that the statistics bill was passed in July 2024; assent and promulgation are not stated.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "South Sudan statistics bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

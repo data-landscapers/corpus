@@ -1,9 +1,9 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-COD,RDC-PASS,RDC-PASS,,,Ministry of Digital Economy,"national; first operational phase September 2026, 50 enrolment agents trained",2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
-COD,Guichet numérique,Guichet numérique,,,Government,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
-COD,RDCpass,RDCpass,,,Government of DRC,"national; platform online 2026-06-13, citizen registration to follow agent certification",2026-06-13-rdc-pass-plateforme-identite-numerique-nationale
-COD,Autorité nationale de certification électronique,Autorité nationale de certification électronique,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
-COD,RDCPass,RDCPass,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,RDC-PASS,RDC-PASS,other,,Ministry of Digital Economy,"national; first operational phase September 2026, 50 enrolment agents trained",2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,Guichet numérique,Guichet numérique,other,,Government,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
+COD,RDCpass,RDCpass,other,,Government of DRC,"national; platform online 2026-06-13, citizen registration to follow agent certification",2026-06-13-rdc-pass-plateforme-identite-numerique-nationale
+COD,Autorité nationale de certification électronique,Autorité nationale de certification électronique,other,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,RDCPass,RDCPass,other,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
 COD,Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026,Arrêté 004/2026,law,,Ministry of Digital Economy,,2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques
 COD,Arrêté interministériel n°015/2026 et n°096/2026 du 20 juillet 2026,Arrêté interministériel 015/2026,law,,Ministry of Digital Economy,,2026-07-20-drc-arrete-interministeriel-015-taux-droits-taxes-redevances-numerique
 COD,Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026,Arrêté 004/2026,law,,Ministry of Digital Economy,,2026-03-11-rdc-arrete-004-2026-autorisations-services-numeriques

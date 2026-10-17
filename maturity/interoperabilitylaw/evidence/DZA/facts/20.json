@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Executive Decree 23-316 of 6 September 2023 obliges public bodies to connect their IT systems to the automated NIN generation system, per the Interior Minister.",
+   "as_of": "2023-09-06",
+   "date_precision": "day",
+   "system": "Executive Decree 23-316",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "duty",
+   "value": "required",
+   "fact": "The Interior Minister says public bodies are required under Executive Decree 23-316 to connect their IT systems to the automated NIN generation system.",
+   "as_of": "2023-09-06",
+   "date_precision": "day",
+   "system": "Executive Decree 23-316",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification National (NIN) system",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

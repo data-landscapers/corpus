@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "5",
-   "standing": "constituted",
-   "rulings": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-003;MLI-008;MLI-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "5",
+      "standing": "constituted",
+      "rulings": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-003;MLI-008;MLI-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

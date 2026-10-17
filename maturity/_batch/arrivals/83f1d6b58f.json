@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-13-dji-lanation-anc-culturecyber-campaign",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "An awareness campaign by the ANC; no creation, incident, designation or figures stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection appears only as a campaign theme; no law stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police station records."
+    }
+   }
+  }
+ }
+}

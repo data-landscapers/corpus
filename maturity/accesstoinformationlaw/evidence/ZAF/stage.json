@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-003;ZAF-010;ZAF-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-003;ZAF-010;ZAF-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

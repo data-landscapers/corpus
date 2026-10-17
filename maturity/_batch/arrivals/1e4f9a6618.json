@@ -1,0 +1,151 @@
+{
+ "slug": "2026-10-15-dari-infos-cloture-fgi-afrique-centrale-ndjamena",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated priority to harmonise AI laws; no draft or rule."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated priority to harmonise AI laws; no draft or rule."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated priority to harmonise data protection laws; no law or draft stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated priority to harmonise data protection laws; no law or draft stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Forum theme on sovereignty; no policy, rule, hosting or contract stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Forum theme on sovereignty; no policy, rule, hosting or contract stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Exchange points named only as a priority for regional fibre interconnection; none stated in service."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Exchange points named only as a priority for regional fibre interconnection; none stated in service."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No price or share stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No price or share stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "A regional forum with no named digital law or policy put to outside participants."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A regional forum with no named digital law or policy put to outside participants."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre interconnection between states is a priority drawn up, with no agreement, works or link stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre interconnection between states is a priority drawn up, with no agreement, works or link stated."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Harmonisation of AI and data protection laws is a stated priority only; no text signed or ratified."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Harmonisation of AI and data protection laws is a stated priority only; no text signed or ratified."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention of support for its national forum, a priority not delivered."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Chad hosted the closing of the 2026 Central Africa Internet Governance Forum in N'Djamena on 15 October 2026, where the Declaration of N'Djamena was adopted with ARTAC regulators taking part, per the Secretary of State for Telecommunications.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "FGI-AC / Declaration of N'Djamena",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Forum sur la Gouvernance de l'Internet-Afrique Centrale (FGI-AC)",
+       "country_label": "Tchad",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

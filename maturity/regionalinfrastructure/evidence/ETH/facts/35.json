@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": "PAPSS is a payment settlement system, held by the cross-border payments row."
+}

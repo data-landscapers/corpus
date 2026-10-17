@@ -1,0 +1,61 @@
+{
+ "slug": "2025-01-25-tgo-commerce-concertation-commerce-electronique",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection is named only as a sector concern."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The ministry's secretary general says the specific e-commerce framework 'demeure limité'; no law or draft is named."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Ministry of Commerce held a two-phase national stakeholder workshop on strengthening the e-commerce regulatory framework, in Kara on 21 January 2025 and Lomé on 24 January 2025, with businesses, consumer associations, regulators and financial service operators taking part.",
+       "as_of": "2025-01-24",
+       "date_precision": "day",
+       "system": "national consultation on e-commerce regulatory framework",
+       "class": "consultation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National stakeholder consultation on e-commerce regulatory framework",
+       "country_label": "Togo",
+       "class": "consultation",
+       "platform": "",
+       "owner": "Ministry of Commerce, Crafts and Local Consumption",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

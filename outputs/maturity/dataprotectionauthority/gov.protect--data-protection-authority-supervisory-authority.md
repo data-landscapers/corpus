@@ -1,6 +1,6 @@
 # Data protection authority: supervisory authority
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -24,9 +24,9 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | 4 Operating | 8 |
 | 3 Established | 22 |
 | 2 Nascent | 11 |
-| 1 Absent | 4 |
+| 1 Absent | 5 |
 | Unplaced | 3 |
-| No evidence | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -35,7 +35,7 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 Benin has an authority with a sitting president in 2026, and it published figures for its work in 2025.
 
 - The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued ([source, 2025](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite)).
-- Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
+- La Nation reports the APDP held open days at Kandi on 6-7 October 2026, presided by the prefect of Alibori, presenting its missions ([source, 2026-10-06](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-les-populations-de-kandi-sensibilisees-aux-bonnes-pratiques)).
 
 ### Mali: 5 Leading
 
@@ -65,7 +65,7 @@ Senegal has an authority, created in 2008. It has ruled against organisations, i
 South Africa has an authority that has fined and ruled against organisations since 2023, and it published complaint figures for 2024/25.
 
 - The Information Regulator reports that in 2024/25 it received 1355 POPIA complaints, up 30 percent on the year before, and that 745 of them were resolved ([source, 2025-03-31](https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf)).
-- Mail & Guardian reports the Information Regulator, through a named spokesperson, said it would engage Gauteng's e-Government department over the e-Panic Button breach, could issue an information notice under POPIA, and had recently done a POPIA compliance assessment of that department, so the body is in operation ([source, 2026-09-30](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/)).
+- The Information Regulator, through its spokesperson, confirmed it had received no section 22 security compromise notification from the Gauteng Department of e-Government and said it would assess the matter on receipt and engage the department if none came ([source, 2026-10-01](https://www.itweb.co.za/article/e-panic-button-security-flaw-sparks-legislature-probe/mYZRXv9gbV4MOgA8)).
 
 ### Angola: 4 Operating
 
@@ -104,7 +104,7 @@ Kenya has had an authority since 2020 and it has fined businesses; its only publ
 
 - The update states Kenya's data protection authority had over 110 decisions in 2025 and began 2026 with a firm stance against violations ([source, 2025](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
-- TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
+- Kenya's Office of the Data Protection Commissioner, headed by Data Commissioner Immaculate Kassait, hosted a Sri Lankan authority delegation for a three-day study visit covering compliance, complaints, investigations and enforcement ([source, 2026-10-14](https://techreviewafrica.com/news/7696/x)).
 
 ### Nigeria: 4 Operating
 
@@ -120,7 +120,7 @@ Tanzania has an authority that is working in 2026 and ruled against organisation
 
 - FB Attorneys reports the Commission's ruling of 19 August 2025 in Complaint No. PDPC/CMP/002/2025 against an Instagram business-page respondent (not named in the article): TZS 20 million damages to the complainant, a TZS 5 million fine payable to the Commission, and deletion of a newborn's photos within 14 days ([source, 2025-08-19](https://fbattorneys.co.tz/instagram-photo-triggers-payment-of-fine/)).
 - The Personal Data Protection Commission ruled in Abdul Said Naumanga v. Mi Casa Company Limited, ex parte, awarding TZS 20,000,000 and ordering deletion of the complainant's personal data; the decision date is not given, so the document's published date of 2025-08-03 is used ([source, 2025-08-03](https://www.rive.co.tz/landmark-ruling-first-pdpc-monetary-award-signals-new-era-for-personal-data-in-tanzania/)).
-- PDPC Director General Dr Emmanuel Mkilia announced the move to on-site inspections in Dodoma on 28 August 2026, after preliminary desk assessments ([source, 2026-08-28](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710)).
+- The PDPC is acting: it ran the eighth phase of its DPO training programme in Morogoro on 7-8 October 2026 for more than 300 participants ([source, 2026-10-07](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html)).
 
 ### Uganda: 4 Operating
 
@@ -139,10 +139,10 @@ Algeria has a working authority with a named president in 2026; it has issued de
 
 ### Burkina Faso: 3 Established
 
-Burkina Faso has an authority, active in 2025; no ruling against an organisation is known, and no figures it publishes are known.
+Burkina Faso has an authority, active in 2026; no ruling against an organisation is known, and no figures it publishes are known.
 
+- The CIL (Commission de l'Informatique et des Libertés) publishes a form for applications to authorise a transfer of personal data to a foreign country ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
 - Techhive Advisory reports that the heads of the data protection authorities of 61 countries, including Burkina Faso, signed the Global Privacy Assembly enforcement working group's joint statement on AI-generated imagery on 23 February 2026 ([source, 2026-02-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
-- The president of Burkina Faso's Commission de l'Informatique et des Libertes (CIL), Dr Halguieta Nassa/Trawina, hosted and signed the operational roadmap of the AES data protection authorities' coordination framework with Mali's APDP and Niger's HAPDP on 18 November 2025 ([source, 2025-11-18](https://www.digitalbusiness.africa/cybersecurite-les-pays-de-laes-signent-une-feuille-de-route-sur-la-protection-des-donnees/)).
 
 ### Cape Verde: 3 Established
 
@@ -186,16 +186,16 @@ Ethiopia has an authority, the Communications Authority, in 2025. No ruling agai
 
 ### Gambia: 3 Established
 
-The Gambia's 2025 law created a data protection commission, which was acting by 2026, but no ruling or published figure is known.
+The Gambia's 2025 law names the Information Commission as its data protection authority, which was acting by 2026; no ruling or published figure is known.
 
 - The notice, published 2026-08-17 (no other date given), says the Information Commission of The Gambia is to develop a communication strategy raising awareness of both the Access to Information Act, 2021 and the Personal Data Protection and Privacy Act, 2025, so the Commission acts for the Act ([source, 2026-08-17](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia)).
 
 ### Ghana: 3 Established
 
-Ghana has a working data protection authority, and in 2026 it reported rises in activity, but no ruling against an organisation is known.
+Ghana's data protection commission was running registrations and enforcement checks in October 2026, but no ruling against a named organisation is known.
 
-- The Communications Minister said on 7 September 2026 that the Data Protection Commission's regulatory activity rose 51.5 per cent and newly registered data controllers 98.4 per cent in the first half of 2026, showing the existing body is doing the job ([source, 2026-09-07](https://www.myjoyonline.com/data-protection-commission-records-sharp-rise-in-regulatory-activity-sam-george/)).
-- The Commission is acting under Act 843 with Executive Director Dr Arnold Kavaarpuo, and received two pickup vehicles bought from its internally generated funds on 2026-08-20; it operates only from its head office ([source, 2026-08-20](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/)).
+- Ghana's Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, said it registered 2,575 data controllers in 2026 and is adding spot checks, inspections and complaint investigations under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
+- Graphic Online reports the Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, ran a field enforcement exercise in Accra on 12 October 2026 under the Data Protection Act, 2012 (Act 843) ([source, 2026-10-12](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)).
 
 ### Madagascar: 3 Established
 
@@ -230,6 +230,7 @@ Morocco has an authority, the CNDP, active in 2026; no ruling against an organis
 Rwanda's cyber security authority is its named data protection supervisor in 2026; no ruling against an organisation is known.
 
 - The article states that the National Cyber Security Authority (NCSA) acts as the supervisory authority for personal data protection and privacy under the Data Protection Act, as Rwanda observed Data Privacy Week on 26-30 January 2026 ([source, 2026-01-26](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors)).
+- The East African Community says Rwanda is among five of its eight Partner States that had established dedicated data protection authorities ([source, 2024-12-24](https://tanzaniatimes.net/south-sudan-fails-to-endorse-national-data-protection-law/)).
 
 ### Sao Tome and Principe: 3 Established
 
@@ -256,15 +257,15 @@ Somalia has an authority, inaugurated in 2024. No ruling against an organisation
 
 Togo has an authority, active since 2024; no ruling against an organisation is known, and no figures it publishes are known.
 
+- The IPDCP, with its president Colonel Bédiani Belei, hosted a delegation of Benin's APDP led by its president Dr Luciano Hounkponou in Lomé on 2-3 October 2026 for a working session on experience-sharing and skills, under a cooperation agreement between the two authorities ([source, 2026-10-03](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)).
 - The IPDCP is acting: it ran the first CPD certification session in Atakpamé on 30 September 2026 ([source, 2026-09-30](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/)).
-- Togo First reports that Togo's IPDCP signed a cooperation agreement with Mali's APDP on 23 September 2026 covering information exchange, complaints handling, compliance checks and staff training, and that it trained its first 32 data protection correspondents in June 2026 ([source, 2026-09-23](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)).
 
 ### Tunisia: 3 Established
 
 Tunisia has an authority, appointed in 2021, but a 2026 report says it is at a standstill; no ruling or figures are known.
 
+- The playbook says organic law 2004-63 sets the data protection regime including INPDP formalities, and its governance diagram shows the Instance Nationale de Protection des Donnees Personnelles as the body for control and regulatory compliance ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - Government decree no. 2021-230 of 16 April 2021 appoints twelve named members (two MPs, two judges, ministry representatives, a human rights committee member and an ICT expert) to the national personal data protection authority for three years ([source, 2021-04-16](https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D8%AF%D8%AF-230-%D9%84%D8%B3%D9%86%D8%A9-2021-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2021-%D9%8A%D8%AA%D8%B9/)).
-- Government decree no. 2020-312 of 15 May 2020 records that the Instance nationale de protection des données à caractère personnel gave its opinion on the decree, puts the citizen-ID register under its control, lets any person lodge an objection with it, requires bodies to facilitate its inspections, and seats it on the register's oversight council ([source, 2020-05-15](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-312-du-15-mai-2020-fixant-le-contenu-et-les-specifications-techniques-de-lidentifiant-unique-du-citoyen-et-les-regles-regissant-la-tenue-et-la-gestion-de-son-regi/)).
 
 ### Zambia: 3 Established
 
@@ -277,8 +278,8 @@ Zambia has an authority, in post in 2026; no ruling against an organisation and 
 
 Zimbabwe has an authority, acting in 2026; no ruling against an organisation and no published figures are known.
 
+- POTRAZ, the telecoms regulator, is the regulator the parliamentary committee took data protection concerns to and it trains data protection officers, per a panellist at a MAZ-IMS dialogue ([source, 2026-10-15](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 - POTRAZ states it is the designated Data Protection Authority under section 5 of the Act and is acting as such, having trained data protection officers and engaged organisations for over two years ([source, 2026-08-17](https://postonsunday.co.zw/2026/08/17/potraz-sets-september-deadline-for-data-protection-compliance)).
-- Veritas states that section 5 of the Cyber and Data Protection Act designates POTRAZ as the data protection authority responsible for administering and enforcing the Act, and says it is not concerned with how the Act is currently being administered, which shows POTRAZ acting in the role (as_of is the document's published date) ([source, 2026-08-06](https://www.newsday.co.zw/opinion-analysis/article/200059066/the-cyber-and-data-protection-act-implications-for-journalists-human-rights-defenders-ngos-and-others-part-1)).
 
 ### Burundi: 2 Nascent
 
@@ -289,16 +290,17 @@ Burundi's 2026 law creates an authority, but no appointment, ruling or published
 
 ### Cameroon: 2 Nascent
 
-Cameroon's 2024 law creates a data protection authority, but no appointment, ruling against an organisation or published figures are known.
+Cameroon's 2024 law creates a data protection authority, yet to be set up in 2025; no ruling or published figures are known.
 
 - The law defines the Autorité as an independent public body in charge of data protection and gives it supervision, notification and enforcement functions; the document states no appointment of its head or members ([source, 2024-12-23](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web)).
+- The authors say the Act provides for a supervisory authority, the Personal Data Protection Authority, and that it is yet to be established ([source, 2024-12-23](https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/)).
 
 ### Central African Republic: 2 Nascent
 
 The Central African Republic had no authority appointed in January 2026; no ruling against an organisation and no published figures are known.
 
 - Data Protection Africa (ALT Advisory) states the data protection authority has not yet been appointed, as of 28 January 2026 ([source, 2026-01-28](https://dataprotection.africa/central-african-republic)).
-- Article 57 gives the ministry in charge of the digital economy twelve months from promulgation to set up the data protection agency, and meanwhile vests the agency's missions in that ministry; the text names no composition, seat or financing ([source, 2024-01](https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf)).
+- Jurist Laurent-Fabrice Zengue writes that Loi 24.001 gives the data protection agency its missions and powers but does not organise it, with an interim arrangement for the agency's non-operation ([source, 2025-09-16](https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html)).
 
 ### Comoros: 2 Nascent
 
@@ -369,6 +371,12 @@ Guinea-Bissau has no data protection authority as of 2026, so it has made no rul
 - The same speaker said Guinea-Bissau has no dedicated national data protection authority, these matters being handled by several institutions sector by sector ([source, 2026-09-22](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)).
 - The Data Protection Africa factsheet headlines that Guinea-Bissau has no data protection law and that its data protection authority is not appointed; it gives no date for the finding beyond its published date, 2022-05-25, used here ([source, 2022-05-25](https://dataprotection.africa/guinea-bissau/)).
 
+### Libya: 1 Absent
+
+SMEX said in July 2026 that Libya has no functioning data protection authority; no ruling or published figure is known.
+
+- SMEX says Libya currently has no functioning data protection authority ([source, 2026-07-22](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
+
 ### Mozambique: 1 Absent
 
 Mozambique has no data protection authority yet; none has ruled against an organisation or published figures, as of 2025.
@@ -381,7 +389,7 @@ Mozambique has no data protection authority yet; none has ruled against an organ
 South Sudan has no data protection authority as of 2026, so it has made no rulings and published no figures.
 
 - Digital Rights Frontlines states South Sudan currently lacks a fully operational, independent Data Protection Authority, and that the government intends to introduce a Data Protection Bill; no date given for the statement, so the document's published date is used ([source, 2026-02-04](https://www.digitalrights.ngo/post/an-independent-data-protection-act-a-critical-part-to-south-sudan-s-digital-future)).
-- The factsheet states no data protection authority has been appointed and the country has no law establishing one, as of 24 May 2022 (published date used) ([source, 2022-05-24](https://dataprotection.africa/south-sudan/)).
+- The East African Community says South Sudan is yet to form a data protection authority ([source, 2024-12-24](https://tanzaniatimes.net/south-sudan-fails-to-endorse-national-data-protection-law/)).
 
 ### Namibia: Unplaced
 
@@ -400,9 +408,3 @@ Not established: No law held names an authority, and no source dated in the last
 A 2022 factsheet says Sudan has no data protection authority; nothing more recent is known, so no stage is set.
 
 Not established: No law held names an authority, and no source dated in the last three years says the country has none.
-
-### Libya: No evidence
-
-Nothing is held on whether Libya has a data protection authority, has ruled against an organisation or publishes figures.
-
-Not established: Nothing held names a data protection authority or says there is none.

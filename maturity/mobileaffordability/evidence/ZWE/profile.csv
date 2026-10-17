@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,price,cost,coverage,share:12.92,2023,ZWE-002,ZWE-001=share:50.28,
+ZWE,price,cost,coverage,price:ZWG:92.8:1,2024-04,ZWE-003,ZWE-004=price:ZWG:138:1.5;ZWE-002=share:12.92;ZWE-001=share:50.28,

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,international,standing,member,"ISO's member page lists the Seychelles Bureau of Standards as an ISO member, observing 21 technical committees and 3 policy development committees; the class of membership is not stated.",2026,year,Seychelles Bureau of Standards,adoption,2026-01-01-syc-iso-sbs-member,https://www.iso.org/member/2084.html

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gha-iecncgh-iec-membership-status",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The IEC National Committee of Ghana says Ghana holds Associate Member status in the IEC.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "IEC National Committee of Ghana",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

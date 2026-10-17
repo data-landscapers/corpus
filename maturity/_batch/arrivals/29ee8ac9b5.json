@@ -1,0 +1,16 @@
+{"slug": "2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi", "studies": {
+"civilserviceskills": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No civil-service digital-skills training stated."},
+"COD": {"facts": [], "systems": [], "note": "No civil-service digital-skills training stated."}}},
+"exchangepoints": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No exchange point mentioned."}}},
+"internationalbandwidth": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "A planned fibre interconnection with the DRC is an MoU only, not a route in service."}}},
+"internetusage": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No internet usage share stated."}}},
+"regionalinfrastructure": {"countries": {
+"BDI": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Burundi's Council of Ministers of 8 May 2024 analysed and adopted the memorandum of understanding on the DRC-Burundi fibre-optic interconnection project, described as a joint initiative, per the government communique reported by ABP.", "as_of": "2024-05-08", "date_precision": "day", "system": "DRC-Burundi fibre-optic interconnection project", "class": "shared"}], "systems": [{"system": "DRC-Burundi fibre-optic interconnection project", "country_label": "Burundi", "class": "shared", "platform": "fibre optic", "owner": "", "tiers": ""}], "note": ""},
+"COD": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The DRC-Burundi fibre-optic interconnection project, a joint initiative between the two countries, had its memorandum of understanding adopted by Burundi's Council of Ministers on 8 May 2024, per ABP.", "as_of": "2024-05-08", "date_precision": "day", "system": "DRC-Burundi fibre-optic interconnection project", "class": "shared"}], "systems": [{"system": "DRC-Burundi fibre-optic interconnection project", "country_label": "Democratic Republic of the Congo", "class": "shared", "platform": "fibre optic", "owner": "", "tiers": ""}], "note": ""}}},
+"satellitebroadband": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No satellite broadband mentioned."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-cod-iso-member-occ",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Office Congolais de Controle (OCC) as DRC's ISO member body.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "OCC",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

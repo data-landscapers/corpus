@@ -1,0 +1,11 @@
+{"slug":"2025-08-01-dji-usdos-2024-human-rights-report","studies":{
+"civilserviceskills":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Report states nothing on civil-service digital-skills training."}}},
+"internationalstandards":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Report states nothing on international IT standards."}}},
+"opendiscussion":{"countries":{"DJI":{"facts":[
+{"sub_indicator":"discussion","aspect":"penalty","value":"punished","fact":"The US State Department says authorities arrested Farhya Houssein on 25 June 2024 for online criticism of the government and a court sentenced her on 17 July 2024 to one month in prison and two years' probation.","as_of":"2024-07-17","date_precision":"day","system":"","class":"discussion"},
+{"sub_indicator":"discussion","aspect":"debate","value":"silenced","fact":"The US State Department says the government owned the only radio and television stations and the newspaper La Nation held a monopoly on authorized print media, with official media generally not criticising government policy.","as_of":"2024","date_precision":"year","system":"","class":"discussion"}
+],"systems":[],"note":""}}},
+"refugees":{"countries":{"DJI":{"facts":[
+{"sub_indicator":"displaced","aspect":"registration","value":"none","fact":"The US State Department says that during most of 2024 asylum and refugee status determinations were not considered, owing to government and UNHCR contractual and administrative impediments.","as_of":"2024","date_precision":"year","system":"","class":"displaced"}
+],"systems":[],"note":""}}}
+}}

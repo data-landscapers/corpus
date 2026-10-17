@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 10 |
-| 3 Established | 13 |
-| 2 Nascent | 16 |
+| 3 Established | 15 |
+| 2 Nascent | 15 |
 | 1 Absent | 9 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 1 |
 
 ## Countries
@@ -144,6 +144,12 @@ In 2025, 5 GB of mobile data for a month cost 4.1 per cent of average monthly in
 
 - The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Kenya cost 4.1 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
 
+### Malawi: 3 Established
+
+In 2025, a gigabyte of mobile data cost $0.38 by the regulator's figure; no income-share figure of 2 per cent or less is known.
+
+- Macra says one gigabyte of mobile data now costs $0.38, down from $27.41 in 2020 ([source, 2025-07](https://mwnation.com/data-cost-down-macra/)).
+
 ### Mauritania: 3 Established
 
 In 2025, 5 GB of mobile data for a month cost 2.94 per cent of average monthly income, on international price figures.
@@ -179,6 +185,12 @@ In 2025, 5 GB of mobile data for a month cost 4 per cent of average monthly inco
 In 2025, 5 GB of mobile data for a month cost 3.81 per cent of average monthly income, on a stated price.
 
 - Tanzania's regulator reports the average bundle tariff across operators at 2.08 shillings a megabyte, about 2,080 a gigabyte, for the quarter to September 2025 ([source, 2025-09](https://www.tcra.go.tz/uploads/text-editor/files/Communication%20statistics%20report%20for%20quarter%20one%20ending%20September%202025_1760792820.pdf)).
+
+### Uganda: 3 Established
+
+In 2026, 5 GB of mobile data for a month cost 2.77 per cent of average monthly income; none at 2 or below is known.
+
+- The Uganda Communications Commission states the current average 1GB retail price for licensed operators is UGX 2,000 with taxes and all costs met ([source, 2026-10-13](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)).
 
 ### Zambia: 3 Established
 
@@ -240,12 +252,6 @@ In 2025, 5 GB of mobile data for a month cost 8.35 per cent of average monthly i
 
 - The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Lesotho cost 8.35 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
 
-### Malawi: 2 Nascent
-
-In 2025, 5 GB of mobile data for a month cost 8.45 per cent of average monthly income, on international price figures.
-
-- The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Malawi cost 8.45 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
-
 ### Mali: 2 Nascent
 
 In 2025, 5 GB of mobile data for a month cost 9.38 per cent of average monthly income, on international price figures.
@@ -276,11 +282,11 @@ In 2025, 5 GB of mobile data for a month cost 9.46 per cent of average monthly i
 
 - The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Togo cost 9.46 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
 
-### Uganda: 2 Nascent
+### Zimbabwe: 2 Nascent
 
-In 2026, 5 GB of mobile data for a month cost 7.5 per cent of average monthly income, on a stated price.
+In 2024 a month of mobile data cost 5.87 per cent of average income, on the regulator's April tariff; later prices are not known.
 
-- The East African Communications Organisation's statistics report, published in August 2026, puts mobile data in Uganda at about USD 1.40 a gigabyte, and does not say how it is worked out ([source, 2026-08](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
+- The Herald reports that Potraz announced a mobile data tariff of ZiG 0.0928 per megabyte in April 2024, equal to ZiG 92.8 per gigabyte at 1,000 MB ([source, 2024-04](https://www.heraldonline.co.zw/debate-over-new-data-prices/)).
 
 ### Burundi: 1 Absent
 
@@ -337,12 +343,6 @@ In 2025, 5 GB of mobile data for a month cost 24.23 per cent of average monthly 
 - The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in South Sudan cost 24.23 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
 
 ### Equatorial Guinea: Unplaced
-
-No figure for what a month of mobile data costs against income is held for 2024 or later, so no stage is set.
-
-Not established: No figure for 2024 or later is held for what a month of mobile data costs against income.
-
-### Zimbabwe: Unplaced
 
 No figure for what a month of mobile data costs against income is held for 2024 or later, so no stage is set.
 

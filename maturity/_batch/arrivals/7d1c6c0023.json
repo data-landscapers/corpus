@@ -1,0 +1,272 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "DNEC says a biometric population file has been built from the civil register and more than 20 million NINA have been attributed through the CTDEC/ANSAEC, one body holding the RAVEC database.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "RAVEC",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RAVEC / NINA biometric file",
+       "country_label": "RAVEC (administered by ANSAEC)",
+       "class": "population",
+       "platform": "",
+       "owner": "ANSAEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "DNEC cites RGPH5 (2022) as the source of the 89.5% birth registration rate, so a census was counted in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "RGPH5 2022",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only archive digitisation (5 million acts, 40% of archive; 109 centres given digital archiving kits) and 89.5% birth registration (below 90%) are stated."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "DNEC says it collaborates very well with the Autorite de Protection des Donnees a caractere Personnel (APDP), an operating body.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "DNEC cites law no. 2013-015 of 21 May 2013 on personal data protection.",
+       "as_of": "2013-05-21",
+       "date_precision": "day",
+       "system": "Loi 2013-015",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "DNEC says it works with the APDP, the data protection authority.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "20 million NINA stated with no population denominator."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "DNEC says ANSAEC, the national agency, administers the RAVEC database, hosted in a technical room it fitted out to ISO 27001 norms.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "RAVEC",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RAVEC / NINA biometric file",
+       "country_label": "RAVEC (administered by ANSAEC)",
+       "class": "population",
+       "platform": "",
+       "owner": "ANSAEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DNEC says more than 20 million NINA have been attributed to Malians through the CTDEC, from a biometric file built from civil status.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "NINA",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RAVEC / NINA biometric file",
+       "country_label": "RAVEC (administered by ANSAEC)",
+       "class": "population",
+       "platform": "",
+       "owner": "ANSAEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "RAVEC",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RAVEC / NINA biometric file",
+       "country_label": "RAVEC (administered by ANSAEC)",
+       "class": "population",
+       "platform": "",
+       "owner": "ANSAEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only archive digitisation and archiving kits for 109 centres are stated, no entry at registration."
+    }
+   }
+  }
+ }
+}

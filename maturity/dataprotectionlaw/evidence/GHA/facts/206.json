@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-13-gha-gna-dpc-2575-data-controllers-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Commission is enforcing the Data Protection Act, 2012 (Act 843) through spot checks, inspections, complaint investigations and registration verification.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Executive Director Dr Arnold Kavaarpuo spoke for the Data Protection Commission at a media engagement in Accra.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission said it registered 2,575 data controllers in 2026 and undertook 3,483 training activities, with inspections and checks to follow.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

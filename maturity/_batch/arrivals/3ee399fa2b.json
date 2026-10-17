@@ -1,0 +1,14 @@
+{"slug": "2026-05-14-gmb-gambiaj-gpu-press-freedom-threats", "studies": {
+"accesstoinformationlaw": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Gambia Press Union told the African Commission that the Access to Information Act, adopted in 2021, remains unimplemented, with public bodies yet to designate information officers.", "as_of": "2021", "date_precision": "year", "system": "Access to Information Act", "class": "law"}
+], "systems": [{"system": "Access to Information Act", "country_label": "The Gambia", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": "No rules made or oversight body set up is stated; refused requests are reported without a decision."}}},
+"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document states nothing on AI models, datasets or computing."}}},
+"cybersecurity": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document names no national cyber body, strategy, incident response or figures."}}},
+"cybersecuritylaw": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Gambia Press Union cited the Cybercrime Bill 2023 as pending legislation with broad surveillance powers, heavy fines and prison terms.", "as_of": "2026-05-14", "date_precision": "day", "system": "Cybercrime Bill 2023", "class": "law"}
+], "systems": [], "note": ""}}},
+"opendiscussion": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Gambia Press Union, in a statement to the African Commission's 87th session in Banjul, criticised the Cybercrime Bill 2023, the Communications Bill 2025 and the Criminal Offences Act 2025 as threats to media freedom.", "as_of": "2026-05-14", "date_precision": "day", "system": "", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed", "fact": "The Gambia Press Union said criminal defamation and false publication online had previously been struck down by the Supreme Court, giving no date.", "as_of": "2026-05-14", "date_precision": "day", "system": "", "class": "discussion"}
+], "systems": [], "note": "Arrests cited (May 2025 protest, March 2026 court incident) are not stated to be for what was said."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-dji-iso-member-adn",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO states ADN was created and put into operation in 2022 by Decree No. 2022-092/PR/MCT as the national standards body, developing and monitoring standards.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ADN",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

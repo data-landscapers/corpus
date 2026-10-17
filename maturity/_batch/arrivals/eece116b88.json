@@ -1,0 +1,55 @@
+{
+ "slug": "2026-10-12-ben-lanation-apdp-journees-portes-ouvertes-kandi",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "La Nation reports the APDP held open days at Kandi on 6-7 October 2026, presided by the prefect of Alibori, presenting its missions.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": "No ruling or figures stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "La Nation reports the APDP held open days at Kandi on 6-7 October 2026 presenting its missions.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The APDP ran awareness sessions at Kandi on 6-7 October 2026 on data protection rights and obligations, with no decision reported.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-10-16-techcabal-onafriq-shuts-nigeria-agent-banking", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Article covers an agent banking closure; nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "CBN is cited only for an inflation figure; no payments mandate, licensing or switch role stated."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No consumer-protection rules, complaints body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Onafriq's cross-border network is mentioned only generally; no Nigerian corridor, regional system or volume stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey of adult account ownership stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Baxi", "country_label": "Nigeria", "class": "other", "platform": "agent banking network", "owner": "Onafriq", "tiers": ""}], "note": "Agent banking and A2A transfer growth only; no mobile money or e-money service, interoperability or national switch stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

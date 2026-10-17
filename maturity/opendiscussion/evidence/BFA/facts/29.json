@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-06-bfa-hrw-junta-escalates-attack-on-information",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Human Rights Watch says Burkina Faso's media regulator ordered the suspension of broadcaster TV5Monde on 5 May 2026, accusing it of 'disinformation' and 'apology of terrorism' over its reporting on armed groups.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "Burkina Faso media regulator",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -8,10 +8,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002",
+      "stage_sources": "MRT-003;MRT-002",
       "gaps": "No source held names a decree, regulation or order made under the law.",
       "note": "Counted from the four questions by study-ladder-ecommercelaw.py.",
-      "as_at": "2026-10-13"
+      "as_at": "2026-10-17"
     }
   ]
 }

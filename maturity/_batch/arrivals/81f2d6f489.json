@@ -1,0 +1,142 @@
+{
+ "slug": "2025-10-06-mli-impactalpha-catalyst-fund-oko",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OKO Finance parametric crop insurance",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "OKO Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "OKO uses satellite data for parametric insurance, a private insurtech with no government part stated."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government or state body role for Mali on this question."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "ImpactAlpha reports Catalyst Fund has invested $200,000 in Bamako-based insurtech OKO Finance, $150,000 of it for business model expansion.",
+       "as_of": "2025-10-06",
+       "date_precision": "day",
+       "system": "OKO Finance",
+       "class": "private"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OKO Finance",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "OKO Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

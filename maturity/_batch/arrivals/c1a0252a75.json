@@ -1,0 +1,122 @@
+{
+ "slug": "2024-10-08-eth-insa-e-invoice-system",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Electronic Invoice Management System",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "",
+       "owner": "INSA for the Ministry of Revenues",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Electronic Invoice Management System",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "",
+       "owner": "INSA for the Ministry of Revenues",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+    }
+   }
+  }
+ }
+}

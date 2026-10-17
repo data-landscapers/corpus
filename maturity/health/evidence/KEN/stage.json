@@ -26,10 +26,11 @@
       "clinics": "not-published",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "KEN-004;KEN-011;KEN-026",
-      "gaps": "The record is not shown to be shared: KEN-003 gives point-of-care capture and retrieval across facilities as the intended arrangement, not as practice. KEN-002's 6,427 of 6,427 counts public Level 2 to 4 facilities that completed a transition from the claims portal, Level 4 hospitals included, private and faith-based clinics outside the denominator, and does not say clinicians enter patient records, so no share of primary clinics is taken from it. KEN-001, 002, 003, 005 and 006 carry the document's date of 2026-10-02, two days after the as-at; KEN-004 (2026-09-30) reports the same migration. Level 5 stands at 4 of 27 and both Level 6 hospitals are incomplete, so T1 is not set (KEN-037 is one hospital). Finance: KEN-014 (US funds, US$175m) and KEN-015 (government to pay running costs) disagree, and no budget line is named. KEN-008 is from the excluded source and sets nothing.",
+      "stage_sources": "KEN-001;KEN-003;KEN-026",
+      "gaps": "The record is not shown to be shared: KEN-003 gives point-of-care capture and retrieval across facilities as the intended arrangement, not as practice. KEN-002's 6,427 of 6,427 counts public Level 2 to 4 facilities that completed a transition from the claims portal, Level 4 hospitals included, private and faith-based clinics outside the denominator, and does not say clinicians enter patient records, so no share of primary clinics is taken from it; KEN-045's 165 facilities are one county's, tiers not stated, and KEN-011's 1,500 has no denominator. KEN-044 (Murang'a County's access to its Afya.KE system withdrawn, 2026-10-14) is one county's arrangement and does not make the country regress. Level 5 stands at 4 of 27 and both Level 6 hospitals are incomplete, so T1 is not set (KEN-037 is one hospital). Finance: KEN-014 (US funds, US$175m) and KEN-015 (government to pay running costs) disagree, and no budget line is named. KEN-008 is from the excluded source and sets nothing.",
       "note": "Public primary facilities nationwide are reported on a government hospital management system with clinical modules, and point-of-care entry is established only for 16 private clinics. Stage 4 needs the value shared and more than half of primary clinics entering records, and neither is established.",
-      "parent": "Parent, 2026-10-07: three source rows dated after the as-at removed; the stager held the stage is 3 without them."
+      "parent": "Parent, 2026-10-07: three source rows dated after the as-at removed; the stager held the stage is 3 without them.",
+      "as_at": "2026-10-17"
     }
   ]
 }

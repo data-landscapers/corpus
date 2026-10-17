@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-28-ssd-amdiss-facebook-tiktok-ban-lifted",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions voter registration exercises only as a future monitoring topic; states nothing on a register."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "AMDISS, a South Sudanese media body, publicly criticised the Facebook and TikTok blockage as restraining press freedom and public discourse.",
+       "as_of": "2025-01-28",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "AMDISS says Facebook and TikTok were blocked in South Sudan and urges the National Communication Authority to expedite lifting the ban.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

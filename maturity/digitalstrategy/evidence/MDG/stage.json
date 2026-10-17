@@ -10,12 +10,13 @@
       "period": "to:2028",
       "plan": "costed",
       "reporting": "",
-      "last12": "",
+      "last12": "advancing",
       "cap": "",
-      "flags": "",
-      "stage_sources": "MDG-003;MDG-004",
-      "gaps": "No source uses adopted, approved, enacted or gazetted for the Plan Strategique Numerique 2023-2028, and no row holds its text as public; no reporting against it. A separate national digital roadmap (announced, from the Digital Readiness Assessment) is only prospective. Stage 3 needs a source's word of adoption and a public text.",
-      "note": "Staged on the Plan Strategique Numerique 2023-2028. Only formalised, presented or delivered by the ministry, so standing is announced and the cell is stage 2."
+      "flags": "advancing",
+      "stage_sources": "MDG-003;MDG-032",
+      "gaps": "No source uses adopted, approved, enacted or gazetted for the Plan Strategique Numerique 2023-2028, and no row holds its text as public; no reporting against it. A separate national digital roadmap (announced, from the Digital Readiness Assessment) is only prospective. The cost figure is the ministry's 2023-2024 estimate; later sources state none. Stage 3 needs a source's word of adoption and a public text.",
+      "note": "Staged on the Plan Strategique Numerique 2023-2028. Only formalised, presented or delivered by the ministry, so standing is announced and the cell is stage 2; the December 2025 handover of the readiness assessment is an advancing event.",
+      "as_at": "2026-10-17"
     }
   ]
 }

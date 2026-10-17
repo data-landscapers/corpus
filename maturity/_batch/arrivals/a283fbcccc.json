@@ -1,0 +1,41 @@
+{
+ "slug": "2024-01-01-swz-mof-ifmis-quality-assurance-tor",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "IFMIS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "IFMIS implementation began 2 May 2024 and is not yet in use; a terms of reference."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The in-house IFMIS is under implementation, not live; nothing else on staff."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "the document states nothing the study asks for this country"
+    }
+   }
+  }
+ }
+}

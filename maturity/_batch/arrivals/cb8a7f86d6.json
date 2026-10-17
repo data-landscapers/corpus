@@ -1,0 +1,14 @@
+{"slug": "2026-01-01-gha-onix-infrastructure-solar-farm-power-water", "studies": {
+"datacentrepower": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Onix Data Centres says its Accra facility, with Module 1 fully operational, takes its power from its own 2,200-panel solar farm (640 kW peak) by day and the grid at night, with 3 x 456 kW generators as backup.", "as_of": "2026", "date_precision": "year", "system": "Onix Data Centre, Accra", "class": "datacentre"}
+], "systems": [{"system": "Onix Data Centre", "country_label": "Onix data centre, Accra", "class": "datacentre", "platform": "", "owner": "Onix Data Centres", "tiers": "Tier IV (claimed, Uptime Institute)"}], "note": "No PUE and no water use figure stated; groundwater by reverse osmosis is a source, not a published usage figure."}}},
+"datacentres": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Onix Data Centres says its Accra facility, with Module 1 fully operational, offers hot desks, office rental, cross connects and a meet-me room to business customers.", "as_of": "2026", "date_precision": "year", "system": "Onix Data Centre, Accra", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute.", "as_of": "2026", "date_precision": "year", "system": "Onix Data Centre, Accra", "class": "datacentre"}
+], "systems": [{"system": "Onix Data Centre", "country_label": "Onix data centre, Accra", "class": "datacentre", "platform": "", "owner": "Onix Data Centres", "tiers": "Tier IV (claimed, Uptime Institute)"}], "note": "Only one facility named; cross connects to AWS and Azure are not a cloud region."}}},
+"exchangepoints": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document mentions cross connects to internet exchanges generally, but states no exchange point in Ghana."}}},
+"gridreliability": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No outage frequency stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document is not about national ID."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document is not about government IT staff."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not state who owns Onix."}}}
+}}

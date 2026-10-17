@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-15-as-cbn-begins-data-migration-local-hosting",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CBN circular of 15 June 2026 requires payments transaction data generated in Nigeria to be stored and managed in Nigeria, with full compliance due 1 January 2027, per CBN's Payments Systems Supervision Department.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN circular of June 15, 2026",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The CBN's Payments Systems Supervision Department says CBN will begin enforcement and review compliance with the circular from 1 January 2027.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "CBN circular of June 15, 2026",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

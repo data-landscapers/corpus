@@ -1,7 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ERI,Voter register,Voter register,land,,Electoral Commission (established in the draft proclamation),,2026-06-08-eritrean-electoral-law-constitutionnet
 ERI,Network systems for population registers,population registers,identity,,,urban areas; not rural facilities,2026-03-31 Africa we have a data problem
-ERI,DHIS2,DHIS2,,DHIS2,,342 health facilities (2018); stated not to be used for civil registration,2026-03-31 Africa we have a data problem
 ERI,National ID Card,National ID Card,identity,,,,2026-01-01-world-bank-id4d-global-dataset-2025
 ERI,Public Registration office / Office of Civil Status,"Public Registration office; Office of Civil Status, Municipality of Asmara",civil,,municipalities,Asmara and any other municipality office in which the event was registered,2025-11-01-us-state-dept-eritrea-civil-documents-national-id
 ERI,Eritrean ID card,Eritrean ID card,identity,,Department of Immigration and Nationality,,2025-11-01-us-state-dept-eritrea-civil-documents-national-id
@@ -20,4 +19,3 @@ ERI,zoba electronic population register,electronic population register (zoba); d
 ERI,kebabi family register,handwritten family register (kebabi),civil,paper,Kebabi administrations,"Every kebabi (approximately 2,000); births, marriages and deaths recorded by hand, then passed to the sub-zoba by transfer letter",2023-11-02-eri-eritrea-administrative-structure-and-civil-documents
 ERI,civil registry of the municipality of Asmara,civil registry office in Asmara,certificate,,Municipality of Asmara,"Issues birth, marriage, divorce and death certificates for zoba Maekel and, on application, for citizens of other zobas",2023-11-02-eri-eritrea-administrative-structure-and-civil-documents
 ERI,residence card reference number (ASC number),ASC-number; social security number,identity,,,Reference number on residence cards pointing to the individual's or family's record in the zoba's electronic population register,2023-11-02-eri-eritrea-administrative-structure-and-civil-documents
-ERI,church and sharia court records,handwritten church records; sharia court certificates,,paper,Catholic and Orthodox churches; sharia courts,Baptismal and marriage certificates used as breeder documents for registration at kebabi and sub-zoba,2023-11-02-eri-eritrea-administrative-structure-and-civil-documents

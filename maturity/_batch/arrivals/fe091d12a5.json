@@ -1,0 +1,200 @@
+{
+ "slug": "2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "independent",
+       "fact": "Orange Liberia's chairman, who is also CEO of the Cable Consortium of Liberia, said its fibre link to Cote d'Ivoire let Liberia keep 100% of its international internet traffic during a four-day ACE cable outage, the link connecting to six other undersea cables via Cote d'Ivoire.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "ACE cable and Orange Liberia fibre link to Cote d'Ivoire",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Liberia Monrovia-Lugato fibre link",
+       "country_label": "Liberia",
+       "class": "route",
+       "platform": "fibre",
+       "owner": "Orange Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "Orange Liberia says its newly built Monrovia-to-Lugato fibre link connects Liberia to six other undersea cables via Cote d'Ivoire, and its chairman says it carried all of Liberia's international traffic during the ACE outage.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Orange Liberia Monrovia-Lugato fibre link",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Liberia's CEO says Orange Money has surpassed one million monthly active users.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Orange Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  }
+ }
+}

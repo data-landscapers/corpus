@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "5",
-   "standing": "constituted",
-   "rulings": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-003;BEN-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "5",
+      "standing": "constituted",
+      "rulings": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-003;BEN-020",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

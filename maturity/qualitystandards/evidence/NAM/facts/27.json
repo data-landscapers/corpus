@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-nam-iso-nsi-member",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the NSI is established by section 2 of the Standards Act, 2005 as Namibia's national standards body.",
+   "as_of": "2005",
+   "date_precision": "year",
+   "system": "NSI",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

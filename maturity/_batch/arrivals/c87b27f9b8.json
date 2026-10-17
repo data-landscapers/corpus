@@ -1,0 +1,83 @@
+{
+ "slug": "2026-10-16-gmb-gbos-downloads",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Gambia Bureau of Statistics downloads page lists The 2024 Gambia Statistical Abstract, a Transport Statistics Summary Report 2025 and International Merchandise Trade Statistics 2015 to 2025 for download.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "The 2024 Gambia Statistical Abstract",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "The 2024 Gambia Statistical Abstract",
+       "country_label": "The 2024 Gambia Statistical Abstract",
+       "class": "admin",
+       "platform": "gbosdata.org",
+       "owner": "Gambia Bureau of Statistics",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "survey",
+       "value": "published",
+       "fact": "The Gambia Bureau of Statistics lists the Gambia Labour Force Survey GLFS 2026 (Q1), alongside the 2019/20 DHS, MICS6 and IHS 2020, with reports and microdata for download.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "GLFS 2026 (Q1)",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": "Only an economic census is listed; no population census stated."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment share or youth unemployment figure stated."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "The Gambia Bureau of Statistics publishes GDP, CPI, PPI, trade and survey reports with microdata for download at gbosdata.org/downloads; no licence is stated.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "GBoS downloads (gbosdata.org/downloads)",
+       "class": "open"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

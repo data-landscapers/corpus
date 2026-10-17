@@ -1,0 +1,7 @@
+{"slug": "2025-11-11-bdi-dba-strategie-gouvernance-donnees-validee", "studies": {
+"datagovernance": {"countries": {"BDI": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Digital Business Africa reports Burundi's National Data Governance Strategy (SNGD) was officially validated on 7 November 2025 at a ceremony chaired by the Ministry of Finance and Digital Economy, with no government adoption or launch stated.", "as_of": "2025-11-07", "date_precision": "day", "system": "Stratégie nationale de Gouvernance des Données (SNGD)", "class": "policy"}], "systems": [{"system": "Stratégie nationale de Gouvernance des Données (SNGD)", "country_label": "Burundi", "class": "policy", "platform": "", "owner": "Ministry of Finance and Digital Economy", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The authority is only listed as a planned component of the strategy; no law naming it or appointment is stated."}}},
+"dataprotectionlaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No data protection law, bill or regulation is stated."}}},
+"dataprotectionreadiness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No law in force, ratification or appointed authority is stated."}}},
+"regionallaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The Malabo Convention is cited as a norm the strategy respects; no signature or ratification is stated."}}}
+}}
