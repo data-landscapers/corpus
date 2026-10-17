@@ -111,6 +111,8 @@ EXCEPTIONS: dict[tuple[str, str], str] = {
 # hole in the check.
 COMPUTED = {
     ("rebuild.py", "r"): "vault_lib.INDEX_ROOTS, asserted below to be within the set",
+    ("study-arrivals.py", "?"): "a reading-list row's `raw/` path, from raw_path(): evidence, within the set",
+    ("study-arrivals.py", "cand"): "raw_path()'s `raw/{year}/{slug}.md`: evidence, within the set",
 }
 
 # Read straight out of the source: importing vault_lib to learn this would pull the whole
